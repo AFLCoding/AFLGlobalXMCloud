@@ -3,14 +3,18 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34607.119
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project", "src\platform\Project.csproj", "{816F099C-E14B-4468-9E34-87F993C6484D}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Files", "Solution Files", "{196B5D43-B228-4632-9BC3-EAAF79B4EDA5}"
 	ProjectSection(SolutionItems) = preProject
 		nuget.config = nuget.config
 		README.md = README.md
 		sitecore.json = sitecore.json
 	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Project", "Project", "{F3A1B791-B546-4A1F-82B0-6CCF904FEF6C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "AFLGlobal", "AFLGlobal", "{D1A93F8E-74EE-4190-B43C-24948C5D35EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AFLGlobal.Project.Platform", "src\Project\AFLGlobal\AFLGlobal.Project.Platform.csproj", "{816F099C-E14B-4468-9E34-87F993C6484D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -25,6 +29,10 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{D1A93F8E-74EE-4190-B43C-24948C5D35EE} = {F3A1B791-B546-4A1F-82B0-6CCF904FEF6C}
+		{816F099C-E14B-4468-9E34-87F993C6484D} = {D1A93F8E-74EE-4190-B43C-24948C5D35EE}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {7A7C4987-3A11-41A9-8915-5457EF7B5A6F}
