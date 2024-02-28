@@ -13,7 +13,8 @@ export const sendEmail = async (to: string, subject: string, text: string) => {
 export default async (req: NextApiRequest, res: NextApiResponse) => {
   try {
     console.log(JSON.stringify(req.body));
-    await sendEmail('pawan.tyagi@altudo.co', 'Test Email', 'This is a test email from Next.js!');
+    const name  = req.body.DataItem.Name;
+    await sendEmail('pawan.tyagi@altudo.co', 'Test Email', 'This is a test email from Next.js!' + name);
     res.status(200).json({ message: 'Email sent successfully' });
   } catch (error) {
     console.error(error);
