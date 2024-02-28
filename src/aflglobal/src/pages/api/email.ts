@@ -15,6 +15,8 @@ export default async (req: NextApiRequest, res: NextApiResponse) => {
     console.log(JSON.stringify(req.body));
     await sendEmail('pawan.tyagi@altudo.co', 'Test Email', 'This is a test email from Next.js!');
     res.status(200).json({ message: 'Email sent successfully' });
+    res.status(200).json({ req});
+    res.status(200).json({ res});
   } catch (error) {
     console.error(error);
     res.status(500).json({ message: 'Internal Server Error' });
