@@ -17,10 +17,10 @@ export interface SalesforceCredentials {
     username: string;
     password: string;
     securityToken: string;
-  }
+}
 export async function getOAuth2Token(credentials: SalesforceCredentials): Promise<string> {
     // Implementation...
-  }
+}
 
 const SalesforceData = () => {
     const [salesforceData, setSalesforceData] = useState<any[]>([]); // Adjust the type according to the structure of your Salesforce data
