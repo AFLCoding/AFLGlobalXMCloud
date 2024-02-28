@@ -1,0 +1,77 @@
+.formControl {
+  margin-bottom: 1.5rem;
+
+  input,
+  textarea,
+  select {
+    min-height: 5.6rem;
+
+
+    border-radius: 0;
+    padding: 1.6rem;
+    margin-top: 0.8rem;
+
+    &.closed {
+      background-image: url('/cheveron-down.svg');
+    }
+
+    &.opened {
+      background-image: url('/cheveron-up.svg');
+    }
+  }
+
+  input[type='checkbox'] {
+    min-height: unset;
+
+    border-radius: 0;
+    padding: unset;
+    margin-top: 0.2rem;
+  }
+
+  label {
+    user-select: none !important;
+    margin-right: 0.6rem;
+  }
+
+  &.is-invalid {
+    background-image: none !important;
+  }
+}
+
+.formControl.is-invalid {
+  background-image: none !important;
+}
+
+.required {
+  label:after {
+    content: '*';
+  }
+}
+
+.errorMessage {
+
+  display: inline-block;
+
+
+  height: 1.5rem;
+}
+
+.selectOption {
+  span {
+    padding: 1rem !important;
+    height: 6rem !important;
+  }
+
+  color: red !important;
+  height: 2rem;
+
+  &:hover {
+    background-color: unset;
+    font-weight: bold;
+  }
+
+  &:active {
+
+    color: red !important;
+  }
+}

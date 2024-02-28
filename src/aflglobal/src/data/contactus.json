@@ -1,0 +1,330 @@
+{
+  "rendering": {
+    "uid": "372833c3-351c-4d74-968f-a5affba8e127",
+    "componentName": "ContactUsForm",
+    "dataSource": "/sitecore/content/JeldWen/JeldWenCanada/Home/Contact Us/Data/ContactUsForm",
+    "params": {
+      "GridParameters": "col-12",
+      "FieldNames": "Default",
+      "CacheClearingBehavior": "Clear on publish",
+      "DynamicPlaceholderId": "5"
+    },
+    "fields": {
+      "ConfirmationCTAText": {
+        "value": "Okay"
+      },
+      "ConfirmationTitle": {
+        "value": "Thank You"
+      },
+      "ConfirmationDescription": {
+        "value": "We will reach You soon!"
+      },
+      "Province": {
+        "value": "Provience"
+      },
+      "ProvinceOptions": [
+        {
+          "id": "1217e27b-620f-45b8-8b04-f529608b0185",
+          "url": "/en-CA/Data/Provience-Data/Alberta",
+          "name": "Alberta",
+          "displayName": "Alberta",
+          "fields": {
+            "Code": {
+              "value": "AB"
+            },
+            "Title": {
+              "value": "Alberta"
+            }
+          }
+        },
+        {
+          "id": "0acd21d4-dfbb-4aaf-85a3-ac58466d7376",
+          "url": "/en-CA/Data/Provience-Data/British-Columbia",
+          "name": "British Columbia",
+          "displayName": "British Columbia",
+          "fields": {
+            "Code": {
+              "value": "BC"
+            },
+            "Title": {
+              "value": "British Columbia"
+            }
+          }
+        },
+        {
+          "id": "3f56d802-726c-496d-afee-5d492a86212e",
+          "url": "/en-CA/Data/Provience-Data/Manitoba",
+          "name": "Manitoba",
+          "displayName": "Manitoba",
+          "fields": {
+            "Code": {
+              "value": "MB"
+            },
+            "Title": {
+              "value": "Manitoba"
+            }
+          }
+        },
+        {
+          "id": "55794cba-c69d-4bf3-a2dc-ebbcbd6082ba",
+          "url": "/en-CA/Data/Provience-Data/New-Brunswick",
+          "name": "New Brunswick",
+          "displayName": "New Brunswick",
+          "fields": {
+            "Code": {
+              "value": "NB"
+            },
+            "Title": {
+              "value": "New Brunswick"
+            }
+          }
+        },
+        {
+          "id": "f548b0ee-10a0-41a3-b9a5-9dac027013c7",
+          "url": "/en-CA/Data/Provience-Data/Newfoundland-and-Labrador",
+          "name": "Newfoundland and Labrador",
+          "displayName": "Newfoundland and Labrador",
+          "fields": {
+            "Code": {
+              "value": "NL"
+            },
+            "Title": {
+              "value": "Newfoundland and Labrador"
+            }
+          }
+        },
+        {
+          "id": "e6b27abe-97f7-4b11-a629-b43ff4a112d4",
+          "url": "/en-CA/Data/Provience-Data/Northwest-Territories",
+          "name": "Northwest Territories",
+          "displayName": "Northwest Territories",
+          "fields": {
+            "Code": {
+              "value": ""
+            },
+            "Title": {
+              "value": "Northwest Territories"
+            }
+          }
+        },
+        {
+          "id": "ba2fff03-f278-400d-8280-31ad68a826e5",
+          "url": "/en-CA/Data/Provience-Data/Nova-Scotia",
+          "name": "Nova Scotia",
+          "displayName": "Nova Scotia",
+          "fields": {
+            "Code": {
+              "value": "NS"
+            },
+            "Title": {
+              "value": "Nova Scotia"
+            }
+          }
+        },
+        {
+          "id": "21a1232d-0f4e-4368-85f4-e9c61620ec31",
+          "url": "/en-CA/Data/Provience-Data/Nunavut",
+          "name": "Nunavut",
+          "displayName": "Nunavut",
+          "fields": {
+            "Code": {
+              "value": "NU"
+            },
+            "Title": {
+              "value": "Nunavut"
+            }
+          }
+        },
+        {
+          "id": "c32eaae4-58ca-4139-b512-f0876a52a538",
+          "url": "/en-CA/Data/Provience-Data/Ontario",
+          "name": "Ontario",
+          "displayName": "Ontario",
+          "fields": {
+            "Code": {
+              "value": "ON"
+            },
+            "Title": {
+              "value": "Ontario"
+            }
+          }
+        },
+        {
+          "id": "d3016dd9-f874-49bc-a922-19b4f8929377",
+          "url": "/en-CA/Data/Provience-Data/Prince-Edward-Island",
+          "name": "Prince Edward Island",
+          "displayName": "Prince Edward Island",
+          "fields": {
+            "Code": {
+              "value": "PE"
+            },
+            "Title": {
+              "value": "Prince Edward Island"
+            }
+          }
+        },
+        {
+          "id": "c6ec78cc-1cf7-42dd-bc82-156c61e8ea76",
+          "url": "/en-CA/Data/Provience-Data/Quebec",
+          "name": "Quebec",
+          "displayName": "Quebec",
+          "fields": {
+            "Code": {
+              "value": "QC"
+            },
+            "Title": {
+              "value": "Quebec"
+            }
+          }
+        },
+        {
+          "id": "84a5e98e-4cf6-443a-a135-910e03542e9d",
+          "url": "/en-CA/Data/Provience-Data/Saskatchewan",
+          "name": "Saskatchewan",
+          "displayName": "Saskatchewan",
+          "fields": {
+            "Code": {
+              "value": "SK"
+            },
+            "Title": {
+              "value": "Saskatchewan"
+            }
+          }
+        },
+        {
+          "id": "e0383a4b-bce0-4e2f-8691-755272a084f1",
+          "url": "/en-CA/Data/Provience-Data/Yukon",
+          "name": "Yukon",
+          "displayName": "Yukon",
+          "fields": {
+            "Code": {
+              "value": "YT"
+            },
+            "Title": {
+              "value": "Yukon"
+            }
+          }
+        }
+      ],
+      "Iama": {
+        "value": "I am a"
+      },
+      "Description": {
+        "value": "Fill in your details below, and a JELD-WEN representative will be in touch."
+      },
+      "CTAText": {
+        "value": ""
+      },
+      "IamaOptions": [
+        {
+          "id": "c550335c-5b1e-4cbe-8520-6f0a6351e5bd",
+          "url": "/en-CA/Data/MoreInfoForm/MoreInfoForm/Homeowner",
+          "name": "Homeowner",
+          "displayName": "Homeowner",
+          "fields": {
+            "Title": {
+              "value": "Homeowner"
+            }
+          }
+        },
+        {
+          "id": "9a6c0641-357d-43f7-aab8-31eeea8458dc",
+          "url": "/en-CA/Data/MoreInfoForm/MoreInfoForm/Designer-Distributor",
+          "name": "Designer Distributor",
+          "displayName": "Designer Distributor",
+          "fields": {
+            "Title": {
+              "value": "Designer/Distributor"
+            }
+          }
+        },
+        {
+          "id": "0a426fba-9d21-4e31-a5df-c7b7db9f077c",
+          "url": "/en-CA/Data/MoreInfoForm/MoreInfoForm/Design-Professional",
+          "name": "Design Professional",
+          "displayName": "Design Professional",
+          "fields": {
+            "Title": {
+              "value": "Design Professional"
+            }
+          }
+        },
+        {
+          "id": "09eaa689-0b4a-435d-b18e-45866a3c35c0",
+          "url": "/en-CA/Data/MoreInfoForm/MoreInfoForm/Building-Professional",
+          "name": "Building Professional",
+          "displayName": "Building Professional",
+          "fields": {
+            "Title": {
+              "value": "Building Professional"
+            }
+          }
+        }
+      ],
+      "FirstName": {
+        "value": "First Name"
+      },
+      "LastName": {
+        "value": "Last Name"
+      },
+      "EmailAddress": {
+        "value": "Email Address"
+      },
+      "PhoneNumber": {
+        "value": "Phone Number (Optional)"
+      },
+      "Address": {
+        "value": "Address"
+      },
+      "AddressLine2": {
+        "value": "Address Line 2"
+      },
+      "City": {
+        "value": "City"
+      },
+      "PostalCode": {
+        "value": "Postal Code"
+      },
+      "Company": {
+        "value": "Company (Optional)"
+      },
+      "ProjectDetails": {
+        "value": "Project Details"
+      },
+      "AgreementStatement": {
+        "value": "By submitting this form, you agree to receive electronic communications from JELD-WEN regarding promotions and updates. You can unsubscribe at any time."
+      },
+      "CTAButton": {
+        "value": {
+          "text": "Submit",
+          "anchor": "",
+          "linktype": "internal",
+          "class": "",
+          "title": "",
+          "target": "|Custom",
+          "querystring": "",
+          "id": "{4D577F6C-A39D-457F-9969-AAF6F0FA0310}",
+          "href": "/en-CA"
+        }
+      },
+      "Title": {
+        "value": "Have a question? We’re here to help!"
+      }
+    }
+  },
+  "fields": {
+    "FirstName": {
+      "value": "First Name"
+    },
+    "LastName": {
+      "value": "Last Name"
+    }
+  },
+  "params": {
+    "GridParameters": "col-12",
+    "FieldNames": "Default",
+    "CacheClearingBehavior": "Clear on publish",
+    "DynamicPlaceholderId": "5",
+    "styles": "col-12 "
+  }
+}
