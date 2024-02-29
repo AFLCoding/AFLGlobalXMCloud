@@ -27,9 +27,14 @@ function createHtmlContent(
   `;
 }
 
-export const sendEmail = async (to: string, subject: string, text: string) => {
+export const sendEmail = async (to: string, subject: string, htmlContent: string) => {
   sgMail.setApiKey(process.env.SENDGRID_API_KEY || '');
-  const msg = { to, from: 'gunasekaran.s@altudo.co', subject, text };
+  const msg = {
+    to,
+    from: 'gunasekaran.s@altudo.co',
+    subject,
+    html: htmlContent, // Use html instead of text
+  };
   try {
     await sgMail.send(msg);
     console.log(`Email sent to ${to}`);
@@ -37,6 +42,7 @@ export const sendEmail = async (to: string, subject: string, text: string) => {
     console.error(error);
   }
 };
+
 export default async (req: NextApiRequest, res: NextApiResponse) => {
   try {
     console.log(JSON.stringify(req.body));
