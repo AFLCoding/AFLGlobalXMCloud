@@ -49,16 +49,6 @@ export default async (req: NextApiRequest, res: NextApiResponse) => {
     const text = 'Approval required for below PDP Item';
     const mailBody = createHtmlContent(text, id, name, url, lang, version, userName);
 
-    const mailBody = createHtmlContent(
-      text,
-      id,
-      name,
-      url,
-      lang,
-      version,
-      userName
-    );
-
     await sendEmail('pawan.tyagi@altudo.co', 'Test Email', mailBody);
     res.status(200).json({ message: 'Email sent successfully' });
   } catch (error) {
