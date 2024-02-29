@@ -13,10 +13,22 @@ export const sendEmail = async (to: string, subject: string, text: string) => {
 export default async (req: NextApiRequest, res: NextApiResponse) => {
   try {
     console.log(JSON.stringify(req.body));
-    const name = req.body.DataItem.Name;
-    const aa = 'This is a test email from Next.js!';
-    const fullMessage = `${name} ${aa}`;
-    await sendEmail('pawan.tyagi@altudo.co', 'Test Email', fullMessage);
+    const id = req.body.DataItem.Id;
+    const version = req.body.DataItem.Version;
+    const userName = req.body.UserName;
+    const lang = req.body.DataItem.Language;
+    const url = `https://xmc-americafujifac2-aflglobal-dev.sitecorecloud.io/sitecore/shell/Applications/Content%20Manager/default.aspx?id=${id}&la=en&fo=${id}`;
+    const text = 'Approval required for below PDP Item';
+    const mailBody = `Hi, ${text}
+
+    Item Path: ${url}
+    Item Language: ${lang}
+    Item Version: ${version}
+    User Name: ${userName}
+    
+    Thank you!`;
+
+    await sendEmail('pawan.tyagi@altudo.co', 'Test Email', mailBody);
     res.status(200).json({ message: 'Email sent successfully' });
   } catch (error) {
     console.error(error);
