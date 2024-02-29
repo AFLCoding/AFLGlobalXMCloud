@@ -14,9 +14,9 @@ export default async (req: NextApiRequest, res: NextApiResponse) => {
   try {
     console.log(JSON.stringify(req.body));
     const id = req.body.DataItem.Id;
-    const lang = req.body.DataItem.Language;
     const version = req.body.DataItem.Version;
     const userName = req.body.UserName;
+    const lang = req.body.DataItem.Language;
     const url = `https://xmc-americafujifac2-aflglobal-dev.sitecorecloud.io/sitecore/shell/Applications/Content%20Manager/default.aspx?id=${id}&la=en&fo=${id}`;
     const text = 'Approval required for below PDP Item';
     const mailBody = `Hi, ${text}
@@ -26,8 +26,7 @@ export default async (req: NextApiRequest, res: NextApiResponse) => {
     Item Version: ${version}
     User Name: ${userName}
     
-    Thank you!
-  `;
+    Thank you!`;
 
     await sendEmail('pawan.tyagi@altudo.co', 'Test Email', mailBody);
     res.status(200).json({ message: 'Email sent successfully' });
