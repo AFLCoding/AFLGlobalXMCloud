@@ -27,8 +27,6 @@ function createHtmlContent(
   `;
 }
 
-
-
 export const sendEmail = async (to: string, subject: string, text: string) => {
   sgMail.setApiKey(process.env.SENDGRID_API_KEY || '');
   const msg = { to, from: 'gunasekaran.s@altudo.co', subject, text };
@@ -50,16 +48,7 @@ export default async (req: NextApiRequest, res: NextApiResponse) => {
     const url = `https://xmc-americafujifac2-aflglobal-dev.sitecorecloud.io/sitecore/shell/Applications/Content%20Manager/default.aspx?id=${id}&la=en&fo=${id}`;
     const text = 'Approval required for below PDP Item';
 
-
-    const mailBody = createHtmlContent(
-      text,
-      id,
-      name,
-      url,
-      lang,
-      version,
-      userName
-    );
+    const mailBody = createHtmlContent(text, id, name, url, lang, version, userName);
 
     await sendEmail('pawan.tyagi@altudo.co', 'Test Email', mailBody);
     res.status(200).json({ message: 'Email sent successfully' });
