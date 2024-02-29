@@ -14,14 +14,19 @@ export default async (req: NextApiRequest, res: NextApiResponse) => {
   try {
     console.log(JSON.stringify(req.body));
     const id = req.body.DataItem.Id;
+    const name = req.body.DataItem.Name;
     const version = req.body.DataItem.Version;
     const userName = req.body.UserName;
     const lang = req.body.DataItem.Language;
     const url = `https://xmc-americafujifac2-aflglobal-dev.sitecorecloud.io/sitecore/shell/Applications/Content%20Manager/default.aspx?id=${id}&la=en&fo=${id}`;
     const text = 'Approval required for below PDP Item';
-    const mailBody = `Hi, ${text}
+    const mailBody = `Hi,
 
-    Item Path: ${url}
+    ${text}
+
+    <b>Item ID:</b> ${id}
+    <b>Item Name:</b> ${name}
+    <b>Item URL:</b> <a href =${url}>Click here</a>
     Item Language: ${lang}
     Item Version: ${version}
     User Name: ${userName}
