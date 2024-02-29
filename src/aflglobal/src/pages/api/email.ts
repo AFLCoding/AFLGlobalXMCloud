@@ -47,7 +47,6 @@ export default async (req: NextApiRequest, res: NextApiResponse) => {
     const lang = req.body.DataItem.Language;
     const url = `https://xmc-americafujifac2-aflglobal-dev.sitecorecloud.io/sitecore/shell/Applications/Content%20Manager/default.aspx?id=${id}&la=en&fo=${id}`;
     const text = 'Approval required for below PDP Item';
-
     const mailBody = createHtmlContent(text, id, name, url, lang, version, userName);
 
     await sendEmail('pawan.tyagi@altudo.co', 'Test Email', mailBody);
