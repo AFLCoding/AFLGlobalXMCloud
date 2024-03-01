@@ -1,5 +1,7 @@
 import { NextApiRequest, NextApiResponse } from 'next';
 import sgMail from '@sendgrid/mail';
+// import { verifyBasicAuth } from 'Util';
+import { bearerAuth } from 'Util';
 
 function createHtmlContent(
   text: string,
@@ -44,6 +46,10 @@ export const sendEmail = async (to: string, subject: string, htmlContent: string
 };
 
 export default async (req: NextApiRequest, res: NextApiResponse) => {
+
+  if (!bearerAuth(req, res)) {
+    return; // Abort if not authorized
+}
   try {
     console.log(JSON.stringify(req.body));
     const id = req.body.DataItem.Id;
@@ -62,3 +68,5 @@ export default async (req: NextApiRequest, res: NextApiResponse) => {
     res.status(500).json({ message: 'Internal Server Error' });
   }
 };
+
+
