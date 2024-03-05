@@ -26,6 +26,14 @@ const nextConfig = {
     // prefixed path e.g. `/styleguide`.
     defaultLocale: jssConfig.defaultLanguage,
   },
+  // Enable React Strict Mode
+  reactStrictMode: true,
+
+  // Apply middleware to API routes
+  middleware: {
+    // Protect all API routes starting with '/api/'
+    nonPublic: '/api/*',
+  },
 
   // Enable React Strict Mode
   reactStrictMode: true,
@@ -61,3 +69,5 @@ module.exports = () => {
   // Run the base config through any configured plugins
   return Object.values(plugins).reduce((acc, plugin) => plugin(acc), nextConfig);
 };
+
+

@@ -1,13 +1,12 @@
 import sgMail, { MailDataRequired } from '@sendgrid/mail';
 import { NextApiRequest, NextApiResponse } from 'next';
-import { SENDGRID_KEY, SENDGRID_SENDER_EMAIL, templateIDs } from 'src/utils/constants';
 
+import { SENDGRID_KEY, SENDGRID_SENDER_EMAIL, templateIDs } from 'src/utils/constants';
 export default async function handler(req: NextApiRequest, res: NextApiResponse) {
     try {
         if (req.method !== 'POST') {
             return res.status(405).json({ error: 'Method not allowed, please use POST' });
         }
-
         const { to, subject, params, type, attachments } = req.body;
         const key = SENDGRID_KEY;
         const templateId = type ? templateIDs[type] : templateIDs['DEFAULT'];
@@ -24,8 +23,8 @@ export default async function handler(req: NextApiRequest, res: NextApiResponse)
             to,
             from,
             subject,
-            //templateId,
-            //dynamicTemplateData,
+            templateId,
+            dynamicTemplateData,
             attachments,
         };
 
