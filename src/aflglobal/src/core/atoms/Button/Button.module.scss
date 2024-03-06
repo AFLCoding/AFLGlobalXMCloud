@@ -1,0 +1,230 @@
+@import '@sass/abstracts/mixins';
+@import '@sass/abstracts/vars/colors';
+
+.primary {
+  a {
+    background-color: $primary-color;
+    border: 1px solid $primary-color;
+    padding: 22px 48px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: fit-content;
+    color: $text-white;
+    font-family: 'Frutiger_LT_Pro';
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: 0.56px;
+    text-transform: uppercase;
+    text-decoration: none;
+    text-decoration: none;
+    text-align: center;
+    &:hover {
+      background-color: $swoosh-blue;
+      color: $text-white;
+      border-color: $swoosh-blue;
+    }
+  }
+}
+
+.secondary {
+  a {
+    background-color: transparent;
+    border: 1px solid $primary-color;
+    padding: 22px 48px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: fit-content;
+    color: $text-main-blue;
+    font-family: 'Frutiger_LT_Pro';
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: 0.56px;
+    text-transform: uppercase;
+    text-decoration: none;
+    text-align: center;
+
+    &:hover {
+      background-color: $swoosh-blue;
+      border-color: $swoosh-blue;
+      color: $text-white;
+    }
+  }
+}
+
+.downloadButtonWithVariant {
+  a:after {
+    content: url('/download.svg');
+    margin: 0.2rem 0 -0.2rem 1rem;
+  }
+}
+
+.downloadButton {
+  position: relative;
+  a {
+    background-color: transparent;
+    border: 1px solid $primary-color;
+    padding: 22px 48px 22px 38px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: fit-content;
+    color: $text-main-blue;
+    font-family: 'Frutiger_LT_Pro';
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: 0.56px;
+    text-transform: uppercase;
+    text-decoration: none;
+    text-align: center;
+
+    &:hover {
+      background-color: $swoosh-blue;
+      color: $text-white;
+      border-color: $swoosh-blue;
+    }
+  }
+
+  svg {
+    position: absolute;
+    right: 0;
+    top: 0;
+    margin: 22px;
+  }
+}
+
+.linkButton {
+  border-top: 2px solid $jw-gold;
+  width: fit-content;
+
+  a, span {
+    color: $text-main-blue;
+    font-weight: 700;
+    line-height: 2.6rem;
+    font-size: $font-medium;
+    text-transform: capitalize;
+    cursor: pointer;
+  }
+  :hover {
+    color: $swoosh-blue;
+  }
+}
+
+@include respond-to(mobile-lg) {
+  .primary {
+    a {
+      padding: 24px 40px;
+      width: 100%;
+    }
+  }
+
+  .secondary {
+    a {
+      padding: 24px 40px;
+      width: 100%;
+    }
+  }
+}
+
+@mixin padding-x($value) {
+  padding-left: $value;
+  padding-right: $value;
+}
+
+@mixin padding-y($value) {
+  padding-top: $value;
+  padding-bottom: $value;
+}
+
+@mixin margin-y($value) {
+  margin-top: $value;
+  margin-bottom: $value;
+}
+
+.CTAButtonIcon {
+  display: flex;
+  flex-direction: row;
+  background-color: $btn-primary-bg;
+  max-height: 56px;
+  max-width: 190px;
+  width: 100%;
+  height: 100%;
+  align-items: center;
+  justify-content: center;
+  p {
+    margin: 0;
+    font-family: $primary-font;
+    font-weight: 700;
+    font-size: 14px;
+    color: white;
+    @include padding-y(19.5px);
+    @include margin-x(10px);
+  }
+
+  &:hover {
+    background-color: #6f9abb;
+    border: #6f9abb;
+  }
+}
+
+.switchStepButton {
+  padding: 2rem 3rem;
+  font-size: $font-size-sm;
+  text-transform: uppercase;
+  border-radius: 0;
+  border: 1px solid $text-main-blue;
+  color: $text-main-blue;
+  font-weight: bold;
+  &:hover {
+    border: 1px solid $text-main-blue;
+  }
+}
+.arrowIcon {
+  color: $text-main-blue;
+  height: 1.7rem;
+  margin-top: -0.4rem;
+  &.rotate180 {
+    transform: rotate(180deg);
+  }
+}
+
+.commonButton {
+  border-radius: 0;
+  font-size: $font-size-sm;
+  padding: 0 3rem;
+  height: 6.2rem;
+  border: 1px solid $primary-color;
+  text-transform: uppercase;
+  font-weight: bold;
+  span {
+    vertical-align: middle;
+  }
+  svg {
+    margin: 0 0.4rem;
+    path {
+      fill: $primary-color;
+    }
+  }
+  &.primary {
+    background-color: $primary-color;
+    color: $text-white;
+  }
+  &.outlined {
+    color: $text-main-blue;
+  }
+  &:hover {
+    background-color: $swoosh-blue !important;
+    color: $text-white !important;
+    svg path {
+      fill: $text-white;
+    }
+  }
+}
+
