@@ -1,6 +1,8 @@
 @import '@sass/abstracts/mixins';
 @import '@sass/abstracts/vars/colors';
 
+$primary-color: #000;
+
 .primary {
   a {
     background-color: $primary-color;
@@ -21,6 +23,7 @@
     text-decoration: none;
     text-decoration: none;
     text-align: center;
+
     &:hover {
       background-color: $swoosh-blue;
       color: $text-white;
@@ -66,6 +69,7 @@
 
 .downloadButton {
   position: relative;
+
   a {
     background-color: transparent;
     border: 1px solid $primary-color;
@@ -104,7 +108,8 @@
   border-top: 2px solid $jw-gold;
   width: fit-content;
 
-  a, span {
+  a,
+  span {
     color: $text-main-blue;
     font-weight: 700;
     line-height: 2.6rem;
@@ -112,6 +117,7 @@
     text-transform: capitalize;
     cursor: pointer;
   }
+
   :hover {
     color: $swoosh-blue;
   }
@@ -158,6 +164,7 @@
   height: 100%;
   align-items: center;
   justify-content: center;
+
   p {
     margin: 0;
     font-family: $primary-font;
@@ -182,14 +189,17 @@
   border: 1px solid $text-main-blue;
   color: $text-main-blue;
   font-weight: bold;
+
   &:hover {
     border: 1px solid $text-main-blue;
   }
 }
+
 .arrowIcon {
   color: $text-main-blue;
   height: 1.7rem;
   margin-top: -0.4rem;
+
   &.rotate180 {
     transform: rotate(180deg);
   }
@@ -203,28 +213,34 @@
   border: 1px solid $primary-color;
   text-transform: uppercase;
   font-weight: bold;
+
   span {
     vertical-align: middle;
   }
+
   svg {
     margin: 0 0.4rem;
+
     path {
       fill: $primary-color;
     }
   }
+
   &.primary {
     background-color: $primary-color;
     color: $text-white;
   }
+
   &.outlined {
     color: $text-main-blue;
   }
+
   &:hover {
     background-color: $swoosh-blue !important;
     color: $text-white !important;
+
     svg path {
       fill: $text-white;
     }
   }
 }
-
