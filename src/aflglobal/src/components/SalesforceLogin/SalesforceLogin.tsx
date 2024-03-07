@@ -5,8 +5,8 @@ const Login = () => {
     const [password, setPassword] = useState('');
 
     const clientId = "3MVG9FS3IyroMOh6QWrDew_u1lqVk9QVOS54GiL_hr4MZZpkKGnyMuspsRDmJpzjyDGZY.DDof3_lQooHUcBL";
-    const baseURL = "https://afl--stagefull.my.salesforce.com";
-    const redirectURL = "https://afl--stagefull.my.salesforce.com/services/apexrest/code/extraction";
+    const baseURL = "https://afl--marketing.sandbox.my.salesforce.com";
+    const redirectURL = "https://afl--marketing.sandbox.my.salesforce.com/services/apexrest/code/extraction";
 
     const startLogin = async () => {
         try {

@@ -2,7 +2,8 @@
 const SalesforceClientId = "3MVG9FS3IyroMOh6QWrDew_u1lqVk9QVOS54GiL_hr4MZZpkKGnyMuspsRDmJpzjyDGZY.DDof3_lQooHUcBL";
 const SalesforceClientSecret = "A49C6FC81F8668F49CE4B172B0789E7FBF8C627393F66B9B187277DD65E89D4C";
 //const SalesforceClientToken = "gTDBda2P0ZPTWUTllJdQS5dB";
-const SalesforceClientDomain = "https://afl--stagefull.my.salesforce.com/services/oauth2/token";
+//const SalesforceClientDomain = "https://afl--stagefull.my.salesforce.com/services/oauth2/token";
+const SalesforceClientDomain = "https://afl--marketing.sandbox.my.salesforce.com/services/oauth2/token";
 const uname = "altudo@aflglobal.com.stagefull";
 const pass = "Alt4CaseInt2022"
 
