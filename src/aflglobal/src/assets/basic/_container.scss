@@ -1,12 +1,6 @@
 @import "@sass/abstracts/mixins";
 @import "variables";
 
-body {
-  font-family: Roboto;
-  color: $main-color;
-}
-
-
 @media (min-width: 1400px) {
   .container {
     max-width: 1250px;
@@ -27,6 +21,7 @@ body {
     flex-shrink: 0;
   }
 }
+
 /**** END STYLE MAX HEIGHT ****/
 
 main {
@@ -66,7 +61,7 @@ main {
         line-height: 32px;
       }
     }
-    
+
     .main-news-header {
       padding-bottom: 35px;
 
