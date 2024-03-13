@@ -4,12 +4,12 @@
 
 $container-large: 1366px;
 $container:1126px;
-$break-mobile: 381px;
-$break-mobile-horizontal: 479px;
-$break-tablet: 768px;
-$break-tablet-horizontal: 901px;
-$break-tablet-large: 992px;
-$break-desktop: 1200px;
+$break-mobile: 380px;
+$break-mobile-large: 478px;
+$break-mobile-horizontal: 767px;
+$break-tablet: 900px;
+$break-tablet-horizontal: 991px;
+$break-tablet-large: 1199px;
 
 @mixin wrapper() {
     max-width: 960px;
@@ -51,12 +51,17 @@ $break-desktop: 1200px;
 }
 @mixin respond-to($media) {
     @if $media==mobile {
-        @media only screen and (min-width: $break-mobile) {
+        @media only screen and (max-width: $break-mobile) {
+            @content;
+        }
+    }
+    @else if $media==mobile-large {
+        @media only screen and (max-width: $break-mobile-large) {
             @content;
         }
     }
     @else if $media==mobile-horizontal {
-        @media only screen and (min-width: $break-mobile-horizontal) {
+        @media only screen and (max-width: $break-mobile-horizontal) {
             @content;
         }
     }
@@ -66,22 +71,22 @@ $break-desktop: 1200px;
         }
     }
     @else if $media==tablet-horizontal {
-        @media only screen and (min-width: $break-tablet-horizontal) {
+        @media only screen and (max-width: $break-tablet-horizontal) {
             @content;
         }
     }
     @else if $media==tablet-large {
-        @media only screen and (min-width: $break-tablet-large) {
+        @media only screen and (max-width: $break-tablet-large) {
             @content;
         }
     }
     @else if $media==all-mobile {
-        @media only screen and (max-width: $break-desktop - 1) {
+        @media only screen and (max-width: $break-tablet-large) {
             @content;
         }
     }
     @else if $media==desktop {
-        @media only screen and (min-width: $break-desktop) {
+        @media only screen and (min-width: $break-tablet-large + 1) {
             @content;
         }
     }
