@@ -2,3 +2,16 @@
 @import "bootstrap/scss/bootstrap";
 @import "sass/main.scss";
 @import "basic/main.scss";
+
+.container-large{
+    max-width: $container-large;
+}
+
+.container {
+    max-width: $container;
+}
+
+a {
+    text-decoration: none;
+    color: $text-blue;
+}
