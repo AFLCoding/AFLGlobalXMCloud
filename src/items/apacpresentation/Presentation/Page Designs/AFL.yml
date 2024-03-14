@@ -1,0 +1,23 @@
+﻿---
+ID: "7e479b49-fe84-4209-af74-70619f48e0c8"
+Parent: "e5d43da8-782a-4073-a28d-f0421cb607b1"
+Template: "9bf8aa62-1b66-4ec5-8e0a-26c0456cd3ba"
+Path: "/sitecore/content/AFL-Global/APAC/Presentation/Page Designs/AFL"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211019T133910Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6c6fa5c0-5e2d-4bc3-90cf-88ee3b8e30b7"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20211019T133910Z

@@ -1,0 +1,27 @@
+﻿---
+ID: "c926ebff-42a3-4b8f-899f-64830e35e09a"
+Parent: "cb2db8ee-2c05-4fd1-b5b9-3b1362248ee2"
+Template: "6d39afeb-15c9-4cdb-bd92-844265f8b77e"
+Path: "/sitecore/content/AFL-Global/APAC/Presentation/Component Themes"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211027T075754Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "34fba9f3-4ba9-438f-a5e3-42b7f142b536"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20211027T075754Z
