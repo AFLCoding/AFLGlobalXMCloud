@@ -1,0 +1,33 @@
+﻿---
+ID: "3f949da8-90fc-4d1b-a62d-a251c5e8b7cd"
+Parent: "cc060b93-279a-4105-bc36-9a022df89fa2"
+Template: "cc060b93-279a-4105-bc36-9a022df89fa2"
+Path: /sitecore/templates/Feature/AFL/AFL DownloadFileButton Folder/__Standard Values
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {40E2E6DB-4EAA-40C4-92C1-D42E4EDB4FE5}
+    {CC060B93-279A-4105-BC36-9A022DF89FA2}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20120621T071605Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5a4c5c2b-53ef-42cb-ae72-fa7c15355315"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\archana
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20211206T091128Z

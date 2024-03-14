@@ -1,0 +1,42 @@
+﻿---
+ID: "bf61de11-b78f-48ea-aaa4-1d17f0d83824"
+Parent: "35bc0d3a-35b0-43ae-a468-c051e1b62c67"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Feature/AFL Page Templates/High Level Page
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Network/16x16/certificate.png
+- ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
+  Hint: __Base template
+  Value: |
+    {1930BBEB-7805-471A-A3BE-4858AC7CF696}
+    {506098A9-F48F-4041-B144-E47BFB31A67A}
+    {D15DEB65-E440-45EF-A3D4-0B51625B97A4}
+    {C43374E1-6D89-4709-AC69-CD62A94E259E}
+    {556E96B5-B355-4972-9E94-84ECBFF1840D}
+    {011C02AB-49E7-41F0-8719-03034390BC25}
+    {10550108-9295-44D1-A3E9-9EA98786D2EA}
+    {E7037B42-B31A-46F2-821F-66DB5E18B889}
+    {C14B6289-8AC2-439C-9E5B-40DE9F820C3F}
+- ID: "f7d48a55-2158-4f02-9356-756654404f73"
+  Hint: __Standard values
+  Value: "{9C5667D1-8A8E-4DAA-8929-9521B61846E6}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211122T075828Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d311f087-51bb-4fb1-879e-881d13535f33"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahesh
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220224T122647Z

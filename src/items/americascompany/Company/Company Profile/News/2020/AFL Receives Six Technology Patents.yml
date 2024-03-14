@@ -1,0 +1,94 @@
+﻿---
+ID: "5f935eda-4c93-4937-8cd8-dc12a0e095e5"
+Parent: "c2f5afb1-5200-416e-8caa-997172327fea"
+Template: "f36e821e-bb98-44dc-966d-e92a0e033cc7"
+Path: "/sitecore/content/AFL-Global/APAC/Home/Company/Company Profile/News/2020/AFL Receives Six Technology Patents"
+SharedFields:
+- ID: "1fbc6a49-6281-48ee-87e9-a3970b145adb"
+  Hint: NavigationFilter
+  Value: |
+    {E0A2A027-0932-4878-A7D6-0416D5263EFB}
+    {61BD64D6-809E-40AE-9297-2724A19329B3}
+    {D063E9D1-C7B5-4B1E-B31E-69886C9C59F5}
+    {500AE4C0-FA7B-463F-8149-EFFF7F044101}
+    {A0E7FF57-6994-4B09-AA21-104239628D5A}
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{3A84BAC9-C1BD-4809-A12C-28EB44E25329}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{DAE7C21D-4D3B-4257-A95C-9104CD8AF409}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "228f9517-e120-4014-b2c7-df0ac467a349"
+      Hint: ContentTitle
+      Value: AFL Receives Six Technology Patents
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211203T114245Z
+    - ID: "3688d7df-2feb-43a4-ab8d-410e5f70a676"
+      Hint: ContentDescription
+      Value: |
+        <div>Spartanburg, SC – <a href="https://www.aflglobal.com/Home.aspx">AFL</a>, an international manufacturer of fiber optic cable, equipment and accessories, was awarded six new patents over the past quarter for technology and developments in <a href="~/link.aspx?_id=5A5DF654AF794D1EBAEEE22522AC6EB7&_z=z">connectivity</a>, <a href="~/link.aspx?_id=67697A36EE374C21A1F009672463F0E6&_z=z">test and inspection</a>, and <a href="~/link.aspx?_id=E545E2A90D414F31BDD0BA9B8ED27FD0&_z=z">fiber optic cable</a>.<br />
+        <br />
+        Three patents were received for connectivity. The first is for an invention that improves legacy assembly methods for furcation tubing assemblies in fanout kits by removing the need for adhesives. Adding color and a flared, larger insertion cone target enabled easier and faster installation of the furcation unit in the field. The second invention is for cable mount clips that snap onto panels and allow rotational freedom to relieve stress from twisted cables. The third patent was received for a fiber optic breakout assembly with inner tubes and strength filaments bonded together and connected to a housing for us in furcating optical fiber.<br />
+        <br />
+        Two patents were received in test and inspection. The Encircled Flux Compliant Test Apparatus patent is for a mode-insensitive coupler that provides a low-cost but high-precision fiber optic test interface for AFL’s <a href="~/link.aspx?_id=B307C1531CEE49B9BEDD0BD35F8B61BB&_z=z">ROGUE® OLTS/Certification test sets</a>. It can guarantee an encircled flux test light launching and mode-insensitive light power measurement. The Wireless Inspection Solution patent covers the invention allowing for the fiber inspection video stream and image analysis to be transmitted through a Wi-Fi network. While optical inspection is a key need for successful network deployments, AFL was first to market with a Wi-Fi-based inspection solution. AFL’s <a href="~/link.aspx?_id=1E352D911ADE4B188DDEBA3FD52F50F9&_z=z">FOCIS WiFi2 Fiber Optic Connector Inspection System</a> uses this technology.<br />
+        <br />
+        Finally, AFL received a patent for a reduced diameter, high fiber density, double-jacketed central tube style MicroCore® trunk cable. The product family is inclusive of both bare fiber and <a href="~/link.aspx?_id=740F36E4074A417CBAB68839104B5517&_z=z">SpiderWeb Ribbon® (SWR®)</a> up to 144 fibers, and available in both plenum and LSZH applications. <br />
+        <br />
+        For more information about AFL, its products and services, visit <a rel="noopener noreferrer" href="http://www.aflglobal.com/" target="_blank">www.AFLglobal.com</a>.<br />
+        <br />
+        Patent recipients pictured (top to bottom, left to right):<br />
+        Bin Liu, Wink Courchaine, Artur Bureacov<br />
+        Justin Quinn, Michael Houck, Shirley Ball, Joe Cignarale<br />
+        Scott Prescott, Sean Adam, Lisa Huang, Brett Villiger<br />
+        <br />
+        About AFL<br />
+        Founded in 1984, AFL is an international manufacturer providing end-to-end solutions to the energy, service provider, enterprise and industrial markets as well as several emerging markets. The company’s products are in use in over 130 countries and include fiber optic cable and hardware, transmission and substation accessories, outside plant equipment, connectivity, test and inspection equipment, fusion splicers and training. AFL also offers a wide variety of services supporting data center, enterprise, wireless and outside plant applications.<br />
+         <br />
+        Headquartered in Spartanburg, SC, AFL has operations in the U.S., Mexico, Canada, Europe, Asia and Australia, and is a wholly-owned subsidiary of Fujikura Ltd. of Japan. For more information, visit <a rel="noopener noreferrer" href="http://www.aflglobal.com/" target="_blank">www.AFLglobal.com</a>. Follow us on <a rel="noopener noreferrer" href="https://www.linkedin.com/company/afl-2" target="_blank">LinkedIn</a>, <a rel="noopener noreferrer" href="https://twitter.com/AFLglobal" target="_blank">Twitter</a>, and “like us” on <a rel="noopener noreferrer" href="https://www.facebook.com/AFLcorp" target="_blank">Facebook</a>. Review our <a rel="noopener noreferrer" href="https://www.aflglobal.com/AFL-Blog/" target="_blank">blog</a> or subscribe to our bi-monthly e-newsletter.<br />
+         <br />
+        Contact<br />
+        Corie Culp<br />
+        Public Relations Manager, AFL<br />
+        864.433.5409<br />
+        <a rel="noopener noreferrer" href="mailto:Corie.Culp@AFLglobal.com" target="_blank">Corie.Culp@AFLglobal.com</a> </div>
+    - ID: "4c3792cf-8348-4d85-9cac-3f6086716488"
+      Hint: ContentCategory
+      Value: "{F78EA78A-E127-49A5-95B6-7DE64F85F319}"
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: AFL Receives Six Technology Patents
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: The six patents were received over the past quarter for technology and developments in connectivity, test and inspection, and fiber optic cable. 
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: patent, patents, technology, fiber optic cable, connectivity, hyperscale, test, inspection, furcation
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: AFL Receives Six Technology Patents
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: AFL Receives Six Technology Patents
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "eef8142e-0838-4a0c-a5a3-9bbb37e66791"
+    - ID: "9dd4f0d9-c123-47a8-8cef-2c85cea172f6"
+      Hint: ContentImage
+      Value: |
+        <image mediaid="{56572D31-EACD-480A-8F84-DAB8FD363A7C}" />
+    - ID: "a6eaffd5-fc3e-41b4-93b3-f1721fcf2300"
+      Hint: ContentPublishedDate
+      Value: 20201123T183000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T101657Z

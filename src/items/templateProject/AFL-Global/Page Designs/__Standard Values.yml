@@ -1,0 +1,37 @@
+﻿---
+ID: "9d95b0e1-4650-4b58-bdc2-6af95a015899"
+Parent: "82b2768a-a2ce-48b2-bc59-a19e066e046e"
+Template: "82b2768a-a2ce-48b2-bc59-a19e066e046e"
+Path: "/sitecore/templates/Project/AFL-Global/Page Designs/__Standard Values"
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {9BF8AA62-1B66-4EC5-8E0A-26C0456CD3BA}
+    {6DB5D952-EDDE-47D2-9694-3710DBFBD752}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211018T060324Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "07820a83-0a3a-47a4-875e-1be2f68b1a57"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20211018T060328Z

@@ -1,0 +1,45 @@
+﻿---
+ID: "ee9bafe9-a55e-406b-8bbf-45adf7ff9068"
+Parent: "dae7c21d-4d3b-4257-a95c-9104cd8af409"
+Template: "4b7e2da9-de43-4c83-88c3-02f042031d04"
+Path: /sitecore/system/Workflows/AFL Global Workflow/Draft
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: /sitecore/shell/themes/standard/applications/16x16/document_edit.png
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: "{CB01F9FC-C187-46B3-AB0B-97A8468D8303}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 10
+- ID: "dec8d2d5-e3cf-48b6-a653-8e69e2716641"
+  Hint: __Security
+  Value: |
+    ar|sitecore\Sitecore Client Authoring|pe|+workflowState:write|+workflowState:delete|pd|+workflowState:write|+workflowState:delete|au|sitecore\publisher|pe|^*|+item:create|+item:read|+workflowCommand:execute|+item:rename|+item:delete|+bucket:unmake|+item:write|+workflowState:write|+workflowState:delete|+bucket:makebucket|+item:admin|pd|^*|+item:create|+workflowState:write|+workflowCommand:execute|+item:rename|+item:delete|+bucket:unmake|+workflowState:delete|+bucket:makebucket|+item:admin|au|sitecore\editor|pe|+item:read|+item:create|+workflowState:write|+workflowCommand:execute|+item:rename|+item:delete|+bucket:unmake|+item:write|^*|+workflowState:delete|+bucket:makebucket|+item:admin|pd|+item:create|+bucket:makebucket|+workflowState:write|+workflowCommand:execute|+item:rename|+item:delete|+bucket:unmake|+item:write|+workflowState:delete|+item:read|^*|+item:admin|au|sitecore\author|pe|+item:read|+item:create|+workflowState:write|+workflowCommand:execute|+item:rename|+item:delete|+bucket:unmake|+item:write|^*|+workflowState:delete|+bucket:makebucket|+item:admin|pd|+item:read|+item:create|+workflowState:write|+workflowCommand:execute|+item:rename|+item:delete|+bucket:unmake|+item:write|^*|+workflowState:delete|+bucket:makebucket|
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: "20080313T152341:633410186213024563"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ee1dd309-418c-47f2-b4fd-3148be362f47"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kushagra
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220224T151657Z

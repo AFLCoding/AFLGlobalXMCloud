@@ -1,0 +1,90 @@
+﻿---
+ID: "f5488e2b-692d-49b0-b33e-2b734b404142"
+Parent: "03ab9520-0fbb-463b-b1a3-85a1dd2eef46"
+Template: "f36e821e-bb98-44dc-966d-e92a0e033cc7"
+Path: "/sitecore/content/AFL-Global/APAC/Home/Company/Company Profile/News/2021/AFL Introduces Fujikura CT Series Large Diameter"
+SharedFields:
+- ID: "1fbc6a49-6281-48ee-87e9-a3970b145adb"
+  Hint: NavigationFilter
+  Value: |
+    {E0A2A027-0932-4878-A7D6-0416D5263EFB}
+    {61BD64D6-809E-40AE-9297-2724A19329B3}
+    {D063E9D1-C7B5-4B1E-B31E-69886C9C59F5}
+    {500AE4C0-FA7B-463F-8149-EFFF7F044101}
+    {A0E7FF57-6994-4B09-AA21-104239628D5A}
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{3A84BAC9-C1BD-4809-A12C-28EB44E25329}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{DAE7C21D-4D3B-4257-A95C-9104CD8AF409}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "228f9517-e120-4014-b2c7-df0ac467a349"
+      Hint: ContentTitle
+      Value: AFL Introduces Fujikura CT+ Series Large Diameter Fiber Cleavers
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211201T123705Z
+    - ID: "3688d7df-2feb-43a4-ab8d-410e5f70a676"
+      Hint: ContentDescription
+      Value: |
+        <div>Spartanburg, SC &ndash;&nbsp;<a href="http://www.aflglobal.com/">AFL</a>, an international manufacturer of fiber optic cable, connectivity and accessories, introduces the Fujikura large diameter cleaver family. The&nbsp;<a href="~/link.aspx?_id=0BC88231EF5D46C984DEAF0F3EA9EFD2&amp;_z=z">CT-104+ fiber cleaver</a>&nbsp;features a manual clamping system that supports 80 to 600 &micro;m cladding diameter. The&nbsp;<a href="~/link.aspx?_id=F151ABBB387443BCB4D123DEDBDDCEA3&amp;_z=z">CT-105+ fiber cleaver</a>&nbsp;features an automatic clamping system for fiber with 80 to 1,250 &micro;m cladding diameter. The&nbsp;<a href="~/link.aspx?_id=B3D0F41A3E634FACAF975855E8BAA361&amp;_z=z">CT-106+ fiber cleaver</a>&nbsp;features an automatic clamping system for fiber with 80 to 1,250 &micro;m cladding diameter and an angled cleaving function (up to 15&deg; on fibers up to 800 &micro;m).
+        &ldquo;Since the introduction of an LDF cleaving family several years ago, Fujikura has continued to review the technology and manufacture innovative products that align with changes in market conditions,&rdquo; explained Brad Hendrix, Specialty Global Market Manager for AFL. &ldquo;This is the next step in the evolution of an already great product.&rdquo; &nbsp;<br />
+        <br />
+        The CT105+/CT-106+ cleavers feature a new technology that finds the optimum clamping force automatically and accurately. All LDF cleavers in this series consist of a color LCD that shows cleaving progress and recommended insert size depending on fiber coating and cladding diameter. Cleaving programs can be saved and stored to a PC or tablet using a USB port.<br />
+        <br />
+        AFL operates the only authorized repair facility for Fujikura splicing products in the U.S.&nbsp;<a href="~/link.aspx?_id=BB7C3FF596D54A539D5FB93772F290E1&amp;_z=z">Technical support</a>&nbsp;is available 24/7 and complimentary on-site training is available with every splicer purchased.&nbsp;<a href="~/link.aspx?_id=55E85DE502FD4DF7A029245253934A91&amp;_z=z">View</a>&nbsp;AFL&rsquo;s complete product line of&nbsp;field&nbsp;and&nbsp;specialty fusion splicers&nbsp;plus accessories. For additional information about AFL, its products and services, visit&nbsp;<a href="http://www.aflglobal.com/">www.AFLglobal.com</a>.<br />
+        <br />
+        About AFL<br />
+        Founded in 1984, AFL is an international manufacturer providing end-to-end solutions to the energy, service provider, enterprise, hyperscale and industrial markets. The company&rsquo;s products are in use in over 130 countries and include fiber optic cable and hardware, transmission and substation accessories, outside plant equipment, connectivity, test and inspection equipment, fusion splicers and training. AFL also offers a wide variety of services supporting data center, enterprise, wireless and outside plant applications.<br />
+        <p>
+        Headquartered in Spartanburg, SC, AFL has  operations in the U.S., Mexico, Canada, Europe, Asia and Australia, and is a  wholly owned subsidiary of Fujikura Ltd. of Japan. For more information,  visit&nbsp;<a href="http://www.aflglobal.com/">www.AFLglobal.com</a>.  Follow us on&nbsp;<a href="https://www.linkedin.com/company/aflglobal">LinkedIn</a>,&nbsp;<a href="https://twitter.com/AFLglobal">X</a>,&nbsp;<a href="https://www.facebook.com/AFLglobal">Facebook</a>, and read our&nbsp;<a href="https://www.aflglobal.com/AFL-Blog/">blog</a>.</p>
+        Contacts<br />
+        Brad Hendrix<br />
+        Specialty Global Market Manager, AFL<br />
+        864.486.7125<br />
+        <a href="mailto:Brad.Hendrix@AFLglobal.com">Brad.Hendrix@AFLglobal.com</a><br />
+        <br />
+        Corie Culp<br />
+        Public Relations Manager, AFL<br />
+        864.433.5409<br />
+        <a rel="noopener noreferrer" href="mailto:Corie.Culp@AFLglobal.com" target="_blank">Corie.Culp@AFLglobal.com</a>&nbsp;</div>
+    - ID: "4c3792cf-8348-4d85-9cac-3f6086716488"
+      Hint: ContentCategory
+      Value: "{F78EA78A-E127-49A5-95B6-7DE64F85F319}"
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: AFL Introduces Fujikura CT Series Large Diameter
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: "The CT105+/CT-106+ cleavers feature a new technology that finds the optimum clamping force automatically and accurately."
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: "Fujikura, plus, CT104+, CT-105+, CT-106+, fiber cleavers, cladding, LDF, large diameter fiber, cleavers, clamping"
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: AFL Introduces Fujikura CT Series Large Diameter
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: AFL Introduces Fujikura CT Series Large Diameter
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3de9f80e-1c5f-4529-a446-f69417f58c0b"
+    - ID: "9dd4f0d9-c123-47a8-8cef-2c85cea172f6"
+      Hint: ContentImage
+      Value: |
+        <image mediaid="{92CFDA24-AE3D-4A71-8D84-4169369AAD77}" />
+    - ID: "a6eaffd5-fc3e-41b4-93b3-f1721fcf2300"
+      Hint: ContentPublishedDate
+      Value: 20210620T183000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T101706Z
