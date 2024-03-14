@@ -1,0 +1,132 @@
+﻿---
+ID: "f5800fcd-55fa-4dbc-8aca-405964aa635e"
+Parent: "6ce957d7-7e56-44fb-a3fa-e44cb6ec1ad2"
+Template: "bf61de11-b78f-48ea-aaa4-1d17f0d83824"
+Path: "/sitecore/content/AFL-Global/APAC/Home/Company/Community/Grants"
+SharedFields:
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{87CE798E-CDA3-4363-A47F-74DF3E2D88BE}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{DAE7C21D-4D3B-4257-A95C-9104CD8AF409}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 300
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211124T172733Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Grants
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: "AFL's Community Outreach Program offers grants to community organizations. The grants are offered in two areas - STEM education and social programs. "
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <h2><strong>Imagine financially supporting organizations devoted to helping others</strong></h2>
+        <p>AFL understands the need in the community by being embedded in the community. We take the time to make connections with people and organizations to learn where the greatest need is and turn those needs into opportunities. This is possible through our grants program which targets three areas:</p>
+        <br />
+        <h3>STEM Education</h3>
+        Programs that provide children and adults access to a quality education through STEM (Science, Technology, Engineering and Math)<br />
+        <br />
+        <h3>Youth Development</h3>
+        <div>Programs that support healthy, productive and engaged children</div>
+        <br />
+        <h3>LEAP (Life Enrichment & Advancement Program)</h3>
+        Programs that support adults pursuing employment and self-sufficiency<br />
+        <br />
+        <div>These three areas support our vision to positively impact communities and with focused effort, we believe our communities will prosper. </div>
+        <div><a rel="noopener noreferrer" href="https://www.aflglobal.com/productionFiles/resources/Community/Limitations" target="_blank">Limitations</a></div>
+        <div><a href="https://www.grantinterface.com/Home/Logon?urlkey=aflglobal">Submit a Letter of Intent</a></div>
+        <div><a href="mailto:community@AFLglobal.com?subject=AFL%20Website">Contact AFL</a></div>
+        <p>Take a look at our most recent check presentations: </p>
+        <ul>
+            <li><a href="~/link.aspx?_id=7C68D418CCA7424288260FD42DD71848&_z=z">AFL Presents $15K Grant to the Middle Tyger Community Center</a></li>
+            <li><a href="~/link.aspx?_id=FA175552F5C8436D935EF503338869C4&_z=z">AFL Presents $10K to YMCA of Greater Spartanburg</a></li>
+            <li><a href="~/link.aspx?_id=6A6569D62D134AB08958C033F97D876A&_z=z">AFL Awards Hope Center for Children $10K Grant</a></li>
+            <li><a href="~/link.aspx?_id=808FDE0932E74C33B19D4E2324453449&_z=z">AFL Awards $5K Grant to SC GSSM Foundation for Summer STEM Camps</a></li>
+            <li><a href="~/link.aspx?_id=24B8C52604F44203A28F4085F2685562&_z=z">AFL Presents $7,500 Grant to Public Education Partners' GATE Program</a></li>
+            <li><a href="~/link.aspx?_id=A9F6FC56A3CF405D98963E6F039A08CD&_z=z">AFL Presents $5K Grant to Turning Point, Inc. (NC)</a></li>
+        </ul>
+        <h2>Visit our c<a href="~/link.aspx?_id=F5E14B660F224CD79DB21F673AE9DB95&_z=z">ommunity homepage</a> for more information.</h2>
+        <p> </p>
+    - ID: "56611f02-691a-4096-b044-63aa83122916"
+      Hint: Content
+      Value: |
+        <h2 style="color: #004a91; background-color: #ffffff; margin: 0px;"><strong>Imagine financially supporting organizations devoted to helping others</strong></h2>
+        <p style="color: #333333; background-color: #ffffff; margin: 0px 0px 15px;">AFL understands the need in the community by being embedded in the community. We take the time to make connections with people and organizations to learn where the greatest need is and turn those needs into opportunities. This is possible through our grants program which targets three areas:</p>
+        <h3 style="color: #889b10; background-color: #ffffff; margin: 0px;">STEM Education</h3>
+        <br />
+        <p><span style="background-color: #ffffff; color: #333333;">Programs that provide children and adults access to a quality education through STEM (Science, Technology, Engineering and Math)&nbsp;</span><br style="color: #333333; background-color: #ffffff;" />
+        <br style="color: #333333; background-color: #ffffff;" />
+        </p>
+        <h3 style="color: #889b10; background-color: #ffffff; margin: 0px;">Youth Development</h3>
+        <div style="color: #333333; background-color: #ffffff;">Programs that support healthy, productive and engaged children<br />
+        &nbsp;</div>
+        <h3 style="color: #889b10; background-color: #ffffff; margin: 0px;">LEAP (Life Enrichment &amp; Advancement Program)</h3>
+        <p><span style="background-color: #ffffff; color: #333333;">Programs that support adults pursuing employment and self-sufficiency</span><br style="color: #333333; background-color: #ffffff;" />
+        <br style="color: #333333; background-color: #ffffff;" />
+        </p>
+        <div style="color: #333333; background-color: #ffffff;">These three areas support our vision to positively impact communities and with focused effort, we believe our communities will prosper.&nbsp; &nbsp;<br />
+        &nbsp;</div>
+        <div style="color: #333333; background-color: #ffffff;"><a rel="noopener noreferrer" href="https://www.aflglobal.com/productionFiles/resources/Community/Limitations.aspx" target="_blank" style="color: #0091ea; background-color: transparent;">Limitations</a></div>
+        <div style="color: #333333; background-color: #ffffff;"><a href="https://www.grantinterface.com/Common/LogOn.aspx?urlkey=aflglobal" style="color: #0091ea; background-color: transparent;">Submit a Letter of Intent</a></div>
+        <div style="color: #333333; background-color: #ffffff;"><a href="mailto:community@AFLglobal.com?subject=AFL%20Website" style="color: #0091ea; background-color: transparent;">Contact AFL</a><br />
+        &nbsp;</div>
+        <p style="color: #333333; background-color: #ffffff; margin: 0px 0px 15px;">Take a look at our most recent check presentations:&nbsp;&nbsp;</p>
+        <ul style="color: #333333; background-color: #ffffff; list-style-image: url('https://www.aflglobal.com/productionFiles/images/bulletRound.aspx');">
+            <li><a href="https://learn.aflglobal.com/news/afl-presents-15k-grant-to-middle-tyger-community-center" style="color: #0091ea; background-color: transparent;">AFL Presents $15K Grant to the Middle Tyger Community Center</a></li>
+            <li><a href="https://learn.aflglobal.com/news/afl-presents-10k-grant-to-ymca-of-greater-spartanburg-2" style="color: #0091ea; background-color: transparent;">AFL Presents $10K to YMCA of Greater Spartanburg</a></li>
+            <li><a href="https://learn.aflglobal.com/news/afl-awards-hope-center-for-children-10-000-grant" style="color: #0091ea; background-color: transparent;">AFL Awards Hope Center for Children $10K Grant</a></li>
+            <li><a href="https://learn.aflglobal.com/news/afl-awards-5k-grant-to-sc-gssm-foundation-for-summer-stem-camps" style="color: #0091ea; background-color: transparent;">AFL Awards $5K Grant to SC GSSM Foundation for Summer STEM Camps</a></li>
+            <li><a href="https://learn.aflglobal.com/news/afl-presents-7-500-grant-to-public-education-partners-gate-program" style="color: #0091ea; background-color: transparent;">AFL Presents $7,500 Grant to Public Education Partners' GATE Program</a></li>
+            <li><a href="https://learn.aflglobal.com/news/afl-presents-5k-grant-to-turning-point-inc-2" style="color: #0091ea; background-color: transparent;">AFL Presents $5K Grant to Turning Point, Inc. (NC)</a><br />
+            &nbsp;</li>
+        </ul>
+        <h2 style="color: #004a91; background-color: #ffffff; margin: 0px;">Visit our&nbsp;<a style="color: #0091ea; background-color: transparent;">community homepage</a>&nbsp;for more information.</h2>
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: grants philanthropy charity community outreach program education stability health
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: Grants
+    - ID: "628db04b-29a2-483b-a88c-b8fd9a5f2086"
+      Hint: HeroLink
+      Value: |
+        <link id="{8FB5A255-9965-47FE-823D-84B0C00D891C}" querystring="" target="|Custom" text="LEARN MORE" anchor="" title="" class="" url="/AFL-Global/AMERICAS/Home/Company/Community/Grants" linktype="internal" />
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: Grants
+    - ID: "875fbf1e-8785-4128-9909-a0b2789e8b26"
+      Hint: FeaturedComponentHeading
+      Value: 
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "28dae8e4-63a6-4d42-a6e3-babf1658a1c9"
+    - ID: "93dc88f3-05e5-482d-9b9a-c859c8258a73"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="168689" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/168689/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/c0b6f2dbce4144bb903159059337752b?v=6390d725" stylelabs-content-type="Image" alt="community-headers-Grants.jpg" height="770" width="1990" />
+    - ID: "a40ebd3d-2b41-41fb-90f7-753544ce77c5"
+      Hint: Hero Title1
+      Value: Grants
+    - ID: "ab91d39b-30ad-4050-acef-07c741146fcc"
+      Hint: Heading
+      Value: Imagine financially supporting organizations devoted to helping others
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T101901Z
+    - ID: "dd0b26a2-9ca3-4573-b501-3b33a6efbc65"
+      Hint: Hero Title2
+      Value: Imagine watching your donation make a difference

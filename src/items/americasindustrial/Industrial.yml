@@ -1,0 +1,107 @@
+﻿---
+ID: "289d443b-80cd-49a2-88ae-957a555e5841"
+Parent: "fa8588c3-681a-4623-ab8e-2aca430081a2"
+Template: "bf61de11-b78f-48ea-aaa4-1d17f0d83824"
+Path: "/sitecore/content/AFL-Global/APAC/Home/Solutions/Industrial"
+SharedFields:
+- ID: "1fbc6a49-6281-48ee-87e9-a3970b145adb"
+  Hint: NavigationFilter
+  Value: |
+    {E0A2A027-0932-4878-A7D6-0416D5263EFB}
+    {61BD64D6-809E-40AE-9297-2724A19329B3}
+    {D063E9D1-C7B5-4B1E-B31E-69886C9C59F5}
+    {500AE4C0-FA7B-463F-8149-EFFF7F044101}
+    {A0E7FF57-6994-4B09-AA21-104239628D5A}
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{EAEEC148-58AC-4C09-A61D-3D825A8E9530}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211122T083339Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Industrial
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: "Industrial Market - fiber optic cable for medical, broadcast, oil and gas for harsh environment communications and sensing."
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <div>AFL offers a wide range of fiber optic solutions to support the Industrial Market. From Medical diagnostics to Broadcast communication to Oil and Gas reservoir monitoring, AFL's is uniquely positioned to enable new industrial and harsh environment communication and sensing requirements.<br />
+        <br />
+        <br />
+        <h1><a href="https://aflglobal.com/Solutions/Industrial/Broadcast">Broadcast</a></h1>
+        <div>In no other industry is the benefits of fiber optic cabling more relevant than in the Broadcast market.  The growing demand for real-time programming, interactive content, and higher-resolution viewing has never been greater than today.  As the technology keeps evolving, fiber optics offers broadcasters the pathways necessary for developing these new technologies. The inherent features of fiber optics such as high-bandwidth, speed of light velocity and growing reliability through cable construction have proven that fiber optic cabling and connectivity is a critical component in broadcast system design.</div>
+        </div>
+        <div> </div>
+        <div> </div>
+        <h1><a href="https://aflglobal.com/Solutions/Industrial/Aerospace-and-Defense">Military</a></h1>
+        <p>The need for improved mobility, communications, and security are driving new requirements in the Aerospace and Defense market.  Advanced guidance and control systems provide the needed improvement in positional accuracy for mobile platforms such as planes, satellites, drones, and even projectiles. The move to lighter weight composite materials demands new structural integrity measures. Victory in the military theater hinges on intelligence gathering via sensors and high speed communications.  AFL's mix of fiber optic solutions support the designers of advanced gyroscopes, structural health monitoring systems, advanced tactical sensors and communications. <br />
+        <br />
+         </p>
+        <h1><a href="https://aflglobal.com/Solutions/Industrial/Mining">Mining</a></h1>
+        <p>To say that mining operations today is a challenge is an understatement. With increasing levels of governing regulations and a fluctuating market, the mining industry is constantly looking for ways to decrease operational costs while improving efficiencies and most importantly, keeping their workers safe. Communication systems for this market cannot be subpar.  Mining businesses require network solutions to help reduce costs and increase productivity, while achieving or exceeding operating and financial goals.</p>
+        <p> </p>
+        <h1><a href="https://aflglobal.com/Solutions/Industrial/Medical">Medical</a></h1>
+        <p>Our aging population is a driving demographic to improve our health care cost and efficacy. Minimally invasive surgical procedures support these market needs by using new in-vitro and endoscopic technology that requires small, flexible and controllable catheters and probes. AFL offers a full array of capabilities from optical fibers, cables, assemblies and services to support the needs of today's medical device manufacturers.   <br />
+         </p>
+        <h1><a href="https://aflglobal.com/Solutions/Industrial/Oil-and-Gas">Oil and Gas</a></h1>
+        <p>Driven by the continued growth in global hydrocarbon consumption, producers have turned to enhanced recovery techniques to identify, reach, and extract new reserves. To enable these enhanced recovery techniques, fiber optics is playing a key role to ensure safe, cost effective deployment and operation. AFL's harsh environment fiber optic products are critical components in these new methods of exploration, production, transportation and processing of hydrocarbons. From advanced sensing to communications, AFL provides cost effective monitoring, process control, integrity management, and information pathways for the new intelligent Oil and Gas fields of the future.<br />
+        <br />
+         </p>
+        <h1><a href="https://aflglobal.com/Solutions/Industrial/Transportation">Transportation</a></h1>
+        <p>As the transportation industry continues to modernize highway, rail and aviation systems, the need to improve and update the communications infrastructure is leading to more robust networks capable of collecting, managing and transporting increasingly larger amounts of data over greater distances. Municipalities and private providers are quickly embracing fiber optics as the framework infrastructure that can transmit data faster and more reliably than traditional networks.  All while avoiding the hazards of electric shocks and interference.</p>
+    - ID: "56611f02-691a-4096-b044-63aa83122916"
+      Hint: Content
+      Value: |
+        <div>AFL offers a wide range of fiber optic solutions to support the Industrial Market. From Medical diagnostics to Broadcast communication to Oil and Gas reservoir monitoring, AFL's is uniquely positioned to enable new industrial and harsh environment communication and sensing requirements.<br />
+        <h1><a href="/Markets/Industrial/Broadcast">Broadcast</a></h1>
+        <div>In no other industry is the benefits of fiber optic cabling more relevant than in the Broadcast market. The growing demand for real-time programming, interactive content, and higher-resolution viewing has never been greater than today. As the technology keeps evolving, fiber optics offers broadcasters the pathways necessary for developing these new technologies. The inherent features of fiber optics such as high-bandwidth, speed of light velocity and growing reliability through cable construction have proven that fiber optic cabling and connectivity is a critical component in broadcast system design.</div>
+        </div>
+        <div>&nbsp;</div>
+        <div>&nbsp;</div>
+        <h1><a href="/Markets/Industrial/Aerospace-and-Defense">Military</a></h1>
+        <p>The need for improved mobility, communications, and security are driving new requirements in the Aerospace and Defense market. Advanced guidance and control systems provide the needed improvement in positional accuracy for mobile platforms such as planes, satellites, drones, and even projectiles. The move to lighter weight composite materials demands new structural integrity measures. Victory in the military theater hinges on intelligence gathering via sensors and high speed communications. AFL's mix of fiber optic solutions support the designers of advanced gyroscopes, structural health monitoring systems, advanced tactical sensors and communications.</p>
+        <h1><a href="/Markets/Industrial/Mining">Mining</a></h1>
+        <p>To say that mining operations today is a challenge is an understatement. With increasing levels of governing regulations and a fluctuating market, the mining industry is constantly looking for ways to decrease operational costs while improving efficiencies and most importantly, keeping their workers safe. Communication systems for this market cannot be subpar. Mining businesses require network solutions to help reduce costs and increase productivity, while achieving or exceeding operating and financial goals.</p>
+        <h1><a href="/Markets/Industrial/Medical">Medical</a></h1>
+        <p>Our aging population is a driving demographic to improve our health care cost and efficacy. Minimally invasive surgical procedures support these market needs by using new in-vitro and endoscopic technology that requires small, flexible and controllable catheters and probes. AFL offers a full array of capabilities from optical fibers, cables, assemblies and services to support the needs of today's medical device manufacturers. </p>
+        <div>&nbsp;</div>
+        <h1><a href="/Markets/Industrial/Oil-and-Gas">Oil and Gas</a></h1>
+        <p>Driven by the continued growth in global hydrocarbon consumption, producers have turned to enhanced recovery techniques to identify, reach, and extract new reserves. To enable these enhanced recovery techniques, fiber optics is playing a key role to ensure safe, cost effective deployment and operation. AFL's harsh environment fiber optic products are critical components in these new methods of exploration, production, transportation and processing of hydrocarbons. From advanced sensing to communications, AFL provides cost effective monitoring, process control, integrity management, and information pathways for the new intelligent Oil and Gas fields of the future.<br />
+        <br />
+        </p>
+        <h1><a href="/Markets/Industrial/Transportation">Transportation</a></h1>
+        <p>As the transportation industry continues to modernize highway, rail and aviation systems, the need to improve and update the communications infrastructure is leading to more robust networks capable of collecting, managing and transporting increasingly larger amounts of data over greater distances. Municipalities and private providers are quickly embracing fiber optics as the framework infrastructure that can transmit data faster and more reliably than traditional networks.All while avoiding the hazards of electric shocks and interference.</p>
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: industrial harsh environment sensing fiber optic cable medical, broadcast, oil and gas
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: Industrial
+    - ID: "628db04b-29a2-483b-a88c-b8fd9a5f2086"
+      Hint: HeroLink
+      Value: |
+        <link id="{289D443B-80CD-49A2-88AE-957A555E5841}" querystring="" linktype="internal" text="LEARN MORE" anchor="" url="/AFL-Global/APAC/Home/Solutions/Industrial" title="" class="" target="|Custom" />
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: Industrial
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "eb1b8d8b-f1aa-4eac-bb0a-356cdab5caa3"
+    - ID: "93dc88f3-05e5-482d-9b9a-c859c8258a73"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image mediaid="{5759863E-C534-4575-AF5A-6461821B2D4C}" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T101449Z

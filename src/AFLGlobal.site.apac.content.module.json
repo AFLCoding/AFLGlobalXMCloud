@@ -1,0 +1,104 @@
+{
+  "$schema": "../.sitecore/schemas/ModuleFile.schema.json",
+  "namespace": "Content.APAC",
+  "items": {
+    "includes": [
+      {
+        "name": "root",
+        "path": "/sitecore/content/AFL-Global",
+        "scope": "SingleItem",
+        "allowedPushOperations": "CreateOnly"
+      },
+      {
+        "name": "americassite",
+        "path": "/sitecore/content/AFL-Global/APAC",
+        "scope": "SingleItem",
+        "allowedPushOperations": "CreateOnly"
+      },
+      {
+        "name": "americashome",
+        "path": "/sitecore/content/AFL-Global/APAC/Home",
+        "scope": "SingleItem",
+        "allowedPushOperations": "CreateAndUpdate"
+      },
+      {
+        "name": "americassolutions",
+        "path": "/sitecore/content/AFL-Global/APAC/Home/Solutions",
+        "scope": "SingleItem",
+        "allowedPushOperations": "CreateAndUpdate"
+      },
+      {
+        "name": "americasService",
+        "path": "/sitecore/content/AFL-Global/APAC/Home/Solutions/Service Provider",
+        "scope": "ItemAndDescendants",
+        "allowedPushOperations": "CreateAndUpdate"
+      },
+      {
+        "name": "americasenterprise",
+        "path": "/sitecore/content/AFL-Global/APAC/Home/Solutions/Enterprise",
+        "scope": "ItemAndDescendants",
+        "allowedPushOperations": "CreateAndUpdate"
+      },
+      {
+        "name": "americasenergy",
+        "path": "/sitecore/content/AFL-Global/APAC/Home/Solutions/Energy",
+        "scope": "ItemAndDescendants",
+        "allowedPushOperations": "CreateAndUpdate"
+      },
+      {
+        "name": "americasindustrial",
+        "path": "/sitecore/content/AFL-Global/APAC/Home/Solutions/Industrial",
+        "scope": "ItemAndDescendants",
+        "allowedPushOperations": "CreateAndUpdate"
+      },
+      {
+        "name": "americashyperscale",
+        "path": "/sitecore/content/AFL-Global/APAC/Home/Solutions/Hyperscale",
+        "scope": "ItemAndDescendants",
+        "allowedPushOperations": "CreateAndUpdate"
+      },
+      {
+        "name": "americasresources",
+        "path": "/sitecore/content/AFL-Global/APAC/Home/Resources",
+        "scope": "ItemAndDescendants",
+        "allowedPushOperations": "CreateAndUpdate"
+      },
+      {
+        "name": "americascontact",
+        "path": "/sitecore/content/AFL-Global/APAC/Home/Contact",
+        "scope": "ItemAndDescendants",
+        "allowedPushOperations": "CreateAndUpdate"
+      },
+      {
+        "name": "americascompany",
+        "path": "/sitecore/content/AFL-Global/APAC/Home/Company",
+        "scope": "ItemAndDescendants",
+        "allowedPushOperations": "CreateAndUpdate"
+      },
+	  {
+        "name": "americas404",
+        "path": "/sitecore/content/AFL-Global/APAC/Home/404",
+        "scope": "ItemAndDescendants",
+        "allowedPushOperations": "CreateAndUpdate"
+      },
+      {
+        "name": "americassearchresult",
+        "path": "/sitecore/content/AFL-Global/APAC/Home/Search Result",
+        "scope": "ItemAndDescendants",
+        "allowedPushOperations": "CreateAndUpdate"
+      },
+      {
+        "name": "americassitemap",
+        "path": "/sitecore/content/AFL-Global/APAC/Home/sitemap",
+        "scope": "ItemAndDescendants",
+        "allowedPushOperations": "CreateAndUpdate"
+      },
+      {
+        "name": "americasoverlays",
+        "path": "/sitecore/content/AFL-Global/APAC/Home/Overlays",
+        "scope": "ItemAndDescendants",
+        "allowedPushOperations": "CreateAndUpdate"
+      }
+    ]
+  }
+}

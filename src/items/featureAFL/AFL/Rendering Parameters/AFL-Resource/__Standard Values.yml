@@ -1,0 +1,27 @@
+﻿---
+ID: "253fd9b1-4bb4-49df-b22d-5764b5623062"
+Parent: "976dbf8b-e9f5-49e8-ab4e-bc72a3bf9687"
+Template: "976dbf8b-e9f5-49e8-ab4e-bc72a3bf9687"
+Path: "/sitecore/templates/Feature/AFL/Rendering Parameters/AFL-Resource/__Standard Values"
+SharedFields:
+- ID: "3094d236-5985-4c4f-ae6a-e30740885532"
+  Hint: Caching
+  Value: 0|0|0|0|0|0|0|0
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20120629T104300
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "df637882-14ac-4b27-8da1-dd3ac9523543"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\archana
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20211216T065221Z

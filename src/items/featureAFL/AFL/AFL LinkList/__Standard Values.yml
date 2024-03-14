@@ -1,0 +1,33 @@
+﻿---
+ID: "2481ccf5-7c83-4d4d-bf77-78ecc6f66a6c"
+Parent: "60d25f33-2d41-47e5-b2f8-605ea5168daf"
+Template: "60d25f33-2d41-47e5-b2f8-605ea5168daf"
+Path: /sitecore/templates/Feature/AFL/AFL LinkList/__Standard Values
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: "{A066D10C-85CF-4EAF-9508-49CB49707994}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0b76a3cf-fb07-42d8-8b0c-8a3fcfd5d586"
+      Hint: Title
+      Value: $name
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20111206T112520
+    - ID: "5f32ce78-6536-4244-a7a2-8d5a586d6a98"
+      Hint: LinkTitle
+      Value: 
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "aa2fb2dd-c126-4dee-b2e2-27728bf91c4f"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\archana
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220202T150416Z

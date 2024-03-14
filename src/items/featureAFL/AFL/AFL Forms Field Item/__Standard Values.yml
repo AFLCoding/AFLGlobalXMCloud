@@ -1,0 +1,37 @@
+﻿---
+ID: "874db267-a9a0-4749-958a-ef8a41829bd1"
+Parent: "c63a8eb1-42cd-447d-9974-c1b5aea5c72c"
+Template: "c63a8eb1-42cd-447d-9974-c1b5aea5c72c"
+Path: /sitecore/templates/Feature/AFL/AFL Forms Field Item/__Standard Values
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "143e447b-aef0-471b-b903-29702dcd1a2e"
+      Hint: AFLFieldValue
+      Value: $name
+    - ID: "19a5cfbd-ce5c-49aa-90fd-e1e23edf1739"
+      Hint: AFLFieldName
+      Value: $name
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211208T065238Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\archana
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\archana
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "37b0be7a-0be0-4c79-915d-dba325e176bd"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\archana
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220131T175714Z
