@@ -1,0 +1,88 @@
+﻿---
+ID: "0315c71a-6bc6-4902-a4de-1a16fb1d4693"
+Parent: "db76eb01-14a2-486e-acbf-69d27ba23a14"
+Template: "bf61de11-b78f-48ea-aaa4-1d17f0d83824"
+Path: "/sitecore/content/AFL-Global/APAC/Home/Resources/Product Related Materials/Frequently Asked Questions"
+SharedFields:
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{274C9F86-81B9-4FFC-87CA-8B19AB3A526D}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 150
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211227T085226Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Frequently Asked Questions
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\harry
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: AFL product frequently asked questions submitted by customers regarding AFL product lines.
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <h1>Frequently Asked Questions</h1>
+        <p>From time-to-time, we receive questions that we know other customers might benefit from the answer. Below are the latest frequently asked questions by product category.</p>
+        <ul>
+            <li>
+            <h3><a href="/Resources/Product Related Materials/Frequently Asked Questions/Fiber Optic Cable">Fiber Optic Cable</a></h3>
+            </li>
+            <li>
+            <h3><a href="/Resources/Product Related Materials/Frequently Asked Questions/Fiber Inside Plant">Fiber Inside Plant</a></h3>
+            </li>
+            <li>
+            <h3><a href="Resources/Product Related Materials/Frequently Asked Questions/Fiber Outside Plant">Fiber Outside Plant</a></h3>
+            </li>
+            <li>
+            <h3><a href="Resources/Product Related Materials/Frequently Asked Questions/Fusion Splicing Systems">Fusion Splicing Systems</a></h3>
+            </li>
+            <li>
+            <h3><a href="/Resources/Product Related Materials/Frequently Asked Questions/FAQ Test and Inspection">Test and Inspection</a></h3>
+            </li>
+            <li>
+            <h3><a href="Resources/Product Related Materials/Frequently Asked Questions/Fiber Optic Cleaning Solutions">Cleaning Supplies</a></h3>
+            </li>
+            <li>
+            <h3><a href="/Resources/Product Related Materials/Frequently Asked Questions/ConductaClean">ConductaClean</a></h3>
+            </li>
+            <li>
+            <h3><a href="/Resources/Product Related Materials/Frequently Asked Questions/FAQ General">General</a></h3>
+            </li>
+        </ul>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\harry
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: AFL products frequently asked questions FAQ
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: Frequently Asked Questions
+    - ID: "628db04b-29a2-483b-a88c-b8fd9a5f2086"
+      Hint: HeroLink
+      Value: |
+        <link id="{0315C71A-6BC6-4902-A4DE-1A16FB1D4693}" querystring="" target="|Custom" text="LEARN MORE" anchor="" title="" class="" url="/AFL-Global/APAC/Home/Resources/Product Related Materials/Frequently Asked Questions" linktype="internal" />
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: Frequently Asked Questions
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1f4d2742-5c33-4076-9350-9dd7097b3406"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T101549Z

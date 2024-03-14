@@ -1,0 +1,33 @@
+﻿---
+ID: "2bbecd37-4cf7-4aad-8f5d-9c29fa7d0f26"
+Parent: "ab81263c-0520-4466-8a5d-137e501d8799"
+Template: "ab81263c-0520-4466-8a5d-137e501d8799"
+Path: /sitecore/templates/Feature/AFL/PageContent/AFL Product Detail/AFL Product Detail Folder/__Standard Values
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {011C02AB-49E7-41F0-8719-03034390BC25}
+    {AB81263C-0520-4466-8A5D-137E501D8799}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211102T141459Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a4279461-42f9-4cdb-947b-d2644b090341"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        serialization\UnicornDataProvider
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240229T052235Z

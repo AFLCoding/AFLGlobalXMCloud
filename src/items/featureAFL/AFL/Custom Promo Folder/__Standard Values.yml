@@ -1,0 +1,33 @@
+﻿---
+ID: "cf764e37-d9d4-46a7-9be2-276dd8d0aba9"
+Parent: "1168d30c-319c-42ae-b733-af1afccec462"
+Template: "1168d30c-319c-42ae-b733-af1afccec462"
+Path: /sitecore/templates/Feature/AFL/Custom Promo Folder/__Standard Values
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {EC0D416B-5B20-49BD-B40D-1CF797020B63}
+    {1168D30C-319C-42AE-B733-AF1AFCCEC462}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211021T101939Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3a6a387a-58a2-497a-8938-7f82876202ba"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        serialization\UnicornDataProvider
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240229T052233Z
