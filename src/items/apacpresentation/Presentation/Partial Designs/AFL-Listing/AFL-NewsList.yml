@@ -1,0 +1,74 @@
+﻿---
+ID: "a7fbc0ee-d193-484d-af2b-c7b6943461a3"
+Parent: "df8bbc86-b230-4fc6-bad0-d05275116c40"
+Template: "8136f903-5eea-4289-9b44-67b469a969ea"
+Path: "/sitecore/content/AFL-Global/APAC/Presentation/Partial Designs/AFL-Listing/AFL-NewsList"
+SharedFields:
+- ID: "55faae90-3bba-4f7f-96fe-13c3f40055ff"
+  Hint: Signature
+  Value: "afl-newslist"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{74FCE2FD-6FEA-4958-8E74-2EB849E06667}"
+          p:before="*"
+          s:ds=""
+          s:id="{BFBD9DE2-3ABF-4078-BBCB-C95C5B2D863F}"
+          s:par="BreadcrumbRoot&amp;Separator=%2F&amp;IsNavigation&amp;Filter&amp;Reset Caching Options&amp;GridParameters&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;DynamicPlaceholderId=2"
+          s:ph="main"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{FBFA4E8B-E8DA-40E1-A838-274F3303A8F5}"
+          p:after="r[@uid='{74FCE2FD-6FEA-4958-8E74-2EB849E06667}']"
+          s:ds="query:self::"
+          s:id="{2E991AA4-4B08-43D2-AD2B-17C11E69A499}"
+          s:par="SourceType=%7B90105CB9-2CFD-4151-9FA8-6CDF92B158C2%7D&amp;Reset Caching Options&amp;ListSignature=news-pagination&amp;PageSize=5&amp;Offset&amp;GridParameters&amp;FieldNames=%7B99932FA0-4EF8-4054-8A43-D07BCE0ABDC5%7D&amp;Styles=%7B592CA5BE-A535-4EE9-A79A-775A8659B0E5%7D&amp;RenderingIdentifier&amp;DynamicPlaceholderId=1"
+          s:ph="main"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{794AA3B3-CFAD-4FC6-9384-9FA278EF2F38}"
+          p:after="r[@uid='{FBFA4E8B-E8DA-40E1-A838-274F3303A8F5}']"
+          s:ds="query:self::"
+          s:id="{390954AF-B5B3-4A61-928E-0FF2E1E78F94}"
+          s:par="Reset Caching Options&amp;CollapseModeThreshold=3&amp;ListSignature=news-pagination&amp;GridParameters&amp;Styles=%7B592CA5BE-A535-4EE9-A79A-775A8659B0E5%7D&amp;RenderingIdentifier"
+          s:ph="main"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{31B4A28B-ACB6-4382-9A6D-484D4B80C910}"
+          p:after="r[@uid='{794AA3B3-CFAD-4FC6-9384-9FA278EF2F38}']"
+          s:id="{68D3CDEC-09CD-4696-A8EB-410E5611F38A}"
+          s:ph="main" />
+        <r
+          uid="{DE87DA27-2216-4FC6-A2DA-7C983F50C0D5}"
+          p:after="*[1=2]"
+          s:id="{68D3CDEC-09CD-4696-A8EB-410E5611F38A}"
+          s:ph="main" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211224T104610Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mahesh
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f285e022-7b66-4d79-aa4b-b881a3961f40"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240229T094210Z

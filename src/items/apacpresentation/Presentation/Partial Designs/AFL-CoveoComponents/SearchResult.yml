@@ -1,0 +1,196 @@
+﻿---
+ID: "e7b99f12-1b6d-4867-8d86-df09eb62ffa9"
+Parent: "5d94b320-37b2-4799-8ae4-0a229e53e250"
+Template: "8136f903-5eea-4289-9b44-67b469a969ea"
+Path: "/sitecore/content/AFL-Global/APAC/Presentation/Partial Designs/AFL-CoveoComponents/SearchResult"
+SharedFields:
+- ID: "55faae90-3bba-4f7f-96fe-13c3f40055ff"
+  Hint: Signature
+  Value: searchresult
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{DAE7C21D-4D3B-4257-A95C-9104CD8AF409}"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{20F0D903-8BA3-4B14-BB01-516B2598238E}"
+          p:before="*"
+          s:ds="{46C7A5C6-50FD-46ED-986F-3A2C3DDA519E}"
+          s:id="{1AF65AE3-7BA9-4F1F-89C2-1329A82C429E}"
+          s:par=""
+          s:ph="/main/container-8/coveouicontentsxa-1296663651/column-2-16/coveo-ui-sorts_dynamic_coveo7b487859" />
+        <r
+          uid="{12F40BF9-900C-42D3-8DC6-DC286E8A8C7A}"
+          p:after="r[@uid='{20F0D903-8BA3-4B14-BB01-516B2598238E}']"
+          s:ds="{8E27409F-CA5A-48DE-AB75-1F3D0A0A952F}"
+          s:id="{144F9C19-0647-46BC-B766-CBF620E0B9B1}"
+          s:par=""
+          s:ph="/main/container-8/coveouicontentsxa-1296663651/column-2-16/coveo-ui-sorts_dynamic_coveo7b487859" />
+        <r
+          uid="{7B487859-E363-4599-97BB-4F4570513294}"
+          p:after="r[@uid='{12F40BF9-900C-42D3-8DC6-DC286E8A8C7A}']"
+          s:ds="{073412E9-E67D-487C-9329-A82BF697436F}"
+          s:id="{24D90717-93EA-4707-ACAC-02338014F463}"
+          s:par="CacheClearingBehavior=Clear+on+publish&amp;GridParameters=%7b908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7d"
+          s:ph="/main/container-8/coveouicontentsxa-1296663651/column-2-16" />
+        <r
+          uid="{894AE438-4870-4FC3-9B47-79904D0BB793}"
+          p:after="r[@uid='{7B487859-E363-4599-97BB-4F4570513294}']"
+          s:ds="{55CDBD4C-2EB5-49AC-8ECC-0688A412A0DB}"
+          s:id="{C4480A29-048D-4AD8-B951-2C19958CD49E}"
+          s:par="CacheClearingBehavior=Clear+on+publish&amp;GridParameters"
+          s:ph="/main/container-8/coveouicontentsxa-1296663651/container-19"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{2B1BA610-30F3-47D6-9734-C2D5A40F20BC}"
+          p:after="r[@uid='{894AE438-4870-4FC3-9B47-79904D0BB793}']"
+          s:ds="{397D1AEF-94EC-4A47-8D5F-FBEED79A7DE3}"
+          s:id="{C4480A29-048D-4AD8-B951-2C19958CD49E}"
+          s:par="CacheClearingBehavior=Clear+on+publish&amp;GridParameters"
+          s:ph="/main/container-8/coveouicontentsxa-1296663651/container-19"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{72436FC5-7356-40FA-B6DE-DB5C277DD4F8}"
+          p:after="r[@uid='{2B1BA610-30F3-47D6-9734-C2D5A40F20BC}']"
+          s:ds="{C90B1D6C-56F2-4084-9F92-9395938032F1}"
+          s:id="{2FF0F566-7DCF-4FF7-B6D7-E207E967A380}"
+          s:par="CacheClearingBehavior=Clear+on+publish&amp;GridParameters=%7b908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7d%7c%7b5D74AF38-1A37-491A-A4BB-A9E251D862F3%7d"
+          s:ph="/main/container-8/coveouicontentsxa-1296663651/container-18" />
+        <r
+          uid="{650FBABB-EEBE-43B0-97F6-F488825A82F8}"
+          p:after="r[@uid='{72436FC5-7356-40FA-B6DE-DB5C277DD4F8}']"
+          s:ds="{31DC8354-CEA1-4AAF-972F-88A977C8B4A4}"
+          s:id="{0CFF4B47-5F17-482F-8330-6BCB68495C17}"
+          s:par="CacheClearingBehavior=Clear+on+publish&amp;GridParameters=%7b908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7d"
+          s:ph="/main/container-8/coveouicontentsxa-1296663651/container-18"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{BD4FD27C-E57B-43DD-ABA5-D6209923E3D4}"
+          p:after="r[@uid='{650FBABB-EEBE-43B0-97F6-F488825A82F8}']"
+          s:ds="{87E1F19E-9079-4E2A-AEA9-52279FE0ACC6}"
+          s:id="{87182F78-4399-4896-8D59-9D6A45282F8A}"
+          s:par="RenderingIdentifier&amp;Styles&amp;GridParameters&amp;FieldNames=%7b161682E7-E283-4135-BACA-4E86D020BFDC%7d&amp;DynamicPlaceholderId=17&amp;CacheClearingBehavior=Clear+on+publish&amp;Reset Caching Options"
+          s:ph="/main/container-8/coveouicontentsxa-1296663651/column-1-16" />
+        <r
+          uid="{938CC17A-4733-4464-BA3A-BEDEE59E9155}"
+          p:after="r[@uid='{BD4FD27C-E57B-43DD-ABA5-D6209923E3D4}']"
+          s:ds=""
+          s:id="{C25766C8-9AFD-4D28-87FE-147774F6806D}"
+          s:par="DynamicPlaceholderId=16&amp;ColumnWidth6&amp;Styles4&amp;SplitterSize=2&amp;ColumnWidth3=%7b9AD9D6FB-28FC-43C5-8DA4-4A6A63CE802F%7d&amp;Reset Caching Options&amp;Styles7&amp;ColumnWidth1=%7b908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7d%7c%7b2AA00BBE-9366-43C7-8604-B6C431AEE01D%7d&amp;ColumnWidth4&amp;Styles3&amp;EnabledPlaceholders=1%2c2&amp;Styles1&amp;ColumnWidth8&amp;Styles2=%7bE796EC8C-437C-4995-A27A-363D4FD25B78%7d&amp;ColumnWidth7&amp;Styles6&amp;Styles5&amp;CacheClearingBehavior=Clear+on+publish&amp;ColumnWidth2=%7b908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7d%7c%7b5D74AF38-1A37-491A-A4BB-A9E251D862F3%7d&amp;Styles8&amp;ColumnWidth5"
+          s:ph="/main/container-8/coveouicontentsxa-1296663651" />
+        <r
+          uid="{1BE95756-0592-460C-9655-ED51923DB9D1}"
+          p:after="r[@uid='{938CC17A-4733-4464-BA3A-BEDEE59E9155}']"
+          s:ds=""
+          s:id="{896A2C68-1362-4E88-8BA0-1805AE6D4837}"
+          s:par="RenderingIdentifier&amp;Styles&amp;GridParameters=%7b908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7d&amp;DynamicPlaceholderId=19&amp;BackgroundImage&amp;CacheClearingBehavior=Clear+on+publish&amp;Reset Caching Options"
+          s:ph="/main/container-8/coveouicontentsxa-1296663651" />
+        <r
+          uid="{00C0A25F-2BF2-40B9-9B1E-D6922C5A8FE3}"
+          p:after="r[@uid='{1BE95756-0592-460C-9655-ED51923DB9D1}']"
+          s:ds="{63ADD3DF-AF16-406B-9F55-5A0040500560}"
+          s:id="{B9DF18AB-EEF7-474E-81CC-E9DBABA4550D}"
+          s:par="CacheClearingBehavior=Clear+on+publish&amp;GridParameters=%7b908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7d"
+          s:ph="/main/container-8/coveouicontentsxa-1296663651/coveouiresulttemplatessxa-1058215470" />
+        <r
+          uid="{21713E46-18D8-401C-A82A-210CB2452769}"
+          p:after="r[@uid='{00C0A25F-2BF2-40B9-9B1E-D6922C5A8FE3}']"
+          s:ds="{60FD5E7E-7636-4A1C-8F21-9082913EB334}"
+          s:id="{80539A62-550E-4B41-B54A-619BE7545357}"
+          s:par="CacheClearingBehavior=Clear+on+publish&amp;GridParameters=%7b908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7d"
+          s:ph="/main/container-8/coveouicontentsxa-1296663651" />
+        <r
+          uid="{314F2CFB-DD01-46C2-8F09-7395663AB435}"
+          p:after="r[@uid='{21713E46-18D8-401C-A82A-210CB2452769}']"
+          s:ds="{35681C6C-82AE-4DF1-8A49-87BAB694480B}"
+          s:id="{B9DF18AB-EEF7-474E-81CC-E9DBABA4550D}"
+          s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D"
+          s:ph="/main/container-8/coveouicontentsxa-1296663651/coveouiresulttemplatessxa-443596133"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{D086DD31-5A47-437D-BC82-DE28FBDF6475}"
+          p:after="r[@uid='{314F2CFB-DD01-46C2-8F09-7395663AB435}']"
+          s:ds="{6AFEEFC6-0AD7-4611-871D-F01F3CAF9715}"
+          s:id="{80539A62-550E-4B41-B54A-619BE7545357}"
+          s:par="CacheClearingBehavior=Clear+on+publish&amp;GridParameters=%7b908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7d"
+          s:ph="/main/container-8/coveouicontentsxa-1296663651" />
+        <r
+          uid="{3DF2DE58-F39D-4ACB-82B6-10AD91375705}"
+          p:after="r[@uid='{D086DD31-5A47-437D-BC82-DE28FBDF6475}']"
+          s:ds=""
+          s:id="{896A2C68-1362-4E88-8BA0-1805AE6D4837}"
+          s:par="RenderingIdentifier&amp;Styles=%7b8691CCF2-F787-4A34-AEF2-1C9E97660098%7d&amp;GridParameters=%7b908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7d&amp;DynamicPlaceholderId=18&amp;BackgroundImage&amp;CacheClearingBehavior=Clear+on+publish&amp;Reset Caching Options"
+          s:ph="/main/container-8/coveouicontentsxa-1296663651" />
+        <r
+          uid="{8A09A10C-2C08-43D8-A2E1-8AB259F8CF9F}"
+          p:after="r[@uid='{3DF2DE58-F39D-4ACB-82B6-10AD91375705}']"
+          s:ds=""
+          s:id="{91D97B28-E824-40B5-941F-F4D1E4EB97E1}"
+          s:par="CacheClearingBehavior=Clear+on+publish&amp;GridParameters=%7b908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7d"
+          s:ph="/main/container-8/coveouicontentsxa-1296663651" />
+        <r
+          uid="{E7B69424-0C83-4542-B616-370DC2F6AF8E}"
+          p:after="r[@uid='{8A09A10C-2C08-43D8-A2E1-8AB259F8CF9F}']"
+          s:ds="{477A1591-0B51-45BE-B244-B655F5C0E3B4}"
+          s:id="{140D62F3-23DB-41A5-B63A-C06B85468B4D}"
+          s:par="CacheClearingBehavior=Clear+on+publish&amp;GridParameters=%7b908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7d"
+          s:ph="/main/container-8/coveouicontentsxa-1296663651" />
+        <r
+          uid="{2DA3122F-F1A9-4F3D-B74E-1807FB931FB7}"
+          p:after="r[@uid='{E7B69424-0C83-4542-B616-370DC2F6AF8E}']"
+          s:ds="{39F5B072-ABC1-4808-B0D7-A312B8F6C899}"
+          s:id="{C30F9289-DCF1-4ACF-8960-491C932163B0}"
+          s:par="CacheClearingBehavior=Clear+on+publish&amp;GridParameters"
+          s:ph="/main/container-8" />
+        <r
+          uid="{D8044CC4-59C5-4DD1-B1AF-4ADD3E20A863}"
+          p:after="*[1=2]"
+          s:ds=""
+          s:id="{896A2C68-1362-4E88-8BA0-1805AE6D4837}"
+          s:par="RenderingIdentifier&amp;Styles&amp;GridParameters=%7b908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7d&amp;DynamicPlaceholderId=8&amp;BackgroundImage&amp;CacheClearingBehavior=Clear+on+publish&amp;Reset Caching Options"
+          s:ph="main" />
+      </d>
+      <d
+        id="{B039EBE1-5813-4243-81AE-EA55B2352D80}"
+        p:after="d[@id='{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}']"
+        s:l="{BCFC7537-EFF4-434C-96F5-BF4F55FD175B}" />
+      <d
+        id="{46D2F427-4CE5-4E1F-BA10-EF3636F43534}"
+        p:after="d[@id='{B039EBE1-5813-4243-81AE-EA55B2352D80}']"
+        s:l="{BCFC7537-EFF4-434C-96F5-BF4F55FD175B}" />
+      <d
+        id="{73966209-F1B6-43CA-853A-F1DB1C9A654B}"
+        p:after="d[@id='{46D2F427-4CE5-4E1F-BA10-EF3636F43534}']"
+        s:l="{BCFC7537-EFF4-434C-96F5-BF4F55FD175B}" />
+      <d
+        id="{0B4A31C9-712D-4578-A396-2DDC0F34B63A}"
+        p:after="*[1=2]"
+        s:l="{BCFC7537-EFF4-434C-96F5-BF4F55FD175B}" />
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211126T092621Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6b3c17ef-1ec6-4db8-a0df-f450c1653ac3"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahesh
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220523T111852Z
