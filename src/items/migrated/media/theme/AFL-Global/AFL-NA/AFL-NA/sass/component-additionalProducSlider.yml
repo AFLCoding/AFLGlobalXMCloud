@@ -1,0 +1,48 @@
+﻿---
+ID: "3163214f-dcdf-488a-933a-2e77ce435d58"
+Parent: "dfc220bd-6bb4-4c9b-83d1-8a7acb9fd4eb"
+Template: "962b53c4-f93b-4df9-9821-415c867b8903"
+Path: "/sitecore/media library/Themes/AFL-Global/AFL-NA/AFL-NA/sass/component-additionalProducSlider"
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/3163214FDCDF488A933A2E77CE435D58.ashx?h=16&thn=1&w=16"
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "1a2cf58b-91fd-433a-b8bf-2f648244dae2"
+  Value: LyogU2xpZGVyICovDQoNCg0KLnNsaWNrLXNsaWRlciB7DQogICAgcG9zaXRpb246IHJlbGF0aXZlOw0KICAgIGRpc3BsYXk6IGJsb2NrOw0KICAgIGJveC1zaXppbmc6IGJvcmRlci1ib3g7DQogICAgLXdlYmtpdC11c2VyLXNlbGVjdDogbm9uZTsNCiAgICAtbW96LXVzZXItc2VsZWN0OiBub25lOw0KICAgIC1tcy11c2VyLXNlbGVjdDogbm9uZTsNCiAgICB1c2VyLXNlbGVjdDogbm9uZTsNCiAgICAtd2Via2l0LXRvdWNoLWNhbGxvdXQ6IG5vbmU7DQogICAgLWtodG1sLXVzZXItc2VsZWN0OiBub25lOw0KICAgIC1tcy10b3VjaC1hY3Rpb246IHBhbi15Ow0KICAgIHRvdWNoLWFjdGlvbjogcGFuLXk7DQogICAgLXdlYmtpdC10YXAtaGlnaGxpZ2h0LWNvbG9yOiB0cmFuc3BhcmVudDsNCiAgICAuc2xpY2stdHJhY2sgew0KICAgICAgICAtd2Via2l0LXRyYW5zZm9ybTogdHJhbnNsYXRlM2QoMCwgMCwgMCk7DQogICAgICAgIC1tb3otdHJhbnNmb3JtOiB0cmFuc2xhdGUzZCgwLCAwLCAwKTsNCiAgICAgICAgLW1zLXRyYW5zZm9ybTogdHJhbnNsYXRlM2QoMCwgMCwgMCk7DQogICAgICAgIC1vLXRyYW5zZm9ybTogdHJhbnNsYXRlM2QoMCwgMCwgMCk7DQogICAgICAgIHRyYW5zZm9ybTogdHJhbnNsYXRlM2QoMCwgMCwgMCk7DQogICAgfQ0KICAgIC5zbGljay1saXN0IHsNCiAgICAgICAgLXdlYmtpdC10cmFuc2Zvcm06IHRyYW5zbGF0ZTNkKDAsIDAsIDApOw0KICAgICAgICAtbW96LXRyYW5zZm9ybTogdHJhbnNsYXRlM2QoMCwgMCwgMCk7DQogICAgICAgIC1tcy10cmFuc2Zvcm06IHRyYW5zbGF0ZTNkKDAsIDAsIDApOw0KICAgICAgICAtby10cmFuc2Zvcm06IHRyYW5zbGF0ZTNkKDAsIDAsIDApOw0KICAgICAgICB0cmFuc2Zvcm06IHRyYW5zbGF0ZTNkKDAsIDAsIDApOw0KICAgIH0NCn0NCg0KLnNsaWNrLWxpc3Qgew0KICAgIHBvc2l0aW9uOiByZWxhdGl2ZTsNCiAgICBkaXNwbGF5OiBibG9jazsNCiAgICBvdmVyZmxvdzogaGlkZGVuOw0KICAgIG1hcmdpbjogMDsNCiAgICBwYWRkaW5nOiAwOw0KICAgICY6Zm9jdXMgew0KICAgICAgICBvdXRsaW5lOiBub25lOw0KICAgIH0NCn0NCg0KLnNsaWNrLWxpc3QuZHJhZ2dpbmcgew0KICAgIGN1cnNvcjogcG9pbnRlcjsNCiAgICBjdXJzb3I6IGhhbmQ7DQp9DQoNCi5zbGljay10cmFjayB7DQogICAgcG9zaXRpb246IHJlbGF0aXZlOw0KICAgIHRvcDogMDsNCiAgICBsZWZ0OiAwOw0KICAgIGRpc3BsYXk6IGJsb2NrOw0KICAgIG1hcmdpbi1sZWZ0OiBhdXRvOw0KICAgIG1hcmdpbi1yaWdodDogYXV0bzsNCiAgICAmOmJlZm9yZSB7DQogICAgICAgIGRpc3BsYXk6IHRhYmxlOw0KICAgICAgICBjb250ZW50OiAnJzsNCiAgICB9DQogICAgJjphZnRlciB7DQogICAgICAgIGRpc3BsYXk6IHRhYmxlOw0KICAgICAgICBjb250ZW50OiAnJzsNCiAgICAgICAgY2xlYXI6IGJvdGg7DQogICAgfQ0KfQ0KDQouc2xpY2stbG9hZGluZyB7DQogICAgLnNsaWNrLXRyYWNrIHsNCiAgICAgICAgdmlzaWJpbGl0eTogaGlkZGVuOw0KICAgIH0NCiAgICAuc2xpY2stc2xpZGUgew0KICAgICAgICB2aXNpYmlsaXR5OiBoaWRkZW47DQogICAgfQ0KfQ0KDQouc2xpY2stc2xpZGUgew0KICAgIGRpc3BsYXk6IG5vbmU7DQogICAgZmxvYXQ6IGxlZnQ7DQogICAgaGVpZ2h0OiAxMDAlOw0KICAgIG1pbi1oZWlnaHQ6IDFweDsNCiAgICBpbWcgew0KICAgICAgICBkaXNwbGF5OiBibG9jazsNCiAgICB9DQp9DQoNCltkaXI9J3J0bCddIHsNCiAgICAuc2xpY2stc2xpZGUgew0KICAgICAgICBmbG9hdDogcmlnaHQ7DQogICAgfQ0KfQ0KDQouc2xpY2stc2xpZGUuc2xpY2stbG9hZGluZyB7DQogICAgaW1nIHsNCiAgICAgICAgZGlzcGxheTogbm9uZTsNCiAgICB9DQp9DQoNCi5zbGljay1zbGlkZS5kcmFnZ2luZyB7DQogICAgaW1nIHsNCiAgICAgICAgcG9pbnRlci1ldmVudHM6IG5vbmU7DQogICAgfQ0KfQ0KDQouc2xpY2staW5pdGlhbGl6ZWQgew0KICAgIC5zbGljay1zbGlkZSB7DQogICAgICAgIGRpc3BsYXk6IGJsb2NrOw0KICAgIH0NCn0NCg0KLnNsaWNrLXZlcnRpY2FsIHsNCiAgICAuc2xpY2stc2xpZGUgew0KICAgICAgICBkaXNwbGF5OiBibG9jazsNCiAgICAgICAgaGVpZ2h0OiBhdXRvOw0KICAgICAgICBib3JkZXI6IDFweCBzb2xpZCB0cmFuc3BhcmVudDsNCiAgICB9DQp9DQoNCi5zbGljay1hcnJvdy5zbGljay1oaWRkZW4gew0KICAgIGRpc3BsYXk6IG5vbmU7DQp9DQoNCg==
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 2227
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: "application/octet-stream"
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: scss
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211208T125004Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b5d6b3fb-21c7-4b72-9d6a-3ef9b25c4045"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\jeetendra
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220217T124209Z

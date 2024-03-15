@@ -1,0 +1,30 @@
+﻿---
+ID: "dfc220bd-6bb4-4c9b-83d1-8a7acb9fd4eb"
+Parent: "1d3a5b32-d9b8-4d4f-9da8-ce02af809b1d"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: "/sitecore/media library/Themes/AFL-Global/AFL-NA/AFL-NA/sass"
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/DFC220BD6BB44C9B83D18A7ACB9FD4EB.ashx?h=16&thn=1&w=16"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 650
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211029T114446Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b8f7e4b7-4eb8-4454-995a-71ac6084b0b2"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\jeetendra
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220106T063456Z

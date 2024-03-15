@@ -1,0 +1,123 @@
+﻿---
+ID: "e011f044-189c-42d2-b128-4c24d1f76f1e"
+Parent: "7d5b3b80-8c65-49e8-98a8-f5673e495599"
+Template: "962b53c4-f93b-4df9-9821-415c867b8903"
+Path: "/sitecore/media library/Themes/AFL-Global/AFL-NA/AFL-NA/styles/component-common"
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/E011F044189C42D2B1284C24D1F76F1E.ashx?h=16&thn=1&w=16"
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "0350c4d1-3377-4b90-ba62-224877645ae3"
+  Value: I3dyYXBwZXIgewogIG92ZXJmbG93OiBoaWRkZW47Cn0KCi5yb3cuY29sdW1uLXNwbGl0dGVyIHsKICBtYXJnaW4tbGVmdDogMDsKICBtYXJnaW4tcmlnaHQ6IDA7Cn0KCi5yb3cuY29sdW1uLXNwbGl0dGVyID4gZGl2IHsKICBwYWRkaW5nLWxlZnQ6IDA7CiAgcGFkZGluZy1yaWdodDogMDsKfQoKLmltYWdlIGEgewogIGRpc3BsYXk6IGlubGluZS1ibG9jazsKICBtYXgtd2lkdGg6IDEwMCU7Cn0KCi5pbWFnZSBpbWcgewogIG1heC13aWR0aDogMTAwJTsKICBoZWlnaHQ6IGF1dG87Cn0KCi5jb250ZW50IHsKICBiYWNrZ3JvdW5kOiAwIDA7CiAgY29sb3I6ICM3NDc0NzQ7CiAgYm9yZGVyOiB0cmFuc3BhcmVudDsKICBsaW5lLWhlaWdodDogMS41OwogIGZvbnQtc2l6ZTogMTJweDsKICBvdmVyZmxvdzogaGlkZGVuOwp9CgoucmljaC10ZXh0IHsKICBiYWNrZ3JvdW5kOiAwIDA7CiAgY29sb3I6ICM3NDc0NzQ7CiAgYm9yZGVyOiB0cmFuc3BhcmVudDsKICBsaW5lLWhlaWdodDogMS41OwogIGZvbnQtc2l6ZTogMTJweDsKICBvdmVyZmxvdzogaGlkZGVuOwp9Cg==
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 544
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: text/css
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: css
+Languages:
+- Language: "de-DE"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220203T110715Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\jeetendra
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\jeetendra
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "41fc0256-030b-4cd0-b0e3-5c23a314fcd3"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\jeetendra
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220203T110715Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220203T110715Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\jeetendra
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\jeetendra
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "75a21d7f-8702-4c71-9c04-4b33e75a1fd3"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\jeetendra
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220302T102020Z
+- Language: "es-ES"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220203T110715Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\jeetendra
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\jeetendra
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "88487481-acec-42a5-a0cb-238be53f6ba3"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\jeetendra
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220203T110715Z
+- Language: "fr-FR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220203T110715Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\jeetendra
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\jeetendra
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "06d38068-d774-4542-8e11-ab4029b01dc9"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\jeetendra
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220203T110715Z

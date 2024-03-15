@@ -1,0 +1,73 @@
+﻿---
+ID: "6b635f92-892c-4baa-b3f5-d86fa029b401"
+Parent: "92f25393-0874-4ddb-92ae-1e7ee892c39b"
+Template: "962b53c4-f93b-4df9-9821-415c867b8903"
+Path: "/sitecore/media library/Themes/AFL-Global/AFL-APAC/AFL-APAC/Scripts/2-2-component-additionalProduct"
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/E425AC3CA67249849018AD5475D6146F.ashx?h=16&thn=1&w=16"
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "f9700029-91b3-448a-a9b6-650454bc5caf"
+  Value: WEEuY29tcG9uZW50LkFGTHByb2R1Y3RjYXJvdXNlbCA9IChmdW5jdGlvbigkKSB7DQoNCiAgICB2YXIgYXBpID0ge307DQogICAgYXBpLmluaXQgPSBmdW5jdGlvbigpIHsNCg0KDQogICAgICAgIC8vICAgIG5ldyBjb2RlDQogICAgICAgIHZhciAkc2xpZGVyMSA9ICQoJy5hZmwtcHJvZHVjdC1pdGVtJyk7DQogICAgICAgIHZhciAkcHJvZ3Jlc3NCYXIgPSAkKCcuYWZsLXByb2dyZXNzJyk7DQogICAgICAgIHZhciAkcHJvZ3Jlc3NCYXJMYWJlbCA9ICQoJy5zbGlkZXJfX2xhYmVsJyk7DQoNCg0KICAgICAgICAkc2xpZGVyMS5vbignYmVmb3JlQ2hhbmdlJywgZnVuY3Rpb24oZXZlbnQsIHNsaWNrLCBjdXJyZW50U2xpZGUsIG5leHRTbGlkZSkgew0KICAgICAgICAgICAgdmFyIGNhbGMgPSAoKG5leHRTbGlkZSkgLyAoc2xpY2suc2xpZGVDb3VudCAtIDEpKSAqIDEwMDsNCg0KICAgICAgICAgICAgJHByb2dyZXNzQmFyDQogICAgICAgICAgICAgICAgLmNzcygnYmFja2dyb3VuZC1zaXplJywgY2FsYyArICclIDEwMCUnKQ0KICAgICAgICAgICAgICAgIC5hdHRyKCdhcmlhLXZhbHVlbm93JywgY2FsYyk7DQoNCiAgICAgICAgICAgICRwcm9ncmVzc0JhckxhYmVsLnRleHQoY2FsYyArICclIGNvbXBsZXRlZCcpOw0KICAgICAgICB9KTsNCiAgICAgICAgJHNsaWRlcjEuc2xpY2soew0KICAgICAgICAgICAgc2xpZGVzVG9TaG93OiA3LA0KICAgICAgICAgICAgc2xpZGVzVG9TY3JvbGw6IDEsDQogICAgICAgICAgICBzcGVlZDogNDAwLA0KICAgICAgICAgICAgaW5maW5pdGU6IGZhbHNlLA0KICAgICAgICAgICAgcmVzcG9uc2l2ZTogW3sNCiAgICAgICAgICAgICAgICAgICAgYnJlYWtwb2ludDogNzY3LA0KICAgICAgICAgICAgICAgICAgICBzZXR0aW5nczogew0KICAgICAgICAgICAgICAgICAgICAgICAgc2xpZGVzVG9TaG93OiA1LA0KICAgICAgICAgICAgICAgICAgICAgICAgc2xpZGVzVG9TY3JvbGw6IDEsDQogICAgICAgICAgICAgICAgICAgIH0sDQogICAgICAgICAgICAgICAgfSwNCiAgICAgICAgICAgICAgICB7DQogICAgICAgICAgICAgICAgICAgIGJyZWFrcG9pbnQ6IDMyMCwNCiAgICAgICAgICAgICAgICAgICAgc2V0dGluZ3M6IHsNCiAgICAgICAgICAgICAgICAgICAgICAgIHNsaWRlc1RvU2hvdzogMywNCiAgICAgICAgICAgICAgICAgICAgICAgIHNsaWRlc1RvU2Nyb2xsOiAxLA0KICAgICAgICAgICAgICAgICAgICB9LA0KICAgICAgICAgICAgICAgIH0sDQogICAgICAgICAgICBdLA0KICAgICAgICB9KTsNCiAgICAgICAgLy8gICAgbmV3IGNvZGUNCg0KDQoNCiAgICB9DQoNCg0KDQogICAgcmV0dXJuIGFwaTsNCn0pKGpRdWVyeSk7DQoNClhBLnJlZ2lzdGVyKCJBRkxwcm9kdWN0Y2Fyb3VzZWwiLCBYQS5jb21wb25lbnQuQUZMcHJvZHVjdGNhcm91c2VsKTs=
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 1409
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: "application/x-javascript"
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: js
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211222T170019Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\jeetendra
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\jeetendra
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ca79cc29-73c7-470e-8d0a-d4fec4204151"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\jeetendra
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220204T152143Z
+- Language: "fr-FR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211222T170019Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\jeetendra
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\jeetendra
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7c4c4d07-8201-4cf0-84d2-3497b1329300"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\jeetendra
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20211222T170019Z

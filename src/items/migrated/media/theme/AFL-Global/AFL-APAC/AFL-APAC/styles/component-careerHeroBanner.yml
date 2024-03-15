@@ -1,0 +1,123 @@
+﻿---
+ID: "5f3045e9-5348-47f6-96ab-3f84886ec6f5"
+Parent: "f1db9abe-cb36-4282-8c81-0533a295df98"
+Template: "962b53c4-f93b-4df9-9821-415c867b8903"
+Path: "/sitecore/media library/Themes/AFL-Global/AFL-APAC/AFL-APAC/styles/component-careerHeroBanner"
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/93BA51A448DA48D7B2F982C49580FC0B.ashx?h=16&thn=1&w=16"
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "44652865-718e-4c33-becb-26f1b9adaf77"
+  Value: QGltcG9ydCB1cmwoJ2h0dHBzOi8vZm9udHMuZ29vZ2xlYXBpcy5jb20vY3NzMj9mYW1pbHk9SGluZDp3Z2h0QDMwMDs0MDA7NTAwOzYwMDs3MDAmZGlzcGxheT1zd2FwJyk7DQouY2FyZWVyLWhlcm9CYW5uZXIgIGgye21hcmdpbi1ib3R0b206NXB4O3dpZHRoOiAxMDAlO2NvbG9yOiAjMDA0MjgyO2ZvbnQtc2l6ZTogMThweDtsZXR0ZXItc3BhY2luZzogMy41cHg7Zm9udC13ZWlnaHQ6IGJvbGQ7fQ0KLmNhcmVlci1oZXJvQmFubmVyIGgze3dpZHRoOiAxMDAlOyBjb2xvcjogI2ZmZjtmb250LXNpemU6IDMwcHg7Zm9udC13ZWlnaHQ6IDUwMDttYXJnaW4tYm90dG9tOiAxOHB4O30NCi5jYXJlZXItaGVyb0Jhbm5lciBwe3dpZHRoOiA1MCU7Y29sb3I6ICNmZmY7Zm9udC1zaXplOiAxNnB4O2xldHRlci1zcGFjaW5nOiAwLjJweDtsaW5lLWhlaWdodDogMjVweDsgb3ZlcmZsb3c6IGhpZGRlbjsNCiAgICBkaXNwbGF5OiAtd2Via2l0LWJveDsNCiAgICAtd2Via2l0LWxpbmUtY2xhbXA6IDM7DQogICAgLXdlYmtpdC1ib3gtb3JpZW50OiB2ZXJ0aWNhbDt9DQouY2FyZWVyLWhlcm9CYW5uZXIge3Bvc2l0aW9uOiByZWxhdGl2ZTtwYWRkaW5nOiAwO3dpZHRoOiAxMDAlfQ0KLmNhcmVlci1oZXJvQmFubmVyIC5oZXJvLWJvZHl7cG9zaXRpb246IGFic29sdXRlO3RvcDogNjBweDt9DQouY2FyZWVyLWhlcm9CYW5uZXIgLmZpZWxkLWhlcm9iYWNrZ3JvdW5kaW1hZ2UgaW1ne2hlaWdodDogMTAwJTt3aWR0aDogMTAwJTsgZGlzcGxheTogYmxvY2s7fQ0KQG1lZGlhIG9ubHkgc2NyZWVuIGFuZCAobWF4LXdpZHRoOiA3NjdweCl7DQogICAgLmNhcmVlci1oZXJvQmFubmVyIC5maWVsZC1oZXJvYmFja2dyb3VuZGltYWdlIGltZ3sNCiAgICAgICAgb2JqZWN0LWZpdDogY292ZXI7DQogICAgICAgIG9iamVjdC1wb3NpdGlvbjogNTIlOw0KICAgICAgICBoZWlnaHQ6IDMxNXB4Ow0KICAgIH0NCiAgICAuY2FyZWVyLWhlcm9CYW5uZXIgaDJ7DQogICAgICAgIGZvbnQtc2l6ZTogMTRweDsNCiAgICB9DQogICAgLmNhcmVlci1oZXJvQmFubmVyIGgzew0KICAgICAgICBmb250LXNpemU6IDE2cHg7DQogICAgZm9udC13ZWlnaHQ6IDUwMDsNCiAgICBtYXJnaW4tYm90dG9tOiA1cHg7DQogICAgfQ0KICAgIC5jYXJlZXItaGVyb0Jhbm5lciBwew0KICAgICAgICB3aWR0aDogNjMlOw0KICAgICAgICBjb2xvcjogI2ZmZjsNCiAgICAgICAgZm9udC1zaXplOiAxMnB4Ow0KICAgICAgICBsZXR0ZXItc3BhY2luZzogMC4ycHg7DQogICAgICAgIGxpbmUtaGVpZ2h0OiAyMHB4Ow0KICAgICAgICBvdmVyZmxvdzogaGlkZGVuOw0KICAgICAgICBkaXNwbGF5OiAtd2Via2l0LWJveDsNCiAgICAgICAgLXdlYmtpdC1saW5lLWNsYW1wOiAzOw0KICAgICAgICAtd2Via2l0LWJveC1vcmllbnQ6IHZlcnRpY2FsOw0KDQogICAgfQ0KICAgIC5jYXJlZXItaGVyb0Jhbm5lciAuaGVyby1ib2R5ew0KICAgICAgICB0b3A6IDI1cHg7DQogICAgICAgIGxlZnQ6IDMycHg7DQogICAgfQ0KICAgIC5hZmwtY2FyZWVyLWJhbm5lciAuZC1mbGV4ew0KICAgICAgICBmbGV4LWRpcmVjdGlvbjogY29sdW1uOw0KICAgIH0NCiAgICAuYnRuLmZpZWxkLWhlcm9saW5rMSBhLC5idG4uZmllbGQtaGVyb2xpbmsyIGF7DQogICAgICAgIG1pbi13aWR0aDogMjIwcHg7DQogICAgICAgIG1hcmdpbi1ib3R0b206IDEwcHg7DQogICAgfQ0KfQ0KQG1lZGlhIG9ubHkgc2NyZWVuIGFuZCAobWluLXdpZHRoOjc2OHB4KSBhbmQgKG1heC13aWR0aDogOTkxcHgpew0KICAgIC5jYXJlZXItaGVyb0Jhbm5lciAuZmllbGQtaGVyb2JhY2tncm91bmRpbWFnZSBpbWcgew0KICAgICAgICBoZWlnaHQ6IDIzMHB4Ow0KICAgICAgICBvYmplY3QtZml0OiBjb3ZlcjsNCiAgICAgICAgfQ0KICAgICAgICAuY2FyZWVyLWhlcm9CYW5uZXIgLmhlcm8tYm9keSB7DQogICAgICAgIHRvcDogMzBweDsNCiAgICAgICAgd2lkdGg6IDYyMHB4Ow0KICAgICAgICBtYXJnaW46IGF1dG87DQogICAgICAgIGxlZnQ6IDA7DQogICAgICAgIHJpZ2h0OiAwOw0KICAgICAgICB9DQogICAgICAgIC5jYXJlZXItaGVyb0Jhbm5lciBoMiB7DQogICAgICAgIG1hcmdpbi1ib3R0b206IDA7DQogICAgICAgIH0NCiAgICAgICAgLmNhcmVlci1oZXJvQmFubmVyIGgzIHsNCiAgICAgICAgZm9udC1zaXplOiAyMHB4Ow0KICAgICAgICBtYXJnaW4tYm90dG9tOiA4cHg7DQogICAgICAgIH0NCiAgICAgICAgLmNhcmVlci1oZXJvQmFubmVyIHAgew0KICAgICAgICBvdmVyZmxvdzogaGlkZGVuOw0KICAgICAgICBkaXNwbGF5OiAtd2Via2l0LWJveDsNCiAgICAgICAgLXdlYmtpdC1saW5lLWNsYW1wOiAzOw0KICAgICAgICAtd2Via2l0LWJveC1vcmllbnQ6IHZlcnRpY2FsOw0KICAgICAgICBmb250LXNpemU6IDEycHg7DQogICAgICAgIGxpbmUtaGVpZ2h0OiAxNnB4Ow0KICAgICAgICB9DQogICAgICAgIC5jYXJlZXItaGVyb0Jhbm5lciBhLmJ0biB7DQogICAgICAgIHBhZGRpbmc6IDVweCA1MHB4IDVweCAzMHB4ICFpbXBvcnRhbnQ7DQogICAgICAgIH0NCn0NCg0K
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 2529
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: text/css
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: css
+Languages:
+- Language: "de-DE"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220203T110711Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\jeetendra
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\jeetendra
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e42c5452-fa86-492f-873e-2aa1ee091a4f"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\jeetendra
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220203T110711Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220203T110711Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\jeetendra
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\jeetendra
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f76abe3e-abf6-4696-96f5-bf8a4eef9ec1"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\jeetendra
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220203T110712Z
+- Language: "es-ES"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220203T110711Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\jeetendra
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\jeetendra
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "92bb1e2a-958b-45dc-a401-2660c2f4d6d0"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\jeetendra
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220203T110711Z
+- Language: "fr-FR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220203T110711Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\jeetendra
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\jeetendra
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e50465c7-d3f5-4ed0-8fb8-1e4b8634ef45"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\jeetendra
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220203T110712Z
