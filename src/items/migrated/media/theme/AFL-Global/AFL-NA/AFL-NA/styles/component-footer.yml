@@ -1,0 +1,123 @@
+﻿---
+ID: "2b5e2e32-173a-4290-9d22-c406a947b9b8"
+Parent: "7d5b3b80-8c65-49e8-98a8-f5673e495599"
+Template: "962b53c4-f93b-4df9-9821-415c867b8903"
+Path: "/sitecore/media library/Themes/AFL-Global/AFL-NA/AFL-NA/styles/component-footer"
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/2B5E2E32173A42909D22C406A947B9B8.ashx?h=16&thn=1&w=16"
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "af2bc1e9-fdb2-43ad-9dfa-e25ddea32276"
+  Value: Zm9vdGVyIHVsIGxpIGEgewogIGNvbG9yOiAjN2E3YTdhOwogIGZvbnQtc2l6ZTogMS4ycmVtOwogIGxpbmUtaGVpZ2h0OiAyMXB4Owp9Cgpmb290ZXIgaDMgewogIGZvbnQtd2VpZ2h0OiBib2xkOwogIGxldHRlci1zcGFjaW5nOiAyLjhweDsKICBmb250LXNpemU6IDE0cHg7CiAgY29sb3I6ICM3YTdhN2E7Cn0KCmZvb3RlciBoMyBhIHsKICBjb2xvcjogIzdhN2E3YTsKICBmb250LXNpemU6IDEuMnJlbTsKfQoKZm9vdGVyIC5saW5rLWxpc3QgaDMgewogIGJvcmRlci1ib3R0b20tY29sb3I6IHRyYW5zcGFyZW50OwogIG1hcmdpbi1ib3R0b206IDEwcHg7CiAgdGV4dC10cmFuc2Zvcm06IHVwcGVyY2FzZTsKfQoKZm9vdGVyIC5saW5rLWxpc3QgPiAuY29tcG9uZW50LWNvbnRlbnQgbGkgYSB7CiAgbGluZS1oZWlnaHQ6IDIycHg7CiAgZm9udC1zaXplOiAxNHB4Owp9Cgpmb290ZXIgYSBpbWcgewogIHdpZHRoOiAyNHB4ICFpbXBvcnRhbnQ7CiAgbWFyZ2luOiA1cHggOHB4IDNweCAwcHg7CiAgLW8tb2JqZWN0LWZpdDogY29udGFpbjsKICAgICBvYmplY3QtZml0OiBjb250YWluOwogIGhlaWdodDogMjRweCAhaW1wb3J0YW50Owp9Cgpmb290ZXIgcCB7CiAgY29sb3I6ICNmZmY7CiAgbWFyZ2luOiAwOwp9Cgpmb290ZXIgcCBhIHsKICBjb2xvcjogI2ZmZjsKICBtYXJnaW46IDA7Cn0KCi5zdXBlckZvb3RlciB7CiAgYmFja2dyb3VuZDogI2U4ZThlODsKICBwYWRkaW5nOiA0cmVtIDAgIWltcG9ydGFudDsKICB3aWR0aDogMTAwJTsKfQoKLnN1cGVyRm9vdGVyIC5kLWZsZXggewogIC1tcy1mbGV4LXdyYXA6IHdyYXA7CiAgICAgIGZsZXgtd3JhcDogd3JhcDsKfQoKLnN1cGVyRm9vdGVyQ29sIHsKICB3aWR0aDogMTMuNCU7CiAgZmxvYXQ6IGxlZnQ7CiAgbWFyZ2luOiAwIDExcHggMCAwOwogIHBhZGRpbmc6IDAgMTFweCAwIDEwcHg7CiAgYm9yZGVyLWxlZnQ6IDFweCBzb2xpZCAjY2NjOwp9Cgouc3VwZXJGb290ZXJDb2wgLmNvbnRhY3ROdW1iZXIgYSB7CiAgZm9udC13ZWlnaHQ6IGJvbGQ7CiAgbWFyZ2luLWxlZnQ6IDRweDsKfQoKLnN1cGVyRm9vdGVyQ29sOmxhc3QtY2hpbGQgewogIGJvcmRlci1sZWZ0OiBub25lOwp9Cgouc3VwZXJGb290ZXJDb2wgaDYgewogIGZvbnQtc2l6ZTogMTNweDsKICBjb2xvcjogIzkwOTA5MDsKICB0ZXh0LWRlY29yYXRpb246IG5vbmU7CiAgZm9udC13ZWlnaHQ6IGJvbGQ7Cn0KCi5zdXBlckZvb3RlckNvbCBkaXYgYSB7CiAgZm9udC1zaXplOiAxM3B4OwogIGNvbG9yOiAjNjY2NjY2OwogIHRleHQtZGVjb3JhdGlvbjogbm9uZTsKfQoKLnN1YkZvb3RlciB7CiAgYmFja2dyb3VuZDogI2MyYzJjMjsKICBib3JkZXItdG9wOiA0cHggc29saWQgIzAwN2NiNjsKICB3aWR0aDogMTAwJTsKICBwYWRkaW5nOiAwLjVyZW0gMDsKfQoKLnN1YkZvb3RlciAuY29tcG9uZW50LWNvbnRlbnQgewogIG1hcmdpbjogYXV0byAwICFpbXBvcnRhbnQ7CiAgbWF4LXdpZHRoOiAxMDAlICFpbXBvcnRhbnQ7Cn0KCi5zdWJGb290ZXIgLnJpY2gtdGV4dCB7CiAgcGFkZGluZy1yaWdodDogMDsKfQoKLnN1YkZvb3RlciAucmljaC10ZXh0IHAgewogIHBhZGRpbmc6IDE0cHggMDsKICBtYXJnaW4tbGVmdDogNi4ycmVtOwp9Cgouc3ViRm9vdGVyIC5yaWNoLXRleHQgYSB7CiAgY29sb3I6ICNmZmY7CiAgbWFyZ2luOiAwOwp9CgoubGluay1saXN0LnN1cGVyRm9vdGVyQ29sID4gLmNvbXBvbmVudC1jb250ZW50IGxpIGEgewogIHBhZGRpbmctbGVmdDogMDsKfQoKLmxpbmstbGlzdC5zdXBlckZvb3RlckNvbCA+IC5jb21wb25lbnQtY29udGVudCBsaSBhOmhvdmVyIHsKICBjb2xvcjogIzAwYzBmMyAhaW1wb3J0YW50OwogIHRleHQtZGVjb3JhdGlvbjogdW5kZXJsaW5lOwp9CgoubGluay1saXN0LnN1cGVyRm9vdGVyQ29sID4gLmNvbXBvbmVudC1jb250ZW50IGxpIGE6YmVmb3JlIHsKICBkaXNwbGF5OiBub25lOwp9CgouY29udGFjdE51bWJlciBoMyB7CiAgbGV0dGVyLXNwYWNpbmc6IDAuNXB4OwogIGNvbG9yOiAjOTA5MDkwOwp9CgouY29udGFjdE51bWJlciAucmljaC10ZXh0IGEgewogIHRleHQtZGVjb3JhdGlvbjogbm9uZTsKICBmb250LXNpemU6IDEuMmVtOwogIGNvbG9yOiAjOTA5MDkwOwp9CgoubWVkaWFUaXRsZSBoMyB7CiAgbGV0dGVyLXNwYWNpbmc6IDAuNXB4OwogIGNvbG9yOiAjOTA5MDkwOwp9CgoubWVkaWFJY29ucyB7CiAgbWFyZ2luLWJvdHRvbTogMTZweDsKfQoKLm1lZGlhSWNvbnMgaDMgewogIGxldHRlci1zcGFjaW5nOiAwLjVweDsKICBjb2xvcjogIzkwOTA5MDsKfQoKLm1lZGlhSWNvbnMgYSB7CiAgZGlzcGxheTogLXdlYmtpdC1pbmxpbmUtYm94OwogIGRpc3BsYXk6IC1tcy1pbmxpbmUtZmxleGJveDsKICBkaXNwbGF5OiBpbmxpbmUtZmxleDsKfQoKLnN1YkZvb3Rlci53aWR0aC05NSAucmljaC10ZXh0IC5jb21wb25lbnQtY29udGVudCB7CiAgbWF4LXdpZHRoOiAxMDAlOwp9CgouZm9vdGVyLWxvZ28gewogIG1hcmdpbi1ib3R0b206IDE2cHg7Cn0KCiNmb290ZXIgewogIG1heC13aWR0aDogMTAwJTsKfQoKI2Zvb3RlciAuY29udGFpbmVyIHsKICBtYXgtd2lkdGg6IDEwMCU7Cn0KCi53aWR0aC05NSAuY29tcG9uZW50LWNvbnRlbnQgewogIG1heC13aWR0aDogOTUlOwogIG1hcmdpbjogYXV0bzsKfQoKQG1lZGlhIHNjcmVlbiBhbmQgKG1heC13aWR0aDogNzY3cHgpIHsKICAuc3VwZXJGb290ZXIgewogICAgcGFkZGluZzogMCAhaW1wb3J0YW50OwogIH0KICAuc3VwZXJGb290ZXIgLnN1cGVyRm9vdGVyQ29sIHVsIHsKICAgIGRpc3BsYXk6IG5vbmU7CiAgfQogIC5zdXBlckZvb3RlciAuY29tcG9uZW50LWNvbnRlbnQgLnJvdyB7CiAgICBwYWRkaW5nOiAzNXB4IDAgMDsKICB9CiAgZm9vdGVyIGgzIHsKICAgIGxpbmUtaGVpZ2h0OiAyNXB4OwogICAgbGV0dGVyLXNwYWNpbmc6IDMuMnB4OwogICAgZm9udC1zaXplOiAxNHB4OwogIH0KICBmb290ZXIgaDM6YWZ0ZXIgewogICAgY29udGVudDogJyc7CiAgICBkaXNwbGF5OiBibG9jazsKICAgIHBvc2l0aW9uOiBhYnNvbHV0ZTsKICAgIHRvcDogLTNweDsKICAgIHJpZ2h0OiAtMjBweDsKICAgIGJvdHRvbTogMDsKICAgIGxlZnQ6IGF1dG87CiAgICBtYXJnaW46IGF1dG87CiAgICB3aWR0aDogMDsKICAgIGhlaWdodDogMDsKICAgIGJvcmRlci10b3A6IDVweCBzb2xpZCB0cmFuc3BhcmVudDsKICAgIGJvcmRlci1yaWdodDogNXB4IHNvbGlkIHRyYW5zcGFyZW50OwogICAgYm9yZGVyLWJvdHRvbTogNHB4IHNvbGlkIHRyYW5zcGFyZW50OwogICAgYm9yZGVyLWxlZnQ6IDZweCBzb2xpZCAjOTA5MDkwOwogIH0KICBmb290ZXIgLmxpbmstbGlzdCBoMyB7CiAgICBtYXJnaW46IDNweCAwOwogICAgdGV4dC10cmFuc2Zvcm06IHVwcGVyY2FzZTsKICAgIGRpc3BsYXk6IGlubGluZS1ibG9jazsKICAgIHBvc2l0aW9uOiByZWxhdGl2ZTsKICB9CiAgZm9vdGVyIC5saW5rLWxpc3QgPiAuY29tcG9uZW50LWNvbnRlbnQgdWwgewogICAgZGlzcGxheTogbm9uZTsKICB9CiAgZm9vdGVyIGEgaW1nIHsKICAgIG1hcmdpbjogMTBweCAxNHB4IDFweCAwcHg7CiAgfQogIC5jb21wb25lbnQubGluay1saXN0LnN1cGVyRm9vdGVyQ29sIHsKICAgIHdpZHRoOiA1MCU7CiAgICBtYXJnaW46IDA7CiAgICBib3JkZXItbGVmdDogbm9uZTsKICB9CiAgLmNvbXBvbmVudC5saW5rLWxpc3Quc3VwZXJGb290ZXJDb2w6bnRoLWNoaWxkKGV2ZW4pIHsKICAgIGJvcmRlci1sZWZ0OiAycHggc29saWQgIzk1OTU5NTsKICB9CiAgLnN1cGVyRm9vdGVyQ29sIHsKICAgIHdpZHRoOiA0NiU7CiAgICBib3JkZXItbGVmdDogbm9uZTsKICB9CiAgLnN1cGVyRm9vdGVyQ29sOm50aC1jaGlsZChldmVuKSB7CiAgICBib3JkZXItbGVmdDogMnB4IHNvbGlkICNjY2M7CiAgICBwYWRkaW5nLWxlZnQ6IDIwcHggIWltcG9ydGFudDsKICB9CiAgLnN1cGVyRm9vdGVyQ29sOmxhc3QtY2hpbGQgewogICAgd2lkdGg6IDEwMCU7CiAgICBkaXNwbGF5OiAtd2Via2l0LWJveDsKICAgIGRpc3BsYXk6IC1tcy1mbGV4Ym94OwogICAgZGlzcGxheTogZmxleDsKICAgIC1tcy1mbGV4LXdyYXA6IHdyYXA7CiAgICAgICAgZmxleC13cmFwOiB3cmFwOwogICAgcGFkZGluZzogNDBweCAwOwogIH0KICAuc3VwZXJGb290ZXJDb2wgLmNvbXBvbmVudC1jb250ZW50IHsKICAgIG1heC13aWR0aDogMTAwJTsKICAgIG1hcmdpbjogMDsKICAgIHdpZHRoOiAxMDAlOwogICAgZGlzcGxheTogLXdlYmtpdC1ib3g7CiAgICBkaXNwbGF5OiAtbXMtZmxleGJveDsKICAgIGRpc3BsYXk6IGZsZXg7CiAgICBwb3NpdGlvbjogcmVsYXRpdmU7CiAgfQogIC5zdXBlckZvb3RlckNvbCAuY29tcG9uZW50LWNvbnRlbnQgLmZpZWxkLXRleHQgewogICAgZGlzcGxheTogLXdlYmtpdC1ib3g7CiAgICBkaXNwbGF5OiAtbXMtZmxleGJveDsKICAgIGRpc3BsYXk6IGZsZXg7CiAgICBtYXJnaW4tbGVmdDogMTBweDsKICB9CiAgLmZvb3Rlci1sb2dvIHsKICAgIHdpZHRoOiA1MCU7CiAgfQogIC5tZWRpYUljb25zIHsKICAgIHdpZHRoOiA1MCU7CiAgICBwYWRkaW5nLWxlZnQ6IDMwcHg7CiAgfQogIC5jb250YWN0TnVtYmVyIHsKICAgIHBvc2l0aW9uOiBhYnNvbHV0ZTsKICAgIHdpZHRoOiAxMDAlOwogICAgdG9wOiA1MHB4OwogIH0KfQoKQG1lZGlhIG9ubHkgc2NyZWVuIGFuZCAobWluLXdpZHRoOiA3NjhweCkgYW5kIChtYXgtd2lkdGg6IDk5MXB4KSB7CiAgLnN1cGVyRm9vdGVyQ29sIHsKICAgIHdpZHRoOiAxNSU7CiAgfQogIC5zdXBlckZvb3RlckNvbDpsYXN0LWNoaWxkIHsKICAgIHdpZHRoOiAxMDAlOwogIH0KICAuc3VwZXJGb290ZXJDb2w6bGFzdC1jaGlsZCAuY29tcG9uZW50LWNvbnRlbnQgLmZpZWxkLXRleHQgewogICAgZGlzcGxheTogLXdlYmtpdC1ib3g7CiAgICBkaXNwbGF5OiAtbXMtZmxleGJveDsKICAgIGRpc3BsYXk6IGZsZXg7CiAgfQogIC5zdXBlckZvb3RlciAuY29tcG9uZW50LnJpY2gtdGV4dC5zdXBlckZvb3RlckNvbCB7CiAgICBwYWRkaW5nOiAwOwogIH0KICAuY29tcG9uZW50LnJpY2gtdGV4dC5zdXBlckZvb3RlckNvbCA+IC5jb21wb25lbnQtY29udGVudCB7CiAgICBtYXgtd2lkdGg6IDEwMCU7CiAgICBtYXJnaW4tdG9wOiAyNHB4OwogICAgZGlzcGxheTogLXdlYmtpdC1ib3g7CiAgICBkaXNwbGF5OiAtbXMtZmxleGJveDsKICAgIGRpc3BsYXk6IGZsZXg7CiAgICBwb3NpdGlvbjogcmVsYXRpdmU7CiAgfQogIC5mb290ZXItbG9nbyB7CiAgICBtYXJnaW4tYm90dG9tOiAwcHg7CiAgICB3aWR0aDogNTAlOwogIH0KICAubWVkaWFJY29ucyB7CiAgICBtYXJnaW4tYm90dG9tOiAwcHg7CiAgICB3aWR0aDogNDglOwogIH0KICAuY29udGFjdE51bWJlciB7CiAgICBwb3NpdGlvbjogYWJzb2x1dGU7CiAgICBib3R0b206IDlweDsKICB9Cn0KLyojIHNvdXJjZU1hcHBpbmdVUkw9Y29tcG9uZW50LWZvb3Rlci5jc3MubWFwICov
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 5430
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: text/css
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: css
+Languages:
+- Language: "de-DE"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220203T110721Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\jeetendra
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\jeetendra
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "11440a70-d2fd-44d2-8152-f5507c954ef7"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\jeetendra
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220203T110721Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220203T110721Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\jeetendra
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\jeetendra
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f52dc5af-d29a-4ddb-b39f-1f166b98ccdc"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kushagra
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220322T140520Z
+- Language: "es-ES"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220203T110721Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\jeetendra
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\jeetendra
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4083357f-eba1-4cc1-bcd3-f1f1e4be1cbb"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\jeetendra
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220203T110721Z
+- Language: "fr-FR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220203T110721Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\jeetendra
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\jeetendra
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5d8aa907-f633-4b12-a5de-0c6f728188f9"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\jeetendra
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220203T110721Z
