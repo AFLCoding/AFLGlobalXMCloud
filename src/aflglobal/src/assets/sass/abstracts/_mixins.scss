@@ -10,9 +10,10 @@ $break-mobile-horizontal: 767px;
 $break-tablet: 900px;
 $break-tablet-horizontal: 991px;
 $break-tablet-large: 1199px;
+$max-width: 960px;
 
 @mixin wrapper() {
-    max-width: 960px;
+    max-width: $max-width;
     margin: 0 auto !important;
 }
 
