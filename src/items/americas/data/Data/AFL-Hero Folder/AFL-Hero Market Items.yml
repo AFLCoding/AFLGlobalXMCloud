@@ -1,0 +1,158 @@
+﻿---
+ID: "342d161d-e098-4f22-b6ad-77dc9201a26d"
+Parent: "a3e403e8-b32e-4b28-b27f-a9a9315670e6"
+Template: "0ab05ec3-414e-43e1-a505-8ac2a9499c54"
+Path: "/sitecore/content/AFL-Global/AMERICAS/Data/AFL-Hero Folder/AFL-Hero Market Items"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 300
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211029T122332Z
+    - ID: "3c953173-fa71-458e-9f7f-1ef450dea6e6"
+      Hint: Heading
+      Value: SOLUTIONS
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d41ad1a0-a75f-4d15-8528-fa6bad3a8364"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sripada
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231206T111211Z
+    - ID: "f1242e44-a2d9-45ac-aca1-9046e5880fc5"
+      Hint: Hero Items
+      Value: |
+        {7CFDA468-299B-4AA2-905D-18CC20D7DF3F}
+        {30C87C81-18AB-48B1-9127-5F35300DC059}
+        {490E0029-B47C-435E-98DE-1FA06C187626}
+        {191B37F5-4135-4107-94FE-B77A6B8E1E6B}
+        {BCC11107-834A-4355-B630-595880BAD128}
+- Language: "es-MX"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211029T122332Z
+    - ID: "3c953173-fa71-458e-9f7f-1ef450dea6e6"
+      Hint: Heading
+      Value: SOLUCIONES
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6449d53f-54cc-4b9a-a968-5df49257cb42"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sripada
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231206T111159Z
+    - ID: "f1242e44-a2d9-45ac-aca1-9046e5880fc5"
+      Hint: Hero Items
+      Value: |
+        {30C87C81-18AB-48B1-9127-5F35300DC059}
+        {191B37F5-4135-4107-94FE-B77A6B8E1E6B}
+        {7CFDA468-299B-4AA2-905D-18CC20D7DF3F}
+        {490E0029-B47C-435E-98DE-1FA06C187626}
+        {BCC11107-834A-4355-B630-595880BAD128}
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211029T122332Z
+    - ID: "3c953173-fa71-458e-9f7f-1ef450dea6e6"
+      Hint: Heading
+      Value: MARKETS
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ec757d37-d5d5-4fee-a562-9d0c2c80ad8c"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahesh
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220215T095005Z
+    - ID: "f1242e44-a2d9-45ac-aca1-9046e5880fc5"
+      Hint: Hero Items
+      Value: |
+        {30C87C81-18AB-48B1-9127-5F35300DC059}
+        {191B37F5-4135-4107-94FE-B77A6B8E1E6B}
+        {7CFDA468-299B-4AA2-905D-18CC20D7DF3F}
+        {490E0029-B47C-435E-98DE-1FA06C187626}
+        {BCC11107-834A-4355-B630-595880BAD128}
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211029T122332Z
+    - ID: "3c953173-fa71-458e-9f7f-1ef450dea6e6"
+      Hint: Heading
+      Value: SOLUTIONS
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "32765141-36fd-4cb9-a22d-f666b2de094b"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sripada
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231206T111222Z
+    - ID: "f1242e44-a2d9-45ac-aca1-9046e5880fc5"
+      Hint: Hero Items
+      Value: |
+        {30C87C81-18AB-48B1-9127-5F35300DC059}
+        {191B37F5-4135-4107-94FE-B77A6B8E1E6B}
+        {7CFDA468-299B-4AA2-905D-18CC20D7DF3F}
+        {490E0029-B47C-435E-98DE-1FA06C187626}
+        {BCC11107-834A-4355-B630-595880BAD128}

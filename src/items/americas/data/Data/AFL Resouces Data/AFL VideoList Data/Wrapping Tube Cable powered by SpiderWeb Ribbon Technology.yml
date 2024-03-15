@@ -1,0 +1,283 @@
+﻿---
+ID: "d09ff4e6-eda6-43f2-ad0d-67f8e158f14c"
+Parent: "43bb2b16-b4b1-4f66-a9ae-85faa3e7605f"
+Template: "2893fa48-e32b-4a62-be28-2389643c09bc"
+Path: "/sitecore/content/AFL-Global/AMERICAS/Data/AFL Resouces Data/AFL VideoList Data/Wrapping Tube Cable powered by SpiderWeb Ribbon Technology"
+Languages:
+- Language: "de-DE"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211231T104137Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Abhishek
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\tanishka
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4b029f06-bb9a-49d1-838e-66c015998f41"
+    - ID: "a6703c78-a7f9-43e5-bda1-4319c53ca485"
+      Hint: VideoImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="193826" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/193826/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/WTC-powered-video?v=50d91d42" stylelabs-content-type="Image" alt="WTC-powered-video.jpg" height="180" width="320" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "c7606be7-7b4d-4b10-beb1-37105934e9c2"
+      Hint: VideoName
+      Value: Wrapping Tube Cable powered by SpiderWeb Ribbon Technology
+    - ID: "cc39e4d4-9c1a-446c-940c-fae85c60a139"
+      Hint: VideoUrl
+      Value: |
+        <link text="PLAY VIDEO" linktype="external" url="https://www.youtube.com/watch?v=yu4P6N_I1QQ" anchor="" target="_blank" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231212T090219Z
+    - ID: "f049ad62-07b5-434b-95c2-056171420f06"
+      Hint: VideoCategory
+      Value: Video
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211231T104137Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\tanishka
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\tanishka
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "da7c5c89-da0a-4210-86ce-25a7a4a5f56b"
+    - ID: "a6703c78-a7f9-43e5-bda1-4319c53ca485"
+      Hint: VideoImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="193826" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/193826/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/WTC-powered-video?v=50d91d42" stylelabs-content-type="Image" alt="WTC-powered-video.jpg" height="180" width="320" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rob
+    - ID: "c7606be7-7b4d-4b10-beb1-37105934e9c2"
+      Hint: VideoName
+      Value: Wrapping Tube Cable powered by SpiderWeb Ribbon Technology
+    - ID: "cc39e4d4-9c1a-446c-940c-fae85c60a139"
+      Hint: VideoUrl
+      Value: |
+        <link text="PLAY VIDEO" linktype="external" url="https://www.youtube.com/watch?v=yu4P6N_I1QQ" anchor="" target="_blank" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220401T150954Z
+    - ID: "f049ad62-07b5-434b-95c2-056171420f06"
+      Hint: VideoCategory
+      Value: Video
+- Language: "es-ES"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211231T104137Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Abhishek
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\tanishka
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f7867d3c-b05a-41cb-b4b9-5a5c09f8a4a2"
+    - ID: "a6703c78-a7f9-43e5-bda1-4319c53ca485"
+      Hint: VideoImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="193826" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/193826/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/WTC-powered-video?v=50d91d42" stylelabs-content-type="Image" alt="WTC-powered-video.jpg" height="180" width="320" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "c7606be7-7b4d-4b10-beb1-37105934e9c2"
+      Hint: VideoName
+      Value: Wrapping Tube Cable powered by SpiderWeb Ribbon Technology
+    - ID: "cc39e4d4-9c1a-446c-940c-fae85c60a139"
+      Hint: VideoUrl
+      Value: |
+        <link text="PLAY VIDEO" linktype="external" url="https://www.youtube.com/watch?v=yu4P6N_I1QQ" anchor="" target="_blank" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231212T090142Z
+    - ID: "f049ad62-07b5-434b-95c2-056171420f06"
+      Hint: VideoCategory
+      Value: Video
+- Language: "es-MX"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211231T104137Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\tanishka
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9e175d28-5079-4fba-a34c-6c856ba65735"
+    - ID: "a6703c78-a7f9-43e5-bda1-4319c53ca485"
+      Hint: VideoImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="193826" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/193826/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/WTC-powered-video?v=50d91d42" stylelabs-content-type="Image" alt="WTC-powered-video.jpg" height="180" width="320" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "c7606be7-7b4d-4b10-beb1-37105934e9c2"
+      Hint: VideoName
+      Value: Wrapping Tube Cable powered by SpiderWeb Ribbon Technology
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "cc39e4d4-9c1a-446c-940c-fae85c60a139"
+      Hint: VideoUrl
+      Value: |
+        <link text="PLAY VIDEO" linktype="external" url="https://www.youtube.com/watch?v=yu4P6N_I1QQ" anchor="" target="_blank" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231110T063642Z
+    - ID: "f049ad62-07b5-434b-95c2-056171420f06"
+      Hint: VideoCategory
+      Value: Video
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211231T104137Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\tanishka
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5d248400-8738-4059-9a06-aee5055ca252"
+    - ID: "a6703c78-a7f9-43e5-bda1-4319c53ca485"
+      Hint: VideoImage
+      Value: |
+        <image mediaid="{D97C1456-FE0D-4A51-B2D3-41410A817124}" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahesh
+    - ID: "c7606be7-7b4d-4b10-beb1-37105934e9c2"
+      Hint: VideoName
+      Value: Wrapping Tube Cable powered by SpiderWeb Ribbon Technology
+    - ID: "cc39e4d4-9c1a-446c-940c-fae85c60a139"
+      Hint: VideoUrl
+      Value: |
+        <link text="PLAY VIDEO" linktype="external" url="https://www.youtube.com/watch?v=yu4P6N_I1QQ" anchor="" target="_blank" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220215T094849Z
+    - ID: "f049ad62-07b5-434b-95c2-056171420f06"
+      Hint: VideoCategory
+      Value: Video
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211231T104137Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\tanishka
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "37fb29e4-a0c2-430e-b49d-f0182200adc4"
+    - ID: "a6703c78-a7f9-43e5-bda1-4319c53ca485"
+      Hint: VideoImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="193826" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/193826/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/WTC-powered-video?v=50d91d42" stylelabs-content-type="Image" alt="WTC-powered-video.jpg" height="180" width="320" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "c7606be7-7b4d-4b10-beb1-37105934e9c2"
+      Hint: VideoName
+      Value: Wrapping Tube Cable powered by SpiderWeb Ribbon Technology
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "cc39e4d4-9c1a-446c-940c-fae85c60a139"
+      Hint: VideoUrl
+      Value: |
+        <link text="PLAY VIDEO" linktype="external" url="https://www.youtube.com/watch?v=yu4P6N_I1QQ" anchor="" target="_blank" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231110T063641Z
+    - ID: "f049ad62-07b5-434b-95c2-056171420f06"
+      Hint: VideoCategory
+      Value: Video
+- Language: "fr-FR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211231T104137Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Abhishek
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\tanishka
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "01136aba-0984-4e98-a053-800523800d75"
+    - ID: "a6703c78-a7f9-43e5-bda1-4319c53ca485"
+      Hint: VideoImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="193826" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/193826/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/WTC-powered-video?v=50d91d42" stylelabs-content-type="Image" alt="WTC-powered-video.jpg" height="180" width="320" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "c7606be7-7b4d-4b10-beb1-37105934e9c2"
+      Hint: VideoName
+      Value: Wrapping Tube Cable powered by SpiderWeb Ribbon Technology
+    - ID: "cc39e4d4-9c1a-446c-940c-fae85c60a139"
+      Hint: VideoUrl
+      Value: |
+        <link text="PLAY VIDEO" linktype="external" url="https://www.youtube.com/watch?v=yu4P6N_I1QQ" anchor="" target="_blank" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231212T090056Z
+    - ID: "f049ad62-07b5-434b-95c2-056171420f06"
+      Hint: VideoCategory
+      Value: Video

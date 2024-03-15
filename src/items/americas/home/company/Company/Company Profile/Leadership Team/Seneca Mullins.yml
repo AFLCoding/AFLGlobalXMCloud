@@ -1,0 +1,259 @@
+﻿---
+ID: "a7001173-0a92-4091-824e-1a8ac924838d"
+Parent: "a2c14618-5e32-4ad3-ac4c-07e00189a2a7"
+Template: "bf61de11-b78f-48ea-aaa4-1d17f0d83824"
+Path: "/sitecore/content/AFL-Global/AMERICAS/Home/Company/Company Profile/Leadership Team/Seneca Mullins"
+SharedFields:
+- ID: "1fbc6a49-6281-48ee-87e9-a3970b145adb"
+  Hint: NavigationFilter
+  Value: "{D063E9D1-C7B5-4B1E-B31E-69886C9C59F5}"
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{274C9F86-81B9-4FFC-87CA-8B19AB3A526D}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{DAE7C21D-4D3B-4257-A95C-9104CD8AF409}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220308T154022Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{FCA998C5-0CC3-4F91-94D8-0A4E6CAECE88}"
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Seneca Mullins
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Rob
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: "Seneca Mullins leads a matrixed organization of service-based businesses with responsibility for executing strategies that allow U.S. telecom carriers to meet their most aggressive business objectives."
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <p>
+        As President, AFL U.S. Services, Seneca Mullins leads a matrixed organization of service-based businesses with responsibility for executing strategies that enable U.S. telecom carriers to meet their most aggressive business objectives. He provides executive leadership to AFL’s five U.S.  services divisions – Enterprise, ITC, OTS, Spligitty and Beam Wireless.
+        </p>
+        <p>
+        Seneca started with AFL in 2006 as a Financial Analyst supporting multiple business units, focused on enhancing financial operations. Within five years, he was promoted to the role of Controls Director/Regional Director. Serving AFL in the capacity of Executive Director and Vice President of Enterprise Services between 2013 and 2021, Seneca was subsequently named President, AFL U.S. Services, in 2022 with responsibility for all U.S.-based Service organizations.
+        </p>
+        <p>
+        For the past 16 years, Seneca has been instrumental in playing a leading role in the company’s growth, supporting commercial, operational and acquisition/integration initiatives. In addition to his considerable financial acumen, he displays an unwavering commitment to each client served by his respective organizations, believing the key to all business success lies in the quality of its employees.
+        </p>
+        <p>
+        Seneca is a graduate of the University of North Carolina, Charlotte where he earned a bachelor’s and master’s degree in accounting. In his free time, Seneca enjoys travel, football, basketball, swimming and cooking.
+        </p>
+        <p> </p>
+        <p>
+        <a href="/Company/Company-Profile/Leadership-Team/">< Back to Leadership Page</a></p>
+    - ID: "56611f02-691a-4096-b044-63aa83122916"
+      Hint: Content
+      Value: 
+    - ID: "5d336bce-e421-4fe8-ad55-214f80d841ad"
+      Hint: "Sub-Heading"
+      Value: President, AFL U.S. Services
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Rob
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: Seneca Mullins, Senior Vice President and ITC President 
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: Seneca Mullins is President, AFL U.S. Services 
+    - ID: "612fc437-a34e-408c-a80f-a3ce18887805"
+      Hint: SuggestionBoxRedirectIcon
+      Value: |
+        <image mediaid="{5A901871-5681-4DAD-ABC1-FB375934B088}" alt="Suggestion Box" height="" width="" hspace="" vspace="" />
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: Seneca Mullins is President, AFL U.S. Services 
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d00208f6-5ed5-4c49-a48f-b8ed65a2801b"
+    - ID: "93dc88f3-05e5-482d-9b9a-c859c8258a73"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="316002" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/316002/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/3c42e93d6d7a4c82a849f0d0f8aa4b9e?v=b77c519c" stylelabs-content-type="Image" alt="Mullins_Seneca_large.webp" height="430" width="1210" />
+    - ID: "a40ebd3d-2b41-41fb-90f7-753544ce77c5"
+      Hint: Hero Title1
+      Value: Seneca Mullins
+    - ID: "ab91d39b-30ad-4050-acef-07c741146fcc"
+      Hint: Heading
+      Value: Seneca Mullins
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T091519Z
+- Language: "es-MX"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220308T154022Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{FCA998C5-0CC3-4F91-94D8-0A4E6CAECE88}"
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Seneca Mullins
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\matt
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: "Seneca Mullins leads a matrixed organization of service-based businesses with responsibility for executing strategies that allow U.S. telecom carriers to meet their most aggressive business objectives."
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <p>
+        As President, AFL U.S. Services, Seneca Mullins leads a matrixed organization of service-based businesses with responsibility for executing strategies that enable U.S. telecom carriers to meet their most aggressive business objectives. He provides executive leadership to AFL’s five U.S.  services divisions – Enterprise, ITC, OTS, Spligitty and Beam Wireless.
+        </p>
+        <p>
+        Seneca started with AFL in 2006 as a Financial Analyst supporting multiple business units, focused on enhancing financial operations. Within five years, he was promoted to the role of Controls Director/Regional Director. Serving AFL in the capacity of Executive Director and Vice President of Enterprise Services between 2013 and 2021, Seneca was subsequently named President, AFL U.S. Services, in 2022 with responsibility for all U.S.-based Service organizations.
+        </p>
+        <p>
+        For the past 16 years, Seneca has been instrumental in playing a leading role in the company’s growth, supporting commercial, operational and acquisition/integration initiatives. In addition to his considerable financial acumen, he displays an unwavering commitment to each client served by his respective organizations, believing the key to all business success lies in the quality of its employees.
+        </p>
+        <p>
+        Seneca is a graduate of the University of North Carolina, Charlotte where he earned a bachelor’s and master’s degree in accounting. In his free time, Seneca enjoys travel, football, basketball, swimming and cooking.
+        </p>
+        <p> </p>
+        <p>
+        <a href="/Company/Company-Profile/Leadership-Team/">< Back to Leadership Page</a></p>
+    - ID: "5d336bce-e421-4fe8-ad55-214f80d841ad"
+      Hint: "Sub-Heading"
+      Value: President, AFL U.S. Services 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Rob
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: Seneca Mullins, Senior Vice President and ITC President 
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: Seneca Mullins is President, AFL U.S. Services 
+    - ID: "612fc437-a34e-408c-a80f-a3ce18887805"
+      Hint: SuggestionBoxRedirectIcon
+      Value: |
+        <image mediaid="{5A901871-5681-4DAD-ABC1-FB375934B088}" alt="Suggestion Box" height="" width="" hspace="" vspace="" />
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: Seneca Mullins is President, AFL U.S. Services 
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4de98576-4c59-4dac-ab1c-6e58fd244147"
+    - ID: "93dc88f3-05e5-482d-9b9a-c859c8258a73"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="316002" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/316002/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/3c42e93d6d7a4c82a849f0d0f8aa4b9e?v=b77c519c" stylelabs-content-type="Image" alt="Mullins_Seneca_large.webp" height="430" width="1210" />
+    - ID: "a40ebd3d-2b41-41fb-90f7-753544ce77c5"
+      Hint: Hero Title1
+      Value: Seneca Mullins
+    - ID: "ab91d39b-30ad-4050-acef-07c741146fcc"
+      Hint: Heading
+      Value: Seneca Mullins
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T091519Z
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220308T154022Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{FCA998C5-0CC3-4F91-94D8-0A4E6CAECE88}"
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Seneca Mullins
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\matt
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: "Seneca Mullins leads a matrixed organization of service-based businesses with responsibility for executing strategies that allow U.S. telecom carriers to meet their most aggressive business objectives."
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <p>
+        As President, AFL U.S. Services, Seneca Mullins leads a matrixed organization of service-based businesses with responsibility for executing strategies that enable U.S. telecom carriers to meet their most aggressive business objectives. He provides executive leadership to AFL’s five U.S.  services divisions – Enterprise, ITC, OTS, Spligitty and Beam Wireless.
+        </p>
+        <p>
+        Seneca started with AFL in 2006 as a Financial Analyst supporting multiple business units, focused on enhancing financial operations. Within five years, he was promoted to the role of Controls Director/Regional Director. Serving AFL in the capacity of Executive Director and Vice President of Enterprise Services between 2013 and 2021, Seneca was subsequently named President, AFL U.S. Services, in 2022 with responsibility for all U.S.-based Service organizations.
+        </p>
+        <p>
+        For the past 16 years, Seneca has been instrumental in playing a leading role in the company’s growth, supporting commercial, operational and acquisition/integration initiatives. In addition to his considerable financial acumen, he displays an unwavering commitment to each client served by his respective organizations, believing the key to all business success lies in the quality of its employees.
+        </p>
+        <p>
+        Seneca is a graduate of the University of North Carolina, Charlotte where he earned a bachelor’s and master’s degree in accounting. In his free time, Seneca enjoys travel, football, basketball, swimming and cooking.
+        </p>
+        <p> </p>
+        <p>
+        <a href="/Company/Company-Profile/Leadership-Team/">< Back to Leadership Page</a></p>
+    - ID: "5d336bce-e421-4fe8-ad55-214f80d841ad"
+      Hint: "Sub-Heading"
+      Value: President, AFL U.S. Services 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Rob
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: Seneca Mullins, Senior Vice President and ITC President 
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: Seneca Mullins is President, AFL U.S. Services 
+    - ID: "612fc437-a34e-408c-a80f-a3ce18887805"
+      Hint: SuggestionBoxRedirectIcon
+      Value: |
+        <image mediaid="{5A901871-5681-4DAD-ABC1-FB375934B088}" alt="Suggestion Box" height="" width="" hspace="" vspace="" />
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: Seneca Mullins is President, AFL U.S. Services 
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "93de797e-588b-469e-8af2-d31da72422c4"
+    - ID: "93dc88f3-05e5-482d-9b9a-c859c8258a73"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="316002" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/316002/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/3c42e93d6d7a4c82a849f0d0f8aa4b9e?v=b77c519c" stylelabs-content-type="Image" alt="Mullins_Seneca_large.webp" height="430" width="1210" />
+    - ID: "a40ebd3d-2b41-41fb-90f7-753544ce77c5"
+      Hint: Hero Title1
+      Value: Seneca Mullins
+    - ID: "ab91d39b-30ad-4050-acef-07c741146fcc"
+      Hint: Heading
+      Value: Seneca Mullins
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T091519Z

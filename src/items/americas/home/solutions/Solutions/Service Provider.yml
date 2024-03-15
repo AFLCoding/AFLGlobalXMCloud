@@ -1,0 +1,333 @@
+﻿---
+ID: "a904ce4e-f997-4535-8fd5-55c1d5f706e2"
+Parent: "2228916f-7768-4d7b-972f-69572c48777c"
+Template: "bf61de11-b78f-48ea-aaa4-1d17f0d83824"
+Path: "/sitecore/content/AFL-Global/AMERICAS/Home/Solutions/Service Provider"
+SharedFields:
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{274C9F86-81B9-4FFC-87CA-8B19AB3A526D}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{DAE7C21D-4D3B-4257-A95C-9104CD8AF409}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 50
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211122T081744Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Service Provider
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: Service Providers demand voice, video and data services leveraging our fiber optic cable technology.
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <p>Service providers are rapidly migrating to next-generation networks to meet customers' insatiable demand for reliable voice, video and data services over any device anytime, anywhere. Regional and national telecom providers, multiple service operators, municipalities, utilities, real estate developers, private companies and other businesses are looking for knowledgeable, reliable and experienced partners in fiber optic technology.</p>
+        <p>At AFL, we offer a true end-to-end solution. From network design, engineering, construction and maintenance to hardware, connectivity products, fiber optic cable, fusion splicers, test and inspection equipment, and education, AFL has it all. No two network deployments are the same, with differences in cost, schedule and layout, but Service Providers can rely on AFL as their single source in the design and deployment of a custom, cost-effective fiber network.</p>
+        <p>As a Tier 1 supplier, AFL delivers numerous solutions for service providers, including:</p>
+        <ul>
+            <li><a href="~/link.aspx?_id=E2BF9E86774E40CD9566F885B1563A18&_z=z">FTTx Solutions</a></li>
+            <li><a href="~/link.aspx?_id=5F0F2D1785634950992C1C71A092F42A&_z=z">MDU Solutions</a></li>
+            <li>Outside Plant Engineering Services (OSPE)</li>
+            <li><a href="~/link.aspx?_id=55E85DE502FD4DF7A029245253934A91&_z=z">Fusion Splicers</a></li>
+            <li><a href="~/link.aspx?_id=67697A36EE374C21A1F009672463F0E6&_z=z">Test and Inspection Equipment</a></li>
+        </ul>
+        <p>With a reputation for safety, quality, competitive pricing and on-time delivery, AFL is recognized as a valued partner who can handle mission-critical tasks. By staying in tune with customer needs and creating relationships with other companies, AFL is able to bring the latest and most innovative products and services to the market.</p>
+    - ID: "56611f02-691a-4096-b044-63aa83122916"
+      Hint: Content
+      Value: |
+        Service providers are rapidly migrating to next-generation networks to meet customers' insatiable demand for reliable voice, video and data services over any device anytime, anywhere. Regional and national telecom providers, multiple service operators, municipalities, utilities, real estate developers, private companies and other businesses are looking for knowledgeable, reliable and experienced partners in fiber optic technology.<br />
+        <br />
+        At AFL, we offer a true end-to-end solution. From network design, engineering, construction and maintenance to hardware, connectivity products, fiber optic cable, fusion splicers, test and inspection equipment, and education, saaho  AFL has it all. No two network deployments are the same, with differences in cost, schedule and layout, but Service Providers can rely on AFL as their single source in the design and deployment of a custom, cost-effective fiber network.<br />
+        <br />
+        With a reputation for safety, quality, competitive pricing and on-time delivery, AFL is recognized as a valued partner who can handle mission-critical tasks. By staying in tune with customer needs and creating relationships with other companies, AFL is able to bring the latest and most innovative products and services to the market.
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: service provider telco operators telecom
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: Service Provider
+    - ID: "628db04b-29a2-483b-a88c-b8fd9a5f2086"
+      Hint: HeroLink
+      Value: |
+        <link id="{A904CE4E-F997-4535-8FD5-55C1D5F706E2}" querystring="" linktype="internal" text="LEARN MORE" anchor="" url="/AFL-Global/AMERICAS/Home/Solutions/Service Provider" title="" class="" target="|Custom" />
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: Service Provider
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "fe31fa4e-66cc-4ffa-8549-db71545507fb"
+    - ID: "93dc88f3-05e5-482d-9b9a-c859c8258a73"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="267413" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/267413/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/6962614b5841422e83bd63511a412087?v=b281851b" stylelabs-content-type="Image" alt="ServiceProvider_Section.webp" height="435" width="1240" />
+    - ID: "a40ebd3d-2b41-41fb-90f7-753544ce77c5"
+      Hint: Hero Title1
+      Value: Service Provider
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T085248Z
+    - ID: "e3bcfb9e-ac4a-4b80-9ad0-42cf5b48b078"
+      Hint: ProductDescription
+      Value: |
+        <p>
+        With a reputation for safety, quality, competitive pricing and on-time delivery, AFL is recognized as a valued partner who can handle mission-critical tasks. By staying in tune with customer needs and creating relationships with other companies, AFL is able to bring the latest and most innovative products and services to the market.</p>
+- Language: "es-MX"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211122T081744Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: PROVEEDOR DE SERVICIOS
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: Service Providers demand voice, video and data services leveraging our fiber optic cable technology.
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <p>Service providers are rapidly migrating to next-generation networks to meet customers' insatiable demand for reliable voice, video and data services over any device anytime, anywhere. Regional and national telecom providers, multiple service operators, municipalities, utilities, real estate developers, private companies and other businesses are looking for knowledgeable, reliable and experienced partners in fiber optic technology.</p>
+        <p>At AFL, we offer a true end-to-end solution. From network design, engineering, construction and maintenance to hardware, connectivity products, fiber optic cable, fusion splicers, test and inspection equipment, and education, AFL has it all. No two network deployments are the same, with differences in cost, schedule and layout, but Service Providers can rely on AFL as their single source in the design and deployment of a custom, cost-effective fiber network.</p>
+        <p>As a Tier 1 supplier, AFL delivers numerous solutions for service providers, including:</p>
+        <ul>
+            <li><a href="/Solutions/Service Provider/Converged Access Network/FTTx">FTTx Solutions</a></li>
+            <li><a href="/Solutions/Service Provider/Converged Access Network/MxUs">MDU Solutions</a></li>
+            <li><a href="https://aflglobal.com/Solutions/Service-Provider/Outside-Plant-Engineering-and-Services.aspx">Outside Plant Engineering Services</a> (OSPE)</li>
+            <li><a href="/Products/Fusion-Splicing">Fusion Splicers</a></li>
+            <li><a href="/Products/Test-and-Inspection">Test and Inspection Equipment</a></li>
+        </ul>
+        <p>With a reputation for safety, quality, competitive pricing and on-time delivery, AFL is recognized as a valued partner who can handle mission-critical tasks. By staying in tune with customer needs and creating relationships with other companies, AFL is able to bring the latest and most innovative products and services to the market.</p>
+    - ID: "56611f02-691a-4096-b044-63aa83122916"
+      Hint: Content
+      Value: |
+        Service providers are rapidly migrating to next-generation networks to meet customers' insatiable demand for reliable voice, video and data services over any device anytime, anywhere. Regional and national telecom providers, multiple service operators, municipalities, utilities, real estate developers, private companies and other businesses are looking for knowledgeable, reliable and experienced partners in fiber optic technology.<br />
+        <br />
+        At AFL, we offer a true end-to-end solution. From network design, engineering, construction and maintenance to hardware, connectivity products, fiber optic cable, fusion splicers, test and inspection equipment, and education, saaho  AFL has it all. No two network deployments are the same, with differences in cost, schedule and layout, but Service Providers can rely on AFL as their single source in the design and deployment of a custom, cost-effective fiber network.<br />
+        <br />
+        With a reputation for safety, quality, competitive pricing and on-time delivery, AFL is recognized as a valued partner who can handle mission-critical tasks. By staying in tune with customer needs and creating relationships with other companies, AFL is able to bring the latest and most innovative products and services to the market.
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mahesh
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: service provider telco operators telecom
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: PROVEEDOR DE SERVICIOS
+    - ID: "628db04b-29a2-483b-a88c-b8fd9a5f2086"
+      Hint: HeroLink
+      Value: |
+        <link id="{A904CE4E-F997-4535-8FD5-55C1D5F706E2}" querystring="" linktype="internal" text="LEARN MORE" anchor="" url="/AFL-Global/AMERICAS/Home/Solutions/Service Provider" title="" class="" target="|Custom" />
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: PROVEEDOR DE SERVICIOS
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "98c18aa2-d16f-4379-a696-2c593992fe44"
+    - ID: "93dc88f3-05e5-482d-9b9a-c859c8258a73"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="267413" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/267413/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/6962614b5841422e83bd63511a412087?v=b281851b" stylelabs-content-type="Image" alt="ServiceProvider_Section.webp" height="435" width="1240" />
+    - ID: "a40ebd3d-2b41-41fb-90f7-753544ce77c5"
+      Hint: Hero Title1
+      Value: Service Provider
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T085248Z
+    - ID: "e3bcfb9e-ac4a-4b80-9ad0-42cf5b48b078"
+      Hint: ProductDescription
+      Value: |
+        <p>
+        With a reputation for safety, quality, competitive pricing and on-time delivery, AFL is recognized as a valued partner who can handle mission-critical tasks. By staying in tune with customer needs and creating relationships with other companies, AFL is able to bring the latest and most innovative products and services to the market.</p>
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211122T081744Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Service Provider
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: Service Providers demand voice, video and data services leveraging our fiber optic cable technology.
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <p>Service providers are rapidly migrating to next-generation networks to meet customers' insatiable demand for reliable voice, video and data services over any device anytime, anywhere. Regional and national telecom providers, multiple service operators, municipalities, utilities, real estate developers, private companies and other businesses are looking for knowledgeable, reliable and experienced partners in fiber optic technology.</p>
+        <p>At AFL, we offer a true end-to-end solution. From network design, engineering, construction and maintenance to hardware, connectivity products, fiber optic cable, fusion splicers, test and inspection equipment, and education, AFL has it all. No two network deployments are the same, with differences in cost, schedule and layout, but Service Providers can rely on AFL as their single source in the design and deployment of a custom, cost-effective fiber network.</p>
+        <p>As a Tier 1 supplier, AFL delivers numerous solutions for service providers, including:</p>
+        <ul>
+            <li><a href="/Markets/Service Provider/Converged Access Network/FTTx">FTTx Solutions</a></li>
+            <li><a href="/Markets/Service Provider/Converged Access Network/MxUs">MDU Solutions</a></li>
+            <li><a href="https://aflglobal.com/Markets/Service-Provider/Outside-Plant-Engineering-and-Services.aspx">Outside Plant Engineering Services</a>&nbsp;(OSPE)</li>
+            <li><a href="/Products/Fusion-Splicing">Fusion Splicers</a></li>
+            <li><a href="/Products/Test-and-Inspection">Test and Inspection Equipment</a></li>
+        </ul>
+        <p>With a reputation for safety, quality, competitive pricing and on-time delivery, AFL is recognized as a valued partner who can handle mission-critical tasks. By staying in tune with customer needs and creating relationships with other companies, AFL is able to bring the latest and most innovative products and services to the market.</p>
+    - ID: "56611f02-691a-4096-b044-63aa83122916"
+      Hint: Content
+      Value: |
+        Service providers are rapidly migrating to next-generation networks to meet customers' insatiable demand for reliable voice, video and data services over any device anytime, anywhere. Regional and national telecom providers, multiple service operators, municipalities, utilities, real estate developers, private companies and other businesses are looking for knowledgeable, reliable and experienced partners in fiber optic technology.<br />
+        <br />
+        At AFL, we offer a true end-to-end solution. From network design, engineering, construction and maintenance to hardware, connectivity products, fiber optic cable, fusion splicers, test and inspection equipment, and education, saaho  AFL has it all. No two network deployments are the same, with differences in cost, schedule and layout, but Service Providers can rely on AFL as their single source in the design and deployment of a custom, cost-effective fiber network.<br />
+        <br />
+        With a reputation for safety, quality, competitive pricing and on-time delivery, AFL is recognized as a valued partner who can handle mission-critical tasks. By staying in tune with customer needs and creating relationships with other companies, AFL is able to bring the latest and most innovative products and services to the market.
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mahesh
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: service provider telco operators telecom
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: Service Provider
+    - ID: "628db04b-29a2-483b-a88c-b8fd9a5f2086"
+      Hint: HeroLink
+      Value: |
+        <link id="{A904CE4E-F997-4535-8FD5-55C1D5F706E2}" querystring="" linktype="internal" text="LEARN MORE" anchor="" url="/AFL-Global/AMERICAS/Home/Solutions/Service Provider" title="" class="" target="|Custom" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1840622f-1987-4447-9f40-dcb05c0ce473"
+    - ID: "93dc88f3-05e5-482d-9b9a-c859c8258a73"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image mediaid="{8E5223A9-0498-4A10-8A08-B4495D5197B9}" />
+    - ID: "a40ebd3d-2b41-41fb-90f7-753544ce77c5"
+      Hint: Hero Title1
+      Value: Service Provider
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sripada
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231206T080317Z
+    - ID: "e3bcfb9e-ac4a-4b80-9ad0-42cf5b48b078"
+      Hint: ProductDescription
+      Value: |
+        <p>
+        With a reputation for safety, quality, competitive pricing and on-time delivery, AFL is recognized as a valued partner who can handle mission-critical tasks. By staying in tune with customer needs and creating relationships with other companies, AFL is able to bring the latest and most innovative products and services to the market.</p>
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211122T081744Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: PRESTATAIRE DE SERVICES
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: Service Providers demand voice, video and data services leveraging our fiber optic cable technology.
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <p>Service providers are rapidly migrating to next-generation networks to meet customers' insatiable demand for reliable voice, video and data services over any device anytime, anywhere. Regional and national telecom providers, multiple service operators, municipalities, utilities, real estate developers, private companies and other businesses are looking for knowledgeable, reliable and experienced partners in fiber optic technology.</p>
+        <p>At AFL, we offer a true end-to-end solution. From network design, engineering, construction and maintenance to hardware, connectivity products, fiber optic cable, fusion splicers, test and inspection equipment, and education, AFL has it all. No two network deployments are the same, with differences in cost, schedule and layout, but Service Providers can rely on AFL as their single source in the design and deployment of a custom, cost-effective fiber network.</p>
+        <p>As a Tier 1 supplier, AFL delivers numerous solutions for service providers, including:</p>
+        <ul>
+            <li><a href="/Solutions/Service Provider/Converged Access Network/FTTx">FTTx Solutions</a></li>
+            <li><a href="/Solutions/Service Provider/Converged Access Network/MxUs">MDU Solutions</a></li>
+            <li><a href="https://aflglobal.com/Solutions/Service-Provider/Outside-Plant-Engineering-and-Services.aspx">Outside Plant Engineering Services</a> (OSPE)</li>
+            <li><a href="/Products/Fusion-Splicing">Fusion Splicers</a></li>
+            <li><a href="/Products/Test-and-Inspection">Test and Inspection Equipment</a></li>
+        </ul>
+        <p>With a reputation for safety, quality, competitive pricing and on-time delivery, AFL is recognized as a valued partner who can handle mission-critical tasks. By staying in tune with customer needs and creating relationships with other companies, AFL is able to bring the latest and most innovative products and services to the market.</p>
+    - ID: "56611f02-691a-4096-b044-63aa83122916"
+      Hint: Content
+      Value: |
+        Service providers are rapidly migrating to next-generation networks to meet customers' insatiable demand for reliable voice, video and data services over any device anytime, anywhere. Regional and national telecom providers, multiple service operators, municipalities, utilities, real estate developers, private companies and other businesses are looking for knowledgeable, reliable and experienced partners in fiber optic technology.<br />
+        <br />
+        At AFL, we offer a true end-to-end solution. From network design, engineering, construction and maintenance to hardware, connectivity products, fiber optic cable, fusion splicers, test and inspection equipment, and education, saaho  AFL has it all. No two network deployments are the same, with differences in cost, schedule and layout, but Service Providers can rely on AFL as their single source in the design and deployment of a custom, cost-effective fiber network.<br />
+        <br />
+        With a reputation for safety, quality, competitive pricing and on-time delivery, AFL is recognized as a valued partner who can handle mission-critical tasks. By staying in tune with customer needs and creating relationships with other companies, AFL is able to bring the latest and most innovative products and services to the market.
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mahesh
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: service provider telco operators telecom
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: PRESTATAIRE DE SERVICES
+    - ID: "628db04b-29a2-483b-a88c-b8fd9a5f2086"
+      Hint: HeroLink
+      Value: |
+        <link id="{A904CE4E-F997-4535-8FD5-55C1D5F706E2}" querystring="" linktype="internal" text="LEARN MORE" anchor="" url="/AFL-Global/AMERICAS/Home/Solutions/Service Provider" title="" class="" target="|Custom" />
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: PRESTATAIRE DE SERVICES
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "46bcbf87-644a-4189-bdeb-374e4d62a841"
+    - ID: "93dc88f3-05e5-482d-9b9a-c859c8258a73"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="267413" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/267413/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/6962614b5841422e83bd63511a412087?v=b281851b" stylelabs-content-type="Image" alt="ServiceProvider_Section.webp" height="435" width="1240" />
+    - ID: "a40ebd3d-2b41-41fb-90f7-753544ce77c5"
+      Hint: Hero Title1
+      Value: Service Provider
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T085248Z
+    - ID: "e3bcfb9e-ac4a-4b80-9ad0-42cf5b48b078"
+      Hint: ProductDescription
+      Value: |
+        <p>
+        With a reputation for safety, quality, competitive pricing and on-time delivery, AFL is recognized as a valued partner who can handle mission-critical tasks. By staying in tune with customer needs and creating relationships with other companies, AFL is able to bring the latest and most innovative products and services to the market.</p>

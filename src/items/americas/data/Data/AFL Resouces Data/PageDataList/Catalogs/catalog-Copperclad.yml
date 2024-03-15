@@ -1,0 +1,170 @@
+﻿---
+ID: "49ee42b7-8f98-4068-8c12-3ccf6d24a6a7"
+Parent: "f34dad77-71b1-4c4b-8958-efa4a0c7499a"
+Template: "38f171ae-e199-410f-9a56-8e0e4433111e"
+Path: "/sitecore/content/AFL-Global/AMERICAS/Data/AFL Resouces Data/PageDataList/Catalogs/catalog-Copperclad"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211226T135739Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\archana
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\archana
+    - ID: "5e736aec-5b46-4895-be0f-5157cb6ed299"
+      Hint: PageItemButton2Url
+      Value: |
+        <link text="EMAIL" linktype="external" url="https://www.aflglobal.com/Contact/Quote-List.aspx?mode=attachment&amp;nodeid=14491&amp;attname=Copperclad+Steel+Wire&amp;attguid=acd45c1f-0af8-483f-b5a8-5d89c87e06a1" anchor="" target="_blank" />
+    - ID: "6aea9a7e-5135-437d-afc8-be6cd0ab3a34"
+      Hint: PageItemButton1Url
+      Value: |
+        <link text="DOWNLOAD" linktype="external" url="https://www.aflglobal.com/cmspages/getfile.aspx?guid=acd45c1f-0af8-483f-b5a8-5d89c87e06a1" anchor="" target="_blank" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "64fa49fd-c062-45e3-88ac-f9e627ed9844"
+    - ID: "97cbee95-7bbc-42da-b0f5-3e15b4d914f0"
+      Hint: PageItemImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="74722" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/74722/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/catalogcopperclad?v=f4e5fe79" stylelabs-content-type="Image" alt="catalog-Copperclad.jpg" height="100" width="77" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kushagra
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220221T142233Z
+    - ID: "e3af6d69-bc0f-4746-94f6-a8d42f3f4a48"
+      Hint: PageItemTitle
+      Value: Copperclad Steel Wire
+- Language: "es-MX"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211226T135739Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\archana
+    - ID: "5e736aec-5b46-4895-be0f-5157cb6ed299"
+      Hint: PageItemButton2Url
+      Value: |
+        <link text="EMAIL" linktype="external" url="https://www.aflglobal.com/Contact/Quote-List.aspx?mode=attachment&amp;nodeid=14491&amp;attname=Copperclad+Steel+Wire&amp;attguid=acd45c1f-0af8-483f-b5a8-5d89c87e06a1" anchor="" target="_blank" />
+    - ID: "6aea9a7e-5135-437d-afc8-be6cd0ab3a34"
+      Hint: PageItemButton1Url
+      Value: |
+        <link text="DOWNLOAD" linktype="external" url="https://www.aflglobal.com/cmspages/getfile.aspx?guid=acd45c1f-0af8-483f-b5a8-5d89c87e06a1" anchor="" target="_blank" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b3d04144-c302-4cdd-9cea-d946090aa545"
+    - ID: "97cbee95-7bbc-42da-b0f5-3e15b4d914f0"
+      Hint: PageItemImage
+      Value: |
+        <image mediaid="{259D8897-0E47-4FAF-8E0C-2FBA02FB3CAB}" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahesh
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220215T130352Z
+    - ID: "e3af6d69-bc0f-4746-94f6-a8d42f3f4a48"
+      Hint: PageItemTitle
+      Value: Copperclad Steel Wire
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211226T135739Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\archana
+    - ID: "5e736aec-5b46-4895-be0f-5157cb6ed299"
+      Hint: PageItemButton2Url
+      Value: |
+        <link text="EMAIL" linktype="external" url="https://www.aflglobal.com/Contact/Quote-List.aspx?mode=attachment&amp;nodeid=14491&amp;attname=Copperclad+Steel+Wire&amp;attguid=acd45c1f-0af8-483f-b5a8-5d89c87e06a1" anchor="" target="_blank" />
+    - ID: "6aea9a7e-5135-437d-afc8-be6cd0ab3a34"
+      Hint: PageItemButton1Url
+      Value: |
+        <link text="DOWNLOAD" linktype="external" url="https://www.aflglobal.com/cmspages/getfile.aspx?guid=acd45c1f-0af8-483f-b5a8-5d89c87e06a1" anchor="" target="_blank" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "79f9657c-a194-4cd9-bcff-e012e5b288a8"
+    - ID: "97cbee95-7bbc-42da-b0f5-3e15b4d914f0"
+      Hint: PageItemImage
+      Value: |
+        <image mediaid="{259D8897-0E47-4FAF-8E0C-2FBA02FB3CAB}" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahesh
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220215T094921Z
+    - ID: "e3af6d69-bc0f-4746-94f6-a8d42f3f4a48"
+      Hint: PageItemTitle
+      Value: Copperclad Steel Wire
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211226T135739Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\archana
+    - ID: "5e736aec-5b46-4895-be0f-5157cb6ed299"
+      Hint: PageItemButton2Url
+      Value: |
+        <link text="EMAIL" linktype="external" url="https://www.aflglobal.com/Contact/Quote-List.aspx?mode=attachment&amp;nodeid=14491&amp;attname=Copperclad+Steel+Wire&amp;attguid=acd45c1f-0af8-483f-b5a8-5d89c87e06a1" anchor="" target="_blank" />
+    - ID: "6aea9a7e-5135-437d-afc8-be6cd0ab3a34"
+      Hint: PageItemButton1Url
+      Value: |
+        <link text="DOWNLOAD" linktype="external" url="https://www.aflglobal.com/cmspages/getfile.aspx?guid=acd45c1f-0af8-483f-b5a8-5d89c87e06a1" anchor="" target="_blank" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "35e9bfcf-becc-4e50-a6d3-c40abe92eb75"
+    - ID: "97cbee95-7bbc-42da-b0f5-3e15b4d914f0"
+      Hint: PageItemImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="74722" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/74722/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/catalogcopperclad?v=f4e5fe79" stylelabs-content-type="Image" alt="catalog-Copperclad.jpg" height="100" width="77" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahesh
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220310T075446Z
+    - ID: "e3af6d69-bc0f-4746-94f6-a8d42f3f4a48"
+      Hint: PageItemTitle
+      Value: Copperclad Steel Wire

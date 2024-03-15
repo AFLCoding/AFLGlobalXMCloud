@@ -1,0 +1,305 @@
+﻿---
+ID: "b49e1b62-c94f-44ba-abc7-ee81de5a2ff9"
+Parent: "c04c0ff1-1143-47c9-8a81-a426fb745ef9"
+Template: "f36e821e-bb98-44dc-966d-e92a0e033cc7"
+Path: "/sitecore/content/AFL-Global/AMERICAS/Home/Company/Company Profile/News/2021/AFL Honored by 2021 Cabling Installation Maintenance"
+SharedFields:
+- ID: "1fbc6a49-6281-48ee-87e9-a3970b145adb"
+  Hint: NavigationFilter
+  Value: |
+    {E0A2A027-0932-4878-A7D6-0416D5263EFB}
+    {61BD64D6-809E-40AE-9297-2724A19329B3}
+    {D063E9D1-C7B5-4B1E-B31E-69886C9C59F5}
+    {500AE4C0-FA7B-463F-8149-EFFF7F044101}
+    {A0E7FF57-6994-4B09-AA21-104239628D5A}
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{3A84BAC9-C1BD-4809-A12C-28EB44E25329}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{DAE7C21D-4D3B-4257-A95C-9104CD8AF409}"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{48D826CA-7AE6-4387-AE67-E7070B242906}">
+          <p:d />
+        </r>
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: 
+    - ID: "228f9517-e120-4014-b2c7-df0ac467a349"
+      Hint: ContentTitle
+      Value: AFL Honored by 2021 Cabling Installation & Maintenance Innovators Awards
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211130T140744Z
+    - ID: "3688d7df-2feb-43a4-ab8d-410e5f70a676"
+      Hint: ContentDescription
+      Value: |
+        <div>Spartanburg, SC &ndash;&nbsp;<a href="http://www.aflglobal.com/">AFL</a>, an international manufacturer of fiber optic cable, connectivity and accessories, has been recognized among the best by the 2021&nbsp;<a href="https://www.cablinginstall.com/">Cabling Installation &amp; Maintenance</a>&nbsp;(CI&amp;M) Innovators Awards. AFL&rsquo;s&nbsp;<a href="~/link.aspx?_id=BD16F0851A334911A1C25E3194A9D166&amp;_z=z">Apex&reg; splice closure</a>&nbsp;received a platinum-level honoree status, the highest achievable, and the&nbsp;<a href="~/link.aspx?_id=2E8A1E84DF684525BB00EFB67133746A&amp;_z=z">Fujikura 90R mass fusion splicer</a>&nbsp;received a gold-level honoree status. Recognition came from an esteemed and experienced panel of judges from the cabling community.<br />
+        <br />
+        &ldquo;We are honored to receive this recognition from the CI&amp;M panel. This reinforces the fact that we are creating innovative technologies and exceptional products that support the ever-changing and growing markets we serve,&rdquo; explained Kurt Dallas, President of AFL Product Solutions. &ldquo;We are committed to listening to our customers and developing unique solutions that drive bottom-line results.&rdquo;<br />
+        <br />
+        Apex splice closures&nbsp;are designed to lower overall installation time with easier-to-use sealing and cable retention methods. With a wedge-based gel sealing system, installation time is drastically decreased as network reliability increases. The Apex X-2 and X-2S splice closure sizes have maximum capacities of 1,728 and 3,456 fibers, respectively, when using 200 &micro;m SpiderWeb Ribbon&reg;.<br />
+        <br />
+        The&nbsp;Fujikura 90R mass fusion splicer&nbsp;is the answer to higher density applications where single fiber splicing is too costly and timely. With automated splice start, tube heater, cleave tracking, and blade rotations for up to two cleavers at a time, the 90R splicer frees up operator time for other fiber preparation steps. Additionally, with field replaceable V-grooves, this splicer can be kept in the field longer by using the spare set.<br />
+        <br />
+        Learn more about AFL by visiting&nbsp;<a href="http://www.aflglobal.com/">www.AFLglobal.com</a>.<br />
+        <br />
+        About AFL<br />
+        Founded in 1984, AFL is an international manufacturer providing end-to-end solutions to the energy, service provider, enterprise and industrial markets as well as several emerging markets. The company&rsquo;s products are in use in over 130 countries and include fiber optic cable and hardware, transmission and substation accessories, outside plant equipment, connectivity, test and inspection equipment, fusion splicers and training. AFL also offers a wide variety of services supporting data center, enterprise, wireless and outside plant applications.<br />
+        <br />
+        <p>
+        Headquartered in Spartanburg, SC, AFL has  operations in the U.S., Mexico, Canada, Europe, Asia and Australia, and is a  wholly owned subsidiary of Fujikura Ltd. of Japan. For more information,  visit&nbsp;<a href="http://www.aflglobal.com/">www.AFLglobal.com</a>.  Follow us on&nbsp;<a href="https://www.linkedin.com/company/aflglobal">LinkedIn</a>,&nbsp;<a href="https://twitter.com/AFLglobal">X</a>,&nbsp;<a href="https://www.facebook.com/AFLglobal">Facebook</a>, and read our&nbsp;<a href="https://www.aflglobal.com/AFL-Blog/">blog</a>.</p>
+        About Cabling Installation &amp; Maintenance<br />
+        For 28 years, Cabling Installation &amp; Maintenance has provided useful, practical information to professionals responsible for the specification, design, installation, and management of structured cabling systems serving enterprise, data center and other environments. These professionals are challenged to stay informed of constantly evolving standards, system-design and installation approaches, product and system capabilities, technologies, as well as applications that rely on high-performance structured cabling systems. Our editors synthesize these complex issues into multiple information products. This portfolio of information products provides concrete detail that improves the efficiency of day-to-day operations and equips cabling professionals with the perspective that enables strategic planning for networks&rsquo; optimum long-term performance.</div>
+    - ID: "4c3792cf-8348-4d85-9cac-3f6086716488"
+      Hint: ContentCategory
+      Value: "{F78EA78A-E127-49A5-95B6-7DE64F85F319}"
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: AFL Honored by 2021 Cabling Installation Maintenance
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: AFL Honored by 2021 Cabling Installation Maintenance
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: AFL Honored by 2021 Cabling Installation Maintenance
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "51c82090-c4ff-47fc-a138-50546ef1fba0"
+    - ID: "9dd4f0d9-c123-47a8-8cef-2c85cea172f6"
+      Hint: ContentImage
+      Value: |
+        <image mediaid="{8687D076-549A-479A-A97B-D4FFA19D6337}" />
+    - ID: "a6eaffd5-fc3e-41b4-93b3-f1721fcf2300"
+      Hint: ContentPublishedDate
+      Value: 20210831T183000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T091026Z
+- Language: "es-MX"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "228f9517-e120-4014-b2c7-df0ac467a349"
+      Hint: ContentTitle
+      Value: AFL Honored by 2021 Cabling Installation & Maintenance Innovators Awards
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211130T140744Z
+    - ID: "3688d7df-2feb-43a4-ab8d-410e5f70a676"
+      Hint: ContentDescription
+      Value: |
+        <div>Spartanburg, SC &ndash;&nbsp;<a href="http://www.aflglobal.com/">AFL</a>, an international manufacturer of fiber optic cable, connectivity and accessories, has been recognized among the best by the 2021&nbsp;<a href="https://www.cablinginstall.com/">Cabling Installation &amp; Maintenance</a>&nbsp;(CI&amp;M) Innovators Awards. AFL&rsquo;s&nbsp;<a href="~/link.aspx?_id=BD16F0851A334911A1C25E3194A9D166&amp;_z=z">Apex&reg; splice closure</a>&nbsp;received a platinum-level honoree status, the highest achievable, and the&nbsp;<a href="~/link.aspx?_id=2E8A1E84DF684525BB00EFB67133746A&amp;_z=z">Fujikura 90R mass fusion splicer</a>&nbsp;received a gold-level honoree status. Recognition came from an esteemed and experienced panel of judges from the cabling community.<br />
+        <br />
+        &ldquo;We are honored to receive this recognition from the CI&amp;M panel. This reinforces the fact that we are creating innovative technologies and exceptional products that support the ever-changing and growing markets we serve,&rdquo; explained Kurt Dallas, President of AFL Product Solutions. &ldquo;We are committed to listening to our customers and developing unique solutions that drive bottom-line results.&rdquo;<br />
+        <br />
+        Apex splice closures&nbsp;are designed to lower overall installation time with easier-to-use sealing and cable retention methods. With a wedge-based gel sealing system, installation time is drastically decreased as network reliability increases. The Apex X-2 and X-2S splice closure sizes have maximum capacities of 1,728 and 3,456 fibers, respectively, when using 200 &micro;m SpiderWeb Ribbon&reg;.<br />
+        <br />
+        The&nbsp;Fujikura 90R mass fusion splicer&nbsp;is the answer to higher density applications where single fiber splicing is too costly and timely. With automated splice start, tube heater, cleave tracking, and blade rotations for up to two cleavers at a time, the 90R splicer frees up operator time for other fiber preparation steps. Additionally, with field replaceable V-grooves, this splicer can be kept in the field longer by using the spare set.<br />
+        <br />
+        Learn more about AFL by visiting&nbsp;<a href="http://www.aflglobal.com/">www.AFLglobal.com</a>.<br />
+        <br />
+        About AFL<br />
+        Founded in 1984, AFL is an international manufacturer providing end-to-end solutions to the energy, service provider, enterprise and industrial markets as well as several emerging markets. The company&rsquo;s products are in use in over 130 countries and include fiber optic cable and hardware, transmission and substation accessories, outside plant equipment, connectivity, test and inspection equipment, fusion splicers and training. AFL also offers a wide variety of services supporting data center, enterprise, wireless and outside plant applications.<br />
+        <p>
+        Headquartered in Spartanburg, SC, AFL has  operations in the U.S., Mexico, Canada, Europe, Asia and Australia, and is a  wholly owned subsidiary of Fujikura Ltd. of Japan. For more information,  visit&nbsp;<a href="http://www.aflglobal.com/">www.AFLglobal.com</a>.  Follow us on&nbsp;<a href="https://www.linkedin.com/company/aflglobal">LinkedIn</a>,&nbsp;<a href="https://twitter.com/AFLglobal">X</a>,&nbsp;<a href="https://www.facebook.com/AFLglobal">Facebook</a>, and read our&nbsp;<a href="https://www.aflglobal.com/AFL-Blog/">blog</a>.</p>
+        About Cabling Installation &amp; Maintenance<br />
+        For 28 years, Cabling Installation &amp; Maintenance has provided useful, practical information to professionals responsible for the specification, design, installation, and management of structured cabling systems serving enterprise, data center and other environments. These professionals are challenged to stay informed of constantly evolving standards, system-design and installation approaches, product and system capabilities, technologies, as well as applications that rely on high-performance structured cabling systems. Our editors synthesize these complex issues into multiple information products. This portfolio of information products provides concrete detail that improves the efficiency of day-to-day operations and equips cabling professionals with the perspective that enables strategic planning for networks&rsquo; optimum long-term performance.</div>
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4c3792cf-8348-4d85-9cac-3f6086716488"
+      Hint: ContentCategory
+      Value: "{F78EA78A-E127-49A5-95B6-7DE64F85F319}"
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: AFL Honored by 2021 Cabling Installation Maintenance
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mahesh
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: AFL Honored by 2021 Cabling Installation Maintenance
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: AFL Honored by 2021 Cabling Installation Maintenance
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a4ad5f39-0cf8-4b33-bd60-3a84d14c6368"
+    - ID: "9dd4f0d9-c123-47a8-8cef-2c85cea172f6"
+      Hint: ContentImage
+      Value: |
+        <image mediaid="{8687D076-549A-479A-A97B-D4FFA19D6337}" />
+    - ID: "a6eaffd5-fc3e-41b4-93b3-f1721fcf2300"
+      Hint: ContentPublishedDate
+      Value: 20210831T183000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T091027Z
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "228f9517-e120-4014-b2c7-df0ac467a349"
+      Hint: ContentTitle
+      Value: AFL Honored by 2021 Cabling Installation & Maintenance Innovators Awards
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211130T140744Z
+    - ID: "3688d7df-2feb-43a4-ab8d-410e5f70a676"
+      Hint: ContentDescription
+      Value: |
+        <div>Spartanburg, SC &ndash;&nbsp;<a href="http://www.aflglobal.com/">AFL</a>, an international manufacturer of fiber optic cable, connectivity and accessories, has been recognized among the best by the 2021&nbsp;<a href="https://www.cablinginstall.com/">Cabling Installation &amp; Maintenance</a>&nbsp;(CI&amp;M) Innovators Awards. AFL&rsquo;s&nbsp;<a href="https://learn.aflglobal.com/apex">Apex&reg; splice closure</a>&nbsp;received a platinum-level honoree status, the highest achievable, and the&nbsp;<a href="https://learn.aflglobal.com/product-fusion-splicing/fujikura-90r-mass-fusion-splicer-with-active-blade-management">Fujikura 90R mass fusion splicer</a>&nbsp;received a gold-level honoree status. Recognition came from an esteemed and experienced panel of judges from the cabling community.<br />
+        <br />
+        &ldquo;We are honored to receive this recognition from the CI&amp;M panel. This reinforces the fact that we are creating innovative technologies and exceptional products that support the ever-changing and growing markets we serve,&rdquo; explained Kurt Dallas, President of AFL Product Solutions. &ldquo;We are committed to listening to our customers and developing unique solutions that drive bottom-line results.&rdquo;<br />
+        <br />
+        <a href="https://learn.aflglobal.com/apex">Apex splice closures</a>&nbsp;are designed to lower overall installation time with easier-to-use sealing and cable retention methods. With a wedge-based gel sealing system, installation time is drastically decreased as network reliability increases. The Apex X-2 and X-2S splice closure sizes have maximum capacities of 1,728 and 3,456 fibers, respectively, when using 200 &micro;m SpiderWeb Ribbon&reg;.<br />
+        <br />
+        The&nbsp;<a href="https://www.aflglobal.com/Products/Fusion-Splicing/Field-Fusion-Splicing-Equipment/Splicers-Ribbon-Fiber/Fujikura-90R-Fusion-Splicer.aspx?utm_campaign=Fusion-Splicing&amp;utm_medium=Text&amp;utm_source=YouTube&amp;utm_term=90R">Fujikura 90R mass fusion splicer</a>&nbsp;is the answer to higher density applications where single fiber splicing is too costly and timely. With automated splice start, tube heater, cleave tracking, and blade rotations for up to two cleavers at a time, the 90R splicer frees up operator time for other fiber preparation steps. Additionally, with field replaceable V-grooves, this splicer can be kept in the field longer by using the spare set.<br />
+        <br />
+        Learn more about AFL by visiting&nbsp;<a href="http://www.aflglobal.com/">www.AFLglobal.com</a>.<br />
+        <br />
+        About AFL<br />
+        Founded in 1984, AFL is an international manufacturer providing end-to-end solutions to the energy, service provider, enterprise and industrial markets as well as several emerging markets. The company&rsquo;s products are in use in over 130 countries and include fiber optic cable and hardware, transmission and substation accessories, outside plant equipment, connectivity, test and inspection equipment, fusion splicers and training. AFL also offers a wide variety of services supporting data center, enterprise, wireless and outside plant applications.<br />
+        <br />
+        Headquartered in Spartanburg, SC, AFL has operations in the U.S., Mexico, Canada, Europe, Asia and Australia, and is a wholly owned subsidiary of Fujikura Ltd. of Japan. For more information, visit&nbsp;<a href="http://www.aflglobal.com/">www.AFLglobal.com</a>. Follow us on&nbsp;<a href="https://www.linkedin.com/company/afl-2">LinkedIn</a>,&nbsp;<a href="https://twitter.com/AFLglobal">Twitter</a>,&nbsp;<a href="https://www.facebook.com/AFLcorp">Facebook</a>, and read our&nbsp;<a href="https://www.aflglobal.com/AFL-Blog/">blog</a>.<br />
+        <br />
+        About Cabling Installation &amp; Maintenance<br />
+        For 28 years, Cabling Installation &amp; Maintenance has provided useful, practical information to professionals responsible for the specification, design, installation, and management of structured cabling systems serving enterprise, data center and other environments. These professionals are challenged to stay informed of constantly evolving standards, system-design and installation approaches, product and system capabilities, technologies, as well as applications that rely on high-performance structured cabling systems. Our editors synthesize these complex issues into multiple information products. This portfolio of information products provides concrete detail that improves the efficiency of day-to-day operations and equips cabling professionals with the perspective that enables strategic planning for networks&rsquo; optimum long-term performance.</div>
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4c3792cf-8348-4d85-9cac-3f6086716488"
+      Hint: ContentCategory
+      Value: "{F78EA78A-E127-49A5-95B6-7DE64F85F319}"
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: AFL Honored by 2021 Cabling Installation Maintenance
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mahesh
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: AFL Honored by 2021 Cabling Installation Maintenance
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "da80ad4b-3ee0-4e2a-b89b-b57e145f071f"
+    - ID: "9dd4f0d9-c123-47a8-8cef-2c85cea172f6"
+      Hint: ContentImage
+      Value: |
+        <image mediaid="{8687D076-549A-479A-A97B-D4FFA19D6337}" />
+    - ID: "a6eaffd5-fc3e-41b4-93b3-f1721fcf2300"
+      Hint: ContentPublishedDate
+      Value: 20210831T183000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahesh
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220215T093504Z
+  - Version: 2
+    Fields:
+    - ID: "228f9517-e120-4014-b2c7-df0ac467a349"
+      Hint: ContentTitle
+      Value: AFL Honored by 2021 Cabling Installation & Maintenance Innovators Awards
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211130T140744Z
+    - ID: "3688d7df-2feb-43a4-ab8d-410e5f70a676"
+      Hint: ContentDescription
+      Value: |
+        <div>Spartanburg, SC &ndash;&nbsp;<a href="http://www.aflglobal.com/">AFL</a>, an international manufacturer of fiber optic cable, connectivity and accessories, has been recognized among the best by the 2021&nbsp;<a href="https://www.cablinginstall.com/">Cabling Installation &amp; Maintenance</a>&nbsp;(CI&amp;M) Innovators Awards. AFL&rsquo;s&nbsp;<a href="~/link.aspx?_id=BD16F0851A334911A1C25E3194A9D166&amp;_z=z">Apex&reg; splice closure</a>&nbsp;received a platinum-level honoree status, the highest achievable, and the&nbsp;<a href="~/link.aspx?_id=2E8A1E84DF684525BB00EFB67133746A&amp;_z=z">Fujikura 90R mass fusion splicer</a>&nbsp;received a gold-level honoree status. Recognition came from an esteemed and experienced panel of judges from the cabling community.<br />
+        <br />
+        &ldquo;We are honored to receive this recognition from the CI&amp;M panel. This reinforces the fact that we are creating innovative technologies and exceptional products that support the ever-changing and growing markets we serve,&rdquo; explained Kurt Dallas, President of AFL Product Solutions. &ldquo;We are committed to listening to our customers and developing unique solutions that drive bottom-line results.&rdquo;<br />
+        <br />
+        Apex splice closures&nbsp;are designed to lower overall installation time with easier-to-use sealing and cable retention methods. With a wedge-based gel sealing system, installation time is drastically decreased as network reliability increases. The Apex X-2 and X-2S splice closure sizes have maximum capacities of 1,728 and 3,456 fibers, respectively, when using 200 &micro;m SpiderWeb Ribbon&reg;.<br />
+        <br />
+        The&nbsp;Fujikura 90R mass fusion splicer&nbsp;is the answer to higher density applications where single fiber splicing is too costly and timely. With automated splice start, tube heater, cleave tracking, and blade rotations for up to two cleavers at a time, the 90R splicer frees up operator time for other fiber preparation steps. Additionally, with field replaceable V-grooves, this splicer can be kept in the field longer by using the spare set.<br />
+        <br />
+        Learn more about AFL by visiting&nbsp;<a href="http://www.aflglobal.com/">www.AFLglobal.com</a>.<br />
+        <br />
+        About AFL<br />
+        Founded in 1984, AFL is an international manufacturer providing end-to-end solutions to the energy, service provider, enterprise and industrial markets as well as several emerging markets. The company&rsquo;s products are in use in over 130 countries and include fiber optic cable and hardware, transmission and substation accessories, outside plant equipment, connectivity, test and inspection equipment, fusion splicers and training. AFL also offers a wide variety of services supporting data center, enterprise, wireless and outside plant applications.<br />
+        <p>
+        Headquartered in Spartanburg, SC, AFL has  operations in the U.S., Mexico, Canada, Europe, Asia and Australia, and is a  wholly owned subsidiary of Fujikura Ltd. of Japan. For more information,  visit&nbsp;<a href="http://www.aflglobal.com/">www.AFLglobal.com</a>.  Follow us on&nbsp;<a href="https://www.linkedin.com/company/aflglobal">LinkedIn</a>,&nbsp;<a href="https://twitter.com/AFLglobal">X</a>,&nbsp;<a href="https://www.facebook.com/AFLglobal">Facebook</a>, and read our&nbsp;<a href="https://www.aflglobal.com/AFL-Blog/">blog</a>.</p>
+        About Cabling Installation &amp; Maintenance<br />
+        For 28 years, Cabling Installation &amp; Maintenance has provided useful, practical information to professionals responsible for the specification, design, installation, and management of structured cabling systems serving enterprise, data center and other environments. These professionals are challenged to stay informed of constantly evolving standards, system-design and installation approaches, product and system capabilities, technologies, as well as applications that rely on high-performance structured cabling systems. Our editors synthesize these complex issues into multiple information products. This portfolio of information products provides concrete detail that improves the efficiency of day-to-day operations and equips cabling professionals with the perspective that enables strategic planning for networks&rsquo; optimum long-term performance.</div>
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4c3792cf-8348-4d85-9cac-3f6086716488"
+      Hint: ContentCategory
+      Value: "{F78EA78A-E127-49A5-95B6-7DE64F85F319}"
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: AFL Honored by 2021 Cabling Installation Maintenance
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mahesh
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: AFL Honored by 2021 Cabling Installation Maintenance
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: AFL Honored by 2021 Cabling Installation Maintenance
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6b54e3f9-ad89-4096-801d-d07c1107ce76"
+    - ID: "9dd4f0d9-c123-47a8-8cef-2c85cea172f6"
+      Hint: ContentImage
+      Value: |
+        <image mediaid="{8687D076-549A-479A-A97B-D4FFA19D6337}" />
+    - ID: "a6eaffd5-fc3e-41b4-93b3-f1721fcf2300"
+      Hint: ContentPublishedDate
+      Value: 20210831T183000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T091027Z

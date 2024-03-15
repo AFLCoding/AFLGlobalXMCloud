@@ -1,0 +1,334 @@
+﻿---
+ID: "34bbc317-bc26-4c3f-9d79-dabdd9c33062"
+Parent: "52fbcc9b-5cb4-43bd-bc33-24183088aabb"
+Template: "011c02ab-49e7-41f0-8719-03034390bc25"
+Path: "/sitecore/content/AFL-Global/AMERICAS/Data/AFL Product Detail Folder/Company Details/Company Profile Details/AFL History Timeline Details"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211124T113242Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <h2 style="color: #004a91; background-color: #ffffff; margin: 0px;">Origins</h2>
+        <p>&nbsp;</p>
+        <p>AFL was formed on November 28, 1984, by Alcoa Securities Corporation (ASC), a wholly-owned subsidiary of the Aluminum Company of America (ALCOA), and Fujikura Ltd., a corporation organized and existing under the laws of Japan. AFL was created to manufacture fiber optic ground wire (entrance cables for sale to the public utility industry) at its Duncan, SC, facility. In 2005, Fujikura assumed 100% ownership of AFL and moved AFL's headquarters to Duncan, SC.</p>
+        <p>As a subsidiary of Fujikura, AFL is now part of a company with a long history and record of success in the communications industry. Fujikura has been in business over 130 years and is one of the oldest manufacturers of cables and wires in Japan. Throughout Fujikura's history, telecommunications has been a core business making significant contributions to Fujikura&rsquo;s growth.</p>
+        <p>In 1869, the first cable installation was completed between a lighthouse and a courthouse for a telegraph station in Yokohama City, Japan. Approximately seven years later, the first electric lights were powered by electricity in Japan.<br />
+        <br />
+        Fujikura's long history started at almost the same time as the origin of the telegraph and electricity. The history of Japanese cable also began with Fujikura over 130 years ago.</p>
+        <h2 style="color: #004a91; background-color: #ffffff; margin: 0px;">Acquisitions Bolster AFL&rsquo;s Growth</h2>
+        <p>In 1986, AFL acquired the operations of PEP Industries Inc. (PEP), a wholly-owned subsidiary of ASC. PEP was immediately dissolved as a corporation upon its merger with AFL and currently operates as the company&rsquo;s automotive division.</p>
+        <p>Also in 1986, AFL purchased Engineered Plastic Components Inc. (EPCI), which manufactured connectors, a component part used in the manufacture of wire harnesses.</p>
+        <p>In 1987, AFL acquired various assets of Ansco Tool Co., an Ohio manufacturer of terminals also used to manufacture wire harnesses. These assets formed the Ansco Terminal Division of AFL. That same year, Manufacturera de Componentes Electricos de Mexico was formed in Piedras Negras, Mexico, by AFL&rsquo;s automotive division as a wholly-owned subsidiary.</p>
+        <p>AFL purchased outstanding common stock of Alcoa Conductor Accessories Inc. (ACAI) from ASC in 1989 and became the power cable accessories division. Later that year, AFL purchased interest in United States Alumoweld Company (USAC), which manufactured and sold alumoweld rods to AFL and other parties.</p>
+        <p style="color: #333333; background-color: #ffffff; margin: 0px 0px 15px;">In 1990, AFL sold half of the assets of the Ansco Terminal Division and concurrently formed a terminal business partnership with the purchaser, an established designer and manufacturer of terminals. The newly created partnership, Cardell/AFL Company, manufactured and sold terminals to AFL as well as other parties.</p>
+        <p>During the remainder of the 1990s,&nbsp;AFL acquired:</p>
+        <ul style="color: #333333; background-color: #ffffff; list-style-image: url('https://www.aflglobal.com/productionFiles/images/bulletRound.aspx');">
+            <li>Automotive Wire Harnesses of Mexico</li>
+            <li>Stribel, which became AFGmbh, to manufacture automotive electrical distribution systems</li>
+            <li>ALCOA&rsquo;s ACPC Utility Division (ACPC), which began operating as the Utility Division of AFL</li>
+            <li>Five additional companies which expanded AFL&rsquo;s offerings to include ADSS, premise cable and services, and added a manufacturing facility in Monterrey, Mexico</li>
+        </ul>
+        <p>The new millennium saw more acquisitions. Noyes Fiber Systems was purchased in 2000, growing AFL&rsquo;s product base to include test and inspection equipment. Other acquisitions that year included the Aster division of Thomas &amp; Betts; AtPac service company; and FOCAS (which expanded cable operations to Alpharetta, GA, and Swindon, United Kingdom).</p>
+        <p>Since 2002, AFL has acquired:</p>
+        <ul style="color: #333333; background-color: #ffffff; list-style-image: url('https://www.aflglobal.com/productionFiles/images/bulletRound.aspx');">
+            <li>ISAC service company</li>
+            <li>Laser Armor Tech for growth of Optical Ground Wire business</li>
+            <li>Pacific 17*</li>
+            <li>Independent Venture Communications, Inc. (IVCI) service companies</li>
+            <li>Keptel Division of Arris, which expanded fiber management systems and broadband product offerings</li>
+            <li>Telco Service, Inc.</li>
+            <li>North Star Communications Group, Inc., which expanded outside plant engineering capabilities</li>
+            <li>Dossert Corporation, which added solutions for substation, network underground and rail transit systems</li>
+            <li>The Light Brigade&reg;*</li>
+            <li>Draka's OPGW division, which strengthened AFL&rsquo;s position as #1 producer of optical ground wire (OPGW)</li>
+            <li>Verrillon added specialty optical fiber to its portfolio and enhanced access to other specialty fiber markets including industrial and sensing</li>
+            <li>TCC Group, which enlarged AFL&rsquo;s global reach to the European, Middle Eastern, and African (EMEA) markets</li>
+            <li>ALTA Group added services capabilities in the US, UK and Canada</li>
+            <li>FibreFab, Inc. added data center-focused capabilities</li>
+            <li>Optimal Cable Services, which expanded AFL's manufacturing capabilities to the South Pacific</li>
+            <li>Tier2 Technologies, which grew AFL's telecommunications services offering.</li>
+            <li>AFC, which enlarged AFL's global footprint and expanded AFL's offering of solutions to the telecommunications, utility, enterprise and industrial markets.</li>
+            <li>IMPulse (Feb 2019)</li>
+            <li>ITC Service Group (May 2019)</li>
+            <li>Optical Telecom (Oct 2019)</li>
+            <li>Beam Wireless (Feb 2021)</li>
+        </ul>
+        &lt; p &gt;* Assets sold
+        <p>&nbsp;</p>
+    - ID: "5d336bce-e421-4fe8-ad55-214f80d841ad"
+      Hint: "Sub-Heading"
+      Value: AFL History Timeline Details Sub Heading
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3bf99fb0-b5c6-413f-bd61-5fbce60ab44b"
+    - ID: "ab91d39b-30ad-4050-acef-07c741146fcc"
+      Hint: Heading
+      Value: AFL History Timeline Details Heading
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20211124T120430Z
+- Language: "es-MX"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211124T113242Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <h2 style="color: #004a91; background-color: #ffffff; margin: 0px;">Origins</h2>
+        <p>&nbsp;</p>
+        <p>AFL was formed on November 28, 1984, by Alcoa Securities Corporation (ASC), a wholly-owned subsidiary of the Aluminum Company of America (ALCOA), and Fujikura Ltd., a corporation organized and existing under the laws of Japan. AFL was created to manufacture fiber optic ground wire (entrance cables for sale to the public utility industry) at its Duncan, SC, facility. In 2005, Fujikura assumed 100% ownership of AFL and moved AFL's headquarters to Duncan, SC.</p>
+        <p>As a subsidiary of Fujikura, AFL is now part of a company with a long history and record of success in the communications industry. Fujikura has been in business over 130 years and is one of the oldest manufacturers of cables and wires in Japan. Throughout Fujikura's history, telecommunications has been a core business making significant contributions to Fujikura&rsquo;s growth.</p>
+        <p>In 1869, the first cable installation was completed between a lighthouse and a courthouse for a telegraph station in Yokohama City, Japan. Approximately seven years later, the first electric lights were powered by electricity in Japan.<br />
+        <br />
+        Fujikura's long history started at almost the same time as the origin of the telegraph and electricity. The history of Japanese cable also began with Fujikura over 130 years ago.</p>
+        <h2 style="color: #004a91; background-color: #ffffff; margin: 0px;">Acquisitions Bolster AFL&rsquo;s Growth</h2>
+        <p>In 1986, AFL acquired the operations of PEP Industries Inc. (PEP), a wholly-owned subsidiary of ASC. PEP was immediately dissolved as a corporation upon its merger with AFL and currently operates as the company&rsquo;s automotive division.</p>
+        <p>Also in 1986, AFL purchased Engineered Plastic Components Inc. (EPCI), which manufactured connectors, a component part used in the manufacture of wire harnesses.</p>
+        <p>In 1987, AFL acquired various assets of Ansco Tool Co., an Ohio manufacturer of terminals also used to manufacture wire harnesses. These assets formed the Ansco Terminal Division of AFL. That same year, Manufacturera de Componentes Electricos de Mexico was formed in Piedras Negras, Mexico, by AFL&rsquo;s automotive division as a wholly-owned subsidiary.</p>
+        <p>AFL purchased outstanding common stock of Alcoa Conductor Accessories Inc. (ACAI) from ASC in 1989 and became the power cable accessories division. Later that year, AFL purchased interest in United States Alumoweld Company (USAC), which manufactured and sold alumoweld rods to AFL and other parties.</p>
+        <p style="color: #333333; background-color: #ffffff; margin: 0px 0px 15px;">In 1990, AFL sold half of the assets of the Ansco Terminal Division and concurrently formed a terminal business partnership with the purchaser, an established designer and manufacturer of terminals. The newly created partnership, Cardell/AFL Company, manufactured and sold terminals to AFL as well as other parties.</p>
+        <p>During the remainder of the 1990s,&nbsp;AFL acquired:</p>
+        <ul style="color: #333333; background-color: #ffffff; list-style-image: url('https://www.aflglobal.com/productionFiles/images/bulletRound.aspx');">
+            <li>Automotive Wire Harnesses of Mexico</li>
+            <li>Stribel, which became AFGmbh, to manufacture automotive electrical distribution systems</li>
+            <li>ALCOA&rsquo;s ACPC Utility Division (ACPC), which began operating as the Utility Division of AFL</li>
+            <li>Five additional companies which expanded AFL&rsquo;s offerings to include ADSS, premise cable and services, and added a manufacturing facility in Monterrey, Mexico</li>
+        </ul>
+        <p>The new millennium saw more acquisitions. Noyes Fiber Systems was purchased in 2000, growing AFL&rsquo;s product base to include test and inspection equipment. Other acquisitions that year included the Aster division of Thomas &amp; Betts; AtPac service company; and FOCAS (which expanded cable operations to Alpharetta, GA, and Swindon, United Kingdom).</p>
+        <p>Since 2002, AFL has acquired:</p>
+        <ul style="color: #333333; background-color: #ffffff; list-style-image: url('https://www.aflglobal.com/productionFiles/images/bulletRound.aspx');">
+            <li>ISAC service company</li>
+            <li>Laser Armor Tech for growth of Optical Ground Wire business</li>
+            <li>Pacific 17*</li>
+            <li>Independent Venture Communications, Inc. (IVCI) service companies</li>
+            <li>Keptel Division of Arris, which expanded fiber management systems and broadband product offerings</li>
+            <li>Telco Service, Inc.</li>
+            <li>North Star Communications Group, Inc., which expanded outside plant engineering capabilities</li>
+            <li>Dossert Corporation, which added solutions for substation, network underground and rail transit systems</li>
+            <li>The Light Brigade&reg;*</li>
+            <li>Draka's OPGW division, which strengthened AFL&rsquo;s position as #1 producer of optical ground wire (OPGW)</li>
+            <li>Verrillon added specialty optical fiber to its portfolio and enhanced access to other specialty fiber markets including industrial and sensing</li>
+            <li>TCC Group, which enlarged AFL&rsquo;s global reach to the European, Middle Eastern, and African (EMEA) markets</li>
+            <li>ALTA Group added services capabilities in the US, UK and Canada</li>
+            <li>FibreFab, Inc. added data center-focused capabilities</li>
+            <li>Optimal Cable Services, which expanded AFL's manufacturing capabilities to the South Pacific</li>
+            <li>Tier2 Technologies, which grew AFL's telecommunications services offering.</li>
+            <li>AFC, which enlarged AFL's global footprint and expanded AFL's offering of solutions to the telecommunications, utility, enterprise and industrial markets.</li>
+            <li>IMPulse (Feb 2019)</li>
+            <li>ITC Service Group (May 2019)</li>
+            <li>Optical Telecom (Oct 2019)</li>
+            <li>Beam Wireless (Feb 2021)</li>
+        </ul>
+        &lt; p &gt;* Assets sold
+        <p>&nbsp;</p>
+    - ID: "5d336bce-e421-4fe8-ad55-214f80d841ad"
+      Hint: "Sub-Heading"
+      Value: AFL History Timeline Details Sub Heading
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "128a8b53-2936-4f1a-8b3b-53879d27379a"
+    - ID: "ab91d39b-30ad-4050-acef-07c741146fcc"
+      Hint: Heading
+      Value: AFL History Timeline Details Heading
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahesh
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220215T130024Z
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211124T113242Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <h2 style="color: #004a91; background-color: #ffffff; margin: 0px;">Origins</h2>
+        <p>&nbsp;</p>
+        <p>AFL was formed on November 28, 1984, by Alcoa Securities Corporation (ASC), a wholly-owned subsidiary of the Aluminum Company of America (ALCOA), and Fujikura Ltd., a corporation organized and existing under the laws of Japan. AFL was created to manufacture fiber optic ground wire (entrance cables for sale to the public utility industry) at its Duncan, SC, facility. In 2005, Fujikura assumed 100% ownership of AFL and moved AFL's headquarters to Duncan, SC.</p>
+        <p>As a subsidiary of Fujikura, AFL is now part of a company with a long history and record of success in the communications industry. Fujikura has been in business over 130 years and is one of the oldest manufacturers of cables and wires in Japan. Throughout Fujikura's history, telecommunications has been a core business making significant contributions to Fujikura&rsquo;s growth.</p>
+        <p>In 1869, the first cable installation was completed between a lighthouse and a courthouse for a telegraph station in Yokohama City, Japan. Approximately seven years later, the first electric lights were powered by electricity in Japan.<br />
+        <br />
+        Fujikura's long history started at almost the same time as the origin of the telegraph and electricity. The history of Japanese cable also began with Fujikura over 130 years ago.</p>
+        <h2 style="color: #004a91; background-color: #ffffff; margin: 0px;">Acquisitions Bolster AFL&rsquo;s Growth</h2>
+        <p>In 1986, AFL acquired the operations of PEP Industries Inc. (PEP), a wholly-owned subsidiary of ASC. PEP was immediately dissolved as a corporation upon its merger with AFL and currently operates as the company&rsquo;s automotive division.</p>
+        <p>Also in 1986, AFL purchased Engineered Plastic Components Inc. (EPCI), which manufactured connectors, a component part used in the manufacture of wire harnesses.</p>
+        <p>In 1987, AFL acquired various assets of Ansco Tool Co., an Ohio manufacturer of terminals also used to manufacture wire harnesses. These assets formed the Ansco Terminal Division of AFL. That same year, Manufacturera de Componentes Electricos de Mexico was formed in Piedras Negras, Mexico, by AFL&rsquo;s automotive division as a wholly-owned subsidiary.</p>
+        <p>AFL purchased outstanding common stock of Alcoa Conductor Accessories Inc. (ACAI) from ASC in 1989 and became the power cable accessories division. Later that year, AFL purchased interest in United States Alumoweld Company (USAC), which manufactured and sold alumoweld rods to AFL and other parties.</p>
+        <p style="color: #333333; background-color: #ffffff; margin: 0px 0px 15px;">In 1990, AFL sold half of the assets of the Ansco Terminal Division and concurrently formed a terminal business partnership with the purchaser, an established designer and manufacturer of terminals. The newly created partnership, Cardell/AFL Company, manufactured and sold terminals to AFL as well as other parties.</p>
+        <p>During the remainder of the 1990s,&nbsp;AFL acquired:</p>
+        <ul style="color: #333333; background-color: #ffffff; list-style-image: url('https://www.aflglobal.com/productionFiles/images/bulletRound.aspx');">
+            <li>Automotive Wire Harnesses of Mexico</li>
+            <li>Stribel, which became AFGmbh, to manufacture automotive electrical distribution systems</li>
+            <li>ALCOA&rsquo;s ACPC Utility Division (ACPC), which began operating as the Utility Division of AFL</li>
+            <li>Five additional companies which expanded AFL&rsquo;s offerings to include ADSS, premise cable and services, and added a manufacturing facility in Monterrey, Mexico</li>
+        </ul>
+        <p>The new millennium saw more acquisitions. Noyes Fiber Systems was purchased in 2000, growing AFL&rsquo;s product base to include test and inspection equipment. Other acquisitions that year included the Aster division of Thomas &amp; Betts; AtPac service company; and FOCAS (which expanded cable operations to Alpharetta, GA, and Swindon, United Kingdom).</p>
+        <p>Since 2002, AFL has acquired:</p>
+        <ul style="color: #333333; background-color: #ffffff; list-style-image: url('https://www.aflglobal.com/productionFiles/images/bulletRound.aspx');">
+            <li>ISAC service company</li>
+            <li>Laser Armor Tech for growth of Optical Ground Wire business</li>
+            <li>Pacific 17*</li>
+            <li>Independent Venture Communications, Inc. (IVCI) service companies</li>
+            <li>Keptel Division of Arris, which expanded fiber management systems and broadband product offerings</li>
+            <li>Telco Service, Inc.</li>
+            <li>North Star Communications Group, Inc., which expanded outside plant engineering capabilities</li>
+            <li>Dossert Corporation, which added solutions for substation, network underground and rail transit systems</li>
+            <li>The Light Brigade&reg;*</li>
+            <li>Draka's OPGW division, which strengthened AFL&rsquo;s position as #1 producer of optical ground wire (OPGW)</li>
+            <li>Verrillon added specialty optical fiber to its portfolio and enhanced access to other specialty fiber markets including industrial and sensing</li>
+            <li>TCC Group, which enlarged AFL&rsquo;s global reach to the European, Middle Eastern, and African (EMEA) markets</li>
+            <li>ALTA Group added services capabilities in the US, UK and Canada</li>
+            <li>FibreFab, Inc. added data center-focused capabilities</li>
+            <li>Optimal Cable Services, which expanded AFL's manufacturing capabilities to the South Pacific</li>
+            <li>Tier2 Technologies, which grew AFL's telecommunications services offering.</li>
+            <li>AFC, which enlarged AFL's global footprint and expanded AFL's offering of solutions to the telecommunications, utility, enterprise and industrial markets.</li>
+            <li>IMPulse (Feb 2019)</li>
+            <li>ITC Service Group (May 2019)</li>
+            <li>Optical Telecom (Oct 2019)</li>
+            <li>Beam Wireless (Feb 2021)</li>
+        </ul>
+        &lt; p &gt;* Assets sold
+        <p>&nbsp;</p>
+    - ID: "5d336bce-e421-4fe8-ad55-214f80d841ad"
+      Hint: "Sub-Heading"
+      Value: AFL History Timeline Details Sub Heading
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "830a2e40-7f60-48f7-acb5-3af576fabfff"
+    - ID: "ab91d39b-30ad-4050-acef-07c741146fcc"
+      Hint: Heading
+      Value: AFL History Timeline Details Heading
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahesh
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220215T094617Z
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211124T113242Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <h2 style="color: #004a91; background-color: #ffffff; margin: 0px;">Origins</h2>
+        <p>&nbsp;</p>
+        <p>AFL was formed on November 28, 1984, by Alcoa Securities Corporation (ASC), a wholly-owned subsidiary of the Aluminum Company of America (ALCOA), and Fujikura Ltd., a corporation organized and existing under the laws of Japan. AFL was created to manufacture fiber optic ground wire (entrance cables for sale to the public utility industry) at its Duncan, SC, facility. In 2005, Fujikura assumed 100% ownership of AFL and moved AFL's headquarters to Duncan, SC.</p>
+        <p>As a subsidiary of Fujikura, AFL is now part of a company with a long history and record of success in the communications industry. Fujikura has been in business over 130 years and is one of the oldest manufacturers of cables and wires in Japan. Throughout Fujikura's history, telecommunications has been a core business making significant contributions to Fujikura&rsquo;s growth.</p>
+        <p>In 1869, the first cable installation was completed between a lighthouse and a courthouse for a telegraph station in Yokohama City, Japan. Approximately seven years later, the first electric lights were powered by electricity in Japan.<br />
+        <br />
+        Fujikura's long history started at almost the same time as the origin of the telegraph and electricity. The history of Japanese cable also began with Fujikura over 130 years ago.</p>
+        <h2 style="color: #004a91; background-color: #ffffff; margin: 0px;">Acquisitions Bolster AFL&rsquo;s Growth</h2>
+        <p>In 1986, AFL acquired the operations of PEP Industries Inc. (PEP), a wholly-owned subsidiary of ASC. PEP was immediately dissolved as a corporation upon its merger with AFL and currently operates as the company&rsquo;s automotive division.</p>
+        <p>Also in 1986, AFL purchased Engineered Plastic Components Inc. (EPCI), which manufactured connectors, a component part used in the manufacture of wire harnesses.</p>
+        <p>In 1987, AFL acquired various assets of Ansco Tool Co., an Ohio manufacturer of terminals also used to manufacture wire harnesses. These assets formed the Ansco Terminal Division of AFL. That same year, Manufacturera de Componentes Electricos de Mexico was formed in Piedras Negras, Mexico, by AFL&rsquo;s automotive division as a wholly-owned subsidiary.</p>
+        <p>AFL purchased outstanding common stock of Alcoa Conductor Accessories Inc. (ACAI) from ASC in 1989 and became the power cable accessories division. Later that year, AFL purchased interest in United States Alumoweld Company (USAC), which manufactured and sold alumoweld rods to AFL and other parties.</p>
+        <p style="color: #333333; background-color: #ffffff; margin: 0px 0px 15px;">In 1990, AFL sold half of the assets of the Ansco Terminal Division and concurrently formed a terminal business partnership with the purchaser, an established designer and manufacturer of terminals. The newly created partnership, Cardell/AFL Company, manufactured and sold terminals to AFL as well as other parties.</p>
+        <p>During the remainder of the 1990s,&nbsp;AFL acquired:</p>
+        <ul style="color: #333333; background-color: #ffffff; list-style-image: url('https://www.aflglobal.com/productionFiles/images/bulletRound.aspx');">
+            <li>Automotive Wire Harnesses of Mexico</li>
+            <li>Stribel, which became AFGmbh, to manufacture automotive electrical distribution systems</li>
+            <li>ALCOA&rsquo;s ACPC Utility Division (ACPC), which began operating as the Utility Division of AFL</li>
+            <li>Five additional companies which expanded AFL&rsquo;s offerings to include ADSS, premise cable and services, and added a manufacturing facility in Monterrey, Mexico</li>
+        </ul>
+        <p>The new millennium saw more acquisitions. Noyes Fiber Systems was purchased in 2000, growing AFL&rsquo;s product base to include test and inspection equipment. Other acquisitions that year included the Aster division of Thomas &amp; Betts; AtPac service company; and FOCAS (which expanded cable operations to Alpharetta, GA, and Swindon, United Kingdom).</p>
+        <p>Since 2002, AFL has acquired:</p>
+        <ul style="color: #333333; background-color: #ffffff; list-style-image: url('https://www.aflglobal.com/productionFiles/images/bulletRound.aspx');">
+            <li>ISAC service company</li>
+            <li>Laser Armor Tech for growth of Optical Ground Wire business</li>
+            <li>Pacific 17*</li>
+            <li>Independent Venture Communications, Inc. (IVCI) service companies</li>
+            <li>Keptel Division of Arris, which expanded fiber management systems and broadband product offerings</li>
+            <li>Telco Service, Inc.</li>
+            <li>North Star Communications Group, Inc., which expanded outside plant engineering capabilities</li>
+            <li>Dossert Corporation, which added solutions for substation, network underground and rail transit systems</li>
+            <li>The Light Brigade&reg;*</li>
+            <li>Draka's OPGW division, which strengthened AFL&rsquo;s position as #1 producer of optical ground wire (OPGW)</li>
+            <li>Verrillon added specialty optical fiber to its portfolio and enhanced access to other specialty fiber markets including industrial and sensing</li>
+            <li>TCC Group, which enlarged AFL&rsquo;s global reach to the European, Middle Eastern, and African (EMEA) markets</li>
+            <li>ALTA Group added services capabilities in the US, UK and Canada</li>
+            <li>FibreFab, Inc. added data center-focused capabilities</li>
+            <li>Optimal Cable Services, which expanded AFL's manufacturing capabilities to the South Pacific</li>
+            <li>Tier2 Technologies, which grew AFL's telecommunications services offering.</li>
+            <li>AFC, which enlarged AFL's global footprint and expanded AFL's offering of solutions to the telecommunications, utility, enterprise and industrial markets.</li>
+            <li>IMPulse (Feb 2019)</li>
+            <li>ITC Service Group (May 2019)</li>
+            <li>Optical Telecom (Oct 2019)</li>
+            <li>Beam Wireless (Feb 2021)</li>
+        </ul>
+        &lt; p &gt;* Assets sold
+        <p>&nbsp;</p>
+    - ID: "5d336bce-e421-4fe8-ad55-214f80d841ad"
+      Hint: "Sub-Heading"
+      Value: AFL History Timeline Details Sub Heading
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ae684d7e-d20d-4eeb-ac28-3f4ca03db018"
+    - ID: "ab91d39b-30ad-4050-acef-07c741146fcc"
+      Hint: Heading
+      Value: AFL History Timeline Details Heading
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahesh
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220310T075340Z

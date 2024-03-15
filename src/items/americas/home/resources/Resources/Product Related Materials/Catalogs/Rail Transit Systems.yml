@@ -1,0 +1,35 @@
+﻿---
+ID: "14d52823-f9f9-4093-8e71-e7ebb24f1b0a"
+Parent: "0c030a4b-db7a-4851-b257-e3079aab9463"
+Template: "c14b6289-8ac2-439c-9e5b-40de9f820c3f"
+Path: "/sitecore/content/AFL-Global/AMERICAS/Home/Resources/Product Related Materials/Catalogs/Rail Transit Systems"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "22753447-be25-4035-a3c9-7f875afe8e57"
+      Hint: RedirectUrl
+      Value: |
+        <link text="" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{0C030A4B-DB7A-4851-B257-E3079AAB9463}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230720T171452Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rafael
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rafael
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "374e2240-c8f5-49dc-b794-5c31cd26d092"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rafael
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230720T171537Z

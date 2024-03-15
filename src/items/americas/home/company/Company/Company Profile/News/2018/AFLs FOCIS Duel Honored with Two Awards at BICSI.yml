@@ -1,0 +1,327 @@
+﻿---
+ID: "c38565d9-2ba0-45e0-866d-a081b0833f65"
+Parent: "e4ae6849-af78-46ba-9347-c31e069119d4"
+Template: "f36e821e-bb98-44dc-966d-e92a0e033cc7"
+Path: "/sitecore/content/AFL-Global/AMERICAS/Home/Company/Company Profile/News/2018/AFLs FOCIS Duel Honored with Two Awards at BICSI"
+SharedFields:
+- ID: "1fbc6a49-6281-48ee-87e9-a3970b145adb"
+  Hint: NavigationFilter
+  Value: |
+    {E0A2A027-0932-4878-A7D6-0416D5263EFB}
+    {61BD64D6-809E-40AE-9297-2724A19329B3}
+    {D063E9D1-C7B5-4B1E-B31E-69886C9C59F5}
+    {500AE4C0-FA7B-463F-8149-EFFF7F044101}
+    {A0E7FF57-6994-4B09-AA21-104239628D5A}
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{3A84BAC9-C1BD-4809-A12C-28EB44E25329}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{DAE7C21D-4D3B-4257-A95C-9104CD8AF409}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "228f9517-e120-4014-b2c7-df0ac467a349"
+      Hint: ContentTitle
+      Value: AFL’s FOCIS Duel Honored with Two Awards at BICSI Winter
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211214T142605Z
+    - ID: "3688d7df-2feb-43a4-ab8d-410e5f70a676"
+      Hint: ContentDescription
+      Value: |
+        Lowell, MA and Spartanburg, SC – <a href="http://www.aflglobal.com/">AFL</a>’s newest product, the <a href="~/link.aspx?_id=FDF30551384C4C55B6626D7D3D466816&_z=z">FOCIS Duel</a> Fiber Inspection Tool, received <a href="https://www.bicsi.org/winter/2018/attendee.aspx?id=8788">top honors</a> at the BICSI Winter Conference & Exhibition in the New Product Pavilion. Winning by attendee votes, the FOCIS Duel was the “Install Tools, Methods and Testing” category winner and overall Best in Show winner.<a href="https://www.aflglobal.com/productionFiles/images/News/FOCIS-Duel.aspx" target="_self"></a><br />
+        <br />
+        FOCIS Duel is the world’s first wireless handheld fiber inspection probe with two optical ports—one optimized for fast subjective “view-only” patch cord end-face inspection and the second port offering full support of AFL’s <a href="~/link.aspx?_id=A5294A0B18184D9FBEABE71007538173&_z=z">FOCIS Flex inspection system</a>. FOCIS Duel features female “plug-in” connector adapters, which facilitate rapid end-face inspection operation. The LC adapters mechanically accommodate duplex LC connectors commonly used in data centers.<br />
+        <br />
+        “We are thrilled to have received this honor from the BICSI community, as it acknowledges the outstanding value proposition FOCIS Duel brings to our customers,” said Maury Wood, Senior Product Line Manager for inspection products.  “This exciting new connector inspection probe holds the promise to significantly reduce end user fiber network operating costs.”<br />
+        <br />
+        FOCIS Duel’s Bluetooth® transceiver works with AFL’s FOCIS app for iOS and Android smart devices. The FOCIS app provides connectivity to AFL’s <a href="~/link.aspx?_id=4C1A455A2E234F3A968C0A26C07049A8&_z=z">aeRos® cloud-based workflow management</a> platform and features other highly valuable capabilities. Operating features include UPC and APC adapters, auto-focus, auto-capture, auto-analysis to IEC and IPC rules, image saving, image/tabular data, pass/fail results transfer over Bluetooth, and PDF report generation. <br />
+        <br />
+        For more information about AFL, its products and services, visit <a href="http://www.aflglobal.com/">www.AFLglobal.com</a>.<br />
+        <br />
+        About AFL<br />
+        Founded in 1984, AFL is an international manufacturer providing end-to-end solutions to the energy, service provider, enterprise and industrial markets as well as several emerging markets. The company’s products are in use in over 130 countries and include fiber optic cable and hardware, transmission and substation accessories, outside plant equipment, connectivity, test and inspection equipment, fusion splicers and training. AFL also offers a wide variety of services supporting data center, enterprise, wireless and outside plant applications.<br />
+        <br />
+        Headquartered in Spartanburg, SC, AFL has operations in the U.S., Mexico, Canada, Europe, Asia and Australia, and is a wholly-owned subsidiary of Fujikura Ltd. of Japan. For more information, visit <a href="http://www.aflglobal.com/">www.AFLglobal.com</a>. <br />
+         <br />
+        Contacts<br />
+        Maury Wood<br />
+        Senior Product Line Manager<br />
+        AFL<br />
+        978.455.9278<br />
+        <a href="mailto:Maury.Wood@AFLglobal.com">Maury.Wood@AFLglobal.com</a><br />
+        <br />
+        Corie Culp<br />
+        Public Relations Manager<br />
+        AFL<br />
+        864.433.5409<br />
+        <a href="mailto:Corie.Culp@AFLglobal.com">Corie.Culp@AFLglobal.com</a>
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: AFLs FOCIS Duel Honored with Two Awards at BICSI
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\harry
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\harry
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: AFLs FOCIS Duel Honored with Two Awards at BICSI
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: AFLs FOCIS Duel Honored with Two Awards at BICSI
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5042e484-7463-4547-a520-3ffb2f88de80"
+    - ID: "9dd4f0d9-c123-47a8-8cef-2c85cea172f6"
+      Hint: ContentImage
+      Value: |
+        <image mediaid="{0CA86C6F-3748-4121-8822-C37824A7E719}" />
+    - ID: "a6eaffd5-fc3e-41b4-93b3-f1721fcf2300"
+      Hint: ContentPublishedDate
+      Value: 20180226T183000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T090915Z
+- Language: "es-MX"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "228f9517-e120-4014-b2c7-df0ac467a349"
+      Hint: ContentTitle
+      Value: AFL’s FOCIS Duel Honored with Two Awards at BICSI Winter
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211214T142605Z
+    - ID: "3688d7df-2feb-43a4-ab8d-410e5f70a676"
+      Hint: ContentDescription
+      Value: |
+        Lowell, MA and Spartanburg, SC – <a href="http://www.aflglobal.com/">AFL</a>’s newest product, the <a href="~/link.aspx?_id=FDF30551384C4C55B6626D7D3D466816&_z=z">FOCIS Duel</a> Fiber Inspection Tool, received <a href="https://www.bicsi.org/winter/2018/attendee.aspx?id=8788">top honors</a> at the BICSI Winter Conference & Exhibition in the New Product Pavilion. Winning by attendee votes, the FOCIS Duel was the “Install Tools, Methods and Testing” category winner and overall Best in Show winner.<a href="https://www.aflglobal.com/productionFiles/images/News/FOCIS-Duel.aspx" target="_self"></a><br />
+        <br />
+        FOCIS Duel is the world’s first wireless handheld fiber inspection probe with two optical ports—one optimized for fast subjective “view-only” patch cord end-face inspection and the second port offering full support of AFL’s <a href="~/link.aspx?_id=A5294A0B18184D9FBEABE71007538173&_z=z">FOCIS Flex inspection system</a>. FOCIS Duel features female “plug-in” connector adapters, which facilitate rapid end-face inspection operation. The LC adapters mechanically accommodate duplex LC connectors commonly used in data centers.<br />
+        <br />
+        “We are thrilled to have received this honor from the BICSI community, as it acknowledges the outstanding value proposition FOCIS Duel brings to our customers,” said Maury Wood, Senior Product Line Manager for inspection products.  “This exciting new connector inspection probe holds the promise to significantly reduce end user fiber network operating costs.”<br />
+        <br />
+        FOCIS Duel’s Bluetooth® transceiver works with AFL’s FOCIS app for iOS and Android smart devices. The FOCIS app provides connectivity to AFL’s <a href="~/link.aspx?_id=4C1A455A2E234F3A968C0A26C07049A8&_z=z">aeRos® cloud-based workflow management</a> platform and features other highly valuable capabilities. Operating features include UPC and APC adapters, auto-focus, auto-capture, auto-analysis to IEC and IPC rules, image saving, image/tabular data, pass/fail results transfer over Bluetooth, and PDF report generation. <br />
+        <br />
+        For more information about AFL, its products and services, visit <a href="http://www.aflglobal.com/">www.AFLglobal.com</a>.<br />
+        <br />
+        About AFL<br />
+        Founded in 1984, AFL is an international manufacturer providing end-to-end solutions to the energy, service provider, enterprise and industrial markets as well as several emerging markets. The company’s products are in use in over 130 countries and include fiber optic cable and hardware, transmission and substation accessories, outside plant equipment, connectivity, test and inspection equipment, fusion splicers and training. AFL also offers a wide variety of services supporting data center, enterprise, wireless and outside plant applications.<br />
+        <br />
+        Headquartered in Spartanburg, SC, AFL has operations in the U.S., Mexico, Canada, Europe, Asia and Australia, and is a wholly-owned subsidiary of Fujikura Ltd. of Japan. For more information, visit <a href="http://www.aflglobal.com/">www.AFLglobal.com</a>. <br />
+         <br />
+        Contacts<br />
+        Maury Wood<br />
+        Senior Product Line Manager<br />
+        AFL<br />
+        978.455.9278<br />
+        <a href="mailto:Maury.Wood@AFLglobal.com">Maury.Wood@AFLglobal.com</a><br />
+        <br />
+        Corie Culp<br />
+        Public Relations Manager<br />
+        AFL<br />
+        864.433.5409<br />
+        <a href="mailto:Corie.Culp@AFLglobal.com">Corie.Culp@AFLglobal.com</a>
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: AFLs FOCIS Duel Honored with Two Awards at BICSI
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\harry
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: AFLs FOCIS Duel Honored with Two Awards at BICSI
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: AFLs FOCIS Duel Honored with Two Awards at BICSI
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a3e41584-526e-42d6-8a6b-ee00dcdf3120"
+    - ID: "9dd4f0d9-c123-47a8-8cef-2c85cea172f6"
+      Hint: ContentImage
+      Value: |
+        <image mediaid="{0CA86C6F-3748-4121-8822-C37824A7E719}" />
+    - ID: "a6eaffd5-fc3e-41b4-93b3-f1721fcf2300"
+      Hint: ContentPublishedDate
+      Value: 20180226T183000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T090915Z
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "228f9517-e120-4014-b2c7-df0ac467a349"
+      Hint: ContentTitle
+      Value: AFL’s FOCIS Duel Honored with Two Awards at BICSI Winter
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211214T142605Z
+    - ID: "3688d7df-2feb-43a4-ab8d-410e5f70a676"
+      Hint: ContentDescription
+      Value: |
+        Lowell, MA and Spartanburg, SC &ndash;&nbsp;<a href="http://www.aflglobal.com/">AFL</a>&rsquo;s newest product, the&nbsp;<a href="https://www.aflglobal.com/Products/Test-and-Inspection/Fiber-Optic-Inspection/FOCIS-Duel-Fiber-Optic-Connector-Inspection-System.aspx">FOCIS Duel</a>&nbsp;Fiber Inspection Tool, received&nbsp;<a href="https://www.bicsi.org/winter/2018/attendee.aspx?id=8788">top honors</a>&nbsp;at the BICSI Winter Conference &amp; Exhibition in the New Product Pavilion. Winning by attendee votes, the FOCIS Duel was the &ldquo;Install Tools, Methods and Testing&rdquo; category winner and overall Best in Show winner.<a href="https://www.aflglobal.com/productionFiles/images/News/FOCIS-Duel.aspx" target="_self"></a><br />
+        <br />
+        <a href="https://www.aflglobal.com/Products/Test-and-Inspection/Fiber-Optic-Inspection/FOCIS-Duel-Fiber-Optic-Connector-Inspection-System.aspx">FOCIS Duel</a>&nbsp;is the world&rsquo;s first wireless handheld fiber inspection probe with two optical ports&mdash;one optimized for fast subjective &ldquo;view-only&rdquo; patch cord end-face inspection and the second port offering full support of AFL&rsquo;s&nbsp;<a href="https://www.aflglobal.com/Products/Test-and-Inspection/Fiber-Optic-Inspection/FOCIS-Flex-Fiber-Optic-Connector-Inspection-System.aspx">FOCIS Flex inspection system</a>.&nbsp;FOCIS Duel features female &ldquo;plug-in&rdquo; connector adapters, which facilitate rapid end-face inspection operation. The LC adapters mechanically accommodate duplex LC connectors commonly used in data centers.<br />
+        <br />
+        &ldquo;We are thrilled to have received this honor from the BICSI community, as it acknowledges the outstanding value proposition FOCIS Duel brings to our customers,&rdquo; said Maury Wood, Senior Product Line Manager for inspection products.&nbsp; &ldquo;This exciting new connector inspection probe holds the promise to significantly reduce end user fiber network operating costs.&rdquo;<br />
+        <br />
+        <a href="https://www.aflglobal.com/Products/Test-and-Inspection/Fiber-Optic-Inspection/FOCIS-Duel-Fiber-Optic-Connector-Inspection-System.aspx">FOCIS Duel&rsquo;s</a>&nbsp;Bluetooth&reg;&nbsp;transceiver works with AFL&rsquo;s FOCIS app for iOS and Android smart devices. The FOCIS app provides connectivity to AFL&rsquo;s&nbsp;<a href="https://www.aflglobal.com/Products/Test-and-Inspection/Software/aeRos.aspx">aeRos&reg;</a>&nbsp;cloud-based workflow management platform and features other highly valuable capabilities. Operating features include UPC and APC adapters, auto-focus, auto-capture, auto-analysis to IEC and IPC rules, image saving, image/tabular data, pass/fail results transfer over Bluetooth, and PDF report generation.&nbsp;<br />
+        <br />
+        For more information about AFL, its products and services, visit&nbsp;<a href="http://www.aflglobal.com/">www.AFLglobal.com</a>.<br />
+        <br />
+        About AFL<br />
+        Founded in 1984, AFL is an international manufacturer providing end-to-end solutions to the energy, service provider, enterprise and industrial markets as well as several emerging markets. The company&rsquo;s products are in use in over 130 countries and include fiber optic cable and hardware, transmission and substation accessories, outside plant equipment, connectivity, test and inspection equipment, fusion splicers and training. AFL also offers a wide variety of services supporting data center, enterprise, wireless and outside plant applications.<br />
+        <br />
+        Headquartered in Spartanburg, SC, AFL has operations in the U.S., Mexico, Canada, Europe, Asia and Australia, and is a wholly-owned subsidiary of Fujikura Ltd. of Japan. For more information, visit&nbsp;<a href="http://www.aflglobal.com/">www.AFLglobal.com</a>.&nbsp;<br />
+        &nbsp;<br />
+        Contacts<br />
+        Maury Wood<br />
+        Senior Product Line Manager<br />
+        AFL<br />
+        978.455.9278<br />
+        <a href="mailto:Maury.Wood@AFLglobal.com">Maury.Wood@AFLglobal.com</a><br />
+        <br />
+        Corie Culp<br />
+        Public Relations Manager<br />
+        AFL<br />
+        864.433.5409<br />
+        <a href="mailto:Corie.Culp@AFLglobal.com">Corie.Culp@AFLglobal.com</a>
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: AFLs FOCIS Duel Honored with Two Awards at BICSI
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\harry
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: AFLs FOCIS Duel Honored with Two Awards at BICSI
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4a34853e-7873-43e4-9456-9a1733925c92"
+    - ID: "9dd4f0d9-c123-47a8-8cef-2c85cea172f6"
+      Hint: ContentImage
+      Value: |
+        <image mediaid="{0CA86C6F-3748-4121-8822-C37824A7E719}" />
+    - ID: "a6eaffd5-fc3e-41b4-93b3-f1721fcf2300"
+      Hint: ContentPublishedDate
+      Value: 20180226T183000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahesh
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220215T093301Z
+  - Version: 2
+    Fields:
+    - ID: "228f9517-e120-4014-b2c7-df0ac467a349"
+      Hint: ContentTitle
+      Value: AFL’s FOCIS Duel Honored with Two Awards at BICSI Winter
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211214T142605Z
+    - ID: "3688d7df-2feb-43a4-ab8d-410e5f70a676"
+      Hint: ContentDescription
+      Value: |
+        Lowell, MA and Spartanburg, SC – <a href="http://www.aflglobal.com/">AFL</a>’s newest product, the <a href="~/link.aspx?_id=FDF30551384C4C55B6626D7D3D466816&_z=z">FOCIS Duel</a> Fiber Inspection Tool, received <a href="https://www.bicsi.org/winter/2018/attendee.aspx?id=8788">top honors</a> at the BICSI Winter Conference & Exhibition in the New Product Pavilion. Winning by attendee votes, the FOCIS Duel was the “Install Tools, Methods and Testing” category winner and overall Best in Show winner.<a href="https://www.aflglobal.com/productionFiles/images/News/FOCIS-Duel.aspx" target="_self"></a><br />
+        <br />
+        FOCIS Duel is the world’s first wireless handheld fiber inspection probe with two optical ports—one optimized for fast subjective “view-only” patch cord end-face inspection and the second port offering full support of AFL’s <a href="~/link.aspx?_id=A5294A0B18184D9FBEABE71007538173&_z=z">FOCIS Flex inspection system</a>. FOCIS Duel features female “plug-in” connector adapters, which facilitate rapid end-face inspection operation. The LC adapters mechanically accommodate duplex LC connectors commonly used in data centers.<br />
+        <br />
+        “We are thrilled to have received this honor from the BICSI community, as it acknowledges the outstanding value proposition FOCIS Duel brings to our customers,” said Maury Wood, Senior Product Line Manager for inspection products.  “This exciting new connector inspection probe holds the promise to significantly reduce end user fiber network operating costs.”<br />
+        <br />
+        FOCIS Duel’s Bluetooth® transceiver works with AFL’s FOCIS app for iOS and Android smart devices. The FOCIS app provides connectivity to AFL’s <a href="~/link.aspx?_id=4C1A455A2E234F3A968C0A26C07049A8&_z=z">aeRos® cloud-based workflow management</a> platform and features other highly valuable capabilities. Operating features include UPC and APC adapters, auto-focus, auto-capture, auto-analysis to IEC and IPC rules, image saving, image/tabular data, pass/fail results transfer over Bluetooth, and PDF report generation. <br />
+        <br />
+        For more information about AFL, its products and services, visit <a href="http://www.aflglobal.com/">www.AFLglobal.com</a>.<br />
+        <br />
+        About AFL<br />
+        Founded in 1984, AFL is an international manufacturer providing end-to-end solutions to the energy, service provider, enterprise and industrial markets as well as several emerging markets. The company’s products are in use in over 130 countries and include fiber optic cable and hardware, transmission and substation accessories, outside plant equipment, connectivity, test and inspection equipment, fusion splicers and training. AFL also offers a wide variety of services supporting data center, enterprise, wireless and outside plant applications.<br />
+        <br />
+        Headquartered in Spartanburg, SC, AFL has operations in the U.S., Mexico, Canada, Europe, Asia and Australia, and is a wholly-owned subsidiary of Fujikura Ltd. of Japan. For more information, visit <a href="http://www.aflglobal.com/">www.AFLglobal.com</a>. <br />
+         <br />
+        Contacts<br />
+        Maury Wood<br />
+        Senior Product Line Manager<br />
+        AFL<br />
+        978.455.9278<br />
+        <a href="mailto:Maury.Wood@AFLglobal.com">Maury.Wood@AFLglobal.com</a><br />
+        <br />
+        Corie Culp<br />
+        Public Relations Manager<br />
+        AFL<br />
+        864.433.5409<br />
+        <a href="mailto:Corie.Culp@AFLglobal.com">Corie.Culp@AFLglobal.com</a>
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: AFLs FOCIS Duel Honored with Two Awards at BICSI
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\harry
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: AFLs FOCIS Duel Honored with Two Awards at BICSI
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: AFLs FOCIS Duel Honored with Two Awards at BICSI
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e8b6db0e-fa22-41ea-bb72-65f589626c95"
+    - ID: "9dd4f0d9-c123-47a8-8cef-2c85cea172f6"
+      Hint: ContentImage
+      Value: |
+        <image mediaid="{0CA86C6F-3748-4121-8822-C37824A7E719}" />
+    - ID: "a6eaffd5-fc3e-41b4-93b3-f1721fcf2300"
+      Hint: ContentPublishedDate
+      Value: 20180226T183000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T090915Z
