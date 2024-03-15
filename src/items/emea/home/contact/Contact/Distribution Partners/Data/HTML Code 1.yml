@@ -1,0 +1,2554 @@
+﻿---
+ID: "1e7ab78a-f10c-4ccb-8ab1-e2eb6e9a3ad7"
+Parent: "d817a1a9-3e22-4537-8441-db773e30e945"
+Template: "2ad23d55-aecd-43dd-ae0d-72d2ebcba60f"
+Path: "/sitecore/content/AFL-Global/EMEA/Home/Contact/Distribution Partners/Data/HTML Code 1"
+Languages:
+- Language: "de-DE"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "24cce27c-05db-4473-a1ed-e69b1725ff1c"
+      Hint: HtmlCode
+      Value: |
+        <!-- <script src="https://code.jquery.com/jquery-3.6.0.min.js"
+            integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css"
+            integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.min.js"
+            integrity="sha384-QJHtvGhmr9XOIpI6YVutG+2QOK9T+ZnN4kzFN1RtK3zEFEIsxhlmWl5/YESvpZ13"
+            crossorigin="anonymous"></script>
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"
+            integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p"
+            crossorigin="anonymous"></script>
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.min.js"
+            integrity="sha384-VHvPCCyXqtD5DqJeNxl2dtTyhF78xXNXdkwX1CZeRusQfRKp+tA7hAShOK/B/fQ2"
+            crossorigin="anonymous"></script> -->
+        <script src="https://cdn.jsdelivr.net/npm/popper.js@1.12.9/dist/umd/popper.min.js"></script>
+        
+        
+        <style>
+            .featuredBadge {
+                font-size: 15px !important;
+                text-transform: uppercase;
+                color: #fff;
+                font-weight: bold;
+                padding: 0px 0px 0 4px;
+                margin-right: 6px;
+                background: url(https://webapps.aflglobal.com/img/feature-banner.jpg) no-repeat;
+                width: 91px;
+                height: 20px;
+                display: block;
+                float: left;
+            }
+        
+            .directions {
+                background: url(https://webapps.aflglobal.com/img/icon-directions.jpg) no-repeat top center;
+                text-align: center;
+                margin: 10px 0 0 -25px;
+                padding-top: 30px;
+                color: #00c0f3;
+                font-weight: bold;
+            }
+        
+            .distributorDetails {
+                /* float: left; */
+                width: 100%;
+                margin-top: -20px;
+                margin-left: 30px;
+                margin-bottom: 10px;
+                border: 1px solid #999;
+                background-color: #EAEAEA;
+                min-height: 100px;
+                padding: 10px;
+                border-radius: 4px;
+            }
+        
+            .viewDetails {
+                background: url(https://webapps.aflglobal.com/img/btn-plus.jpg) no-repeat 0 0.15em;
+                padding-left: 25px;
+                float: left;
+            }
+        
+            .closeDetails {
+                background: url(https://webapps.aflglobal.com/img/btn-minus.jpg) no-repeat 0 0.15em;
+                padding-left: 25px;
+                float: left;
+            }
+        
+            .distro-card {
+                border: #b3b3b3 1px solid;
+                border-radius: 4px;
+                padding-top: 10px;
+                padding-bottom: 10px;
+                box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+                margin: 10px;
+                min-height: 115px;
+                min-width: 115px;
+            }
+        
+            .empty-cell {
+                min-height: 115px;
+                min-width: 115px;
+                margin: 10px;
+            }
+        
+            .distro-card .card-body .container h3 {
+                font-weight: bold;
+            }
+        
+            .distro-initial-hide {
+                visibility: hidden;
+            }
+        
+            .distro-inactive {
+                background-color: #b3b3b3;
+            }
+        
+            #USSalesReps .row {
+                margin-top: 10px;
+                margin-bottom: 10px;
+            }
+        
+            #divMarkets label {
+                padding-left: 5px;
+            }
+        
+            .tooltip {
+                position: absolute;
+                z-index: 1070;
+                display: block;
+                /* font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; */
+                font-style: normal;
+                font-weight: 400;
+                line-height: 1.42857143;
+                line-break: auto;
+                text-align: left;
+                text-align: start;
+                text-decoration: none;
+                text-shadow: none;
+                text-transform: none;
+                letter-spacing: normal;
+                word-break: normal;
+                word-spacing: normal;
+                word-wrap: normal;
+                white-space: normal;
+                font-size: 16px;
+                filter: alpha(opacity=0);
+                opacity: 0;
+                box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+            }
+        
+            .tooltip.in {
+                filter: alpha(opacity=90);
+                opacity: 0.9;
+            }
+        
+            .tooltip.top {
+                padding: 5px 0;
+                margin-top: -3px;
+            }
+        
+            .tooltip.right {
+                padding: 0 5px;
+                margin-left: 3px;
+            }
+        
+            .tooltip.bottom {
+                padding: 5px 0;
+                margin-top: 3px;
+            }
+        
+            .tooltip.left {
+                padding: 0 5px;
+                margin-left: -3px;
+            }
+        
+            .tooltip.top .tooltip-arrow {
+                bottom: 0;
+                left: 50%;
+                margin-left: -5px;
+                border-width: 5px 5px 0;
+                border-top-color: #00c0f3;
+            }
+        
+            .tooltip.top-left .tooltip-arrow {
+                right: 5px;
+                bottom: 0;
+                margin-bottom: -5px;
+                border-width: 5px 5px 0;
+                border-top-color: #00c0f3;
+            }
+        
+            .tooltip.top-right .tooltip-arrow {
+                bottom: 0;
+                left: 5px;
+                margin-bottom: -5px;
+                border-width: 5px 5px 0;
+                border-top-color: #00c0f3;
+            }
+        
+            .tooltip.right .tooltip-arrow {
+                top: 50%;
+                left: 0;
+                margin-top: -5px;
+                border-width: 5px 5px 5px 0;
+                border-right-color: #00c0f3;
+            }
+        
+            .tooltip.left .tooltip-arrow {
+                top: 50%;
+                right: 0;
+                margin-top: -5px;
+                border-width: 5px 0 5px 5px;
+                border-left-color: #00c0f3;
+            }
+        
+            .tooltip.bottom .tooltip-arrow {
+                top: 0;
+                left: 50%;
+                margin-left: -5px;
+                border-width: 0 5px 5px;
+                border-bottom-color: #00c0f3;
+            }
+        
+            .tooltip.bottom-left .tooltip-arrow {
+                top: 0;
+                right: 5px;
+                margin-top: -5px;
+                border-width: 0 5px 5px;
+                border-bottom-color: #00c0f3;
+            }
+        
+            .tooltip.bottom-right .tooltip-arrow {
+                top: 0;
+                left: 5px;
+                margin-top: -5px;
+                border-width: 0 5px 5px;
+                border-bottom-color: #00c0f3;
+            }
+        
+            .tooltip-inner {
+                /* max-width: 200px; */
+                padding: 3px 8px;
+                color: #ffffff;
+                /* text-align: center; */
+                background-color: #00c0f3;
+                border-radius: 4px;
+            }
+        
+            .tooltip-arrow {
+                position: absolute;
+                width: 0;
+                height: 0;
+                border-color: transparent;
+                border-style: solid;
+            }
+        </style>
+        <div class="container">
+            <div class="row col-12">
+                <div class="component sitecore-form afl-contactform container">
+                    <form class="afl-contactform">
+                        <!-- <div class="afl-inputfield col-12">
+                            <label for="first-name">First Name</label>
+                            <input id="first-name" name="first-name" class="afl-formcontrol" placeholder="First Name"
+                                type="text" />
+        
+                        </div> -->
+        
+                        <!-- <div class="col-4"> -->
+                        <select name="RegionDDL" id="RegionDDL" class="afl-formcontrol"
+                            style="max-width:32%; margin-bottom:0px !important; margin-right:7px;">
+        
+                        </select>
+                        <!-- </div>
+                        <div class="col-4"> -->
+                        <select name="ProductLineDDL" id="ProductLineDDL" class="afl-formcontrol"
+                            style="max-width:32%; margin-bottom:0px !important; margin-left:7px;margin-right:7px;">
+        
+                        </select>
+                        <!-- </div>
+                        <div class="col-4"> -->
+                        <select name="CountryDDL" id="CountryDDL" class="afl-formcontrol"
+                            style="max-width:32%; margin-bottom:0px !important; margin-left:7px">
+        
+                        </select>
+                        <!-- </div> -->
+        
+                    </form>
+                </div>
+        
+            </div>
+        
+            <div class="row col-12" id="superFeatured">
+        
+            </div>
+        
+            <div class="row col-12" id="featured">
+        
+            </div>
+        
+            <div class="row col-12" id="not-featured">
+        
+            </div>
+        </div>
+        
+        <script>
+            //var _url_domain = 'https://localhost:44342/';
+            var _url_domain = 'https://webapps.aflglobal.com/api/';
+        
+            //$('#CountryDDL').hide();
+        
+            $(document).ready(function () {
+                LoadInitial();
+        
+                $('#RegionDDL').change(function () {
+                    filterRegion();
+                });
+        
+                $('#ProductLineDDL').change(function () {
+                    filterProductLine();
+                });
+        
+                $('#CountryDDL').change(function () {
+                    filterCountry();
+                });
+            });
+        
+            function filterRegion() {
+        
+                var regionID = $('#RegionDDL option:selected').val();
+                var productLineID = $('#ProductLineDDL option:selected').val();
+                var countryID = $('#CountryDDL option:selected').val();
+        
+                $('#ProductLineDDL').empty();
+                $('#CountryDDL').empty();
+        
+                $.ajax({
+                    type: "GET",
+                    url: _url_domain + 'sitecore/distributorlocator/FilterDDLsByRegions?region=' + regionID,
+                    cache: false,
+                    beforeSend: function () { },
+                    crossDomain: true,
+                    success: function (data) {
+                        console.log(data);
+        
+                        $('#ProductLineDDL').append('<option value="">Select Product Line</option>');
+        
+                        $(data.productLines).each(function (idx, pl) {
+                            var _option = '<option value="' + pl + '">' + pl + '</option>';
+        
+                            $('#ProductLineDDL').append(_option);
+                        });
+        
+                        $('#CountryDDL').append('<option value="">Select Country</option>');
+        
+                        $(data.countries).each(function (idx, country) {
+                            var _option = '<option value="' + country + '">' + country + '</option>';
+        
+                            $('#CountryDDL').append(_option);
+                        });
+                    },
+                    complete: function () {
+                        $('#ProductLineDDL').val(productLineID);
+                        $('#CountryDDL').val(countryID);
+        
+                        $.ajax({
+                            type: "GET",
+                            url: _url_domain + 'sitecore/distributorlocator/FilterResults?region=' + regionID + '&productLine=' + productLineID + '&country=' + countryID,
+                            cache: false,
+                            beforeSend: function () { },
+                            crossDomain: true,
+                            success: function (data) {
+                                console.log(data);
+        
+                                LoadDistributors(data);
+                            },
+                            complete: function () {
+        
+                            }
+                        });
+                    }
+                });
+            }
+        
+            function filterCountry() {
+                var regionID = $('#RegionDDL option:selected').val();
+                var productLineID = $('#ProductLineDDL option:selected').val();
+                var countryID = $('#CountryDDL option:selected').val();
+        
+                $.ajax({
+                    type: "GET",
+                    url: _url_domain + 'sitecore/distributorlocator/FilterResults?region=' + regionID + '&productLine=' + productLineID + '&country=' + countryID,
+                    cache: false,
+                    beforeSend: function () { },
+                    crossDomain: true,
+                    success: function (data) {
+                        console.log(data);
+        
+                        LoadDistributors(data);
+                    },
+                    complete: function () {
+        
+                    }
+                });
+            }
+        
+            function filterProductLine() {
+        
+                var regionID = $('#RegionDDL option:selected').val();
+                var productLineID = $('#ProductLineDDL option:selected').val();
+                var countryID = $('#CountryDDL option:selected').val();
+        
+                $('#RegionDDL').empty();
+                $('#CountryDDL').empty();
+        
+                $.ajax({
+                    type: "GET",
+                    url: _url_domain + 'sitecore/distributorlocator/FilterDDLsByProductLines?pl=' + productLineID,
+                    cache: false,
+                    beforeSend: function () { },
+                    crossDomain: true,
+                    success: function (data) {
+                        console.log(data);
+        
+                        $('#RegionDDL').append('<option value="">Select Region</option>');
+        
+                        $(data.regions).each(function (idx, region) {
+                            var _option = '<option value="' + region + '">' + region + '</option>';
+        
+                            $('#RegionDDL').append(_option);
+                        });
+        
+                        $('#CountryDDL').append('<option value="">Select Country</option>');
+        
+                        $(data.countries).each(function (idx, country) {
+                            var _option = '<option value="' + country + '">' + country + '</option>';
+        
+                            $('#CountryDDL').append(_option);
+                        });
+                    },
+                    complete: function () {
+                        $('#RegionDDL').val(regionID);
+                        $('#CountryDDL').val(countryID);
+        
+                        $.ajax({
+                            type: "GET",
+                            url: _url_domain + 'sitecore/distributorlocator/FilterResults?region=' + regionID + '&productLine=' + productLineID + '&country=' + countryID,
+                            cache: false,
+                            beforeSend: function () { },
+                            crossDomain: true,
+                            success: function (data) {
+                                console.log(data);
+        
+                                LoadDistributors(data);
+                            },
+                            complete: function () {
+        
+                            }
+                        });
+                    }
+                });
+            }
+        
+        
+            function showDetails(distributor) {
+                $(distributor).parent().hide();
+                var id = $(distributor).attr('id').replace('view_', '');
+        
+                var close_div = $('#close_' + id).parent();
+                $(close_div).show();
+                $('#details_' + id).show();
+            }
+        
+            function closeDetails(distributor) {
+                $(distributor).parent().hide();
+                var id = $(distributor).attr('id').replace('close_', '');
+        
+                var view_div = $('#view_' + id).parent();
+                $(view_div).show();
+                $('#details_' + id).hide();
+            }
+        
+            function LoadInitial() {
+                var _initial_url = _url_domain + 'sitecore/distributorlocator/getinitialload';
+        
+                $('#RegionDDL').empty();
+                $('#ProductLineDDL').empty();
+                $('#CountryDDL').empty();
+        
+                $.ajax({
+                    type: "GET",
+                    url: _initial_url,
+                    cache: false,
+                    beforeSend: function () { },
+                    crossDomain: true,
+                    success: function (data) {
+                        console.log(data);
+                        $('#RegionDDL').append('<option value="">Select Region</option>');
+                        $('#ProductLineDDL').append('<option value="">Select Product Line</option>');
+                        $('#CountryDDL').append('<option value="">Select Country</option>');
+        
+                        $(data.productLines).each(function (idx, productLine) {
+                            var _option = '<option value="' + productLine + '">' + productLine + '</option>';
+                            $('#ProductLineDDL').append(_option);
+                        });
+        
+                        $(data.regions).each(function (idx, region) {
+                            var _option = '<option value="' + region + '">' + region + '</option>';
+                            $('#RegionDDL').append(_option);
+                        });
+        
+                        $(data.countries).each(function (idx, country) {
+                            var _option = '<option value="' + country + '">' + country + '</option>';
+                            $('#CountryDDL').append(_option);
+                        });
+        
+                        LoadDistributors(data);
+                    },
+                    complete: function () {
+        
+                    }
+                })
+            }
+        
+            function LoadRegions(filter = "") {
+        
+            }
+        
+            function LoadDistributors(data) {
+                $('[data-toggle="tooltip"]').tooltip('dispose');
+        
+                $('#superFeatured').empty();
+                $('#featured').empty();
+                $('#not-featured').empty();
+        
+                $(data.superFeatured).each(function (idx, distributor) {
+                    var _div = '<div class="distro-card col-1" data-toggle="tooltip" data-html="true" title="' + distributor.toolTipText + '"><img src="https://www.aflglobal.com' + distributor.logo + '"/></div>';
+                    $('#superFeatured').append(_div);
+                });
+        
+                $('[data-toggle="tooltip"]').tooltip({ html: true });
+        
+                $(data.featured).each(function (idx, distributor) {
+                    var _container_div = $('<div class="row col-12"></div>');
+                    $(_container_div).append('<div class="distro-card col-1"><img src="https://www.aflglobal.com' + distributor.logo + '"/><div>');
+        
+                    var _top_row = $('<div class="row"><div class="featuredBadge">Featured</div><div><h3><a href="' + distributor.website + '"><strong>' + distributor.name + '</strong></a></h3></div></div>');
+                    var _phone_row = $('<div class="row">' + distributor.phoneFaxLine + '</div>');
+                    var _service_row = $('<div class="row"><strong>Service Areas:&nbsp;</strong>  ' + distributor.regionServiced + '</div>');
+                    var _viewDetails_row = $('<div class="row"><div class="viewDetails" style="cursor: pointer;" id="view_' + distributor.guid + '"><a>View Details</a></div>');
+                    var _closeDetails_row = $('<div class="row"><div class="closeDetails" style="cursor: pointer;" id="close_' + distributor.guid + '"><a>Close Details</a></div>');
+                    var _content_container_inner = $('<div class="container" style="padding:20px;"></div>');
+                    var _content_container_outer = $('<div class="col-9"></div>');
+        
+                    $(_content_container_inner).append(_top_row);
+                    $(_content_container_inner).append(_phone_row);
+                    $(_content_container_inner).append(_service_row);
+                    $(_content_container_inner).append(_viewDetails_row);
+                    $(_content_container_inner).append(_closeDetails_row);
+                    $(_content_container_outer).append(_content_container_inner);
+                    $(_container_div).append(_content_container_outer);
+        
+                    var _details_div = $('<div class="row col-12" id="details_' + distributor.guid + '"></div>');
+                    $(_details_div).append('<div class="empty-cell col-1"></div>');
+        
+                    var _details_outer = $('<div class="distributorDetails col-9"></div>');
+                    var _details_inner = $('<div class="row"></div>');
+                    $(_details_inner).append('<div class="col-6">' + distributor.locationInfo + '</div><div class="col-6"><div class="directions"><p><a href="' + distributor.mapLink + '" target="_blank">Directions</a></div></div>');
+                    $(_details_outer).append(_details_inner);
+        
+                    $(_details_outer).append('<br/><div class="row"><div class="col-12"><p><strong>Product Lines</strong></p>' + distributor.productLines.replace(/\|/g, ', ') + '</div></div>');
+        
+                    $(_details_div).append(_details_outer);
+        
+                    $('#featured').append(_container_div);
+                    $('#featured').append(_details_div);
+        
+                    $('.closeDetails').parent().hide();
+                    $('.distributorDetails').parent().hide();
+        
+                });
+        
+                $(data.notFeatured).each(function (idx, distributor) {
+                    var _container_div = $('<div class="row col-12"></div>');
+                    $(_container_div).append('<div class="empty-cell col-1"><div>');
+        
+                    var _top_row = $('<div class="row"><div><h3><a href="' + distributor.website + '"><strong>' + distributor.name + '</strong></a></h3></div></div>');
+                    var _phone_row = $('<div class="row">' + distributor.phoneFaxLine + '</div>');
+                    var _service_row = $('<div class="row"><strong>Service Areas:&nbsp;</strong>  ' + distributor.regionServiced + '</div>');
+                    var _viewDetails_row = $('<div class="row"><div class="viewDetails" style="cursor: pointer;" id="view_' + distributor.guid + '"><a>View Details</a></div>');
+                    var _closeDetails_row = $('<div class="row"><div class="closeDetails" style="cursor: pointer;" id="close_' + distributor.guid + '"><a>Close Details</a></div>');
+                    var _content_container_inner = $('<div class="container" style="padding:20px;"></div>');
+                    var _content_container_outer = $('<div class="col-9"></div>');
+        
+                    $(_content_container_inner).append(_top_row);
+                    $(_content_container_inner).append(_phone_row);
+                    $(_content_container_inner).append(_service_row);
+                    $(_content_container_inner).append(_viewDetails_row);
+                    $(_content_container_inner).append(_closeDetails_row);
+                    $(_content_container_outer).append(_content_container_inner);
+                    $(_container_div).append(_content_container_outer);
+        
+                    var _details_div = $('<div class="row col-12" id="details_' + distributor.guid + '"></div>');
+                    $(_details_div).append('<div class="empty-cell col-1"></div>');
+        
+                    var _details_outer = $('<div class="distributorDetails col-9"></div>');
+                    var _details_inner = $('<div class="row"></div>');
+                    $(_details_inner).append('<div class="col-6">' + distributor.locationInfo + '</div><div class="col-6"><div class="directions"><p><a href="' + distributor.mapLink + '" target="_blank">Directions</a></div></div>');
+                    $(_details_outer).append(_details_inner);
+        
+                    $(_details_outer).append('<br/><div class="row"><div class="col-12"><p><strong>Product Lines</strong></p>' + distributor.productLines.replace(/\|/g, ', ') + '</div></div>');
+        
+                    $(_details_div).append(_details_outer);
+        
+                    $('#not-featured').append(_container_div);
+                    $('#not-featured').append(_details_div);
+        
+                    $('.closeDetails').parent().hide();
+                    $('.distributorDetails').parent().hide();
+        
+                });
+        
+                $('.viewDetails').click(function () {
+                    showDetails(this);
+                });
+        
+                $('.closeDetails').click(function () {
+                    closeDetails(this);
+                });
+            }
+        
+        </script>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220322T151512Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\matt
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\matt
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b6723b40-f1ca-4b36-bf37-d291d0862197"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\matt
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220408T201924Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "24cce27c-05db-4473-a1ed-e69b1725ff1c"
+      Hint: HtmlCode
+      Value: |
+        <!-- <script src="https://code.jquery.com/jquery-3.6.0.min.js"
+            integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css"
+            integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.min.js"
+            integrity="sha384-QJHtvGhmr9XOIpI6YVutG+2QOK9T+ZnN4kzFN1RtK3zEFEIsxhlmWl5/YESvpZ13"
+            crossorigin="anonymous"></script>
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"
+            integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p"
+            crossorigin="anonymous"></script>
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.min.js"
+            integrity="sha384-VHvPCCyXqtD5DqJeNxl2dtTyhF78xXNXdkwX1CZeRusQfRKp+tA7hAShOK/B/fQ2"
+            crossorigin="anonymous"></script> -->
+        <script src="https://cdn.jsdelivr.net/npm/popper.js@1.12.9/dist/umd/popper.min.js"></script>
+        
+        
+        <style>
+            .featuredBadge {
+                font-size: 15px !important;
+                text-transform: uppercase;
+                color: #fff;
+                font-weight: bold;
+                padding: 0px 0px 0 4px;
+                margin-right: 6px;
+                background: url(https://webapps.aflglobal.com/img/feature-banner.jpg) no-repeat;
+                width: 91px;
+                height: 20px;
+                display: block;
+                float: left;
+            }
+        
+            .directions {
+                background: url(https://webapps.aflglobal.com/img/icon-directions.jpg) no-repeat top center;
+                text-align: center;
+                margin: 10px 0 0 -25px;
+                padding-top: 30px;
+                color: #00c0f3;
+                font-weight: bold;
+            }
+        
+            .distributorDetails {
+                /* float: left; */
+                width: 100%;
+                margin-top: -20px;
+                margin-left: 30px;
+                margin-bottom: 10px;
+                border: 1px solid #999;
+                background-color: #EAEAEA;
+                min-height: 100px;
+                padding: 10px;
+                border-radius: 4px;
+            }
+        
+            .viewDetails {
+                background: url(https://webapps.aflglobal.com/img/btn-plus.jpg) no-repeat 0 0.15em;
+                padding-left: 25px;
+                float: left;
+            }
+        
+            .closeDetails {
+                background: url(https://webapps.aflglobal.com/img/btn-minus.jpg) no-repeat 0 0.15em;
+                padding-left: 25px;
+                float: left;
+            }
+        
+            .distro-card {
+                border: #b3b3b3 1px solid;
+                border-radius: 4px;
+                padding-top: 10px;
+                padding-bottom: 10px;
+                box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+                margin: 10px;
+                min-height: 115px;
+                min-width: 115px;
+            }
+        
+            .empty-cell {
+                min-height: 115px;
+                min-width: 115px;
+                margin: 10px;
+            }
+        
+            .distro-card .card-body .container h3 {
+                font-weight: bold;
+            }
+        
+            .distro-initial-hide {
+                visibility: hidden;
+            }
+        
+            .distro-inactive {
+                background-color: #b3b3b3;
+            }
+        
+            #USSalesReps .row {
+                margin-top: 10px;
+                margin-bottom: 10px;
+            }
+        
+            #divMarkets label {
+                padding-left: 5px;
+            }
+        
+            .tooltip {
+                position: absolute;
+                z-index: 1070;
+                display: block;
+                /* font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; */
+                font-style: normal;
+                font-weight: 400;
+                line-height: 1.42857143;
+                line-break: auto;
+                text-align: left;
+                text-align: start;
+                text-decoration: none;
+                text-shadow: none;
+                text-transform: none;
+                letter-spacing: normal;
+                word-break: normal;
+                word-spacing: normal;
+                word-wrap: normal;
+                white-space: normal;
+                font-size: 16px;
+                filter: alpha(opacity=0);
+                opacity: 0;
+                box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+            }
+        
+            .tooltip.in {
+                filter: alpha(opacity=90);
+                opacity: 0.9;
+            }
+        
+            .tooltip.top {
+                padding: 5px 0;
+                margin-top: -3px;
+            }
+        
+            .tooltip.right {
+                padding: 0 5px;
+                margin-left: 3px;
+            }
+        
+            .tooltip.bottom {
+                padding: 5px 0;
+                margin-top: 3px;
+            }
+        
+            .tooltip.left {
+                padding: 0 5px;
+                margin-left: -3px;
+            }
+        
+            .tooltip.top .tooltip-arrow {
+                bottom: 0;
+                left: 50%;
+                margin-left: -5px;
+                border-width: 5px 5px 0;
+                border-top-color: #00c0f3;
+            }
+        
+            .tooltip.top-left .tooltip-arrow {
+                right: 5px;
+                bottom: 0;
+                margin-bottom: -5px;
+                border-width: 5px 5px 0;
+                border-top-color: #00c0f3;
+            }
+        
+            .tooltip.top-right .tooltip-arrow {
+                bottom: 0;
+                left: 5px;
+                margin-bottom: -5px;
+                border-width: 5px 5px 0;
+                border-top-color: #00c0f3;
+            }
+        
+            .tooltip.right .tooltip-arrow {
+                top: 50%;
+                left: 0;
+                margin-top: -5px;
+                border-width: 5px 5px 5px 0;
+                border-right-color: #00c0f3;
+            }
+        
+            .tooltip.left .tooltip-arrow {
+                top: 50%;
+                right: 0;
+                margin-top: -5px;
+                border-width: 5px 0 5px 5px;
+                border-left-color: #00c0f3;
+            }
+        
+            .tooltip.bottom .tooltip-arrow {
+                top: 0;
+                left: 50%;
+                margin-left: -5px;
+                border-width: 0 5px 5px;
+                border-bottom-color: #00c0f3;
+            }
+        
+            .tooltip.bottom-left .tooltip-arrow {
+                top: 0;
+                right: 5px;
+                margin-top: -5px;
+                border-width: 0 5px 5px;
+                border-bottom-color: #00c0f3;
+            }
+        
+            .tooltip.bottom-right .tooltip-arrow {
+                top: 0;
+                left: 5px;
+                margin-top: -5px;
+                border-width: 0 5px 5px;
+                border-bottom-color: #00c0f3;
+            }
+        
+            .tooltip-inner {
+                /* max-width: 200px; */
+                padding: 3px 8px;
+                color: #ffffff;
+                /* text-align: center; */
+                background-color: #00c0f3;
+                border-radius: 4px;
+            }
+        
+            .tooltip-arrow {
+                position: absolute;
+                width: 0;
+                height: 0;
+                border-color: transparent;
+                border-style: solid;
+            }
+        </style>
+        <div class="container">
+            <div class="row col-12">
+                <div class="component sitecore-form afl-contactform container">
+                    <form class="afl-contactform">
+                        <!-- <div class="afl-inputfield col-12">
+                            <label for="first-name">First Name</label>
+                            <input id="first-name" name="first-name" class="afl-formcontrol" placeholder="First Name"
+                                type="text" />
+        
+                        </div> -->
+        
+                        <!-- <div class="col-4"> -->
+                        <select name="RegionDDL" id="RegionDDL" class="afl-formcontrol"
+                            style="max-width:32%; margin-bottom:0px !important; margin-right:7px;">
+        
+                        </select>
+                        <!-- </div>
+                        <div class="col-4"> -->
+                        <select name="ProductLineDDL" id="ProductLineDDL" class="afl-formcontrol"
+                            style="max-width:32%; margin-bottom:0px !important; margin-left:7px;margin-right:7px;">
+        
+                        </select>
+                        <!-- </div>
+                        <div class="col-4"> -->
+                        <select name="CountryDDL" id="CountryDDL" class="afl-formcontrol"
+                            style="max-width:32%; margin-bottom:0px !important; margin-left:7px">
+        
+                        </select>
+                        <!-- </div> -->
+        
+                    </form>
+                </div>
+        
+            </div>
+        
+            <div class="row col-12" id="superFeatured">
+        
+            </div>
+        
+            <div class="row col-12" id="featured">
+        
+            </div>
+        
+            <div class="row col-12" id="not-featured">
+        
+            </div>
+        </div>
+        
+        <script>
+            //var _url_domain = 'https://localhost:44342/';
+            var _url_domain = 'https://webapps.aflglobal.com/api/';
+        
+            //$('#CountryDDL').hide();
+        
+            $(document).ready(function () {
+                LoadInitial();
+        
+                $('#RegionDDL').change(function () {
+                    filterRegion();
+                });
+        
+                $('#ProductLineDDL').change(function () {
+                    filterProductLine();
+                });
+        
+                $('#CountryDDL').change(function () {
+                    filterCountry();
+                });
+            });
+        
+            function filterRegion() {
+        
+                var regionID = $('#RegionDDL option:selected').val();
+                var productLineID = $('#ProductLineDDL option:selected').val();
+                var countryID = $('#CountryDDL option:selected').val();
+        
+                $('#ProductLineDDL').empty();
+                $('#CountryDDL').empty();
+        
+                $.ajax({
+                    type: "GET",
+                    url: _url_domain + 'sitecore/distributorlocator/FilterDDLsByRegions?region=' + regionID,
+                    cache: false,
+                    beforeSend: function () { },
+                    crossDomain: true,
+                    success: function (data) {
+                        console.log(data);
+        
+                        $('#ProductLineDDL').append('<option value="">Select Product Line</option>');
+        
+                        $(data.productLines).each(function (idx, pl) {
+                            var _option = '<option value="' + pl + '">' + pl + '</option>';
+        
+                            $('#ProductLineDDL').append(_option);
+                        });
+        
+                        $('#CountryDDL').append('<option value="">Select Country</option>');
+        
+                        $(data.countries).each(function (idx, country) {
+                            var _option = '<option value="' + country + '">' + country + '</option>';
+        
+                            $('#CountryDDL').append(_option);
+                        });
+                    },
+                    complete: function () {
+                        $('#ProductLineDDL').val(productLineID);
+                        $('#CountryDDL').val(countryID);
+        
+                        $.ajax({
+                            type: "GET",
+                            url: _url_domain + 'sitecore/distributorlocator/FilterResults?region=' + regionID + '&productLine=' + productLineID + '&country=' + countryID,
+                            cache: false,
+                            beforeSend: function () { },
+                            crossDomain: true,
+                            success: function (data) {
+                                console.log(data);
+        
+                                LoadDistributors(data);
+                            },
+                            complete: function () {
+        
+                            }
+                        });
+                    }
+                });
+            }
+        
+            function filterCountry() {
+                var regionID = $('#RegionDDL option:selected').val();
+                var productLineID = $('#ProductLineDDL option:selected').val();
+                var countryID = $('#CountryDDL option:selected').val();
+        
+                $.ajax({
+                    type: "GET",
+                    url: _url_domain + 'sitecore/distributorlocator/FilterResults?region=' + regionID + '&productLine=' + productLineID + '&country=' + countryID,
+                    cache: false,
+                    beforeSend: function () { },
+                    crossDomain: true,
+                    success: function (data) {
+                        console.log(data);
+        
+                        LoadDistributors(data);
+                    },
+                    complete: function () {
+        
+                    }
+                });
+            }
+        
+            function filterProductLine() {
+        
+                var regionID = $('#RegionDDL option:selected').val();
+                var productLineID = $('#ProductLineDDL option:selected').val();
+                var countryID = $('#CountryDDL option:selected').val();
+        
+                $('#RegionDDL').empty();
+                $('#CountryDDL').empty();
+        
+                $.ajax({
+                    type: "GET",
+                    url: _url_domain + 'sitecore/distributorlocator/FilterDDLsByProductLines?pl=' + productLineID,
+                    cache: false,
+                    beforeSend: function () { },
+                    crossDomain: true,
+                    success: function (data) {
+                        console.log(data);
+        
+                        $('#RegionDDL').append('<option value="">Select Region</option>');
+        
+                        $(data.regions).each(function (idx, region) {
+                            var _option = '<option value="' + region + '">' + region + '</option>';
+        
+                            $('#RegionDDL').append(_option);
+                        });
+        
+                        $('#CountryDDL').append('<option value="">Select Country</option>');
+        
+                        $(data.countries).each(function (idx, country) {
+                            var _option = '<option value="' + country + '">' + country + '</option>';
+        
+                            $('#CountryDDL').append(_option);
+                        });
+                    },
+                    complete: function () {
+                        $('#RegionDDL').val(regionID);
+                        $('#CountryDDL').val(countryID);
+        
+                        $.ajax({
+                            type: "GET",
+                            url: _url_domain + 'sitecore/distributorlocator/FilterResults?region=' + regionID + '&productLine=' + productLineID + '&country=' + countryID,
+                            cache: false,
+                            beforeSend: function () { },
+                            crossDomain: true,
+                            success: function (data) {
+                                console.log(data);
+        
+                                LoadDistributors(data);
+                            },
+                            complete: function () {
+        
+                            }
+                        });
+                    }
+                });
+            }
+        
+        
+            function showDetails(distributor) {
+                $(distributor).parent().hide();
+                var id = $(distributor).attr('id').replace('view_', '');
+        
+                var close_div = $('#close_' + id).parent();
+                $(close_div).show();
+                $('#details_' + id).show();
+            }
+        
+            function closeDetails(distributor) {
+                $(distributor).parent().hide();
+                var id = $(distributor).attr('id').replace('close_', '');
+        
+                var view_div = $('#view_' + id).parent();
+                $(view_div).show();
+                $('#details_' + id).hide();
+            }
+        
+            function LoadInitial() {
+                var _initial_url = _url_domain + 'sitecore/distributorlocator/getinitialload';
+        
+                $('#RegionDDL').empty();
+                $('#ProductLineDDL').empty();
+                $('#CountryDDL').empty();
+        
+                $.ajax({
+                    type: "GET",
+                    url: _initial_url,
+                    cache: false,
+                    beforeSend: function () { },
+                    crossDomain: true,
+                    success: function (data) {
+                        console.log(data);
+                        $('#RegionDDL').append('<option value="">Select Region</option>');
+                        $('#ProductLineDDL').append('<option value="">Select Product Line</option>');
+                        $('#CountryDDL').append('<option value="">Select Country</option>');
+        
+                        $(data.productLines).each(function (idx, productLine) {
+                            var _option = '<option value="' + productLine + '">' + productLine + '</option>';
+                            $('#ProductLineDDL').append(_option);
+                        });
+        
+                        $(data.regions).each(function (idx, region) {
+                            var _option = '<option value="' + region + '">' + region + '</option>';
+                            $('#RegionDDL').append(_option);
+                        });
+        
+                        $(data.countries).each(function (idx, country) {
+                            var _option = '<option value="' + country + '">' + country + '</option>';
+                            $('#CountryDDL').append(_option);
+                        });
+        
+                        LoadDistributors(data);
+                    },
+                    complete: function () {
+        
+                    }
+                })
+            }
+        
+            function LoadRegions(filter = "") {
+        
+            }
+        
+            function LoadDistributors(data) {
+                $('[data-toggle="tooltip"]').tooltip('dispose');
+        
+                $('#superFeatured').empty();
+                $('#featured').empty();
+                $('#not-featured').empty();
+        
+                $(data.superFeatured).each(function (idx, distributor) {
+                    var _div = '<div class="distro-card col-1" data-toggle="tooltip" data-html="true" title="' + distributor.toolTipText + '"><img src="https://www.aflglobal.com' + distributor.logo + '"/></div>';
+                    $('#superFeatured').append(_div);
+                });
+        
+                $('[data-toggle="tooltip"]').tooltip({ html: true });
+        
+                $(data.featured).each(function (idx, distributor) {
+                    var _container_div = $('<div class="row col-12"></div>');
+                    $(_container_div).append('<div class="distro-card col-1"><img src="https://www.aflglobal.com' + distributor.logo + '"/><div>');
+        
+                    var _top_row = $('<div class="row"><div class="featuredBadge">Featured</div><div><h3><a href="' + distributor.website + '"><strong>' + distributor.name + '</strong></a></h3></div></div>');
+                    var _phone_row = $('<div class="row">' + distributor.phoneFaxLine + '</div>');
+                    var _service_row = $('<div class="row"><strong>Service Areas:&nbsp;</strong>  ' + distributor.regionServiced + '</div>');
+                    var _viewDetails_row = $('<div class="row"><div class="viewDetails" style="cursor: pointer;" id="view_' + distributor.guid + '"><a>View Details</a></div>');
+                    var _closeDetails_row = $('<div class="row"><div class="closeDetails" style="cursor: pointer;" id="close_' + distributor.guid + '"><a>Close Details</a></div>');
+                    var _content_container_inner = $('<div class="container" style="padding:20px;"></div>');
+                    var _content_container_outer = $('<div class="col-9"></div>');
+        
+                    $(_content_container_inner).append(_top_row);
+                    $(_content_container_inner).append(_phone_row);
+                    $(_content_container_inner).append(_service_row);
+                    $(_content_container_inner).append(_viewDetails_row);
+                    $(_content_container_inner).append(_closeDetails_row);
+                    $(_content_container_outer).append(_content_container_inner);
+                    $(_container_div).append(_content_container_outer);
+        
+                    var _details_div = $('<div class="row col-12" id="details_' + distributor.guid + '"></div>');
+                    $(_details_div).append('<div class="empty-cell col-1"></div>');
+        
+                    var _details_outer = $('<div class="distributorDetails col-9"></div>');
+                    var _details_inner = $('<div class="row"></div>');
+                    $(_details_inner).append('<div class="col-6">' + distributor.locationInfo + '</div><div class="col-6"><div class="directions"><p><a href="' + distributor.mapLink + '" target="_blank">Directions</a></div></div>');
+                    $(_details_outer).append(_details_inner);
+        
+                    $(_details_outer).append('<br/><div class="row"><div class="col-12"><p><strong>Product Lines</strong></p>' + distributor.productLines.replace(/\|/g, ', ') + '</div></div>');
+        
+                    $(_details_div).append(_details_outer);
+        
+                    $('#featured').append(_container_div);
+                    $('#featured').append(_details_div);
+        
+                    $('.closeDetails').parent().hide();
+                    $('.distributorDetails').parent().hide();
+        
+                });
+        
+                $(data.notFeatured).each(function (idx, distributor) {
+                    var _container_div = $('<div class="row col-12"></div>');
+                    $(_container_div).append('<div class="empty-cell col-1"><div>');
+        
+                    var _top_row = $('<div class="row"><div><h3><a href="' + distributor.website + '"><strong>' + distributor.name + '</strong></a></h3></div></div>');
+                    var _phone_row = $('<div class="row">' + distributor.phoneFaxLine + '</div>');
+                    var _service_row = $('<div class="row"><strong>Service Areas:&nbsp;</strong>  ' + distributor.regionServiced + '</div>');
+                    var _viewDetails_row = $('<div class="row"><div class="viewDetails" style="cursor: pointer;" id="view_' + distributor.guid + '"><a>View Details</a></div>');
+                    var _closeDetails_row = $('<div class="row"><div class="closeDetails" style="cursor: pointer;" id="close_' + distributor.guid + '"><a>Close Details</a></div>');
+                    var _content_container_inner = $('<div class="container" style="padding:20px;"></div>');
+                    var _content_container_outer = $('<div class="col-9"></div>');
+        
+                    $(_content_container_inner).append(_top_row);
+                    $(_content_container_inner).append(_phone_row);
+                    $(_content_container_inner).append(_service_row);
+                    $(_content_container_inner).append(_viewDetails_row);
+                    $(_content_container_inner).append(_closeDetails_row);
+                    $(_content_container_outer).append(_content_container_inner);
+                    $(_container_div).append(_content_container_outer);
+        
+                    var _details_div = $('<div class="row col-12" id="details_' + distributor.guid + '"></div>');
+                    $(_details_div).append('<div class="empty-cell col-1"></div>');
+        
+                    var _details_outer = $('<div class="distributorDetails col-9"></div>');
+                    var _details_inner = $('<div class="row"></div>');
+                    $(_details_inner).append('<div class="col-6">' + distributor.locationInfo + '</div><div class="col-6"><div class="directions"><p><a href="' + distributor.mapLink + '" target="_blank">Directions</a></div></div>');
+                    $(_details_outer).append(_details_inner);
+        
+                    $(_details_outer).append('<br/><div class="row"><div class="col-12"><p><strong>Product Lines</strong></p>' + distributor.productLines.replace(/\|/g, ', ') + '</div></div>');
+        
+                    $(_details_div).append(_details_outer);
+        
+                    $('#not-featured').append(_container_div);
+                    $('#not-featured').append(_details_div);
+        
+                    $('.closeDetails').parent().hide();
+                    $('.distributorDetails').parent().hide();
+        
+                });
+        
+                $('.viewDetails').click(function () {
+                    showDetails(this);
+                });
+        
+                $('.closeDetails').click(function () {
+                    closeDetails(this);
+                });
+            }
+        
+        </script>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220322T151512Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\matt
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\matt
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "589cad78-4dfb-4f26-8874-21b14085f940"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\matt
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220323T181323Z
+- Language: "es-ES"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "24cce27c-05db-4473-a1ed-e69b1725ff1c"
+      Hint: HtmlCode
+      Value: |
+        <!-- <script src="https://code.jquery.com/jquery-3.6.0.min.js"
+            integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css"
+            integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.min.js"
+            integrity="sha384-QJHtvGhmr9XOIpI6YVutG+2QOK9T+ZnN4kzFN1RtK3zEFEIsxhlmWl5/YESvpZ13"
+            crossorigin="anonymous"></script>
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"
+            integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p"
+            crossorigin="anonymous"></script>
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.min.js"
+            integrity="sha384-VHvPCCyXqtD5DqJeNxl2dtTyhF78xXNXdkwX1CZeRusQfRKp+tA7hAShOK/B/fQ2"
+            crossorigin="anonymous"></script> -->
+        <script src="https://cdn.jsdelivr.net/npm/popper.js@1.12.9/dist/umd/popper.min.js"></script>
+        
+        
+        <style>
+            .featuredBadge {
+                font-size: 15px !important;
+                text-transform: uppercase;
+                color: #fff;
+                font-weight: bold;
+                padding: 0px 0px 0 4px;
+                margin-right: 6px;
+                background: url(https://webapps.aflglobal.com/img/feature-banner.jpg) no-repeat;
+                width: 91px;
+                height: 20px;
+                display: block;
+                float: left;
+            }
+        
+            .directions {
+                background: url(https://webapps.aflglobal.com/img/icon-directions.jpg) no-repeat top center;
+                text-align: center;
+                margin: 10px 0 0 -25px;
+                padding-top: 30px;
+                color: #00c0f3;
+                font-weight: bold;
+            }
+        
+            .distributorDetails {
+                /* float: left; */
+                width: 100%;
+                margin-top: -20px;
+                margin-left: 30px;
+                margin-bottom: 10px;
+                border: 1px solid #999;
+                background-color: #EAEAEA;
+                min-height: 100px;
+                padding: 10px;
+                border-radius: 4px;
+            }
+        
+            .viewDetails {
+                background: url(https://webapps.aflglobal.com/img/btn-plus.jpg) no-repeat 0 0.15em;
+                padding-left: 25px;
+                float: left;
+            }
+        
+            .closeDetails {
+                background: url(https://webapps.aflglobal.com/img/btn-minus.jpg) no-repeat 0 0.15em;
+                padding-left: 25px;
+                float: left;
+            }
+        
+            .distro-card {
+                border: #b3b3b3 1px solid;
+                border-radius: 4px;
+                padding-top: 10px;
+                padding-bottom: 10px;
+                box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+                margin: 10px;
+                min-height: 115px;
+                min-width: 115px;
+            }
+        
+            .empty-cell {
+                min-height: 115px;
+                min-width: 115px;
+                margin: 10px;
+            }
+        
+            .distro-card .card-body .container h3 {
+                font-weight: bold;
+            }
+        
+            .distro-initial-hide {
+                visibility: hidden;
+            }
+        
+            .distro-inactive {
+                background-color: #b3b3b3;
+            }
+        
+            #USSalesReps .row {
+                margin-top: 10px;
+                margin-bottom: 10px;
+            }
+        
+            #divMarkets label {
+                padding-left: 5px;
+            }
+        
+            .tooltip {
+                position: absolute;
+                z-index: 1070;
+                display: block;
+                /* font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; */
+                font-style: normal;
+                font-weight: 400;
+                line-height: 1.42857143;
+                line-break: auto;
+                text-align: left;
+                text-align: start;
+                text-decoration: none;
+                text-shadow: none;
+                text-transform: none;
+                letter-spacing: normal;
+                word-break: normal;
+                word-spacing: normal;
+                word-wrap: normal;
+                white-space: normal;
+                font-size: 16px;
+                filter: alpha(opacity=0);
+                opacity: 0;
+                box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+            }
+        
+            .tooltip.in {
+                filter: alpha(opacity=90);
+                opacity: 0.9;
+            }
+        
+            .tooltip.top {
+                padding: 5px 0;
+                margin-top: -3px;
+            }
+        
+            .tooltip.right {
+                padding: 0 5px;
+                margin-left: 3px;
+            }
+        
+            .tooltip.bottom {
+                padding: 5px 0;
+                margin-top: 3px;
+            }
+        
+            .tooltip.left {
+                padding: 0 5px;
+                margin-left: -3px;
+            }
+        
+            .tooltip.top .tooltip-arrow {
+                bottom: 0;
+                left: 50%;
+                margin-left: -5px;
+                border-width: 5px 5px 0;
+                border-top-color: #00c0f3;
+            }
+        
+            .tooltip.top-left .tooltip-arrow {
+                right: 5px;
+                bottom: 0;
+                margin-bottom: -5px;
+                border-width: 5px 5px 0;
+                border-top-color: #00c0f3;
+            }
+        
+            .tooltip.top-right .tooltip-arrow {
+                bottom: 0;
+                left: 5px;
+                margin-bottom: -5px;
+                border-width: 5px 5px 0;
+                border-top-color: #00c0f3;
+            }
+        
+            .tooltip.right .tooltip-arrow {
+                top: 50%;
+                left: 0;
+                margin-top: -5px;
+                border-width: 5px 5px 5px 0;
+                border-right-color: #00c0f3;
+            }
+        
+            .tooltip.left .tooltip-arrow {
+                top: 50%;
+                right: 0;
+                margin-top: -5px;
+                border-width: 5px 0 5px 5px;
+                border-left-color: #00c0f3;
+            }
+        
+            .tooltip.bottom .tooltip-arrow {
+                top: 0;
+                left: 50%;
+                margin-left: -5px;
+                border-width: 0 5px 5px;
+                border-bottom-color: #00c0f3;
+            }
+        
+            .tooltip.bottom-left .tooltip-arrow {
+                top: 0;
+                right: 5px;
+                margin-top: -5px;
+                border-width: 0 5px 5px;
+                border-bottom-color: #00c0f3;
+            }
+        
+            .tooltip.bottom-right .tooltip-arrow {
+                top: 0;
+                left: 5px;
+                margin-top: -5px;
+                border-width: 0 5px 5px;
+                border-bottom-color: #00c0f3;
+            }
+        
+            .tooltip-inner {
+                /* max-width: 200px; */
+                padding: 3px 8px;
+                color: #ffffff;
+                /* text-align: center; */
+                background-color: #00c0f3;
+                border-radius: 4px;
+            }
+        
+            .tooltip-arrow {
+                position: absolute;
+                width: 0;
+                height: 0;
+                border-color: transparent;
+                border-style: solid;
+            }
+        </style>
+        <div class="container">
+            <div class="row col-12">
+                <div class="component sitecore-form afl-contactform container">
+                    <form class="afl-contactform">
+                        <!-- <div class="afl-inputfield col-12">
+                            <label for="first-name">First Name</label>
+                            <input id="first-name" name="first-name" class="afl-formcontrol" placeholder="First Name"
+                                type="text" />
+        
+                        </div> -->
+        
+                        <!-- <div class="col-4"> -->
+                        <select name="RegionDDL" id="RegionDDL" class="afl-formcontrol"
+                            style="max-width:32%; margin-bottom:0px !important; margin-right:7px;">
+        
+                        </select>
+                        <!-- </div>
+                        <div class="col-4"> -->
+                        <select name="ProductLineDDL" id="ProductLineDDL" class="afl-formcontrol"
+                            style="max-width:32%; margin-bottom:0px !important; margin-left:7px;margin-right:7px;">
+        
+                        </select>
+                        <!-- </div>
+                        <div class="col-4"> -->
+                        <select name="CountryDDL" id="CountryDDL" class="afl-formcontrol"
+                            style="max-width:32%; margin-bottom:0px !important; margin-left:7px">
+        
+                        </select>
+                        <!-- </div> -->
+        
+                    </form>
+                </div>
+        
+            </div>
+        
+            <div class="row col-12" id="superFeatured">
+        
+            </div>
+        
+            <div class="row col-12" id="featured">
+        
+            </div>
+        
+            <div class="row col-12" id="not-featured">
+        
+            </div>
+        </div>
+        
+        <script>
+            //var _url_domain = 'https://localhost:44342/';
+            var _url_domain = 'https://webapps.aflglobal.com/api/';
+        
+            //$('#CountryDDL').hide();
+        
+            $(document).ready(function () {
+                LoadInitial();
+        
+                $('#RegionDDL').change(function () {
+                    filterRegion();
+                });
+        
+                $('#ProductLineDDL').change(function () {
+                    filterProductLine();
+                });
+        
+                $('#CountryDDL').change(function () {
+                    filterCountry();
+                });
+            });
+        
+            function filterRegion() {
+        
+                var regionID = $('#RegionDDL option:selected').val();
+                var productLineID = $('#ProductLineDDL option:selected').val();
+                var countryID = $('#CountryDDL option:selected').val();
+        
+                $('#ProductLineDDL').empty();
+                $('#CountryDDL').empty();
+        
+                $.ajax({
+                    type: "GET",
+                    url: _url_domain + 'sitecore/distributorlocator/FilterDDLsByRegions?region=' + regionID,
+                    cache: false,
+                    beforeSend: function () { },
+                    crossDomain: true,
+                    success: function (data) {
+                        console.log(data);
+        
+                        $('#ProductLineDDL').append('<option value="">Select Product Line</option>');
+        
+                        $(data.productLines).each(function (idx, pl) {
+                            var _option = '<option value="' + pl + '">' + pl + '</option>';
+        
+                            $('#ProductLineDDL').append(_option);
+                        });
+        
+                        $('#CountryDDL').append('<option value="">Select Country</option>');
+        
+                        $(data.countries).each(function (idx, country) {
+                            var _option = '<option value="' + country + '">' + country + '</option>';
+        
+                            $('#CountryDDL').append(_option);
+                        });
+                    },
+                    complete: function () {
+                        $('#ProductLineDDL').val(productLineID);
+                        $('#CountryDDL').val(countryID);
+        
+                        $.ajax({
+                            type: "GET",
+                            url: _url_domain + 'sitecore/distributorlocator/FilterResults?region=' + regionID + '&productLine=' + productLineID + '&country=' + countryID,
+                            cache: false,
+                            beforeSend: function () { },
+                            crossDomain: true,
+                            success: function (data) {
+                                console.log(data);
+        
+                                LoadDistributors(data);
+                            },
+                            complete: function () {
+        
+                            }
+                        });
+                    }
+                });
+            }
+        
+            function filterCountry() {
+                var regionID = $('#RegionDDL option:selected').val();
+                var productLineID = $('#ProductLineDDL option:selected').val();
+                var countryID = $('#CountryDDL option:selected').val();
+        
+                $.ajax({
+                    type: "GET",
+                    url: _url_domain + 'sitecore/distributorlocator/FilterResults?region=' + regionID + '&productLine=' + productLineID + '&country=' + countryID,
+                    cache: false,
+                    beforeSend: function () { },
+                    crossDomain: true,
+                    success: function (data) {
+                        console.log(data);
+        
+                        LoadDistributors(data);
+                    },
+                    complete: function () {
+        
+                    }
+                });
+            }
+        
+            function filterProductLine() {
+        
+                var regionID = $('#RegionDDL option:selected').val();
+                var productLineID = $('#ProductLineDDL option:selected').val();
+                var countryID = $('#CountryDDL option:selected').val();
+        
+                $('#RegionDDL').empty();
+                $('#CountryDDL').empty();
+        
+                $.ajax({
+                    type: "GET",
+                    url: _url_domain + 'sitecore/distributorlocator/FilterDDLsByProductLines?pl=' + productLineID,
+                    cache: false,
+                    beforeSend: function () { },
+                    crossDomain: true,
+                    success: function (data) {
+                        console.log(data);
+        
+                        $('#RegionDDL').append('<option value="">Select Region</option>');
+        
+                        $(data.regions).each(function (idx, region) {
+                            var _option = '<option value="' + region + '">' + region + '</option>';
+        
+                            $('#RegionDDL').append(_option);
+                        });
+        
+                        $('#CountryDDL').append('<option value="">Select Country</option>');
+        
+                        $(data.countries).each(function (idx, country) {
+                            var _option = '<option value="' + country + '">' + country + '</option>';
+        
+                            $('#CountryDDL').append(_option);
+                        });
+                    },
+                    complete: function () {
+                        $('#RegionDDL').val(regionID);
+                        $('#CountryDDL').val(countryID);
+        
+                        $.ajax({
+                            type: "GET",
+                            url: _url_domain + 'sitecore/distributorlocator/FilterResults?region=' + regionID + '&productLine=' + productLineID + '&country=' + countryID,
+                            cache: false,
+                            beforeSend: function () { },
+                            crossDomain: true,
+                            success: function (data) {
+                                console.log(data);
+        
+                                LoadDistributors(data);
+                            },
+                            complete: function () {
+        
+                            }
+                        });
+                    }
+                });
+            }
+        
+        
+            function showDetails(distributor) {
+                $(distributor).parent().hide();
+                var id = $(distributor).attr('id').replace('view_', '');
+        
+                var close_div = $('#close_' + id).parent();
+                $(close_div).show();
+                $('#details_' + id).show();
+            }
+        
+            function closeDetails(distributor) {
+                $(distributor).parent().hide();
+                var id = $(distributor).attr('id').replace('close_', '');
+        
+                var view_div = $('#view_' + id).parent();
+                $(view_div).show();
+                $('#details_' + id).hide();
+            }
+        
+            function LoadInitial() {
+                var _initial_url = _url_domain + 'sitecore/distributorlocator/getinitialload';
+        
+                $('#RegionDDL').empty();
+                $('#ProductLineDDL').empty();
+                $('#CountryDDL').empty();
+        
+                $.ajax({
+                    type: "GET",
+                    url: _initial_url,
+                    cache: false,
+                    beforeSend: function () { },
+                    crossDomain: true,
+                    success: function (data) {
+                        console.log(data);
+                        $('#RegionDDL').append('<option value="">Select Region</option>');
+                        $('#ProductLineDDL').append('<option value="">Select Product Line</option>');
+                        $('#CountryDDL').append('<option value="">Select Country</option>');
+        
+                        $(data.productLines).each(function (idx, productLine) {
+                            var _option = '<option value="' + productLine + '">' + productLine + '</option>';
+                            $('#ProductLineDDL').append(_option);
+                        });
+        
+                        $(data.regions).each(function (idx, region) {
+                            var _option = '<option value="' + region + '">' + region + '</option>';
+                            $('#RegionDDL').append(_option);
+                        });
+        
+                        $(data.countries).each(function (idx, country) {
+                            var _option = '<option value="' + country + '">' + country + '</option>';
+                            $('#CountryDDL').append(_option);
+                        });
+        
+                        LoadDistributors(data);
+                    },
+                    complete: function () {
+        
+                    }
+                })
+            }
+        
+            function LoadRegions(filter = "") {
+        
+            }
+        
+            function LoadDistributors(data) {
+                $('[data-toggle="tooltip"]').tooltip('dispose');
+        
+                $('#superFeatured').empty();
+                $('#featured').empty();
+                $('#not-featured').empty();
+        
+                $(data.superFeatured).each(function (idx, distributor) {
+                    var _div = '<div class="distro-card col-1" data-toggle="tooltip" data-html="true" title="' + distributor.toolTipText + '"><img src="https://www.aflglobal.com' + distributor.logo + '"/></div>';
+                    $('#superFeatured').append(_div);
+                });
+        
+                $('[data-toggle="tooltip"]').tooltip({ html: true });
+        
+                $(data.featured).each(function (idx, distributor) {
+                    var _container_div = $('<div class="row col-12"></div>');
+                    $(_container_div).append('<div class="distro-card col-1"><img src="https://www.aflglobal.com' + distributor.logo + '"/><div>');
+        
+                    var _top_row = $('<div class="row"><div class="featuredBadge">Featured</div><div><h3><a href="' + distributor.website + '"><strong>' + distributor.name + '</strong></a></h3></div></div>');
+                    var _phone_row = $('<div class="row">' + distributor.phoneFaxLine + '</div>');
+                    var _service_row = $('<div class="row"><strong>Service Areas:&nbsp;</strong>  ' + distributor.regionServiced + '</div>');
+                    var _viewDetails_row = $('<div class="row"><div class="viewDetails" style="cursor: pointer;" id="view_' + distributor.guid + '"><a>View Details</a></div>');
+                    var _closeDetails_row = $('<div class="row"><div class="closeDetails" style="cursor: pointer;" id="close_' + distributor.guid + '"><a>Close Details</a></div>');
+                    var _content_container_inner = $('<div class="container" style="padding:20px;"></div>');
+                    var _content_container_outer = $('<div class="col-9"></div>');
+        
+                    $(_content_container_inner).append(_top_row);
+                    $(_content_container_inner).append(_phone_row);
+                    $(_content_container_inner).append(_service_row);
+                    $(_content_container_inner).append(_viewDetails_row);
+                    $(_content_container_inner).append(_closeDetails_row);
+                    $(_content_container_outer).append(_content_container_inner);
+                    $(_container_div).append(_content_container_outer);
+        
+                    var _details_div = $('<div class="row col-12" id="details_' + distributor.guid + '"></div>');
+                    $(_details_div).append('<div class="empty-cell col-1"></div>');
+        
+                    var _details_outer = $('<div class="distributorDetails col-9"></div>');
+                    var _details_inner = $('<div class="row"></div>');
+                    $(_details_inner).append('<div class="col-6">' + distributor.locationInfo + '</div><div class="col-6"><div class="directions"><p><a href="' + distributor.mapLink + '" target="_blank">Directions</a></div></div>');
+                    $(_details_outer).append(_details_inner);
+        
+                    $(_details_outer).append('<br/><div class="row"><div class="col-12"><p><strong>Product Lines</strong></p>' + distributor.productLines.replace(/\|/g, ', ') + '</div></div>');
+        
+                    $(_details_div).append(_details_outer);
+        
+                    $('#featured').append(_container_div);
+                    $('#featured').append(_details_div);
+        
+                    $('.closeDetails').parent().hide();
+                    $('.distributorDetails').parent().hide();
+        
+                });
+        
+                $(data.notFeatured).each(function (idx, distributor) {
+                    var _container_div = $('<div class="row col-12"></div>');
+                    $(_container_div).append('<div class="empty-cell col-1"><div>');
+        
+                    var _top_row = $('<div class="row"><div><h3><a href="' + distributor.website + '"><strong>' + distributor.name + '</strong></a></h3></div></div>');
+                    var _phone_row = $('<div class="row">' + distributor.phoneFaxLine + '</div>');
+                    var _service_row = $('<div class="row"><strong>Service Areas:&nbsp;</strong>  ' + distributor.regionServiced + '</div>');
+                    var _viewDetails_row = $('<div class="row"><div class="viewDetails" style="cursor: pointer;" id="view_' + distributor.guid + '"><a>View Details</a></div>');
+                    var _closeDetails_row = $('<div class="row"><div class="closeDetails" style="cursor: pointer;" id="close_' + distributor.guid + '"><a>Close Details</a></div>');
+                    var _content_container_inner = $('<div class="container" style="padding:20px;"></div>');
+                    var _content_container_outer = $('<div class="col-9"></div>');
+        
+                    $(_content_container_inner).append(_top_row);
+                    $(_content_container_inner).append(_phone_row);
+                    $(_content_container_inner).append(_service_row);
+                    $(_content_container_inner).append(_viewDetails_row);
+                    $(_content_container_inner).append(_closeDetails_row);
+                    $(_content_container_outer).append(_content_container_inner);
+                    $(_container_div).append(_content_container_outer);
+        
+                    var _details_div = $('<div class="row col-12" id="details_' + distributor.guid + '"></div>');
+                    $(_details_div).append('<div class="empty-cell col-1"></div>');
+        
+                    var _details_outer = $('<div class="distributorDetails col-9"></div>');
+                    var _details_inner = $('<div class="row"></div>');
+                    $(_details_inner).append('<div class="col-6">' + distributor.locationInfo + '</div><div class="col-6"><div class="directions"><p><a href="' + distributor.mapLink + '" target="_blank">Directions</a></div></div>');
+                    $(_details_outer).append(_details_inner);
+        
+                    $(_details_outer).append('<br/><div class="row"><div class="col-12"><p><strong>Product Lines</strong></p>' + distributor.productLines.replace(/\|/g, ', ') + '</div></div>');
+        
+                    $(_details_div).append(_details_outer);
+        
+                    $('#not-featured').append(_container_div);
+                    $('#not-featured').append(_details_div);
+        
+                    $('.closeDetails').parent().hide();
+                    $('.distributorDetails').parent().hide();
+        
+                });
+        
+                $('.viewDetails').click(function () {
+                    showDetails(this);
+                });
+        
+                $('.closeDetails').click(function () {
+                    closeDetails(this);
+                });
+            }
+        
+        </script>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220322T151512Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\matt
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\matt
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "76c47bac-7294-47fe-a10e-eeb31a5318c7"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\matt
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220408T201908Z
+- Language: "fr-FR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "24cce27c-05db-4473-a1ed-e69b1725ff1c"
+      Hint: HtmlCode
+      Value: |
+        <!-- <script src="https://code.jquery.com/jquery-3.6.0.min.js"
+            integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css"
+            integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.min.js"
+            integrity="sha384-QJHtvGhmr9XOIpI6YVutG+2QOK9T+ZnN4kzFN1RtK3zEFEIsxhlmWl5/YESvpZ13"
+            crossorigin="anonymous"></script>
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"
+            integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p"
+            crossorigin="anonymous"></script>
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.min.js"
+            integrity="sha384-VHvPCCyXqtD5DqJeNxl2dtTyhF78xXNXdkwX1CZeRusQfRKp+tA7hAShOK/B/fQ2"
+            crossorigin="anonymous"></script> -->
+        <script src="https://cdn.jsdelivr.net/npm/popper.js@1.12.9/dist/umd/popper.min.js"></script>
+        
+        
+        <style>
+            .featuredBadge {
+                font-size: 15px !important;
+                text-transform: uppercase;
+                color: #fff;
+                font-weight: bold;
+                padding: 0px 0px 0 4px;
+                margin-right: 6px;
+                background: url(https://webapps.aflglobal.com/img/feature-banner.jpg) no-repeat;
+                width: 91px;
+                height: 20px;
+                display: block;
+                float: left;
+            }
+        
+            .directions {
+                background: url(https://webapps.aflglobal.com/img/icon-directions.jpg) no-repeat top center;
+                text-align: center;
+                margin: 10px 0 0 -25px;
+                padding-top: 30px;
+                color: #00c0f3;
+                font-weight: bold;
+            }
+        
+            .distributorDetails {
+                /* float: left; */
+                width: 100%;
+                margin-top: -20px;
+                margin-left: 30px;
+                margin-bottom: 10px;
+                border: 1px solid #999;
+                background-color: #EAEAEA;
+                min-height: 100px;
+                padding: 10px;
+                border-radius: 4px;
+            }
+        
+            .viewDetails {
+                background: url(https://webapps.aflglobal.com/img/btn-plus.jpg) no-repeat 0 0.15em;
+                padding-left: 25px;
+                float: left;
+            }
+        
+            .closeDetails {
+                background: url(https://webapps.aflglobal.com/img/btn-minus.jpg) no-repeat 0 0.15em;
+                padding-left: 25px;
+                float: left;
+            }
+        
+            .distro-card {
+                border: #b3b3b3 1px solid;
+                border-radius: 4px;
+                padding-top: 10px;
+                padding-bottom: 10px;
+                box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+                margin: 10px;
+                min-height: 115px;
+                min-width: 115px;
+            }
+        
+            .empty-cell {
+                min-height: 115px;
+                min-width: 115px;
+                margin: 10px;
+            }
+        
+            .distro-card .card-body .container h3 {
+                font-weight: bold;
+            }
+        
+            .distro-initial-hide {
+                visibility: hidden;
+            }
+        
+            .distro-inactive {
+                background-color: #b3b3b3;
+            }
+        
+            #USSalesReps .row {
+                margin-top: 10px;
+                margin-bottom: 10px;
+            }
+        
+            #divMarkets label {
+                padding-left: 5px;
+            }
+        
+            .tooltip {
+                position: absolute;
+                z-index: 1070;
+                display: block;
+                /* font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; */
+                font-style: normal;
+                font-weight: 400;
+                line-height: 1.42857143;
+                line-break: auto;
+                text-align: left;
+                text-align: start;
+                text-decoration: none;
+                text-shadow: none;
+                text-transform: none;
+                letter-spacing: normal;
+                word-break: normal;
+                word-spacing: normal;
+                word-wrap: normal;
+                white-space: normal;
+                font-size: 16px;
+                filter: alpha(opacity=0);
+                opacity: 0;
+                box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+            }
+        
+            .tooltip.in {
+                filter: alpha(opacity=90);
+                opacity: 0.9;
+            }
+        
+            .tooltip.top {
+                padding: 5px 0;
+                margin-top: -3px;
+            }
+        
+            .tooltip.right {
+                padding: 0 5px;
+                margin-left: 3px;
+            }
+        
+            .tooltip.bottom {
+                padding: 5px 0;
+                margin-top: 3px;
+            }
+        
+            .tooltip.left {
+                padding: 0 5px;
+                margin-left: -3px;
+            }
+        
+            .tooltip.top .tooltip-arrow {
+                bottom: 0;
+                left: 50%;
+                margin-left: -5px;
+                border-width: 5px 5px 0;
+                border-top-color: #00c0f3;
+            }
+        
+            .tooltip.top-left .tooltip-arrow {
+                right: 5px;
+                bottom: 0;
+                margin-bottom: -5px;
+                border-width: 5px 5px 0;
+                border-top-color: #00c0f3;
+            }
+        
+            .tooltip.top-right .tooltip-arrow {
+                bottom: 0;
+                left: 5px;
+                margin-bottom: -5px;
+                border-width: 5px 5px 0;
+                border-top-color: #00c0f3;
+            }
+        
+            .tooltip.right .tooltip-arrow {
+                top: 50%;
+                left: 0;
+                margin-top: -5px;
+                border-width: 5px 5px 5px 0;
+                border-right-color: #00c0f3;
+            }
+        
+            .tooltip.left .tooltip-arrow {
+                top: 50%;
+                right: 0;
+                margin-top: -5px;
+                border-width: 5px 0 5px 5px;
+                border-left-color: #00c0f3;
+            }
+        
+            .tooltip.bottom .tooltip-arrow {
+                top: 0;
+                left: 50%;
+                margin-left: -5px;
+                border-width: 0 5px 5px;
+                border-bottom-color: #00c0f3;
+            }
+        
+            .tooltip.bottom-left .tooltip-arrow {
+                top: 0;
+                right: 5px;
+                margin-top: -5px;
+                border-width: 0 5px 5px;
+                border-bottom-color: #00c0f3;
+            }
+        
+            .tooltip.bottom-right .tooltip-arrow {
+                top: 0;
+                left: 5px;
+                margin-top: -5px;
+                border-width: 0 5px 5px;
+                border-bottom-color: #00c0f3;
+            }
+        
+            .tooltip-inner {
+                /* max-width: 200px; */
+                padding: 3px 8px;
+                color: #ffffff;
+                /* text-align: center; */
+                background-color: #00c0f3;
+                border-radius: 4px;
+            }
+        
+            .tooltip-arrow {
+                position: absolute;
+                width: 0;
+                height: 0;
+                border-color: transparent;
+                border-style: solid;
+            }
+        </style>
+        <div class="container">
+            <div class="row col-12">
+                <div class="component sitecore-form afl-contactform container">
+                    <form class="afl-contactform">
+                        <!-- <div class="afl-inputfield col-12">
+                            <label for="first-name">First Name</label>
+                            <input id="first-name" name="first-name" class="afl-formcontrol" placeholder="First Name"
+                                type="text" />
+        
+                        </div> -->
+        
+                        <!-- <div class="col-4"> -->
+                        <select name="RegionDDL" id="RegionDDL" class="afl-formcontrol"
+                            style="max-width:32%; margin-bottom:0px !important; margin-right:7px;">
+        
+                        </select>
+                        <!-- </div>
+                        <div class="col-4"> -->
+                        <select name="ProductLineDDL" id="ProductLineDDL" class="afl-formcontrol"
+                            style="max-width:32%; margin-bottom:0px !important; margin-left:7px;margin-right:7px;">
+        
+                        </select>
+                        <!-- </div>
+                        <div class="col-4"> -->
+                        <select name="CountryDDL" id="CountryDDL" class="afl-formcontrol"
+                            style="max-width:32%; margin-bottom:0px !important; margin-left:7px">
+        
+                        </select>
+                        <!-- </div> -->
+        
+                    </form>
+                </div>
+        
+            </div>
+        
+            <div class="row col-12" id="superFeatured">
+        
+            </div>
+        
+            <div class="row col-12" id="featured">
+        
+            </div>
+        
+            <div class="row col-12" id="not-featured">
+        
+            </div>
+        </div>
+        
+        <script>
+            //var _url_domain = 'https://localhost:44342/';
+            var _url_domain = 'https://webapps.aflglobal.com/api/';
+        
+            //$('#CountryDDL').hide();
+        
+            $(document).ready(function () {
+                LoadInitial();
+        
+                $('#RegionDDL').change(function () {
+                    filterRegion();
+                });
+        
+                $('#ProductLineDDL').change(function () {
+                    filterProductLine();
+                });
+        
+                $('#CountryDDL').change(function () {
+                    filterCountry();
+                });
+            });
+        
+            function filterRegion() {
+        
+                var regionID = $('#RegionDDL option:selected').val();
+                var productLineID = $('#ProductLineDDL option:selected').val();
+                var countryID = $('#CountryDDL option:selected').val();
+        
+                $('#ProductLineDDL').empty();
+                $('#CountryDDL').empty();
+        
+                $.ajax({
+                    type: "GET",
+                    url: _url_domain + 'sitecore/distributorlocator/FilterDDLsByRegions?region=' + regionID,
+                    cache: false,
+                    beforeSend: function () { },
+                    crossDomain: true,
+                    success: function (data) {
+                        console.log(data);
+        
+                        $('#ProductLineDDL').append('<option value="">Select Product Line</option>');
+        
+                        $(data.productLines).each(function (idx, pl) {
+                            var _option = '<option value="' + pl + '">' + pl + '</option>';
+        
+                            $('#ProductLineDDL').append(_option);
+                        });
+        
+                        $('#CountryDDL').append('<option value="">Select Country</option>');
+        
+                        $(data.countries).each(function (idx, country) {
+                            var _option = '<option value="' + country + '">' + country + '</option>';
+        
+                            $('#CountryDDL').append(_option);
+                        });
+                    },
+                    complete: function () {
+                        $('#ProductLineDDL').val(productLineID);
+                        $('#CountryDDL').val(countryID);
+        
+                        $.ajax({
+                            type: "GET",
+                            url: _url_domain + 'sitecore/distributorlocator/FilterResults?region=' + regionID + '&productLine=' + productLineID + '&country=' + countryID,
+                            cache: false,
+                            beforeSend: function () { },
+                            crossDomain: true,
+                            success: function (data) {
+                                console.log(data);
+        
+                                LoadDistributors(data);
+                            },
+                            complete: function () {
+        
+                            }
+                        });
+                    }
+                });
+            }
+        
+            function filterCountry() {
+                var regionID = $('#RegionDDL option:selected').val();
+                var productLineID = $('#ProductLineDDL option:selected').val();
+                var countryID = $('#CountryDDL option:selected').val();
+        
+                $.ajax({
+                    type: "GET",
+                    url: _url_domain + 'sitecore/distributorlocator/FilterResults?region=' + regionID + '&productLine=' + productLineID + '&country=' + countryID,
+                    cache: false,
+                    beforeSend: function () { },
+                    crossDomain: true,
+                    success: function (data) {
+                        console.log(data);
+        
+                        LoadDistributors(data);
+                    },
+                    complete: function () {
+        
+                    }
+                });
+            }
+        
+            function filterProductLine() {
+        
+                var regionID = $('#RegionDDL option:selected').val();
+                var productLineID = $('#ProductLineDDL option:selected').val();
+                var countryID = $('#CountryDDL option:selected').val();
+        
+                $('#RegionDDL').empty();
+                $('#CountryDDL').empty();
+        
+                $.ajax({
+                    type: "GET",
+                    url: _url_domain + 'sitecore/distributorlocator/FilterDDLsByProductLines?pl=' + productLineID,
+                    cache: false,
+                    beforeSend: function () { },
+                    crossDomain: true,
+                    success: function (data) {
+                        console.log(data);
+        
+                        $('#RegionDDL').append('<option value="">Select Region</option>');
+        
+                        $(data.regions).each(function (idx, region) {
+                            var _option = '<option value="' + region + '">' + region + '</option>';
+        
+                            $('#RegionDDL').append(_option);
+                        });
+        
+                        $('#CountryDDL').append('<option value="">Select Country</option>');
+        
+                        $(data.countries).each(function (idx, country) {
+                            var _option = '<option value="' + country + '">' + country + '</option>';
+        
+                            $('#CountryDDL').append(_option);
+                        });
+                    },
+                    complete: function () {
+                        $('#RegionDDL').val(regionID);
+                        $('#CountryDDL').val(countryID);
+        
+                        $.ajax({
+                            type: "GET",
+                            url: _url_domain + 'sitecore/distributorlocator/FilterResults?region=' + regionID + '&productLine=' + productLineID + '&country=' + countryID,
+                            cache: false,
+                            beforeSend: function () { },
+                            crossDomain: true,
+                            success: function (data) {
+                                console.log(data);
+        
+                                LoadDistributors(data);
+                            },
+                            complete: function () {
+        
+                            }
+                        });
+                    }
+                });
+            }
+        
+        
+            function showDetails(distributor) {
+                $(distributor).parent().hide();
+                var id = $(distributor).attr('id').replace('view_', '');
+        
+                var close_div = $('#close_' + id).parent();
+                $(close_div).show();
+                $('#details_' + id).show();
+            }
+        
+            function closeDetails(distributor) {
+                $(distributor).parent().hide();
+                var id = $(distributor).attr('id').replace('close_', '');
+        
+                var view_div = $('#view_' + id).parent();
+                $(view_div).show();
+                $('#details_' + id).hide();
+            }
+        
+            function LoadInitial() {
+                var _initial_url = _url_domain + 'sitecore/distributorlocator/getinitialload';
+        
+                $('#RegionDDL').empty();
+                $('#ProductLineDDL').empty();
+                $('#CountryDDL').empty();
+        
+                $.ajax({
+                    type: "GET",
+                    url: _initial_url,
+                    cache: false,
+                    beforeSend: function () { },
+                    crossDomain: true,
+                    success: function (data) {
+                        console.log(data);
+                        $('#RegionDDL').append('<option value="">Select Region</option>');
+                        $('#ProductLineDDL').append('<option value="">Select Product Line</option>');
+                        $('#CountryDDL').append('<option value="">Select Country</option>');
+        
+                        $(data.productLines).each(function (idx, productLine) {
+                            var _option = '<option value="' + productLine + '">' + productLine + '</option>';
+                            $('#ProductLineDDL').append(_option);
+                        });
+        
+                        $(data.regions).each(function (idx, region) {
+                            var _option = '<option value="' + region + '">' + region + '</option>';
+                            $('#RegionDDL').append(_option);
+                        });
+        
+                        $(data.countries).each(function (idx, country) {
+                            var _option = '<option value="' + country + '">' + country + '</option>';
+                            $('#CountryDDL').append(_option);
+                        });
+        
+                        LoadDistributors(data);
+                    },
+                    complete: function () {
+        
+                    }
+                })
+            }
+        
+            function LoadRegions(filter = "") {
+        
+            }
+        
+            function LoadDistributors(data) {
+                $('[data-toggle="tooltip"]').tooltip('dispose');
+        
+                $('#superFeatured').empty();
+                $('#featured').empty();
+                $('#not-featured').empty();
+        
+                $(data.superFeatured).each(function (idx, distributor) {
+                    var _div = '<div class="distro-card col-1" data-toggle="tooltip" data-html="true" title="' + distributor.toolTipText + '"><img src="https://www.aflglobal.com' + distributor.logo + '"/></div>';
+                    $('#superFeatured').append(_div);
+                });
+        
+                $('[data-toggle="tooltip"]').tooltip({ html: true });
+        
+                $(data.featured).each(function (idx, distributor) {
+                    var _container_div = $('<div class="row col-12"></div>');
+                    $(_container_div).append('<div class="distro-card col-1"><img src="https://www.aflglobal.com' + distributor.logo + '"/><div>');
+        
+                    var _top_row = $('<div class="row"><div class="featuredBadge">Featured</div><div><h3><a href="' + distributor.website + '"><strong>' + distributor.name + '</strong></a></h3></div></div>');
+                    var _phone_row = $('<div class="row">' + distributor.phoneFaxLine + '</div>');
+                    var _service_row = $('<div class="row"><strong>Service Areas:&nbsp;</strong>  ' + distributor.regionServiced + '</div>');
+                    var _viewDetails_row = $('<div class="row"><div class="viewDetails" style="cursor: pointer;" id="view_' + distributor.guid + '"><a>View Details</a></div>');
+                    var _closeDetails_row = $('<div class="row"><div class="closeDetails" style="cursor: pointer;" id="close_' + distributor.guid + '"><a>Close Details</a></div>');
+                    var _content_container_inner = $('<div class="container" style="padding:20px;"></div>');
+                    var _content_container_outer = $('<div class="col-9"></div>');
+        
+                    $(_content_container_inner).append(_top_row);
+                    $(_content_container_inner).append(_phone_row);
+                    $(_content_container_inner).append(_service_row);
+                    $(_content_container_inner).append(_viewDetails_row);
+                    $(_content_container_inner).append(_closeDetails_row);
+                    $(_content_container_outer).append(_content_container_inner);
+                    $(_container_div).append(_content_container_outer);
+        
+                    var _details_div = $('<div class="row col-12" id="details_' + distributor.guid + '"></div>');
+                    $(_details_div).append('<div class="empty-cell col-1"></div>');
+        
+                    var _details_outer = $('<div class="distributorDetails col-9"></div>');
+                    var _details_inner = $('<div class="row"></div>');
+                    $(_details_inner).append('<div class="col-6">' + distributor.locationInfo + '</div><div class="col-6"><div class="directions"><p><a href="' + distributor.mapLink + '" target="_blank">Directions</a></div></div>');
+                    $(_details_outer).append(_details_inner);
+        
+                    $(_details_outer).append('<br/><div class="row"><div class="col-12"><p><strong>Product Lines</strong></p>' + distributor.productLines.replace(/\|/g, ', ') + '</div></div>');
+        
+                    $(_details_div).append(_details_outer);
+        
+                    $('#featured').append(_container_div);
+                    $('#featured').append(_details_div);
+        
+                    $('.closeDetails').parent().hide();
+                    $('.distributorDetails').parent().hide();
+        
+                });
+        
+                $(data.notFeatured).each(function (idx, distributor) {
+                    var _container_div = $('<div class="row col-12"></div>');
+                    $(_container_div).append('<div class="empty-cell col-1"><div>');
+        
+                    var _top_row = $('<div class="row"><div><h3><a href="' + distributor.website + '"><strong>' + distributor.name + '</strong></a></h3></div></div>');
+                    var _phone_row = $('<div class="row">' + distributor.phoneFaxLine + '</div>');
+                    var _service_row = $('<div class="row"><strong>Service Areas:&nbsp;</strong>  ' + distributor.regionServiced + '</div>');
+                    var _viewDetails_row = $('<div class="row"><div class="viewDetails" style="cursor: pointer;" id="view_' + distributor.guid + '"><a>View Details</a></div>');
+                    var _closeDetails_row = $('<div class="row"><div class="closeDetails" style="cursor: pointer;" id="close_' + distributor.guid + '"><a>Close Details</a></div>');
+                    var _content_container_inner = $('<div class="container" style="padding:20px;"></div>');
+                    var _content_container_outer = $('<div class="col-9"></div>');
+        
+                    $(_content_container_inner).append(_top_row);
+                    $(_content_container_inner).append(_phone_row);
+                    $(_content_container_inner).append(_service_row);
+                    $(_content_container_inner).append(_viewDetails_row);
+                    $(_content_container_inner).append(_closeDetails_row);
+                    $(_content_container_outer).append(_content_container_inner);
+                    $(_container_div).append(_content_container_outer);
+        
+                    var _details_div = $('<div class="row col-12" id="details_' + distributor.guid + '"></div>');
+                    $(_details_div).append('<div class="empty-cell col-1"></div>');
+        
+                    var _details_outer = $('<div class="distributorDetails col-9"></div>');
+                    var _details_inner = $('<div class="row"></div>');
+                    $(_details_inner).append('<div class="col-6">' + distributor.locationInfo + '</div><div class="col-6"><div class="directions"><p><a href="' + distributor.mapLink + '" target="_blank">Directions</a></div></div>');
+                    $(_details_outer).append(_details_inner);
+        
+                    $(_details_outer).append('<br/><div class="row"><div class="col-12"><p><strong>Product Lines</strong></p>' + distributor.productLines.replace(/\|/g, ', ') + '</div></div>');
+        
+                    $(_details_div).append(_details_outer);
+        
+                    $('#not-featured').append(_container_div);
+                    $('#not-featured').append(_details_div);
+        
+                    $('.closeDetails').parent().hide();
+                    $('.distributorDetails').parent().hide();
+        
+                });
+        
+                $('.viewDetails').click(function () {
+                    showDetails(this);
+                });
+        
+                $('.closeDetails').click(function () {
+                    closeDetails(this);
+                });
+            }
+        
+        </script>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220322T151512Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\matt
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\matt
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9299c122-5cb8-45ad-b4e7-0b273f150065"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\matt
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220408T201939Z

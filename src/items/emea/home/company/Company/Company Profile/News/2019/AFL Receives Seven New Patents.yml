@@ -1,0 +1,354 @@
+﻿---
+ID: "fbfee3f8-f03b-4bdf-b60e-cc7b3549e46e"
+Parent: "5a54194e-f462-429e-874d-34bfe14f9989"
+Template: "f36e821e-bb98-44dc-966d-e92a0e033cc7"
+Path: "/sitecore/content/AFL-Global/EMEA/Home/Company/Company Profile/News/2019/AFL Receives Seven New Patents"
+SharedFields:
+- ID: "1fbc6a49-6281-48ee-87e9-a3970b145adb"
+  Hint: NavigationFilter
+  Value: |
+    {E0A2A027-0932-4878-A7D6-0416D5263EFB}
+    {61BD64D6-809E-40AE-9297-2724A19329B3}
+    {D063E9D1-C7B5-4B1E-B31E-69886C9C59F5}
+    {500AE4C0-FA7B-463F-8149-EFFF7F044101}
+    {A0E7FF57-6994-4B09-AA21-104239628D5A}
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{3A84BAC9-C1BD-4809-A12C-28EB44E25329}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{DAE7C21D-4D3B-4257-A95C-9104CD8AF409}"
+Languages:
+- Language: "de-DE"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "228f9517-e120-4014-b2c7-df0ac467a349"
+      Hint: ContentTitle
+      Value: AFL Receives Seven New Patents
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211208T163608Z
+    - ID: "3688d7df-2feb-43a4-ab8d-410e5f70a676"
+      Hint: ContentDescription
+      Value: |
+        <div>Spartanburg, SC – <a href="~/link.aspx?_id=CB5A0B73F40540109C53688EDA61E0F7&_z=z">AFL</a>, an international manufacturer of fiber optic cable, equipment and accessories, recognized several associates who received patents for developing new products and technologies within the <a href="~/link.aspx?_id=E545E2A90D414F31BDD0BA9B8ED27FD0&_z=z">cable</a> and <a href="~/link.aspx?_id=5A5DF654AF794D1EBAEEE22522AC6EB7&_z=z">connectivity</a> division, <a href="~/link.aspx?_id=DD697FB3AFEA42B2B976EB9288D04701&_z=z">accessories</a>, and <a href="~/link.aspx?_id=67697A36EE374C21A1F009672463F0E6&_z=z">test and inspection</a> division. Seventeen associates were recognized over the past two quarters.  <br />
+        <br />
+        <ol>
+            <li>A method to apply an aluminum coating layer to the core of copper wire;</li>
+            <li>A composite micro-cable optimized to be jetted into the existing coax cable sheaths after the core had been extracted;</li>
+            <li>An optical fiber furcation transition assembly that accepts a variety of flat drop fiber optic cables;</li>
+            <li><a href="~/link.aspx?_id=A8D6DBB08D15403FB2E3BFAEAB1A95D2&_z=z">PoliMOD®</a>, a field-installable optical module with configurable cable attachment.</li>
+        </ol>
+        The Accessories division was the recipient of two patents:<br />
+        <ol>
+            <li>A Swage high voltage cable terminal which eliminates the deviation-prone additive method and expands upon a tried-and-true process from the transmission product line with the resultant profile and product finish being naturally Corona-free at high voltages, removing the need for tedious manual processing of the terminal.</li>
+            <li>Flat Drop Cable Tangent accessory that provides a means of suspending flat drop cables used in Fiber-to-the-Home applications.</li>
+        </ol>
+        The Test and Inspection division received a patent for an OTDR merging technique for traces captured by using different settings. This technique features a shorter laser pulse that can produce traces of more accurate location information, and a longer pulse that produces traces with less noise for a more reliable result.<br />
+        <br />
+        For more information about AFL, its products and services, visit <a href="http://www.aflglobal.com/">www.AFLglobal.com</a>.<br />
+         <br />
+        About AFL<br />
+        Founded in 1984, AFL is an international manufacturer providing end-to-end solutions to the energy, service provider, enterprise and industrial markets as well as several emerging markets. The company’s products are in use in over 130 countries and include fiber optic cable and hardware, transmission and substation accessories, outside plant equipment, connectivity, test and inspection equipment, fusion splicers and training. AFL also offers a wide variety of services supporting data center, enterprise, wireless and outside plant applications.<br />
+         <br />
+        Headquartered in Spartanburg, SC, AFL has operations in the U.S., Mexico, Canada, Europe, Asia and Australia, and is a wholly-owned subsidiary of Fujikura Ltd. of Japan. For more information, visit <a href="http://www.aflglobal.com/">www.AFLglobal.com</a>.<br />
+        <br />
+        Follow us on <a href="https://www.linkedin.com/company/afl-2">LinkedIn</a>, <a href="https://twitter.com/AFLglobal">Twitter</a>, and “like us” on <a href="https://www.facebook.com/AFLcorp">Facebook</a>. Review our <a href="https://www.aflglobal.com/AFL-Blog/">blog</a> or subscribe to our bi-monthly e-newsletter.<br />
+         <br />
+        Contact<br />
+        Corie Culp<br />
+        Public Relations Manager<br />
+        AFL<br />
+        864.433.5409<br />
+        <a href="mailto:Corie.Culp@AFLglobal.com">Corie.Culp@AFLglobal.com</a></div>
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: AFL Receives Seven New Patents
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\matt
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: Several associates received patents for developing new products and technologies within the cable and connectivity division, accessories, and test and inspection division.
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\matt
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: "associates, patents, patent, cable, connectivity, accessories, swage, Poli-MOD, test, inspection, OTDR"
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: AFL Receives Seven New Patents
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: AFL Receives Seven New Patents
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "107bed9e-69c8-4e4c-b8c6-dc0992c4ef7f"
+    - ID: "9dd4f0d9-c123-47a8-8cef-2c85cea172f6"
+      Hint: ContentImage
+      Value: |
+        <image mediaid="{FB19787A-A429-44F9-B4A1-113673F4C242}" />
+    - ID: "a6eaffd5-fc3e-41b4-93b3-f1721fcf2300"
+      Hint: ContentPublishedDate
+      Value: 20190127T183000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T100011Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "228f9517-e120-4014-b2c7-df0ac467a349"
+      Hint: ContentTitle
+      Value: AFL Receives Seven New Patents
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211208T163608Z
+    - ID: "3688d7df-2feb-43a4-ab8d-410e5f70a676"
+      Hint: ContentDescription
+      Value: |
+        <div>Spartanburg, SC &ndash;&nbsp;<a href="~/link.aspx?_id=CB5A0B73F40540109C53688EDA61E0F7&amp;_z=z">AFL</a>, an international manufacturer of fiber optic cable, equipment and accessories, recognized several associates who received patents for developing new products and technologies within the&nbsp;<a href="~/link.aspx?_id=E545E2A90D414F31BDD0BA9B8ED27FD0&amp;_z=z">cable</a>&nbsp;and&nbsp;<a href="~/link.aspx?_id=5A5DF654AF794D1EBAEEE22522AC6EB7&amp;_z=z">connectivity</a>&nbsp;division,&nbsp;<a href="~/link.aspx?_id=DD697FB3AFEA42B2B976EB9288D04701&amp;_z=z">accessories</a>, and&nbsp;<a href="~/link.aspx?_id=67697A36EE374C21A1F009672463F0E6&amp;_z=z">test and inspection</a>&nbsp;division. Seventeen associates were recognized over the past two quarters. &nbsp;<br />
+        <br />
+        <ol>
+            <li>A method to apply an aluminum coating layer to the core of copper wire;</li>
+            <li>A composite micro-cable optimized to be jetted into the existing coax cable sheaths after the core had been extracted;</li>
+            <li>An optical fiber furcation transition assembly that accepts a variety of flat drop fiber optic cables;</li>
+            <li><a href="~/link.aspx?_id=A8D6DBB08D15403FB2E3BFAEAB1A95D2&amp;_z=z">PoliMOD&reg;</a>, a field-installable optical module with configurable cable attachment.</li>
+        </ol>
+        The&nbsp;Accessories&nbsp;division was the recipient of two patents:<br />
+        <ol>
+            <li>A Swage high voltage cable terminal which eliminates the deviation-prone additive method and expands upon a tried-and-true process from the transmission product line with the resultant profile and product finish being naturally Corona-free at high voltages, removing the need for tedious manual processing of the terminal.</li>
+            <li>Flat Drop Cable Tangent accessory that provides a means of suspending flat drop cables used in Fiber-to-the-Home applications.</li>
+        </ol>
+        The&nbsp;Test and Inspection&nbsp;division received a patent for an OTDR merging technique for traces captured by using different settings. This technique features a shorter laser pulse that can produce traces of more accurate location information, and a longer pulse that produces traces with less noise for a more reliable result.<br />
+        <br />
+        For more information about AFL, its products and services, visit&nbsp;<a href="http://www.aflglobal.com/">www.AFLglobal.com</a>.<br />
+        &nbsp;<br />
+        About AFL<br />
+        Founded in 1984, AFL is an international manufacturer providing end-to-end solutions to the energy, service provider, enterprise and industrial markets as well as several emerging markets. The company&rsquo;s products are in use in over 130 countries and include fiber optic cable and hardware, transmission and substation accessories, outside plant equipment, connectivity, test and inspection equipment, fusion splicers and training. AFL also offers a wide variety of services supporting data center, enterprise, wireless and outside plant applications.<br />
+        &nbsp;<br />
+        Headquartered in Spartanburg, SC, AFL has operations in the U.S., Mexico, Canada, Europe, Asia and Australia, and is a wholly-owned subsidiary of Fujikura Ltd. of Japan. For more information, visit&nbsp;<a href="http://www.aflglobal.com/">www.AFLglobal.com</a>.<br />
+        <br />
+        Follow us on&nbsp;<a href="https://www.linkedin.com/company/afl-2">LinkedIn</a>,&nbsp;<a href="https://twitter.com/AFLglobal">Twitter</a>, and &ldquo;like us&rdquo; on&nbsp;<a href="https://www.facebook.com/AFLcorp">Facebook</a>. Review our&nbsp;<a href="https://www.aflglobal.com/AFL-Blog/">blog</a>&nbsp;or&nbsp;subscribe&nbsp;to our bi-monthly e-newsletter.<br />
+        &nbsp;<br />
+        Contact<br />
+        Corie Culp<br />
+        Public Relations Manager<br />
+        AFL<br />
+        864.433.5409<br />
+        <a href="mailto:Corie.Culp@AFLglobal.com">Corie.Culp@AFLglobal.com</a></div>
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: AFL Receives Seven New Patents
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: Several associates received patents for developing new products and technologies within the cable and connectivity division, accessories, and test and inspection division.
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: "associates, patents, patent, cable, connectivity, accessories, swage, Poli-MOD, test, inspection, OTDR"
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: AFL Receives Seven New Patents
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: AFL Receives Seven New Patents
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d8093a44-cc5e-4990-8640-b177f8ea9bdf"
+    - ID: "9dd4f0d9-c123-47a8-8cef-2c85cea172f6"
+      Hint: ContentImage
+      Value: |
+        <image mediaid="{FB19787A-A429-44F9-B4A1-113673F4C242}" />
+    - ID: "a6eaffd5-fc3e-41b4-93b3-f1721fcf2300"
+      Hint: ContentPublishedDate
+      Value: 20190127T183000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T100010Z
+- Language: "es-ES"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "228f9517-e120-4014-b2c7-df0ac467a349"
+      Hint: ContentTitle
+      Value: AFL Receives Seven New Patents
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211208T163608Z
+    - ID: "3688d7df-2feb-43a4-ab8d-410e5f70a676"
+      Hint: ContentDescription
+      Value: |
+        <div>Spartanburg, SC – <a href="~/link.aspx?_id=CB5A0B73F40540109C53688EDA61E0F7&_z=z">AFL</a>, an international manufacturer of fiber optic cable, equipment and accessories, recognized several associates who received patents for developing new products and technologies within the <a href="~/link.aspx?_id=E545E2A90D414F31BDD0BA9B8ED27FD0&_z=z">cable</a> and <a href="~/link.aspx?_id=5A5DF654AF794D1EBAEEE22522AC6EB7&_z=z">connectivity</a> division, <a href="~/link.aspx?_id=DD697FB3AFEA42B2B976EB9288D04701&_z=z">accessories</a>, and <a href="~/link.aspx?_id=67697A36EE374C21A1F009672463F0E6&_z=z">test and inspection</a> division. Seventeen associates were recognized over the past two quarters.  <br />
+        <br />
+        <ol>
+            <li>A method to apply an aluminum coating layer to the core of copper wire;</li>
+            <li>A composite micro-cable optimized to be jetted into the existing coax cable sheaths after the core had been extracted;</li>
+            <li>An optical fiber furcation transition assembly that accepts a variety of flat drop fiber optic cables;</li>
+            <li><a href="~/link.aspx?_id=A8D6DBB08D15403FB2E3BFAEAB1A95D2&_z=z">PoliMOD®</a>, a field-installable optical module with configurable cable attachment.</li>
+        </ol>
+        The Accessories division was the recipient of two patents:<br />
+        <ol>
+            <li>A Swage high voltage cable terminal which eliminates the deviation-prone additive method and expands upon a tried-and-true process from the transmission product line with the resultant profile and product finish being naturally Corona-free at high voltages, removing the need for tedious manual processing of the terminal.</li>
+            <li>Flat Drop Cable Tangent accessory that provides a means of suspending flat drop cables used in Fiber-to-the-Home applications.</li>
+        </ol>
+        The Test and Inspection division received a patent for an OTDR merging technique for traces captured by using different settings. This technique features a shorter laser pulse that can produce traces of more accurate location information, and a longer pulse that produces traces with less noise for a more reliable result.<br />
+        <br />
+        For more information about AFL, its products and services, visit <a href="http://www.aflglobal.com/">www.AFLglobal.com</a>.<br />
+         <br />
+        About AFL<br />
+        Founded in 1984, AFL is an international manufacturer providing end-to-end solutions to the energy, service provider, enterprise and industrial markets as well as several emerging markets. The company’s products are in use in over 130 countries and include fiber optic cable and hardware, transmission and substation accessories, outside plant equipment, connectivity, test and inspection equipment, fusion splicers and training. AFL also offers a wide variety of services supporting data center, enterprise, wireless and outside plant applications.<br />
+         <br />
+        Headquartered in Spartanburg, SC, AFL has operations in the U.S., Mexico, Canada, Europe, Asia and Australia, and is a wholly-owned subsidiary of Fujikura Ltd. of Japan. For more information, visit <a href="http://www.aflglobal.com/">www.AFLglobal.com</a>.<br />
+        <br />
+        Follow us on <a href="https://www.linkedin.com/company/afl-2">LinkedIn</a>, <a href="https://twitter.com/AFLglobal">Twitter</a>, and “like us” on <a href="https://www.facebook.com/AFLcorp">Facebook</a>. Review our <a href="https://www.aflglobal.com/AFL-Blog/">blog</a> or subscribe to our bi-monthly e-newsletter.<br />
+         <br />
+        Contact<br />
+        Corie Culp<br />
+        Public Relations Manager<br />
+        AFL<br />
+        864.433.5409<br />
+        <a href="mailto:Corie.Culp@AFLglobal.com">Corie.Culp@AFLglobal.com</a></div>
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: AFL Receives Seven New Patents
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\matt
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: Several associates received patents for developing new products and technologies within the cable and connectivity division, accessories, and test and inspection division.
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\matt
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: "associates, patents, patent, cable, connectivity, accessories, swage, Poli-MOD, test, inspection, OTDR"
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: AFL Receives Seven New Patents
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: AFL Receives Seven New Patents
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3492f9ec-7ac2-49c0-a19e-8bc9ea8fe190"
+    - ID: "9dd4f0d9-c123-47a8-8cef-2c85cea172f6"
+      Hint: ContentImage
+      Value: |
+        <image mediaid="{FB19787A-A429-44F9-B4A1-113673F4C242}" />
+    - ID: "a6eaffd5-fc3e-41b4-93b3-f1721fcf2300"
+      Hint: ContentPublishedDate
+      Value: 20190127T183000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T100011Z
+- Language: "fr-FR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "228f9517-e120-4014-b2c7-df0ac467a349"
+      Hint: ContentTitle
+      Value: AFL Receives Seven New Patents
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211208T163608Z
+    - ID: "3688d7df-2feb-43a4-ab8d-410e5f70a676"
+      Hint: ContentDescription
+      Value: |
+        <div>Spartanburg, SC – <a href="~/link.aspx?_id=CB5A0B73F40540109C53688EDA61E0F7&_z=z">AFL</a>, an international manufacturer of fiber optic cable, equipment and accessories, recognized several associates who received patents for developing new products and technologies within the <a href="~/link.aspx?_id=E545E2A90D414F31BDD0BA9B8ED27FD0&_z=z">cable</a> and <a href="~/link.aspx?_id=5A5DF654AF794D1EBAEEE22522AC6EB7&_z=z">connectivity</a> division, <a href="~/link.aspx?_id=DD697FB3AFEA42B2B976EB9288D04701&_z=z">accessories</a>, and <a href="~/link.aspx?_id=67697A36EE374C21A1F009672463F0E6&_z=z">test and inspection</a> division. Seventeen associates were recognized over the past two quarters.  <br />
+        <br />
+        <ol>
+            <li>A method to apply an aluminum coating layer to the core of copper wire;</li>
+            <li>A composite micro-cable optimized to be jetted into the existing coax cable sheaths after the core had been extracted;</li>
+            <li>An optical fiber furcation transition assembly that accepts a variety of flat drop fiber optic cables;</li>
+            <li><a href="~/link.aspx?_id=A8D6DBB08D15403FB2E3BFAEAB1A95D2&_z=z">PoliMOD®</a>, a field-installable optical module with configurable cable attachment.</li>
+        </ol>
+        The Accessories division was the recipient of two patents:<br />
+        <ol>
+            <li>A Swage high voltage cable terminal which eliminates the deviation-prone additive method and expands upon a tried-and-true process from the transmission product line with the resultant profile and product finish being naturally Corona-free at high voltages, removing the need for tedious manual processing of the terminal.</li>
+            <li>Flat Drop Cable Tangent accessory that provides a means of suspending flat drop cables used in Fiber-to-the-Home applications.</li>
+        </ol>
+        The Test and Inspection division received a patent for an OTDR merging technique for traces captured by using different settings. This technique features a shorter laser pulse that can produce traces of more accurate location information, and a longer pulse that produces traces with less noise for a more reliable result.<br />
+        <br />
+        For more information about AFL, its products and services, visit <a href="http://www.aflglobal.com/">www.AFLglobal.com</a>.<br />
+         <br />
+        About AFL<br />
+        Founded in 1984, AFL is an international manufacturer providing end-to-end solutions to the energy, service provider, enterprise and industrial markets as well as several emerging markets. The company’s products are in use in over 130 countries and include fiber optic cable and hardware, transmission and substation accessories, outside plant equipment, connectivity, test and inspection equipment, fusion splicers and training. AFL also offers a wide variety of services supporting data center, enterprise, wireless and outside plant applications.<br />
+         <br />
+        Headquartered in Spartanburg, SC, AFL has operations in the U.S., Mexico, Canada, Europe, Asia and Australia, and is a wholly-owned subsidiary of Fujikura Ltd. of Japan. For more information, visit <a href="http://www.aflglobal.com/">www.AFLglobal.com</a>.<br />
+        <br />
+        Follow us on <a href="https://www.linkedin.com/company/afl-2">LinkedIn</a>, <a href="https://twitter.com/AFLglobal">Twitter</a>, and “like us” on <a href="https://www.facebook.com/AFLcorp">Facebook</a>. Review our <a href="https://www.aflglobal.com/AFL-Blog/">blog</a> or subscribe to our bi-monthly e-newsletter.<br />
+         <br />
+        Contact<br />
+        Corie Culp<br />
+        Public Relations Manager<br />
+        AFL<br />
+        864.433.5409<br />
+        <a href="mailto:Corie.Culp@AFLglobal.com">Corie.Culp@AFLglobal.com</a></div>
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: AFL Receives Seven New Patents
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\matt
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: Several associates received patents for developing new products and technologies within the cable and connectivity division, accessories, and test and inspection division.
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\matt
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: "associates, patents, patent, cable, connectivity, accessories, swage, Poli-MOD, test, inspection, OTDR"
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: AFL Receives Seven New Patents
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: AFL Receives Seven New Patents
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "60cee7cd-fbb4-4e7f-9217-23a25db44333"
+    - ID: "9dd4f0d9-c123-47a8-8cef-2c85cea172f6"
+      Hint: ContentImage
+      Value: |
+        <image mediaid="{FB19787A-A429-44F9-B4A1-113673F4C242}" />
+    - ID: "a6eaffd5-fc3e-41b4-93b3-f1721fcf2300"
+      Hint: ContentPublishedDate
+      Value: 20190127T183000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T100011Z

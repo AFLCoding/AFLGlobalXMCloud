@@ -1,0 +1,270 @@
+﻿---
+ID: "410a8bee-51e1-48e6-8736-e18090bbb019"
+Parent: "39ab7594-eea8-41d8-b8d5-5c325246339c"
+Template: "f36e821e-bb98-44dc-966d-e92a0e033cc7"
+Path: "/sitecore/content/AFL-Global/EMEA/Home/Company/Company Profile/NewsArchive/2016/AFL Australia Launches Infinity Fibre Distribution"
+SharedFields:
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{3A84BAC9-C1BD-4809-A12C-28EB44E25329}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{DAE7C21D-4D3B-4257-A95C-9104CD8AF409}"
+Languages:
+- Language: "de-DE"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "228f9517-e120-4014-b2c7-df0ac467a349"
+      Hint: ContentTitle
+      Value: AFL Australia Launches Infinity Fibre Distribution
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220111T080641Z
+    - ID: "3688d7df-2feb-43a4-ab8d-410e5f70a676"
+      Hint: ContentDescription
+      Value: |
+        Melbourne, VIC – <a href="/AU">AFL Australia</a> introduces the <a href="/au/Products/Fibre-Enclosure-Racks/Racks/IFDF-Infinity-Fibre-Distribution-Frame">Infinity Fibre Distribution Frame (IFDF)</a>, a high density optical interconnect solution suited for a range of communication environments including high density fibre management in data centres, co-location and telecommunication environments.<br />
+         <br />
+        The IFDF is a left and right sectioned mounting frame that is populated with modular swing out sub frames as required. This allows both inbound and outbound cables to be separated. Each section will accommodate 13 sub frames totalling 26 when both a fully populated. A range of modules are available to suit fusion splicing, patching, passive device module patching and MTP patching.<br />
+         <br />
+        Based on a maximum module capacity of 24 fibres, the IFDF can present 3120 spliced terminations making it one of the highest density frames on the market.<br />
+         <br />
+        AFL’s Senior Product Manager Michael Gauci commented, “Comprising of a left and right handed sectioned mounting frame provides excellent termination and management of incoming and outgoing cables.”<br />
+         <br />
+        Features include:
+        <ul>
+            <li>Individual modules that allow access without adjacent circuit disruption</li>
+            <li>Top and bottom cable entry suitable for both overhead and under floor cabling</li>
+            <li>Central storage bay that accommodates patchcord routing and storage</li>
+            <li>All front access to suit wall mounting</li>
+            <li>Large capacity lower cable raceway for inter-rack patching</li>
+            <li>Fixed length patchcords that suit all patching requirements, minimising inventory</li>
+        </ul>
+        About AFL<br />
+        AFL designs, manufactures and integrates fibre optic and copper communication solutions. We provide industry-leading products and services to an extensive range of markets. Founded in 1984, AFL is proud to offer engineering expertise, exceptional products and reliable services that help our customers improve their critical fibre optic and communication infrastructures. AFL has operations in the U.S., Mexico, Canada, Europe, Asia, Australia and New Zealand. The company is headquartered in Spartanburg, South Carolina and is a wholly-owned subsidiary of Fujikura Ltd. of Japan.
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: AFL Australia Launches Infinity Fibre Distribution
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\matt
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\tanishka
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: AFL Australia Launches Infinity Fibre Distribution
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: AFL Australia Launches Infinity Fibre Distribution
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "16dccaf6-c8fa-409a-983c-ebb69dbcf7f7"
+    - ID: "a6eaffd5-fc3e-41b4-93b3-f1721fcf2300"
+      Hint: ContentPublishedDate
+      Value: 20160327T183000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T100620Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "228f9517-e120-4014-b2c7-df0ac467a349"
+      Hint: ContentTitle
+      Value: AFL Australia Launches Infinity Fibre Distribution
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220111T080641Z
+    - ID: "3688d7df-2feb-43a4-ab8d-410e5f70a676"
+      Hint: ContentDescription
+      Value: |
+        Melbourne, VIC &ndash;&nbsp;<a href="/AU">AFL Australia</a>&nbsp;introduces the&nbsp;<a href="/au/Products/Fibre-Enclosure-Racks/Racks/IFDF-Infinity-Fibre-Distribution-Frame">Infinity Fibre Distribution Frame (IFDF)</a>, a high density optical interconnect solution suited for a range of communication environments including high density fibre management in data centres, co-location and telecommunication environments.<br />
+        &nbsp;<br />
+        The IFDF is a left and right sectioned mounting frame that is populated with modular swing out sub frames as required. This allows both inbound and outbound cables to be separated. Each section will accommodate 13 sub frames totalling 26 when both a fully populated. A range of modules are available to suit fusion splicing, patching, passive device module patching and MTP patching.<br />
+        &nbsp;<br />
+        Based on a maximum module capacity of 24 fibres, the IFDF can present 3120 spliced terminations making it one of the highest density frames on the market.<br />
+        &nbsp;<br />
+        AFL&rsquo;s Senior Product Manager Michael Gauci commented, &ldquo;Comprising of a left and right handed sectioned mounting frame provides excellent termination and management of incoming and outgoing cables.&rdquo;<br />
+        &nbsp;<br />
+        Features include:
+        <ul>
+            <li>Individual modules that allow access without adjacent circuit disruption</li>
+            <li>Top and bottom cable entry suitable for both overhead and under floor cabling</li>
+            <li>Central storage bay that accommodates patchcord routing and storage</li>
+            <li>All front access to suit wall mounting</li>
+            <li>Large capacity lower cable raceway for inter-rack patching</li>
+            <li>Fixed length patchcords that suit all patching requirements, minimising inventory</li>
+        </ul>
+        About AFL<br />
+        AFL designs, manufactures and integrates fibre optic and copper communication solutions. We provide industry-leading products and services to an extensive range of markets. Founded in 1984, AFL is proud to offer engineering expertise, exceptional products and reliable services that help our customers improve their critical fibre optic and communication infrastructures. AFL has operations in the U.S., Mexico, Canada, Europe, Asia, Australia and New Zealand. The company is headquartered in Spartanburg, South Carolina and is a wholly-owned subsidiary of Fujikura Ltd. of Japan.
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: AFL Australia Launches Infinity Fibre Distribution
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\tanishka
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\tanishka
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: AFL Australia Launches Infinity Fibre Distribution
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: AFL Australia Launches Infinity Fibre Distribution
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "193dfa25-3ba8-4646-b686-e8785fd16476"
+    - ID: "a6eaffd5-fc3e-41b4-93b3-f1721fcf2300"
+      Hint: ContentPublishedDate
+      Value: 20160327T183000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T100619Z
+- Language: "es-ES"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "228f9517-e120-4014-b2c7-df0ac467a349"
+      Hint: ContentTitle
+      Value: AFL Australia Launches Infinity Fibre Distribution
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220111T080641Z
+    - ID: "3688d7df-2feb-43a4-ab8d-410e5f70a676"
+      Hint: ContentDescription
+      Value: |
+        Melbourne, VIC – <a href="/AU">AFL Australia</a> introduces the <a href="/au/Products/Fibre-Enclosure-Racks/Racks/IFDF-Infinity-Fibre-Distribution-Frame">Infinity Fibre Distribution Frame (IFDF)</a>, a high density optical interconnect solution suited for a range of communication environments including high density fibre management in data centres, co-location and telecommunication environments.<br />
+         <br />
+        The IFDF is a left and right sectioned mounting frame that is populated with modular swing out sub frames as required. This allows both inbound and outbound cables to be separated. Each section will accommodate 13 sub frames totalling 26 when both a fully populated. A range of modules are available to suit fusion splicing, patching, passive device module patching and MTP patching.<br />
+         <br />
+        Based on a maximum module capacity of 24 fibres, the IFDF can present 3120 spliced terminations making it one of the highest density frames on the market.<br />
+         <br />
+        AFL’s Senior Product Manager Michael Gauci commented, “Comprising of a left and right handed sectioned mounting frame provides excellent termination and management of incoming and outgoing cables.”<br />
+         <br />
+        Features include:
+        <ul>
+            <li>Individual modules that allow access without adjacent circuit disruption</li>
+            <li>Top and bottom cable entry suitable for both overhead and under floor cabling</li>
+            <li>Central storage bay that accommodates patchcord routing and storage</li>
+            <li>All front access to suit wall mounting</li>
+            <li>Large capacity lower cable raceway for inter-rack patching</li>
+            <li>Fixed length patchcords that suit all patching requirements, minimising inventory</li>
+        </ul>
+        About AFL<br />
+        AFL designs, manufactures and integrates fibre optic and copper communication solutions. We provide industry-leading products and services to an extensive range of markets. Founded in 1984, AFL is proud to offer engineering expertise, exceptional products and reliable services that help our customers improve their critical fibre optic and communication infrastructures. AFL has operations in the U.S., Mexico, Canada, Europe, Asia, Australia and New Zealand. The company is headquartered in Spartanburg, South Carolina and is a wholly-owned subsidiary of Fujikura Ltd. of Japan.
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: AFL Australia Launches Infinity Fibre Distribution
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\matt
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\tanishka
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: AFL Australia Launches Infinity Fibre Distribution
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: AFL Australia Launches Infinity Fibre Distribution
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d8f01b53-4e0b-4a5d-888d-d6980c09d700"
+    - ID: "a6eaffd5-fc3e-41b4-93b3-f1721fcf2300"
+      Hint: ContentPublishedDate
+      Value: 20160327T183000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T100620Z
+- Language: "fr-FR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "228f9517-e120-4014-b2c7-df0ac467a349"
+      Hint: ContentTitle
+      Value: AFL Australia Launches Infinity Fibre Distribution
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220111T080641Z
+    - ID: "3688d7df-2feb-43a4-ab8d-410e5f70a676"
+      Hint: ContentDescription
+      Value: |
+        Melbourne, VIC – <a href="/AU">AFL Australia</a> introduces the <a href="/au/Products/Fibre-Enclosure-Racks/Racks/IFDF-Infinity-Fibre-Distribution-Frame">Infinity Fibre Distribution Frame (IFDF)</a>, a high density optical interconnect solution suited for a range of communication environments including high density fibre management in data centres, co-location and telecommunication environments.<br />
+         <br />
+        The IFDF is a left and right sectioned mounting frame that is populated with modular swing out sub frames as required. This allows both inbound and outbound cables to be separated. Each section will accommodate 13 sub frames totalling 26 when both a fully populated. A range of modules are available to suit fusion splicing, patching, passive device module patching and MTP patching.<br />
+         <br />
+        Based on a maximum module capacity of 24 fibres, the IFDF can present 3120 spliced terminations making it one of the highest density frames on the market.<br />
+         <br />
+        AFL’s Senior Product Manager Michael Gauci commented, “Comprising of a left and right handed sectioned mounting frame provides excellent termination and management of incoming and outgoing cables.”<br />
+         <br />
+        Features include:
+        <ul>
+            <li>Individual modules that allow access without adjacent circuit disruption</li>
+            <li>Top and bottom cable entry suitable for both overhead and under floor cabling</li>
+            <li>Central storage bay that accommodates patchcord routing and storage</li>
+            <li>All front access to suit wall mounting</li>
+            <li>Large capacity lower cable raceway for inter-rack patching</li>
+            <li>Fixed length patchcords that suit all patching requirements, minimising inventory</li>
+        </ul>
+        About AFL<br />
+        AFL designs, manufactures and integrates fibre optic and copper communication solutions. We provide industry-leading products and services to an extensive range of markets. Founded in 1984, AFL is proud to offer engineering expertise, exceptional products and reliable services that help our customers improve their critical fibre optic and communication infrastructures. AFL has operations in the U.S., Mexico, Canada, Europe, Asia, Australia and New Zealand. The company is headquartered in Spartanburg, South Carolina and is a wholly-owned subsidiary of Fujikura Ltd. of Japan.
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: AFL Australia Launches Infinity Fibre Distribution
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\matt
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\tanishka
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: AFL Australia Launches Infinity Fibre Distribution
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: AFL Australia Launches Infinity Fibre Distribution
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "61a91d03-b713-41d4-9e2f-5f027584f993"
+    - ID: "a6eaffd5-fc3e-41b4-93b3-f1721fcf2300"
+      Hint: ContentPublishedDate
+      Value: 20160327T183000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T100620Z

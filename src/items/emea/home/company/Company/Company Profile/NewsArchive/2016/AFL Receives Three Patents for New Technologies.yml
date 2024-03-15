@@ -1,0 +1,278 @@
+﻿---
+ID: "f2155977-7916-442b-afdb-74875993c4a8"
+Parent: "39ab7594-eea8-41d8-b8d5-5c325246339c"
+Template: "f36e821e-bb98-44dc-966d-e92a0e033cc7"
+Path: "/sitecore/content/AFL-Global/EMEA/Home/Company/Company Profile/NewsArchive/2016/AFL Receives Three Patents for New Technologies"
+SharedFields:
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{3A84BAC9-C1BD-4809-A12C-28EB44E25329}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{DAE7C21D-4D3B-4257-A95C-9104CD8AF409}"
+Languages:
+- Language: "de-DE"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "228f9517-e120-4014-b2c7-df0ac467a349"
+      Hint: ContentTitle
+      Value: AFL Receives Three Patents for New Technologies
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220111T074058Z
+    - ID: "3688d7df-2feb-43a4-ab8d-410e5f70a676"
+      Hint: ContentDescription
+      Value: |
+        Spartanburg, SC – <a href="/Home">AFL</a>, a leading global fiber optics manufacturer and service provider, has been awarded three patents for new technologies used in the enhancement of AFL’s <a href="https://www.aflglobal.com/Products/Fiber-Inside-Plant">Optical Connectivity and Apparatus (OCA) products</a>.<br />
+         <br />
+        Ted Lichoulas, engineering manager, Roger Vaughn, product technology manager, and Wink Courchaine, senior engineer received a patent for an Optical Fiber Event Sensor that allows continuous monitoring of network assets such as fiber distribution cabinets. The sensor creates an event by inducing a set amount of attenuation when compressed or released depending on the application, as in opening and closing a door. A single fiber is looped through all of the sensors in series so that multiple assets can be monitored. An optical monitoring device (OTDR) connected to the fiber then scans for these attenuation events and alerts an operator when and where they occur.<br />
+        <br />
+        Rich Cubala, OSP product specialist and Craig Henderson, regional sales manager, secured a patent for a splice tray rail system. Responding to market demand for better organization of splice trays, the team implemented a rail system that allows for easier access. The trays are attached to a rail connector plate that allows the splice trays to be moved easily from the stack and over the rails to access an individual tray without disturbing other trays and splices.  <br />
+        <br />
+        Kheng Seng, director of supply chain for OCA, received a patent for a secured fiber optic connecting system and method using offset fiber position in a single-fiber connector. The combination of the fiber’s offset distance from the ferrule’s longitudinal center axis and its angular offset relative to a key on the connector housing provides a unique position achieving secured mating for a pair of connectors.<br />
+        <br />
+        For additional information about AFL, its products and services, visit <a href="http://qa.aflglobalsc/">www.AFLglobal.com</a>.<br />
+         <br />
+        About AFL<br />
+        AFL provides industry-leading products and services to the electric utility, broadband, communications, enterprise and OEM markets as well as the emerging markets of oil and gas, mining, nuclear, avionics, renewables and transportation. The company’s diverse product portfolio includes fiber optic cable, transmission and substation accessories, outside plant equipment, connectors, fusion splicers, test equipment and training. AFL’s service portfolio includes market-leading positions with the foremost communications companies supporting OEM, outside plant, enterprise and wireless areas.<br />
+        <br />
+        Founded in 1984, AFL is proud to offer engineering expertise, exceptional products and reliable service that help our customers improve their critical and electrical infrastructure. AFL has operations in the U.S., Mexico, Canada, Europe, Asia and Australia. The company is headquartered in Spartanburg, SC and is a wholly-owned subsidiary of Fujikura Ltd. of Japan. For more information, visit <a href="http://qa.aflglobalsc/">www.AFLglobal.com</a>. <br />
+        <br />
+        Contact<br />
+        Corie Culp<br />
+        PR Manager<br />
+        AFL<br />
+        864.433.5409<br />
+        <a href="mailto:Corie.Culp@AFLglobal.com">Corie.Culp@AFLglobal.com</a>
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: AFL Receives Three Patents for New Technologies
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\matt
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\tanishka
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: AFL Receives Three Patents for New Technologies
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: AFL Receives Three Patents for New Technologies
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f28747ee-60ca-419c-8b82-6ff712102bf5"
+    - ID: "a6eaffd5-fc3e-41b4-93b3-f1721fcf2300"
+      Hint: ContentPublishedDate
+      Value: 20160124T183000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T100649Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "228f9517-e120-4014-b2c7-df0ac467a349"
+      Hint: ContentTitle
+      Value: AFL Receives Three Patents for New Technologies
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220111T074058Z
+    - ID: "3688d7df-2feb-43a4-ab8d-410e5f70a676"
+      Hint: ContentDescription
+      Value: |
+        Spartanburg, SC &ndash;&nbsp;<a href="/Home">AFL</a>, a leading global fiber optics manufacturer and service provider,&nbsp;has been awarded three patents for new technologies used in the enhancement of AFL&rsquo;s&nbsp;<a href="https://www.aflglobal.com/Products/Fiber-Inside-Plant">Optical Connectivity and Apparatus (OCA) products</a>.<br />
+        &nbsp;<br />
+        Ted Lichoulas, engineering manager, Roger Vaughn, product technology manager, and Wink Courchaine, senior engineer received a patent for an Optical Fiber Event Sensor that allows continuous monitoring of network assets such as fiber distribution cabinets.&nbsp;The sensor creates an event by inducing a set amount of attenuation when compressed or released depending on the application, as in opening and closing a door. A single fiber is looped through all of the sensors in series so that multiple assets can be monitored.&nbsp;An optical monitoring device (OTDR) connected to the fiber then scans for these attenuation events and alerts an operator when and where they occur.<br />
+        <br />
+        Rich Cubala, OSP product specialist and Craig Henderson, regional sales manager, secured a patent for a splice tray rail system. Responding to market demand for better organization of splice trays, the team implemented a rail system that allows for easier access. The trays are attached to a rail connector plate that allows the splice trays to be moved easily from the stack and over the rails to access an individual tray without disturbing other trays and splices. &nbsp;<br />
+        <br />
+        Kheng Seng, director of supply chain for OCA, received a patent for a secured fiber optic connecting system and method using offset fiber position in a single-fiber connector. The combination of the fiber&rsquo;s offset distance from the ferrule&rsquo;s longitudinal center axis and its angular offset relative to a key on the connector housing provides a unique position achieving secured mating for a pair of connectors.<br />
+        <br />
+        For additional information about AFL, its products and services, visit&nbsp;<a href="http://qa.aflglobalsc/">www.AFLglobal.com</a>.<br />
+        &nbsp;<br />
+        About AFL<br />
+        AFL provides industry-leading products and services to the electric utility, broadband, communications, enterprise and OEM markets as well as the emerging markets of oil and gas, mining, nuclear, avionics, renewables and transportation. The company&rsquo;s diverse product portfolio includes fiber optic cable, transmission and substation accessories, outside plant equipment, connectors, fusion splicers, test equipment and training. AFL&rsquo;s service portfolio includes market-leading positions with the foremost communications companies supporting OEM, outside plant, enterprise and wireless areas.<br />
+        <br />
+        Founded in 1984, AFL is proud to offer engineering expertise, exceptional products and reliable service that help our customers improve their critical and electrical infrastructure. AFL has operations in the U.S., Mexico, Canada, Europe, Asia and Australia. The company is headquartered in Spartanburg, SC and is a wholly-owned subsidiary of Fujikura Ltd. of Japan. For more information, visit&nbsp;<a href="http://qa.aflglobalsc/">www.AFLglobal.com</a>.&nbsp;<br />
+        <br />
+        Contact<br />
+        Corie Culp<br />
+        PR Manager<br />
+        AFL<br />
+        864.433.5409<br />
+        <a href="mailto:Corie.Culp@AFLglobal.com">Corie.Culp@AFLglobal.com</a>
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: AFL Receives Three Patents for New Technologies
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\tanishka
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\tanishka
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: AFL Receives Three Patents for New Technologies
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: AFL Receives Three Patents for New Technologies
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "47ec1a54-62e6-4183-a938-9b6b7ab40ae9"
+    - ID: "a6eaffd5-fc3e-41b4-93b3-f1721fcf2300"
+      Hint: ContentPublishedDate
+      Value: 20160124T183000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T100648Z
+- Language: "es-ES"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "228f9517-e120-4014-b2c7-df0ac467a349"
+      Hint: ContentTitle
+      Value: AFL Receives Three Patents for New Technologies
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220111T074058Z
+    - ID: "3688d7df-2feb-43a4-ab8d-410e5f70a676"
+      Hint: ContentDescription
+      Value: |
+        Spartanburg, SC – <a href="/Home">AFL</a>, a leading global fiber optics manufacturer and service provider, has been awarded three patents for new technologies used in the enhancement of AFL’s <a href="https://www.aflglobal.com/Products/Fiber-Inside-Plant">Optical Connectivity and Apparatus (OCA) products</a>.<br />
+         <br />
+        Ted Lichoulas, engineering manager, Roger Vaughn, product technology manager, and Wink Courchaine, senior engineer received a patent for an Optical Fiber Event Sensor that allows continuous monitoring of network assets such as fiber distribution cabinets. The sensor creates an event by inducing a set amount of attenuation when compressed or released depending on the application, as in opening and closing a door. A single fiber is looped through all of the sensors in series so that multiple assets can be monitored. An optical monitoring device (OTDR) connected to the fiber then scans for these attenuation events and alerts an operator when and where they occur.<br />
+        <br />
+        Rich Cubala, OSP product specialist and Craig Henderson, regional sales manager, secured a patent for a splice tray rail system. Responding to market demand for better organization of splice trays, the team implemented a rail system that allows for easier access. The trays are attached to a rail connector plate that allows the splice trays to be moved easily from the stack and over the rails to access an individual tray without disturbing other trays and splices.  <br />
+        <br />
+        Kheng Seng, director of supply chain for OCA, received a patent for a secured fiber optic connecting system and method using offset fiber position in a single-fiber connector. The combination of the fiber’s offset distance from the ferrule’s longitudinal center axis and its angular offset relative to a key on the connector housing provides a unique position achieving secured mating for a pair of connectors.<br />
+        <br />
+        For additional information about AFL, its products and services, visit <a href="http://qa.aflglobalsc/">www.AFLglobal.com</a>.<br />
+         <br />
+        About AFL<br />
+        AFL provides industry-leading products and services to the electric utility, broadband, communications, enterprise and OEM markets as well as the emerging markets of oil and gas, mining, nuclear, avionics, renewables and transportation. The company’s diverse product portfolio includes fiber optic cable, transmission and substation accessories, outside plant equipment, connectors, fusion splicers, test equipment and training. AFL’s service portfolio includes market-leading positions with the foremost communications companies supporting OEM, outside plant, enterprise and wireless areas.<br />
+        <br />
+        Founded in 1984, AFL is proud to offer engineering expertise, exceptional products and reliable service that help our customers improve their critical and electrical infrastructure. AFL has operations in the U.S., Mexico, Canada, Europe, Asia and Australia. The company is headquartered in Spartanburg, SC and is a wholly-owned subsidiary of Fujikura Ltd. of Japan. For more information, visit <a href="http://qa.aflglobalsc/">www.AFLglobal.com</a>. <br />
+        <br />
+        Contact<br />
+        Corie Culp<br />
+        PR Manager<br />
+        AFL<br />
+        864.433.5409<br />
+        <a href="mailto:Corie.Culp@AFLglobal.com">Corie.Culp@AFLglobal.com</a>
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: AFL Receives Three Patents for New Technologies
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\matt
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\tanishka
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: AFL Receives Three Patents for New Technologies
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: AFL Receives Three Patents for New Technologies
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "cb98f44c-6f88-4bf0-b812-828fa591f33a"
+    - ID: "a6eaffd5-fc3e-41b4-93b3-f1721fcf2300"
+      Hint: ContentPublishedDate
+      Value: 20160124T183000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T100649Z
+- Language: "fr-FR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "228f9517-e120-4014-b2c7-df0ac467a349"
+      Hint: ContentTitle
+      Value: AFL Receives Three Patents for New Technologies
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220111T074058Z
+    - ID: "3688d7df-2feb-43a4-ab8d-410e5f70a676"
+      Hint: ContentDescription
+      Value: |
+        Spartanburg, SC – <a href="/Home">AFL</a>, a leading global fiber optics manufacturer and service provider, has been awarded three patents for new technologies used in the enhancement of AFL’s <a href="https://www.aflglobal.com/Products/Fiber-Inside-Plant">Optical Connectivity and Apparatus (OCA) products</a>.<br />
+         <br />
+        Ted Lichoulas, engineering manager, Roger Vaughn, product technology manager, and Wink Courchaine, senior engineer received a patent for an Optical Fiber Event Sensor that allows continuous monitoring of network assets such as fiber distribution cabinets. The sensor creates an event by inducing a set amount of attenuation when compressed or released depending on the application, as in opening and closing a door. A single fiber is looped through all of the sensors in series so that multiple assets can be monitored. An optical monitoring device (OTDR) connected to the fiber then scans for these attenuation events and alerts an operator when and where they occur.<br />
+        <br />
+        Rich Cubala, OSP product specialist and Craig Henderson, regional sales manager, secured a patent for a splice tray rail system. Responding to market demand for better organization of splice trays, the team implemented a rail system that allows for easier access. The trays are attached to a rail connector plate that allows the splice trays to be moved easily from the stack and over the rails to access an individual tray without disturbing other trays and splices.  <br />
+        <br />
+        Kheng Seng, director of supply chain for OCA, received a patent for a secured fiber optic connecting system and method using offset fiber position in a single-fiber connector. The combination of the fiber’s offset distance from the ferrule’s longitudinal center axis and its angular offset relative to a key on the connector housing provides a unique position achieving secured mating for a pair of connectors.<br />
+        <br />
+        For additional information about AFL, its products and services, visit <a href="http://qa.aflglobalsc/">www.AFLglobal.com</a>.<br />
+         <br />
+        About AFL<br />
+        AFL provides industry-leading products and services to the electric utility, broadband, communications, enterprise and OEM markets as well as the emerging markets of oil and gas, mining, nuclear, avionics, renewables and transportation. The company’s diverse product portfolio includes fiber optic cable, transmission and substation accessories, outside plant equipment, connectors, fusion splicers, test equipment and training. AFL’s service portfolio includes market-leading positions with the foremost communications companies supporting OEM, outside plant, enterprise and wireless areas.<br />
+        <br />
+        Founded in 1984, AFL is proud to offer engineering expertise, exceptional products and reliable service that help our customers improve their critical and electrical infrastructure. AFL has operations in the U.S., Mexico, Canada, Europe, Asia and Australia. The company is headquartered in Spartanburg, SC and is a wholly-owned subsidiary of Fujikura Ltd. of Japan. For more information, visit <a href="http://qa.aflglobalsc/">www.AFLglobal.com</a>. <br />
+        <br />
+        Contact<br />
+        Corie Culp<br />
+        PR Manager<br />
+        AFL<br />
+        864.433.5409<br />
+        <a href="mailto:Corie.Culp@AFLglobal.com">Corie.Culp@AFLglobal.com</a>
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: AFL Receives Three Patents for New Technologies
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\matt
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\tanishka
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: AFL Receives Three Patents for New Technologies
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: AFL Receives Three Patents for New Technologies
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f1f1c10c-5f4e-413f-8fcc-768079063d1a"
+    - ID: "a6eaffd5-fc3e-41b4-93b3-f1721fcf2300"
+      Hint: ContentPublishedDate
+      Value: 20160124T183000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T100649Z

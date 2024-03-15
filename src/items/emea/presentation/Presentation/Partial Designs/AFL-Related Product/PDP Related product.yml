@@ -1,0 +1,227 @@
+﻿---
+ID: "0dc55c29-3582-4f33-8f88-9d0a1524e26f"
+Parent: "9def03f2-1e7e-40a8-b15c-312649af15a9"
+Template: "8136f903-5eea-4289-9b44-67b469a969ea"
+Path: "/sitecore/content/AFL-Global/EMEA/Presentation/Partial Designs/AFL-Related Product/PDP Related product"
+SharedFields:
+- ID: "55faae90-3bba-4f7f-96fe-13c3f40055ff"
+  Hint: Signature
+  Value: "related-product"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{DAE7C21D-4D3B-4257-A95C-9104CD8AF409}"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{AB8FA7EA-E588-4D9D-82FC-B596EB776DC0}"
+          s:ds="query:self::"
+          s:id="{020A92BA-5D27-4E60-8E8A-EFDDC535ACBD}"
+          s:par="SourceType&amp;Reset Caching Options&amp;ListSignature&amp;PageSize&amp;Offset&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames=%7B2EFBA964-6B64-4E7D-A753-326BA4F7801F%7D&amp;Styles=%7B3913A839-8657-4572-AA31-5CD22ACE8252%7D%7C%7B03E20E52-F61B-4D2A-8F46-23D53754E26F%7D%7C%7B31CF3714-16AA-4AD6-B6B8-FF07CF3EAE23%7D%7C%7B97AA508A-1055-49DC-AF11-AB8153C3919F%7D%7C%7B7F53508C-4DE3-40DD-AEE1-143E71530101%7D&amp;RenderingIdentifier&amp;DynamicPlaceholderId=1"
+          s:ph="main"
+          s:ccb="Clear on publish" />
+      </d>
+    </r>
+Languages:
+- Language: "de-DE"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{AB8FA7EA-E588-4D9D-82FC-B596EB776DC0}"
+              s:ds="query:self::"
+              s:id="{020A92BA-5D27-4E60-8E8A-EFDDC535ACBD}"
+              s:par="SourceType&amp;Reset Caching Options&amp;ListSignature&amp;PageSize&amp;Offset&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames=%7B2EFBA964-6B64-4E7D-A753-326BA4F7801F%7D&amp;Styles=%7B3913A839-8657-4572-AA31-5CD22ACE8252%7D%7C%7B03E20E52-F61B-4D2A-8F46-23D53754E26F%7D%7C%7B31CF3714-16AA-4AD6-B6B8-FF07CF3EAE23%7D%7C%7B97AA508A-1055-49DC-AF11-AB8153C3919F%7D%7C%7B7F53508C-4DE3-40DD-AEE1-143E71530101%7D&amp;RenderingIdentifier&amp;DynamicPlaceholderId=1"
+              s:ph="main"
+              s:ccb="Clear on publish" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211125T144206Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d9ccb9df-9d73-48ea-a066-7b4416d14a35"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: "20240229T102218:638447989389303996Z"
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211125T144206Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "dd701033-2fa9-4a52-a348-01d82f5c2ce3"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240229T102219Z
+- Language: "es-ES"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{AB8FA7EA-E588-4D9D-82FC-B596EB776DC0}"
+              s:ds="query:self::"
+              s:id="{020A92BA-5D27-4E60-8E8A-EFDDC535ACBD}"
+              s:par="SourceType&amp;Reset Caching Options&amp;ListSignature&amp;PageSize&amp;Offset&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames=%7B2EFBA964-6B64-4E7D-A753-326BA4F7801F%7D&amp;Styles=%7B3913A839-8657-4572-AA31-5CD22ACE8252%7D%7C%7B03E20E52-F61B-4D2A-8F46-23D53754E26F%7D%7C%7B31CF3714-16AA-4AD6-B6B8-FF07CF3EAE23%7D%7C%7B97AA508A-1055-49DC-AF11-AB8153C3919F%7D%7C%7B7F53508C-4DE3-40DD-AEE1-143E71530101%7D&amp;RenderingIdentifier&amp;DynamicPlaceholderId=1"
+              s:ph="main"
+              s:ccb="Clear on publish" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211125T144206Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "71979cb2-c294-446f-95f3-163d4a109c10"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: "20240229T102219:638447989392866427Z"
+  - Version: 2
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{AB8FA7EA-E588-4D9D-82FC-B596EB776DC0}"
+              s:ds="query:self::"
+              s:id="{020A92BA-5D27-4E60-8E8A-EFDDC535ACBD}"
+              s:par="SourceType&amp;Reset Caching Options&amp;ListSignature&amp;PageSize&amp;Offset&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames=%7B2EFBA964-6B64-4E7D-A753-326BA4F7801F%7D&amp;Styles=%7B3913A839-8657-4572-AA31-5CD22ACE8252%7D%7C%7B03E20E52-F61B-4D2A-8F46-23D53754E26F%7D%7C%7B31CF3714-16AA-4AD6-B6B8-FF07CF3EAE23%7D%7C%7B97AA508A-1055-49DC-AF11-AB8153C3919F%7D%7C%7B7F53508C-4DE3-40DD-AEE1-143E71530101%7D&amp;RenderingIdentifier&amp;DynamicPlaceholderId=1"
+              s:ph="main"
+              s:ccb="Clear on publish" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211125T144206Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "369624f6-c4d8-4a98-9990-69a0cee5aadd"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: "20240229T102219:638447989394774476Z"
+- Language: "fr-FR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{AB8FA7EA-E588-4D9D-82FC-B596EB776DC0}"
+              s:ds="query:self::"
+              s:id="{020A92BA-5D27-4E60-8E8A-EFDDC535ACBD}"
+              s:par="SourceType&amp;Reset Caching Options&amp;ListSignature&amp;PageSize&amp;Offset&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames=%7B2EFBA964-6B64-4E7D-A753-326BA4F7801F%7D&amp;Styles=%7B3913A839-8657-4572-AA31-5CD22ACE8252%7D%7C%7B03E20E52-F61B-4D2A-8F46-23D53754E26F%7D%7C%7B31CF3714-16AA-4AD6-B6B8-FF07CF3EAE23%7D%7C%7B97AA508A-1055-49DC-AF11-AB8153C3919F%7D%7C%7B7F53508C-4DE3-40DD-AEE1-143E71530101%7D&amp;RenderingIdentifier&amp;DynamicPlaceholderId=1"
+              s:ph="main"
+              s:ccb="Clear on publish" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211125T144206Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9268cfd0-3c4f-4ce3-8220-40d588fae9c3"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: "20240229T102219:638447989396679009Z"

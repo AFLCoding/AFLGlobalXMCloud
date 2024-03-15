@@ -1,0 +1,263 @@
+﻿---
+ID: "11af3aa8-389e-4b0c-97ad-8fa76cb58f87"
+Parent: "0c2769f4-3306-4a56-a0e2-0ba5b9ba5fd7"
+Template: "bf61de11-b78f-48ea-aaa4-1d17f0d83824"
+Path: "/sitecore/content/AFL-Global/EMEA/Home/Resources/Product Related Materials/Frequently Asked Questions/Fiber Optic Cable"
+SharedFields:
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{9B9150CA-F788-45F7-B378-77F936EC878B}"
+Languages:
+- Language: "de-DE"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220125T091652Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Glasfaserkabel
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: "AFL Fiber Optic Cable - product frequently asked questions submitted by customers regarding AFL product lines."
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <h1>FAQ: Fiber Optic Cable</h1>
+        <p>Below are the FAQs submitted by customers regarding the Fiber Optic Cable product line.</p>
+        <p>Q: Does AFL stock any cable?<br />
+        A: Yes, AFL stocks several ADSS and Loose Tube (LT) cables in various fiber counts. On hand quantities are subject to change. To find out what we have available, please contact customer service.</p>
+        <p>Q: Which should I use -- OPGW or ADSS or SkyWrap?<br />
+        A: As usual, the answer depends on the scenario. If you are building a new transmission line and shield wires must be installed, the incremental cost of installing optical ground wire versus standard shield wire is minimal while the benefits of a fiber optic network for internal communications, grid management, etc. are profound. Similarly, if the shield wire on an existing line is aged and needs to be replaced, it is the perfect opportunity to install optical ground wire. ADSS is ideal for installation in distribution as well as transmission environments, even when live-line installations are required. SkyWrap is helically applied on ground wires or phase conductors, and is the ideal solution when access to overhead lines is problematic due to rugged terrain or outage limitations.</p>
+        <p>Q: Which of AFL's OPGW designs is the best?<br />
+        A: Depending on the application and customer preference, the answer to this question will vary. AFL will need some basic information to assess which design(s) are suitable for use in the environment and conditions for each customer. This process will help shorten the list of options. Then it becomes a matter of preference and cost as to which one is right for you.</p>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kushagra
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: Fiber Optic Cable AFL products frequently asked questions FAQ
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: Glasfaserkabel
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: Glasfaserkabel
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e8a9eb2f-5e08-44bc-9d97-728ffe2d1f37"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T095804Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220125T091652Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Fiber Optic Cable
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kushagra
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: "AFL Fiber Optic Cable - product frequently asked questions submitted by customers regarding AFL product lines."
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <h1>FAQ: Fiber Optic Cable</h1>
+        <p>Below are the FAQs submitted by customers regarding the Fiber Optic Cable product line.</p>
+        <p>Q: Does AFL stock any cable?<br />
+        A: Yes, AFL stocks several ADSS and Loose Tube (LT) cables in various fiber counts. On hand quantities are subject to change. To find out what we have available, please contact customer service.</p>
+        <p>Q: Which should I use -- OPGW or ADSS or SkyWrap?<br />
+        A: As usual, the answer depends on the scenario. If you are building a new transmission line and shield wires must be installed, the incremental cost of installing optical ground wire versus standard shield wire is minimal while the benefits of a fiber optic network for internal communications, grid management, etc. are profound. Similarly, if the shield wire on an existing line is aged and needs to be replaced, it is the perfect opportunity to install optical ground wire. ADSS is ideal for installation in distribution as well as transmission environments, even when live-line installations are required. SkyWrap is helically applied on ground wires or phase conductors, and is the ideal solution when access to overhead lines is problematic due to rugged terrain or outage limitations.</p>
+        <p>Q: Which of AFL's OPGW designs is the best?<br />
+        A: Depending on the application and customer preference, the answer to this question will vary. AFL will need some basic information to assess which design(s) are suitable for use in the environment and conditions for each customer. This process will help shorten the list of options. Then it becomes a matter of preference and cost as to which one is right for you.</p>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kushagra
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: Fiber Optic Cable AFL products frequently asked questions FAQ
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: Fiber Optic Cable
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: Fiber Optic Cable
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a5bdb8d6-e111-4565-ba14-7ca11572d92a"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T095804Z
+- Language: "es-ES"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220125T091652Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Fiber Optic Cable
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: "AFL Fiber Optic Cable - product frequently asked questions submitted by customers regarding AFL product lines."
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <h1>FAQ: Fiber Optic Cable</h1>
+        <p>Below are the FAQs submitted by customers regarding the Fiber Optic Cable product line.</p>
+        <p>Q: Does AFL stock any cable?<br />
+        A:&nbsp;Yes, AFL stocks several ADSS and Loose Tube (LT) cables in various fiber counts. On hand quantities are subject to change. To find out what we have available, please contact customer service.</p>
+        <p>Q: Which should I use -- OPGW or ADSS or SkyWrap?<br />
+        A:&nbsp;As usual, the answer depends on the scenario. If you are building a new transmission line and shield wires must be installed, the incremental cost of installing optical ground wire versus standard shield wire is minimal while the benefits of a fiber optic network for internal communications, grid management, etc. are profound. Similarly, if the shield wire on an existing line is aged and needs to be replaced, it is the perfect opportunity to install optical ground wire. ADSS is ideal for installation in distribution as well as transmission environments, even when live-line installations are required. SkyWrap is helically applied on ground wires or phase conductors, and is the ideal solution when access to overhead lines is problematic due to rugged terrain or outage limitations.</p>
+        <p>Q: Which of AFL's OPGW designs is the best?<br />
+        A:&nbsp;Depending on the application and customer preference, the answer to this question will vary. AFL will need some basic information to assess which design(s) are suitable for use in the environment and conditions for each customer. This process will help shorten the list of options. Then it becomes a matter of preference and cost as to which one is right for you.</p>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kushagra
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: Fiber Optic Cable AFL products frequently asked questions FAQ
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: Fiber Optic Cable
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "71ad6936-124b-4028-a793-c5f48fa3e928"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahesh
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220224T113737Z
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220125T091652Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Cable de fibra óptica
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: "AFL Fiber Optic Cable - product frequently asked questions submitted by customers regarding AFL product lines."
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <h1>FAQ: Fiber Optic Cable</h1>
+        <p>Below are the FAQs submitted by customers regarding the Fiber Optic Cable product line.</p>
+        <p>Q: Does AFL stock any cable?<br />
+        A: Yes, AFL stocks several ADSS and Loose Tube (LT) cables in various fiber counts. On hand quantities are subject to change. To find out what we have available, please contact customer service.</p>
+        <p>Q: Which should I use -- OPGW or ADSS or SkyWrap?<br />
+        A: As usual, the answer depends on the scenario. If you are building a new transmission line and shield wires must be installed, the incremental cost of installing optical ground wire versus standard shield wire is minimal while the benefits of a fiber optic network for internal communications, grid management, etc. are profound. Similarly, if the shield wire on an existing line is aged and needs to be replaced, it is the perfect opportunity to install optical ground wire. ADSS is ideal for installation in distribution as well as transmission environments, even when live-line installations are required. SkyWrap is helically applied on ground wires or phase conductors, and is the ideal solution when access to overhead lines is problematic due to rugged terrain or outage limitations.</p>
+        <p>Q: Which of AFL's OPGW designs is the best?<br />
+        A: Depending on the application and customer preference, the answer to this question will vary. AFL will need some basic information to assess which design(s) are suitable for use in the environment and conditions for each customer. This process will help shorten the list of options. Then it becomes a matter of preference and cost as to which one is right for you.</p>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kushagra
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: Fiber Optic Cable AFL products frequently asked questions FAQ
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: Cable de fibra óptica
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: Cable de fibra óptica
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "798e6ee7-2d43-4bb8-ba25-cd3d427ba303"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T095804Z
+- Language: "fr-FR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220125T091652Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Câble à fibre optique
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: "AFL Fiber Optic Cable - product frequently asked questions submitted by customers regarding AFL product lines."
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <h1>FAQ: Fiber Optic Cable</h1>
+        <p>Below are the FAQs submitted by customers regarding the Fiber Optic Cable product line.</p>
+        <p>Q: Does AFL stock any cable?<br />
+        A: Yes, AFL stocks several ADSS and Loose Tube (LT) cables in various fiber counts. On hand quantities are subject to change. To find out what we have available, please contact customer service.</p>
+        <p>Q: Which should I use -- OPGW or ADSS or SkyWrap?<br />
+        A: As usual, the answer depends on the scenario. If you are building a new transmission line and shield wires must be installed, the incremental cost of installing optical ground wire versus standard shield wire is minimal while the benefits of a fiber optic network for internal communications, grid management, etc. are profound. Similarly, if the shield wire on an existing line is aged and needs to be replaced, it is the perfect opportunity to install optical ground wire. ADSS is ideal for installation in distribution as well as transmission environments, even when live-line installations are required. SkyWrap is helically applied on ground wires or phase conductors, and is the ideal solution when access to overhead lines is problematic due to rugged terrain or outage limitations.</p>
+        <p>Q: Which of AFL's OPGW designs is the best?<br />
+        A: Depending on the application and customer preference, the answer to this question will vary. AFL will need some basic information to assess which design(s) are suitable for use in the environment and conditions for each customer. This process will help shorten the list of options. Then it becomes a matter of preference and cost as to which one is right for you.</p>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kushagra
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: Fiber Optic Cable AFL products frequently asked questions FAQ
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: Câble à fibre optique
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: Câble à fibre optique
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "17dc2d08-0104-43b1-b46d-ad6c655ebc7c"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T095804Z

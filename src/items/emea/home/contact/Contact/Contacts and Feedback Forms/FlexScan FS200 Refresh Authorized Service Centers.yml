@@ -1,0 +1,306 @@
+﻿---
+ID: "450e90b1-457a-4f50-a36d-7c3103ec5647"
+Parent: "083f22a9-bbf0-4336-960f-3ec2579384d0"
+Template: "bf61de11-b78f-48ea-aaa4-1d17f0d83824"
+Path: "/sitecore/content/AFL-Global/EMEA/Home/Contact/Contacts and Feedback Forms/FlexScan FS200 Refresh Authorized Service Centers"
+SharedFields:
+- ID: "1fbc6a49-6281-48ee-87e9-a3970b145adb"
+  Hint: NavigationFilter
+  Value: |
+    {E0A2A027-0932-4878-A7D6-0416D5263EFB}
+    {61BD64D6-809E-40AE-9297-2724A19329B3}
+    {500AE4C0-FA7B-463F-8149-EFFF7F044101}
+    {A0E7FF57-6994-4B09-AA21-104239628D5A}
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{9B9150CA-F788-45F7-B378-77F936EC878B}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{DAE7C21D-4D3B-4257-A95C-9104CD8AF409}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 800
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220613T163204Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{1A24FC12-1F8E-4214-921E-D355AA3E4DC5}"
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Test and Inspection Authorized Service Centers
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rafael
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <div class="container shadow">
+        <h1><strong> </strong></h1>
+        <h1><strong>Calibration and Repair Facilities</strong></h1>
+        <p>AFL has an authorized calibration/repair facility for AFL products in the USA, Europe, MENA and Asia Pacific. Please contact customer service for a
+        return authorization number prior to sending your AFL test equipment in for repair or calibration.</p>
+        <p>Fujikura Europe LTD is an Authorized European Repair and Calibration facility for AFL Test and Inspection products and should be contacted
+        directly for service.</p>
+        <p>Fujikura Asia LTD is an Authorized Asia Pacific Calibration facility for AFL Test and Inspection products and should be contacted directly for
+        product calibrations.</p>
+        <p> </p>
+        <div class="row">
+        <!--Start First row-->
+        <div class="col-md-4">
+        <!--Starting card 1 -->
+        <div class="row no-gutters">
+        <div class="col">
+        <div class="card-block px-2">
+        <span class="card-title"><strong>USA</strong></span><br />
+        AFL<br />
+        260 Parkway East<br />
+        Duncan, SC 29334<br />
+        Attn: Calibration and Repair<br />
+        (800)866-3602<br />
+        <a href="https://www.aflglobal.com">https://www.aflglobal.com</a>
+        </div>
+        </div>
+        </div>
+        </div>
+        <div class="col-md-4">
+        <!--Starting card 1 -->
+        <div class="row no-gutters">
+        <div class="col">
+        <div class="card-block px-2">
+        <span class="card-title"><strong>Europe</strong></span><br />
+        Fujikura Europe Ltd<br />
+        C51 Barwell Business Park<br />
+        Leatherhead Road<br />
+        Chessington, Surrey, KT9 2NY<br />
+        +44 208 240 2020<br />
+        <a href="mailto:service@fujikura.co.uk">service@fujikura.co.uk
+        </a><br />
+        <a href="https://www.fujikura.co.uk">https://www.fujikura.co.uk</a>
+        </div>
+        </div>
+        </div>
+        </div>
+        <!-- End card 2  -->
+        <div class="col-md-4">
+        <!--Starting card 1 -->
+        <div class="row no-gutters">
+        <div class="col">
+        <div class="card-block px-2">
+        <span class="card-title"><strong>Asia</strong></span><br />
+        Fujikura Asia Ltd<br />
+        438A Alexandra Road, #08-03 Blk A,<br />
+        Alexandra TechnoPark<br />
+        Singapore 119967<br />
+        +65 62711312<br />
+        <a href="mailto:calibration.fal@sg.fujikura.com">calibration.fal@sg.fujikura.com</a><br />
+        <a href="http://www.fujikura.com.sg">http://www.fujikura.com.sg</a>
+        </div>
+        </div>
+        </div>
+        </div>
+        </div>
+        <!--End row 1-->
+        <div class="row">
+        <!--Start row 2-->
+        <div class="col-md-4">
+        <!--Starting card 1 -->
+        <div class="row no-gutters">
+        <div class="col">
+        <div class="card-block px-2">
+        <span class="card-title"><strong>Canada</strong></span><br />
+        Simbol Test Systems Inc.<br />
+        616 Auguste-Mondoux<br />
+        Gatineau QC J9J3K3<br />
+        Canada<br />
+        (819)770-7771<br />
+        <a href="mailto:sales@simbol.ca">sales@simbol.ca</a><br />
+        <a href="https://simbol.ca">https://simbol.ca</a>
+        </div>
+        </div>
+        </div>
+        </div>
+        <!--End card 1-->
+        <div class="col-md-4">
+        <!--Starting card 1 -->
+        <div class="row no-gutters">
+        <div class="col">
+        <div class="card-block px-2">
+        <span class="card-title"><strong>Saudi Arabia</strong></span><br />
+        BrightWires<br />
+        Qaatan Plaza 1st Floor<br />
+        PO Box 56219<br />
+        Sulimaniya Riyadh 11554<br />
+        Saudi Arabia<br />
+        +966 11 2176265<br />
+        <a href="mailto:asim@brightwires.com.sa">asim@brightwires.com.sa</a><br />
+        <a href="http://www.brightwires.com.sa">http://www.brightwires.com.sa</a>
+        </div>
+        </div>
+        </div>
+        </div>
+        <!--End card 1-->
+        <div class="col-md-4">
+        <!--Starting card 1 -->
+        <div class="row no-gutters">
+        <div class="col">
+        <div class="card-block px-2">
+        <span class="card-title"><strong>Turkey</strong></span><br />
+        BS Telekom Ltd.<br />
+        Erenkoy Mah. Igdelidere Cad. 1494. Sok. No. 12<br />
+        38050 Melikgazi- Kayseri Turkey<br />
+        +90 352 222 82 03<br />
+        <a href="mailto:s.ugur@bstelekom.com">s.ugur@bstelekom.com</a><br />
+        <a href="http://www.bstelekom.com">http://www.bstelekom.com</a>
+        </div>
+        </div>
+        </div>
+        </div>
+        <!--End card 1-->
+        </div>
+        <div class="row">
+        <!--Start 3 row-->
+        <div class="col-md-4">
+        <!--Starting card 1 -->
+        <div class="row no-gutters">
+        <div class="col">
+        <div class="card-block px-2">
+        <span class="card-title"><strong>Poland</strong></span><br />
+        INTERLAB<br />
+        Kosiarzy 37/20 street<br />
+        02-953 Warsaw, Poland<br />
+        +48 840 8180<br />
+        <a href="mailto:service@interlab.p">service@interlab.p</a><br />
+        <a href="https://www.interlab.pl/service.html">https://www.interlab.pl/service.html</a>
+        </div>
+        </div>
+        </div>
+        </div>
+        <div class="col-md-4">
+        <!--Starting card 1 -->
+        <div class="row no-gutters">
+        <div class="col">
+        <div class="card-block px-2">
+        <span class="card-title"><strong>UAE</strong></span><br />
+        Lantern Fiber Electronic Instruments, Devices & Equipment Repairing Est.<br />
+        (Lantern Fiber)M29, New Al Safiya Building<br />
+        (Opposite of Abu hail Metro Station) <br />
+        Hor Al Anz, Dubai, U.A.E<br />
+        +97 158 110 29 03<br />
+        <a href="mailto:support@fiberequipmentrepair.com">support@fiberequipmentrepair.com</a><br />
+        <a href="www.fiberequipmentrepair.com">http://www.fiberequipmentrepair.com</a>
+        </div>
+        </div>
+        </div>
+        </div>
+        <!-- End card 2  -->
+        <div class="col-md-4">
+        <!--Starting card 1 -->
+        <div class="row no-gutters">
+        <div class="col">
+        <div class="card-block px-2">
+        <span class="card-title"><strong>Australia / New Zealand</strong></span><br />
+        AFL Technical Services<br />
+        93-97 Merrindale Drive<br />
+        Croydon, Victoria<br />
+        Australia, 3136<br />
+        +61 3 9737 4209<br />
+        <a href="mailto:austechservices@aflglobal.com">austechservices@aflglobal.com</a><br />
+        <a href="https://www.aflglobal.com">https://www.aflglobal.com</a>
+        </div>
+        </div>
+        </div>
+        </div>
+        </div>
+        <!--End row 3-->
+        <div class="row">
+        <!--Start 4 row-->
+        <div class="col-md-4">
+        <!--Starting card 1 -->
+        <div class="row no-gutters">
+        <div class="col">
+        <div class="card-block px-2">
+        <span class="card-title"><strong>Romania</strong></span><br />
+        TeleGrup<br />
+        8A, Episcopul Radu Street<br />
+        Sector 2, 020753<br />
+        Bucuresti, Romania<br />
+        +40 21 318 7431<br />
+        <a href="mailto:vanzari@tele-grup.ro">vanzari@tele-grup.ro</a><br />
+        <a href="www.tele-grup.ro">www.tele-grup.ro</a></div>
+        <p class="card-block px-2"> </p>
+        </div>
+        </div>
+        </div>
+        </div>
+        </div>
+        <br />
+        <style>
+            .container {
+            line-height: 20px;
+            }
+            .col-md-4 {
+            margin-bottom: 10px;
+            }
+            /* .btn a,
+            .btn-primary {
+            display: inline-block;
+            padding: 10px 40px 10px 25px;
+            border-radius: 12px;
+            line-height: 1;
+            background: #00c0f3;
+            border: 3px solid #fff;
+            color: #fff;
+            text-align: center;
+            text-transform: uppercase;
+            font-weight: 600;
+            letter-spacing: 1.2px;
+            text-decoration: none;
+            position: relative;
+            cursor: pointer;
+            padding-top: 12px !important;
+            padding-bottom: 8px !important;
+            vertical-align: middle;
+            align-items: center;
+            } */
+            strong {
+            margin-left: 3px;
+            font-weight: bold;
+            }
+            .shadow {
+            box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+            }
+            h1 {
+            font-size: 2em;
+            margin: 0.67em 0;
+            }
+        </style>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rafael
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: Test and Inspection Authorized Service Centers
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: Test and Inspection Authorized Service Centers
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ec4ba087-f927-4235-bab8-b0f922354678"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T095833Z

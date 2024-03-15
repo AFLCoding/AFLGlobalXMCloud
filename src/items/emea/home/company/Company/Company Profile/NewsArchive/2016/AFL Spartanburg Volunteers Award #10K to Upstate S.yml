@@ -1,0 +1,358 @@
+﻿---
+ID: "0c556b25-3f72-4ad3-b9fc-346661ef776b"
+Parent: "39ab7594-eea8-41d8-b8d5-5c325246339c"
+Template: "f36e821e-bb98-44dc-966d-e92a0e033cc7"
+Path: "/sitecore/content/AFL-Global/EMEA/Home/Company/Company Profile/NewsArchive/2016/AFL Spartanburg Volunteers Award $10K to Upstate S"
+SharedFields:
+- ID: "1fbc6a49-6281-48ee-87e9-a3970b145adb"
+  Hint: NavigationFilter
+  Value: |
+    {E0A2A027-0932-4878-A7D6-0416D5263EFB}
+    {61BD64D6-809E-40AE-9297-2724A19329B3}
+    {D063E9D1-C7B5-4B1E-B31E-69886C9C59F5}
+    {500AE4C0-FA7B-463F-8149-EFFF7F044101}
+    {A0E7FF57-6994-4B09-AA21-104239628D5A}
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{3A84BAC9-C1BD-4809-A12C-28EB44E25329}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{DAE7C21D-4D3B-4257-A95C-9104CD8AF409}"
+Languages:
+- Language: "de-DE"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{08472006-B215-4C02-A64F-67646DC26097}"
+              s:ds="{36ACE49A-FBFE-4891-AA4C-1DEA38DDCE08}"
+              s:id="{43C5D426-A6F6-4716-BEAF-F82602D2277B}"
+              s:par="Reset Caching Options&amp;GridParameters&amp;FieldNames=%7BE4BC3964-5235-4FE7-A863-76777C39CFAE%7D&amp;Styles&amp;RenderingIdentifier&amp;DynamicPlaceholderId=1"
+              s:ph="main"
+              s:ccb="Clear on publish" />
+          </d>
+        </r>
+    - ID: "228f9517-e120-4014-b2c7-df0ac467a349"
+      Hint: ContentTitle
+      Value: AFL Spartanburg Volunteers Award $10K to Upstate SC Organizations
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220111T104616Z
+    - ID: "3688d7df-2feb-43a4-ab8d-410e5f70a676"
+      Hint: ContentDescription
+      Value: |
+        <strong>AFL Spartanburg Volunteers Award $10K to Upstate SC Organizations</strong><br />
+        <br />
+        Spartanburg, SC – <a href=" /Home ">AFL</a> associates presented two grants totaling $10,000 to the <a href="http://www.hopecfc.org/">Hope Center for Children</a> and the <a href="http://www.begreatupstate.org/">Boys & Girls Clubs of Upstate SC</a>. Part of its <a href=" /Company/Community/Community-Initiatives ">Volunteers Choose program</a>, this initiative invites associates who have volunteered for a company-sponsored outreach event over the past year to vote for an organization of their choice to receive the annual grant.<br />
+        <br />
+        “AFL strives to make a difference in our community and it would not be possible without the participation from our associates,” said Corie Culp, community relations manager for AFL. “The impact of our grants on our community is extremely rewarding and motivates us year after year.”<br />
+        <br />
+        AFL awarded $7,500 to the Hope Center for Children, an organization dedicated to breaking the cycle of child abuse and building stable and healthy families. The Center intends to use this grant to support its Transitional Living Program which serves young adults in need of safe housing. The program implements the Teaching-Family model with live-in family teachers and full-time case management.<br />
+        <br />
+        AFL associates presented the Boys & Girls Clubs of Upstate SC with a $2,500 grant which will be used to help children define their natural strengths of communication through a public speaking/character development program. Boys & Girls Clubs are working to bring hope and opportunity to children in high poverty schools in the afterschool and summer hours.<br />
+        <br />
+        AFL has an extensive <a href=" /Company/Community ">Community Outreach Program</a> which includes grants, ACT (AFL Community Team) projects, conservation initiatives, sponsorships and more. To learn more about AFL and its community outreach, visit <a href=" /">www.AFLglobal.com</a>.<br />
+        <br />
+        <strong>About AFL</strong><br />
+        AFL provides industry-leading products and services to the electric utility, broadband, communications, factory, enterprise, wireless and transit rail markets as well as the emerging markets of oil and gas, mining, nuclear, avionics, medical, renewable and intelligent grid. The company’s diverse product portfolio includes fiber optic cable, transmission and substation accessories, outside plant equipment, connectors, fusion splicers, test equipment and training. AFL’s service portfolio includes market-leading positions with the foremost communications companies supporting OEM, outside plant, enterprise and wireless areas.<br />
+        <br />
+        Founded in 1984, AFL is proud to offer engineering expertise, exceptional products and reliable service that help our customers improve their critical and electrical infrastructure. AFL has operations in the U.S., Mexico, Europe, Asia and Australia. The company is headquartered in Spartanburg, SC and is a wholly-owned subsidiary of Fujikura Ltd. of Japan. For more information, visit <a href=" /">www.AFLglobal.com</a>.<br />
+        <br />
+        <strong>Contact</strong><br />
+        Corie Culp<br />
+        Community Relations Manager<br />
+        AFL<br />
+        864.433.5409<br />
+        <a href="mailto:Corie.Culp@AFLglobal.com">Corie.Culp@AFLglobal.com</a>
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: AFL Spartanburg Volunteers Award $10K to Upstate S
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\matt
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kushagra
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: AFL Spartanburg Volunteers Award $10K to Upstate S
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: AFL Spartanburg Volunteers Award $10K to Upstate S
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "839eb149-53d8-430d-a154-54176cda5bef"
+    - ID: "a6eaffd5-fc3e-41b4-93b3-f1721fcf2300"
+      Hint: ContentPublishedDate
+      Value: 20160705T183000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T100655Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{08472006-B215-4C02-A64F-67646DC26097}"
+              s:ds="{36ACE49A-FBFE-4891-AA4C-1DEA38DDCE08}"
+              s:id="{43C5D426-A6F6-4716-BEAF-F82602D2277B}"
+              s:par="Reset Caching Options&amp;GridParameters&amp;FieldNames=%7BE4BC3964-5235-4FE7-A863-76777C39CFAE%7D&amp;Styles&amp;RenderingIdentifier&amp;DynamicPlaceholderId=1"
+              s:ph="main"
+              s:ccb="Clear on publish" />
+          </d>
+        </r>
+    - ID: "228f9517-e120-4014-b2c7-df0ac467a349"
+      Hint: ContentTitle
+      Value: AFL Spartanburg Volunteers Award $10K to Upstate SC Organizations
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220111T104616Z
+    - ID: "3688d7df-2feb-43a4-ab8d-410e5f70a676"
+      Hint: ContentDescription
+      Value: |
+        <strong>AFL Spartanburg Volunteers Award $10K to Upstate SC Organizations</strong><br />
+        <br />
+        Spartanburg, SC &ndash;&nbsp;<a href=" /Home ">AFL</a>&nbsp;associates presented two grants totaling $10,000 to the&nbsp;<a href="http://www.hopecfc.org/">Hope Center for Children</a>&nbsp;and the&nbsp;<a href="http://www.begreatupstate.org/">Boys &amp; Girls Clubs of Upstate SC</a>. Part of its&nbsp;<a href=" /Company/Community/Community-Initiatives ">Volunteers Choose program</a>, this initiative invites associates who have volunteered for a company-sponsored outreach event over the past year to vote for an organization of their choice to receive the annual grant.<br />
+        <br />
+        &ldquo;AFL strives to make a difference in our community and it would not be possible without the participation from our associates,&rdquo; said Corie Culp, community relations manager for AFL. &ldquo;The impact of our grants on our community is extremely rewarding and motivates us year after year.&rdquo;<br />
+        <br />
+        AFL awarded $7,500 to the Hope Center for Children, an organization dedicated to breaking the cycle of child abuse and building stable and healthy families. The Center intends to use this grant to support its Transitional Living Program which serves young adults in need of safe housing. The program implements the Teaching-Family model with live-in family teachers and full-time case management.<br />
+        <br />
+        AFL associates presented the Boys &amp; Girls Clubs of Upstate SC with a $2,500 grant which will be used to help children define their natural strengths of communication through a public speaking/character development program.&nbsp;Boys &amp; Girls Clubs are working to bring hope and opportunity to children in high poverty schools in the afterschool and summer hours.<br />
+        <br />
+        AFL has an extensive&nbsp;<a href=" /Company/Community ">Community Outreach Program</a>&nbsp;which includes grants, ACT (AFL Community Team) projects, conservation initiatives, sponsorships and more. To learn more about AFL and its community outreach, visit&nbsp;<a href=" /">www.AFLglobal.com</a>.<br />
+        <br />
+        <strong>About AFL</strong><br />
+        AFL provides industry-leading products and services to the electric utility, broadband, communications, factory, enterprise, wireless and transit rail markets as well as the emerging markets of oil and gas, mining, nuclear, avionics, medical, renewable and intelligent grid. The company&rsquo;s diverse product portfolio includes fiber optic cable, transmission and substation accessories, outside plant equipment, connectors, fusion splicers, test equipment and training. AFL&rsquo;s service portfolio includes market-leading positions with the foremost communications companies supporting OEM, outside plant, enterprise and wireless areas.<br />
+        <br />
+        Founded in 1984, AFL is proud to offer engineering expertise, exceptional products and reliable service that help our customers improve their critical and electrical infrastructure. AFL has operations in the U.S., Mexico, Europe, Asia and Australia. The company is headquartered in Spartanburg, SC and is a wholly-owned subsidiary of Fujikura Ltd. of Japan. For more information, visit&nbsp;<a href=" /">www.AFLglobal.com</a>.<br />
+        <br />
+        <strong>Contact</strong><br />
+        Corie Culp<br />
+        Community Relations Manager<br />
+        AFL<br />
+        864.433.5409<br />
+        <a href="mailto:Corie.Culp@AFLglobal.com">Corie.Culp@AFLglobal.com</a>
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: AFL Spartanburg Volunteers Award $10K to Upstate S
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kushagra
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kushagra
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: AFL Spartanburg Volunteers Award $10K to Upstate S
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: AFL Spartanburg Volunteers Award $10K to Upstate S
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "38fff5b8-7981-4093-ab3d-ce123f32f1a1"
+    - ID: "a6eaffd5-fc3e-41b4-93b3-f1721fcf2300"
+      Hint: ContentPublishedDate
+      Value: 20160705T183000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T100654Z
+- Language: "es-ES"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{08472006-B215-4C02-A64F-67646DC26097}"
+              s:ds="{36ACE49A-FBFE-4891-AA4C-1DEA38DDCE08}"
+              s:id="{43C5D426-A6F6-4716-BEAF-F82602D2277B}"
+              s:par="Reset Caching Options&amp;GridParameters&amp;FieldNames=%7BE4BC3964-5235-4FE7-A863-76777C39CFAE%7D&amp;Styles&amp;RenderingIdentifier&amp;DynamicPlaceholderId=1"
+              s:ph="main"
+              s:ccb="Clear on publish" />
+          </d>
+        </r>
+    - ID: "228f9517-e120-4014-b2c7-df0ac467a349"
+      Hint: ContentTitle
+      Value: AFL Spartanburg Volunteers Award $10K to Upstate SC Organizations
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220111T104616Z
+    - ID: "3688d7df-2feb-43a4-ab8d-410e5f70a676"
+      Hint: ContentDescription
+      Value: |
+        <strong>AFL Spartanburg Volunteers Award $10K to Upstate SC Organizations</strong><br />
+        <br />
+        Spartanburg, SC – <a href=" /Home ">AFL</a> associates presented two grants totaling $10,000 to the <a href="http://www.hopecfc.org/">Hope Center for Children</a> and the <a href="http://www.begreatupstate.org/">Boys & Girls Clubs of Upstate SC</a>. Part of its <a href=" /Company/Community/Community-Initiatives ">Volunteers Choose program</a>, this initiative invites associates who have volunteered for a company-sponsored outreach event over the past year to vote for an organization of their choice to receive the annual grant.<br />
+        <br />
+        “AFL strives to make a difference in our community and it would not be possible without the participation from our associates,” said Corie Culp, community relations manager for AFL. “The impact of our grants on our community is extremely rewarding and motivates us year after year.”<br />
+        <br />
+        AFL awarded $7,500 to the Hope Center for Children, an organization dedicated to breaking the cycle of child abuse and building stable and healthy families. The Center intends to use this grant to support its Transitional Living Program which serves young adults in need of safe housing. The program implements the Teaching-Family model with live-in family teachers and full-time case management.<br />
+        <br />
+        AFL associates presented the Boys & Girls Clubs of Upstate SC with a $2,500 grant which will be used to help children define their natural strengths of communication through a public speaking/character development program. Boys & Girls Clubs are working to bring hope and opportunity to children in high poverty schools in the afterschool and summer hours.<br />
+        <br />
+        AFL has an extensive <a href=" /Company/Community ">Community Outreach Program</a> which includes grants, ACT (AFL Community Team) projects, conservation initiatives, sponsorships and more. To learn more about AFL and its community outreach, visit <a href=" /">www.AFLglobal.com</a>.<br />
+        <br />
+        <strong>About AFL</strong><br />
+        AFL provides industry-leading products and services to the electric utility, broadband, communications, factory, enterprise, wireless and transit rail markets as well as the emerging markets of oil and gas, mining, nuclear, avionics, medical, renewable and intelligent grid. The company’s diverse product portfolio includes fiber optic cable, transmission and substation accessories, outside plant equipment, connectors, fusion splicers, test equipment and training. AFL’s service portfolio includes market-leading positions with the foremost communications companies supporting OEM, outside plant, enterprise and wireless areas.<br />
+        <br />
+        Founded in 1984, AFL is proud to offer engineering expertise, exceptional products and reliable service that help our customers improve their critical and electrical infrastructure. AFL has operations in the U.S., Mexico, Europe, Asia and Australia. The company is headquartered in Spartanburg, SC and is a wholly-owned subsidiary of Fujikura Ltd. of Japan. For more information, visit <a href=" /">www.AFLglobal.com</a>.<br />
+        <br />
+        <strong>Contact</strong><br />
+        Corie Culp<br />
+        Community Relations Manager<br />
+        AFL<br />
+        864.433.5409<br />
+        <a href="mailto:Corie.Culp@AFLglobal.com">Corie.Culp@AFLglobal.com</a>
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: AFL Spartanburg Volunteers Award $10K to Upstate S
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\matt
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kushagra
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: AFL Spartanburg Volunteers Award $10K to Upstate S
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: AFL Spartanburg Volunteers Award $10K to Upstate S
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "798bf9df-179f-46bb-a6fb-e78e5a8814d9"
+    - ID: "a6eaffd5-fc3e-41b4-93b3-f1721fcf2300"
+      Hint: ContentPublishedDate
+      Value: 20160705T183000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T100654Z
+- Language: "fr-FR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{08472006-B215-4C02-A64F-67646DC26097}"
+              s:ds="{36ACE49A-FBFE-4891-AA4C-1DEA38DDCE08}"
+              s:id="{43C5D426-A6F6-4716-BEAF-F82602D2277B}"
+              s:par="Reset Caching Options&amp;GridParameters&amp;FieldNames=%7BE4BC3964-5235-4FE7-A863-76777C39CFAE%7D&amp;Styles&amp;RenderingIdentifier&amp;DynamicPlaceholderId=1"
+              s:ph="main"
+              s:ccb="Clear on publish" />
+          </d>
+        </r>
+    - ID: "228f9517-e120-4014-b2c7-df0ac467a349"
+      Hint: ContentTitle
+      Value: AFL Spartanburg Volunteers Award $10K to Upstate SC Organizations
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220111T104616Z
+    - ID: "3688d7df-2feb-43a4-ab8d-410e5f70a676"
+      Hint: ContentDescription
+      Value: |
+        <strong>AFL Spartanburg Volunteers Award $10K to Upstate SC Organizations</strong><br />
+        <br />
+        Spartanburg, SC – <a href=" /Home ">AFL</a> associates presented two grants totaling $10,000 to the <a href="http://www.hopecfc.org/">Hope Center for Children</a> and the <a href="http://www.begreatupstate.org/">Boys & Girls Clubs of Upstate SC</a>. Part of its <a href=" /Company/Community/Community-Initiatives ">Volunteers Choose program</a>, this initiative invites associates who have volunteered for a company-sponsored outreach event over the past year to vote for an organization of their choice to receive the annual grant.<br />
+        <br />
+        “AFL strives to make a difference in our community and it would not be possible without the participation from our associates,” said Corie Culp, community relations manager for AFL. “The impact of our grants on our community is extremely rewarding and motivates us year after year.”<br />
+        <br />
+        AFL awarded $7,500 to the Hope Center for Children, an organization dedicated to breaking the cycle of child abuse and building stable and healthy families. The Center intends to use this grant to support its Transitional Living Program which serves young adults in need of safe housing. The program implements the Teaching-Family model with live-in family teachers and full-time case management.<br />
+        <br />
+        AFL associates presented the Boys & Girls Clubs of Upstate SC with a $2,500 grant which will be used to help children define their natural strengths of communication through a public speaking/character development program. Boys & Girls Clubs are working to bring hope and opportunity to children in high poverty schools in the afterschool and summer hours.<br />
+        <br />
+        AFL has an extensive <a href=" /Company/Community ">Community Outreach Program</a> which includes grants, ACT (AFL Community Team) projects, conservation initiatives, sponsorships and more. To learn more about AFL and its community outreach, visit <a href=" /">www.AFLglobal.com</a>.<br />
+        <br />
+        <strong>About AFL</strong><br />
+        AFL provides industry-leading products and services to the electric utility, broadband, communications, factory, enterprise, wireless and transit rail markets as well as the emerging markets of oil and gas, mining, nuclear, avionics, medical, renewable and intelligent grid. The company’s diverse product portfolio includes fiber optic cable, transmission and substation accessories, outside plant equipment, connectors, fusion splicers, test equipment and training. AFL’s service portfolio includes market-leading positions with the foremost communications companies supporting OEM, outside plant, enterprise and wireless areas.<br />
+        <br />
+        Founded in 1984, AFL is proud to offer engineering expertise, exceptional products and reliable service that help our customers improve their critical and electrical infrastructure. AFL has operations in the U.S., Mexico, Europe, Asia and Australia. The company is headquartered in Spartanburg, SC and is a wholly-owned subsidiary of Fujikura Ltd. of Japan. For more information, visit <a href=" /">www.AFLglobal.com</a>.<br />
+        <br />
+        <strong>Contact</strong><br />
+        Corie Culp<br />
+        Community Relations Manager<br />
+        AFL<br />
+        864.433.5409<br />
+        <a href="mailto:Corie.Culp@AFLglobal.com">Corie.Culp@AFLglobal.com</a>
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: AFL Spartanburg Volunteers Award $10K to Upstate S
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\matt
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kushagra
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: AFL Spartanburg Volunteers Award $10K to Upstate S
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: AFL Spartanburg Volunteers Award $10K to Upstate S
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8ecce0b5-30bd-4bc6-a021-50823dfb7279"
+    - ID: "a6eaffd5-fc3e-41b4-93b3-f1721fcf2300"
+      Hint: ContentPublishedDate
+      Value: 20160705T183000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T100654Z

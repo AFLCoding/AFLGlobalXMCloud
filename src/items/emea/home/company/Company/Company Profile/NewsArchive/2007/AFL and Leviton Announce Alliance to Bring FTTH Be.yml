@@ -1,0 +1,322 @@
+﻿---
+ID: "d64e9505-2ce9-4eb0-96ad-f235df623d90"
+Parent: "ce701f83-3a28-448c-96b6-d99a6304438d"
+Template: "f36e821e-bb98-44dc-966d-e92a0e033cc7"
+Path: "/sitecore/content/AFL-Global/EMEA/Home/Company/Company Profile/NewsArchive/2007/AFL and Leviton Announce Alliance to Bring FTTH Be"
+SharedFields:
+- ID: "1fbc6a49-6281-48ee-87e9-a3970b145adb"
+  Hint: NavigationFilter
+  Value: |
+    {E0A2A027-0932-4878-A7D6-0416D5263EFB}
+    {61BD64D6-809E-40AE-9297-2724A19329B3}
+    {D063E9D1-C7B5-4B1E-B31E-69886C9C59F5}
+    {500AE4C0-FA7B-463F-8149-EFFF7F044101}
+    {A0E7FF57-6994-4B09-AA21-104239628D5A}
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{3A84BAC9-C1BD-4809-A12C-28EB44E25329}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{DAE7C21D-4D3B-4257-A95C-9104CD8AF409}"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{48D826CA-7AE6-4387-AE67-E7070B242906}">
+          <p:d />
+        </r>
+      </d>
+    </r>
+Languages:
+- Language: "de-DE"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "228f9517-e120-4014-b2c7-df0ac467a349"
+      Hint: ContentTitle
+      Value: AFL and Leviton Announce Alliance to Bring FTTH Benefits to Homeowners
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211129T092846Z
+    - ID: "3688d7df-2feb-43a4-ab8d-410e5f70a676"
+      Hint: ContentDescription
+      Value: |
+        Little Neck, NY - Leviton Manufacturing Company, North America’s largest producer of electrical and electronic wiring devices and manufacturer of voice and data solutions, today announce an alliance with AFL, a leading supplier of fiber optic products and services, to bring the benefits of Fiber-to-the-Home (FTTH) service to homeowners.  The alliance will support the needs of residential developers and builders seeking to integrate Fiber-to-the-Home within MDU and master planned communities.<br />
+        <br />
+        The alliance is focused on supporting end-to-end solutions through a combination of Leviton’s FTTH and industry-leading in-home technology portfolio with AFL’s FTTH network electronics and system integration expertise.<br />
+        <br />
+        “Leviton and AFL are perfect complements, bringing a wealth of in-home experience and product solutions together with industry-leading access network solutions and integration services,” said Michael Mattei, Leviton’s Director of Fiber Business Development. <br />
+        <br />
+        Mattei states how the market tends to talk about homes passed and homes with fiber service at the side of the house, but that is where it ends. Often forgotten is the distribution within the home, to the jack on the wall, where we desire the speed and bandwidth that fiber delivers, in a media that our computers, TV’s and other electronics can accept.   In 2006, Leviton wired several hundred thousand homes for broadband signal delivery to the den, kitchen or bedroom. “This alliance provides start to finish service and support for the implementation of a FTTH network encompassing both the active and passive elements of the design,” stated Mattei.<br />
+        <br />
+        “AFL is very pleased to partner with Leviton on FTTH solutions”, said Kent Brown – Director, Access Solutions.  “FTTH is a powerful community amenity that drives value for the developer, builder and resident.  AFL’s relationship with Leviton connects the optical network to the in-home network and makes it easy for residential developers to implement FTTH within their communities.” <br />
+                   <br />
+        In addition to an end-to-end product portfolio, the program also features a portfolio of services, including; AFL’s FTTH Business Model and Leviton’s “Whole House” Integrated Network solutions.  These services will provide residential developers with a single source for defining and implementing the value created by FTTH.<br />
+        <br />
+        AFL and Leviton’s FTTH alliance integrates a variety of critical success variables, including: FTTH Business Modeling and network design services, outside plant infrastructure, network electronics and in-home technology solutions.  Visit www.levitonvoicedata.com/fttx/  for more information.<br />
+        <br />
+        About Leviton<br />
+        Established in 1906, Leviton Manufacturing Company, Inc. is one of the world’s most diversified electrical manufacturing companies. Leviton has more than thirty facilities dedicated to engineering, manufacturing and distribution of over 25,000 products for nearly every connectivity need. Leviton’s Voice & Data division is dedicated to producing complete copper, fiber and wireless network infrastructure solutions for enterprise, data center, and service provider applications.  www.levitonvoicedata.com<br />
+        <br />
+        About AFL<br />
+        AFL, a division of Fujikura Ltd., is an industry leader in providing fiber optic products, engineering expertise and integrated services to the telecommunications industry. AFL manufactures, engineers and installs the fiber optic products and equipment that communications providers need to provide high-speed voice, video, and data services to their customers. AFL’s extensive experience in both design and application crosses all markets, from Telco, Broadband and Wireless, to Electric Utility, OEM and Private Networks.
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4c3792cf-8348-4d85-9cac-3f6086716488"
+      Hint: ContentCategory
+      Value: "{F78EA78A-E127-49A5-95B6-7DE64F85F319}"
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: AFL and Leviton Announce Alliance to Bring FTTH Be
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\matt
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: AFL and Leviton Announce Alliance to Bring FTTH Benefits to Homeowners
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\matt
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: AFL and Leviton Announce Alliance to Bring FTTH Benefits to Homeowners
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: AFL and Leviton Announce Alliance to Bring FTTH Be
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: AFL and Leviton Announce Alliance to Bring FTTH Be
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "97aa4278-e8e7-48d5-b3cf-b2af5552ea94"
+    - ID: "a6eaffd5-fc3e-41b4-93b3-f1721fcf2300"
+      Hint: ContentPublishedDate
+      Value: 20070116T183000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T100201Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: 
+    - ID: "228f9517-e120-4014-b2c7-df0ac467a349"
+      Hint: ContentTitle
+      Value: AFL and Leviton Announce Alliance to Bring FTTH Benefits to Homeowners
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211129T092846Z
+    - ID: "3688d7df-2feb-43a4-ab8d-410e5f70a676"
+      Hint: ContentDescription
+      Value: |
+        Little Neck, NY - Leviton Manufacturing Company, North America&rsquo;s largest producer of electrical and electronic wiring devices and manufacturer of voice and data solutions, today announce an alliance with AFL, a leading supplier of fiber optic products and services, to bring the benefits of Fiber-to-the-Home (FTTH) service to homeowners.&nbsp; The alliance will support the needs of residential developers and builders seeking to integrate Fiber-to-the-Home within MDU and master planned communities.<br />
+        <br />
+        The alliance is focused on supporting end-to-end solutions through a combination of Leviton&rsquo;s FTTH and industry-leading in-home technology portfolio with AFL&rsquo;s FTTH network electronics and system integration expertise.<br />
+        <br />
+        &ldquo;Leviton and AFL are perfect complements, bringing a wealth of in-home experience and product solutions together with industry-leading access network solutions and integration services,&rdquo; said Michael Mattei, Leviton&rsquo;s Director of Fiber Business Development.&nbsp;<br />
+        <br />
+        Mattei states how the market tends to talk about homes passed and homes with fiber service at the side of the house, but that is where it ends. Often forgotten is the distribution within the home, to the jack on the wall, where we desire the speed and bandwidth that fiber delivers, in a media that our computers, TV&rsquo;s and other electronics can accept.&nbsp; &nbsp;In 2006, Leviton wired several hundred thousand homes for broadband signal delivery to the den, kitchen or bedroom. &ldquo;This alliance provides start to finish service and support for the implementation of a FTTH network encompassing both the active and passive elements of the design,&rdquo; stated Mattei.<br />
+        <br />
+        &ldquo;AFL is very pleased to partner with Leviton on FTTH solutions&rdquo;, said Kent Brown &ndash; Director, Access Solutions.&nbsp; &ldquo;FTTH is a powerful community amenity that drives value for the developer, builder and resident.&nbsp; AFL&rsquo;s relationship with Leviton connects the optical network to the in-home network and makes it easy for residential developers to implement FTTH within their communities.&rdquo;&nbsp;<br />
+        &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br />
+        In addition to an end-to-end product portfolio, the program also features a portfolio of services, including; AFL&rsquo;s FTTH Business Model and Leviton&rsquo;s &ldquo;Whole House&rdquo; Integrated Network solutions.&nbsp; These services will provide residential developers with a single source for defining and implementing the value created by FTTH.<br />
+        <br />
+        AFL and Leviton&rsquo;s FTTH alliance integrates a variety of critical success variables, including: FTTH Business Modeling and network design services, outside plant infrastructure, network electronics and in-home technology solutions.&nbsp; Visit www.levitonvoicedata.com/fttx/&nbsp; for more information.<br />
+        <br />
+        About Leviton<br />
+        Established in 1906, Leviton Manufacturing Company, Inc. is one of the world&rsquo;s most diversified electrical manufacturing companies. Leviton has more than thirty facilities dedicated to engineering, manufacturing and distribution of over 25,000 products for nearly every connectivity need. Leviton&rsquo;s Voice &amp; Data division is dedicated to producing complete copper, fiber and wireless network infrastructure solutions for enterprise, data center, and service provider applications.&nbsp; www.levitonvoicedata.com<br />
+        <br />
+        About AFL<br />
+        AFL, a division of Fujikura Ltd., is an industry leader in providing fiber optic products, engineering expertise and integrated services to the telecommunications industry. AFL manufactures, engineers and installs the fiber optic products and equipment that communications providers need to provide high-speed voice, video, and data services to their customers. AFL&rsquo;s extensive experience in both design and application crosses all markets, from Telco, Broadband and Wireless, to Electric Utility, OEM and Private Networks.
+    - ID: "4c3792cf-8348-4d85-9cac-3f6086716488"
+      Hint: ContentCategory
+      Value: "{F78EA78A-E127-49A5-95B6-7DE64F85F319}"
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: AFL and Leviton Announce Alliance to Bring FTTH Be
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: AFL and Leviton Announce Alliance to Bring FTTH Benefits to Homeowners
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: AFL and Leviton Announce Alliance to Bring FTTH Benefits to Homeowners
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: AFL and Leviton Announce Alliance to Bring FTTH Be
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: AFL and Leviton Announce Alliance to Bring FTTH Be
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "820bbc2c-1e74-454e-864e-c31e97dd74b8"
+    - ID: "a6eaffd5-fc3e-41b4-93b3-f1721fcf2300"
+      Hint: ContentPublishedDate
+      Value: 20070116T183000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T100200Z
+- Language: "es-ES"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "228f9517-e120-4014-b2c7-df0ac467a349"
+      Hint: ContentTitle
+      Value: AFL and Leviton Announce Alliance to Bring FTTH Benefits to Homeowners
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211129T092846Z
+    - ID: "3688d7df-2feb-43a4-ab8d-410e5f70a676"
+      Hint: ContentDescription
+      Value: |
+        Little Neck, NY - Leviton Manufacturing Company, North America’s largest producer of electrical and electronic wiring devices and manufacturer of voice and data solutions, today announce an alliance with AFL, a leading supplier of fiber optic products and services, to bring the benefits of Fiber-to-the-Home (FTTH) service to homeowners.  The alliance will support the needs of residential developers and builders seeking to integrate Fiber-to-the-Home within MDU and master planned communities.<br />
+        <br />
+        The alliance is focused on supporting end-to-end solutions through a combination of Leviton’s FTTH and industry-leading in-home technology portfolio with AFL’s FTTH network electronics and system integration expertise.<br />
+        <br />
+        “Leviton and AFL are perfect complements, bringing a wealth of in-home experience and product solutions together with industry-leading access network solutions and integration services,” said Michael Mattei, Leviton’s Director of Fiber Business Development. <br />
+        <br />
+        Mattei states how the market tends to talk about homes passed and homes with fiber service at the side of the house, but that is where it ends. Often forgotten is the distribution within the home, to the jack on the wall, where we desire the speed and bandwidth that fiber delivers, in a media that our computers, TV’s and other electronics can accept.   In 2006, Leviton wired several hundred thousand homes for broadband signal delivery to the den, kitchen or bedroom. “This alliance provides start to finish service and support for the implementation of a FTTH network encompassing both the active and passive elements of the design,” stated Mattei.<br />
+        <br />
+        “AFL is very pleased to partner with Leviton on FTTH solutions”, said Kent Brown – Director, Access Solutions.  “FTTH is a powerful community amenity that drives value for the developer, builder and resident.  AFL’s relationship with Leviton connects the optical network to the in-home network and makes it easy for residential developers to implement FTTH within their communities.” <br />
+                   <br />
+        In addition to an end-to-end product portfolio, the program also features a portfolio of services, including; AFL’s FTTH Business Model and Leviton’s “Whole House” Integrated Network solutions.  These services will provide residential developers with a single source for defining and implementing the value created by FTTH.<br />
+        <br />
+        AFL and Leviton’s FTTH alliance integrates a variety of critical success variables, including: FTTH Business Modeling and network design services, outside plant infrastructure, network electronics and in-home technology solutions.  Visit www.levitonvoicedata.com/fttx/  for more information.<br />
+        <br />
+        About Leviton<br />
+        Established in 1906, Leviton Manufacturing Company, Inc. is one of the world’s most diversified electrical manufacturing companies. Leviton has more than thirty facilities dedicated to engineering, manufacturing and distribution of over 25,000 products for nearly every connectivity need. Leviton’s Voice & Data division is dedicated to producing complete copper, fiber and wireless network infrastructure solutions for enterprise, data center, and service provider applications.  www.levitonvoicedata.com<br />
+        <br />
+        About AFL<br />
+        AFL, a division of Fujikura Ltd., is an industry leader in providing fiber optic products, engineering expertise and integrated services to the telecommunications industry. AFL manufactures, engineers and installs the fiber optic products and equipment that communications providers need to provide high-speed voice, video, and data services to their customers. AFL’s extensive experience in both design and application crosses all markets, from Telco, Broadband and Wireless, to Electric Utility, OEM and Private Networks.
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4c3792cf-8348-4d85-9cac-3f6086716488"
+      Hint: ContentCategory
+      Value: "{F78EA78A-E127-49A5-95B6-7DE64F85F319}"
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: AFL and Leviton Announce Alliance to Bring FTTH Be
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\matt
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: AFL and Leviton Announce Alliance to Bring FTTH Benefits to Homeowners
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\matt
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: AFL and Leviton Announce Alliance to Bring FTTH Benefits to Homeowners
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: AFL and Leviton Announce Alliance to Bring FTTH Be
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: AFL and Leviton Announce Alliance to Bring FTTH Be
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5709174b-1630-4478-8615-6ca570779bec"
+    - ID: "a6eaffd5-fc3e-41b4-93b3-f1721fcf2300"
+      Hint: ContentPublishedDate
+      Value: 20070116T183000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T100201Z
+- Language: "fr-FR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "228f9517-e120-4014-b2c7-df0ac467a349"
+      Hint: ContentTitle
+      Value: AFL and Leviton Announce Alliance to Bring FTTH Benefits to Homeowners
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211129T092846Z
+    - ID: "3688d7df-2feb-43a4-ab8d-410e5f70a676"
+      Hint: ContentDescription
+      Value: |
+        Little Neck, NY - Leviton Manufacturing Company, North America’s largest producer of electrical and electronic wiring devices and manufacturer of voice and data solutions, today announce an alliance with AFL, a leading supplier of fiber optic products and services, to bring the benefits of Fiber-to-the-Home (FTTH) service to homeowners.  The alliance will support the needs of residential developers and builders seeking to integrate Fiber-to-the-Home within MDU and master planned communities.<br />
+        <br />
+        The alliance is focused on supporting end-to-end solutions through a combination of Leviton’s FTTH and industry-leading in-home technology portfolio with AFL’s FTTH network electronics and system integration expertise.<br />
+        <br />
+        “Leviton and AFL are perfect complements, bringing a wealth of in-home experience and product solutions together with industry-leading access network solutions and integration services,” said Michael Mattei, Leviton’s Director of Fiber Business Development. <br />
+        <br />
+        Mattei states how the market tends to talk about homes passed and homes with fiber service at the side of the house, but that is where it ends. Often forgotten is the distribution within the home, to the jack on the wall, where we desire the speed and bandwidth that fiber delivers, in a media that our computers, TV’s and other electronics can accept.   In 2006, Leviton wired several hundred thousand homes for broadband signal delivery to the den, kitchen or bedroom. “This alliance provides start to finish service and support for the implementation of a FTTH network encompassing both the active and passive elements of the design,” stated Mattei.<br />
+        <br />
+        “AFL is very pleased to partner with Leviton on FTTH solutions”, said Kent Brown – Director, Access Solutions.  “FTTH is a powerful community amenity that drives value for the developer, builder and resident.  AFL’s relationship with Leviton connects the optical network to the in-home network and makes it easy for residential developers to implement FTTH within their communities.” <br />
+                   <br />
+        In addition to an end-to-end product portfolio, the program also features a portfolio of services, including; AFL’s FTTH Business Model and Leviton’s “Whole House” Integrated Network solutions.  These services will provide residential developers with a single source for defining and implementing the value created by FTTH.<br />
+        <br />
+        AFL and Leviton’s FTTH alliance integrates a variety of critical success variables, including: FTTH Business Modeling and network design services, outside plant infrastructure, network electronics and in-home technology solutions.  Visit www.levitonvoicedata.com/fttx/  for more information.<br />
+        <br />
+        About Leviton<br />
+        Established in 1906, Leviton Manufacturing Company, Inc. is one of the world’s most diversified electrical manufacturing companies. Leviton has more than thirty facilities dedicated to engineering, manufacturing and distribution of over 25,000 products for nearly every connectivity need. Leviton’s Voice & Data division is dedicated to producing complete copper, fiber and wireless network infrastructure solutions for enterprise, data center, and service provider applications.  www.levitonvoicedata.com<br />
+        <br />
+        About AFL<br />
+        AFL, a division of Fujikura Ltd., is an industry leader in providing fiber optic products, engineering expertise and integrated services to the telecommunications industry. AFL manufactures, engineers and installs the fiber optic products and equipment that communications providers need to provide high-speed voice, video, and data services to their customers. AFL’s extensive experience in both design and application crosses all markets, from Telco, Broadband and Wireless, to Electric Utility, OEM and Private Networks.
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4c3792cf-8348-4d85-9cac-3f6086716488"
+      Hint: ContentCategory
+      Value: "{F78EA78A-E127-49A5-95B6-7DE64F85F319}"
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: AFL and Leviton Announce Alliance to Bring FTTH Be
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\matt
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: AFL and Leviton Announce Alliance to Bring FTTH Benefits to Homeowners
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\matt
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: AFL and Leviton Announce Alliance to Bring FTTH Benefits to Homeowners
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: AFL and Leviton Announce Alliance to Bring FTTH Be
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: AFL and Leviton Announce Alliance to Bring FTTH Be
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9b881a96-8c45-433b-b157-ae44706e9678"
+    - ID: "a6eaffd5-fc3e-41b4-93b3-f1721fcf2300"
+      Hint: ContentPublishedDate
+      Value: 20070116T183000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T100201Z

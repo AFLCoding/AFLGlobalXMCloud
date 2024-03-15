@@ -1,0 +1,588 @@
+﻿---
+ID: "f1bba818-4b6c-4799-b4fa-e09b9f2d8af4"
+Parent: "ae5e517b-969a-4c42-bbe0-3b612b139ce3"
+Template: "bf61de11-b78f-48ea-aaa4-1d17f0d83824"
+Path: "/sitecore/content/AFL-Global/EMEA/Home/Solutions/Service Provider/Converged Access Network/FTTx"
+SharedFields:
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{274C9F86-81B9-4FFC-87CA-8B19AB3A526D}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 400
+Languages:
+- Language: "de-DE"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211122T092331Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: FTTx
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: "FTTx - AFL offers Fiber-to-the-Subscriber services, supporting residence or home (FTTH), a building (FTTB), a node (FTTN) or desk (FTTD)."
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <h2>
+        Choose AFL as your one-source provider for optical FTTx solutions</h2>
+        <p>
+        <br />
+        Increasing demand for high-speed broadband internet access, Over-the-Top (OTT) video or TV and telephone/wireless services is driving service providers to invest in or expand upon state-of-the-art fiber optic or “FTTx” networks. FTTx brings signal and bandwidth from service providers to subscribers, whether it is a single-family residence or home (FTTH), a multi-dwelling commercial or residential unit (MDU), warehouse or other building (FTTB), node (FTTN) or desk (FTTD).</p>
+        <p>
+        Across a neighborhood, campus or city, AFL makes FTTx easy. We are the only provider whose portfolio includes end-to-end passive infrastructure.</p>
+        <h2>
+        AFL FTTx Product Solutions:</h2>
+        <ul>
+            <li>
+            <a href="/Products/Copper-Apparatus/Passive-Electronics">Passive Infrastructure</a></li>
+            <li>
+            <a href="/Products/Fiber-Optic-Connectivity">Fiber Optic Connectivity</a> (Distribution Enclosures, Aerial or Sealed Closures, Multi-Port Terminals, Rack/Wall Mount Panels, Field Installable Connectors, Passive Optical Components)</li>
+            <li>
+            <a href="/Products/Fiber-Optic-Cable">Fiber Optic Cable</a></li>
+            <li>
+            <a href="/Products/Conductor-Accessories/Fiber-Optic-Cable-Hardware">Fiber Optic Cable Hardware</a></li>
+            <li>
+            <a href="/Products/Fusion-Splicing">Fusion Splicing Systems</a></li>
+            <li>
+            <a href="/Products/Test-and-Inspection">Test and Inspection Equipment</a></li>
+            <li>
+            <a href="/Products/Cleaning">Fiber Optic Cleaning Supplies</a></li>
+        </ul>
+        <p>
+        As the world migrates toward a fiber optic infrastructure, AFL is uniquely poised for the growth of FTTx markets. With an unsurpassed knowledge of end-to-end, cost-effective solutions, AFL can help you bring fiber to the last mile—your subscriber.</p>
+        <h2>
+        AFL FTTx Services and Training Solutions:</h2>
+        <ul>
+            <li>
+            <a href="/Services/Solutions/Integrated-FTTx">Integrated FTTx</a></li>
+        </ul>
+        <p>
+        At AFL, we offer a fully integrated FTTx solution: we initiate, design, supply, build, connect and service to meet our customers’ needs.</p>
+        <p>
+        Whether you need an end-to-end solution, expertise on parts of the project, or aren’t quite sure where to start, we have you covered. Our post implementation support and long-term warranty insure the longevity of our FTTx networks.</p>
+    - ID: "56611f02-691a-4096-b044-63aa83122916"
+      Hint: Content
+      Value: |
+        <h2>Choose AFL as your one-source provider for optical FTTx solutions</h2>
+        <p>Increasing demand for high-speed broadband internet access, Over-the-Top (OTT) video or TV and telephone/wireless services is driving service providers to invest in or expand upon state-of-the-art fiber optic or &ldquo;FTTx&rdquo; networks. FTTx brings signal and bandwidth from service providers to subscribers, whether it is a single-family residence or home (FTTH), a multi-dwelling commercial or residential unit (MDU), warehouse or other building (FTTB), node (FTTN) or desk (FTTD).</p>
+        <p>Across a neighborhood, campus or city, AFL makes FTTx easy. We are the only provider whose portfolio includes end-to-end passive infrastructure.</p>
+        <h2>AFL FTTx Product Solutions:</h2>
+        <ul>
+            <li><a href="/Services/What-We-Do/Outside-Plant-Engineering-and-Services">Outside Plant Engineering Services</a></li>
+            <li><a href="/Products/Copper-Apparatus/Passive-Electronics">Passive Infrastructure</a></li>
+            <li><a href="/Products/Fiber-Optic-Connectivity"> Fiber Optic Connectivity</a></li>
+            <li><a href="/Products/Fiber-Optic-Cable">Fiber Optic Cable</a></li>
+            <li><a href="/Products/Conductor-Accessories/Fiber-Optic-Cable-Hardware">Fiber Optic Cable Hardware</a></li>
+            <li><a href="/Products/Fusion-Splicing">Fusion Splicing Systems</a></li>
+            <li><a href="/Products/Test-and-Inspection">Test and Inspection Equipment</a></li>
+            <li><a href="/Products/Fiber Optic Cleaning">Fiber Optic Cleaning Supplies</a></li>
+        </ul>
+        As the world migrates toward a fiber optic infrastructure, AFL is uniquely poised for the growth of FTTx markets. With an unsurpassed knowledge of end-to-end, cost-effective solutions, AFL can help you bring fiber to the last mile&mdash;your subscriber.
+        <p>&nbsp;</p>
+        <h2>AFL FTTx Services and Training Solutions:</h2>
+        <ul>
+            <li><a href="/Services/Solutions/Integrated-FTTx">Integrated FTTx</a></li>
+        </ul>
+        <p>At AFL, we offer a fully integrated FTTx solution: we initiate, design, supply, build, connect and service to meet our customers&rsquo; needs.</p>
+        <p>Whether you need an end-to-end solution, expertise on parts of the project, or aren&rsquo;t quite sure where to start, we have you covered. Our post implementation support and long-term warranty insure the longevity of our FTTx networks.</p>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mahesh
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: "fttx ftth fttb fttn fttd Fiber-to-the-Subscriber last mile optical fiber optics services network high speed broadband"
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: FTTx
+    - ID: "628db04b-29a2-483b-a88c-b8fd9a5f2086"
+      Hint: HeroLink
+      Value: |
+        <link id="{F1BBA818-4B6C-4799-B4FA-E09B9F2D8AF4}" querystring="" linktype="internal" text="LEARN MORE" anchor="" url="/AFL-Global/EMEA/Home/Solutions/Service Provider/Converged Access Network/FTTx" title="" class="" target="|Custom" />
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: FTTx
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "89310d5b-c4f0-499a-841f-9f17c666ce2e"
+    - ID: "93dc88f3-05e5-482d-9b9a-c859c8258a73"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="73475" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/73475/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/homehero3?v=3435dd70" stylelabs-content-type="Image" alt="AFL-Desktop-Homepage-photos_3.jpg" height="571" width="1338" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d8b38dd7-e9a0-4410-9f17-d436b0c8635a"
+      Hint: OpenGraphImageUrl
+      Value: |
+        <image mediaid="{CF846A72-E2F1-4E5E-B2DE-F039BCE83399}" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T094442Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211122T092331Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: FTTx
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: "FTTx - AFL offers Fiber-to-the-Subscriber services, supporting residence or home (FTTH), a building (FTTB), a node (FTTN) or desk (FTTD)."
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <h2>
+        Choose AFL as your one-source provider for optical FTTx solutions</h2>
+        <p>
+        <br />
+        Increasing demand for high-speed broadband internet access, Over-the-Top (OTT) video or TV and telephone/wireless services is driving service providers to invest in or expand upon state-of-the-art fiber optic or “FTTx” networks. FTTx brings signal and bandwidth from service providers to subscribers, whether it is a single-family residence or home (FTTH), a multi-dwelling commercial or residential unit (MDU), warehouse or other building (FTTB), node (FTTN) or desk (FTTD).</p>
+        <p>
+        Across a neighborhood, campus or city, AFL makes FTTx easy. We are the only provider whose portfolio includes end-to-end passive infrastructure.</p>
+        <h2>
+        AFL FTTx Product Solutions:</h2>
+        <ul>
+            <li>
+            <a href="/Products/Copper-Apparatus/Passive-Electronics">Passive Infrastructure</a></li>
+            <li>
+            <a href="/Products/Fiber-Optic-Connectivity">Fiber Optic Connectivity</a> (Distribution Enclosures, Aerial or Sealed Closures, Multi-Port Terminals, Rack/Wall Mount Panels, Field Installable Connectors, Passive Optical Components)</li>
+            <li>
+            <a href="/Products/Fiber-Optic-Cable">Fiber Optic Cable</a></li>
+            <li>
+            <a href="/Products/Conductor-Accessories/Fiber-Optic-Cable-Hardware">Fiber Optic Cable Hardware</a></li>
+            <li>
+            <a href="/Products/Fusion-Splicing">Fusion Splicing Systems</a></li>
+            <li>
+            <a href="/Products/Test-and-Inspection">Test and Inspection Equipment</a></li>
+            <li>
+            <a href="/Products/Cleaning">Fiber Optic Cleaning Supplies</a></li>
+        </ul>
+        <p>
+        As the world migrates toward a fiber optic infrastructure, AFL is uniquely poised for the growth of FTTx markets. With an unsurpassed knowledge of end-to-end, cost-effective solutions, AFL can help you bring fiber to the last mile—your subscriber.</p>
+        <h2>
+        AFL FTTx Services and Training Solutions:</h2>
+        <ul>
+            <li>
+            <a href="/Services/Solutions/Integrated-FTTx">Integrated FTTx</a></li>
+        </ul>
+        <p>
+        At AFL, we offer a fully integrated FTTx solution: we initiate, design, supply, build, connect and service to meet our customers’ needs.</p>
+        <p>
+        Whether you need an end-to-end solution, expertise on parts of the project, or aren’t quite sure where to start, we have you covered. Our post implementation support and long-term warranty insure the longevity of our FTTx networks.</p>
+    - ID: "56611f02-691a-4096-b044-63aa83122916"
+      Hint: Content
+      Value: |
+        <h2>Choose AFL as your one-source provider for optical FTTx solutions</h2>
+        <p>Increasing demand for high-speed broadband internet access, Over-the-Top (OTT) video or TV and telephone/wireless services is driving service providers to invest in or expand upon state-of-the-art fiber optic or &ldquo;FTTx&rdquo; networks. FTTx brings signal and bandwidth from service providers to subscribers, whether it is a single-family residence or home (FTTH), a multi-dwelling commercial or residential unit (MDU), warehouse or other building (FTTB), node (FTTN) or desk (FTTD).</p>
+        <p>Across a neighborhood, campus or city, AFL makes FTTx easy. We are the only provider whose portfolio includes end-to-end passive infrastructure.</p>
+        <h2>AFL FTTx Product Solutions:</h2>
+        <ul>
+            <li><a href="/Services/What-We-Do/Outside-Plant-Engineering-and-Services">Outside Plant Engineering Services</a></li>
+            <li><a href="/Products/Copper-Apparatus/Passive-Electronics">Passive Infrastructure</a></li>
+            <li><a href="/Products/Fiber-Optic-Connectivity"> Fiber Optic Connectivity</a></li>
+            <li><a href="/Products/Fiber-Optic-Cable">Fiber Optic Cable</a></li>
+            <li><a href="/Products/Conductor-Accessories/Fiber-Optic-Cable-Hardware">Fiber Optic Cable Hardware</a></li>
+            <li><a href="/Products/Fusion-Splicing">Fusion Splicing Systems</a></li>
+            <li><a href="/Products/Test-and-Inspection">Test and Inspection Equipment</a></li>
+            <li><a href="/Products/Fiber Optic Cleaning">Fiber Optic Cleaning Supplies</a></li>
+        </ul>
+        As the world migrates toward a fiber optic infrastructure, AFL is uniquely poised for the growth of FTTx markets. With an unsurpassed knowledge of end-to-end, cost-effective solutions, AFL can help you bring fiber to the last mile&mdash;your subscriber.
+        <p>&nbsp;</p>
+        <h2>AFL FTTx Services and Training Solutions:</h2>
+        <ul>
+            <li><a href="/Services/Solutions/Integrated-FTTx">Integrated FTTx</a></li>
+        </ul>
+        <p>At AFL, we offer a fully integrated FTTx solution: we initiate, design, supply, build, connect and service to meet our customers&rsquo; needs.</p>
+        <p>Whether you need an end-to-end solution, expertise on parts of the project, or aren&rsquo;t quite sure where to start, we have you covered. Our post implementation support and long-term warranty insure the longevity of our FTTx networks.</p>
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: "fttx ftth fttb fttn fttd Fiber-to-the-Subscriber last mile optical fiber optics services network high speed broadband"
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: FTTx
+    - ID: "628db04b-29a2-483b-a88c-b8fd9a5f2086"
+      Hint: HeroLink
+      Value: |
+        <link id="{F1BBA818-4B6C-4799-B4FA-E09B9F2D8AF4}" querystring="" linktype="internal" text="LEARN MORE" anchor="" url="/AFL-Global/EMEA/Home/Solutions/Service Provider/Converged Access Network/FTTx" title="" class="" target="|Custom" />
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: FTTx
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b308ccba-482a-4229-8fa9-4ad7cb3c6728"
+    - ID: "93dc88f3-05e5-482d-9b9a-c859c8258a73"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="73475" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/73475/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/homehero3?v=3435dd70" stylelabs-content-type="Image" alt="AFL-Desktop-Homepage-photos_3.jpg" height="571" width="1338" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d8b38dd7-e9a0-4410-9f17-d436b0c8635a"
+      Hint: OpenGraphImageUrl
+      Value: |
+        <image mediaid="{CF846A72-E2F1-4E5E-B2DE-F039BCE83399}" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T094442Z
+- Language: "es-ES"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211122T092331Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: FTTx
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: "FTTx - AFL offers Fiber-to-the-Subscriber services, supporting residence or home (FTTH), a building (FTTB), a node (FTTN) or desk (FTTD)."
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <h2>
+        Choose AFL as your one-source provider for optical FTTx solutions</h2>
+        <p>
+        <br />
+        Increasing demand for high-speed broadband internet access, Over-the-Top (OTT) video or TV and telephone/wireless services is driving service providers to invest in or expand upon state-of-the-art fiber optic or &ldquo;FTTx&rdquo; networks. FTTx brings signal and bandwidth from service providers to subscribers, whether it is a single-family residence or home (FTTH), a multi-dwelling commercial or residential unit (MDU), warehouse or other building (FTTB), node (FTTN) or desk (FTTD).</p>
+        <p>
+        Across a neighborhood, campus or city, AFL makes FTTx easy. We are the only provider whose portfolio includes end-to-end passive infrastructure.</p>
+        <h2>
+        AFL FTTx Product Solutions:</h2>
+        <ul>
+            <li>
+            <a href="/Products/Copper-Apparatus/Passive-Electronics">Passive Infrastructure</a></li>
+            <li>
+            <a href="/Products/Fiber-Optic-Connectivity">Fiber Optic Connectivity</a>&nbsp;(Distribution Enclosures, Aerial or Sealed Closures, Multi-Port Terminals, Rack/Wall Mount Panels, Field Installable Connectors, Passive Optical Components)</li>
+            <li>
+            <a href="/Products/Fiber-Optic-Cable">Fiber Optic Cable</a></li>
+            <li>
+            <a href="/Products/Conductor-Accessories/Fiber-Optic-Cable-Hardware">Fiber Optic Cable Hardware</a></li>
+            <li>
+            <a href="/Products/Fusion-Splicing">Fusion Splicing Systems</a></li>
+            <li>
+            <a href="/Products/Test-and-Inspection">Test and Inspection Equipment</a></li>
+            <li>
+            <a href="/Products/Cleaning">Fiber Optic Cleaning Supplies</a></li>
+        </ul>
+        <p>
+        As the world migrates toward a fiber optic infrastructure, AFL is uniquely poised for the growth of FTTx markets. With an unsurpassed knowledge of end-to-end, cost-effective solutions, AFL can help you bring fiber to the last mile&mdash;your subscriber.</p>
+        <h2>
+        AFL FTTx Services and Training Solutions:</h2>
+        <ul>
+            <li>
+            <a href="/Services/Solutions/Integrated-FTTx">Integrated FTTx</a></li>
+        </ul>
+        <p>
+        At AFL, we offer a fully integrated FTTx solution: we initiate, design, supply, build, connect and service to meet our customers&rsquo; needs.</p>
+        <p>
+        Whether you need an end-to-end solution, expertise on parts of the project, or aren&rsquo;t quite sure where to start, we have you covered. Our post implementation support and long-term warranty insure the longevity of our FTTx networks.</p>
+    - ID: "56611f02-691a-4096-b044-63aa83122916"
+      Hint: Content
+      Value: |
+        <h2>Choose AFL as your one-source provider for optical FTTx solutions</h2>
+        <p>Increasing demand for high-speed broadband internet access, Over-the-Top (OTT) video or TV and telephone/wireless services is driving service providers to invest in or expand upon state-of-the-art fiber optic or &ldquo;FTTx&rdquo; networks. FTTx brings signal and bandwidth from service providers to subscribers, whether it is a single-family residence or home (FTTH), a multi-dwelling commercial or residential unit (MDU), warehouse or other building (FTTB), node (FTTN) or desk (FTTD).</p>
+        <p>Across a neighborhood, campus or city, AFL makes FTTx easy. We are the only provider whose portfolio includes end-to-end passive infrastructure.</p>
+        <h2>AFL FTTx Product Solutions:</h2>
+        <ul>
+            <li><a href="/Services/What-We-Do/Outside-Plant-Engineering-and-Services">Outside Plant Engineering Services</a></li>
+            <li><a href="/Products/Copper-Apparatus/Passive-Electronics">Passive Infrastructure</a></li>
+            <li><a href="/Products/Fiber-Optic-Connectivity"> Fiber Optic Connectivity</a></li>
+            <li><a href="/Products/Fiber-Optic-Cable">Fiber Optic Cable</a></li>
+            <li><a href="/Products/Conductor-Accessories/Fiber-Optic-Cable-Hardware">Fiber Optic Cable Hardware</a></li>
+            <li><a href="/Products/Fusion-Splicing">Fusion Splicing Systems</a></li>
+            <li><a href="/Products/Test-and-Inspection">Test and Inspection Equipment</a></li>
+            <li><a href="/Products/Fiber Optic Cleaning">Fiber Optic Cleaning Supplies</a></li>
+        </ul>
+        As the world migrates toward a fiber optic infrastructure, AFL is uniquely poised for the growth of FTTx markets. With an unsurpassed knowledge of end-to-end, cost-effective solutions, AFL can help you bring fiber to the last mile&mdash;your subscriber.
+        <p>&nbsp;</p>
+        <h2>AFL FTTx Services and Training Solutions:</h2>
+        <ul>
+            <li><a href="/Services/Solutions/Integrated-FTTx">Integrated FTTx</a></li>
+        </ul>
+        <p>At AFL, we offer a fully integrated FTTx solution: we initiate, design, supply, build, connect and service to meet our customers&rsquo; needs.</p>
+        <p>Whether you need an end-to-end solution, expertise on parts of the project, or aren&rsquo;t quite sure where to start, we have you covered. Our post implementation support and long-term warranty insure the longevity of our FTTx networks.</p>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mahesh
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: "fttx ftth fttb fttn fttd Fiber-to-the-Subscriber last mile optical fiber optics services network high speed broadband"
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: FTTx
+    - ID: "628db04b-29a2-483b-a88c-b8fd9a5f2086"
+      Hint: HeroLink
+      Value: |
+        <link id="{F1BBA818-4B6C-4799-B4FA-E09B9F2D8AF4}" querystring="" linktype="internal" text="LEARN MORE" anchor="" url="/AFL-Global/EMEA/Home/Solutions/Service Provider/Converged Access Network/FTTx" title="" class="" target="|Custom" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "87da9fb7-d27e-4b32-b37d-886c39668ad4"
+    - ID: "93dc88f3-05e5-482d-9b9a-c859c8258a73"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image mediaid="{B1D67D8F-5B01-446D-8C89-89A022C69B3A}" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sripada
+    - ID: "d8b38dd7-e9a0-4410-9f17-d436b0c8635a"
+      Hint: OpenGraphImageUrl
+      Value: |
+        <image mediaid="{CF846A72-E2F1-4E5E-B2DE-F039BCE83399}" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231206T080543Z
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211122T092331Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Fibra hasta el hogar
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: "FTTx - AFL offers Fiber-to-the-Subscriber services, supporting residence or home (FTTH), a building (FTTB), a node (FTTN) or desk (FTTD)."
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <h2>
+        Choose AFL as your one-source provider for optical FTTx solutions</h2>
+        <p>
+        <br />
+        Increasing demand for high-speed broadband internet access, Over-the-Top (OTT) video or TV and telephone/wireless services is driving service providers to invest in or expand upon state-of-the-art fiber optic or “FTTx” networks. FTTx brings signal and bandwidth from service providers to subscribers, whether it is a single-family residence or home (FTTH), a multi-dwelling commercial or residential unit (MDU), warehouse or other building (FTTB), node (FTTN) or desk (FTTD).</p>
+        <p>
+        Across a neighborhood, campus or city, AFL makes FTTx easy. We are the only provider whose portfolio includes end-to-end passive infrastructure.</p>
+        <h2>
+        AFL FTTx Product Solutions:</h2>
+        <ul>
+            <li>
+            <a href="/Products/Copper-Apparatus/Passive-Electronics">Passive Infrastructure</a></li>
+            <li>
+            <a href="/Products/Fiber-Optic-Connectivity">Fiber Optic Connectivity</a> (Distribution Enclosures, Aerial or Sealed Closures, Multi-Port Terminals, Rack/Wall Mount Panels, Field Installable Connectors, Passive Optical Components)</li>
+            <li>
+            <a href="/Products/Fiber-Optic-Cable">Fiber Optic Cable</a></li>
+            <li>
+            <a href="/Products/Conductor-Accessories/Fiber-Optic-Cable-Hardware">Fiber Optic Cable Hardware</a></li>
+            <li>
+            <a href="/Products/Fusion-Splicing">Fusion Splicing Systems</a></li>
+            <li>
+            <a href="/Products/Test-and-Inspection">Test and Inspection Equipment</a></li>
+            <li>
+            <a href="/Products/Cleaning">Fiber Optic Cleaning Supplies</a></li>
+        </ul>
+        <p>
+        As the world migrates toward a fiber optic infrastructure, AFL is uniquely poised for the growth of FTTx markets. With an unsurpassed knowledge of end-to-end, cost-effective solutions, AFL can help you bring fiber to the last mile—your subscriber.</p>
+        <h2>
+        AFL FTTx Services and Training Solutions:</h2>
+        <ul>
+            <li>
+            <a href="/Services/Solutions/Integrated-FTTx">Integrated FTTx</a></li>
+        </ul>
+        <p>
+        At AFL, we offer a fully integrated FTTx solution: we initiate, design, supply, build, connect and service to meet our customers’ needs.</p>
+        <p>
+        Whether you need an end-to-end solution, expertise on parts of the project, or aren’t quite sure where to start, we have you covered. Our post implementation support and long-term warranty insure the longevity of our FTTx networks.</p>
+    - ID: "56611f02-691a-4096-b044-63aa83122916"
+      Hint: Content
+      Value: |
+        <h2>Choose AFL as your one-source provider for optical FTTx solutions</h2>
+        <p>Increasing demand for high-speed broadband internet access, Over-the-Top (OTT) video or TV and telephone/wireless services is driving service providers to invest in or expand upon state-of-the-art fiber optic or &ldquo;FTTx&rdquo; networks. FTTx brings signal and bandwidth from service providers to subscribers, whether it is a single-family residence or home (FTTH), a multi-dwelling commercial or residential unit (MDU), warehouse or other building (FTTB), node (FTTN) or desk (FTTD).</p>
+        <p>Across a neighborhood, campus or city, AFL makes FTTx easy. We are the only provider whose portfolio includes end-to-end passive infrastructure.</p>
+        <h2>AFL FTTx Product Solutions:</h2>
+        <ul>
+            <li><a href="/Services/What-We-Do/Outside-Plant-Engineering-and-Services">Outside Plant Engineering Services</a></li>
+            <li><a href="/Products/Copper-Apparatus/Passive-Electronics">Passive Infrastructure</a></li>
+            <li><a href="/Products/Fiber-Optic-Connectivity"> Fiber Optic Connectivity</a></li>
+            <li><a href="/Products/Fiber-Optic-Cable">Fiber Optic Cable</a></li>
+            <li><a href="/Products/Conductor-Accessories/Fiber-Optic-Cable-Hardware">Fiber Optic Cable Hardware</a></li>
+            <li><a href="/Products/Fusion-Splicing">Fusion Splicing Systems</a></li>
+            <li><a href="/Products/Test-and-Inspection">Test and Inspection Equipment</a></li>
+            <li><a href="/Products/Fiber Optic Cleaning">Fiber Optic Cleaning Supplies</a></li>
+        </ul>
+        As the world migrates toward a fiber optic infrastructure, AFL is uniquely poised for the growth of FTTx markets. With an unsurpassed knowledge of end-to-end, cost-effective solutions, AFL can help you bring fiber to the last mile&mdash;your subscriber.
+        <p>&nbsp;</p>
+        <h2>AFL FTTx Services and Training Solutions:</h2>
+        <ul>
+            <li><a href="/Services/Solutions/Integrated-FTTx">Integrated FTTx</a></li>
+        </ul>
+        <p>At AFL, we offer a fully integrated FTTx solution: we initiate, design, supply, build, connect and service to meet our customers&rsquo; needs.</p>
+        <p>Whether you need an end-to-end solution, expertise on parts of the project, or aren&rsquo;t quite sure where to start, we have you covered. Our post implementation support and long-term warranty insure the longevity of our FTTx networks.</p>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mahesh
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: "fttx ftth fttb fttn fttd Fiber-to-the-Subscriber last mile optical fiber optics services network high speed broadband"
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: Fibra hasta el hogar
+    - ID: "628db04b-29a2-483b-a88c-b8fd9a5f2086"
+      Hint: HeroLink
+      Value: |
+        <link id="{F1BBA818-4B6C-4799-B4FA-E09B9F2D8AF4}" querystring="" linktype="internal" text="LEARN MORE" anchor="" url="/AFL-Global/EMEA/Home/Solutions/Service Provider/Converged Access Network/FTTx" title="" class="" target="|Custom" />
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: Fibra hasta el hogar
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b1d2627c-0ff4-4bad-9c98-c3d5bfedb774"
+    - ID: "93dc88f3-05e5-482d-9b9a-c859c8258a73"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="73475" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/73475/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/homehero3?v=3435dd70" stylelabs-content-type="Image" alt="AFL-Desktop-Homepage-photos_3.jpg" height="571" width="1338" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "d8b38dd7-e9a0-4410-9f17-d436b0c8635a"
+      Hint: OpenGraphImageUrl
+      Value: |
+        <image mediaid="{CF846A72-E2F1-4E5E-B2DE-F039BCE83399}" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T094442Z
+- Language: "fr-FR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211122T092331Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Fibre jusqu'au domicile
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: "FTTx - AFL offers Fiber-to-the-Subscriber services, supporting residence or home (FTTH), a building (FTTB), a node (FTTN) or desk (FTTD)."
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <h2>
+        Choose AFL as your one-source provider for optical FTTx solutions</h2>
+        <p>
+        <br />
+        Increasing demand for high-speed broadband internet access, Over-the-Top (OTT) video or TV and telephone/wireless services is driving service providers to invest in or expand upon state-of-the-art fiber optic or “FTTx” networks. FTTx brings signal and bandwidth from service providers to subscribers, whether it is a single-family residence or home (FTTH), a multi-dwelling commercial or residential unit (MDU), warehouse or other building (FTTB), node (FTTN) or desk (FTTD).</p>
+        <p>
+        Across a neighborhood, campus or city, AFL makes FTTx easy. We are the only provider whose portfolio includes end-to-end passive infrastructure.</p>
+        <h2>
+        AFL FTTx Product Solutions:</h2>
+        <ul>
+            <li>
+            <a href="/Products/Copper-Apparatus/Passive-Electronics">Passive Infrastructure</a></li>
+            <li>
+            <a href="/Products/Fiber-Optic-Connectivity">Fiber Optic Connectivity</a> (Distribution Enclosures, Aerial or Sealed Closures, Multi-Port Terminals, Rack/Wall Mount Panels, Field Installable Connectors, Passive Optical Components)</li>
+            <li>
+            <a href="/Products/Fiber-Optic-Cable">Fiber Optic Cable</a></li>
+            <li>
+            <a href="/Products/Conductor-Accessories/Fiber-Optic-Cable-Hardware">Fiber Optic Cable Hardware</a></li>
+            <li>
+            <a href="/Products/Fusion-Splicing">Fusion Splicing Systems</a></li>
+            <li>
+            <a href="/Products/Test-and-Inspection">Test and Inspection Equipment</a></li>
+            <li>
+            <a href="/Products/Cleaning">Fiber Optic Cleaning Supplies</a></li>
+        </ul>
+        <p>
+        As the world migrates toward a fiber optic infrastructure, AFL is uniquely poised for the growth of FTTx markets. With an unsurpassed knowledge of end-to-end, cost-effective solutions, AFL can help you bring fiber to the last mile—your subscriber.</p>
+        <h2>
+        AFL FTTx Services and Training Solutions:</h2>
+        <ul>
+            <li>
+            <a href="/Services/Solutions/Integrated-FTTx">Integrated FTTx</a></li>
+        </ul>
+        <p>
+        At AFL, we offer a fully integrated FTTx solution: we initiate, design, supply, build, connect and service to meet our customers’ needs.</p>
+        <p>
+        Whether you need an end-to-end solution, expertise on parts of the project, or aren’t quite sure where to start, we have you covered. Our post implementation support and long-term warranty insure the longevity of our FTTx networks.</p>
+    - ID: "56611f02-691a-4096-b044-63aa83122916"
+      Hint: Content
+      Value: |
+        <h2>Choose AFL as your one-source provider for optical FTTx solutions</h2>
+        <p>Increasing demand for high-speed broadband internet access, Over-the-Top (OTT) video or TV and telephone/wireless services is driving service providers to invest in or expand upon state-of-the-art fiber optic or &ldquo;FTTx&rdquo; networks. FTTx brings signal and bandwidth from service providers to subscribers, whether it is a single-family residence or home (FTTH), a multi-dwelling commercial or residential unit (MDU), warehouse or other building (FTTB), node (FTTN) or desk (FTTD).</p>
+        <p>Across a neighborhood, campus or city, AFL makes FTTx easy. We are the only provider whose portfolio includes end-to-end passive infrastructure.</p>
+        <h2>AFL FTTx Product Solutions:</h2>
+        <ul>
+            <li><a href="/Services/What-We-Do/Outside-Plant-Engineering-and-Services">Outside Plant Engineering Services</a></li>
+            <li><a href="/Products/Copper-Apparatus/Passive-Electronics">Passive Infrastructure</a></li>
+            <li><a href="/Products/Fiber-Optic-Connectivity"> Fiber Optic Connectivity</a></li>
+            <li><a href="/Products/Fiber-Optic-Cable">Fiber Optic Cable</a></li>
+            <li><a href="/Products/Conductor-Accessories/Fiber-Optic-Cable-Hardware">Fiber Optic Cable Hardware</a></li>
+            <li><a href="/Products/Fusion-Splicing">Fusion Splicing Systems</a></li>
+            <li><a href="/Products/Test-and-Inspection">Test and Inspection Equipment</a></li>
+            <li><a href="/Products/Fiber Optic Cleaning">Fiber Optic Cleaning Supplies</a></li>
+        </ul>
+        As the world migrates toward a fiber optic infrastructure, AFL is uniquely poised for the growth of FTTx markets. With an unsurpassed knowledge of end-to-end, cost-effective solutions, AFL can help you bring fiber to the last mile&mdash;your subscriber.
+        <p>&nbsp;</p>
+        <h2>AFL FTTx Services and Training Solutions:</h2>
+        <ul>
+            <li><a href="/Services/Solutions/Integrated-FTTx">Integrated FTTx</a></li>
+        </ul>
+        <p>At AFL, we offer a fully integrated FTTx solution: we initiate, design, supply, build, connect and service to meet our customers&rsquo; needs.</p>
+        <p>Whether you need an end-to-end solution, expertise on parts of the project, or aren&rsquo;t quite sure where to start, we have you covered. Our post implementation support and long-term warranty insure the longevity of our FTTx networks.</p>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mahesh
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: "fttx ftth fttb fttn fttd Fiber-to-the-Subscriber last mile optical fiber optics services network high speed broadband"
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: Fibre jusqu'au domicile
+    - ID: "628db04b-29a2-483b-a88c-b8fd9a5f2086"
+      Hint: HeroLink
+      Value: |
+        <link id="{F1BBA818-4B6C-4799-B4FA-E09B9F2D8AF4}" querystring="" linktype="internal" text="LEARN MORE" anchor="" url="/AFL-Global/EMEA/Home/Solutions/Service Provider/Converged Access Network/FTTx" title="" class="" target="|Custom" />
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: Fibre jusqu'au domicile
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c2877a3b-4c73-4d7e-92a0-f11174b10619"
+    - ID: "93dc88f3-05e5-482d-9b9a-c859c8258a73"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="73475" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/73475/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/homehero3?v=3435dd70" stylelabs-content-type="Image" alt="AFL-Desktop-Homepage-photos_3.jpg" height="571" width="1338" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d8b38dd7-e9a0-4410-9f17-d436b0c8635a"
+      Hint: OpenGraphImageUrl
+      Value: |
+        <image mediaid="{CF846A72-E2F1-4E5E-B2DE-F039BCE83399}" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T094442Z
