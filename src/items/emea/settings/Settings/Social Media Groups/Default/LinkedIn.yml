@@ -1,0 +1,175 @@
+﻿---
+ID: "fd897eff-2ca5-4559-94a7-40818ed913c0"
+Parent: "9f500ef4-2d00-4be7-802d-b91314b4dd91"
+Template: "3de7aa7e-961a-4b90-98f2-01ac2be92ec5"
+Path: "/sitecore/content/AFL-Global/EMEA/Settings/Social Media Groups/Default/LinkedIn"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 75
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{8485E62D-7BF0-4EB6-85F1-F1665FB68B62}"
+Languages:
+- Language: "de-DE"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211027T075749Z
+    - ID: "31b5c056-cfd5-4331-950d-25453a808d7c"
+      Hint: ButtonCode
+      Value: |
+        <script type="IN/Share" data-counter="right"></script>
+    - ID: "3a453560-042a-4df9-945f-5750ea7c4a46"
+      Hint: OnlyOnceCode
+      Value: |
+        <script src="//platform.linkedin.com/in.js" type="text/javascript"></script>
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ba60956a-655b-4341-b172-39d5e20cf924"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahesh
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220314T112428Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211027T075749Z
+    - ID: "31b5c056-cfd5-4331-950d-25453a808d7c"
+      Hint: ButtonCode
+      Value: |
+        <script type="IN/Share" data-counter="right"></script>
+    - ID: "3a453560-042a-4df9-945f-5750ea7c4a46"
+      Hint: OnlyOnceCode
+      Value: |
+        <script src="//platform.linkedin.com/in.js" type="text/javascript"></script>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b55dfacb-b229-41af-ae88-2d5e256c9d2f"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\unicorn
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20211103T115727Z
+- Language: "es-ES"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211027T075749Z
+    - ID: "31b5c056-cfd5-4331-950d-25453a808d7c"
+      Hint: ButtonCode
+      Value: |
+        <script type="IN/Share" data-counter="right"></script>
+    - ID: "3a453560-042a-4df9-945f-5750ea7c4a46"
+      Hint: OnlyOnceCode
+      Value: |
+        <script src="//platform.linkedin.com/in.js" type="text/javascript"></script>
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f70115e2-475f-4c19-82c8-8a305cdb3cc9"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahesh
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220207T120015Z
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211027T075749Z
+    - ID: "31b5c056-cfd5-4331-950d-25453a808d7c"
+      Hint: ButtonCode
+      Value: |
+        <script type="IN/Share" data-counter="right"></script>
+    - ID: "3a453560-042a-4df9-945f-5750ea7c4a46"
+      Hint: OnlyOnceCode
+      Value: |
+        <script src="//platform.linkedin.com/in.js" type="text/javascript"></script>
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "33ff9576-cfd8-4469-9209-48e3dad75d70"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahesh
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220314T115227Z
+- Language: "fr-FR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211027T075749Z
+    - ID: "31b5c056-cfd5-4331-950d-25453a808d7c"
+      Hint: ButtonCode
+      Value: |
+        <script type="IN/Share" data-counter="right"></script>
+    - ID: "3a453560-042a-4df9-945f-5750ea7c4a46"
+      Hint: OnlyOnceCode
+      Value: |
+        <script src="//platform.linkedin.com/in.js" type="text/javascript"></script>
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "81ed4461-9182-40f6-8fee-bb019654fb31"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahesh
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220314T120049Z

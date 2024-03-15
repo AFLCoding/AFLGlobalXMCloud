@@ -1,0 +1,958 @@
+﻿---
+ID: "44d30f26-07d8-4879-80cc-feed31812993"
+Parent: "0c2769f4-3306-4a56-a0e2-0ba5b9ba5fd7"
+Template: "bf61de11-b78f-48ea-aaa4-1d17f0d83824"
+Path: "/sitecore/content/AFL-Global/EMEA/Home/Resources/Product Related Materials/Frequently Asked Questions/Fiber Inside Plant"
+SharedFields:
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{9B9150CA-F788-45F7-B378-77F936EC878B}"
+Languages:
+- Language: "de-DE"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220125T091926Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Innere Pflanzenfaser
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: Optical Connectivity Frequently Asked Questions submitted by customers regarding FAST Connectors and FuseConnect from AFL. 
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <h1>FAQ: Fiber Inside Plant</h1>
+        <p>Below are the FAQs submitted by customers regarding the Fiber Inside Plant product line.</p>
+        <h3>Cable Assemblies</h3>
+        <br />
+        <ul>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-Cable-Assemblies #q1">Can I order jumpers in different colors besides the standard?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-Cable-Assemblies #q2">What are the differences between OM1, OM2, OM3 and OM4 fiber?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-Cable-Assemblies #q3">where can I find jumper specifications?</a></li>
+        </ul>
+        <br />
+        <h3>FASTConnect® and FUSEConnect® General</h3>
+        <br />
+        <ul>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-FAST-Connect-and-FuseConnect-General #q4">What are the pros and cons of FASTConnect vs. FUSEConnect for my application?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-FAST-Connect-and-FuseConnect-General #q5">Can FUSEConnect and FASTConnect be used with loose tube 900µm diameter cable?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-FAST-Connect-and-FuseConnect-General #q6">Why won't the fiber cleave after I strip the fiber to the appropriate lengths stated in the instructions?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-FAST-Connect-and-FuseConnect-General #q7">Will standard 50µm multimode fiber (MMF) connectors work with OM3/OM4 MMF connectors or will OM3/OM4 MMF connectors work with standard 50µm MMF connectors? Can you use OM3 MMF connectors in place of OM4 MMF connectors?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-FAST-Connect-and-FuseConnect-General #q8">Would you recommend FUSEConnect and FASTConnect for outdoor use?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-FAST-Connect-and-FuseConnect-General #q9">What comes in the connector installation kit?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-FAST-Connect-and-FuseConnect-General #q10">Do you have both mechanical and fusion splice-on connectors? Where can I find connector specifications?</a></li>
+        </ul>
+        <br />
+        <h3>FAST Connect Specific</h3>
+        <br />
+        <ul>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-FAST-Connect-Specific #q11">What are the differences between the CT-30 and the CT-05 cleavers included in the FASTConnect tool kits?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-FAST-Connect-Specific #q12">Why am I getting high-loss when terminating FASTConnect?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-FAST-Connect-Specific #q13">Why am I unable to insert the fiber into the connector?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-FAST-Connect-Specific #q14">Why is the VFL not working?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-FAST-Connect-Specific #q15">What is the index of refraction over temperature?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-FAST-Connect-Specific #q16">How do you prevent the gel from drying out inside of the connector?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-FAST-Connect-Specific #q17">What prevents the gel from migrating away from the fiber?</a></li>
+        </ul>
+        <br />
+        <h3>FuseConnect Specific</h3>
+        <br />
+        <ul>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-FuseConnect-Specific #q18">Why am I seeing bad cleaves when I place a FUSEConnect connector into my fusion splicer?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-FuseConnect-Specific #q19">Can non-Fujikura splicers be used with AFL's FUSEConnect connectors?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-FuseConnect-Specific #q20">Does it work with ____ splicer?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-FuseConnect-Specific #q21">Does everything needed come with the connectors when purchased?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-FuseConnect-Specific #q22">Which holders come with the FUSEConnect tool kits, and what other items are needed to use the product?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-FuseConnect-Specific #q23">What fusion splicer will you need to use with the FUSEConnect connector?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-FuseConnect-Specific #q25">What is the loss at the splicing point and connector?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-FuseConnect-Specific #q26">What type of FUSEConnect connectors are available?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-FuseConnect-Specific #q27">Do you need to clean the fiber stub at the end of the FUSEConnect connector?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-FuseConnect-Specific #q28">Why does the protective sleeve not shrink onto the 900µm fiber?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-FuseConnect-Specific #q30">What are the 2 mm or 3 mm cable clamps for?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-FuseConnect-Specific #q31">Can you terminate the FUSEConnect connector onto a Fanout or Breakout kit?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-FuseConnect-Specific #q32">Why would the FUSEConnect connector melt back to a round end face during the termination process?</a></li>
+        </ul>
+        <br />
+        <h3>Rack Mount Patch Panels</h3>
+        <br />
+        <ul>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-Rack-Mount-Patch-Panels #q33">What splice tray is supported by the LightLink LANSystem</a><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-Rack-Mount-Patch-Panels #q33">®</a> Fiber Termination Patch/Splice Panels?</li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-Rack-Mount-Patch-Panels #q34">What are the fiber densities for AFL rack mount panels?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-Rack-Mount-Patch-Panels #q35">How many cable clamps are included with a rack mount fiber termination panel?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-Rack-Mount-Patch-Panels #q36">Does AFL have a have a total solution for rack mount applications?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-Rack-Mount-Patch-Panels #q37">What is the polarity method utilized by the XFM</a><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-Rack-Mount-Patch-Panels #q37">®</a>-HD product line?</li>
+        </ul>
+        <br />
+        <h3>Modules and Panel Accessories</h3>
+        <br />
+        <ul>
+            <li><a href=" /Resources/Frequently-Asked-Questions/Fiber-Inside-Plant #q38">In what color is the Poli-MOD</a><a href=" /Resources/Frequently-Asked-Questions/Fiber-Inside-Plant #q38">®</a> available?</li>
+        </ul>
+        <br />
+        <h3>Indoor Wall Mounted Panels</h3>
+        <br />
+        <ul>
+            <li><a href=" /Resources/Frequently-Asked-Questions/Fiber-Inside-Plant #q39">What are the standard densities for the AFL Wall Mount Interconnect Enclosures (WME)?</a></li>
+        </ul>
+        <br />
+        <h3>Couplers/Splitters and Multiplexer</h3>
+        <br />
+        <ul>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-Couplers-Splitters-and-Multiplexer #q40">What packages do your filter products come in?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-Couplers-Splitters-and-Multiplexer #q41">What are the operating wavelengths for filter products?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-Couplers-Splitters-and-Multiplexer #q42">What upgrade or express ports are available?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-Couplers-Splitters-and-Multiplexer #q43">What are the spec sheets for filter available?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-Couplers-Splitters-and-Multiplexer #q44">Are CWDM and DWDM filters water resistant or waterproof?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-Couplers-Splitters-and-Multiplexer #q45">Will an AFL Splitter work in a non-AFL cabinet?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-Couplers-Splitters-and-Multiplexer #q46">Where are AFL WDM products available?</a></li>
+        </ul>
+        <br />
+        <p> </p>
+        <p> </p>
+        <p> </p>
+        <h3>Modules and Panel Accessories</h3>
+        <br />
+        <p><a name="q38"></a>Q: In what color is the Poli-MOD available? <br />
+        A: The Poli-MOD is available in black.</p>
+        <br />
+        <h3>Indoor Wall Mounted Panels</h3>
+        <br />
+        <p><a name="q39"></a>Q: What are the standard densities for the AFL Wall Mount Interconnect Enclosures (WME)? <br />
+        A:</p>
+        <table border="1" cellpadding="0" cellspacing="0" width="541">
+            <tbody>
+                <tr>
+                    <td>
+                    <p> </p>
+                    </td>
+                    <td>
+                    <p>Fiber Density</p>
+                    </td>
+                    <td>
+                    <p>LGX 118<br />
+                    Mounting Positions</p>
+                    </td>
+                    <td>
+                    <p>Physical Dimensions</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p>WME02</p>
+                    </td>
+                    <td>
+                    <p>12 to 24 fiber</p>
+                    </td>
+                    <td>
+                    <p>Up to two</p>
+                    </td>
+                    <td>
+                    <p>12.0"H x 14.0"W x 2.5"D</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p>WME04</p>
+                    </td>
+                    <td>
+                    <p>24 to 48 fiber</p>
+                    </td>
+                    <td>
+                    <p>Up to four</p>
+                    </td>
+                    <td>
+                    <p>12.0"H x 16.0"W x 3.63"D</p>
+                    <div> </div>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <br />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kushagra
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: optical connectivity FAST Connectors FuseConnect frequently asked questions FAQ
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: Innere Pflanzenfaser
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: Innere Pflanzenfaser
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f1f48a30-5cee-4fab-b398-c26959410446"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T095804Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220125T091926Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Fiber Inside Plant
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kushagra
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: Optical Connectivity Frequently Asked Questions submitted by customers regarding FAST Connectors and FuseConnect from AFL. 
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <h1>FAQ: Fiber Inside Plant</h1>
+        <p>Below are the FAQs submitted by customers regarding the Fiber Inside Plant product line.</p>
+        <h3>Cable Assemblies</h3>
+        <br />
+        <ul>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-Cable-Assemblies #q1">Can I order jumpers in different colors besides the standard?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-Cable-Assemblies #q2">What are the differences between OM1, OM2, OM3 and OM4 fiber?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-Cable-Assemblies #q3">where can I find jumper specifications?</a></li>
+        </ul>
+        <br />
+        <h3>FASTConnect® and FUSEConnect® General</h3>
+        <br />
+        <ul>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-FAST-Connect-and-FuseConnect-General #q4">What are the pros and cons of FASTConnect vs. FUSEConnect for my application?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-FAST-Connect-and-FuseConnect-General #q5">Can FUSEConnect and FASTConnect be used with loose tube 900µm diameter cable?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-FAST-Connect-and-FuseConnect-General #q6">Why won't the fiber cleave after I strip the fiber to the appropriate lengths stated in the instructions?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-FAST-Connect-and-FuseConnect-General #q7">Will standard 50µm multimode fiber (MMF) connectors work with OM3/OM4 MMF connectors or will OM3/OM4 MMF connectors work with standard 50µm MMF connectors? Can you use OM3 MMF connectors in place of OM4 MMF connectors?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-FAST-Connect-and-FuseConnect-General #q8">Would you recommend FUSEConnect and FASTConnect for outdoor use?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-FAST-Connect-and-FuseConnect-General #q9">What comes in the connector installation kit?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-FAST-Connect-and-FuseConnect-General #q10">Do you have both mechanical and fusion splice-on connectors? Where can I find connector specifications?</a></li>
+        </ul>
+        <br />
+        <h3>FAST Connect Specific</h3>
+        <br />
+        <ul>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-FAST-Connect-Specific #q11">What are the differences between the CT-30 and the CT-05 cleavers included in the FASTConnect tool kits?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-FAST-Connect-Specific #q12">Why am I getting high-loss when terminating FASTConnect?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-FAST-Connect-Specific #q13">Why am I unable to insert the fiber into the connector?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-FAST-Connect-Specific #q14">Why is the VFL not working?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-FAST-Connect-Specific #q15">What is the index of refraction over temperature?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-FAST-Connect-Specific #q16">How do you prevent the gel from drying out inside of the connector?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-FAST-Connect-Specific #q17">What prevents the gel from migrating away from the fiber?</a></li>
+        </ul>
+        <br />
+        <h3>FuseConnect Specific</h3>
+        <br />
+        <ul>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-FuseConnect-Specific #q18">Why am I seeing bad cleaves when I place a FUSEConnect connector into my fusion splicer?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-FuseConnect-Specific #q19">Can non-Fujikura splicers be used with AFL's FUSEConnect connectors?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-FuseConnect-Specific #q20">Does it work with ____ splicer?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-FuseConnect-Specific #q21">Does everything needed come with the connectors when purchased?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-FuseConnect-Specific #q22">Which holders come with the FUSEConnect tool kits, and what other items are needed to use the product?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-FuseConnect-Specific #q23">What fusion splicer will you need to use with the FUSEConnect connector?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-FuseConnect-Specific #q25">What is the loss at the splicing point and connector?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-FuseConnect-Specific #q26">What type of FUSEConnect connectors are available?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-FuseConnect-Specific #q27">Do you need to clean the fiber stub at the end of the FUSEConnect connector?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-FuseConnect-Specific #q28">Why does the protective sleeve not shrink onto the 900µm fiber?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-FuseConnect-Specific #q30">What are the 2 mm or 3 mm cable clamps for?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-FuseConnect-Specific #q31">Can you terminate the FUSEConnect connector onto a Fanout or Breakout kit?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-FuseConnect-Specific #q32">Why would the FUSEConnect connector melt back to a round end face during the termination process?</a></li>
+        </ul>
+        <br />
+        <h3>Rack Mount Patch Panels</h3>
+        <br />
+        <ul>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-Rack-Mount-Patch-Panels #q33">What splice tray is supported by the LightLink LANSystem</a><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-Rack-Mount-Patch-Panels #q33">®</a> Fiber Termination Patch/Splice Panels?</li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-Rack-Mount-Patch-Panels #q34">What are the fiber densities for AFL rack mount panels?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-Rack-Mount-Patch-Panels #q35">How many cable clamps are included with a rack mount fiber termination panel?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-Rack-Mount-Patch-Panels #q36">Does AFL have a have a total solution for rack mount applications?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-Rack-Mount-Patch-Panels #q37">What is the polarity method utilized by the XFM</a><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-Rack-Mount-Patch-Panels #q37">®</a>-HD product line?</li>
+        </ul>
+        <br />
+        <h3>Modules and Panel Accessories</h3>
+        <br />
+        <ul>
+            <li><a href=" /Resources/Frequently-Asked-Questions/Fiber-Inside-Plant #q38">In what color is the Poli-MOD</a><a href=" /Resources/Frequently-Asked-Questions/Fiber-Inside-Plant #q38">®</a> available?</li>
+        </ul>
+        <br />
+        <h3>Indoor Wall Mounted Panels</h3>
+        <br />
+        <ul>
+            <li><a href=" /Resources/Frequently-Asked-Questions/Fiber-Inside-Plant #q39">What are the standard densities for the AFL Wall Mount Interconnect Enclosures (WME)?</a></li>
+        </ul>
+        <br />
+        <h3>Couplers/Splitters and Multiplexer</h3>
+        <br />
+        <ul>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-Couplers-Splitters-and-Multiplexer #q40">What packages do your filter products come in?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-Couplers-Splitters-and-Multiplexer #q41">What are the operating wavelengths for filter products?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-Couplers-Splitters-and-Multiplexer #q42">What upgrade or express ports are available?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-Couplers-Splitters-and-Multiplexer #q43">What are the spec sheets for filter available?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-Couplers-Splitters-and-Multiplexer #q44">Are CWDM and DWDM filters water resistant or waterproof?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-Couplers-Splitters-and-Multiplexer #q45">Will an AFL Splitter work in a non-AFL cabinet?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-Couplers-Splitters-and-Multiplexer #q46">Where are AFL WDM products available?</a></li>
+        </ul>
+        <br />
+        <p> </p>
+        <p> </p>
+        <p> </p>
+        <h3>Modules and Panel Accessories</h3>
+        <br />
+        <p><a name="q38"></a>Q: In what color is the Poli-MOD available? <br />
+        A: The Poli-MOD is available in black.</p>
+        <br />
+        <h3>Indoor Wall Mounted Panels</h3>
+        <br />
+        <p><a name="q39"></a>Q: What are the standard densities for the AFL Wall Mount Interconnect Enclosures (WME)? <br />
+        A:</p>
+        <table border="1" cellpadding="0" cellspacing="0" width="541">
+            <tbody>
+                <tr>
+                    <td>
+                    <p> </p>
+                    </td>
+                    <td>
+                    <p>Fiber Density</p>
+                    </td>
+                    <td>
+                    <p>LGX 118<br />
+                    Mounting Positions</p>
+                    </td>
+                    <td>
+                    <p>Physical Dimensions</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p>WME02</p>
+                    </td>
+                    <td>
+                    <p>12 to 24 fiber</p>
+                    </td>
+                    <td>
+                    <p>Up to two</p>
+                    </td>
+                    <td>
+                    <p>12.0"H x 14.0"W x 2.5"D</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p>WME04</p>
+                    </td>
+                    <td>
+                    <p>24 to 48 fiber</p>
+                    </td>
+                    <td>
+                    <p>Up to four</p>
+                    </td>
+                    <td>
+                    <p>12.0"H x 16.0"W x 3.63"D</p>
+                    <div> </div>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <br />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kushagra
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: optical connectivity FAST Connectors FuseConnect frequently asked questions FAQ
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: Fiber Inside Plant
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: Fiber Inside Plant
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "31e16c94-1a7f-4597-94e8-3f7952f7a255"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T095803Z
+- Language: "es-ES"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220125T091926Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Fiber Inside Plant
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: Optical Connectivity Frequently Asked Questions submitted by customers regarding FAST Connectors and FuseConnect from AFL. 
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <h1>FAQ: Fiber Inside Plant</h1>
+        <p>Below are the FAQs submitted by customers regarding the Fiber Inside Plant product line.</p>
+        <h3>Cable Assemblies</h3>
+        <br />
+        <ul>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-Cable-Assemblies #q1">Can I order jumpers in different colors besides the standard?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-Cable-Assemblies #q2">What are the differences between OM1, OM2, OM3 and OM4 fiber?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-Cable-Assemblies #q3">where can I find jumper specifications?</a></li>
+        </ul>
+        <br />
+        <h3>FASTConnect&reg; and FUSEConnect&reg; General</h3>
+        <br />
+        <ul>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-FAST-Connect-and-FuseConnect-General #q4">What are the pros and cons of FASTConnect vs. FUSEConnect for my application?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-FAST-Connect-and-FuseConnect-General #q5">Can FUSEConnect and FASTConnect be used with loose tube 900&micro;m diameter cable?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-FAST-Connect-and-FuseConnect-General #q6">Why won't the fiber cleave after I strip the fiber to the appropriate lengths stated in the instructions?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-FAST-Connect-and-FuseConnect-General #q7">Will standard 50&micro;m multimode fiber (MMF) connectors work with OM3/OM4 MMF connectors or will OM3/OM4 MMF connectors work with standard 50&micro;m MMF connectors? Can you use OM3 MMF connectors in place of OM4 MMF connectors?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-FAST-Connect-and-FuseConnect-General #q8">Would you recommend FUSEConnect and FASTConnect for outdoor use?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-FAST-Connect-and-FuseConnect-General #q9">What comes in the connector installation kit?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-FAST-Connect-and-FuseConnect-General #q10">Do you have both mechanical and fusion splice-on connectors? Where can I find connector specifications?</a></li>
+        </ul>
+        <br />
+        <h3>FAST Connect Specific</h3>
+        <br />
+        <ul>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-FAST-Connect-Specific #q11">What are the differences between the CT-30 and the CT-05 cleavers included in the FASTConnect tool kits?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-FAST-Connect-Specific #q12">Why am I getting high-loss when terminating FASTConnect?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-FAST-Connect-Specific #q13">Why am I unable to insert the fiber into the connector?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-FAST-Connect-Specific #q14">Why is the VFL not working?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-FAST-Connect-Specific #q15">What is the index of refraction over temperature?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-FAST-Connect-Specific #q16">How do you prevent the gel from drying out inside of the connector?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-FAST-Connect-Specific #q17">What prevents the gel from migrating away from the fiber?</a></li>
+        </ul>
+        <br />
+        <h3>FuseConnect Specific</h3>
+        <br />
+        <ul>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-FuseConnect-Specific #q18">Why am I seeing bad cleaves when I place a FUSEConnect connector into my fusion splicer?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-FuseConnect-Specific #q19">Can non-Fujikura splicers be used with AFL's FUSEConnect connectors?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-FuseConnect-Specific #q20">Does it work with ____ splicer?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-FuseConnect-Specific #q21">Does everything needed come with the connectors when purchased?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-FuseConnect-Specific #q22">Which holders come with the FUSEConnect tool kits, and what other items are needed to use the product?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-FuseConnect-Specific #q23">What fusion splicer will you need to use with the FUSEConnect connector?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-FuseConnect-Specific #q25">What is the loss at the splicing point and connector?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-FuseConnect-Specific #q26">What type of FUSEConnect connectors are available?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-FuseConnect-Specific #q27">Do you need to clean the fiber stub at the end of the FUSEConnect connector?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-FuseConnect-Specific #q28">Why does the protective sleeve not shrink onto the 900&micro;m fiber?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-FuseConnect-Specific #q30">What are the 2 mm or 3 mm cable clamps for?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-FuseConnect-Specific #q31">Can you terminate the FUSEConnect connector onto a Fanout or Breakout kit?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-FuseConnect-Specific #q32">Why would the FUSEConnect connector melt back to a round end face during the termination process?</a></li>
+        </ul>
+        <br />
+        <h3>Rack Mount Patch Panels</h3>
+        <br />
+        <ul>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-Rack-Mount-Patch-Panels #q33">What splice tray is supported by the LightLink LANSystem</a><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-Rack-Mount-Patch-Panels #q33">&reg;</a>&nbsp;Fiber Termination Patch/Splice Panels?</li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-Rack-Mount-Patch-Panels #q34">What are the fiber densities for AFL rack mount panels?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-Rack-Mount-Patch-Panels #q35">How many cable clamps are included with a rack mount fiber termination panel?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-Rack-Mount-Patch-Panels #q36">Does AFL have a have a total solution for rack mount applications?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-Rack-Mount-Patch-Panels #q37">What is the polarity method utilized by the XFM</a><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-Rack-Mount-Patch-Panels #q37">&reg;</a>-HD product line?</li>
+        </ul>
+        <br />
+        <h3>Modules and Panel Accessories</h3>
+        <br />
+        <ul>
+            <li><a href=" /Resources/Frequently-Asked-Questions/Fiber-Inside-Plant #q38">In what color is the Poli-MOD</a><a href=" /Resources/Frequently-Asked-Questions/Fiber-Inside-Plant #q38">&reg;</a>&nbsp;available?</li>
+        </ul>
+        <br />
+        <h3>Indoor Wall Mounted Panels</h3>
+        <br />
+        <ul>
+            <li><a href=" /Resources/Frequently-Asked-Questions/Fiber-Inside-Plant #q39">What are the standard densities for the AFL Wall Mount Interconnect Enclosures (WME)?</a></li>
+        </ul>
+        <br />
+        <h3>Couplers/Splitters and Multiplexer</h3>
+        <br />
+        <ul>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-Couplers-Splitters-and-Multiplexer #q40">What packages do your filter products come in?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-Couplers-Splitters-and-Multiplexer #q41">What are the operating wavelengths for filter products?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-Couplers-Splitters-and-Multiplexer #q42">What upgrade or express ports are available?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-Couplers-Splitters-and-Multiplexer #q43">What are the spec sheets for filter available?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-Couplers-Splitters-and-Multiplexer #q44">Are CWDM and DWDM filters water resistant or waterproof?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-Couplers-Splitters-and-Multiplexer #q45">Will an AFL Splitter work in a non-AFL cabinet?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-Couplers-Splitters-and-Multiplexer #q46">Where are AFL WDM products available?</a></li>
+        </ul>
+        <br />
+        <p>&nbsp;</p>
+        <p>&nbsp;</p>
+        <p>&nbsp;</p>
+        <h3>Modules and Panel Accessories</h3>
+        <br />
+        <p><a name="q38"></a>Q: In what color is the Poli-MOD available?&nbsp;<br />
+        A:&nbsp;The Poli-MOD is available in black.</p>
+        <br />
+        <h3>Indoor Wall Mounted Panels</h3>
+        <br />
+        <p><a name="q39"></a>Q: What are the standard densities for the AFL Wall Mount Interconnect Enclosures (WME)?&nbsp;<br />
+        A:</p>
+        <table border="1" cellpadding="0" cellspacing="0" width="541">
+            <tbody>
+                <tr>
+                    <td>
+                    <p>&nbsp;</p>
+                    </td>
+                    <td>
+                    <p>Fiber Density</p>
+                    </td>
+                    <td>
+                    <p>LGX 118<br />
+                    Mounting Positions</p>
+                    </td>
+                    <td>
+                    <p>Physical Dimensions</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p>WME02</p>
+                    </td>
+                    <td>
+                    <p>12 to 24 fiber</p>
+                    </td>
+                    <td>
+                    <p>Up to two</p>
+                    </td>
+                    <td>
+                    <p>12.0"H x 14.0"W x 2.5"D</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p>WME04</p>
+                    </td>
+                    <td>
+                    <p>24 to 48 fiber</p>
+                    </td>
+                    <td>
+                    <p>Up to four</p>
+                    </td>
+                    <td>
+                    <p>12.0"H x 16.0"W x 3.63"D</p>
+                    <div>&nbsp;</div>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <br />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kushagra
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: optical connectivity FAST Connectors FuseConnect frequently asked questions FAQ
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: Fiber Inside Plant
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1443457d-ad41-481f-bf94-5a4ccd262054"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahesh
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220224T113737Z
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220125T091926Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Fibra en el interior de la planta
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: Optical Connectivity Frequently Asked Questions submitted by customers regarding FAST Connectors and FuseConnect from AFL. 
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <h1>FAQ: Fiber Inside Plant</h1>
+        <p>Below are the FAQs submitted by customers regarding the Fiber Inside Plant product line.</p>
+        <h3>Cable Assemblies</h3>
+        <br />
+        <ul>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-Cable-Assemblies #q1">Can I order jumpers in different colors besides the standard?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-Cable-Assemblies #q2">What are the differences between OM1, OM2, OM3 and OM4 fiber?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-Cable-Assemblies #q3">where can I find jumper specifications?</a></li>
+        </ul>
+        <br />
+        <h3>FASTConnect® and FUSEConnect® General</h3>
+        <br />
+        <ul>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-FAST-Connect-and-FuseConnect-General #q4">What are the pros and cons of FASTConnect vs. FUSEConnect for my application?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-FAST-Connect-and-FuseConnect-General #q5">Can FUSEConnect and FASTConnect be used with loose tube 900µm diameter cable?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-FAST-Connect-and-FuseConnect-General #q6">Why won't the fiber cleave after I strip the fiber to the appropriate lengths stated in the instructions?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-FAST-Connect-and-FuseConnect-General #q7">Will standard 50µm multimode fiber (MMF) connectors work with OM3/OM4 MMF connectors or will OM3/OM4 MMF connectors work with standard 50µm MMF connectors? Can you use OM3 MMF connectors in place of OM4 MMF connectors?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-FAST-Connect-and-FuseConnect-General #q8">Would you recommend FUSEConnect and FASTConnect for outdoor use?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-FAST-Connect-and-FuseConnect-General #q9">What comes in the connector installation kit?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-FAST-Connect-and-FuseConnect-General #q10">Do you have both mechanical and fusion splice-on connectors? Where can I find connector specifications?</a></li>
+        </ul>
+        <br />
+        <h3>FAST Connect Specific</h3>
+        <br />
+        <ul>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-FAST-Connect-Specific #q11">What are the differences between the CT-30 and the CT-05 cleavers included in the FASTConnect tool kits?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-FAST-Connect-Specific #q12">Why am I getting high-loss when terminating FASTConnect?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-FAST-Connect-Specific #q13">Why am I unable to insert the fiber into the connector?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-FAST-Connect-Specific #q14">Why is the VFL not working?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-FAST-Connect-Specific #q15">What is the index of refraction over temperature?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-FAST-Connect-Specific #q16">How do you prevent the gel from drying out inside of the connector?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-FAST-Connect-Specific #q17">What prevents the gel from migrating away from the fiber?</a></li>
+        </ul>
+        <br />
+        <h3>FuseConnect Specific</h3>
+        <br />
+        <ul>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-FuseConnect-Specific #q18">Why am I seeing bad cleaves when I place a FUSEConnect connector into my fusion splicer?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-FuseConnect-Specific #q19">Can non-Fujikura splicers be used with AFL's FUSEConnect connectors?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-FuseConnect-Specific #q20">Does it work with ____ splicer?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-FuseConnect-Specific #q21">Does everything needed come with the connectors when purchased?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-FuseConnect-Specific #q22">Which holders come with the FUSEConnect tool kits, and what other items are needed to use the product?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-FuseConnect-Specific #q23">What fusion splicer will you need to use with the FUSEConnect connector?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-FuseConnect-Specific #q25">What is the loss at the splicing point and connector?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-FuseConnect-Specific #q26">What type of FUSEConnect connectors are available?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-FuseConnect-Specific #q27">Do you need to clean the fiber stub at the end of the FUSEConnect connector?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-FuseConnect-Specific #q28">Why does the protective sleeve not shrink onto the 900µm fiber?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-FuseConnect-Specific #q30">What are the 2 mm or 3 mm cable clamps for?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-FuseConnect-Specific #q31">Can you terminate the FUSEConnect connector onto a Fanout or Breakout kit?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-FuseConnect-Specific #q32">Why would the FUSEConnect connector melt back to a round end face during the termination process?</a></li>
+        </ul>
+        <br />
+        <h3>Rack Mount Patch Panels</h3>
+        <br />
+        <ul>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-Rack-Mount-Patch-Panels #q33">What splice tray is supported by the LightLink LANSystem</a><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-Rack-Mount-Patch-Panels #q33">®</a> Fiber Termination Patch/Splice Panels?</li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-Rack-Mount-Patch-Panels #q34">What are the fiber densities for AFL rack mount panels?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-Rack-Mount-Patch-Panels #q35">How many cable clamps are included with a rack mount fiber termination panel?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-Rack-Mount-Patch-Panels #q36">Does AFL have a have a total solution for rack mount applications?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-Rack-Mount-Patch-Panels #q37">What is the polarity method utilized by the XFM</a><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-Rack-Mount-Patch-Panels #q37">®</a>-HD product line?</li>
+        </ul>
+        <br />
+        <h3>Modules and Panel Accessories</h3>
+        <br />
+        <ul>
+            <li><a href=" /Resources/Frequently-Asked-Questions/Fiber-Inside-Plant #q38">In what color is the Poli-MOD</a><a href=" /Resources/Frequently-Asked-Questions/Fiber-Inside-Plant #q38">®</a> available?</li>
+        </ul>
+        <br />
+        <h3>Indoor Wall Mounted Panels</h3>
+        <br />
+        <ul>
+            <li><a href=" /Resources/Frequently-Asked-Questions/Fiber-Inside-Plant #q39">What are the standard densities for the AFL Wall Mount Interconnect Enclosures (WME)?</a></li>
+        </ul>
+        <br />
+        <h3>Couplers/Splitters and Multiplexer</h3>
+        <br />
+        <ul>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-Couplers-Splitters-and-Multiplexer #q40">What packages do your filter products come in?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-Couplers-Splitters-and-Multiplexer #q41">What are the operating wavelengths for filter products?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-Couplers-Splitters-and-Multiplexer #q42">What upgrade or express ports are available?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-Couplers-Splitters-and-Multiplexer #q43">What are the spec sheets for filter available?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-Couplers-Splitters-and-Multiplexer #q44">Are CWDM and DWDM filters water resistant or waterproof?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-Couplers-Splitters-and-Multiplexer #q45">Will an AFL Splitter work in a non-AFL cabinet?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-Couplers-Splitters-and-Multiplexer #q46">Where are AFL WDM products available?</a></li>
+        </ul>
+        <br />
+        <p> </p>
+        <p> </p>
+        <p> </p>
+        <h3>Modules and Panel Accessories</h3>
+        <br />
+        <p><a name="q38"></a>Q: In what color is the Poli-MOD available? <br />
+        A: The Poli-MOD is available in black.</p>
+        <br />
+        <h3>Indoor Wall Mounted Panels</h3>
+        <br />
+        <p><a name="q39"></a>Q: What are the standard densities for the AFL Wall Mount Interconnect Enclosures (WME)? <br />
+        A:</p>
+        <table border="1" cellpadding="0" cellspacing="0" width="541">
+            <tbody>
+                <tr>
+                    <td>
+                    <p> </p>
+                    </td>
+                    <td>
+                    <p>Fiber Density</p>
+                    </td>
+                    <td>
+                    <p>LGX 118<br />
+                    Mounting Positions</p>
+                    </td>
+                    <td>
+                    <p>Physical Dimensions</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p>WME02</p>
+                    </td>
+                    <td>
+                    <p>12 to 24 fiber</p>
+                    </td>
+                    <td>
+                    <p>Up to two</p>
+                    </td>
+                    <td>
+                    <p>12.0"H x 14.0"W x 2.5"D</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p>WME04</p>
+                    </td>
+                    <td>
+                    <p>24 to 48 fiber</p>
+                    </td>
+                    <td>
+                    <p>Up to four</p>
+                    </td>
+                    <td>
+                    <p>12.0"H x 16.0"W x 3.63"D</p>
+                    <div> </div>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <br />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kushagra
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: optical connectivity FAST Connectors FuseConnect frequently asked questions FAQ
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: Fibra en el interior de la planta
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: Fibra en el interior de la planta
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "44ef337b-f346-4ab1-9c44-894737712728"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T095803Z
+- Language: "fr-FR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220125T091926Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Fibre à l'intérieur de l'usine
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: Optical Connectivity Frequently Asked Questions submitted by customers regarding FAST Connectors and FuseConnect from AFL. 
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <h1>FAQ: Fiber Inside Plant</h1>
+        <p>Below are the FAQs submitted by customers regarding the Fiber Inside Plant product line.</p>
+        <h3>Cable Assemblies</h3>
+        <br />
+        <ul>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-Cable-Assemblies #q1">Can I order jumpers in different colors besides the standard?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-Cable-Assemblies #q2">What are the differences between OM1, OM2, OM3 and OM4 fiber?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-Cable-Assemblies #q3">where can I find jumper specifications?</a></li>
+        </ul>
+        <br />
+        <h3>FASTConnect® and FUSEConnect® General</h3>
+        <br />
+        <ul>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-FAST-Connect-and-FuseConnect-General #q4">What are the pros and cons of FASTConnect vs. FUSEConnect for my application?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-FAST-Connect-and-FuseConnect-General #q5">Can FUSEConnect and FASTConnect be used with loose tube 900µm diameter cable?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-FAST-Connect-and-FuseConnect-General #q6">Why won't the fiber cleave after I strip the fiber to the appropriate lengths stated in the instructions?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-FAST-Connect-and-FuseConnect-General #q7">Will standard 50µm multimode fiber (MMF) connectors work with OM3/OM4 MMF connectors or will OM3/OM4 MMF connectors work with standard 50µm MMF connectors? Can you use OM3 MMF connectors in place of OM4 MMF connectors?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-FAST-Connect-and-FuseConnect-General #q8">Would you recommend FUSEConnect and FASTConnect for outdoor use?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-FAST-Connect-and-FuseConnect-General #q9">What comes in the connector installation kit?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-FAST-Connect-and-FuseConnect-General #q10">Do you have both mechanical and fusion splice-on connectors? Where can I find connector specifications?</a></li>
+        </ul>
+        <br />
+        <h3>FAST Connect Specific</h3>
+        <br />
+        <ul>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-FAST-Connect-Specific #q11">What are the differences between the CT-30 and the CT-05 cleavers included in the FASTConnect tool kits?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-FAST-Connect-Specific #q12">Why am I getting high-loss when terminating FASTConnect?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-FAST-Connect-Specific #q13">Why am I unable to insert the fiber into the connector?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-FAST-Connect-Specific #q14">Why is the VFL not working?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-FAST-Connect-Specific #q15">What is the index of refraction over temperature?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-FAST-Connect-Specific #q16">How do you prevent the gel from drying out inside of the connector?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-FAST-Connect-Specific #q17">What prevents the gel from migrating away from the fiber?</a></li>
+        </ul>
+        <br />
+        <h3>FuseConnect Specific</h3>
+        <br />
+        <ul>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-FuseConnect-Specific #q18">Why am I seeing bad cleaves when I place a FUSEConnect connector into my fusion splicer?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-FuseConnect-Specific #q19">Can non-Fujikura splicers be used with AFL's FUSEConnect connectors?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-FuseConnect-Specific #q20">Does it work with ____ splicer?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-FuseConnect-Specific #q21">Does everything needed come with the connectors when purchased?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-FuseConnect-Specific #q22">Which holders come with the FUSEConnect tool kits, and what other items are needed to use the product?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-FuseConnect-Specific #q23">What fusion splicer will you need to use with the FUSEConnect connector?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-FuseConnect-Specific #q25">What is the loss at the splicing point and connector?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-FuseConnect-Specific #q26">What type of FUSEConnect connectors are available?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-FuseConnect-Specific #q27">Do you need to clean the fiber stub at the end of the FUSEConnect connector?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-FuseConnect-Specific #q28">Why does the protective sleeve not shrink onto the 900µm fiber?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-FuseConnect-Specific #q30">What are the 2 mm or 3 mm cable clamps for?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-FuseConnect-Specific #q31">Can you terminate the FUSEConnect connector onto a Fanout or Breakout kit?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-FuseConnect-Specific #q32">Why would the FUSEConnect connector melt back to a round end face during the termination process?</a></li>
+        </ul>
+        <br />
+        <h3>Rack Mount Patch Panels</h3>
+        <br />
+        <ul>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-Rack-Mount-Patch-Panels #q33">What splice tray is supported by the LightLink LANSystem</a><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-Rack-Mount-Patch-Panels #q33">®</a> Fiber Termination Patch/Splice Panels?</li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-Rack-Mount-Patch-Panels #q34">What are the fiber densities for AFL rack mount panels?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-Rack-Mount-Patch-Panels #q35">How many cable clamps are included with a rack mount fiber termination panel?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-Rack-Mount-Patch-Panels #q36">Does AFL have a have a total solution for rack mount applications?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-Rack-Mount-Patch-Panels #q37">What is the polarity method utilized by the XFM</a><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-Rack-Mount-Patch-Panels #q37">®</a>-HD product line?</li>
+        </ul>
+        <br />
+        <h3>Modules and Panel Accessories</h3>
+        <br />
+        <ul>
+            <li><a href=" /Resources/Frequently-Asked-Questions/Fiber-Inside-Plant #q38">In what color is the Poli-MOD</a><a href=" /Resources/Frequently-Asked-Questions/Fiber-Inside-Plant #q38">®</a> available?</li>
+        </ul>
+        <br />
+        <h3>Indoor Wall Mounted Panels</h3>
+        <br />
+        <ul>
+            <li><a href=" /Resources/Frequently-Asked-Questions/Fiber-Inside-Plant #q39">What are the standard densities for the AFL Wall Mount Interconnect Enclosures (WME)?</a></li>
+        </ul>
+        <br />
+        <h3>Couplers/Splitters and Multiplexer</h3>
+        <br />
+        <ul>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-Couplers-Splitters-and-Multiplexer #q40">What packages do your filter products come in?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-Couplers-Splitters-and-Multiplexer #q41">What are the operating wavelengths for filter products?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-Couplers-Splitters-and-Multiplexer #q42">What upgrade or express ports are available?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-Couplers-Splitters-and-Multiplexer #q43">What are the spec sheets for filter available?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-Couplers-Splitters-and-Multiplexer #q44">Are CWDM and DWDM filters water resistant or waterproof?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-Couplers-Splitters-and-Multiplexer #q45">Will an AFL Splitter work in a non-AFL cabinet?</a></li>
+            <li><a href="/Resources/Frequently-Asked-Questions/Fiber-Inside-Plant/FAQ-Couplers-Splitters-and-Multiplexer #q46">Where are AFL WDM products available?</a></li>
+        </ul>
+        <br />
+        <p> </p>
+        <p> </p>
+        <p> </p>
+        <h3>Modules and Panel Accessories</h3>
+        <br />
+        <p><a name="q38"></a>Q: In what color is the Poli-MOD available? <br />
+        A: The Poli-MOD is available in black.</p>
+        <br />
+        <h3>Indoor Wall Mounted Panels</h3>
+        <br />
+        <p><a name="q39"></a>Q: What are the standard densities for the AFL Wall Mount Interconnect Enclosures (WME)? <br />
+        A:</p>
+        <table border="1" cellpadding="0" cellspacing="0" width="541">
+            <tbody>
+                <tr>
+                    <td>
+                    <p> </p>
+                    </td>
+                    <td>
+                    <p>Fiber Density</p>
+                    </td>
+                    <td>
+                    <p>LGX 118<br />
+                    Mounting Positions</p>
+                    </td>
+                    <td>
+                    <p>Physical Dimensions</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p>WME02</p>
+                    </td>
+                    <td>
+                    <p>12 to 24 fiber</p>
+                    </td>
+                    <td>
+                    <p>Up to two</p>
+                    </td>
+                    <td>
+                    <p>12.0"H x 14.0"W x 2.5"D</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    <p>WME04</p>
+                    </td>
+                    <td>
+                    <p>24 to 48 fiber</p>
+                    </td>
+                    <td>
+                    <p>Up to four</p>
+                    </td>
+                    <td>
+                    <p>12.0"H x 16.0"W x 3.63"D</p>
+                    <div> </div>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <br />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kushagra
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: optical connectivity FAST Connectors FuseConnect frequently asked questions FAQ
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: Fibre à l'intérieur de l'usine
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: Fibre à l'intérieur de l'usine
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "10eb34f9-1232-4928-b7cb-9e5be4b09fe3"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T095803Z

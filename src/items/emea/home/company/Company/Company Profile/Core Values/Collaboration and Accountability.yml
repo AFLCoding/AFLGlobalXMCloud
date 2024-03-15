@@ -1,0 +1,270 @@
+﻿---
+ID: "7afc35c8-7a42-4ae0-9b95-9f37c58a8c98"
+Parent: "72713040-19cf-41e4-bd10-19d9d4002d69"
+Template: "bf61de11-b78f-48ea-aaa4-1d17f0d83824"
+Path: "/sitecore/content/AFL-Global/EMEA/Home/Company/Company Profile/Core Values/Collaboration and Accountability"
+SharedFields:
+- ID: "1fbc6a49-6281-48ee-87e9-a3970b145adb"
+  Hint: NavigationFilter
+  Value: |
+    {E0A2A027-0932-4878-A7D6-0416D5263EFB}
+    {61BD64D6-809E-40AE-9297-2724A19329B3}
+    {D063E9D1-C7B5-4B1E-B31E-69886C9C59F5}
+    {500AE4C0-FA7B-463F-8149-EFFF7F044101}
+    {A0E7FF57-6994-4B09-AA21-104239628D5A}
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{9B9150CA-F788-45F7-B378-77F936EC878B}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{DAE7C21D-4D3B-4257-A95C-9104CD8AF409}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 300
+Languages:
+- Language: "de-DE"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211223T144210Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Collaboration and Accountability
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\matt
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: "AFL Corporate Social Responsibility - Collaboration and Accountability; AFL is dedicated to providing quality products and exceptional service and is committed to exceeding the expectations of our customers. "
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <p>
+        	AFL is dedicated to providing quality products and exceptional service and is committed to exceeding the expectations of our customers. Our goal is to first understand exactly what our customers need and work together to achieve the solution that best suits their application. Across the company, our associates are collaborating with each other to deliver solutions that improve our customers’ businesses.</p>
+        <p>
+        	Our culture is one of continuous improvement and superior technology to better meet the needs of our customers. We work extensively with our customers to ensure products are manufactured correctly, on time and tested to their specifications. Not only do we hold ourselves accountable from a quality testing standpoint, but also from an internal and external audit standpoint. AFL’s facilities are certified to the ISO 9001 standard for quality management systems.</p>
+        <p>
+        	AFL conducts quarterly reviews along with an annual audit of our financial statements by an international public accounting firm. Results are reported to our parent company, Fujikura Ltd. of Japan. Our internal audit team oversees external audits and ensures compliance with the Japanese Instruments and Exchange Laws (JSOX).  Additionally, our internal audit team performs risk-based audits of AFL policies, procedures, control environments, financial functions and operations.</p>
+        
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\harry
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: "AFL Corporate Social Responsibility - Collaboration and Accountability"
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: "Corporate Social Responsibility - Collaboration and Accountability"
+    - ID: "628db04b-29a2-483b-a88c-b8fd9a5f2086"
+      Hint: HeroLink
+      Value: |
+        <link id="{B953A8A1-0BFD-44A4-8BA0-10AEA6F829B1}" querystring="" linktype="internal" text="LEARN MORE" anchor="" url="/AFL-Global/AMERICAS/Home/Company/Company Profile/Core Values/Collaboration and Accountability" title="" class="" target="|Custom" />
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: Collaboration and Accountability
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b6c9ed3b-e939-4085-9b95-a797231a8c94"
+    - ID: "93dc88f3-05e5-482d-9b9a-c859c8258a73"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="168707" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/168707/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/2f5811acd9bc4934b768bda0b175a254?v=3d3f66b4" stylelabs-content-type="Image" alt="community-takeroot.jpg" height="369" width="954" />
+    - ID: "a40ebd3d-2b41-41fb-90f7-753544ce77c5"
+      Hint: Hero Title1
+      Value: Collaboration and Accountability
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rob
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231102T172021Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211223T144210Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Collaboration and Accountability
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\harry
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: "AFL Corporate Social Responsibility - Collaboration and Accountability; AFL is dedicated to providing quality products and exceptional service and is committed to exceeding the expectations of our customers. "
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <p>
+        	AFL is dedicated to providing quality products and exceptional service and is committed to exceeding the expectations of our customers. Our goal is to first understand exactly what our customers need and work together to achieve the solution that best suits their application. Across the company, our associates are collaborating with each other to deliver solutions that improve our customers’ businesses.</p>
+        <p>
+        	Our culture is one of continuous improvement and superior technology to better meet the needs of our customers. We work extensively with our customers to ensure products are manufactured correctly, on time and tested to their specifications. Not only do we hold ourselves accountable from a quality testing standpoint, but also from an internal and external audit standpoint. AFL’s facilities are certified to the ISO 9001 standard for quality management systems.</p>
+        <p>
+        	AFL conducts quarterly reviews along with an annual audit of our financial statements by an international public accounting firm. Results are reported to our parent company, Fujikura Ltd. of Japan. Our internal audit team oversees external audits and ensures compliance with the Japanese Instruments and Exchange Laws (JSOX).  Additionally, our internal audit team performs risk-based audits of AFL policies, procedures, control environments, financial functions and operations.</p>
+        
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\harry
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: "AFL Corporate Social Responsibility - Collaboration and Accountability"
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: "Corporate Social Responsibility - Collaboration and Accountability"
+    - ID: "628db04b-29a2-483b-a88c-b8fd9a5f2086"
+      Hint: HeroLink
+      Value: |
+        <link id="{B953A8A1-0BFD-44A4-8BA0-10AEA6F829B1}" querystring="" linktype="internal" text="LEARN MORE" anchor="" url="/AFL-Global/AMERICAS/Home/Company/Company Profile/Core Values/Collaboration and Accountability" title="" class="" target="|Custom" />
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: Collaboration and Accountability
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "594f4a54-4fe7-4d2b-972e-20e9f6adfee3"
+    - ID: "93dc88f3-05e5-482d-9b9a-c859c8258a73"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="168707" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/168707/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/2f5811acd9bc4934b768bda0b175a254?v=3d3f66b4" stylelabs-content-type="Image" alt="community-takeroot.jpg" height="369" width="954" />
+    - ID: "a40ebd3d-2b41-41fb-90f7-753544ce77c5"
+      Hint: Hero Title1
+      Value: Collaboration and Accountability
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rob
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231102T172629Z
+    - ID: "dd0b26a2-9ca3-4573-b501-3b33a6efbc65"
+      Hint: Hero Title2
+      Value: 
+- Language: "es-ES"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211223T144210Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Collaboration and Accountability
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\matt
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: "AFL Corporate Social Responsibility - Collaboration and Accountability; AFL is dedicated to providing quality products and exceptional service and is committed to exceeding the expectations of our customers. "
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <p>
+        	AFL is dedicated to providing quality products and exceptional service and is committed to exceeding the expectations of our customers. Our goal is to first understand exactly what our customers need and work together to achieve the solution that best suits their application. Across the company, our associates are collaborating with each other to deliver solutions that improve our customers’ businesses.</p>
+        <p>
+        	Our culture is one of continuous improvement and superior technology to better meet the needs of our customers. We work extensively with our customers to ensure products are manufactured correctly, on time and tested to their specifications. Not only do we hold ourselves accountable from a quality testing standpoint, but also from an internal and external audit standpoint. AFL’s facilities are certified to the ISO 9001 standard for quality management systems.</p>
+        <p>
+        	AFL conducts quarterly reviews along with an annual audit of our financial statements by an international public accounting firm. Results are reported to our parent company, Fujikura Ltd. of Japan. Our internal audit team oversees external audits and ensures compliance with the Japanese Instruments and Exchange Laws (JSOX).  Additionally, our internal audit team performs risk-based audits of AFL policies, procedures, control environments, financial functions and operations.</p>
+        
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\harry
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: "AFL Corporate Social Responsibility - Collaboration and Accountability"
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: "Corporate Social Responsibility - Collaboration and Accountability"
+    - ID: "628db04b-29a2-483b-a88c-b8fd9a5f2086"
+      Hint: HeroLink
+      Value: |
+        <link id="{B953A8A1-0BFD-44A4-8BA0-10AEA6F829B1}" querystring="" linktype="internal" text="LEARN MORE" anchor="" url="/AFL-Global/AMERICAS/Home/Company/Company Profile/Core Values/Collaboration and Accountability" title="" class="" target="|Custom" />
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: Collaboration and Accountability
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "563d2450-cd7c-417f-8fec-efaada561de1"
+    - ID: "93dc88f3-05e5-482d-9b9a-c859c8258a73"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="168707" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/168707/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/2f5811acd9bc4934b768bda0b175a254?v=3d3f66b4" stylelabs-content-type="Image" alt="community-takeroot.jpg" height="369" width="954" />
+    - ID: "a40ebd3d-2b41-41fb-90f7-753544ce77c5"
+      Hint: Hero Title1
+      Value: Collaboration and Accountability
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rob
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231102T172021Z
+- Language: "fr-FR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230322T191231Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{EE9BAFE9-A55E-406B-8BBF-45ADF7FF9068}"
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Collaboration and Accountability
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rob
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <p>
+        	AFL is dedicated to providing quality products and exceptional service and is committed to exceeding the expectations of our customers. Our goal is to first understand exactly what our customers need and work together to achieve the solution that best suits their application. Across the company, our associates are collaborating with each other to deliver solutions that improve our customers’ businesses.</p>
+        <p>
+        	Our culture is one of continuous improvement and superior technology to better meet the needs of our customers. We work extensively with our customers to ensure products are manufactured correctly, on time and tested to their specifications. Not only do we hold ourselves accountable from a quality testing standpoint, but also from an internal and external audit standpoint. AFL’s facilities are certified to the ISO 9001 standard for quality management systems.</p>
+        <p>
+        	AFL conducts quarterly reviews along with an annual audit of our financial statements by an international public accounting firm. Results are reported to our parent company, Fujikura Ltd. of Japan. Our internal audit team oversees external audits and ensures compliance with the Japanese Instruments and Exchange Laws (JSOX).  Additionally, our internal audit team performs risk-based audits of AFL policies, procedures, control environments, financial functions and operations.</p>
+        
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rob
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: Collaboration and Accountability
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "76fd76ca-e91d-44b1-8f12-893dcc91a082"
+    - ID: "93dc88f3-05e5-482d-9b9a-c859c8258a73"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="168707" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/168707/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/2f5811acd9bc4934b768bda0b175a254?v=3d3f66b4" stylelabs-content-type="Image" alt="community-takeroot.jpg" height="369" width="954" />
+    - ID: "a40ebd3d-2b41-41fb-90f7-753544ce77c5"
+      Hint: Hero Title1
+      Value: Collaboration and Accountability
+    - ID: "ab91d39b-30ad-4050-acef-07c741146fcc"
+      Hint: Heading
+      Value: Collaboration and Accountability
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231110T071022Z

@@ -1,0 +1,306 @@
+﻿---
+ID: "a4374c39-2336-4245-a263-5f46fec15009"
+Parent: "c1abb71a-1cdb-4a15-82b6-735136fe2d23"
+Template: "f36e821e-bb98-44dc-966d-e92a0e033cc7"
+Path: "/sitecore/content/AFL-Global/EMEA/Home/Company/Company Profile/NewsArchive/2010/AFL Announces 2010 Naruse Scholarship Recipient"
+SharedFields:
+- ID: "1fbc6a49-6281-48ee-87e9-a3970b145adb"
+  Hint: NavigationFilter
+  Value: |
+    {E0A2A027-0932-4878-A7D6-0416D5263EFB}
+    {61BD64D6-809E-40AE-9297-2724A19329B3}
+    {D063E9D1-C7B5-4B1E-B31E-69886C9C59F5}
+    {500AE4C0-FA7B-463F-8149-EFFF7F044101}
+    {A0E7FF57-6994-4B09-AA21-104239628D5A}
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{3A84BAC9-C1BD-4809-A12C-28EB44E25329}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{DAE7C21D-4D3B-4257-A95C-9104CD8AF409}"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{48D826CA-7AE6-4387-AE67-E7070B242906}">
+          <p:d />
+        </r>
+      </d>
+    </r>
+Languages:
+- Language: "de-DE"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "228f9517-e120-4014-b2c7-df0ac467a349"
+      Hint: ContentTitle
+      Value: AFL Announces 2010 Naruse Scholarship Recipient
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211202T112609Z
+    - ID: "3688d7df-2feb-43a4-ab8d-410e5f70a676"
+      Hint: ContentDescription
+      Value: |
+        Spartanburg, SC — AFL presented the 2010 - 2011 Naruse Scholarship Award last week to Brian Foley, son of Sean Foley, Market Development Manager for AFL's R&D Center and an AFL associate of 12 years. Brian is a graduating senior of JL Mann High School where he is ranked in the top 10 of his class. During his high school career, he was awarded "AP Scholar with Distinction", National Merit Scholar Letter of Commendation, and 1st place in a local Law Day Essay contest. He received recognition from several regional colleges for his academic achievements including the Washington and Lee Book Award, Furman Scholar, Wofford Scholar and Presbyterian College Fellow.<br />
+        <br />
+        Brian is actively involved in high school through his participation in cross country, speech and debate and as captain of the academic team. Outside of school, he serves his church as an usher and a Peer Minister for his youth group. He is a Boy Scout and earned the rank of Eagle at age 16. His Eagle Scout project involved building a dock and beautifying the area at Paris Mountain’s Lake Buckhorn. The project included 70 hours of planning and personal effort, as well as managing over 190 volunteer man-hours. As part of the Student Conservation Association, he spent the last two summers living in wilderness areas for three to four weeks each building trails in Vermont and Alaska.<br />
+        <br />
+        Brian received appointments to the United States Naval Academy in Annapolis, MD and the United States Military Academy in West Point, NY and was accepted into Clemson, Georgia Tech, Duke and University of Penn. He chose to attend MIT this fall, where he plans to major in mechanical engineering.<br />
+        <br />
+        The Naruse Scholarship Fund is administered by the Center for Scholarship Administration located in Greenville, South Carolina. Rising seniors of AFL associates are eligible for up to $2,000 per year, with a cap of $8,000 per student per year over a four-year period. The award is applied to the cost of tuition, room and board, fees, books and supplies.<br />
+        <br />
+        About AFL<br />
+        AFL is an industry leader in providing fiber optic products, engineering expertise and integrated services to the Electric Utility, Broadband, Telco, OEM, Private Network and Wireless markets. A division of Fujikura Ltd. of Japan, AFL has operations in the U.S., U.K., Germany, China, and Mexico.<br />
+        <br />
+        About Fujikura Foundation<br />
+        With a commitment to being an exemplary corporate citizen for the communities in which we operate, America Fujikura Ltd., parent company to AFL and AFL Network Services, has established a Foundation that focuses on four Areas of Opportunity supporting families, education, the environment and community partnerships. In keeping with both our current corporate strategies and principles, Fujikura Foundation is providing monetary contributions and volunteer opportunities so that we can give back to the communities who have made our existence possible. For additional information, visit www.AFLglobal.com.<br />
+        <br />
+        Contacts<span> </span> <span> </span> <br />
+         <span> </span><br />
+        Corie Culp<br />
+        Public Relations Manager<br />
+        AFL<br />
+        864.433.5409<br />
+        corie.culp@aflglobal.com
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4c3792cf-8348-4d85-9cac-3f6086716488"
+      Hint: ContentCategory
+      Value: "{F78EA78A-E127-49A5-95B6-7DE64F85F319}"
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: AFL Announces 2010 Naruse Scholarship Recipient
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\matt
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\matt
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: AFL Announces 2010 Naruse Scholarship Recipient
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: AFL Announces 2010 Naruse Scholarship Recipient
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4cbdc3a1-8742-414d-bfc3-5dd2c9e66f3a"
+    - ID: "a6eaffd5-fc3e-41b4-93b3-f1721fcf2300"
+      Hint: ContentPublishedDate
+      Value: 20100523T183000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T100300Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: 
+    - ID: "228f9517-e120-4014-b2c7-df0ac467a349"
+      Hint: ContentTitle
+      Value: AFL Announces 2010 Naruse Scholarship Recipient
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211202T112609Z
+    - ID: "3688d7df-2feb-43a4-ab8d-410e5f70a676"
+      Hint: ContentDescription
+      Value: |
+        Spartanburg, SC &mdash; AFL presented the 2010 - 2011 Naruse Scholarship Award last week to Brian Foley, son of Sean Foley, Market Development Manager for AFL's R&amp;D Center and an AFL associate of 12 years. Brian is a graduating senior of JL Mann High School where he is ranked in the top 10 of his class. During his high school career, he was awarded "AP Scholar with Distinction", National Merit Scholar Letter of Commendation, and 1st place in a local Law Day Essay contest. He received recognition from several regional colleges for his academic achievements including the Washington and Lee Book Award, Furman Scholar, Wofford Scholar and Presbyterian College Fellow.<br />
+        <br />
+        Brian is actively involved in high school through his participation in cross country, speech and debate and as captain of the academic team. Outside of school, he serves his church as an usher and a Peer Minister for his youth group. He is a Boy Scout and earned the rank of Eagle at age 16. His Eagle Scout project involved building a dock and beautifying the area at Paris Mountain&rsquo;s Lake Buckhorn. The project included 70 hours of planning and personal effort, as well as managing over 190 volunteer man-hours. As part of the Student Conservation Association, he spent the last two summers living in wilderness areas for three to four weeks each building trails in Vermont and Alaska.<br />
+        <br />
+        Brian received appointments to the United States Naval Academy in Annapolis, MD and the United States Military Academy in West Point, NY and was accepted into Clemson, Georgia Tech, Duke and University of Penn. He chose to attend MIT this fall, where he plans to major in mechanical engineering.<br />
+        <br />
+        The Naruse Scholarship Fund is administered by the Center for Scholarship Administration located in Greenville, South Carolina. Rising seniors of AFL associates are eligible for up to $2,000 per year, with a cap of $8,000 per student per year over a four-year period. The award is applied to the cost of tuition, room and board, fees, books and supplies.<br />
+        <br />
+        About AFL<br />
+        AFL is an industry leader in providing fiber optic products, engineering expertise and integrated services to the Electric Utility, Broadband, Telco, OEM, Private Network and Wireless markets. A division of Fujikura Ltd. of Japan, AFL has operations in the U.S., U.K., Germany, China, and Mexico.<br />
+        <br />
+        About Fujikura Foundation<br />
+        With a commitment to being an exemplary corporate citizen for the communities in which we operate, America Fujikura Ltd., parent company to AFL and AFL Network Services, has established a Foundation that focuses on four Areas of Opportunity supporting families, education, the environment and community partnerships. In keeping with both our current corporate strategies and principles, Fujikura Foundation is providing monetary contributions and volunteer opportunities so that we can give back to the communities who have made our existence possible. For additional information, visit www.AFLglobal.com.<br />
+        <br />
+        Contacts<span> </span> <span> </span>&nbsp;<br />
+        &nbsp;<span> </span><br />
+        Corie Culp<br />
+        Public Relations Manager<br />
+        AFL<br />
+        864.433.5409<br />
+        corie.culp@aflglobal.com
+    - ID: "4c3792cf-8348-4d85-9cac-3f6086716488"
+      Hint: ContentCategory
+      Value: "{F78EA78A-E127-49A5-95B6-7DE64F85F319}"
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: AFL Announces 2010 Naruse Scholarship Recipient
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: AFL Announces 2010 Naruse Scholarship Recipient
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: AFL Announces 2010 Naruse Scholarship Recipient
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5e0da640-9864-424a-943d-65d3793d6947"
+    - ID: "a6eaffd5-fc3e-41b4-93b3-f1721fcf2300"
+      Hint: ContentPublishedDate
+      Value: 20100523T183000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T100300Z
+- Language: "es-ES"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "228f9517-e120-4014-b2c7-df0ac467a349"
+      Hint: ContentTitle
+      Value: AFL Announces 2010 Naruse Scholarship Recipient
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211202T112609Z
+    - ID: "3688d7df-2feb-43a4-ab8d-410e5f70a676"
+      Hint: ContentDescription
+      Value: |
+        Spartanburg, SC — AFL presented the 2010 - 2011 Naruse Scholarship Award last week to Brian Foley, son of Sean Foley, Market Development Manager for AFL's R&D Center and an AFL associate of 12 years. Brian is a graduating senior of JL Mann High School where he is ranked in the top 10 of his class. During his high school career, he was awarded "AP Scholar with Distinction", National Merit Scholar Letter of Commendation, and 1st place in a local Law Day Essay contest. He received recognition from several regional colleges for his academic achievements including the Washington and Lee Book Award, Furman Scholar, Wofford Scholar and Presbyterian College Fellow.<br />
+        <br />
+        Brian is actively involved in high school through his participation in cross country, speech and debate and as captain of the academic team. Outside of school, he serves his church as an usher and a Peer Minister for his youth group. He is a Boy Scout and earned the rank of Eagle at age 16. His Eagle Scout project involved building a dock and beautifying the area at Paris Mountain’s Lake Buckhorn. The project included 70 hours of planning and personal effort, as well as managing over 190 volunteer man-hours. As part of the Student Conservation Association, he spent the last two summers living in wilderness areas for three to four weeks each building trails in Vermont and Alaska.<br />
+        <br />
+        Brian received appointments to the United States Naval Academy in Annapolis, MD and the United States Military Academy in West Point, NY and was accepted into Clemson, Georgia Tech, Duke and University of Penn. He chose to attend MIT this fall, where he plans to major in mechanical engineering.<br />
+        <br />
+        The Naruse Scholarship Fund is administered by the Center for Scholarship Administration located in Greenville, South Carolina. Rising seniors of AFL associates are eligible for up to $2,000 per year, with a cap of $8,000 per student per year over a four-year period. The award is applied to the cost of tuition, room and board, fees, books and supplies.<br />
+        <br />
+        About AFL<br />
+        AFL is an industry leader in providing fiber optic products, engineering expertise and integrated services to the Electric Utility, Broadband, Telco, OEM, Private Network and Wireless markets. A division of Fujikura Ltd. of Japan, AFL has operations in the U.S., U.K., Germany, China, and Mexico.<br />
+        <br />
+        About Fujikura Foundation<br />
+        With a commitment to being an exemplary corporate citizen for the communities in which we operate, America Fujikura Ltd., parent company to AFL and AFL Network Services, has established a Foundation that focuses on four Areas of Opportunity supporting families, education, the environment and community partnerships. In keeping with both our current corporate strategies and principles, Fujikura Foundation is providing monetary contributions and volunteer opportunities so that we can give back to the communities who have made our existence possible. For additional information, visit www.AFLglobal.com.<br />
+        <br />
+        Contacts<span> </span> <span> </span> <br />
+         <span> </span><br />
+        Corie Culp<br />
+        Public Relations Manager<br />
+        AFL<br />
+        864.433.5409<br />
+        corie.culp@aflglobal.com
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4c3792cf-8348-4d85-9cac-3f6086716488"
+      Hint: ContentCategory
+      Value: "{F78EA78A-E127-49A5-95B6-7DE64F85F319}"
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: AFL Announces 2010 Naruse Scholarship Recipient
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\matt
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\matt
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: AFL Announces 2010 Naruse Scholarship Recipient
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: AFL Announces 2010 Naruse Scholarship Recipient
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c44b93a5-ad61-4bfd-8cdb-7e42ca629beb"
+    - ID: "a6eaffd5-fc3e-41b4-93b3-f1721fcf2300"
+      Hint: ContentPublishedDate
+      Value: 20100523T183000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T100300Z
+- Language: "fr-FR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "228f9517-e120-4014-b2c7-df0ac467a349"
+      Hint: ContentTitle
+      Value: AFL Announces 2010 Naruse Scholarship Recipient
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211202T112609Z
+    - ID: "3688d7df-2feb-43a4-ab8d-410e5f70a676"
+      Hint: ContentDescription
+      Value: |
+        Spartanburg, SC — AFL presented the 2010 - 2011 Naruse Scholarship Award last week to Brian Foley, son of Sean Foley, Market Development Manager for AFL's R&D Center and an AFL associate of 12 years. Brian is a graduating senior of JL Mann High School where he is ranked in the top 10 of his class. During his high school career, he was awarded "AP Scholar with Distinction", National Merit Scholar Letter of Commendation, and 1st place in a local Law Day Essay contest. He received recognition from several regional colleges for his academic achievements including the Washington and Lee Book Award, Furman Scholar, Wofford Scholar and Presbyterian College Fellow.<br />
+        <br />
+        Brian is actively involved in high school through his participation in cross country, speech and debate and as captain of the academic team. Outside of school, he serves his church as an usher and a Peer Minister for his youth group. He is a Boy Scout and earned the rank of Eagle at age 16. His Eagle Scout project involved building a dock and beautifying the area at Paris Mountain’s Lake Buckhorn. The project included 70 hours of planning and personal effort, as well as managing over 190 volunteer man-hours. As part of the Student Conservation Association, he spent the last two summers living in wilderness areas for three to four weeks each building trails in Vermont and Alaska.<br />
+        <br />
+        Brian received appointments to the United States Naval Academy in Annapolis, MD and the United States Military Academy in West Point, NY and was accepted into Clemson, Georgia Tech, Duke and University of Penn. He chose to attend MIT this fall, where he plans to major in mechanical engineering.<br />
+        <br />
+        The Naruse Scholarship Fund is administered by the Center for Scholarship Administration located in Greenville, South Carolina. Rising seniors of AFL associates are eligible for up to $2,000 per year, with a cap of $8,000 per student per year over a four-year period. The award is applied to the cost of tuition, room and board, fees, books and supplies.<br />
+        <br />
+        About AFL<br />
+        AFL is an industry leader in providing fiber optic products, engineering expertise and integrated services to the Electric Utility, Broadband, Telco, OEM, Private Network and Wireless markets. A division of Fujikura Ltd. of Japan, AFL has operations in the U.S., U.K., Germany, China, and Mexico.<br />
+        <br />
+        About Fujikura Foundation<br />
+        With a commitment to being an exemplary corporate citizen for the communities in which we operate, America Fujikura Ltd., parent company to AFL and AFL Network Services, has established a Foundation that focuses on four Areas of Opportunity supporting families, education, the environment and community partnerships. In keeping with both our current corporate strategies and principles, Fujikura Foundation is providing monetary contributions and volunteer opportunities so that we can give back to the communities who have made our existence possible. For additional information, visit www.AFLglobal.com.<br />
+        <br />
+        Contacts<span> </span> <span> </span> <br />
+         <span> </span><br />
+        Corie Culp<br />
+        Public Relations Manager<br />
+        AFL<br />
+        864.433.5409<br />
+        corie.culp@aflglobal.com
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4c3792cf-8348-4d85-9cac-3f6086716488"
+      Hint: ContentCategory
+      Value: "{F78EA78A-E127-49A5-95B6-7DE64F85F319}"
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: AFL Announces 2010 Naruse Scholarship Recipient
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\matt
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\matt
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: AFL Announces 2010 Naruse Scholarship Recipient
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: AFL Announces 2010 Naruse Scholarship Recipient
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c5b7fccf-a313-4287-9a14-3ecb5dd0225f"
+    - ID: "a6eaffd5-fc3e-41b4-93b3-f1721fcf2300"
+      Hint: ContentPublishedDate
+      Value: 20100523T183000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T100300Z

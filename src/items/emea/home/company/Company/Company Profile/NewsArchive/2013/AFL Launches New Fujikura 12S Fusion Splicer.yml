@@ -1,0 +1,390 @@
+﻿---
+ID: "0a94f1e9-9463-4189-a441-e6ff5b17b0aa"
+Parent: "e7a3e27a-281f-437d-bd63-e8fa8783ee0a"
+Template: "f36e821e-bb98-44dc-966d-e92a0e033cc7"
+Path: "/sitecore/content/AFL-Global/EMEA/Home/Company/Company Profile/NewsArchive/2013/AFL Launches New Fujikura 12S Fusion Splicer"
+SharedFields:
+- ID: "1fbc6a49-6281-48ee-87e9-a3970b145adb"
+  Hint: NavigationFilter
+  Value: |
+    {E0A2A027-0932-4878-A7D6-0416D5263EFB}
+    {61BD64D6-809E-40AE-9297-2724A19329B3}
+    {D063E9D1-C7B5-4B1E-B31E-69886C9C59F5}
+    {500AE4C0-FA7B-463F-8149-EFFF7F044101}
+    {A0E7FF57-6994-4B09-AA21-104239628D5A}
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{3A84BAC9-C1BD-4809-A12C-28EB44E25329}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{DAE7C21D-4D3B-4257-A95C-9104CD8AF409}"
+Languages:
+- Language: "de-DE"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "228f9517-e120-4014-b2c7-df0ac467a349"
+      Hint: ContentTitle
+      Value: AFL Launches New Fujikura 12S Fusion Splicer
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211213T144414Z
+    - ID: "3688d7df-2feb-43a4-ab8d-410e5f70a676"
+      Hint: ContentDescription
+      Value: |
+        <p>Spartanburg, SC – <a href="http://www.aflglobal.com/">AFL</a> introduces the <a href="http://www.aflglobal.com/Products/Fusion-Splicing/Field-Fusion-Splicing-Equipment/Splicers-Single-Fiber/Fujikura-12S-Fusion-Splicer.aspx">Fujikura 12S fusion splicer</a>, the world’s smallest, lightest and most portable fusion splicer. At just 4.76"W x 6.38"D x 2.24"H, the full-featured 12S fusion splicer is engineered to increase efficiency in the field. With its fully ruggedized chassis, the 12S provides exceptional protection from shock, dust and moisture while its transit case offers multiple options to optimize available work space. The work tray can be placed on top of the transit case or used independently, and for maximum portability the 12S fusion splicer can be detached completely.<br />
+         <br />
+        Retaining its two camera observation system, the Fujikura 12S fusion splicer has several enhanced features.</p>
+        <ul>
+            <li>
+            <p>New Li-ion battery provides three times more power than older versions, yielding up to 100 splice cycles;</p>
+            </li>
+            <li>
+            <p>The 4.5” high-resolution LCD monitor is three times larger than previous screens with no glare under direct sunlight;</p>
+            </li>
+            <li>
+            <p>Refinements in the arc calibration and optical systems have extended the electrode life to 3,000 splices – three times longer than previous models;</p>
+            </li>
+            <li>
+            <p>Splicing and tube heating are 20 percent faster; and</p>
+            </li>
+            <li>
+            <p>Software updates are available via the Internet for quick access to the latest splice programs.</p>
+            </li>
+        </ul>
+        <p>Even with its small size, the Fujikura 12S fusion splicer incorporates innovative features that have enormous capabilities. Backed by the best service team in the industry, the Fujikura 12S fusion splicer is the ideal splicer to use when portability, ruggedness, versatility and reliability are needed for your splicing application.<br />
+         <br />
+        For more information about AFL and its products and services, visit <a href="http://www.aflglobal.com/">www.AFLglobal.com</a>.<br />
+         <br />
+        About AFL<br />
+        AFL provides industry-leading products and services to the electric utility, broadband, communications, OEM, enterprise, wireless and transit rail markets as well as the emerging markets of oil and gas, mining, nuclear, avionics, medical, renewable and intelligent grid. The company’s diverse product portfolio includes fiber optic cable, transmission and substation accessories, outside plant equipment, connectors, fusion splicers, test equipment and training. AFL’s service portfolio includes market-leading positions with the foremost communications companies supporting inside plant central office, EF&I, outside plant, enterprise and wireless areas.<br />
+         <br />
+        Founded in 1984, AFL is proud to offer engineering expertise, exceptional products and reliable service that help our customers improve their critical and electrical infrastructure. AFL has operations in the U.S., Mexico, Europe and Asia. The company is headquartered in Spartanburg, SC, and is a wholly-owned subsidiary of Fujikura Ltd. of Japan. For more information, visit <a href="http://www.aflglobal.com/">www.AFLglobal.com</a>.<br />
+         <br />
+        Contacts<br />
+        Greg Pickeral<br />
+        Product Manager<br />
+        AFL<br />
+        864.433.5937<br />
+        <a href="mailto:Greg.Pickeral@AFLglobal.com">Greg.Pickeral@AFLglobal.com</a><br />
+         <br />
+        Corie Culp<br />
+        Public Relations Manager<br />
+        AFL<br />
+        864.433.5409<br />
+        <a href="mailto:Corie.Culp@AFLglobal.com">Corie.Culp@AFLglobal.com</a></p>
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: AFL Launches New Fujikura 12S Fusion Splicer
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\matt
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: "AFL introduces the Fujikura 12S fusion splicer, the world?s smallest, lightest and most portable fusion splicer. "
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\tanishka
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: "AFL Fujikura 12S fusion splicer smallest lightest portable ruggedized Li-ion LCD monitor extended electrode life"
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: AFL Launches New Fujikura 12S Fusion Splicer
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: AFL Launches New Fujikura 12S Fusion Splicer
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1a454feb-6cd4-4334-96e2-ceac655b784e"
+    - ID: "a6eaffd5-fc3e-41b4-93b3-f1721fcf2300"
+      Hint: ContentPublishedDate
+      Value: 20130120T183000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T100410Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "228f9517-e120-4014-b2c7-df0ac467a349"
+      Hint: ContentTitle
+      Value: AFL Launches New Fujikura 12S Fusion Splicer
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211213T144414Z
+    - ID: "3688d7df-2feb-43a4-ab8d-410e5f70a676"
+      Hint: ContentDescription
+      Value: |
+        <p>Spartanburg, SC &ndash;&nbsp;<a href="http://www.aflglobal.com/">AFL</a>&nbsp;introduces the&nbsp;<a href="http://www.aflglobal.com/Products/Fusion-Splicing/Field-Fusion-Splicing-Equipment/Splicers-Single-Fiber/Fujikura-12S-Fusion-Splicer.aspx">Fujikura 12S fusion splicer</a>, the world&rsquo;s smallest, lightest and most portable fusion splicer. At just 4.76"W x 6.38"D x 2.24"H, the full-featured 12S fusion splicer is engineered to increase efficiency in the field. With its fully ruggedized chassis, the 12S provides exceptional protection from shock, dust and moisture while its transit case offers multiple options to optimize available work space. The work tray can be placed on top of the transit case or used independently, and for maximum portability the 12S fusion splicer can be detached completely.<br />
+        &nbsp;<br />
+        Retaining its two camera observation system, the Fujikura 12S fusion splicer has several enhanced features.</p>
+        <ul>
+            <li>
+            <p>New Li-ion battery provides three times more power than older versions, yielding up to 100 splice cycles;</p>
+            </li>
+            <li>
+            <p>The 4.5&rdquo; high-resolution LCD monitor is three times larger than previous screens with no glare under direct sunlight;</p>
+            </li>
+            <li>
+            <p>Refinements in the arc calibration and optical systems have extended the electrode life to 3,000 splices &ndash; three times longer than previous models;</p>
+            </li>
+            <li>
+            <p>Splicing and tube heating are 20 percent faster; and</p>
+            </li>
+            <li>
+            <p>Software updates are available via the Internet for quick access to the latest splice programs.</p>
+            </li>
+        </ul>
+        <p>Even with its small size, the Fujikura 12S fusion splicer incorporates innovative features that have enormous capabilities. Backed by the best service team in the industry, the Fujikura 12S fusion splicer is the ideal splicer to use when portability, ruggedness, versatility and reliability are needed for your splicing application.<br />
+        &nbsp;<br />
+        For more information about AFL and its products and services, visit&nbsp;<a href="http://www.aflglobal.com/">www.AFLglobal.com</a>.<br />
+        &nbsp;<br />
+        About AFL<br />
+        AFL provides industry-leading products and services to the electric utility, broadband, communications, OEM, enterprise, wireless and transit rail markets as well as the emerging markets of oil and gas, mining, nuclear, avionics, medical, renewable and intelligent grid. The company&rsquo;s diverse product portfolio includes fiber optic cable, transmission and substation accessories, outside plant equipment, connectors, fusion splicers, test equipment and training. AFL&rsquo;s service portfolio includes market-leading positions with the foremost communications companies supporting inside plant central office, EF&amp;I, outside plant, enterprise and wireless areas.<br />
+        &nbsp;<br />
+        Founded in 1984, AFL is proud to offer engineering expertise, exceptional products and reliable service that help our customers improve their critical and electrical infrastructure. AFL has operations in the U.S., Mexico, Europe and Asia. The company is headquartered in Spartanburg, SC, and is a wholly-owned subsidiary of Fujikura Ltd. of Japan. For more information, visit&nbsp;<a href="http://www.aflglobal.com/">www.AFLglobal.com</a>.<br />
+        &nbsp;<br />
+        Contacts<br />
+        Greg Pickeral<br />
+        Product Manager<br />
+        AFL<br />
+        864.433.5937<br />
+        <a href="mailto:Greg.Pickeral@AFLglobal.com">Greg.Pickeral@AFLglobal.com</a><br />
+        &nbsp;<br />
+        Corie Culp<br />
+        Public Relations Manager<br />
+        AFL<br />
+        864.433.5409<br />
+        <a href="mailto:Corie.Culp@AFLglobal.com">Corie.Culp@AFLglobal.com</a></p>
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: AFL Launches New Fujikura 12S Fusion Splicer
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\tanishka
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: "AFL introduces the Fujikura 12S fusion splicer, the world?s smallest, lightest and most portable fusion splicer. "
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\tanishka
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: "AFL Fujikura 12S fusion splicer smallest lightest portable ruggedized Li-ion LCD monitor extended electrode life"
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: AFL Launches New Fujikura 12S Fusion Splicer
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: AFL Launches New Fujikura 12S Fusion Splicer
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "17dead3c-3730-4b5e-b926-66c444d84d7e"
+    - ID: "a6eaffd5-fc3e-41b4-93b3-f1721fcf2300"
+      Hint: ContentPublishedDate
+      Value: 20130120T183000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T100408Z
+- Language: "es-ES"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "228f9517-e120-4014-b2c7-df0ac467a349"
+      Hint: ContentTitle
+      Value: AFL Launches New Fujikura 12S Fusion Splicer
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211213T144414Z
+    - ID: "3688d7df-2feb-43a4-ab8d-410e5f70a676"
+      Hint: ContentDescription
+      Value: |
+        <p>Spartanburg, SC – <a href="http://www.aflglobal.com/">AFL</a> introduces the <a href="http://www.aflglobal.com/Products/Fusion-Splicing/Field-Fusion-Splicing-Equipment/Splicers-Single-Fiber/Fujikura-12S-Fusion-Splicer.aspx">Fujikura 12S fusion splicer</a>, the world’s smallest, lightest and most portable fusion splicer. At just 4.76"W x 6.38"D x 2.24"H, the full-featured 12S fusion splicer is engineered to increase efficiency in the field. With its fully ruggedized chassis, the 12S provides exceptional protection from shock, dust and moisture while its transit case offers multiple options to optimize available work space. The work tray can be placed on top of the transit case or used independently, and for maximum portability the 12S fusion splicer can be detached completely.<br />
+         <br />
+        Retaining its two camera observation system, the Fujikura 12S fusion splicer has several enhanced features.</p>
+        <ul>
+            <li>
+            <p>New Li-ion battery provides three times more power than older versions, yielding up to 100 splice cycles;</p>
+            </li>
+            <li>
+            <p>The 4.5” high-resolution LCD monitor is three times larger than previous screens with no glare under direct sunlight;</p>
+            </li>
+            <li>
+            <p>Refinements in the arc calibration and optical systems have extended the electrode life to 3,000 splices – three times longer than previous models;</p>
+            </li>
+            <li>
+            <p>Splicing and tube heating are 20 percent faster; and</p>
+            </li>
+            <li>
+            <p>Software updates are available via the Internet for quick access to the latest splice programs.</p>
+            </li>
+        </ul>
+        <p>Even with its small size, the Fujikura 12S fusion splicer incorporates innovative features that have enormous capabilities. Backed by the best service team in the industry, the Fujikura 12S fusion splicer is the ideal splicer to use when portability, ruggedness, versatility and reliability are needed for your splicing application.<br />
+         <br />
+        For more information about AFL and its products and services, visit <a href="http://www.aflglobal.com/">www.AFLglobal.com</a>.<br />
+         <br />
+        About AFL<br />
+        AFL provides industry-leading products and services to the electric utility, broadband, communications, OEM, enterprise, wireless and transit rail markets as well as the emerging markets of oil and gas, mining, nuclear, avionics, medical, renewable and intelligent grid. The company’s diverse product portfolio includes fiber optic cable, transmission and substation accessories, outside plant equipment, connectors, fusion splicers, test equipment and training. AFL’s service portfolio includes market-leading positions with the foremost communications companies supporting inside plant central office, EF&I, outside plant, enterprise and wireless areas.<br />
+         <br />
+        Founded in 1984, AFL is proud to offer engineering expertise, exceptional products and reliable service that help our customers improve their critical and electrical infrastructure. AFL has operations in the U.S., Mexico, Europe and Asia. The company is headquartered in Spartanburg, SC, and is a wholly-owned subsidiary of Fujikura Ltd. of Japan. For more information, visit <a href="http://www.aflglobal.com/">www.AFLglobal.com</a>.<br />
+         <br />
+        Contacts<br />
+        Greg Pickeral<br />
+        Product Manager<br />
+        AFL<br />
+        864.433.5937<br />
+        <a href="mailto:Greg.Pickeral@AFLglobal.com">Greg.Pickeral@AFLglobal.com</a><br />
+         <br />
+        Corie Culp<br />
+        Public Relations Manager<br />
+        AFL<br />
+        864.433.5409<br />
+        <a href="mailto:Corie.Culp@AFLglobal.com">Corie.Culp@AFLglobal.com</a></p>
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: AFL Launches New Fujikura 12S Fusion Splicer
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\matt
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: "AFL introduces the Fujikura 12S fusion splicer, the world?s smallest, lightest and most portable fusion splicer. "
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\tanishka
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: "AFL Fujikura 12S fusion splicer smallest lightest portable ruggedized Li-ion LCD monitor extended electrode life"
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: AFL Launches New Fujikura 12S Fusion Splicer
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: AFL Launches New Fujikura 12S Fusion Splicer
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ddb4d58b-8bad-4c29-812c-d227461af31a"
+    - ID: "a6eaffd5-fc3e-41b4-93b3-f1721fcf2300"
+      Hint: ContentPublishedDate
+      Value: 20130120T183000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T100409Z
+- Language: "fr-FR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "228f9517-e120-4014-b2c7-df0ac467a349"
+      Hint: ContentTitle
+      Value: AFL Launches New Fujikura 12S Fusion Splicer
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211213T144414Z
+    - ID: "3688d7df-2feb-43a4-ab8d-410e5f70a676"
+      Hint: ContentDescription
+      Value: |
+        <p>Spartanburg, SC – <a href="http://www.aflglobal.com/">AFL</a> introduces the <a href="http://www.aflglobal.com/Products/Fusion-Splicing/Field-Fusion-Splicing-Equipment/Splicers-Single-Fiber/Fujikura-12S-Fusion-Splicer.aspx">Fujikura 12S fusion splicer</a>, the world’s smallest, lightest and most portable fusion splicer. At just 4.76"W x 6.38"D x 2.24"H, the full-featured 12S fusion splicer is engineered to increase efficiency in the field. With its fully ruggedized chassis, the 12S provides exceptional protection from shock, dust and moisture while its transit case offers multiple options to optimize available work space. The work tray can be placed on top of the transit case or used independently, and for maximum portability the 12S fusion splicer can be detached completely.<br />
+         <br />
+        Retaining its two camera observation system, the Fujikura 12S fusion splicer has several enhanced features.</p>
+        <ul>
+            <li>
+            <p>New Li-ion battery provides three times more power than older versions, yielding up to 100 splice cycles;</p>
+            </li>
+            <li>
+            <p>The 4.5” high-resolution LCD monitor is three times larger than previous screens with no glare under direct sunlight;</p>
+            </li>
+            <li>
+            <p>Refinements in the arc calibration and optical systems have extended the electrode life to 3,000 splices – three times longer than previous models;</p>
+            </li>
+            <li>
+            <p>Splicing and tube heating are 20 percent faster; and</p>
+            </li>
+            <li>
+            <p>Software updates are available via the Internet for quick access to the latest splice programs.</p>
+            </li>
+        </ul>
+        <p>Even with its small size, the Fujikura 12S fusion splicer incorporates innovative features that have enormous capabilities. Backed by the best service team in the industry, the Fujikura 12S fusion splicer is the ideal splicer to use when portability, ruggedness, versatility and reliability are needed for your splicing application.<br />
+         <br />
+        For more information about AFL and its products and services, visit <a href="http://www.aflglobal.com/">www.AFLglobal.com</a>.<br />
+         <br />
+        About AFL<br />
+        AFL provides industry-leading products and services to the electric utility, broadband, communications, OEM, enterprise, wireless and transit rail markets as well as the emerging markets of oil and gas, mining, nuclear, avionics, medical, renewable and intelligent grid. The company’s diverse product portfolio includes fiber optic cable, transmission and substation accessories, outside plant equipment, connectors, fusion splicers, test equipment and training. AFL’s service portfolio includes market-leading positions with the foremost communications companies supporting inside plant central office, EF&I, outside plant, enterprise and wireless areas.<br />
+         <br />
+        Founded in 1984, AFL is proud to offer engineering expertise, exceptional products and reliable service that help our customers improve their critical and electrical infrastructure. AFL has operations in the U.S., Mexico, Europe and Asia. The company is headquartered in Spartanburg, SC, and is a wholly-owned subsidiary of Fujikura Ltd. of Japan. For more information, visit <a href="http://www.aflglobal.com/">www.AFLglobal.com</a>.<br />
+         <br />
+        Contacts<br />
+        Greg Pickeral<br />
+        Product Manager<br />
+        AFL<br />
+        864.433.5937<br />
+        <a href="mailto:Greg.Pickeral@AFLglobal.com">Greg.Pickeral@AFLglobal.com</a><br />
+         <br />
+        Corie Culp<br />
+        Public Relations Manager<br />
+        AFL<br />
+        864.433.5409<br />
+        <a href="mailto:Corie.Culp@AFLglobal.com">Corie.Culp@AFLglobal.com</a></p>
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: AFL Launches New Fujikura 12S Fusion Splicer
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\matt
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: "AFL introduces the Fujikura 12S fusion splicer, the world?s smallest, lightest and most portable fusion splicer. "
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\tanishka
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: "AFL Fujikura 12S fusion splicer smallest lightest portable ruggedized Li-ion LCD monitor extended electrode life"
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: AFL Launches New Fujikura 12S Fusion Splicer
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: AFL Launches New Fujikura 12S Fusion Splicer
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "df7f1c0b-0969-498f-aa85-66ccf08543cb"
+    - ID: "a6eaffd5-fc3e-41b4-93b3-f1721fcf2300"
+      Hint: ContentPublishedDate
+      Value: 20130120T183000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T100409Z

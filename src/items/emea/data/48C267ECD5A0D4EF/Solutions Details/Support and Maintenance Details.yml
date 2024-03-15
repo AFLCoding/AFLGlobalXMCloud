@@ -1,0 +1,262 @@
+﻿---
+ID: "0dbb8f4b-b7e3-443a-ae3c-4699f0bc2a06"
+Parent: "c0f1ba48-4ade-4c32-a89e-115b4bdd7ef9"
+Template: "011c02ab-49e7-41f0-8719-03034390bc25"
+Path: "/sitecore/content/AFL-Global/EMEA/Data/AFL Product Detail Folder/Services Details/Services Offerings Details/Enterprise Services Details/Solutions Details/Support and Maintenance Details"
+Languages:
+- Language: "de-DE"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211124T151751Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <p>You need a partner that offers proactive infrastructure support to resolve any issues you have, both quickly and effectively. Our support and maintenance services can be tailored to your specific needs, and you&rsquo;ll benefit from having us as your single point of contact whenever you need us, day or night.</p>
+        <p>AFL carefully vets, trains, and fully equips our technicians so that they are skilled and certified in the latest technologies and practices.</p>
+        <p>You will have the benefit of AFL&rsquo;s extensive experience in managed services, rollouts, and emergency responses in a range of industries and markets&mdash;retail, financial, offices, school and medical facilities and campuses, sports and entertainment spaces, and hospitality venues. With our flexible contract options, you arrange for the services that best meet your needs and budget.</p>
+        <p>With offices strategically located throughout our service areas, AFL has the unique capability to provide you support and maintenance services featuring:</p>
+        <ul>
+            <li><a href="https://www.aflglobal.com/Services/Contact-Us.aspx" style="color: #0091ea; background-color: transparent;">24/7/365 Call Center</a>&nbsp;Support with Emergency Dispatch</li>
+            <li>Flexible Maintenance Contracts</li>
+            <li>Moves/Adds/Changes (MAC activity)</li>
+            <li>Managed Services</li>
+            <li>Emergency Services</li>
+        </ul>
+        <p>Why AFL?</p>
+        <ul>
+            <li>Averaging more than 1,500 dispatches per month</li>
+            <li>Excellent client references</li>
+            <li>Experienced technicians with extensive know-how and professionalism</li>
+        </ul>
+    - ID: "5d336bce-e421-4fe8-ad55-214f80d841ad"
+      Hint: "Sub-Heading"
+      Value: "Support and Maintenance Sub-heading"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "220a5251-138a-49ac-910d-0f8f6d786563"
+    - ID: "ab91d39b-30ad-4050-acef-07c741146fcc"
+      Hint: Heading
+      Value: Support and Maintenance Heading
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahesh
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220314T112119Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211124T151751Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <p>You need a partner that offers proactive infrastructure support to resolve any issues you have, both quickly and effectively. Our support and maintenance services can be tailored to your specific needs, and you&rsquo;ll benefit from having us as your single point of contact whenever you need us, day or night.</p>
+        <p>AFL carefully vets, trains, and fully equips our technicians so that they are skilled and certified in the latest technologies and practices.</p>
+        <p>You will have the benefit of AFL&rsquo;s extensive experience in managed services, rollouts, and emergency responses in a range of industries and markets&mdash;retail, financial, offices, school and medical facilities and campuses, sports and entertainment spaces, and hospitality venues. With our flexible contract options, you arrange for the services that best meet your needs and budget.</p>
+        <p>With offices strategically located throughout our service areas, AFL has the unique capability to provide you support and maintenance services featuring:</p>
+        <ul>
+            <li><a href="https://www.aflglobal.com/Services/Contact-Us.aspx" style="color: #0091ea; background-color: transparent;">24/7/365 Call Center</a>&nbsp;Support with Emergency Dispatch</li>
+            <li>Flexible Maintenance Contracts</li>
+            <li>Moves/Adds/Changes (MAC activity)</li>
+            <li>Managed Services</li>
+            <li>Emergency Services</li>
+        </ul>
+        <p>Why AFL?</p>
+        <ul>
+            <li>Averaging more than 1,500 dispatches per month</li>
+            <li>Excellent client references</li>
+            <li>Experienced technicians with extensive know-how and professionalism</li>
+        </ul>
+    - ID: "5d336bce-e421-4fe8-ad55-214f80d841ad"
+      Hint: "Sub-Heading"
+      Value: "Support and Maintenance Sub-heading"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "76b1fda4-92f9-4c7b-a837-5077196b13b4"
+    - ID: "ab91d39b-30ad-4050-acef-07c741146fcc"
+      Hint: Heading
+      Value: Support and Maintenance Heading
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20211125T074813Z
+- Language: "es-ES"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211124T151751Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <p>You need a partner that offers proactive infrastructure support to resolve any issues you have, both quickly and effectively. Our support and maintenance services can be tailored to your specific needs, and you&rsquo;ll benefit from having us as your single point of contact whenever you need us, day or night.</p>
+        <p>AFL carefully vets, trains, and fully equips our technicians so that they are skilled and certified in the latest technologies and practices.</p>
+        <p>You will have the benefit of AFL&rsquo;s extensive experience in managed services, rollouts, and emergency responses in a range of industries and markets&mdash;retail, financial, offices, school and medical facilities and campuses, sports and entertainment spaces, and hospitality venues. With our flexible contract options, you arrange for the services that best meet your needs and budget.</p>
+        <p>With offices strategically located throughout our service areas, AFL has the unique capability to provide you support and maintenance services featuring:</p>
+        <ul>
+            <li><a href="https://www.aflglobal.com/Services/Contact-Us.aspx" style="color: #0091ea; background-color: transparent;">24/7/365 Call Center</a>&nbsp;Support with Emergency Dispatch</li>
+            <li>Flexible Maintenance Contracts</li>
+            <li>Moves/Adds/Changes (MAC activity)</li>
+            <li>Managed Services</li>
+            <li>Emergency Services</li>
+        </ul>
+        <p>Why AFL?</p>
+        <ul>
+            <li>Averaging more than 1,500 dispatches per month</li>
+            <li>Excellent client references</li>
+            <li>Experienced technicians with extensive know-how and professionalism</li>
+        </ul>
+    - ID: "5d336bce-e421-4fe8-ad55-214f80d841ad"
+      Hint: "Sub-Heading"
+      Value: "Support and Maintenance Sub-heading"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7057ce5b-bb92-4add-9757-205e473ace3f"
+    - ID: "ab91d39b-30ad-4050-acef-07c741146fcc"
+      Hint: Heading
+      Value: Support and Maintenance Heading
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahesh
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220207T113530Z
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211124T151751Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <p>You need a partner that offers proactive infrastructure support to resolve any issues you have, both quickly and effectively. Our support and maintenance services can be tailored to your specific needs, and you&rsquo;ll benefit from having us as your single point of contact whenever you need us, day or night.</p>
+        <p>AFL carefully vets, trains, and fully equips our technicians so that they are skilled and certified in the latest technologies and practices.</p>
+        <p>You will have the benefit of AFL&rsquo;s extensive experience in managed services, rollouts, and emergency responses in a range of industries and markets&mdash;retail, financial, offices, school and medical facilities and campuses, sports and entertainment spaces, and hospitality venues. With our flexible contract options, you arrange for the services that best meet your needs and budget.</p>
+        <p>With offices strategically located throughout our service areas, AFL has the unique capability to provide you support and maintenance services featuring:</p>
+        <ul>
+            <li><a href="https://www.aflglobal.com/Services/Contact-Us.aspx" style="color: #0091ea; background-color: transparent;">24/7/365 Call Center</a>&nbsp;Support with Emergency Dispatch</li>
+            <li>Flexible Maintenance Contracts</li>
+            <li>Moves/Adds/Changes (MAC activity)</li>
+            <li>Managed Services</li>
+            <li>Emergency Services</li>
+        </ul>
+        <p>Why AFL?</p>
+        <ul>
+            <li>Averaging more than 1,500 dispatches per month</li>
+            <li>Excellent client references</li>
+            <li>Experienced technicians with extensive know-how and professionalism</li>
+        </ul>
+    - ID: "5d336bce-e421-4fe8-ad55-214f80d841ad"
+      Hint: "Sub-Heading"
+      Value: "Support and Maintenance Sub-heading"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "29f29827-0fe8-4874-84a3-b79febb9e21a"
+    - ID: "ab91d39b-30ad-4050-acef-07c741146fcc"
+      Hint: Heading
+      Value: Support and Maintenance Heading
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahesh
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220314T114920Z
+- Language: "fr-FR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211124T151751Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <p>You need a partner that offers proactive infrastructure support to resolve any issues you have, both quickly and effectively. Our support and maintenance services can be tailored to your specific needs, and you&rsquo;ll benefit from having us as your single point of contact whenever you need us, day or night.</p>
+        <p>AFL carefully vets, trains, and fully equips our technicians so that they are skilled and certified in the latest technologies and practices.</p>
+        <p>You will have the benefit of AFL&rsquo;s extensive experience in managed services, rollouts, and emergency responses in a range of industries and markets&mdash;retail, financial, offices, school and medical facilities and campuses, sports and entertainment spaces, and hospitality venues. With our flexible contract options, you arrange for the services that best meet your needs and budget.</p>
+        <p>With offices strategically located throughout our service areas, AFL has the unique capability to provide you support and maintenance services featuring:</p>
+        <ul>
+            <li><a href="https://www.aflglobal.com/Services/Contact-Us.aspx" style="color: #0091ea; background-color: transparent;">24/7/365 Call Center</a>&nbsp;Support with Emergency Dispatch</li>
+            <li>Flexible Maintenance Contracts</li>
+            <li>Moves/Adds/Changes (MAC activity)</li>
+            <li>Managed Services</li>
+            <li>Emergency Services</li>
+        </ul>
+        <p>Why AFL?</p>
+        <ul>
+            <li>Averaging more than 1,500 dispatches per month</li>
+            <li>Excellent client references</li>
+            <li>Experienced technicians with extensive know-how and professionalism</li>
+        </ul>
+    - ID: "5d336bce-e421-4fe8-ad55-214f80d841ad"
+      Hint: "Sub-Heading"
+      Value: "Support and Maintenance Sub-heading"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a6502e51-8948-4bf1-8b67-ebd37649c12a"
+    - ID: "ab91d39b-30ad-4050-acef-07c741146fcc"
+      Hint: Heading
+      Value: Support and Maintenance Heading
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahesh
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220314T115655Z

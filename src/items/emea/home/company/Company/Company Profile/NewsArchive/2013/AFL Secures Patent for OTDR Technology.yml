@@ -1,0 +1,381 @@
+﻿---
+ID: "32f263b1-4968-4e0f-bef8-d983c590c598"
+Parent: "e7a3e27a-281f-437d-bd63-e8fa8783ee0a"
+Template: "f36e821e-bb98-44dc-966d-e92a0e033cc7"
+Path: "/sitecore/content/AFL-Global/EMEA/Home/Company/Company Profile/NewsArchive/2013/AFL Secures Patent for OTDR Technology"
+SharedFields:
+- ID: "1fbc6a49-6281-48ee-87e9-a3970b145adb"
+  Hint: NavigationFilter
+  Value: |
+    {E0A2A027-0932-4878-A7D6-0416D5263EFB}
+    {61BD64D6-809E-40AE-9297-2724A19329B3}
+    {D063E9D1-C7B5-4B1E-B31E-69886C9C59F5}
+    {500AE4C0-FA7B-463F-8149-EFFF7F044101}
+    {A0E7FF57-6994-4B09-AA21-104239628D5A}
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{3A84BAC9-C1BD-4809-A12C-28EB44E25329}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{DAE7C21D-4D3B-4257-A95C-9104CD8AF409}"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: 
+Languages:
+- Language: "de-DE"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{C7153401-C1C2-47DE-81C2-8B23A1080FE4}"
+              p:after="*[1=2]"
+              s:ds="{B5D5D334-FB55-4E82-842B-C38A822BF38F}"
+              s:id="{43C5D426-A6F6-4716-BEAF-F82602D2277B}"
+              s:par="Reset Caching Options&amp;GridParameters&amp;FieldNames=%7BE4BC3964-5235-4FE7-A863-76777C39CFAE%7D&amp;Styles&amp;RenderingIdentifier&amp;DynamicPlaceholderId=1"
+              s:ph="main"
+              s:ccb="Clear on publish" />
+          </d>
+        </r>
+    - ID: "228f9517-e120-4014-b2c7-df0ac467a349"
+      Hint: ContentTitle
+      Value: AFL Secures Patent for OTDR Technology
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220112T101236Z
+    - ID: "3688d7df-2feb-43a4-ab8d-410e5f70a676"
+      Hint: ContentDescription
+      Value: |
+        Spartanburg, SC and Belmont, NH – <a href="/">AFL</a> has been awarded a patent for “Optical Time Domain Reflectometer,” US Patent 8,411,259. The patent covers <a href="/Products/Test-and-Inspection/OTDRS-and-Fault-Locators ">Optical Time Domain Reflectometers</a> (OTDRs) where multiple wavelength-specific test signal generators and detector channels are combined on a single OTDR test port. The approach enables users to determine if a fiber is live or dark, to measure the power level of any signals present on the fiber, and to apply test signals (including non-interfering signals) on dark and live fibers, all without the need for swapping test ports or test equipment.<br />
+        <br />
+        The NOYES® <a href="/Products/Test-and-Inspection/OTDRS-and-Fault-Locators/OFL280_FlexTester_-_Handheld,_all-in-one_OTDR_and ">OFL280</a> and <a href="/Products/Test-and-Inspection/OTDRS-and-Fault-Locators/FLX380-FlexTester ">FLX380 FlexTester</a> OTDRs with ServiceSafe™ leverage this newly-patented approach to automatically detect live fibers, measure downstream signal levels and restrict tests signals to only those wavelengths not present on the fiber.<br />
+        <br />
+        “Our focus is to provide innovative, easy-to-use solutions and services to make our customers successful,” commented Seán Adam, general manager of AFL’s NOYES Test and Inspection business unit. “This unique OTDR architecture reduces the complexity and time it takes to test a PON network, increasing our customers’ efficiency and reducing their test costs.”<br />
+        <br />
+        Existing OTDRs typically have a number of test ports. One port, for example, may be the source of dark (out-of-service) test signals while another may be the source of live (in-service) test signals. Because all test signals are not present on one port, users are required to swap the fiber under test from one port to the other to complete testing. In addition, OTDRs may include PON power meter ports for measuring the signals present on a fiber. AFL’s newly-patented approach is the first to combine a PON power meter with a live/dark fiber OTDR on a single test port.<br />
+        <br />
+        For additional information on ServiceSafe, OFL280 and FLX380 FlexTester OTDRs, please visit <a href="/">www.AFLglobal.com</a>.<br />
+        <br />
+        <strong>About AFL</strong><br />
+        AFL provides industry-leading products and services to the electric utility, broadband, communications, OEM, enterprise, wireless and transit rail markets as well as the emerging markets of oil and gas, mining, nuclear, avionics, medical, renewable and intelligent grid. The company’s diverse product portfolio includes fiber optic cable, transmission and substation accessories, outside plant equipment, connectors, fusion splicers, test equipment and training. AFL’s service portfolio includes market-leading positions with the foremost communications companies supporting inside plant central office, EF&I, outside plant, enterprise and wireless areas.<br />
+        <br />
+        Founded in 1984, AFL is proud to offer engineering expertise, exceptional products and reliable service that help our customers improve their critical and electrical infrastructure. AFL has operations in the U.S., Mexico, Europe, Asia and the South Pacific. The company is headquartered in Spartanburg, SC, and is a wholly-owned subsidiary of Fujikura Ltd. of Japan. For more information, visit <a href="/">www.AFLglobal.com</a>. <br />
+        <br />
+        <strong>Contacts</strong><br />
+        Michael Scholten<br />
+        Product Marketing Manager<br />
+        AFL<br />
+        978.455.9213 x.194<br />
+        <a href="mailto:Michael.Scholten@AFLglobal.com">Michael.Scholten@AFLglobal.com</a><br />
+         <br />
+        Corie Culp<br />
+        Public Relations Manager<br />
+        AFL<br />
+        864.433.5409<br />
+        <a href="mailto:Corie.Culp@AFLglobal.com">Corie.Culp@AFLglobal.com</a>
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: AFL Secures Patent for OTDR Technology
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\matt
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kushagra
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: AFL Secures Patent for OTDR Technology
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: AFL Secures Patent for OTDR Technology
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a9b695eb-104d-41c6-8f97-0054aa416324"
+    - ID: "a6eaffd5-fc3e-41b4-93b3-f1721fcf2300"
+      Hint: ContentPublishedDate
+      Value: 20130714T183000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T100421Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{C7153401-C1C2-47DE-81C2-8B23A1080FE4}"
+              p:after="*[1=2]"
+              s:ds="{B5D5D334-FB55-4E82-842B-C38A822BF38F}"
+              s:id="{43C5D426-A6F6-4716-BEAF-F82602D2277B}"
+              s:par="Reset Caching Options&amp;GridParameters&amp;FieldNames=%7BE4BC3964-5235-4FE7-A863-76777C39CFAE%7D&amp;Styles&amp;RenderingIdentifier&amp;DynamicPlaceholderId=1"
+              s:ph="main"
+              s:ccb="Clear on publish" />
+          </d>
+        </r>
+    - ID: "228f9517-e120-4014-b2c7-df0ac467a349"
+      Hint: ContentTitle
+      Value: AFL Secures Patent for OTDR Technology
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220112T101236Z
+    - ID: "3688d7df-2feb-43a4-ab8d-410e5f70a676"
+      Hint: ContentDescription
+      Value: |
+        Spartanburg, SC and Belmont, NH &ndash;&nbsp;<a href="/">AFL</a>&nbsp;has been awarded a patent for &ldquo;Optical Time Domain Reflectometer,&rdquo; US Patent 8,411,259. The patent covers&nbsp;<a href="/Products/Test-and-Inspection/OTDRS-and-Fault-Locators ">Optical Time Domain Reflectometers</a>&nbsp;(OTDRs) where multiple wavelength-specific test signal generators and detector channels are combined on a single OTDR test port. The approach enables users to determine if a fiber is live or dark, to measure the power level of any signals present on the fiber, and to apply test signals (including non-interfering signals) on dark and live fibers, all without the need for swapping test ports or test equipment.<br />
+        <br />
+        The NOYES&reg;&nbsp;<a href="/Products/Test-and-Inspection/OTDRS-and-Fault-Locators/OFL280_FlexTester_-_Handheld,_all-in-one_OTDR_and ">OFL280</a>&nbsp;and&nbsp;<a href="/Products/Test-and-Inspection/OTDRS-and-Fault-Locators/FLX380-FlexTester ">FLX380 FlexTester</a>&nbsp;OTDRs with ServiceSafe&trade; leverage this newly-patented approach to automatically detect live fibers, measure downstream signal levels and restrict tests signals to only those wavelengths not present on the fiber.<br />
+        <br />
+        &ldquo;Our focus is to provide innovative, easy-to-use solutions and services to make our customers successful,&rdquo; commented Se&aacute;n Adam, general manager of AFL&rsquo;s NOYES Test and Inspection business unit. &ldquo;This unique OTDR architecture reduces the complexity and time it takes to test a PON network, increasing our customers&rsquo; efficiency and reducing their test costs.&rdquo;<br />
+        <br />
+        Existing OTDRs typically have a number of test ports. One port, for example, may be the source of dark (out-of-service) test signals while another may be the source of live (in-service) test signals. Because all test signals are not present on one port, users are required to swap the fiber under test from one port to the other to complete testing. In addition, OTDRs may include PON power meter ports for measuring the signals present on a fiber. AFL&rsquo;s newly-patented approach is the first to combine a PON power meter with a live/dark fiber OTDR on a single test port.<br />
+        <br />
+        For additional information on ServiceSafe, OFL280 and FLX380 FlexTester OTDRs, please visit&nbsp;<a href="/">www.AFLglobal.com</a>.<br />
+        <br />
+        <strong>About AFL</strong><br />
+        AFL provides industry-leading products and services to the electric utility, broadband, communications, OEM, enterprise, wireless and transit rail markets as well as the emerging markets of oil and gas, mining, nuclear, avionics, medical, renewable and intelligent grid. The company&rsquo;s diverse product portfolio includes fiber optic cable, transmission and substation accessories, outside plant equipment, connectors, fusion splicers, test equipment and training. AFL&rsquo;s service portfolio includes market-leading positions with the foremost communications companies supporting inside plant central office, EF&amp;I, outside plant, enterprise and wireless areas.<br />
+        <br />
+        Founded in 1984, AFL is proud to offer engineering expertise, exceptional products and reliable service that help our customers improve their critical and electrical infrastructure. AFL has operations in the U.S., Mexico, Europe, Asia and the South Pacific. The company is headquartered in Spartanburg, SC, and is a wholly-owned subsidiary of Fujikura Ltd. of Japan. For more information, visit&nbsp;<a href="/">www.AFLglobal.com</a>.&nbsp;<br />
+        <br />
+        <strong>Contacts</strong><br />
+        Michael Scholten<br />
+        Product Marketing Manager<br />
+        AFL<br />
+        978.455.9213 x.194<br />
+        <a href="mailto:Michael.Scholten@AFLglobal.com">Michael.Scholten@AFLglobal.com</a><br />
+        &nbsp;<br />
+        Corie Culp<br />
+        Public Relations Manager<br />
+        AFL<br />
+        864.433.5409<br />
+        <a href="mailto:Corie.Culp@AFLglobal.com">Corie.Culp@AFLglobal.com</a>
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: AFL Secures Patent for OTDR Technology
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kushagra
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kushagra
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: AFL Secures Patent for OTDR Technology
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: AFL Secures Patent for OTDR Technology
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c8271bbb-6bb2-4f76-8306-0e64438c5797"
+    - ID: "a6eaffd5-fc3e-41b4-93b3-f1721fcf2300"
+      Hint: ContentPublishedDate
+      Value: 20130714T183000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T100420Z
+- Language: "es-ES"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{C7153401-C1C2-47DE-81C2-8B23A1080FE4}"
+              p:after="*[1=2]"
+              s:ds="{B5D5D334-FB55-4E82-842B-C38A822BF38F}"
+              s:id="{43C5D426-A6F6-4716-BEAF-F82602D2277B}"
+              s:par="Reset Caching Options&amp;GridParameters&amp;FieldNames=%7BE4BC3964-5235-4FE7-A863-76777C39CFAE%7D&amp;Styles&amp;RenderingIdentifier&amp;DynamicPlaceholderId=1"
+              s:ph="main"
+              s:ccb="Clear on publish" />
+          </d>
+        </r>
+    - ID: "228f9517-e120-4014-b2c7-df0ac467a349"
+      Hint: ContentTitle
+      Value: AFL Secures Patent for OTDR Technology
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220112T101236Z
+    - ID: "3688d7df-2feb-43a4-ab8d-410e5f70a676"
+      Hint: ContentDescription
+      Value: |
+        Spartanburg, SC and Belmont, NH – <a href="/">AFL</a> has been awarded a patent for “Optical Time Domain Reflectometer,” US Patent 8,411,259. The patent covers <a href="/Products/Test-and-Inspection/OTDRS-and-Fault-Locators ">Optical Time Domain Reflectometers</a> (OTDRs) where multiple wavelength-specific test signal generators and detector channels are combined on a single OTDR test port. The approach enables users to determine if a fiber is live or dark, to measure the power level of any signals present on the fiber, and to apply test signals (including non-interfering signals) on dark and live fibers, all without the need for swapping test ports or test equipment.<br />
+        <br />
+        The NOYES® <a href="/Products/Test-and-Inspection/OTDRS-and-Fault-Locators/OFL280_FlexTester_-_Handheld,_all-in-one_OTDR_and ">OFL280</a> and <a href="/Products/Test-and-Inspection/OTDRS-and-Fault-Locators/FLX380-FlexTester ">FLX380 FlexTester</a> OTDRs with ServiceSafe™ leverage this newly-patented approach to automatically detect live fibers, measure downstream signal levels and restrict tests signals to only those wavelengths not present on the fiber.<br />
+        <br />
+        “Our focus is to provide innovative, easy-to-use solutions and services to make our customers successful,” commented Seán Adam, general manager of AFL’s NOYES Test and Inspection business unit. “This unique OTDR architecture reduces the complexity and time it takes to test a PON network, increasing our customers’ efficiency and reducing their test costs.”<br />
+        <br />
+        Existing OTDRs typically have a number of test ports. One port, for example, may be the source of dark (out-of-service) test signals while another may be the source of live (in-service) test signals. Because all test signals are not present on one port, users are required to swap the fiber under test from one port to the other to complete testing. In addition, OTDRs may include PON power meter ports for measuring the signals present on a fiber. AFL’s newly-patented approach is the first to combine a PON power meter with a live/dark fiber OTDR on a single test port.<br />
+        <br />
+        For additional information on ServiceSafe, OFL280 and FLX380 FlexTester OTDRs, please visit <a href="/">www.AFLglobal.com</a>.<br />
+        <br />
+        <strong>About AFL</strong><br />
+        AFL provides industry-leading products and services to the electric utility, broadband, communications, OEM, enterprise, wireless and transit rail markets as well as the emerging markets of oil and gas, mining, nuclear, avionics, medical, renewable and intelligent grid. The company’s diverse product portfolio includes fiber optic cable, transmission and substation accessories, outside plant equipment, connectors, fusion splicers, test equipment and training. AFL’s service portfolio includes market-leading positions with the foremost communications companies supporting inside plant central office, EF&I, outside plant, enterprise and wireless areas.<br />
+        <br />
+        Founded in 1984, AFL is proud to offer engineering expertise, exceptional products and reliable service that help our customers improve their critical and electrical infrastructure. AFL has operations in the U.S., Mexico, Europe, Asia and the South Pacific. The company is headquartered in Spartanburg, SC, and is a wholly-owned subsidiary of Fujikura Ltd. of Japan. For more information, visit <a href="/">www.AFLglobal.com</a>. <br />
+        <br />
+        <strong>Contacts</strong><br />
+        Michael Scholten<br />
+        Product Marketing Manager<br />
+        AFL<br />
+        978.455.9213 x.194<br />
+        <a href="mailto:Michael.Scholten@AFLglobal.com">Michael.Scholten@AFLglobal.com</a><br />
+         <br />
+        Corie Culp<br />
+        Public Relations Manager<br />
+        AFL<br />
+        864.433.5409<br />
+        <a href="mailto:Corie.Culp@AFLglobal.com">Corie.Culp@AFLglobal.com</a>
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: AFL Secures Patent for OTDR Technology
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\matt
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kushagra
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: AFL Secures Patent for OTDR Technology
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: AFL Secures Patent for OTDR Technology
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ebf22c2c-53dc-40cd-a6d8-b34fc79dde97"
+    - ID: "a6eaffd5-fc3e-41b4-93b3-f1721fcf2300"
+      Hint: ContentPublishedDate
+      Value: 20130714T183000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T100421Z
+- Language: "fr-FR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{C7153401-C1C2-47DE-81C2-8B23A1080FE4}"
+              p:after="*[1=2]"
+              s:ds="{B5D5D334-FB55-4E82-842B-C38A822BF38F}"
+              s:id="{43C5D426-A6F6-4716-BEAF-F82602D2277B}"
+              s:par="Reset Caching Options&amp;GridParameters&amp;FieldNames=%7BE4BC3964-5235-4FE7-A863-76777C39CFAE%7D&amp;Styles&amp;RenderingIdentifier&amp;DynamicPlaceholderId=1"
+              s:ph="main"
+              s:ccb="Clear on publish" />
+          </d>
+        </r>
+    - ID: "228f9517-e120-4014-b2c7-df0ac467a349"
+      Hint: ContentTitle
+      Value: AFL Secures Patent for OTDR Technology
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220112T101236Z
+    - ID: "3688d7df-2feb-43a4-ab8d-410e5f70a676"
+      Hint: ContentDescription
+      Value: |
+        Spartanburg, SC and Belmont, NH – <a href="/">AFL</a> has been awarded a patent for “Optical Time Domain Reflectometer,” US Patent 8,411,259. The patent covers <a href="/Products/Test-and-Inspection/OTDRS-and-Fault-Locators ">Optical Time Domain Reflectometers</a> (OTDRs) where multiple wavelength-specific test signal generators and detector channels are combined on a single OTDR test port. The approach enables users to determine if a fiber is live or dark, to measure the power level of any signals present on the fiber, and to apply test signals (including non-interfering signals) on dark and live fibers, all without the need for swapping test ports or test equipment.<br />
+        <br />
+        The NOYES® <a href="/Products/Test-and-Inspection/OTDRS-and-Fault-Locators/OFL280_FlexTester_-_Handheld,_all-in-one_OTDR_and ">OFL280</a> and <a href="/Products/Test-and-Inspection/OTDRS-and-Fault-Locators/FLX380-FlexTester ">FLX380 FlexTester</a> OTDRs with ServiceSafe™ leverage this newly-patented approach to automatically detect live fibers, measure downstream signal levels and restrict tests signals to only those wavelengths not present on the fiber.<br />
+        <br />
+        “Our focus is to provide innovative, easy-to-use solutions and services to make our customers successful,” commented Seán Adam, general manager of AFL’s NOYES Test and Inspection business unit. “This unique OTDR architecture reduces the complexity and time it takes to test a PON network, increasing our customers’ efficiency and reducing their test costs.”<br />
+        <br />
+        Existing OTDRs typically have a number of test ports. One port, for example, may be the source of dark (out-of-service) test signals while another may be the source of live (in-service) test signals. Because all test signals are not present on one port, users are required to swap the fiber under test from one port to the other to complete testing. In addition, OTDRs may include PON power meter ports for measuring the signals present on a fiber. AFL’s newly-patented approach is the first to combine a PON power meter with a live/dark fiber OTDR on a single test port.<br />
+        <br />
+        For additional information on ServiceSafe, OFL280 and FLX380 FlexTester OTDRs, please visit <a href="/">www.AFLglobal.com</a>.<br />
+        <br />
+        <strong>About AFL</strong><br />
+        AFL provides industry-leading products and services to the electric utility, broadband, communications, OEM, enterprise, wireless and transit rail markets as well as the emerging markets of oil and gas, mining, nuclear, avionics, medical, renewable and intelligent grid. The company’s diverse product portfolio includes fiber optic cable, transmission and substation accessories, outside plant equipment, connectors, fusion splicers, test equipment and training. AFL’s service portfolio includes market-leading positions with the foremost communications companies supporting inside plant central office, EF&I, outside plant, enterprise and wireless areas.<br />
+        <br />
+        Founded in 1984, AFL is proud to offer engineering expertise, exceptional products and reliable service that help our customers improve their critical and electrical infrastructure. AFL has operations in the U.S., Mexico, Europe, Asia and the South Pacific. The company is headquartered in Spartanburg, SC, and is a wholly-owned subsidiary of Fujikura Ltd. of Japan. For more information, visit <a href="/">www.AFLglobal.com</a>. <br />
+        <br />
+        <strong>Contacts</strong><br />
+        Michael Scholten<br />
+        Product Marketing Manager<br />
+        AFL<br />
+        978.455.9213 x.194<br />
+        <a href="mailto:Michael.Scholten@AFLglobal.com">Michael.Scholten@AFLglobal.com</a><br />
+         <br />
+        Corie Culp<br />
+        Public Relations Manager<br />
+        AFL<br />
+        864.433.5409<br />
+        <a href="mailto:Corie.Culp@AFLglobal.com">Corie.Culp@AFLglobal.com</a>
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: AFL Secures Patent for OTDR Technology
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\matt
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kushagra
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: AFL Secures Patent for OTDR Technology
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: AFL Secures Patent for OTDR Technology
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ac7a32a6-91dc-45f8-8be2-eadb95ffd132"
+    - ID: "a6eaffd5-fc3e-41b4-93b3-f1721fcf2300"
+      Hint: ContentPublishedDate
+      Value: 20130714T183000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T100420Z

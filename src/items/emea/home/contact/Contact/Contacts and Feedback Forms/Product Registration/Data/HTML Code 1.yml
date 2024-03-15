@@ -1,0 +1,134 @@
+﻿---
+ID: "31001252-99b9-4563-b136-d8385c7eac94"
+Parent: "416ea1a5-bc94-48e4-80a5-8af19c3e485f"
+Template: "2ad23d55-aecd-43dd-ae0d-72d2ebcba60f"
+Path: "/sitecore/content/AFL-Global/EMEA/Home/Contact/Contacts and Feedback Forms/Product Registration/Data/HTML Code 1"
+Languages:
+- Language: "de-DE"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "24cce27c-05db-4473-a1ed-e69b1725ff1c"
+      Hint: HtmlCode
+      Value: |
+        <script src="//287-IEW-969.mktoweb.com/js/forms2/js/forms2.min.js"></script>
+        <form id="mktoForm_1114"></form>
+        <script>MktoForms2.loadForm("//287-IEW-969.mktoweb.com", "287-IEW-969", 1114);</script>
+        <p>&nbsp;</p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220315T131950Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\matt
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rafael
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1e45e2ed-155f-4ae8-96cc-58798f030cd5"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\matt
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220408T201917Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "24cce27c-05db-4473-a1ed-e69b1725ff1c"
+      Hint: HtmlCode
+      Value: |
+        <script src="//287-IEW-969.mktoweb.com/js/forms2/js/forms2.min.js"></script>
+        <form id="mktoForm_1114"></form>
+        <script>MktoForms2.loadForm("//287-IEW-969.mktoweb.com", "287-IEW-969", 1114);</script>
+        <p>&nbsp;</p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220315T131950Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rafael
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rafael
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "90f6f99e-fbe6-4b41-9815-95c54a5bc3f1"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rob
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220315T153504Z
+- Language: "es-ES"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "24cce27c-05db-4473-a1ed-e69b1725ff1c"
+      Hint: HtmlCode
+      Value: |
+        <script src="//287-IEW-969.mktoweb.com/js/forms2/js/forms2.min.js"></script>
+        <form id="mktoForm_1114"></form>
+        <script>MktoForms2.loadForm("//287-IEW-969.mktoweb.com", "287-IEW-969", 1114);</script>
+        <p>&nbsp;</p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220315T131950Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\matt
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rafael
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f7e585e6-14c4-4934-a8b6-ab3d5f569988"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\matt
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220408T201900Z
+- Language: "fr-FR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "24cce27c-05db-4473-a1ed-e69b1725ff1c"
+      Hint: HtmlCode
+      Value: |
+        <script src="//287-IEW-969.mktoweb.com/js/forms2/js/forms2.min.js"></script>
+        <form id="mktoForm_1114"></form>
+        <script>MktoForms2.loadForm("//287-IEW-969.mktoweb.com", "287-IEW-969", 1114);</script>
+        <p>&nbsp;</p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220315T131950Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\matt
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rafael
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "76e11149-08c3-4b89-ab22-b7bf0b4e4464"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\matt
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220408T201932Z

@@ -1,0 +1,31 @@
+﻿---
+ID: "a0c9c44e-0de9-4224-8d55-04980c6ad367"
+Parent: "848252ef-42d0-4bfe-b5b8-8d4413879328"
+Template: "2ad23d55-aecd-43dd-ae0d-72d2ebcba60f"
+Path: "/sitecore/content/AFL-Global/EMEA/Home/Contact/Contacts and Feedback Forms/Locations/Monterrey-Mexico/Data/HTML Code 2"
+Languages:
+- Language: "es-MX"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20231003T171859Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rafael
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rafael
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6c1e7710-cb1e-40a1-b117-0d7865fbbba2"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rafael
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231003T171859Z

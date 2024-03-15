@@ -1,0 +1,856 @@
+﻿---
+ID: "5479a6f2-743b-4149-873c-e2e438b83bc3"
+Parent: "bda13c3e-4ce4-43dd-b0cd-cebe78c401db"
+Template: "bf61de11-b78f-48ea-aaa4-1d17f0d83824"
+Path: "/sitecore/content/AFL-Global/EMEA/Home/Solutions/Energy/Transmission and Distribution"
+SharedFields:
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{9B9150CA-F788-45F7-B378-77F936EC878B}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{21D0A9C4-8464-431E-BDDD-A37EEAC36B64}"
+Languages:
+- Language: "de-DE"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211122T092857Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Übertragung und Verteilung
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: Transmission and Distribution (T&D) Solutions for the energy market including electric utilities.
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <div>
+        AFL offers the most comprehensive portfolio of fiber optic cable, supporting hardware and compression accessories that are designed to meet the most demanding transmission and distribution environments. <br />
+         </div>
+        <h2>
+        Fiber Optic Cable and Hardware</h2>
+        <div>
+        As the leading world manufacturer of fiber optic cable, AFL is uniquely positioned to provide a full line of all-dielectric self-supporting (ADSS) aerial cables, Optical Ground Wire (OPGW), <span style="background-color: #ffffff; color: #000000;"><a href="~/link.aspx?_id=58C668C624794785A82EBA031DBA6AA5&_z=z">SkyWrap wrapped cable solutions</a>, </span>loose tube cable, customized solutions and supporting hardware and accessories. </div>
+        <div>
+        <br />
+        <a href="/Products/Fiber-Optic-Cable/Aerial/ADSS.aspx">ADSS cable</a> is ideal for installation in distribution as well as transmission environments, even when live-line installations are required. As its name indicates, there is no support or messenger wire required, so installation is achieved in a single pass, making ADSS an economical and simple means of building a fiber optic network. AFL-ADSS® cable is designed as a fully integrated solution and available with up to 432 fibers. It is used in extra high (500 kV) voltage applications and capable of long (> 6,000 ft.) spans.<br />
+         </div>
+        <div>
+        AFL has the largest installed base of <a href="/Products/Fiber-Optic-Cable/OPGW.aspx">OPGW cable</a><a href="/Products/Fiber-Optic-Cable/Aerial/OPGW.aspx"> </a>on transmission lines—more than any other company in the world. Placed in the secure topmost position of the transmission line, OPGW “shields” the all-important conductors from lightning as well as provides the added benefit of containing optical fibers. </div>
+        <div>
+        <br />
+        AFL’s OPGW family includes: </div>
+        <ul>
+            <li>
+            <a href="/Products/Fiber-Optic-Cable/Aerial/OPGW/AlumaCore-Optical-Ground-Wire-(OPGW).aspx">AlumaCore</a> – designed with central aluminum pipe and color-coded optical tubes;</li>
+            <li>
+            <a href="/Products/Fiber-Optic-Cable/Aerial/OPGW/HexaCore-Optical-Ground-Wire-(OPGW).aspx">HexaCore</a> – incorporates the use of stranded stainless steel tubes to allow for higher fiber counts; and </li>
+            <li>
+            <a href="/Products/Fiber-Optic-Cable/Aerial/OPGW/CentraCore-Optical-Ground-Wire-(OPGW).aspx">CentraCore</a> – blends together the stainless steel technology with AFL’s aluminum pipe. </li>
+        </ul>
+        <div>
+        Our applications engineers can assist with determining which design best suits the unique conditions and challenges for your application.<br />
+         </div>
+        <div>
+        AFL also manufactures its own line of ADSS and OPGW attachment hardware which simplifies the network design phase of a project while ensuring compatibility between the cable and related components. <br />
+         </div>
+        <h2>
+        Transmission Compression Accessories</h2>
+        <div>
+        AFL offers the industry’s most comprehensive line of <a href="/Products/Conductor-Accessories/Compression-Accessories.aspx">compression accessories</a> that operate–regardless of the electrical load–at a temperature lower than that of the conductor. Our compression accessories (dead ends, jumper terminals, joints, T-taps, repair sleeves and terminal connectors) are designed for various applications including high temperatures, voltages up to 765 kV and heat dissipation. AFL has five different compression configurations to suit all of your needs:</div>
+        <ul>
+            <li>
+            <a href="/Products/Conductor-Accessories/Compression-Accessories/Standard-Compression-Accessories.aspx">Standard Compression</a> accessories for ACSR, AAC, AAAC, ACAR, EHS ACSR, AWAC, Alumoweld® and steel ground wire conductors.</li>
+            <li>
+            <a href="/Products/Conductor-Accessories/Compression-Accessories/Quick-Compression-Accessories.aspx">Quick Compress®</a> accessories for all four conductor types – ACSR, AAC, AAAC and ACAR – without separate fittings for each conductor type.</li>
+            <li>
+            <a href="/Products/Conductor-Accessories/Compression-Accessories/HiTemp-Compression-Accessories.aspx">HiTemp® Compression</a> accessories for applications exceeding operating temperatures above 120°C (248°F).</li>
+            <li>
+            <a href="/Products/Conductor-Accessories/Compression-Accessories/Implosive-Technology-IMPACCT.aspx">IMPACCT®</a> (Implosive Accessory Technology) for ACSR and ACSS high-temperature conductors up to 765 kV.</li>
+            <li>
+            <a href="/Products/Conductor-Accessories/Compression-Accessories/3M-HiTemp-ACCR-Compression-Accessories.aspx">3M™ ACCR Conductors</a> for improved heat dissipation for conductor operation up to 250°C.</li>
+            <li>
+            <a href="/Products/Conductor-Accessories/Compression-Accessories/ACCC-HiTemp-Compression-Two-Die-System.aspx">ACCC Conductors</a> for carrying up to twice the current of a conventional ACSR conductor of the same diameter and similar weight.</li>
+        </ul>
+        <h2>
+        Distribution Accessories</h2>
+        <div>
+        With AFL’s history in the electric utility market and our highly skilled engineers, we are ready to help automate your <a href="/Products/Conductor-Accessories/Distribution-Accessories.aspx">distribution</a> systems. Minimal customer downtime and 100% customer satisfaction are the goals of every utility and a proper communications network is essential in reaching these goals. <br />
+         </div>
+        <div>
+        AFL developed a "universal groove" design to accommodate a wide range of conductors that achieves the desired low electrical resistance for each conductor size. AFL’s parallel grove clamps are designed to accept wide range of conductors to minimize number of clamps needed to cover from No. 8 AWG to 1750 MCM conductors.<br />
+        <br />
+        Aluminum bolts are used in parallel groove clamps and have an alumilite 205 finish and a thin coating of inhibitor compound to reduce thread friction, provide greater clamping force on the conductor for a given torque. These bolts will not seize. Benefits of aluminum bolts also include equalized expansion and contraction and contraction with temperature changes and favorable modulus of elasticity for “spring follow-up.”<br />
+        <br />
+         </div>
+    - ID: "56611f02-691a-4096-b044-63aa83122916"
+      Hint: Content
+      Value: |
+        <div>AFL offers the most comprehensive portfolio of fiber optic cable, supporting hardware and compression accessories that are designed to meet the most demanding transmission and distribution environments</div>
+        <h2>Fiber Optic Cable and Hardware</h2>
+        <div>As the leading world manufacturer of fiber optic cable, AFL is uniquely positioned to provide a full line of all-dielectric self-supporting (ADSS) aerial cables, Optical Ground Wire (OPGW), loose tube cable, customized solutions and supporting hardware and accessories.</div>
+        <div><a href="/Products/Fiber-Optic-Cable/Aerial/ADSS">ADSS cable</a>is ideal for installation in distribution as well as transmission environments, even when live-line installations are required. As its name indicates, there is no support or messenger wire required, so installation is achieved in a single pass, making ADSS an economical and simple means of building a fiber optic network. AFL-ADSS&reg; cable is designed as a fully integrated solution and available with up to 432 fibers. It is used in extra high (500 kV) voltage applications and capable of long (&gt; 6,000 ft.) spans.</div>
+        <div>AFL has the largest installed base of<a href="/Products/Fiber-Optic-Cable/OPGW">OPGW cable</a><a href="/Products/Fiber-Optic-Cable/Aerial/OPGW"></a>on transmission lines&mdash;more than any other company in the world. Placed in the secure topmost position of the transmission line, OPGW &ldquo;shields&rdquo; the all-important conductors from lightning as well as provides the added benefit of containing optical fibers.</div>
+        <div>AFL&rsquo;s OPGW family includes:</div>
+        <ul>
+            <li><a href="/Products/Fiber-Optic-Cable/Aerial/OPGW/AlumaCore-Optical-Ground-Wire-(OPGW)">AlumaCore</a>&ndash; designed with central aluminum pipe and color-coded optical tubes;</li>
+            <li><a href="/Products/Fiber-Optic-Cable/Aerial/OPGW/HexaCore-Optical-Ground-Wire-(OPGW)">HexaCore</a>&ndash; incorporates the use of stranded stainless steel tubes to allow for higher fiber counts; and;</li>
+            <li><a href="/Products/Fiber-Optic-Cable/Aerial/OPGW/CentraCore-Optical-Ground-Wire-(OPGW)">CentraCore</a>&ndash; blends together the stainless steel technology with AFL&rsquo;s aluminum pipe.</li>
+        </ul>
+        <div>Our applications engineers can assist with determining which design best suits the unique conditions and challenges for your application.</div>
+        <div>AFL also manufactures its own line of ADSS and OPGW attachment hardware which simplifies the network design phase of a project while ensuring compatibility between the cable and related components.</div>
+        <h2>Transmission Compression Accessories</h2>
+        <div>AFL offers the industry&rsquo;s most comprehensive line of;<a href="/Products/Conductor-Accessories/Compression-Accessories">compression accessories</a>;that operate ;regardless of the electrical load&ndash;at a temperature lower than that of the conductor. Our compression accessories (dead ends, jumper terminals, joints, T-taps, repair sleeves and terminal connectors) are designed for various applications including high temperatures, voltages up to 765 kV and heat dissipation. AFL has five different compression configurations to suit all of your needs:</div>
+        <ul>
+            <li><a href="/Products/Conductor-Accessories/Compression-Accessories/Standard-Compression-Accessories">Standard Compression</a>accessories for ACSR, AAC, AAAC, ACAR, EHS ACSR, AWAC, Alumoweld&reg; and steel ground wire conductors.</li>
+            <li><a href="/Products/Conductor-Accessories/Compression-Accessories/Quick-Compression-Accessories">Quick Compress&reg;</a>accessories for all four conductor types &ndash; ACSR, AAC, AAAC and ACAR &ndash; without separate fittings for each conductor type.</li>
+            <li><a href="/Products/Conductor-Accessories/Compression-Accessories/HiTemp-Compression-Accessories">HiTemp&reg; Compression</a>accessories for applications exceeding operating temperatures above 120&deg;C (248&deg;F).</li>
+            <li><a href="/Products/Conductor-Accessories/Compression-Accessories/Implosive-Technology-IMPACCT">IMPACCT&reg;</a>(Implosive Accessory Technology) for ACSR and ACSS high-temperature conductors up to 765 kV.</li>
+            <li><a href="/Products/Conductor-Accessories/Compression-Accessories/3M-HiTemp-ACCR-Compression-Accessories">3M&trade; ACCR Conductors</a>for improved heat dissipation for conductor operation up to 250&deg;C.</li>
+            <li><a href="/Products/Conductor-Accessories/Compression-Accessories/ACCC-HiTemp-Compression-Two-Die-System">ACCC Conductors</a>for carrying up to twice the current of a conventional ACSR conductor of the same diameter and similar weight.</li>
+        </ul>
+        <h2>Distribution Accessories</h2>
+        <div>With AFL&rsquo;s history in the electric utility market and our highly skilled engineers, we are ready to help automate your<a href="/Products/Conductor-Accessories/Distribution-Accessories">distribution</a>&amp;;systems. Minimal customer downtime and 100% customer satisfaction are the goals of every utility and a proper communications network is essential in reaching these goals.</div>
+        <div>AFL developed a "universal groove" design to accommodate a wide range of conductors that achieves the desired low electrical resistance for each conductor size. AFL&rsquo;s parallel grove clamps are designed to accept wide range of conductors to minimize number of clamps needed to cover from No. 8 AWG to 1750 MCM conductors.<br />
+        <br />
+        Aluminum bolts are used in parallel groove clamps and have an alumilite 205 finish and a thin coating of inhibitor compound to reduce thread friction, provide greater clamping force on the conductor for a given torque. These bolts will not seize. Benefits of aluminum bolts also include equalized expansion and contraction and contraction with temperature changes and favorable modulus of elasticity for &ldquo;spring follow-up.&rdquo;</div>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mahesh
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: Transmission and Distribution T&D AFL electric utility communication carriers markets industries solutions engery
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: Übertragung und Verteilung
+    - ID: "628db04b-29a2-483b-a88c-b8fd9a5f2086"
+      Hint: HeroLink
+      Value: |
+        <link id="{5479A6F2-743B-4149-873C-E2E438B83BC3}" querystring="" linktype="internal" text="LEARN MORE" anchor="" url="/AFL-Global/EMEA/Home/Solutions/Energy/Transmission and Distribution" title="" class="" target="|Custom" />
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: Übertragung und Verteilung
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a7786017-bc5e-45c6-a207-6521152cb1df"
+    - ID: "93dc88f3-05e5-482d-9b9a-c859c8258a73"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="167973" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/167973/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/structuredcabling?v=c6c7da6d" stylelabs-content-type="Image" alt="Structured Cabling.jpg" height="369" width="954" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T094453Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211122T092857Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Transmission and Distribution
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: Transmission and Distribution (T&D) Solutions for the energy market including electric utilities.
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <div>
+        AFL offers the most comprehensive portfolio of fiber optic cable, supporting hardware and compression accessories that are designed to meet the most demanding transmission and distribution environments. <br />
+         </div>
+        <h2>
+        Fiber Optic Cable and Hardware</h2>
+        <div>
+        As the leading world manufacturer of fiber optic cable, AFL is uniquely positioned to provide a full line of all-dielectric self-supporting (ADSS) aerial cables, Optical Ground Wire (OPGW), <span style="background-color: #ffffff; color: #000000;"><a href="~/link.aspx?_id=58C668C624794785A82EBA031DBA6AA5&_z=z">SkyWrap wrapped cable solutions</a>, </span>loose tube cable, customized solutions and supporting hardware and accessories. </div>
+        <div>
+        <br />
+        <a href="/Products/Fiber-Optic-Cable/Aerial/ADSS.aspx">ADSS cable</a> is ideal for installation in distribution as well as transmission environments, even when live-line installations are required. As its name indicates, there is no support or messenger wire required, so installation is achieved in a single pass, making ADSS an economical and simple means of building a fiber optic network. AFL-ADSS® cable is designed as a fully integrated solution and available with up to 432 fibers. It is used in extra high (500 kV) voltage applications and capable of long (> 6,000 ft.) spans.<br />
+         </div>
+        <div>
+        AFL has the largest installed base of <a href="/Products/Fiber-Optic-Cable/OPGW.aspx">OPGW cable</a><a href="/Products/Fiber-Optic-Cable/Aerial/OPGW.aspx"> </a>on transmission lines—more than any other company in the world. Placed in the secure topmost position of the transmission line, OPGW “shields” the all-important conductors from lightning as well as provides the added benefit of containing optical fibers. </div>
+        <div>
+        <br />
+        AFL’s OPGW family includes: </div>
+        <ul>
+            <li>
+            <a href="/Products/Fiber-Optic-Cable/Aerial/OPGW/AlumaCore-Optical-Ground-Wire-(OPGW).aspx">AlumaCore</a> – designed with central aluminum pipe and color-coded optical tubes;</li>
+            <li>
+            <a href="/Products/Fiber-Optic-Cable/Aerial/OPGW/HexaCore-Optical-Ground-Wire-(OPGW).aspx">HexaCore</a> – incorporates the use of stranded stainless steel tubes to allow for higher fiber counts; and </li>
+            <li>
+            <a href="/Products/Fiber-Optic-Cable/Aerial/OPGW/CentraCore-Optical-Ground-Wire-(OPGW).aspx">CentraCore</a> – blends together the stainless steel technology with AFL’s aluminum pipe. </li>
+        </ul>
+        <div>
+        Our applications engineers can assist with determining which design best suits the unique conditions and challenges for your application.<br />
+         </div>
+        <div>
+        AFL also manufactures its own line of ADSS and OPGW attachment hardware which simplifies the network design phase of a project while ensuring compatibility between the cable and related components. <br />
+         </div>
+        <h2>
+        Transmission Compression Accessories</h2>
+        <div>
+        AFL offers the industry’s most comprehensive line of <a href="/Products/Conductor-Accessories/Compression-Accessories.aspx">compression accessories</a> that operate–regardless of the electrical load–at a temperature lower than that of the conductor. Our compression accessories (dead ends, jumper terminals, joints, T-taps, repair sleeves and terminal connectors) are designed for various applications including high temperatures, voltages up to 765 kV and heat dissipation. AFL has five different compression configurations to suit all of your needs:</div>
+        <ul>
+            <li>
+            <a href="/Products/Conductor-Accessories/Compression-Accessories/Standard-Compression-Accessories.aspx">Standard Compression</a> accessories for ACSR, AAC, AAAC, ACAR, EHS ACSR, AWAC, Alumoweld® and steel ground wire conductors.</li>
+            <li>
+            <a href="/Products/Conductor-Accessories/Compression-Accessories/Quick-Compression-Accessories.aspx">Quick Compress®</a> accessories for all four conductor types – ACSR, AAC, AAAC and ACAR – without separate fittings for each conductor type.</li>
+            <li>
+            <a href="/Products/Conductor-Accessories/Compression-Accessories/HiTemp-Compression-Accessories.aspx">HiTemp® Compression</a> accessories for applications exceeding operating temperatures above 120°C (248°F).</li>
+            <li>
+            <a href="/Products/Conductor-Accessories/Compression-Accessories/Implosive-Technology-IMPACCT.aspx">IMPACCT®</a> (Implosive Accessory Technology) for ACSR and ACSS high-temperature conductors up to 765 kV.</li>
+            <li>
+            <a href="/Products/Conductor-Accessories/Compression-Accessories/3M-HiTemp-ACCR-Compression-Accessories.aspx">3M™ ACCR Conductors</a> for improved heat dissipation for conductor operation up to 250°C.</li>
+            <li>
+            <a href="/Products/Conductor-Accessories/Compression-Accessories/ACCC-HiTemp-Compression-Two-Die-System.aspx">ACCC Conductors</a> for carrying up to twice the current of a conventional ACSR conductor of the same diameter and similar weight.</li>
+        </ul>
+        <h2>
+        Distribution Accessories</h2>
+        <div>
+        With AFL’s history in the electric utility market and our highly skilled engineers, we are ready to help automate your <a href="/Products/Conductor-Accessories/Distribution-Accessories.aspx">distribution</a> systems. Minimal customer downtime and 100% customer satisfaction are the goals of every utility and a proper communications network is essential in reaching these goals. <br />
+         </div>
+        <div>
+        AFL developed a "universal groove" design to accommodate a wide range of conductors that achieves the desired low electrical resistance for each conductor size. AFL’s parallel grove clamps are designed to accept wide range of conductors to minimize number of clamps needed to cover from No. 8 AWG to 1750 MCM conductors.<br />
+        <br />
+        Aluminum bolts are used in parallel groove clamps and have an alumilite 205 finish and a thin coating of inhibitor compound to reduce thread friction, provide greater clamping force on the conductor for a given torque. These bolts will not seize. Benefits of aluminum bolts also include equalized expansion and contraction and contraction with temperature changes and favorable modulus of elasticity for “spring follow-up.”<br />
+        <br />
+         </div>
+    - ID: "56611f02-691a-4096-b044-63aa83122916"
+      Hint: Content
+      Value: |
+        <div>AFL offers the most comprehensive portfolio of fiber optic cable, supporting hardware and compression accessories that are designed to meet the most demanding transmission and distribution environments</div>
+        <h2>Fiber Optic Cable and Hardware</h2>
+        <div>As the leading world manufacturer of fiber optic cable, AFL is uniquely positioned to provide a full line of all-dielectric self-supporting (ADSS) aerial cables, Optical Ground Wire (OPGW), loose tube cable, customized solutions and supporting hardware and accessories.</div>
+        <div><a href="/Products/Fiber-Optic-Cable/Aerial/ADSS">ADSS cable</a>is ideal for installation in distribution as well as transmission environments, even when live-line installations are required. As its name indicates, there is no support or messenger wire required, so installation is achieved in a single pass, making ADSS an economical and simple means of building a fiber optic network. AFL-ADSS&reg; cable is designed as a fully integrated solution and available with up to 432 fibers. It is used in extra high (500 kV) voltage applications and capable of long (&gt; 6,000 ft.) spans.</div>
+        <div>AFL has the largest installed base of<a href="/Products/Fiber-Optic-Cable/OPGW">OPGW cable</a><a href="/Products/Fiber-Optic-Cable/Aerial/OPGW"></a>on transmission lines&mdash;more than any other company in the world. Placed in the secure topmost position of the transmission line, OPGW &ldquo;shields&rdquo; the all-important conductors from lightning as well as provides the added benefit of containing optical fibers.</div>
+        <div>AFL&rsquo;s OPGW family includes:</div>
+        <ul>
+            <li><a href="/Products/Fiber-Optic-Cable/Aerial/OPGW/AlumaCore-Optical-Ground-Wire-(OPGW)">AlumaCore</a>&ndash; designed with central aluminum pipe and color-coded optical tubes;</li>
+            <li><a href="/Products/Fiber-Optic-Cable/Aerial/OPGW/HexaCore-Optical-Ground-Wire-(OPGW)">HexaCore</a>&ndash; incorporates the use of stranded stainless steel tubes to allow for higher fiber counts; and;</li>
+            <li><a href="/Products/Fiber-Optic-Cable/Aerial/OPGW/CentraCore-Optical-Ground-Wire-(OPGW)">CentraCore</a>&ndash; blends together the stainless steel technology with AFL&rsquo;s aluminum pipe.</li>
+        </ul>
+        <div>Our applications engineers can assist with determining which design best suits the unique conditions and challenges for your application.</div>
+        <div>AFL also manufactures its own line of ADSS and OPGW attachment hardware which simplifies the network design phase of a project while ensuring compatibility between the cable and related components.</div>
+        <h2>Transmission Compression Accessories</h2>
+        <div>AFL offers the industry&rsquo;s most comprehensive line of;<a href="/Products/Conductor-Accessories/Compression-Accessories">compression accessories</a>;that operate ;regardless of the electrical load&ndash;at a temperature lower than that of the conductor. Our compression accessories (dead ends, jumper terminals, joints, T-taps, repair sleeves and terminal connectors) are designed for various applications including high temperatures, voltages up to 765 kV and heat dissipation. AFL has five different compression configurations to suit all of your needs:</div>
+        <ul>
+            <li><a href="/Products/Conductor-Accessories/Compression-Accessories/Standard-Compression-Accessories">Standard Compression</a>accessories for ACSR, AAC, AAAC, ACAR, EHS ACSR, AWAC, Alumoweld&reg; and steel ground wire conductors.</li>
+            <li><a href="/Products/Conductor-Accessories/Compression-Accessories/Quick-Compression-Accessories">Quick Compress&reg;</a>accessories for all four conductor types &ndash; ACSR, AAC, AAAC and ACAR &ndash; without separate fittings for each conductor type.</li>
+            <li><a href="/Products/Conductor-Accessories/Compression-Accessories/HiTemp-Compression-Accessories">HiTemp&reg; Compression</a>accessories for applications exceeding operating temperatures above 120&deg;C (248&deg;F).</li>
+            <li><a href="/Products/Conductor-Accessories/Compression-Accessories/Implosive-Technology-IMPACCT">IMPACCT&reg;</a>(Implosive Accessory Technology) for ACSR and ACSS high-temperature conductors up to 765 kV.</li>
+            <li><a href="/Products/Conductor-Accessories/Compression-Accessories/3M-HiTemp-ACCR-Compression-Accessories">3M&trade; ACCR Conductors</a>for improved heat dissipation for conductor operation up to 250&deg;C.</li>
+            <li><a href="/Products/Conductor-Accessories/Compression-Accessories/ACCC-HiTemp-Compression-Two-Die-System">ACCC Conductors</a>for carrying up to twice the current of a conventional ACSR conductor of the same diameter and similar weight.</li>
+        </ul>
+        <h2>Distribution Accessories</h2>
+        <div>With AFL&rsquo;s history in the electric utility market and our highly skilled engineers, we are ready to help automate your<a href="/Products/Conductor-Accessories/Distribution-Accessories">distribution</a>&amp;;systems. Minimal customer downtime and 100% customer satisfaction are the goals of every utility and a proper communications network is essential in reaching these goals.</div>
+        <div>AFL developed a "universal groove" design to accommodate a wide range of conductors that achieves the desired low electrical resistance for each conductor size. AFL&rsquo;s parallel grove clamps are designed to accept wide range of conductors to minimize number of clamps needed to cover from No. 8 AWG to 1750 MCM conductors.<br />
+        <br />
+        Aluminum bolts are used in parallel groove clamps and have an alumilite 205 finish and a thin coating of inhibitor compound to reduce thread friction, provide greater clamping force on the conductor for a given torque. These bolts will not seize. Benefits of aluminum bolts also include equalized expansion and contraction and contraction with temperature changes and favorable modulus of elasticity for &ldquo;spring follow-up.&rdquo;</div>
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: Transmission and Distribution T&D AFL electric utility communication carriers markets industries solutions engery
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: Transmission and Distribution
+    - ID: "628db04b-29a2-483b-a88c-b8fd9a5f2086"
+      Hint: HeroLink
+      Value: |
+        <link id="{5479A6F2-743B-4149-873C-E2E438B83BC3}" querystring="" linktype="internal" text="LEARN MORE" anchor="" url="/AFL-Global/EMEA/Home/Solutions/Energy/Transmission and Distribution" title="" class="" target="|Custom" />
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: Transmission and Distribution
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "589353fb-e283-437a-8555-139b94d9a525"
+    - ID: "93dc88f3-05e5-482d-9b9a-c859c8258a73"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="167973" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/167973/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/structuredcabling?v=c6c7da6d" stylelabs-content-type="Image" alt="Structured Cabling.jpg" height="369" width="954" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T094453Z
+- Language: "es-ES"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211122T092857Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Transmission and Distribution
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: Transmission and Distribution (T&D) Solutions for the energy market including electric utilities.
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <div>
+        AFL offers the most comprehensive portfolio of fiber optic cable, supporting hardware and compression accessories that are designed to meet the most demanding transmission and distribution environments.&nbsp;<br />
+        &nbsp;</div>
+        <h2>
+        Fiber Optic Cable and Hardware</h2>
+        <div>
+        As the leading world manufacturer of fiber optic cable, AFL is uniquely positioned to provide a full line of all-dielectric self-supporting (ADSS) aerial cables, Optical Ground Wire (OPGW), loose tube cable, customized solutions and supporting hardware and accessories.&nbsp;</div>
+        <div>
+        <br />
+        <a href="/Products/Fiber-Optic-Cable/Aerial/ADSS.aspx">ADSS cable</a> is ideal for installation in distribution as well as transmission environments, even when live-line installations are required. As its name indicates, there is no support or messenger wire required, so installation is achieved in a single pass, making ADSS an economical and simple means of building a fiber optic network. AFL-ADSS&reg; cable is designed as a fully integrated solution and available with up to 432 fibers. It is used in extra high (500 kV) voltage applications and capable of long (&gt; 6,000 ft.) spans.<br />
+        &nbsp;</div>
+        <div>
+        AFL has the largest installed base of <a href="/Products/Fiber-Optic-Cable/OPGW.aspx">OPGW cable</a><a href="/Products/Fiber-Optic-Cable/Aerial/OPGW.aspx"> </a>on transmission lines&mdash;more than any other company in the world. Placed in the secure topmost position of the transmission line, OPGW &ldquo;shields&rdquo; the all-important conductors from lightning as well as provides the added benefit of containing optical fibers.&nbsp;</div>
+        <div>
+        <br />
+        AFL&rsquo;s OPGW family includes:&nbsp;</div>
+        <ul>
+            <li>
+            <a href="/Products/Fiber-Optic-Cable/Aerial/OPGW/AlumaCore-Optical-Ground-Wire-(OPGW).aspx">AlumaCore</a> &ndash; designed with central aluminum pipe and color-coded optical tubes;</li>
+            <li>
+            <a href="/Products/Fiber-Optic-Cable/Aerial/OPGW/HexaCore-Optical-Ground-Wire-(OPGW).aspx">HexaCore</a> &ndash; incorporates the use of stranded stainless steel tubes to allow for higher fiber counts; and&nbsp;</li>
+            <li>
+            <a href="/Products/Fiber-Optic-Cable/Aerial/OPGW/CentraCore-Optical-Ground-Wire-(OPGW).aspx">CentraCore</a> &ndash; blends together the stainless steel technology with AFL&rsquo;s aluminum pipe.&nbsp;</li>
+        </ul>
+        <div>
+        Our applications engineers can assist with determining which design best suits the unique conditions and challenges for your application.<br />
+        &nbsp;</div>
+        <div>
+        AFL also manufactures its own line of ADSS and OPGW attachment hardware which simplifies the network design phase of a project while ensuring compatibility between the cable and related components.&nbsp;<br />
+        &nbsp;</div>
+        <h2>
+        Transmission Compression Accessories</h2>
+        <div>
+        AFL offers the industry&rsquo;s most comprehensive line of <a href="/Products/Conductor-Accessories/Compression-Accessories.aspx">compression accessories</a> that operate&ndash;regardless of the electrical load&ndash;at a temperature lower than that of the conductor. Our compression accessories (dead ends, jumper terminals, joints, T-taps, repair sleeves and terminal connectors) are designed for various applications including high temperatures, voltages up to 765 kV and heat dissipation. AFL has five different compression configurations to suit all of your needs:</div>
+        <ul>
+            <li>
+            <a href="/Products/Conductor-Accessories/Compression-Accessories/Standard-Compression-Accessories.aspx">Standard Compression</a> accessories for ACSR, AAC, AAAC, ACAR, EHS ACSR, AWAC, Alumoweld&reg; and steel ground wire conductors.</li>
+            <li>
+            <a href="/Products/Conductor-Accessories/Compression-Accessories/Quick-Compression-Accessories.aspx">Quick Compress&reg;</a> accessories for all four conductor types &ndash; ACSR, AAC, AAAC and ACAR &ndash; without separate fittings for each conductor type.</li>
+            <li>
+            <a href="/Products/Conductor-Accessories/Compression-Accessories/HiTemp-Compression-Accessories.aspx">HiTemp&reg; Compression</a> accessories for applications exceeding operating temperatures above 120&deg;C (248&deg;F).</li>
+            <li>
+            <a href="/Products/Conductor-Accessories/Compression-Accessories/Implosive-Technology-IMPACCT.aspx">IMPACCT&reg;</a> (Implosive Accessory Technology) for ACSR and ACSS high-temperature conductors up to 765 kV.</li>
+            <li>
+            <a href="/Products/Conductor-Accessories/Compression-Accessories/3M-HiTemp-ACCR-Compression-Accessories.aspx">3M&trade; ACCR Conductors</a> for improved heat dissipation for conductor operation up to 250&deg;C.</li>
+            <li>
+            <a href="/Products/Conductor-Accessories/Compression-Accessories/ACCC-HiTemp-Compression-Two-Die-System.aspx">ACCC Conductors</a> for carrying up to twice the current of a conventional ACSR conductor of the same diameter and similar weight.</li>
+        </ul>
+        <h2>
+        Distribution Accessories</h2>
+        <div>
+        With AFL&rsquo;s history in the electric utility market and our highly skilled engineers, we are ready to help automate your <a href="/Products/Conductor-Accessories/Distribution-Accessories.aspx">distribution</a> systems. Minimal customer downtime and 100% customer satisfaction are the goals of every utility and a proper communications network is essential in reaching these goals.&nbsp;<br />
+        &nbsp;</div>
+        <div>
+        AFL developed a "universal groove" design to accommodate a wide range of conductors that achieves the desired low electrical resistance for each conductor size. AFL&rsquo;s parallel grove clamps are designed to accept wide range of conductors to minimize number of clamps needed to cover from No. 8 AWG to 1750 MCM conductors.<br />
+        <br />
+        Aluminum bolts are used in parallel groove clamps and have an alumilite 205 finish and a thin coating of inhibitor compound to reduce thread friction, provide greater clamping force on the conductor for a given torque. These bolts will not seize. Benefits of aluminum bolts also include equalized expansion and contraction and contraction with temperature changes and favorable modulus of elasticity for &ldquo;spring follow-up.&rdquo;<br />
+        <br />
+        &nbsp;</div>
+    - ID: "56611f02-691a-4096-b044-63aa83122916"
+      Hint: Content
+      Value: |
+        <div>AFL offers the most comprehensive portfolio of fiber optic cable, supporting hardware and compression accessories that are designed to meet the most demanding transmission and distribution environments</div>
+        <h2>Fiber Optic Cable and Hardware</h2>
+        <div>As the leading world manufacturer of fiber optic cable, AFL is uniquely positioned to provide a full line of all-dielectric self-supporting (ADSS) aerial cables, Optical Ground Wire (OPGW), loose tube cable, customized solutions and supporting hardware and accessories.</div>
+        <div><a href="/Products/Fiber-Optic-Cable/Aerial/ADSS">ADSS cable</a>is ideal for installation in distribution as well as transmission environments, even when live-line installations are required. As its name indicates, there is no support or messenger wire required, so installation is achieved in a single pass, making ADSS an economical and simple means of building a fiber optic network. AFL-ADSS&reg; cable is designed as a fully integrated solution and available with up to 432 fibers. It is used in extra high (500 kV) voltage applications and capable of long (&gt; 6,000 ft.) spans.</div>
+        <div>AFL has the largest installed base of<a href="/Products/Fiber-Optic-Cable/OPGW">OPGW cable</a><a href="/Products/Fiber-Optic-Cable/Aerial/OPGW"></a>on transmission lines&mdash;more than any other company in the world. Placed in the secure topmost position of the transmission line, OPGW &ldquo;shields&rdquo; the all-important conductors from lightning as well as provides the added benefit of containing optical fibers.</div>
+        <div>AFL&rsquo;s OPGW family includes:</div>
+        <ul>
+            <li><a href="/Products/Fiber-Optic-Cable/Aerial/OPGW/AlumaCore-Optical-Ground-Wire-(OPGW)">AlumaCore</a>&ndash; designed with central aluminum pipe and color-coded optical tubes;</li>
+            <li><a href="/Products/Fiber-Optic-Cable/Aerial/OPGW/HexaCore-Optical-Ground-Wire-(OPGW)">HexaCore</a>&ndash; incorporates the use of stranded stainless steel tubes to allow for higher fiber counts; and;</li>
+            <li><a href="/Products/Fiber-Optic-Cable/Aerial/OPGW/CentraCore-Optical-Ground-Wire-(OPGW)">CentraCore</a>&ndash; blends together the stainless steel technology with AFL&rsquo;s aluminum pipe.</li>
+        </ul>
+        <div>Our applications engineers can assist with determining which design best suits the unique conditions and challenges for your application.</div>
+        <div>AFL also manufactures its own line of ADSS and OPGW attachment hardware which simplifies the network design phase of a project while ensuring compatibility between the cable and related components.</div>
+        <h2>Transmission Compression Accessories</h2>
+        <div>AFL offers the industry&rsquo;s most comprehensive line of;<a href="/Products/Conductor-Accessories/Compression-Accessories">compression accessories</a>;that operate ;regardless of the electrical load&ndash;at a temperature lower than that of the conductor. Our compression accessories (dead ends, jumper terminals, joints, T-taps, repair sleeves and terminal connectors) are designed for various applications including high temperatures, voltages up to 765 kV and heat dissipation. AFL has five different compression configurations to suit all of your needs:</div>
+        <ul>
+            <li><a href="/Products/Conductor-Accessories/Compression-Accessories/Standard-Compression-Accessories">Standard Compression</a>accessories for ACSR, AAC, AAAC, ACAR, EHS ACSR, AWAC, Alumoweld&reg; and steel ground wire conductors.</li>
+            <li><a href="/Products/Conductor-Accessories/Compression-Accessories/Quick-Compression-Accessories">Quick Compress&reg;</a>accessories for all four conductor types &ndash; ACSR, AAC, AAAC and ACAR &ndash; without separate fittings for each conductor type.</li>
+            <li><a href="/Products/Conductor-Accessories/Compression-Accessories/HiTemp-Compression-Accessories">HiTemp&reg; Compression</a>accessories for applications exceeding operating temperatures above 120&deg;C (248&deg;F).</li>
+            <li><a href="/Products/Conductor-Accessories/Compression-Accessories/Implosive-Technology-IMPACCT">IMPACCT&reg;</a>(Implosive Accessory Technology) for ACSR and ACSS high-temperature conductors up to 765 kV.</li>
+            <li><a href="/Products/Conductor-Accessories/Compression-Accessories/3M-HiTemp-ACCR-Compression-Accessories">3M&trade; ACCR Conductors</a>for improved heat dissipation for conductor operation up to 250&deg;C.</li>
+            <li><a href="/Products/Conductor-Accessories/Compression-Accessories/ACCC-HiTemp-Compression-Two-Die-System">ACCC Conductors</a>for carrying up to twice the current of a conventional ACSR conductor of the same diameter and similar weight.</li>
+        </ul>
+        <h2>Distribution Accessories</h2>
+        <div>With AFL&rsquo;s history in the electric utility market and our highly skilled engineers, we are ready to help automate your<a href="/Products/Conductor-Accessories/Distribution-Accessories">distribution</a>&amp;;systems. Minimal customer downtime and 100% customer satisfaction are the goals of every utility and a proper communications network is essential in reaching these goals.</div>
+        <div>AFL developed a "universal groove" design to accommodate a wide range of conductors that achieves the desired low electrical resistance for each conductor size. AFL&rsquo;s parallel grove clamps are designed to accept wide range of conductors to minimize number of clamps needed to cover from No. 8 AWG to 1750 MCM conductors.<br />
+        <br />
+        Aluminum bolts are used in parallel groove clamps and have an alumilite 205 finish and a thin coating of inhibitor compound to reduce thread friction, provide greater clamping force on the conductor for a given torque. These bolts will not seize. Benefits of aluminum bolts also include equalized expansion and contraction and contraction with temperature changes and favorable modulus of elasticity for &ldquo;spring follow-up.&rdquo;</div>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mahesh
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: Transmission and Distribution T&D AFL electric utility communication carriers markets industries solutions engery
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: Transmission and Distribution
+    - ID: "628db04b-29a2-483b-a88c-b8fd9a5f2086"
+      Hint: HeroLink
+      Value: |
+        <link id="{5479A6F2-743B-4149-873C-E2E438B83BC3}" querystring="" linktype="internal" text="LEARN MORE" anchor="" url="/AFL-Global/EMEA/Home/Solutions/Energy/Transmission and Distribution" title="" class="" target="|Custom" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "45ee507b-0720-4bf0-9f18-24e2eb556faf"
+    - ID: "93dc88f3-05e5-482d-9b9a-c859c8258a73"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image mediaid="{5759863E-C534-4575-AF5A-6461821B2D4C}" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sripada
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231206T080555Z
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211122T092857Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Transmisión y distribución
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: Transmission and Distribution (T&D) Solutions for the energy market including electric utilities.
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <div>
+        AFL offers the most comprehensive portfolio of fiber optic cable, supporting hardware and compression accessories that are designed to meet the most demanding transmission and distribution environments. <br />
+         </div>
+        <h2>
+        Fiber Optic Cable and Hardware</h2>
+        <div>
+        As the leading world manufacturer of fiber optic cable, AFL is uniquely positioned to provide a full line of all-dielectric self-supporting (ADSS) aerial cables, Optical Ground Wire (OPGW), <span style="background-color: #ffffff; color: #000000;"><a href="~/link.aspx?_id=58C668C624794785A82EBA031DBA6AA5&_z=z">SkyWrap wrapped cable solutions</a>, </span>loose tube cable, customized solutions and supporting hardware and accessories. </div>
+        <div>
+        <br />
+        <a href="/Products/Fiber-Optic-Cable/Aerial/ADSS.aspx">ADSS cable</a> is ideal for installation in distribution as well as transmission environments, even when live-line installations are required. As its name indicates, there is no support or messenger wire required, so installation is achieved in a single pass, making ADSS an economical and simple means of building a fiber optic network. AFL-ADSS® cable is designed as a fully integrated solution and available with up to 432 fibers. It is used in extra high (500 kV) voltage applications and capable of long (> 6,000 ft.) spans.<br />
+         </div>
+        <div>
+        AFL has the largest installed base of <a href="/Products/Fiber-Optic-Cable/OPGW.aspx">OPGW cable</a><a href="/Products/Fiber-Optic-Cable/Aerial/OPGW.aspx"> </a>on transmission lines—more than any other company in the world. Placed in the secure topmost position of the transmission line, OPGW “shields” the all-important conductors from lightning as well as provides the added benefit of containing optical fibers. </div>
+        <div>
+        <br />
+        AFL’s OPGW family includes: </div>
+        <ul>
+            <li>
+            <a href="/Products/Fiber-Optic-Cable/Aerial/OPGW/AlumaCore-Optical-Ground-Wire-(OPGW).aspx">AlumaCore</a> – designed with central aluminum pipe and color-coded optical tubes;</li>
+            <li>
+            <a href="/Products/Fiber-Optic-Cable/Aerial/OPGW/HexaCore-Optical-Ground-Wire-(OPGW).aspx">HexaCore</a> – incorporates the use of stranded stainless steel tubes to allow for higher fiber counts; and </li>
+            <li>
+            <a href="/Products/Fiber-Optic-Cable/Aerial/OPGW/CentraCore-Optical-Ground-Wire-(OPGW).aspx">CentraCore</a> – blends together the stainless steel technology with AFL’s aluminum pipe. </li>
+        </ul>
+        <div>
+        Our applications engineers can assist with determining which design best suits the unique conditions and challenges for your application.<br />
+         </div>
+        <div>
+        AFL also manufactures its own line of ADSS and OPGW attachment hardware which simplifies the network design phase of a project while ensuring compatibility between the cable and related components. <br />
+         </div>
+        <h2>
+        Transmission Compression Accessories</h2>
+        <div>
+        AFL offers the industry’s most comprehensive line of <a href="/Products/Conductor-Accessories/Compression-Accessories.aspx">compression accessories</a> that operate–regardless of the electrical load–at a temperature lower than that of the conductor. Our compression accessories (dead ends, jumper terminals, joints, T-taps, repair sleeves and terminal connectors) are designed for various applications including high temperatures, voltages up to 765 kV and heat dissipation. AFL has five different compression configurations to suit all of your needs:</div>
+        <ul>
+            <li>
+            <a href="/Products/Conductor-Accessories/Compression-Accessories/Standard-Compression-Accessories.aspx">Standard Compression</a> accessories for ACSR, AAC, AAAC, ACAR, EHS ACSR, AWAC, Alumoweld® and steel ground wire conductors.</li>
+            <li>
+            <a href="/Products/Conductor-Accessories/Compression-Accessories/Quick-Compression-Accessories.aspx">Quick Compress®</a> accessories for all four conductor types – ACSR, AAC, AAAC and ACAR – without separate fittings for each conductor type.</li>
+            <li>
+            <a href="/Products/Conductor-Accessories/Compression-Accessories/HiTemp-Compression-Accessories.aspx">HiTemp® Compression</a> accessories for applications exceeding operating temperatures above 120°C (248°F).</li>
+            <li>
+            <a href="/Products/Conductor-Accessories/Compression-Accessories/Implosive-Technology-IMPACCT.aspx">IMPACCT®</a> (Implosive Accessory Technology) for ACSR and ACSS high-temperature conductors up to 765 kV.</li>
+            <li>
+            <a href="/Products/Conductor-Accessories/Compression-Accessories/3M-HiTemp-ACCR-Compression-Accessories.aspx">3M™ ACCR Conductors</a> for improved heat dissipation for conductor operation up to 250°C.</li>
+            <li>
+            <a href="/Products/Conductor-Accessories/Compression-Accessories/ACCC-HiTemp-Compression-Two-Die-System.aspx">ACCC Conductors</a> for carrying up to twice the current of a conventional ACSR conductor of the same diameter and similar weight.</li>
+        </ul>
+        <h2>
+        Distribution Accessories</h2>
+        <div>
+        With AFL’s history in the electric utility market and our highly skilled engineers, we are ready to help automate your <a href="/Products/Conductor-Accessories/Distribution-Accessories.aspx">distribution</a> systems. Minimal customer downtime and 100% customer satisfaction are the goals of every utility and a proper communications network is essential in reaching these goals. <br />
+         </div>
+        <div>
+        AFL developed a "universal groove" design to accommodate a wide range of conductors that achieves the desired low electrical resistance for each conductor size. AFL’s parallel grove clamps are designed to accept wide range of conductors to minimize number of clamps needed to cover from No. 8 AWG to 1750 MCM conductors.<br />
+        <br />
+        Aluminum bolts are used in parallel groove clamps and have an alumilite 205 finish and a thin coating of inhibitor compound to reduce thread friction, provide greater clamping force on the conductor for a given torque. These bolts will not seize. Benefits of aluminum bolts also include equalized expansion and contraction and contraction with temperature changes and favorable modulus of elasticity for “spring follow-up.”<br />
+        <br />
+         </div>
+    - ID: "56611f02-691a-4096-b044-63aa83122916"
+      Hint: Content
+      Value: |
+        <div>AFL offers the most comprehensive portfolio of fiber optic cable, supporting hardware and compression accessories that are designed to meet the most demanding transmission and distribution environments</div>
+        <h2>Fiber Optic Cable and Hardware</h2>
+        <div>As the leading world manufacturer of fiber optic cable, AFL is uniquely positioned to provide a full line of all-dielectric self-supporting (ADSS) aerial cables, Optical Ground Wire (OPGW), loose tube cable, customized solutions and supporting hardware and accessories.</div>
+        <div><a href="/Products/Fiber-Optic-Cable/Aerial/ADSS">ADSS cable</a>is ideal for installation in distribution as well as transmission environments, even when live-line installations are required. As its name indicates, there is no support or messenger wire required, so installation is achieved in a single pass, making ADSS an economical and simple means of building a fiber optic network. AFL-ADSS&reg; cable is designed as a fully integrated solution and available with up to 432 fibers. It is used in extra high (500 kV) voltage applications and capable of long (&gt; 6,000 ft.) spans.</div>
+        <div>AFL has the largest installed base of<a href="/Products/Fiber-Optic-Cable/OPGW">OPGW cable</a><a href="/Products/Fiber-Optic-Cable/Aerial/OPGW"></a>on transmission lines&mdash;more than any other company in the world. Placed in the secure topmost position of the transmission line, OPGW &ldquo;shields&rdquo; the all-important conductors from lightning as well as provides the added benefit of containing optical fibers.</div>
+        <div>AFL&rsquo;s OPGW family includes:</div>
+        <ul>
+            <li><a href="/Products/Fiber-Optic-Cable/Aerial/OPGW/AlumaCore-Optical-Ground-Wire-(OPGW)">AlumaCore</a>&ndash; designed with central aluminum pipe and color-coded optical tubes;</li>
+            <li><a href="/Products/Fiber-Optic-Cable/Aerial/OPGW/HexaCore-Optical-Ground-Wire-(OPGW)">HexaCore</a>&ndash; incorporates the use of stranded stainless steel tubes to allow for higher fiber counts; and;</li>
+            <li><a href="/Products/Fiber-Optic-Cable/Aerial/OPGW/CentraCore-Optical-Ground-Wire-(OPGW)">CentraCore</a>&ndash; blends together the stainless steel technology with AFL&rsquo;s aluminum pipe.</li>
+        </ul>
+        <div>Our applications engineers can assist with determining which design best suits the unique conditions and challenges for your application.</div>
+        <div>AFL also manufactures its own line of ADSS and OPGW attachment hardware which simplifies the network design phase of a project while ensuring compatibility between the cable and related components.</div>
+        <h2>Transmission Compression Accessories</h2>
+        <div>AFL offers the industry&rsquo;s most comprehensive line of;<a href="/Products/Conductor-Accessories/Compression-Accessories">compression accessories</a>;that operate ;regardless of the electrical load&ndash;at a temperature lower than that of the conductor. Our compression accessories (dead ends, jumper terminals, joints, T-taps, repair sleeves and terminal connectors) are designed for various applications including high temperatures, voltages up to 765 kV and heat dissipation. AFL has five different compression configurations to suit all of your needs:</div>
+        <ul>
+            <li><a href="/Products/Conductor-Accessories/Compression-Accessories/Standard-Compression-Accessories">Standard Compression</a>accessories for ACSR, AAC, AAAC, ACAR, EHS ACSR, AWAC, Alumoweld&reg; and steel ground wire conductors.</li>
+            <li><a href="/Products/Conductor-Accessories/Compression-Accessories/Quick-Compression-Accessories">Quick Compress&reg;</a>accessories for all four conductor types &ndash; ACSR, AAC, AAAC and ACAR &ndash; without separate fittings for each conductor type.</li>
+            <li><a href="/Products/Conductor-Accessories/Compression-Accessories/HiTemp-Compression-Accessories">HiTemp&reg; Compression</a>accessories for applications exceeding operating temperatures above 120&deg;C (248&deg;F).</li>
+            <li><a href="/Products/Conductor-Accessories/Compression-Accessories/Implosive-Technology-IMPACCT">IMPACCT&reg;</a>(Implosive Accessory Technology) for ACSR and ACSS high-temperature conductors up to 765 kV.</li>
+            <li><a href="/Products/Conductor-Accessories/Compression-Accessories/3M-HiTemp-ACCR-Compression-Accessories">3M&trade; ACCR Conductors</a>for improved heat dissipation for conductor operation up to 250&deg;C.</li>
+            <li><a href="/Products/Conductor-Accessories/Compression-Accessories/ACCC-HiTemp-Compression-Two-Die-System">ACCC Conductors</a>for carrying up to twice the current of a conventional ACSR conductor of the same diameter and similar weight.</li>
+        </ul>
+        <h2>Distribution Accessories</h2>
+        <div>With AFL&rsquo;s history in the electric utility market and our highly skilled engineers, we are ready to help automate your<a href="/Products/Conductor-Accessories/Distribution-Accessories">distribution</a>&amp;;systems. Minimal customer downtime and 100% customer satisfaction are the goals of every utility and a proper communications network is essential in reaching these goals.</div>
+        <div>AFL developed a "universal groove" design to accommodate a wide range of conductors that achieves the desired low electrical resistance for each conductor size. AFL&rsquo;s parallel grove clamps are designed to accept wide range of conductors to minimize number of clamps needed to cover from No. 8 AWG to 1750 MCM conductors.<br />
+        <br />
+        Aluminum bolts are used in parallel groove clamps and have an alumilite 205 finish and a thin coating of inhibitor compound to reduce thread friction, provide greater clamping force on the conductor for a given torque. These bolts will not seize. Benefits of aluminum bolts also include equalized expansion and contraction and contraction with temperature changes and favorable modulus of elasticity for &ldquo;spring follow-up.&rdquo;</div>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mahesh
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: Transmission and Distribution T&D AFL electric utility communication carriers markets industries solutions engery
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: Transmisión y distribución
+    - ID: "628db04b-29a2-483b-a88c-b8fd9a5f2086"
+      Hint: HeroLink
+      Value: |
+        <link id="{5479A6F2-743B-4149-873C-E2E438B83BC3}" querystring="" linktype="internal" text="LEARN MORE" anchor="" url="/AFL-Global/EMEA/Home/Solutions/Energy/Transmission and Distribution" title="" class="" target="|Custom" />
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: Transmisión y distribución
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "faec8b16-7063-4b3d-9e63-c72676f90e68"
+    - ID: "93dc88f3-05e5-482d-9b9a-c859c8258a73"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="167973" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/167973/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/structuredcabling?v=c6c7da6d" stylelabs-content-type="Image" alt="Structured Cabling.jpg" height="369" width="954" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T094453Z
+- Language: "fr-FR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211122T092857Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Transmission et distribution
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: Transmission and Distribution (T&D) Solutions for the energy market including electric utilities.
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <div>
+        AFL offers the most comprehensive portfolio of fiber optic cable, supporting hardware and compression accessories that are designed to meet the most demanding transmission and distribution environments. <br />
+         </div>
+        <h2>
+        Fiber Optic Cable and Hardware</h2>
+        <div>
+        As the leading world manufacturer of fiber optic cable, AFL is uniquely positioned to provide a full line of all-dielectric self-supporting (ADSS) aerial cables, Optical Ground Wire (OPGW), <span style="background-color: #ffffff; color: #000000;"><a href="~/link.aspx?_id=58C668C624794785A82EBA031DBA6AA5&_z=z">SkyWrap wrapped cable solutions</a>, </span>loose tube cable, customized solutions and supporting hardware and accessories. </div>
+        <div>
+        <br />
+        <a href="/Products/Fiber-Optic-Cable/Aerial/ADSS.aspx">ADSS cable</a> is ideal for installation in distribution as well as transmission environments, even when live-line installations are required. As its name indicates, there is no support or messenger wire required, so installation is achieved in a single pass, making ADSS an economical and simple means of building a fiber optic network. AFL-ADSS® cable is designed as a fully integrated solution and available with up to 432 fibers. It is used in extra high (500 kV) voltage applications and capable of long (> 6,000 ft.) spans.<br />
+         </div>
+        <div>
+        AFL has the largest installed base of <a href="/Products/Fiber-Optic-Cable/OPGW.aspx">OPGW cable</a><a href="/Products/Fiber-Optic-Cable/Aerial/OPGW.aspx"> </a>on transmission lines—more than any other company in the world. Placed in the secure topmost position of the transmission line, OPGW “shields” the all-important conductors from lightning as well as provides the added benefit of containing optical fibers. </div>
+        <div>
+        <br />
+        AFL’s OPGW family includes: </div>
+        <ul>
+            <li>
+            <a href="/Products/Fiber-Optic-Cable/Aerial/OPGW/AlumaCore-Optical-Ground-Wire-(OPGW).aspx">AlumaCore</a> – designed with central aluminum pipe and color-coded optical tubes;</li>
+            <li>
+            <a href="/Products/Fiber-Optic-Cable/Aerial/OPGW/HexaCore-Optical-Ground-Wire-(OPGW).aspx">HexaCore</a> – incorporates the use of stranded stainless steel tubes to allow for higher fiber counts; and </li>
+            <li>
+            <a href="/Products/Fiber-Optic-Cable/Aerial/OPGW/CentraCore-Optical-Ground-Wire-(OPGW).aspx">CentraCore</a> – blends together the stainless steel technology with AFL’s aluminum pipe. </li>
+        </ul>
+        <div>
+        Our applications engineers can assist with determining which design best suits the unique conditions and challenges for your application.<br />
+         </div>
+        <div>
+        AFL also manufactures its own line of ADSS and OPGW attachment hardware which simplifies the network design phase of a project while ensuring compatibility between the cable and related components. <br />
+         </div>
+        <h2>
+        Transmission Compression Accessories</h2>
+        <div>
+        AFL offers the industry’s most comprehensive line of <a href="/Products/Conductor-Accessories/Compression-Accessories.aspx">compression accessories</a> that operate–regardless of the electrical load–at a temperature lower than that of the conductor. Our compression accessories (dead ends, jumper terminals, joints, T-taps, repair sleeves and terminal connectors) are designed for various applications including high temperatures, voltages up to 765 kV and heat dissipation. AFL has five different compression configurations to suit all of your needs:</div>
+        <ul>
+            <li>
+            <a href="/Products/Conductor-Accessories/Compression-Accessories/Standard-Compression-Accessories.aspx">Standard Compression</a> accessories for ACSR, AAC, AAAC, ACAR, EHS ACSR, AWAC, Alumoweld® and steel ground wire conductors.</li>
+            <li>
+            <a href="/Products/Conductor-Accessories/Compression-Accessories/Quick-Compression-Accessories.aspx">Quick Compress®</a> accessories for all four conductor types – ACSR, AAC, AAAC and ACAR – without separate fittings for each conductor type.</li>
+            <li>
+            <a href="/Products/Conductor-Accessories/Compression-Accessories/HiTemp-Compression-Accessories.aspx">HiTemp® Compression</a> accessories for applications exceeding operating temperatures above 120°C (248°F).</li>
+            <li>
+            <a href="/Products/Conductor-Accessories/Compression-Accessories/Implosive-Technology-IMPACCT.aspx">IMPACCT®</a> (Implosive Accessory Technology) for ACSR and ACSS high-temperature conductors up to 765 kV.</li>
+            <li>
+            <a href="/Products/Conductor-Accessories/Compression-Accessories/3M-HiTemp-ACCR-Compression-Accessories.aspx">3M™ ACCR Conductors</a> for improved heat dissipation for conductor operation up to 250°C.</li>
+            <li>
+            <a href="/Products/Conductor-Accessories/Compression-Accessories/ACCC-HiTemp-Compression-Two-Die-System.aspx">ACCC Conductors</a> for carrying up to twice the current of a conventional ACSR conductor of the same diameter and similar weight.</li>
+        </ul>
+        <h2>
+        Distribution Accessories</h2>
+        <div>
+        With AFL’s history in the electric utility market and our highly skilled engineers, we are ready to help automate your <a href="/Products/Conductor-Accessories/Distribution-Accessories.aspx">distribution</a> systems. Minimal customer downtime and 100% customer satisfaction are the goals of every utility and a proper communications network is essential in reaching these goals. <br />
+         </div>
+        <div>
+        AFL developed a "universal groove" design to accommodate a wide range of conductors that achieves the desired low electrical resistance for each conductor size. AFL’s parallel grove clamps are designed to accept wide range of conductors to minimize number of clamps needed to cover from No. 8 AWG to 1750 MCM conductors.<br />
+        <br />
+        Aluminum bolts are used in parallel groove clamps and have an alumilite 205 finish and a thin coating of inhibitor compound to reduce thread friction, provide greater clamping force on the conductor for a given torque. These bolts will not seize. Benefits of aluminum bolts also include equalized expansion and contraction and contraction with temperature changes and favorable modulus of elasticity for “spring follow-up.”<br />
+        <br />
+         </div>
+    - ID: "56611f02-691a-4096-b044-63aa83122916"
+      Hint: Content
+      Value: |
+        <div>AFL offers the most comprehensive portfolio of fiber optic cable, supporting hardware and compression accessories that are designed to meet the most demanding transmission and distribution environments</div>
+        <h2>Fiber Optic Cable and Hardware</h2>
+        <div>As the leading world manufacturer of fiber optic cable, AFL is uniquely positioned to provide a full line of all-dielectric self-supporting (ADSS) aerial cables, Optical Ground Wire (OPGW), loose tube cable, customized solutions and supporting hardware and accessories.</div>
+        <div><a href="/Products/Fiber-Optic-Cable/Aerial/ADSS">ADSS cable</a>is ideal for installation in distribution as well as transmission environments, even when live-line installations are required. As its name indicates, there is no support or messenger wire required, so installation is achieved in a single pass, making ADSS an economical and simple means of building a fiber optic network. AFL-ADSS&reg; cable is designed as a fully integrated solution and available with up to 432 fibers. It is used in extra high (500 kV) voltage applications and capable of long (&gt; 6,000 ft.) spans.</div>
+        <div>AFL has the largest installed base of<a href="/Products/Fiber-Optic-Cable/OPGW">OPGW cable</a><a href="/Products/Fiber-Optic-Cable/Aerial/OPGW"></a>on transmission lines&mdash;more than any other company in the world. Placed in the secure topmost position of the transmission line, OPGW &ldquo;shields&rdquo; the all-important conductors from lightning as well as provides the added benefit of containing optical fibers.</div>
+        <div>AFL&rsquo;s OPGW family includes:</div>
+        <ul>
+            <li><a href="/Products/Fiber-Optic-Cable/Aerial/OPGW/AlumaCore-Optical-Ground-Wire-(OPGW)">AlumaCore</a>&ndash; designed with central aluminum pipe and color-coded optical tubes;</li>
+            <li><a href="/Products/Fiber-Optic-Cable/Aerial/OPGW/HexaCore-Optical-Ground-Wire-(OPGW)">HexaCore</a>&ndash; incorporates the use of stranded stainless steel tubes to allow for higher fiber counts; and;</li>
+            <li><a href="/Products/Fiber-Optic-Cable/Aerial/OPGW/CentraCore-Optical-Ground-Wire-(OPGW)">CentraCore</a>&ndash; blends together the stainless steel technology with AFL&rsquo;s aluminum pipe.</li>
+        </ul>
+        <div>Our applications engineers can assist with determining which design best suits the unique conditions and challenges for your application.</div>
+        <div>AFL also manufactures its own line of ADSS and OPGW attachment hardware which simplifies the network design phase of a project while ensuring compatibility between the cable and related components.</div>
+        <h2>Transmission Compression Accessories</h2>
+        <div>AFL offers the industry&rsquo;s most comprehensive line of;<a href="/Products/Conductor-Accessories/Compression-Accessories">compression accessories</a>;that operate ;regardless of the electrical load&ndash;at a temperature lower than that of the conductor. Our compression accessories (dead ends, jumper terminals, joints, T-taps, repair sleeves and terminal connectors) are designed for various applications including high temperatures, voltages up to 765 kV and heat dissipation. AFL has five different compression configurations to suit all of your needs:</div>
+        <ul>
+            <li><a href="/Products/Conductor-Accessories/Compression-Accessories/Standard-Compression-Accessories">Standard Compression</a>accessories for ACSR, AAC, AAAC, ACAR, EHS ACSR, AWAC, Alumoweld&reg; and steel ground wire conductors.</li>
+            <li><a href="/Products/Conductor-Accessories/Compression-Accessories/Quick-Compression-Accessories">Quick Compress&reg;</a>accessories for all four conductor types &ndash; ACSR, AAC, AAAC and ACAR &ndash; without separate fittings for each conductor type.</li>
+            <li><a href="/Products/Conductor-Accessories/Compression-Accessories/HiTemp-Compression-Accessories">HiTemp&reg; Compression</a>accessories for applications exceeding operating temperatures above 120&deg;C (248&deg;F).</li>
+            <li><a href="/Products/Conductor-Accessories/Compression-Accessories/Implosive-Technology-IMPACCT">IMPACCT&reg;</a>(Implosive Accessory Technology) for ACSR and ACSS high-temperature conductors up to 765 kV.</li>
+            <li><a href="/Products/Conductor-Accessories/Compression-Accessories/3M-HiTemp-ACCR-Compression-Accessories">3M&trade; ACCR Conductors</a>for improved heat dissipation for conductor operation up to 250&deg;C.</li>
+            <li><a href="/Products/Conductor-Accessories/Compression-Accessories/ACCC-HiTemp-Compression-Two-Die-System">ACCC Conductors</a>for carrying up to twice the current of a conventional ACSR conductor of the same diameter and similar weight.</li>
+        </ul>
+        <h2>Distribution Accessories</h2>
+        <div>With AFL&rsquo;s history in the electric utility market and our highly skilled engineers, we are ready to help automate your<a href="/Products/Conductor-Accessories/Distribution-Accessories">distribution</a>&amp;;systems. Minimal customer downtime and 100% customer satisfaction are the goals of every utility and a proper communications network is essential in reaching these goals.</div>
+        <div>AFL developed a "universal groove" design to accommodate a wide range of conductors that achieves the desired low electrical resistance for each conductor size. AFL&rsquo;s parallel grove clamps are designed to accept wide range of conductors to minimize number of clamps needed to cover from No. 8 AWG to 1750 MCM conductors.<br />
+        <br />
+        Aluminum bolts are used in parallel groove clamps and have an alumilite 205 finish and a thin coating of inhibitor compound to reduce thread friction, provide greater clamping force on the conductor for a given torque. These bolts will not seize. Benefits of aluminum bolts also include equalized expansion and contraction and contraction with temperature changes and favorable modulus of elasticity for &ldquo;spring follow-up.&rdquo;</div>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mahesh
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: Transmission and Distribution T&D AFL electric utility communication carriers markets industries solutions engery
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: Transmission et distribution
+    - ID: "628db04b-29a2-483b-a88c-b8fd9a5f2086"
+      Hint: HeroLink
+      Value: |
+        <link id="{5479A6F2-743B-4149-873C-E2E438B83BC3}" querystring="" linktype="internal" text="LEARN MORE" anchor="" url="/AFL-Global/EMEA/Home/Solutions/Energy/Transmission and Distribution" title="" class="" target="|Custom" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "58c26bd5-f2d0-4adb-8eb4-2a71c56ec6ee"
+    - ID: "93dc88f3-05e5-482d-9b9a-c859c8258a73"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="167973" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/167973/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/structuredcabling?v=c6c7da6d" stylelabs-content-type="Image" alt="Structured Cabling.jpg" height="369" width="954" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sripada
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231206T080555Z
+  - Version: 2
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20231118T044159Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{51E133B0-31E4-4E74-87C6-1A3455298761}"
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Transmission et distribution
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: Transmission and Distribution (T&D) Solutions for the energy market including electric utilities.
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <div>
+        AFL offers the most comprehensive portfolio of fiber optic cable, supporting hardware and compression accessories that are designed to meet the most demanding transmission and distribution environments. <br />
+         </div>
+        <h2>
+        Fiber Optic Cable and Hardware</h2>
+        <div>
+        As the leading world manufacturer of fiber optic cable, AFL is uniquely positioned to provide a full line of all-dielectric self-supporting (ADSS) aerial cables, Optical Ground Wire (OPGW), <span style="background-color: #ffffff; color: #000000;"><a href="~/link.aspx?_id=58C668C624794785A82EBA031DBA6AA5&_z=z">SkyWrap wrapped cable solutions</a>, </span>loose tube cable, customized solutions and supporting hardware and accessories. </div>
+        <div>
+        <br />
+        <a href="/Products/Fiber-Optic-Cable/Aerial/ADSS.aspx">ADSS cable</a> is ideal for installation in distribution as well as transmission environments, even when live-line installations are required. As its name indicates, there is no support or messenger wire required, so installation is achieved in a single pass, making ADSS an economical and simple means of building a fiber optic network. AFL-ADSS® cable is designed as a fully integrated solution and available with up to 432 fibers. It is used in extra high (500 kV) voltage applications and capable of long (> 6,000 ft.) spans.<br />
+         </div>
+        <div>
+        AFL has the largest installed base of <a href="/Products/Fiber-Optic-Cable/OPGW.aspx">OPGW cable</a><a href="/Products/Fiber-Optic-Cable/Aerial/OPGW.aspx"> </a>on transmission lines—more than any other company in the world. Placed in the secure topmost position of the transmission line, OPGW “shields” the all-important conductors from lightning as well as provides the added benefit of containing optical fibers. </div>
+        <div>
+        <br />
+        AFL’s OPGW family includes: </div>
+        <ul>
+            <li>
+            <a href="/Products/Fiber-Optic-Cable/Aerial/OPGW/AlumaCore-Optical-Ground-Wire-(OPGW).aspx">AlumaCore</a> – designed with central aluminum pipe and color-coded optical tubes;</li>
+            <li>
+            <a href="/Products/Fiber-Optic-Cable/Aerial/OPGW/HexaCore-Optical-Ground-Wire-(OPGW).aspx">HexaCore</a> – incorporates the use of stranded stainless steel tubes to allow for higher fiber counts; and </li>
+            <li>
+            <a href="/Products/Fiber-Optic-Cable/Aerial/OPGW/CentraCore-Optical-Ground-Wire-(OPGW).aspx">CentraCore</a> – blends together the stainless steel technology with AFL’s aluminum pipe. </li>
+        </ul>
+        <div>
+        Our applications engineers can assist with determining which design best suits the unique conditions and challenges for your application.<br />
+         </div>
+        <div>
+        AFL also manufactures its own line of ADSS and OPGW attachment hardware which simplifies the network design phase of a project while ensuring compatibility between the cable and related components. <br />
+         </div>
+        <h2>
+        Transmission Compression Accessories</h2>
+        <div>
+        AFL offers the industry’s most comprehensive line of <a href="/Products/Conductor-Accessories/Compression-Accessories.aspx">compression accessories</a> that operate–regardless of the electrical load–at a temperature lower than that of the conductor. Our compression accessories (dead ends, jumper terminals, joints, T-taps, repair sleeves and terminal connectors) are designed for various applications including high temperatures, voltages up to 765 kV and heat dissipation. AFL has five different compression configurations to suit all of your needs:</div>
+        <ul>
+            <li>
+            <a href="/Products/Conductor-Accessories/Compression-Accessories/Standard-Compression-Accessories.aspx">Standard Compression</a> accessories for ACSR, AAC, AAAC, ACAR, EHS ACSR, AWAC, Alumoweld® and steel ground wire conductors.</li>
+            <li>
+            <a href="/Products/Conductor-Accessories/Compression-Accessories/Quick-Compression-Accessories.aspx">Quick Compress®</a> accessories for all four conductor types – ACSR, AAC, AAAC and ACAR – without separate fittings for each conductor type.</li>
+            <li>
+            <a href="/Products/Conductor-Accessories/Compression-Accessories/HiTemp-Compression-Accessories.aspx">HiTemp® Compression</a> accessories for applications exceeding operating temperatures above 120°C (248°F).</li>
+            <li>
+            <a href="/Products/Conductor-Accessories/Compression-Accessories/Implosive-Technology-IMPACCT.aspx">IMPACCT®</a> (Implosive Accessory Technology) for ACSR and ACSS high-temperature conductors up to 765 kV.</li>
+            <li>
+            <a href="/Products/Conductor-Accessories/Compression-Accessories/3M-HiTemp-ACCR-Compression-Accessories.aspx">3M™ ACCR Conductors</a> for improved heat dissipation for conductor operation up to 250°C.</li>
+            <li>
+            <a href="/Products/Conductor-Accessories/Compression-Accessories/ACCC-HiTemp-Compression-Two-Die-System.aspx">ACCC Conductors</a> for carrying up to twice the current of a conventional ACSR conductor of the same diameter and similar weight.</li>
+        </ul>
+        <h2>
+        Distribution Accessories</h2>
+        <div>
+        With AFL’s history in the electric utility market and our highly skilled engineers, we are ready to help automate your <a href="/Products/Conductor-Accessories/Distribution-Accessories.aspx">distribution</a> systems. Minimal customer downtime and 100% customer satisfaction are the goals of every utility and a proper communications network is essential in reaching these goals. <br />
+         </div>
+        <div>
+        AFL developed a "universal groove" design to accommodate a wide range of conductors that achieves the desired low electrical resistance for each conductor size. AFL’s parallel grove clamps are designed to accept wide range of conductors to minimize number of clamps needed to cover from No. 8 AWG to 1750 MCM conductors.<br />
+        <br />
+        Aluminum bolts are used in parallel groove clamps and have an alumilite 205 finish and a thin coating of inhibitor compound to reduce thread friction, provide greater clamping force on the conductor for a given torque. These bolts will not seize. Benefits of aluminum bolts also include equalized expansion and contraction and contraction with temperature changes and favorable modulus of elasticity for “spring follow-up.”<br />
+        <br />
+         </div>
+    - ID: "56611f02-691a-4096-b044-63aa83122916"
+      Hint: Content
+      Value: |
+        <div>AFL offers the most comprehensive portfolio of fiber optic cable, supporting hardware and compression accessories that are designed to meet the most demanding transmission and distribution environments</div>
+        <h2>Fiber Optic Cable and Hardware</h2>
+        <div>As the leading world manufacturer of fiber optic cable, AFL is uniquely positioned to provide a full line of all-dielectric self-supporting (ADSS) aerial cables, Optical Ground Wire (OPGW), loose tube cable, customized solutions and supporting hardware and accessories.</div>
+        <div><a href="/Products/Fiber-Optic-Cable/Aerial/ADSS">ADSS cable</a>is ideal for installation in distribution as well as transmission environments, even when live-line installations are required. As its name indicates, there is no support or messenger wire required, so installation is achieved in a single pass, making ADSS an economical and simple means of building a fiber optic network. AFL-ADSS&reg; cable is designed as a fully integrated solution and available with up to 432 fibers. It is used in extra high (500 kV) voltage applications and capable of long (&gt; 6,000 ft.) spans.</div>
+        <div>AFL has the largest installed base of<a href="/Products/Fiber-Optic-Cable/OPGW">OPGW cable</a><a href="/Products/Fiber-Optic-Cable/Aerial/OPGW"></a>on transmission lines&mdash;more than any other company in the world. Placed in the secure topmost position of the transmission line, OPGW &ldquo;shields&rdquo; the all-important conductors from lightning as well as provides the added benefit of containing optical fibers.</div>
+        <div>AFL&rsquo;s OPGW family includes:</div>
+        <ul>
+            <li><a href="/Products/Fiber-Optic-Cable/Aerial/OPGW/AlumaCore-Optical-Ground-Wire-(OPGW)">AlumaCore</a>&ndash; designed with central aluminum pipe and color-coded optical tubes;</li>
+            <li><a href="/Products/Fiber-Optic-Cable/Aerial/OPGW/HexaCore-Optical-Ground-Wire-(OPGW)">HexaCore</a>&ndash; incorporates the use of stranded stainless steel tubes to allow for higher fiber counts; and;</li>
+            <li><a href="/Products/Fiber-Optic-Cable/Aerial/OPGW/CentraCore-Optical-Ground-Wire-(OPGW)">CentraCore</a>&ndash; blends together the stainless steel technology with AFL&rsquo;s aluminum pipe.</li>
+        </ul>
+        <div>Our applications engineers can assist with determining which design best suits the unique conditions and challenges for your application.</div>
+        <div>AFL also manufactures its own line of ADSS and OPGW attachment hardware which simplifies the network design phase of a project while ensuring compatibility between the cable and related components.</div>
+        <h2>Transmission Compression Accessories</h2>
+        <div>AFL offers the industry&rsquo;s most comprehensive line of;<a href="/Products/Conductor-Accessories/Compression-Accessories">compression accessories</a>;that operate ;regardless of the electrical load&ndash;at a temperature lower than that of the conductor. Our compression accessories (dead ends, jumper terminals, joints, T-taps, repair sleeves and terminal connectors) are designed for various applications including high temperatures, voltages up to 765 kV and heat dissipation. AFL has five different compression configurations to suit all of your needs:</div>
+        <ul>
+            <li><a href="/Products/Conductor-Accessories/Compression-Accessories/Standard-Compression-Accessories">Standard Compression</a>accessories for ACSR, AAC, AAAC, ACAR, EHS ACSR, AWAC, Alumoweld&reg; and steel ground wire conductors.</li>
+            <li><a href="/Products/Conductor-Accessories/Compression-Accessories/Quick-Compression-Accessories">Quick Compress&reg;</a>accessories for all four conductor types &ndash; ACSR, AAC, AAAC and ACAR &ndash; without separate fittings for each conductor type.</li>
+            <li><a href="/Products/Conductor-Accessories/Compression-Accessories/HiTemp-Compression-Accessories">HiTemp&reg; Compression</a>accessories for applications exceeding operating temperatures above 120&deg;C (248&deg;F).</li>
+            <li><a href="/Products/Conductor-Accessories/Compression-Accessories/Implosive-Technology-IMPACCT">IMPACCT&reg;</a>(Implosive Accessory Technology) for ACSR and ACSS high-temperature conductors up to 765 kV.</li>
+            <li><a href="/Products/Conductor-Accessories/Compression-Accessories/3M-HiTemp-ACCR-Compression-Accessories">3M&trade; ACCR Conductors</a>for improved heat dissipation for conductor operation up to 250&deg;C.</li>
+            <li><a href="/Products/Conductor-Accessories/Compression-Accessories/ACCC-HiTemp-Compression-Two-Die-System">ACCC Conductors</a>for carrying up to twice the current of a conventional ACSR conductor of the same diameter and similar weight.</li>
+        </ul>
+        <h2>Distribution Accessories</h2>
+        <div>With AFL&rsquo;s history in the electric utility market and our highly skilled engineers, we are ready to help automate your<a href="/Products/Conductor-Accessories/Distribution-Accessories">distribution</a>&amp;;systems. Minimal customer downtime and 100% customer satisfaction are the goals of every utility and a proper communications network is essential in reaching these goals.</div>
+        <div>AFL developed a "universal groove" design to accommodate a wide range of conductors that achieves the desired low electrical resistance for each conductor size. AFL&rsquo;s parallel grove clamps are designed to accept wide range of conductors to minimize number of clamps needed to cover from No. 8 AWG to 1750 MCM conductors.<br />
+        <br />
+        Aluminum bolts are used in parallel groove clamps and have an alumilite 205 finish and a thin coating of inhibitor compound to reduce thread friction, provide greater clamping force on the conductor for a given torque. These bolts will not seize. Benefits of aluminum bolts also include equalized expansion and contraction and contraction with temperature changes and favorable modulus of elasticity for &ldquo;spring follow-up.&rdquo;</div>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\GenericEditorReviewerTestP
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: Transmission and Distribution T&D AFL electric utility communication carriers markets industries solutions engery
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: Transmission et distribution
+    - ID: "628db04b-29a2-483b-a88c-b8fd9a5f2086"
+      Hint: HeroLink
+      Value: |
+        <link id="{5479A6F2-743B-4149-873C-E2E438B83BC3}" querystring="" linktype="internal" text="LEARN MORE" anchor="" url="/AFL-Global/EMEA/Home/Solutions/Energy/Transmission and Distribution" title="" class="" target="|Custom" />
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: Transmission et distribution
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d554e1cb-5798-4a85-9c4d-eb1a9974e86f"
+    - ID: "93dc88f3-05e5-482d-9b9a-c859c8258a73"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="167973" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/167973/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/structuredcabling?v=c6c7da6d" stylelabs-content-type="Image" alt="Structured Cabling.jpg" height="369" width="954" />
+    - ID: "a40ebd3d-2b41-41fb-90f7-753544ce77c5"
+      Hint: Hero Title1
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20231118T044159Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T094453Z
