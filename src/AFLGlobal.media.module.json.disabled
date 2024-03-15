@@ -1,0 +1,30 @@
+{
+	"$schema": "../.sitecore/schemas/ModuleFile.schema.json",
+	"namespace": "AFLGlobal.Media",
+	"items": {
+		"includes": [
+			{
+				"name": "migrated/media/project",
+				"path": "/sitecore/media library/Project/AFL-Global/AFL-APAC",
+				"rules": [
+					{
+						"path": "*",
+						"scope": "ItemAndDescendants",
+						"allowedPushOperations": "CreateAndUpdate"
+					}
+				]
+			},
+			{
+				"name": "migrated/media/theme",
+				"path": "/sitecore/media library/Themes/AFL-Global/",
+				"rules": [
+					{
+						"path": "*",
+						"scope": "ItemAndDescendants",
+						"allowedPushOperations": "CreateAndUpdate"
+					}
+				]
+			}
+		]
+	}
+}

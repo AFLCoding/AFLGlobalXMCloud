@@ -1,0 +1,38 @@
+﻿---
+ID: "da631fb5-51b3-49f6-9915-732d093cf221"
+Parent: "7e479b49-fe84-4209-af74-70619f48e0c8"
+Template: "6db5d952-edde-47d2-9694-3710dbfbd752"
+Path: "/sitecore/content/AFL-Global/APAC/Presentation/Page Designs/AFL/PDP Page"
+SharedFields:
+- ID: "0966b999-0d0e-4278-acc9-9da69d461fe6"
+  Hint: PartialDesigns
+  Value: "{AEB0035B-A012-4170-8DDA-49D40F14C3D8}|{643437E3-51AE-4356-9F92-E8AC9945EF06}|{D47B6808-53CF-4E3F-8A85-D34BBFBDE08F}|{1D63AED1-1540-4DCD-B452-9057AD46F834}|{D6AB926B-DE1A-4B27-87BD-3D20C65664A7}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+            l="{BCFC7537-EFF4-434C-96F5-BF4F55FD175B}" />
+          <d
+            id="{0B4A31C9-712D-4578-A396-2DDC0F34B63A}"
+            l="{72C595AD-68BB-44BC-B5CD-2A857039515F}" />
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211108T041327Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "aebb2748-0660-4ad4-9a49-bd8a3d1ebd8c"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kushagra
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220308T062423Z

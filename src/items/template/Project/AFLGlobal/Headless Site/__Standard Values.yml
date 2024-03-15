@@ -1,7 +1,7 @@
 ﻿---
-ID: "3a9fe559-4fbc-482a-bfb8-cd1269a7d61d"
-Parent: "991f70b7-ccf0-4ffd-81b2-5c51a29ce0db"
-Template: "991f70b7-ccf0-4ffd-81b2-5c51a29ce0db"
+ID: "da95423d-79fb-423a-a13c-12aaed695d6b"
+Parent: "ed7df31c-504e-4b54-811b-6915c6593d4d"
+Template: "ed7df31c-504e-4b54-811b-6915c6593d4d"
 Path: /sitecore/templates/Project/AFLGlobal/Headless Site/__Standard Values
 Languages:
 - Language: en
@@ -10,7 +10,7 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20240215T104727Z
+      Value: 20240306T130844Z
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
@@ -21,11 +21,11 @@ Languages:
         sitecore\gunasekaran.s@altudo.co
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "94cb18be-3bd1-4d3c-90d3-83319127d04d"
+      Value: "2459db45-2b9e-40ff-a82f-9eccf3358360"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\gunasekaran.s@altudo.co
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240215T104727Z
+      Value: 20240306T130844Z

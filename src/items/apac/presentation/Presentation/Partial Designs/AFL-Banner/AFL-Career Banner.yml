@@ -1,0 +1,51 @@
+﻿---
+ID: "d4b4f0f1-d118-4a1a-a139-b577579b3bfc"
+Parent: "78b8bada-c19d-4b18-aa5b-93a62a3f7d0d"
+Template: "8136f903-5eea-4289-9b44-67b469a969ea"
+Path: "/sitecore/content/AFL-Global/APAC/Presentation/Partial Designs/AFL-Banner/AFL-Career Banner"
+SharedFields:
+- ID: "55faae90-3bba-4f7f-96fe-13c3f40055ff"
+  Hint: Signature
+  Value: "afl-career-banner"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{A8CFEDDA-EE83-4B57-B0FC-D8DB1386435B}"
+          s:ds="{479E13C3-1755-4307-986F-57F4471D2252}"
+          s:id="{6F646C2F-8611-4D9A-ACCC-847F6A2F2520}"
+          s:par="Reset Caching Options&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames=%7BA1911392-425C-4A4C-92FA-0999F2451FAF%7D&amp;Styles=%7BF1F928CE-745E-45F8-BB41-932C7AA24E1E%7D&amp;RenderingIdentifier&amp;DynamicPlaceholderId=1&amp;data-mobile-bg=%24%28HeroBackgroundImage%29"
+          s:ph="/main"
+          s:ccb="Clear on publish" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211117T120321Z
+    - ID: "4c2f221f-9426-45ed-9eeb-c79bb3169565"
+      Hint: StickyNotes
+      Value: |
+        {"items":[]}
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "af42114c-7cb0-44c8-af42-1bfc5dd00968"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240229T094045Z
