@@ -1,0 +1,187 @@
+﻿---
+ID: "1cd9163f-f421-430b-b3c4-8246f580574d"
+Parent: "4755364b-71bf-48c0-896d-df1672c0b1c1"
+Template: "e7037b42-b31a-46f2-821f-66db5e18b889"
+Path: "/sitecore/content/AFL-Global/AMERICAS/Data/AFL Additional Product Folder/Related Product Item"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211108T041905Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d0971516-ecbe-49a4-ba2f-c17f5de7b5ba"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rob
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231009T181827Z
+    - ID: "fb72ff1d-6b1d-4970-916a-8162ff077e62"
+      Hint: ProcutItems
+      Value: |
+        {EB860B7C-2AC9-4BF8-897A-6C75A3086597}
+        {E105C824-99AD-4D8F-AF69-4905C98EE733}
+        {2E8A1E84-DF68-4525-BB00-EFB67133746A}
+        {5974678C-49DA-4FEF-B5F7-B9EC32738309}
+        {96389C20-329A-4AB5-9BD0-0F0FF0C34546}
+        {740F36E4-074A-417C-BAB6-8839104B5517}
+        {6092F951-08FC-4763-B65E-786AE0F0AC85}
+        {B68E9FF9-43D3-4F1D-9541-8E8EB171A2E5}
+        {8455F507-7AB7-4C42-9783-ACDF570DB481}
+        {99B517ED-F180-4751-A929-80D7EDB31EB2}
+        {F477480D-6D75-4AD7-A113-95DA9374356F}
+        {DE911D25-49F4-4817-9044-A006AFBC482B}
+        {5FC583C1-91D9-4A74-BF4D-CE6068501462}
+        {559DB39B-9E26-4350-8270-E3CA0A0EDD0E}
+        {0B5C2A48-9C51-4090-A643-3743327CD1EC}
+        {6E25F712-D5F7-4891-9099-6A1E9E0B042E}
+        {2F0CBB97-0519-41C2-B01F-DF64F3B5AFC8}
+        {E85DF440-165C-4F3A-A45A-942AE93F34C3}
+- Language: "es-MX"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211108T041905Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "93d70167-315f-4765-891f-7cef57ebb9b4"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rob
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230926T134741Z
+    - ID: "fb72ff1d-6b1d-4970-916a-8162ff077e62"
+      Hint: ProcutItems
+      Value: |
+        {E105C824-99AD-4D8F-AF69-4905C98EE733}
+        {6092F951-08FC-4763-B65E-786AE0F0AC85}
+        {B68E9FF9-43D3-4F1D-9541-8E8EB171A2E5}
+        {8455F507-7AB7-4C42-9783-ACDF570DB481}
+        {99B517ED-F180-4751-A929-80D7EDB31EB2}
+        {F477480D-6D75-4AD7-A113-95DA9374356F}
+        {DE911D25-49F4-4817-9044-A006AFBC482B}
+        {5FC583C1-91D9-4A74-BF4D-CE6068501462}
+        {559DB39B-9E26-4350-8270-E3CA0A0EDD0E}
+        {6E25F712-D5F7-4891-9099-6A1E9E0B042E}
+        {2F0CBB97-0519-41C2-B01F-DF64F3B5AFC8}
+        {E85DF440-165C-4F3A-A45A-942AE93F34C3}
+        {F756C461-DFFF-491A-8706-8EE58F39A567}
+        {0B5C2A48-9C51-4090-A643-3743327CD1EC}
+        {30BD7BBC-CEA3-4925-89A5-31350D6E95BD}
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211108T041905Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6c8104dc-2f35-4fc0-89b8-a8ded4605071"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahesh
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220215T094001Z
+    - ID: "fb72ff1d-6b1d-4970-916a-8162ff077e62"
+      Hint: ProcutItems
+      Value: |
+        {6092F951-08FC-4763-B65E-786AE0F0AC85}
+        {B68E9FF9-43D3-4F1D-9541-8E8EB171A2E5}
+        {8455F507-7AB7-4C42-9783-ACDF570DB481}
+        {99B517ED-F180-4751-A929-80D7EDB31EB2}
+        {F477480D-6D75-4AD7-A113-95DA9374356F}
+        {DE911D25-49F4-4817-9044-A006AFBC482B}
+        {5FC583C1-91D9-4A74-BF4D-CE6068501462}
+        {559DB39B-9E26-4350-8270-E3CA0A0EDD0E}
+        {6E25F712-D5F7-4891-9099-6A1E9E0B042E}
+        {2F0CBB97-0519-41C2-B01F-DF64F3B5AFC8}
+        {E85DF440-165C-4F3A-A45A-942AE93F34C3}
+        {F756C461-DFFF-491A-8706-8EE58F39A567}
+        {0B5C2A48-9C51-4090-A643-3743327CD1EC}
+        {30BD7BBC-CEA3-4925-89A5-31350D6E95BD}
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211108T041905Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ae4abccc-3f24-4ac4-888e-241368e42e6b"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rob
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230926T134713Z
+    - ID: "fb72ff1d-6b1d-4970-916a-8162ff077e62"
+      Hint: ProcutItems
+      Value: |
+        {E105C824-99AD-4D8F-AF69-4905C98EE733}
+        {6092F951-08FC-4763-B65E-786AE0F0AC85}
+        {B68E9FF9-43D3-4F1D-9541-8E8EB171A2E5}
+        {8455F507-7AB7-4C42-9783-ACDF570DB481}
+        {99B517ED-F180-4751-A929-80D7EDB31EB2}
+        {F477480D-6D75-4AD7-A113-95DA9374356F}
+        {DE911D25-49F4-4817-9044-A006AFBC482B}
+        {5FC583C1-91D9-4A74-BF4D-CE6068501462}
+        {559DB39B-9E26-4350-8270-E3CA0A0EDD0E}
+        {6E25F712-D5F7-4891-9099-6A1E9E0B042E}
+        {2F0CBB97-0519-41C2-B01F-DF64F3B5AFC8}
+        {E85DF440-165C-4F3A-A45A-942AE93F34C3}
+        {F756C461-DFFF-491A-8706-8EE58F39A567}
+        {0B5C2A48-9C51-4090-A643-3743327CD1EC}
+        {30BD7BBC-CEA3-4925-89A5-31350D6E95BD}

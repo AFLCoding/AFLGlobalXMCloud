@@ -1,0 +1,206 @@
+﻿---
+ID: "9c588a4e-83fb-43e3-9aea-a36462d6e105"
+Parent: "cd9f663b-2f4b-420c-bfee-96fa1ecec702"
+Template: "011c02ab-49e7-41f0-8719-03034390bc25"
+Path: "/sitecore/content/AFL-Global/AMERICAS/Data/AFL Product Detail Folder/Services Details/Services Offerings Details/Enterprise Services Details/Markets Details/Healthcare Details"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 300
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211124T150855Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <p>Today's Healthcare Industry requires state-of-the-art amenities and equipment for preventative care, patient health management, and emergency treatment.</p>
+        <p>Cultural, regulatory, and technological forces have made healthcare a leading-edge industry with respect to information technology systems. From HIPPA and electronic health records to the HITECH Act and high-resolution file transfer, IT systems in healthcare facilities are being pushed to their limits.</p>
+        <p>Selecting a network services partner is critical to deploying a successful healthcare solution. AFL not only provides the expertise in end-to-end network solutions, but our technicians are highly qualified in healthcare network installations and overcoming the common obstacles that may arise.</p>
+        <h2>Services</h2>
+        <ul style="color: #333333; background-color: #ffffff; list-style-image: url('https://www.aflglobal.com/productionFiles/images/bulletRound.aspx');">
+            <li><a href="https://www.aflglobal.com/Services/Solutions/Structured-Cabling.aspx" style="color: #0091ea; background-color: transparent;"><strong>Structured Cabling</strong></a>- Firmly established as fiber optic specialists, this expertise remains at the heart of our service offering to clients. Infrastructure plays a vital role in ensuring that your facility has a robust and secure network. From protecting and transmitting patient files to support medical equipment, proper infrastructure can help you provide the highest level of patient care possible. With our expertise in network cabling, you will achieve unprecedented management, efficiency, and speed across your enterprise. Additionally, our testing practices take the risk and guesswork out of deployment.</li>
+            <li><strong>High Performance Buildings</strong>- Regulatory compliance is driving the need for organizations to reduce their carbon footprint and energy usage. This brings into the need for efficient, collaborative and intelligent building environments into sharp focus. Creating an intelligent building will help minimize operational costs, optimize facility resources, and provide an improved user experience to help ensure maximum user productivity.</li>
+            <li><a href="https://www.aflglobal.com/Services/Solutions/Distributed-Antenna-Systems-DAS.aspx" style="color: #0091ea; background-color: transparent;"><strong>Distributed Antenna Systems (DAS)</strong></a>- In the healthcare industry, specifically in the hospital environment, healthcare professionals are relying on tablet communications in operating rooms, labs, elevators, and stairwells. This growing demand is being challenged by today&rsquo;s building designs that utilize Low-E glass, and new building materials that degrade cellular signals. A &lsquo;distributed antenna system&rsquo; (DAS) is designed to amplify cellular signals throughout the building.</li>
+            <li><a href="https://www.aflglobal.com/Services/Solutions/Small-Cell-and-Public-Safety-Solutions.aspx" style="color: #0091ea; background-color: transparent;"><strong>In-building Wireless Infrastructure</strong></a>- The patient experience, employee productivity, and competitive nature of healthcare delivery demand wireless systems that integrate voice, data, location, and clinical services seamlessly throughout the entire facility. AFL will work with your team to develop a plan to ensure fire and life safety, reduce liabilities by maintaining compliance with national, state, and local fire codes, as well as improve operational efficiencies by providing instant communication.</li>
+            <li><a href="https://www.aflglobal.com/Services/Solutions/WiFi.aspx" style="color: #0091ea; background-color: transparent;"><strong>WiFi</strong></a>-Healthcare organizations are transforming their IT infrastructures to include more connected medical and IoT devices. This growth requires a reliable wireless network to support the number of devices, as well as cover an entire campus, so the network can be accessed from anywhere. AFL&rsquo;s WiFi Access Point Installation service covers small or large-scale installations using professionally trained installers with experience working with complex systems and multiple locations.</li>
+            <li><a href="https://www.aflglobal.com/Services/Solutions/Security-Solutions.aspx" style="color: #0091ea; background-color: transparent;"><strong>Security &amp; Safety Systems</strong></a>- Theft, disorderly conduct, and physical violence are at the top of the list of challenges faced by security personnel in healthcare. It is crucial that healthcare practitioners feel safe in their environment so that they can focus on patient care. AFL brings a breadth of healthcare experience, innovative thinking, and the application of technology-driven solutions to address these challenges. We specialize in integrated IP-based physical security and access control solutions to assist you in effectively meeting these objectives.</li>
+            <li><a href="https://www.aflglobal.com/Services/Solutions/Audio-Visual-Solutions.aspx" style="color: #0091ea; background-color: transparent;"><strong>Paging &amp; Medical Emergency Notification Systems</strong></a>- At healthcare facilities, staff are focused on providing excellent patient care. Utilizing a notification system that streamlines communication provides more time for your staff to spend with patients. Mass notification systems for healthcare delivers better emergency and clinical workflow communications, resulting in enhanced patient care. Whether you require a streamlined or fully integrated paging system, AFL&rsquo;s installed solutions are easy to use, highly reliable, and offer the ultimate in sophistication and control.</li>
+            <li><a href="https://www.aflglobal.com/Services/Contact-Us.aspx" style="color: #0091ea; background-color: transparent;"><strong>24/7 professional support</strong></a>-Our dedicated service and support professionals are focused on providing your company the reliable, high-quality service and support you expect and deserve. You can rest easy knowing our expert teams are available 24/7 to keep your business operating at peak efficiency.</li>
+        </ul>
+    - ID: "5d336bce-e421-4fe8-ad55-214f80d841ad"
+      Hint: "Sub-Heading"
+      Value: "Healthcare sub-heading"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "508ad5b6-d86c-4179-99a7-645c9ca8d3d2"
+    - ID: "ab91d39b-30ad-4050-acef-07c741146fcc"
+      Hint: Heading
+      Value: Healthcare heading
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20211124T165633Z
+- Language: "es-MX"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211124T150855Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <p>Today's Healthcare Industry requires state-of-the-art amenities and equipment for preventative care, patient health management, and emergency treatment.</p>
+        <p>Cultural, regulatory, and technological forces have made healthcare a leading-edge industry with respect to information technology systems. From HIPPA and electronic health records to the HITECH Act and high-resolution file transfer, IT systems in healthcare facilities are being pushed to their limits.</p>
+        <p>Selecting a network services partner is critical to deploying a successful healthcare solution. AFL not only provides the expertise in end-to-end network solutions, but our technicians are highly qualified in healthcare network installations and overcoming the common obstacles that may arise.</p>
+        <h2>Services</h2>
+        <ul style="color: #333333; background-color: #ffffff; list-style-image: url('https://www.aflglobal.com/productionFiles/images/bulletRound.aspx');">
+            <li><a href="https://www.aflglobal.com/Services/Solutions/Structured-Cabling.aspx" style="color: #0091ea; background-color: transparent;"><strong>Structured Cabling</strong></a>- Firmly established as fiber optic specialists, this expertise remains at the heart of our service offering to clients. Infrastructure plays a vital role in ensuring that your facility has a robust and secure network. From protecting and transmitting patient files to support medical equipment, proper infrastructure can help you provide the highest level of patient care possible. With our expertise in network cabling, you will achieve unprecedented management, efficiency, and speed across your enterprise. Additionally, our testing practices take the risk and guesswork out of deployment.</li>
+            <li><strong>High Performance Buildings</strong>- Regulatory compliance is driving the need for organizations to reduce their carbon footprint and energy usage. This brings into the need for efficient, collaborative and intelligent building environments into sharp focus. Creating an intelligent building will help minimize operational costs, optimize facility resources, and provide an improved user experience to help ensure maximum user productivity.</li>
+            <li><a href="https://www.aflglobal.com/Services/Solutions/Distributed-Antenna-Systems-DAS.aspx" style="color: #0091ea; background-color: transparent;"><strong>Distributed Antenna Systems (DAS)</strong></a>- In the healthcare industry, specifically in the hospital environment, healthcare professionals are relying on tablet communications in operating rooms, labs, elevators, and stairwells. This growing demand is being challenged by today&rsquo;s building designs that utilize Low-E glass, and new building materials that degrade cellular signals. A &lsquo;distributed antenna system&rsquo; (DAS) is designed to amplify cellular signals throughout the building.</li>
+            <li><a href="https://www.aflglobal.com/Services/Solutions/Small-Cell-and-Public-Safety-Solutions.aspx" style="color: #0091ea; background-color: transparent;"><strong>In-building Wireless Infrastructure</strong></a>- The patient experience, employee productivity, and competitive nature of healthcare delivery demand wireless systems that integrate voice, data, location, and clinical services seamlessly throughout the entire facility. AFL will work with your team to develop a plan to ensure fire and life safety, reduce liabilities by maintaining compliance with national, state, and local fire codes, as well as improve operational efficiencies by providing instant communication.</li>
+            <li><a href="https://www.aflglobal.com/Services/Solutions/WiFi.aspx" style="color: #0091ea; background-color: transparent;"><strong>WiFi</strong></a>-Healthcare organizations are transforming their IT infrastructures to include more connected medical and IoT devices. This growth requires a reliable wireless network to support the number of devices, as well as cover an entire campus, so the network can be accessed from anywhere. AFL&rsquo;s WiFi Access Point Installation service covers small or large-scale installations using professionally trained installers with experience working with complex systems and multiple locations.</li>
+            <li><a href="https://www.aflglobal.com/Services/Solutions/Security-Solutions.aspx" style="color: #0091ea; background-color: transparent;"><strong>Security &amp; Safety Systems</strong></a>- Theft, disorderly conduct, and physical violence are at the top of the list of challenges faced by security personnel in healthcare. It is crucial that healthcare practitioners feel safe in their environment so that they can focus on patient care. AFL brings a breadth of healthcare experience, innovative thinking, and the application of technology-driven solutions to address these challenges. We specialize in integrated IP-based physical security and access control solutions to assist you in effectively meeting these objectives.</li>
+            <li><a href="https://www.aflglobal.com/Services/Solutions/Audio-Visual-Solutions.aspx" style="color: #0091ea; background-color: transparent;"><strong>Paging &amp; Medical Emergency Notification Systems</strong></a>- At healthcare facilities, staff are focused on providing excellent patient care. Utilizing a notification system that streamlines communication provides more time for your staff to spend with patients. Mass notification systems for healthcare delivers better emergency and clinical workflow communications, resulting in enhanced patient care. Whether you require a streamlined or fully integrated paging system, AFL&rsquo;s installed solutions are easy to use, highly reliable, and offer the ultimate in sophistication and control.</li>
+            <li><a href="https://www.aflglobal.com/Services/Contact-Us.aspx" style="color: #0091ea; background-color: transparent;"><strong>24/7 professional support</strong></a>-Our dedicated service and support professionals are focused on providing your company the reliable, high-quality service and support you expect and deserve. You can rest easy knowing our expert teams are available 24/7 to keep your business operating at peak efficiency.</li>
+        </ul>
+    - ID: "5d336bce-e421-4fe8-ad55-214f80d841ad"
+      Hint: "Sub-Heading"
+      Value: "Healthcare sub-heading"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8aac392d-ebef-411b-a245-a9ec9bfe5321"
+    - ID: "ab91d39b-30ad-4050-acef-07c741146fcc"
+      Hint: Heading
+      Value: Healthcare heading
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahesh
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220215T125948Z
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211124T150855Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <p>Today's Healthcare Industry requires state-of-the-art amenities and equipment for preventative care, patient health management, and emergency treatment.</p>
+        <p>Cultural, regulatory, and technological forces have made healthcare a leading-edge industry with respect to information technology systems. From HIPPA and electronic health records to the HITECH Act and high-resolution file transfer, IT systems in healthcare facilities are being pushed to their limits.</p>
+        <p>Selecting a network services partner is critical to deploying a successful healthcare solution. AFL not only provides the expertise in end-to-end network solutions, but our technicians are highly qualified in healthcare network installations and overcoming the common obstacles that may arise.</p>
+        <h2>Services</h2>
+        <ul style="color: #333333; background-color: #ffffff; list-style-image: url('https://www.aflglobal.com/productionFiles/images/bulletRound.aspx');">
+            <li><a href="https://www.aflglobal.com/Services/Solutions/Structured-Cabling.aspx" style="color: #0091ea; background-color: transparent;"><strong>Structured Cabling</strong></a>- Firmly established as fiber optic specialists, this expertise remains at the heart of our service offering to clients. Infrastructure plays a vital role in ensuring that your facility has a robust and secure network. From protecting and transmitting patient files to support medical equipment, proper infrastructure can help you provide the highest level of patient care possible. With our expertise in network cabling, you will achieve unprecedented management, efficiency, and speed across your enterprise. Additionally, our testing practices take the risk and guesswork out of deployment.</li>
+            <li><strong>High Performance Buildings</strong>- Regulatory compliance is driving the need for organizations to reduce their carbon footprint and energy usage. This brings into the need for efficient, collaborative and intelligent building environments into sharp focus. Creating an intelligent building will help minimize operational costs, optimize facility resources, and provide an improved user experience to help ensure maximum user productivity.</li>
+            <li><a href="https://www.aflglobal.com/Services/Solutions/Distributed-Antenna-Systems-DAS.aspx" style="color: #0091ea; background-color: transparent;"><strong>Distributed Antenna Systems (DAS)</strong></a>- In the healthcare industry, specifically in the hospital environment, healthcare professionals are relying on tablet communications in operating rooms, labs, elevators, and stairwells. This growing demand is being challenged by today&rsquo;s building designs that utilize Low-E glass, and new building materials that degrade cellular signals. A &lsquo;distributed antenna system&rsquo; (DAS) is designed to amplify cellular signals throughout the building.</li>
+            <li><a href="https://www.aflglobal.com/Services/Solutions/Small-Cell-and-Public-Safety-Solutions.aspx" style="color: #0091ea; background-color: transparent;"><strong>In-building Wireless Infrastructure</strong></a>- The patient experience, employee productivity, and competitive nature of healthcare delivery demand wireless systems that integrate voice, data, location, and clinical services seamlessly throughout the entire facility. AFL will work with your team to develop a plan to ensure fire and life safety, reduce liabilities by maintaining compliance with national, state, and local fire codes, as well as improve operational efficiencies by providing instant communication.</li>
+            <li><a href="https://www.aflglobal.com/Services/Solutions/WiFi.aspx" style="color: #0091ea; background-color: transparent;"><strong>WiFi</strong></a>-Healthcare organizations are transforming their IT infrastructures to include more connected medical and IoT devices. This growth requires a reliable wireless network to support the number of devices, as well as cover an entire campus, so the network can be accessed from anywhere. AFL&rsquo;s WiFi Access Point Installation service covers small or large-scale installations using professionally trained installers with experience working with complex systems and multiple locations.</li>
+            <li><a href="https://www.aflglobal.com/Services/Solutions/Security-Solutions.aspx" style="color: #0091ea; background-color: transparent;"><strong>Security &amp; Safety Systems</strong></a>- Theft, disorderly conduct, and physical violence are at the top of the list of challenges faced by security personnel in healthcare. It is crucial that healthcare practitioners feel safe in their environment so that they can focus on patient care. AFL brings a breadth of healthcare experience, innovative thinking, and the application of technology-driven solutions to address these challenges. We specialize in integrated IP-based physical security and access control solutions to assist you in effectively meeting these objectives.</li>
+            <li><a href="https://www.aflglobal.com/Services/Solutions/Audio-Visual-Solutions.aspx" style="color: #0091ea; background-color: transparent;"><strong>Paging &amp; Medical Emergency Notification Systems</strong></a>- At healthcare facilities, staff are focused on providing excellent patient care. Utilizing a notification system that streamlines communication provides more time for your staff to spend with patients. Mass notification systems for healthcare delivers better emergency and clinical workflow communications, resulting in enhanced patient care. Whether you require a streamlined or fully integrated paging system, AFL&rsquo;s installed solutions are easy to use, highly reliable, and offer the ultimate in sophistication and control.</li>
+            <li><a href="https://www.aflglobal.com/Services/Contact-Us.aspx" style="color: #0091ea; background-color: transparent;"><strong>24/7 professional support</strong></a>-Our dedicated service and support professionals are focused on providing your company the reliable, high-quality service and support you expect and deserve. You can rest easy knowing our expert teams are available 24/7 to keep your business operating at peak efficiency.</li>
+        </ul>
+    - ID: "5d336bce-e421-4fe8-ad55-214f80d841ad"
+      Hint: "Sub-Heading"
+      Value: "Healthcare sub-heading"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "171543d9-5dfe-4b0c-b155-cb9988901c6c"
+    - ID: "ab91d39b-30ad-4050-acef-07c741146fcc"
+      Hint: Heading
+      Value: Healthcare heading
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahesh
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220215T094548Z
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211124T150855Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <p>Today's Healthcare Industry requires state-of-the-art amenities and equipment for preventative care, patient health management, and emergency treatment.</p>
+        <p>Cultural, regulatory, and technological forces have made healthcare a leading-edge industry with respect to information technology systems. From HIPPA and electronic health records to the HITECH Act and high-resolution file transfer, IT systems in healthcare facilities are being pushed to their limits.</p>
+        <p>Selecting a network services partner is critical to deploying a successful healthcare solution. AFL not only provides the expertise in end-to-end network solutions, but our technicians are highly qualified in healthcare network installations and overcoming the common obstacles that may arise.</p>
+        <h2>Services</h2>
+        <ul style="color: #333333; background-color: #ffffff; list-style-image: url('https://www.aflglobal.com/productionFiles/images/bulletRound.aspx');">
+            <li><a href="https://www.aflglobal.com/Services/Solutions/Structured-Cabling.aspx" style="color: #0091ea; background-color: transparent;"><strong>Structured Cabling</strong></a>- Firmly established as fiber optic specialists, this expertise remains at the heart of our service offering to clients. Infrastructure plays a vital role in ensuring that your facility has a robust and secure network. From protecting and transmitting patient files to support medical equipment, proper infrastructure can help you provide the highest level of patient care possible. With our expertise in network cabling, you will achieve unprecedented management, efficiency, and speed across your enterprise. Additionally, our testing practices take the risk and guesswork out of deployment.</li>
+            <li><strong>High Performance Buildings</strong>- Regulatory compliance is driving the need for organizations to reduce their carbon footprint and energy usage. This brings into the need for efficient, collaborative and intelligent building environments into sharp focus. Creating an intelligent building will help minimize operational costs, optimize facility resources, and provide an improved user experience to help ensure maximum user productivity.</li>
+            <li><a href="https://www.aflglobal.com/Services/Solutions/Distributed-Antenna-Systems-DAS.aspx" style="color: #0091ea; background-color: transparent;"><strong>Distributed Antenna Systems (DAS)</strong></a>- In the healthcare industry, specifically in the hospital environment, healthcare professionals are relying on tablet communications in operating rooms, labs, elevators, and stairwells. This growing demand is being challenged by today&rsquo;s building designs that utilize Low-E glass, and new building materials that degrade cellular signals. A &lsquo;distributed antenna system&rsquo; (DAS) is designed to amplify cellular signals throughout the building.</li>
+            <li><a href="https://www.aflglobal.com/Services/Solutions/Small-Cell-and-Public-Safety-Solutions.aspx" style="color: #0091ea; background-color: transparent;"><strong>In-building Wireless Infrastructure</strong></a>- The patient experience, employee productivity, and competitive nature of healthcare delivery demand wireless systems that integrate voice, data, location, and clinical services seamlessly throughout the entire facility. AFL will work with your team to develop a plan to ensure fire and life safety, reduce liabilities by maintaining compliance with national, state, and local fire codes, as well as improve operational efficiencies by providing instant communication.</li>
+            <li><a href="https://www.aflglobal.com/Services/Solutions/WiFi.aspx" style="color: #0091ea; background-color: transparent;"><strong>WiFi</strong></a>-Healthcare organizations are transforming their IT infrastructures to include more connected medical and IoT devices. This growth requires a reliable wireless network to support the number of devices, as well as cover an entire campus, so the network can be accessed from anywhere. AFL&rsquo;s WiFi Access Point Installation service covers small or large-scale installations using professionally trained installers with experience working with complex systems and multiple locations.</li>
+            <li><a href="https://www.aflglobal.com/Services/Solutions/Security-Solutions.aspx" style="color: #0091ea; background-color: transparent;"><strong>Security &amp; Safety Systems</strong></a>- Theft, disorderly conduct, and physical violence are at the top of the list of challenges faced by security personnel in healthcare. It is crucial that healthcare practitioners feel safe in their environment so that they can focus on patient care. AFL brings a breadth of healthcare experience, innovative thinking, and the application of technology-driven solutions to address these challenges. We specialize in integrated IP-based physical security and access control solutions to assist you in effectively meeting these objectives.</li>
+            <li><a href="https://www.aflglobal.com/Services/Solutions/Audio-Visual-Solutions.aspx" style="color: #0091ea; background-color: transparent;"><strong>Paging &amp; Medical Emergency Notification Systems</strong></a>- At healthcare facilities, staff are focused on providing excellent patient care. Utilizing a notification system that streamlines communication provides more time for your staff to spend with patients. Mass notification systems for healthcare delivers better emergency and clinical workflow communications, resulting in enhanced patient care. Whether you require a streamlined or fully integrated paging system, AFL&rsquo;s installed solutions are easy to use, highly reliable, and offer the ultimate in sophistication and control.</li>
+            <li><a href="https://www.aflglobal.com/Services/Contact-Us.aspx" style="color: #0091ea; background-color: transparent;"><strong>24/7 professional support</strong></a>-Our dedicated service and support professionals are focused on providing your company the reliable, high-quality service and support you expect and deserve. You can rest easy knowing our expert teams are available 24/7 to keep your business operating at peak efficiency.</li>
+        </ul>
+    - ID: "5d336bce-e421-4fe8-ad55-214f80d841ad"
+      Hint: "Sub-Heading"
+      Value: "Healthcare sub-heading"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5b200ac5-db83-4cd3-a57b-394dbecb55fc"
+    - ID: "ab91d39b-30ad-4050-acef-07c741146fcc"
+      Hint: Heading
+      Value: Healthcare heading
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahesh
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220310T075328Z

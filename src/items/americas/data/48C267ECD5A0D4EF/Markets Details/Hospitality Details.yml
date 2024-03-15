@@ -1,0 +1,186 @@
+﻿---
+ID: "6871c926-a4e5-4c4a-a8f1-39e520058e45"
+Parent: "cd9f663b-2f4b-420c-bfee-96fa1ecec702"
+Template: "011c02ab-49e7-41f0-8719-03034390bc25"
+Path: "/sitecore/content/AFL-Global/AMERICAS/Data/AFL Product Detail Folder/Services Details/Services Offerings Details/Enterprise Services Details/Markets Details/Hospitality Details"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 500
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211124T150958Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <p>When planning new installations, hotel design teams must consider the growing bandwidth requirements of today&rsquo;s business travelers and guests. These needs are no longer limited to just &lsquo;high speed internet access&rsquo;, but also include IP based phones, digital entertainment, and energy management systems. These applications require large amounts of bandwidth from the guestroom to the head end, and over a very reliable connection.</p>
+        <p>Selecting a network services partner is critical to deploying a successful hospitality-based network. AFL&rsquo;s design and installation teams have experience in all aspects of the hospitality cabled infrastructure, including guestrooms, conference space, business centers, administrative offices, and hotel restaurants. We have the depth of knowledge, including a thorough understanding of the hospitality industries&rsquo; unique needs around digital entertainment, high-speed internet access, digital signage, and energy management.</p>
+        <h2>Services</h2>
+        <ul style="color: #333333; background-color: #ffffff; list-style-image: url('https://www.aflglobal.com/productionFiles/images/bulletRound.aspx');">
+            <li><a href="https://www.aflglobal.com/Services/Solutions/Structured-Cabling.aspx" style="color: #0091ea; background-color: transparent;"><strong>Structured Cabling</strong></a>- Firmly established as fiber optic specialists, this expertise remains at the heart of our service offering to clients. Infrastructure plays a vital role in ensuring that your facility has a robust and secure network. Hotels and resorts face special challenges when installing new cabling into existing structures or deploying new systems to withstand the rapid changes in technology. Beyond the technological challenges, we know that guest disruption and impact to hotel operations are amongst your top concerns. We know your industry, understand your concerns, and can get the job done.</li>
+            <li><a href="https://www.aflglobal.com/Services/Solutions/Distributed-Antenna-Systems-DAS.aspx" style="color: #0091ea; background-color: transparent;"><strong>Distributed Antenna Systems (DAS)</strong></a>- When Business travelers and Convention Planners make their decisions on lodging, reliability of connections for cell phones, tablets, and computers are at the top of the list. Don&rsquo;t let sporadic mobile phone service drive business away from your facility. A Distributed Antenna System (DAS) professionally designed and installed by AFL can enhance your hospitality and convention revenues. We are technology and carrier neutral and will be your turn-key provider for communication infrastructure needs.</li>
+            <li><a href="https://www.aflglobal.com/Services/Solutions/WiFi.aspx" style="color: #0091ea; background-color: transparent;"><strong>WiFi</strong></a>- Hotels are faced with an increasing demand for a guest and visitor connectivity throughout the entire premises; guest rooms, restaurants, lobbies, and outdoor areas. Having the ability to offer an internet access service will give you the opportunity to meet and exceed the expectations of your guests, which is equivalent to providing personalized and above-and-beyond service. AFL&rsquo;s WiFi Access Point Installation service covers small or large-scale installations using professionally trained installers with experience working with complex systems and multiple locations.</li>
+            <li><a href="https://www.aflglobal.com/Services/Contact-Us.aspx" style="color: #0091ea; background-color: transparent;"><strong>24/7 professional support</strong></a>- Our dedicated service and support professionals are focused on providing your company the reliable, high-quality service and support you expect and deserve. You can rest easy knowing our expert teams are available 24/7 to keep your business operating at peak efficiency.</li>
+        </ul>
+    - ID: "5d336bce-e421-4fe8-ad55-214f80d841ad"
+      Hint: "Sub-Heading"
+      Value: "Hospitality sub-heading"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a141bd66-3017-4b35-b07c-34efea779f26"
+    - ID: "ab91d39b-30ad-4050-acef-07c741146fcc"
+      Hint: Heading
+      Value: Hospitality heading
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20211124T170634Z
+- Language: "es-MX"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211124T150958Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <p>When planning new installations, hotel design teams must consider the growing bandwidth requirements of today&rsquo;s business travelers and guests. These needs are no longer limited to just &lsquo;high speed internet access&rsquo;, but also include IP based phones, digital entertainment, and energy management systems. These applications require large amounts of bandwidth from the guestroom to the head end, and over a very reliable connection.</p>
+        <p>Selecting a network services partner is critical to deploying a successful hospitality-based network. AFL&rsquo;s design and installation teams have experience in all aspects of the hospitality cabled infrastructure, including guestrooms, conference space, business centers, administrative offices, and hotel restaurants. We have the depth of knowledge, including a thorough understanding of the hospitality industries&rsquo; unique needs around digital entertainment, high-speed internet access, digital signage, and energy management.</p>
+        <h2>Services</h2>
+        <ul style="color: #333333; background-color: #ffffff; list-style-image: url('https://www.aflglobal.com/productionFiles/images/bulletRound.aspx');">
+            <li><a href="https://www.aflglobal.com/Services/Solutions/Structured-Cabling.aspx" style="color: #0091ea; background-color: transparent;"><strong>Structured Cabling</strong></a>- Firmly established as fiber optic specialists, this expertise remains at the heart of our service offering to clients. Infrastructure plays a vital role in ensuring that your facility has a robust and secure network. Hotels and resorts face special challenges when installing new cabling into existing structures or deploying new systems to withstand the rapid changes in technology. Beyond the technological challenges, we know that guest disruption and impact to hotel operations are amongst your top concerns. We know your industry, understand your concerns, and can get the job done.</li>
+            <li><a href="https://www.aflglobal.com/Services/Solutions/Distributed-Antenna-Systems-DAS.aspx" style="color: #0091ea; background-color: transparent;"><strong>Distributed Antenna Systems (DAS)</strong></a>- When Business travelers and Convention Planners make their decisions on lodging, reliability of connections for cell phones, tablets, and computers are at the top of the list. Don&rsquo;t let sporadic mobile phone service drive business away from your facility. A Distributed Antenna System (DAS) professionally designed and installed by AFL can enhance your hospitality and convention revenues. We are technology and carrier neutral and will be your turn-key provider for communication infrastructure needs.</li>
+            <li><a href="https://www.aflglobal.com/Services/Solutions/WiFi.aspx" style="color: #0091ea; background-color: transparent;"><strong>WiFi</strong></a>- Hotels are faced with an increasing demand for a guest and visitor connectivity throughout the entire premises; guest rooms, restaurants, lobbies, and outdoor areas. Having the ability to offer an internet access service will give you the opportunity to meet and exceed the expectations of your guests, which is equivalent to providing personalized and above-and-beyond service. AFL&rsquo;s WiFi Access Point Installation service covers small or large-scale installations using professionally trained installers with experience working with complex systems and multiple locations.</li>
+            <li><a href="https://www.aflglobal.com/Services/Contact-Us.aspx" style="color: #0091ea; background-color: transparent;"><strong>24/7 professional support</strong></a>- Our dedicated service and support professionals are focused on providing your company the reliable, high-quality service and support you expect and deserve. You can rest easy knowing our expert teams are available 24/7 to keep your business operating at peak efficiency.</li>
+        </ul>
+    - ID: "5d336bce-e421-4fe8-ad55-214f80d841ad"
+      Hint: "Sub-Heading"
+      Value: "Hospitality sub-heading"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "39fcd72d-2518-4b3c-ba42-2607ad9a9750"
+    - ID: "ab91d39b-30ad-4050-acef-07c741146fcc"
+      Hint: Heading
+      Value: Hospitality heading
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahesh
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220215T125953Z
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211124T150958Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <p>When planning new installations, hotel design teams must consider the growing bandwidth requirements of today&rsquo;s business travelers and guests. These needs are no longer limited to just &lsquo;high speed internet access&rsquo;, but also include IP based phones, digital entertainment, and energy management systems. These applications require large amounts of bandwidth from the guestroom to the head end, and over a very reliable connection.</p>
+        <p>Selecting a network services partner is critical to deploying a successful hospitality-based network. AFL&rsquo;s design and installation teams have experience in all aspects of the hospitality cabled infrastructure, including guestrooms, conference space, business centers, administrative offices, and hotel restaurants. We have the depth of knowledge, including a thorough understanding of the hospitality industries&rsquo; unique needs around digital entertainment, high-speed internet access, digital signage, and energy management.</p>
+        <h2>Services</h2>
+        <ul style="color: #333333; background-color: #ffffff; list-style-image: url('https://www.aflglobal.com/productionFiles/images/bulletRound.aspx');">
+            <li><a href="https://www.aflglobal.com/Services/Solutions/Structured-Cabling.aspx" style="color: #0091ea; background-color: transparent;"><strong>Structured Cabling</strong></a>- Firmly established as fiber optic specialists, this expertise remains at the heart of our service offering to clients. Infrastructure plays a vital role in ensuring that your facility has a robust and secure network. Hotels and resorts face special challenges when installing new cabling into existing structures or deploying new systems to withstand the rapid changes in technology. Beyond the technological challenges, we know that guest disruption and impact to hotel operations are amongst your top concerns. We know your industry, understand your concerns, and can get the job done.</li>
+            <li><a href="https://www.aflglobal.com/Services/Solutions/Distributed-Antenna-Systems-DAS.aspx" style="color: #0091ea; background-color: transparent;"><strong>Distributed Antenna Systems (DAS)</strong></a>- When Business travelers and Convention Planners make their decisions on lodging, reliability of connections for cell phones, tablets, and computers are at the top of the list. Don&rsquo;t let sporadic mobile phone service drive business away from your facility. A Distributed Antenna System (DAS) professionally designed and installed by AFL can enhance your hospitality and convention revenues. We are technology and carrier neutral and will be your turn-key provider for communication infrastructure needs.</li>
+            <li><a href="https://www.aflglobal.com/Services/Solutions/WiFi.aspx" style="color: #0091ea; background-color: transparent;"><strong>WiFi</strong></a>- Hotels are faced with an increasing demand for a guest and visitor connectivity throughout the entire premises; guest rooms, restaurants, lobbies, and outdoor areas. Having the ability to offer an internet access service will give you the opportunity to meet and exceed the expectations of your guests, which is equivalent to providing personalized and above-and-beyond service. AFL&rsquo;s WiFi Access Point Installation service covers small or large-scale installations using professionally trained installers with experience working with complex systems and multiple locations.</li>
+            <li><a href="https://www.aflglobal.com/Services/Contact-Us.aspx" style="color: #0091ea; background-color: transparent;"><strong>24/7 professional support</strong></a>- Our dedicated service and support professionals are focused on providing your company the reliable, high-quality service and support you expect and deserve. You can rest easy knowing our expert teams are available 24/7 to keep your business operating at peak efficiency.</li>
+        </ul>
+    - ID: "5d336bce-e421-4fe8-ad55-214f80d841ad"
+      Hint: "Sub-Heading"
+      Value: "Hospitality sub-heading"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d233db2a-f347-4c58-913f-3d5b5ec0c72d"
+    - ID: "ab91d39b-30ad-4050-acef-07c741146fcc"
+      Hint: Heading
+      Value: Hospitality heading
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahesh
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220215T094552Z
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211124T150958Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <p>When planning new installations, hotel design teams must consider the growing bandwidth requirements of today&rsquo;s business travelers and guests. These needs are no longer limited to just &lsquo;high speed internet access&rsquo;, but also include IP based phones, digital entertainment, and energy management systems. These applications require large amounts of bandwidth from the guestroom to the head end, and over a very reliable connection.</p>
+        <p>Selecting a network services partner is critical to deploying a successful hospitality-based network. AFL&rsquo;s design and installation teams have experience in all aspects of the hospitality cabled infrastructure, including guestrooms, conference space, business centers, administrative offices, and hotel restaurants. We have the depth of knowledge, including a thorough understanding of the hospitality industries&rsquo; unique needs around digital entertainment, high-speed internet access, digital signage, and energy management.</p>
+        <h2>Services</h2>
+        <ul style="color: #333333; background-color: #ffffff; list-style-image: url('https://www.aflglobal.com/productionFiles/images/bulletRound.aspx');">
+            <li><a href="https://www.aflglobal.com/Services/Solutions/Structured-Cabling.aspx" style="color: #0091ea; background-color: transparent;"><strong>Structured Cabling</strong></a>- Firmly established as fiber optic specialists, this expertise remains at the heart of our service offering to clients. Infrastructure plays a vital role in ensuring that your facility has a robust and secure network. Hotels and resorts face special challenges when installing new cabling into existing structures or deploying new systems to withstand the rapid changes in technology. Beyond the technological challenges, we know that guest disruption and impact to hotel operations are amongst your top concerns. We know your industry, understand your concerns, and can get the job done.</li>
+            <li><a href="https://www.aflglobal.com/Services/Solutions/Distributed-Antenna-Systems-DAS.aspx" style="color: #0091ea; background-color: transparent;"><strong>Distributed Antenna Systems (DAS)</strong></a>- When Business travelers and Convention Planners make their decisions on lodging, reliability of connections for cell phones, tablets, and computers are at the top of the list. Don&rsquo;t let sporadic mobile phone service drive business away from your facility. A Distributed Antenna System (DAS) professionally designed and installed by AFL can enhance your hospitality and convention revenues. We are technology and carrier neutral and will be your turn-key provider for communication infrastructure needs.</li>
+            <li><a href="https://www.aflglobal.com/Services/Solutions/WiFi.aspx" style="color: #0091ea; background-color: transparent;"><strong>WiFi</strong></a>- Hotels are faced with an increasing demand for a guest and visitor connectivity throughout the entire premises; guest rooms, restaurants, lobbies, and outdoor areas. Having the ability to offer an internet access service will give you the opportunity to meet and exceed the expectations of your guests, which is equivalent to providing personalized and above-and-beyond service. AFL&rsquo;s WiFi Access Point Installation service covers small or large-scale installations using professionally trained installers with experience working with complex systems and multiple locations.</li>
+            <li><a href="https://www.aflglobal.com/Services/Contact-Us.aspx" style="color: #0091ea; background-color: transparent;"><strong>24/7 professional support</strong></a>- Our dedicated service and support professionals are focused on providing your company the reliable, high-quality service and support you expect and deserve. You can rest easy knowing our expert teams are available 24/7 to keep your business operating at peak efficiency.</li>
+        </ul>
+    - ID: "5d336bce-e421-4fe8-ad55-214f80d841ad"
+      Hint: "Sub-Heading"
+      Value: "Hospitality sub-heading"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5ad40f3a-d3c0-4126-aac3-ca1e1019d2f9"
+    - ID: "ab91d39b-30ad-4050-acef-07c741146fcc"
+      Hint: Heading
+      Value: Hospitality heading
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahesh
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220310T075328Z
