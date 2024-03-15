@@ -4,7 +4,7 @@
 	"items": {
 		"includes": [
 			{
-				"name": "alias",
+				"name": "system/alias",
 				"path": "/sitecore/system/Aliases",
 				"rules": [
 					{
@@ -15,7 +15,7 @@
 				]
 			},
 			{
-				"name": "languages",
+				"name": "system/languages",
 				"path": "/sitecore/system/Languages",
 				"rules": [
 					{
@@ -26,7 +26,7 @@
 				]
 			},
 			{
-				"name": "workflows",
+				"name": "system/workflows",
 				"path": "/sitecore/system/Workflows",
 				"rules": [
 					{

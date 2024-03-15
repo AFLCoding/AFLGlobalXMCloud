@@ -1,0 +1,35 @@
+﻿---
+ID: "cd084863-99db-40bb-829d-c358f124db05"
+Parent: "05633d3a-3466-4fc9-a727-c22c0b9dcf93"
+Template: "da1cfa5b-8fab-4e8a-baa3-3b1f8d198efd"
+Path: "/sitecore/content/AFL-Global/APAC/Data/Search/Search Box"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{2E7F425F-8699-475B-93CA-FBAE1D052301}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211027T075752Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "db536fc0-079b-46ff-ae80-b62cb0a4b6ea"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20211027T075752Z

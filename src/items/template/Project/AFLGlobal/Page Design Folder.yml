@@ -1,6 +1,6 @@
 ﻿---
-ID: "849a1600-d32d-4559-af65-e8b71acff085"
-Parent: "059ada13-16d9-4dc6-b351-141bf2bb79d7"
+ID: "5c8202da-4905-4461-9a51-87523d36b487"
+Parent: "40cf9cc2-6315-4cc9-9d0d-37122cf826f9"
 Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
 Path: /sitecore/templates/Project/AFLGlobal/Page Design Folder
 SharedFields:
@@ -12,7 +12,7 @@ SharedFields:
   Value: "{023F5D48-979D-4381-BC5E-149E36ABD3BD}"
 - ID: "f7d48a55-2158-4f02-9356-756654404f73"
   Hint: __Standard values
-  Value: "{4CFF0B19-ACBD-4294-8778-3FB77E6E1E81}"
+  Value: "{4A230253-CE4A-4145-A696-0B7C14423D30}"
 Languages:
 - Language: en
   Versions:
@@ -20,7 +20,7 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20240215T104726Z
+      Value: 20240306T130842Z
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
@@ -31,11 +31,11 @@ Languages:
         sitecore\gunasekaran.s@altudo.co
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "cfacb598-f1cd-4a25-baba-041d949d4227"
+      Value: "043e2469-e57f-4384-8df8-54a49d742826"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\gunasekaran.s@altudo.co
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240215T104726Z
+      Value: 20240306T130843Z

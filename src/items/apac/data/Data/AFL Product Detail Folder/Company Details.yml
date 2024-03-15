@@ -1,0 +1,47 @@
+﻿---
+ID: "fb96ab48-257e-41da-87b4-d25cab43c85a"
+Parent: "d3b81e89-796a-4609-874f-d94d309bdb30"
+Template: "011c02ab-49e7-41f0-8719-03034390bc25"
+Path: "/sitecore/content/AFL-Global/APAC/Data/AFL Product Detail Folder/Company Details"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 700
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211124T110139Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <h2 style="color: #004a91; background-color: #ffffff; margin: 0px;">AFL connects people and solutions to the communities we serve</h2>
+        <p>We manufacture, engineer and install the fiber optic products and equipment that communications providers need to provide quad-play solutions to their customers. Our extensive experience in both design and application crosses all markets, from<a href="https://www.aflglobal.com/Markets/Service-Provider.aspx" style="color: #0091ea; background-color: transparent;">Service Provider</a><a href="https://www.aflglobal.com/Industries/Electric-Utility.aspx" style="color: #0091ea; background-color: transparent;">Electric Utility</a><a href="https://www.aflglobal.com/Markets/Industrial.aspx" style="color: #0091ea; background-color: transparent;">Industrial</a>,<a href="https://www.aflglobal.com/Markets/Enterprise.aspx" style="color: #0091ea; background-color: transparent;">Enterprise</a>&nbsp;and Hyperscale.</p>
+        <p><a href="https://www.aflglobal.com/Company/Company-Profile.aspx" style="color: #0091ea; background-color: transparent;">AFL</a>believes in the well-being of our<a href="https://www.aflglobal.com/Company/Careers.aspx" style="color: #0091ea; background-color: transparent;">associates</a>. From being<a href="https://www.aflglobal.com/Company/Environment-Health-and-Safety.aspx" style="color: #0091ea; background-color: transparent;">environmentally-conscious</a>to ensuring a healthy and safe working environment, AFL invests in its associates. Additionally, we proactively engage with our<a href="https://www.aflglobal.com/Company/Community.aspx" style="color: #0091ea; background-color: transparent;">communities</a>with grants, team volunteer projects and environmental initiatives.</p>
+    - ID: "5d336bce-e421-4fe8-ad55-214f80d841ad"
+      Hint: "Sub-Heading"
+      Value: Company Sub Heading
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "77e34993-a5b8-4733-9c0b-8b896877e3c1"
+    - ID: "ab91d39b-30ad-4050-acef-07c741146fcc"
+      Hint: Heading
+      Value: Company Heading
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20211124T152228Z
