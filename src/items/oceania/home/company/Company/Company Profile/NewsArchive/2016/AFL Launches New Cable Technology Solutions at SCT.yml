@@ -1,0 +1,107 @@
+﻿---
+ID: "39fb7d39-c80f-4026-ac2c-c3e6a4a33421"
+Parent: "270282d8-4f69-44b2-aa25-83b8deb7b109"
+Template: "f36e821e-bb98-44dc-966d-e92a0e033cc7"
+Path: "/sitecore/content/AFL-Global/OCEANIA/Home/Company/Company Profile/NewsArchive/2016/AFL Launches New Cable Technology Solutions at SCT"
+SharedFields:
+- ID: "1fbc6a49-6281-48ee-87e9-a3970b145adb"
+  Hint: NavigationFilter
+  Value: |
+    {E0A2A027-0932-4878-A7D6-0416D5263EFB}
+    {61BD64D6-809E-40AE-9297-2724A19329B3}
+    {D063E9D1-C7B5-4B1E-B31E-69886C9C59F5}
+    {500AE4C0-FA7B-463F-8149-EFFF7F044101}
+    {A0E7FF57-6994-4B09-AA21-104239628D5A}
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{3A84BAC9-C1BD-4809-A12C-28EB44E25329}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{DAE7C21D-4D3B-4257-A95C-9104CD8AF409}"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: 
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{61201AEE-AED3-4F08-814C-02D0E38F38AB}"
+              p:after="*[1=2]"
+              s:ds="{3E4A4F04-BC32-4002-8666-0E898D31102D}"
+              s:id="{43C5D426-A6F6-4716-BEAF-F82602D2277B}"
+              s:par="Reset Caching Options&amp;GridParameters&amp;FieldNames=%7BE4BC3964-5235-4FE7-A863-76777C39CFAE%7D&amp;Styles&amp;RenderingIdentifier&amp;DynamicPlaceholderId=1"
+              s:ph="main"
+              s:ccb="Clear on publish" />
+          </d>
+        </r>
+    - ID: "228f9517-e120-4014-b2c7-df0ac467a349"
+      Hint: ContentTitle
+      Value: "AFL Launches New Cable Technology Solutions at SCTE/ISBE Cable-Tec Expo"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220111T081754Z
+    - ID: "3688d7df-2feb-43a4-ab8d-410e5f70a676"
+      Hint: ContentDescription
+      Value: |
+        Spartanburg, SC – <a href=" /Home ">AFL</a>, an industry-leading manufacturer of fiber optic cable and accessories, is launching new cable telecommunications solutions at the SCTE/ISBE Cable-Tec Expo, Booth #840. New products include Wrapping Tube Cable with SpiderWeb® Ribbon (SWR®), the <a href=" /Products/Fiber-Outside-Plant/TITAN-RTD-FTTx-System ">TITAN RTD™ FTTx system</a> and <a href=" /Products/Test-and-Inspection/OTDRS-and-Fault-Locators/Singlemode-OTDRs-Fault-Locators-Telco-Broadband/FlexScan-OTDR ">FlexScan PON OTDRs</a>.<br />
+        <br />
+        AFL’s newest product, Wrapping Tube Cable (WTC) with SWR is an ultra-high density outside plant cable designed for FTTH or access markets. Using new ribbon technology called SpiderWeb Ribbon, WTC provides the smallest cable diameter and lowest weight, high-fiber count ribbon cable in the industry. WTC is available in dielectric or double jacket single armor with fiber counts from 144 to 1,728.<br />
+        <br />
+        The TITAN RTD FTTx System consists of both the <a href=" /Products/Fiber-Outside-Plant/TITAN-RTD-FTTx-System/TITAN-RTD-Multiport-Terminal ">TITAN RTD Multiport</a> and <a href=" /Products/Fiber-Outside-Plant/TITAN-RTD-FTTx-System/AFL-TRIDENT-Hardened-Drop-Cables ">AFL TRIDENT™ connector</a>. The product set allows for quick and easy subscriber connections anywhere in the OSP network—underground, in pedestals, on poles or on aerial strand or <a href=" /Products/Fiber-Optic-Cable/ADSS ">ADSS</a> cables. Unlike other solutions in the market, the TITAN RTD Multiport is designed to allow for re-entry to ease connector repair in case of damage incurred in the field.<br />
+        <br />
+        AFL representatives will also demo the award-winning <a href=" /Products/Test-and-Inspection/OTDRS-and-Fault-Locators/Singlemode-OTDRs-Fault-Locators-Telco-Broadband/FlexScan-OTDR ">FlexScan PON OTDR</a>. The FS200-304 PON OTDR provides 1310, 1550 and 1650 nm OTDR testing to verify and troubleshoot both in-service and out-of-service FTTH PONs. The FS200-300 FlexScan supports 1310 and 1550 nm out-of-service testing for both PON and point-to-point networks. All FlexScan OTDRs include SmartAuto™ multi-pulse acquisition and the icon-based LinkMap® view.  <br />
+        <br />
+        These products along with <a href=" /Products/Fusion-Splicing/Field-Fusion-Splicing-Equipment ">Fujikura fusion splicers</a>, <a href=" /Products/Fiber-Inside-Plant ">connectivity solutions</a> and <a href=" /Products/Fiber-Optic-Cable ">fiber optic cable</a> will be showcased. Visit AFL in Booth #840 at the SCTE/ISBE Cable-Tec Expo, Sept. 26-29 at the Pennsylvania Convention Center in Philadelphia.<br />
+        <br />
+        To learn more about AFL, its products and services, visit <a href=" /">www.AFLglobal.com</a>.<br />
+        <br />
+        <strong>About AFL</strong><br />
+        Founded in 1984, AFL is an international manufacturer providing end-to-end solutions to the energy, service provider, enterprise and industrial markets as well several emerging markets. The company’s products are in use in over 130 countries and include fiber optic cable and hardware, transmission and substation accessories, outside plant equipment, connectivity, test and inspection equipment, fusion splicers and training. AFL also offers a wide variety of services supporting data center, enterprise, wireless and outside plant applications.<br />
+        <br />
+        Headquartered in Spartanburg, SC, AFL has operations in the U.S., Mexico, Canada, Europe, Asia and Australia, and is a wholly-owned subsidiary of Fujikura Ltd. of Japan. For more information, visit <a href=" /">www.AFLglobal.com</a>. <br />
+        <br />
+        <strong>Contact</strong><br />
+        Corie Culp<br />
+        Public Relations Manager<br />
+        AFL<br />
+        864.433.5409<br />
+        <a href="mailto:Corie.Culp@AFLglobal.com">Corie.Culp@AFLglobal.com</a>
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: AFL Launches New Cable Technology Solutions at SCT
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kushagra
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kushagra
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: AFL Launches New Cable Technology Solutions at SCT
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: AFL Launches New Cable Technology Solutions at SCT
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5ac759b0-850c-48cd-96c9-691957e2f3b3"
+    - ID: "a6eaffd5-fc3e-41b4-93b3-f1721fcf2300"
+      Hint: ContentPublishedDate
+      Value: 20160920T183000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T093943Z

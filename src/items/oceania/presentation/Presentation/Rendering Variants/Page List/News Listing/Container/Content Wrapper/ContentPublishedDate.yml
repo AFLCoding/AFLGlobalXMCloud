@@ -1,0 +1,38 @@
+﻿---
+ID: "24c1d8c0-1f89-4cd3-b707-40c44e3db82f"
+Parent: "647249aa-79e2-4952-a580-941270fbe26a"
+Template: "dc4ebc23-a470-4b5d-8df8-4a55fa823bb4"
+Path: "/sitecore/content/AFL-Global/OCEANIA/Presentation/Rendering Variants/Page List/News Listing/Container/Content Wrapper/ContentPublishedDate"
+SharedFields:
+- ID: "4753764c-c05a-4623-841b-97f85135241c"
+  Hint: FieldName
+  Value: ContentPublishedDate
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211224T110028Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mahesh
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a127cc7e-c12a-44b5-aa94-5da0718060cf"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahesh
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20211224T110033Z

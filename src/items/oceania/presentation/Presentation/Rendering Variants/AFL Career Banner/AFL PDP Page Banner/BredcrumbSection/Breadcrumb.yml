@@ -1,0 +1,38 @@
+﻿---
+ID: "a7229467-02bb-4581-9e8d-6cc4cfc22aad"
+Parent: "ea05817c-677b-4623-a06b-5cdf8d3b0154"
+Template: "1151b2a9-08af-4f4d-a892-c2cc9a92ea6a"
+Path: "/sitecore/content/AFL-Global/OCEANIA/Presentation/Rendering Variants/AFL Career Banner/AFL PDP Page Banner/BredcrumbSection/Breadcrumb"
+SharedFields:
+- ID: "06882697-dc92-477d-a99a-5d79bd2ccb8d"
+  Hint: RenderingItem
+  Value: "{BFBD9DE2-3ABF-4078-BBCB-C95C5B2D863F}"
+- ID: "af48c671-dd3e-41ed-95b3-534560bef882"
+  Hint: RenderingParameters
+  Value: "BreadcrumbRoot=%7bD7D3964C-DA65-4FAC-A592-2F32C681394E%7d&Separator=%2f&Filter=%7bE0A2A027-0932-4878-A7D6-0416D5263EFB%7d&Caching=0%7c0%7c0%7c0%7c0%7c0%7c0%7c0&CacheClearingBehavior=Clear+on+publish"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211108T104703Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c692f707-30b7-4558-9b94-1cfa5101e0d4"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20211108T104839Z

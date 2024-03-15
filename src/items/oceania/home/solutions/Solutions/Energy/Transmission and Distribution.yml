@@ -1,0 +1,87 @@
+﻿---
+ID: "97ed8bb1-4a04-4533-88a1-375c5a658365"
+Parent: "ad5699d3-5be9-41ce-b6dd-0264de9fb1cd"
+Template: "bf61de11-b78f-48ea-aaa4-1d17f0d83824"
+Path: "/sitecore/content/AFL-Global/OCEANIA/Home/Solutions/Energy/Transmission and Distribution"
+SharedFields:
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{EDC9686A-85F3-466E-8E7E-3D28540B77AB}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220201T121224Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Transmission & Distribution
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\tanishka
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: AFL offers the most comprehensive portfolio of fibre optic cable, supporting hardware and compression accessories that are designed to meet the most demanding transmission and distribution environments. 
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <p><span style="color: black;">AFL offers the most comprehensive portfolio of fibre optic cable, supporting hardware and compression accessories that are designed to meet the most demanding transmission and distribution environments. </span></p>
+        <p><span style="color: black;">As the leading world manufacturer of fibre optic cable, AFL is uniquely positioned to provide a full line of all-dielectric self-supporting (ADSS) aerial cables, Optical Ground Wire (OPGW), loose tube cable, customized solutions and supporting hardware and accessories.</span></p>
+        <p><span style="color: black;">ADSS cable is ideal for installation in distribution as well as transmission environments, even when live-line installations are required. As its name indicates, there is no support or messenger wire required, so installation is achieved in a single pass, making ADSS an economical and simple means of building a fibre optic network. <a href="~/link.aspx?_id=756E293D46744BD8AD4031BC9CF2F561&_z=z">AFL-ADSS® cable</a> is designed as a fully integrated solution and available with up to 432 fibers. It is used in extra high (500 kV) voltage applications and capable of long (> 6,000 ft.) spans.</span></p>
+        <p><span style="color: black;">AFL has the largest installed base of OPGW cable on transmission lines—more than any other company in the world. Placed in the secure topmost position of the transmission line, OPGW “shields” the all-important conductors from lightning as well as provides the added benefit of containing optical fibres.</span></p>
+        <p><span style="color: black;">AFL’s OPGW family includes: </span></p>
+        <ul>
+            <li><span style="color: black;">AlumaCore – designed with central aluminium pipe and color-coded optical tubes</span></li>
+            <li><span style="color: black;">HexaCore – incorporates the use of stranded stainless steel tubes to allow for higher fibre counts; </span></li>
+            <li><span style="color: black;">CentraCore – blends together the stainless steel technology with AFL’s aluminium pipe. </span></li>
+        </ul>
+        <p><span style="color: black;">Our applications engineers can assist with determining which design best suits the unique conditions and challenges for your application.</span></p>
+        <p><span style="color: black;">AFL also manufactures its own line of ADSS and OPGW attachment hardware which simplifies the network design phase of a project while ensuring compatibility between the cable and related components including:</span></p>
+        <ul>
+            <li><span style="color: black;">OPGW Splice Enclosures </span></li>
+            <li><span style="color: black;">Wedge Dead Ends for OPGW </span></li>
+            <li><span style="color: black;">Bolted Dead Ends for OPGW </span></li>
+            <li><span style="color: black;">Downlead Clamps for OPGW </span></li>
+            <li style="color: black; margin-left: 0in;"><span>Trunnions, Supports and Anti-Rotational Devices</span></li>
+            <li style="color: black; margin-left: 0in;"><span>Bonding Clamps</span></li>
+        </ul>
+        <p><span style="color: black;">With AFL’s history in the electric utility market and our highly skilled engineers, we are ready to help automate your distribution systems. Minimal customer downtime and 100% customer satisfaction are the goals of every utility and a proper communications network is essential in reaching these goals. </span></p>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\tanishka
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: Transmission & Distribution Australia, New Zealand, solutions, structured cabling, fibre optics Australia New Zealand
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: Transmission & Distribution
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: Transmission & Distribution
+    - ID: "875fbf1e-8785-4128-9909-a0b2789e8b26"
+      Hint: FeaturedComponentHeading
+      Value: Structured Cabling
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2453f947-20e9-4561-815f-d54660f3d626"
+    - ID: "93dc88f3-05e5-482d-9b9a-c859c8258a73"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image stylelabs-content-id="167378" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/167378/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/Structured-Cable-Fiber-Optic?v=df239284" mediaid="" stylelabs-content-type="Image" alt="StructuredCabling_Toplevel.jpg" height="465" width="1336" />
+    - ID: "a40ebd3d-2b41-41fb-90f7-753544ce77c5"
+      Hint: Hero Title1
+      Value: Transmission & Distribution
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T093604Z
+    - ID: "dd0b26a2-9ca3-4573-b501-3b33a6efbc65"
+      Hint: Hero Title2
+      Value: AFL offers the most comprehensive portfolio of fibre optic cable, supporting hardware and compression accessories that are designed to meet the most demanding transmission and distribution environments. 

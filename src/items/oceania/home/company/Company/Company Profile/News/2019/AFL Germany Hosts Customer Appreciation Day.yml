@@ -1,0 +1,103 @@
+﻿---
+ID: "fb077cdb-8000-4d5c-b970-93a69af06b16"
+Parent: "3dc3b327-e4fe-44ed-9ce4-bfd8be445cd2"
+Template: "f36e821e-bb98-44dc-966d-e92a0e033cc7"
+Path: "/sitecore/content/AFL-Global/OCEANIA/Home/Company/Company Profile/News/2019/AFL Germany Hosts Customer Appreciation Day"
+SharedFields:
+- ID: "1fbc6a49-6281-48ee-87e9-a3970b145adb"
+  Hint: NavigationFilter
+  Value: |
+    {E0A2A027-0932-4878-A7D6-0416D5263EFB}
+    {61BD64D6-809E-40AE-9297-2724A19329B3}
+    {D063E9D1-C7B5-4B1E-B31E-69886C9C59F5}
+    {500AE4C0-FA7B-463F-8149-EFFF7F044101}
+    {A0E7FF57-6994-4B09-AA21-104239628D5A}
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{3A84BAC9-C1BD-4809-A12C-28EB44E25329}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{DAE7C21D-4D3B-4257-A95C-9104CD8AF409}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "228f9517-e120-4014-b2c7-df0ac467a349"
+      Hint: ContentTitle
+      Value: AFL Germany Hosts Customer Appreciation Day
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211208T104338Z
+    - ID: "3688d7df-2feb-43a4-ab8d-410e5f70a676"
+      Hint: ContentDescription
+      Value: |
+        <div style="color: #333333; background-color: #ffffff;">Spartanburg, SC – June 18, 2019 – <a rel="noopener noreferrer" href="http://www.aflglobal.com/" target="_blank" style="color: #0091ea; background-color: transparent;">AFL</a>, a manufacturer of fibre optic cable, accessories and equipment, hosted a customer appreciation day at its Mönchengladbach, Germany location in celebration of several milestones—120 years of manufacturing, 40 years of aerial cable production and 10 years as part of AFL. Visitors from across Europe, the Middle East and Africa attended day-long festivities to commemorate this special occasion.<br />
+        <br />
+        <br />
+        The invitation-only celebration targeted AFL’s key energy customers across the EMEA region and was keynoted by Professor Dr.-Ing. Albert Moser with RWTH Aachen University who spoke about the impact of energy transition on the transmission grid. <a href="~/link.aspx?_id=B77ABD22AE844A6AA17198CDEF81855E&_z=z">Kurt Dallas</a>, president of AFL Product Solutions, along with AFL’s EMEA senior management team, attended the event which included tours and live demonstrations.<br />
+        <br />
+        “Strategic investments into new manufacturing technologies together with vast experience from a long history of cable manufacturing have supported the growth of the business as well as the extension of the product portfolio,” commented Dallas. “AFL is focused on continued growth worldwide and our operations in Germany is an integral part of that strategy.”<br />
+        <br />
+        Demonstrations were provided throughout the day and included a live installation of one of AFL’s newest products, 48-fibre <a href="~/link.aspx?_id=70D78FF95954499C87D30A01397D3C3A&_z=z">AccessWrap™</a>, which showcased how fibre is deployed over power lines. Additional demonstrations in the demo zone included:<br />
+        <br />
+        <a href="~/link.aspx?_id=D643A7270A66419897479EB25017F3A1&_z=z">SpiderWeb Ribbon®</a> (SWR®) fibre splicing;<br />
+        Fujikura fusion splicers with the newly-released <a href="~/link.aspx?_id=F3459467FB5E4EC4B8E15B3E6888A8A6&_z=z">Bluetooth® cleavers</a>;<br />
+        Test and inspection equipment including <a href="~/link.aspx?_id=6C4448CCBB984BF6A7C950F996D2B39D&_z=z">FlexScan® OTDR’s</a>, <a href="~/link.aspx?_id=A5294A0B18184D9FBEABE71007538173&_z=z">FOCIS </a>(Fiber Optic Connector Inspection System) and Optical Loss & Power Testing;<br />
+        <a href="~/link.aspx?_id=E45B502DDFA5425DB92A83FA29EF2870&_z=z">FUSEConnect®</a> and <a href="~/link.aspx?_id=67C8F7271F4640BD891E3268365368F3&_z=z">FASTConnect®</a> optical connectors;<br />
+        Additional optical connectivity, optical distribution frames and wall-mounted boxes.<br />
+         <br />
+        Visitors were given a tour of the factory and shown the new customer showroom consisting of the latest development in cable technology and innovation including 144-fibre <a href="~/link.aspx?_id=39AA028E8D9C4A9A94FA1552B806A92A&_z=z">SkyWrap</a>, 48-fibre AccessWrap, OSP MicroCore® using 200 µm fibre, Wrapping Tube Cable (WTC) with SWR as well as OPGW and OPPC insulators.<br />
+         <br />
+        The evening concluded with a seated dinner with a restaurant setting in the factory building.<br />
+         <br />
+        AFL provides a full portfolio of optical fibre cables and accessories for the energy market, covering standard as well as tailored solutions according to customer specifications around the globe. To learn more about AFL, its products and services, visit <a href="http://www.aflglobal.com/" style="color: #0091ea; background-color: transparent;">www.AFLglobal.com</a>.<br />
+         <br />
+        Pictured from left: Markus Philipp, Managing Director, AFL Germany; Kurt: Professor Dr.-Ing. Albert Moser of RWTH Aachen University<br />
+        <br />
+        About AFL Germany<br />
+        Kabelwerke Rheydt was founded in 1898 and by 1910 copper telecommunication cables were being manufactured. Nearly 70 years later, the organization was manufacturing optical fibre cables including metallic overhead lines and initiated optical fibre drawing operations several years later. In 1991, Kabelwerke Rheydt started manufacturing overhead lines with fibres in stainless steel tubes. The company transitioned into French ALCATEL S.A. in 1992 and in 2000 became NEXANS S.A. In 2004, Dutch DRAKA assumed the fibre business from ALCATEL and in 2009 America Fujikura Ltd (AFL) acquired DRAKA´s business segment “Optical Aerial Cables” and founded AFL Telecommunications GmbH, GERMANY, with 120 employees.<br />
+        <br />
+        About America Fujikura Ltd. (AFL)<br />
+        Founded in 1984, AFL is an international manufacturer providing end-to-end solutions to the energy, service provider, enterprise and industrial markets as well as several emerging markets. The company’s products are in use in over 130 countries and include fibre optic cable and hardware, transmission and substation accessories, outside plant equipment, connectivity, test and inspection equipment, fusion splicers and training. AFL also offers a wide variety of services supporting data center, enterprise, wireless and outside plant applications.<br />
+         <br />
+        Headquartered in Spartanburg, SC, AFL has operations in the U.S., Mexico, Canada, Europe, Asia and Australia, and is a wholly-owned subsidiary of Fujikura Ltd. of Japan. For more information, visit <a rel="noopener noreferrer" href="http://www.aflglobal.com/" target="_blank" style="color: #0091ea; background-color: transparent;">www.AFLglobal.com</a>. Follow us on <a rel="noopener noreferrer" href="https://www.linkedin.com/company/afl-2" target="_blank" style="color: #0091ea; background-color: transparent;">LinkedIn</a>, <a rel="noopener noreferrer" href="https://twitter.com/AFLglobal" target="_blank" style="color: #0091ea; background-color: transparent;">Twitter</a>, and “like us” on <a rel="noopener noreferrer" href="https://www.facebook.com/AFLcorp" target="_blank" style="color: #0091ea; background-color: transparent;">Facebook</a>. Review our <a rel="noopener noreferrer" href="https://www.aflglobal.com/AFL-Blog/" target="_blank" style="color: #0091ea; background-color: transparent;">blog</a> or subscribe to our bi-monthly e-newsletter.<br />
+        <br />
+        Contacts<br />
+        Sabine Duda-Schäfers<br />
+        Assistant to Managing Director<br />
+        AFL Germany<br />
+        +49 (0)2166/134-1706<br />
+        <a href="mailto:sabine.duda-schaefers@aflglobal.com" style="color: #0091ea; background-color: transparent;">sabine.duda-schaefers@AFLglobal.com</a><br />
+        <br />
+        Corie Culp<br />
+        Public Relations Manager<br />
+        AFL<br />
+        864.433.5409<br />
+        <a href="mailto:Corie.Culp@AFLglobal.com" style="color: #0091ea; background-color: transparent;">Corie.Culp@AFLglobal.com</a> </div>
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: AFL Germany Hosts Customer Appreciation Day
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: AFL Germany Hosts Customer Appreciation Day
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: AFL Germany Hosts Customer Appreciation Day
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "971362b1-6244-445e-a018-22300745e054"
+    - ID: "9dd4f0d9-c123-47a8-8cef-2c85cea172f6"
+      Hint: ContentImage
+      Value: |
+        <image mediaid="{B3B9E6F7-4279-4C31-8C64-0CFD62CCB4E3}" />
+    - ID: "a6eaffd5-fc3e-41b4-93b3-f1721fcf2300"
+      Hint: ContentPublishedDate
+      Value: 20190617T183000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T093822Z

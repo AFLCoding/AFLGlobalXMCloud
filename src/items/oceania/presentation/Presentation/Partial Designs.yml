@@ -1,0 +1,31 @@
+﻿---
+ID: "5ea68b35-36d2-45ff-8157-bb2b7762cf49"
+Parent: "15457d5e-b9a4-4c6a-b04b-3ddf53a57a44"
+Template: "431bcfc0-4c53-4000-bec0-0b2ac60707b4"
+Path: "/sitecore/content/AFL-Global/OCEANIA/Presentation/Partial Designs"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{1DA4DAC3-7948-407B-A30D-D369913CF4F9}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211027T075722Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "72a0d8c9-baf0-4d55-a603-4cbeebc6f7a4"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\unicorn
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20211103T115631Z

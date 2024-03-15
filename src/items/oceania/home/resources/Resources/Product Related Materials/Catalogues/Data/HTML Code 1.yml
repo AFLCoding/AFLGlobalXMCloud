@@ -1,0 +1,345 @@
+﻿---
+ID: "4fed2f8e-424a-42c8-a2f2-db90c3f72fb6"
+Parent: "efd38543-8e1a-49ac-9d34-e95397644106"
+Template: "2ad23d55-aecd-43dd-ae0d-72d2ebcba60f"
+Path: "/sitecore/content/AFL-Global/OCEANIA/Home/Resources/Product Related Materials/Catalogues/Data/HTML Code 1"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "24cce27c-05db-4473-a1ed-e69b1725ff1c"
+      Hint: HtmlCode
+      Value: |
+        <div class="container shadow">
+            <br />
+            <h1><strong>Catalogues</strong></h1>
+        
+            <div class="row">
+                <!--Start First row-->
+                <div class="col-md-4">
+                    <!--Starting card 1 -->
+                    <div class="row no-gutters">
+                        <div class="col-auto">
+                            <a
+                                href="https://afl-delivery.stylelabs.cloud/api/public/content/AU-Product-Line-Reference-Guide-Copper?v=1ac4585a"><img
+                                    src="https://afl-delivery.stylelabs.cloud/api/public/content/AU-copper-cable?v=e88d2ebb"
+                                    class="img-fluid" alt=""></a>
+                        </div>
+                        <div class="col">
+                            <div class="card-block px-2">
+                                <h6 class="card-title"><strong>Copper Cabling Systems</strong></h6>
+        
+                                <a href="https://afl-delivery.stylelabs.cloud/api/public/content/AU-Product-Line-Reference-Guide-Copper?v=1ac4585a"
+                                    class="btn btn-primary">DOWNLOAD</a>
+                            </div>
+                        </div>
+                    </div>
+        
+                </div>
+        
+                <div class="col-md-4">
+                    <!-- Start card 2  -->
+                    <div class="row no-gutters">
+                        <div class="col-auto">
+                            <a
+                                href="https://afl-delivery.stylelabs.cloud/api/public/content/AU-Product-Line-Reference-Guide-Enclosures-Racks?v=d74f5de8"><img
+                                    src="https://afl-delivery.stylelabs.cloud/api/public/content/AU-Enclosures-Racks?v=855aa244"
+                                    class="img-fluid" alt=""></a>
+                        </div>
+                        <div class="col">
+                            <div class="card-block px-2">
+                                <h6 class="card-title"><strong>Fibre Enclosures and Racks</strong></h6>
+        
+                                <a href="https://afl-delivery.stylelabs.cloud/api/public/content/AU-Product-Line-Reference-Guide-Enclosures-Racks?v=d74f5de8"
+                                    class="btn btn-primary">DOWNLOAD</a>
+                            </div>
+                        </div>
+                    </div>
+        
+                </div><!-- End card 2  -->
+        
+        
+                <div class="col-md-4">
+                    <!-- Start card 3-->
+                    <div class="row no-gutters">
+                        <div class="col-auto">
+                            <a
+                                href="https://afl-delivery.stylelabs.cloud/api/public/content/AU-Product-Line-Reference-Guide-Fibre-Passive-Devices?v=6d73db1b"><img
+                                    src="https://afl-delivery.stylelabs.cloud/api/public/content/AU-fibre-passive-devices?v=38bfd33b"
+                                    class="img-fluid" alt=""></a>
+                        </div>
+                        <div class="col">
+                            <div class="card-block px-2">
+                                <h6 class="card-title"><strong>Fibre Passive Devices</strong></h6>
+        
+                                <a href="https://afl-delivery.stylelabs.cloud/api/public/content/AU-Product-Line-Reference-Guide-Fibre-Passive-Devices?v=6d73db1b"
+                                    class="btn btn-primary">DOWNLOAD</a>
+                            </div>
+                        </div>
+                    </div>
+        
+                </div>
+            </div>
+            <!--End row 1-->
+        
+            <div class="row">
+                <!--Start row 2-->
+                <div class="col-md-4">
+                    <!--start card 1-->
+                    <div class="row no-gutters">
+                        <div class="col-auto">
+                            <a
+                                href="https://afl-delivery.stylelabs.cloud/api/public/content/AU-Product-Line-Ref-Guide-Termination-Splicing?v=0004aa7e"><img
+                                    src="https://afl-delivery.stylelabs.cloud/api/public/content/AU-fibre-termination-splicing?v=d409477d"
+                                    class="img-fluid" alt=""></a>
+                        </div>
+                        <div class="col">
+                            <div class="card-block px-2">
+                                <h6 class="card-title"><strong>Fibre Termination and Splicing</strong></h6>
+        
+                                <a href="https://afl-delivery.stylelabs.cloud/api/public/content/AU-Product-Line-Ref-Guide-Termination-Splicing?v=0004aa7e"
+                                    class="btn btn-primary">DOWNLOAD</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!--End card 1-->
+                <div class="col-md-4">
+                    <!--start card 1-->
+                    <div class="row no-gutters">
+                        <div class="col-auto">
+                            <a
+                                href="https://afl-delivery.stylelabs.cloud/api/public/content/AU-Product-Line-Reference-Guide-Loosetube-Cable?v=9ec784f2"><img
+                                    src="https://afl-delivery.stylelabs.cloud/api/public/content/AU-Loosetube-Cable?v=80b9dca6"
+                                    class="img-fluid" alt=""></a>
+                        </div>
+                        <div class="col">
+                            <div class="card-block px-2">
+                                <h6 class="card-title"><strong>Loose Tube Fibre Cables</strong></h6>
+        
+                                <a href="https://afl-delivery.stylelabs.cloud/api/public/content/AU-Product-Line-Reference-Guide-Loosetube-Cable?v=9ec784f2"
+                                    class="btn btn-primary">DOWNLOAD</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!--End card 1-->
+                <div class="col-md-4">
+                    <!--start card 1-->
+                    <div class="row no-gutters">
+                        <div class="col-auto">
+                            <a
+                                href="https://afl-delivery.stylelabs.cloud/api/public/content/AU-Product-Line-Ref-Guide-Networking-Media-Conversio?v=b4446c87"><img
+                                    src="https://afl-delivery.stylelabs.cloud/api/public/content/AU-network-media-conversion?v=a511236c"
+                                    class="img-fluid" alt=""></a>
+                        </div>
+                        <div class="col">
+                            <div class="card-block px-2">
+                                <h6 class="card-title"><strong>Networking and Media Conversion</strong></h6>
+        
+                                <a href="https://afl-delivery.stylelabs.cloud/api/public/content/AU-Product-Line-Ref-Guide-Networking-Media-Conversio?v=b4446c87"
+                                    class="btn btn-primary">DOWNLOAD</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!--End card 1-->
+        
+            </div>
+        
+        
+            <div class="row">
+                <!--Start 3 row-->
+                <div class="col-md-4">
+                    <!--Starting card 1 -->
+                    <div class="row no-gutters">
+                        <div class="col-auto">
+                            <a
+                                href="https://afl-delivery.stylelabs.cloud/api/public/content/Premise-Fibre-Optic-Cable?v=600524e7"><img
+                                    src="https://afl-delivery.stylelabs.cloud/api/public/content/AU-Premise-Optical-Fibre-Cable?v=444146b0"
+                                    class="img-fluid" alt=""></a>
+                        </div>
+                        <div class="col">
+                            <div class="card-block px-2">
+                                <h6 class="card-title"><strong>Premise Optical Fibre Cable</strong></h6>
+        
+                                <a href="https://afl-delivery.stylelabs.cloud/api/public/content/Premise-Fibre-Optic-Cable?v=600524e7"
+                                    class="btn btn-primary">DOWNLOAD</a>
+                            </div>
+                        </div>
+                    </div>
+        
+                </div>
+        
+                <div class="col-md-4">
+                    <!-- Start card 2  -->
+                    <div class="row no-gutters">
+                        <div class="col-auto">
+                            <a
+                                href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-CVR-Specialty-Cables?v=f95ebb22"><img
+                                    src="https://afl-delivery.stylelabs.cloud/api/public/content/AU-specialty-fibre-optic-cable?v=7534259d"
+                                    class="img-fluid" alt=""></a>
+                        </div>
+                        <div class="col">
+                            <div class="card-block px-2">
+                                <h6 class="card-title"><strong>Specialty Fibre Optic Cable</strong></h6>
+        
+                                <a href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-CVR-Specialty-Cables?v=f95ebb22"
+                                    class="btn btn-primary">DOWNLOAD</a>
+                            </div>
+                        </div>
+                    </div>
+        
+                </div><!-- End card 2  -->
+        
+        
+                <div class="col-md-4">
+                    <!-- Start card 3-->
+                    <div class="row no-gutters">
+                        <div class="col-auto">
+                            <a
+                                href="https://afl-delivery.stylelabs.cloud/api/public/content/AU-AFL-Tactical-Cable-Catalogue?v=c0b06bd0"><img
+                                    src="https://afl-delivery.stylelabs.cloud/api/public/content/AU-TACTICAL-OPTICAL-FIBRE-CABLE?v=182de7c2"
+                                    class="img-fluid" alt=""></a>
+                        </div>
+                        <div class="col">
+                            <div class="card-block px-2">
+                                <h6 class="card-title"><strong>Tactical Fibre Cable</strong></h6>
+        
+                                <a href="https://afl-delivery.stylelabs.cloud/api/public/content/AU-AFL-Tactical-Cable-Catalogue?v=c0b06bd0"
+                                    class="btn btn-primary">DOWNLOAD</a>
+                            </div>
+                        </div>
+                    </div>
+        
+                </div>
+            </div>
+            <!--End row 3-->
+        
+            <div class="row">
+                <!--Start 4 row-->
+                <div class="col-md-4">
+                    <!--Starting card 1 -->
+                    <div class="row no-gutters">
+                        <div class="col-auto">
+                            <a
+                                href="https://afl-delivery.stylelabs.cloud/api/public/content/AU-AFL-Test-Inspection-Catalogue_08-19?v=83931666"><img
+                                    src="https://afl-delivery.stylelabs.cloud/api/public/content/AU-Test-and-Inspection?v=97e7b9d7"
+                                    class="img-fluid" alt=""></a>
+                        </div>
+                        <div class="col">
+                            <div class="card-block px-2">
+                                <h6 class="card-title"><strong>Test and Inspection</strong></h6>
+        
+                                <a href="https://afl-delivery.stylelabs.cloud/api/public/content/AU-AFL-Test-Inspection-Catalogue_08-19?v=83931666"
+                                    class="btn btn-primary">DOWNLOAD</a>
+                            </div>
+                        </div>
+                    </div>
+        
+                </div>
+        
+                <div class="col-md-4">
+                    <!-- Start card 2  -->
+                    <div class="row no-gutters">
+                        <div class="col-auto">
+                            <a href="https://afl-delivery.stylelabs.cloud/api/public/content/AU-WTC-SWR?v=5ffbca95"><img
+                                    src="https://afl-delivery.stylelabs.cloud/api/public/content/AU-wtc-cat?v=62df0ec5"
+                                    class="img-fluid" alt=""></a>
+                        </div>
+                        <div class="col">
+                            <div class="card-block px-2">
+                                <h6 class="card-title"><strong>Wrapping Tube Cables with SpiderWeb Ribbon®</strong></h6>
+        
+                                <a href="https://afl-delivery.stylelabs.cloud/api/public/content/AU-WTC-SWR?v=5ffbca95"
+                                    class="btn btn-primary">DOWNLOAD</a>
+                            </div>
+                        </div>
+                    </div>
+        
+                </div><!-- End card 2  -->
+        
+        
+        
+            </div>
+            <!--End row 4-->
+        
+        
+        
+        
+            <!--End row 10-->
+        
+        </div>
+        <br />
+        <style>
+            img {
+                margin-right: 20px;
+                border: rgb(217, 217, 217) 1px solid;
+            }
+        
+            .container {
+                line-height: 20px;
+            }
+        
+            .col-md-4 {
+                margin-bottom: 10px;
+            }
+        
+            /* .btn a,
+            .btn-primary {
+                display: inline-block;
+                padding: 10px 40px 10px 25px;
+                border-radius: 12px;
+                line-height: 1;
+                background: #00c0f3;
+                border: 3px solid #fff;
+                color: #fff;
+                text-align: center;
+                text-transform: uppercase;
+                font-weight: 600;
+                letter-spacing: 1.2px;
+                text-decoration: none;
+                position: relative;
+                cursor: pointer;
+                padding-top: 12px !important;
+                padding-bottom: 8px !important;
+                vertical-align: middle;
+                align-items: center;
+            } */
+        
+            strong {
+                margin-left: 3px;
+                font-weight: bold;
+            }
+        
+            .shadow {
+                box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+            }
+        
+            h1 {
+                font-size: 2em;
+                margin: 0.67em 0;
+            }
+        </style>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220401T191913Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\matt
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\matt
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a7c90149-8741-4bd8-afbf-994cae5f946f"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\matt
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220401T195550Z

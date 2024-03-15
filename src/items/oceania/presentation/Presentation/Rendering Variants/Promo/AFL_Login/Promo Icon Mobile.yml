@@ -1,0 +1,64 @@
+﻿---
+ID: "950439bd-1898-454c-807e-8ddafa88befb"
+Parent: "1a5ea062-4cc9-40ac-848d-e1a67caf5ecd"
+Template: "fcd285da-9ab2-4c8d-b185-5a7487a9ba1b"
+Path: "/sitecore/content/AFL-Global/OCEANIA/Presentation/Rendering Variants/Promo/AFL_Login/Promo Icon Mobile"
+SharedFields:
+- ID: "34400b24-5666-4295-bbc2-b87c2020aa6d"
+  Hint: LinkAttributes
+  Value: href=%2FResources%2FAFL%20Portals
+- ID: "4753764c-c05a-4623-841b-97f85135241c"
+  Hint: FieldName
+  Value: PromoIcon2
+- ID: "7495124d-09b5-4cb3-b4a6-fe77a95827da"
+  Hint: CssClass
+  Value: "mobile-icon"
+- ID: "8be1f2e3-5e71-48df-9cc0-9bb4bca4784d"
+  Hint: IsSuffixLink
+  Value: 
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 0
+- ID: "c35b2285-b4a8-406f-a91c-24a60391dc12"
+  Hint: DataAttributes
+  Value: 
+- ID: "cd6f5d0b-d11e-4fd3-a5d8-a75e6ca07a0c"
+  Hint: IsPrefixLink
+  Value: 
+- ID: "db805bdc-8eec-4238-b174-2427b6f1f077"
+  Hint: Tag
+  Value: "{18C8C889-C723-452A-970C-7CE4D41EE371}"
+- ID: "dcb05e5e-7151-4226-a3b0-108c5e2f05b5"
+  Hint: IsLink
+  Value: 1
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{D1BFE2BA-5266-4FD8-A81A-2780952050E4}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "15867cb6-e128-4d78-9d4f-739e5963dfc4"
+      Hint: Suffix
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211027T075745Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a0b41c2c-60a7-4de1-9f12-72279dbda1ca"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\archana
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220112T084708Z
+    - ID: "fd5230d8-e68d-4e17-9d85-ea676f27ac3a"
+      Hint: Prefix
+      Value: 

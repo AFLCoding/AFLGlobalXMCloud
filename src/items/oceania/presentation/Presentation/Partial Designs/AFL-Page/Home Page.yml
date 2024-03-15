@@ -1,0 +1,122 @@
+﻿---
+ID: "82aaf66f-920c-4203-a502-7a503437446f"
+Parent: "79d04e57-b137-404f-9aa8-9aee7b325e37"
+Template: "8136f903-5eea-4289-9b44-67b469a969ea"
+Path: "/sitecore/content/AFL-Global/OCEANIA/Presentation/Partial Designs/AFL-Page/Home Page"
+SharedFields:
+- ID: "55faae90-3bba-4f7f-96fe-13c3f40055ff"
+  Hint: Signature
+  Value: "home-page"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{3AF40072-63E6-4524-88CD-56C7D3D476D9}"
+          p:before="*"
+          s:ds="{405DE11D-5E91-446B-8E4B-0F1EDB9E932A}"
+          s:id="{602A987A-4475-4006-829F-08F594C25823}"
+          s:par="Reset Caching Options&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames=%7B36457326-7A60-4A55-8C31-55890E04DF41%7D&amp;Styles&amp;RenderingIdentifier&amp;DynamicPlaceholderId=9"
+          s:ph="main"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{A44F1F90-B45B-4429-8603-4A917B2B6808}"
+          p:after="r[@uid='{3AF40072-63E6-4524-88CD-56C7D3D476D9}']"
+          s:ds=""
+          s:id="{0A45D795-D8C1-4111-B485-1C25541424B3}"
+          s:pt="{B3C8746D-2834-4216-8E54-C918371C8A25}"
+          s:par="Reset Caching Options&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames=%7B08C8D174-15B3-456D-B902-0B4DC7475234%7D&amp;Styles=%7BDBAFB9B0-01B2-411F-AB4F-2941093DE513%7D&amp;RenderingIdentifier&amp;DynamicPlaceholderId=16"
+          s:ph="main"
+          s:ccb="Clear on publish">
+          <rls>
+            <ruleset
+              s:pet="true">
+              <rule
+                uid="{865B5C1C-4628-4AF2-81D8-62170461FE66}"
+                s:name="Aluminum Clad Steel"
+                s:test="true">
+                <conditions>
+                  <condition
+                    uid="35AAF5B0207E4FCCB8BCE76FFDA8CE7E"
+                    s:id="{EE20FBDD-1022-4471-A423-679498B3410E}"
+                    s:profilekeyid="{3994C04D-D781-4190-BCAA-0477FEA712E3}"
+                    s:operatorid="{814EF7D0-1639-44FD-AEEF-735B5AC14425}"
+                    s:value="10" />
+                </conditions>
+                <actions />
+              </rule>
+              <rule
+                uid="{1EA7B1C7-D591-4810-BD8D-9071EF7939D0}"
+                s:name="Specify name..."
+                s:test="true">
+                <conditions>
+                  <condition
+                    uid="764D0DBCE6CF4F78A79E9AB14C9A45D9"
+                    s:id="{03C88BC4-8583-4AB9-A7CB-428E13E7C325}"
+                    s:value="20"
+                    s:operatorid="{814EF7D0-1639-44FD-AEEF-735B5AC14425}" />
+                </conditions>
+                <actions />
+              </rule>
+              <rule
+                uid="{00000000-0000-0000-0000-000000000000}"
+                s:name="Default"
+                s:test="true">
+                <conditions>
+                  <condition
+                    uid="8B655E92CC6347DA92A40683EB579F3C"
+                    s:id="{4888ABBB-F17D-4485-B14B-842413F88732}" />
+                </conditions>
+                <actions>
+                  <action
+                    uid="A9636DD64F2549A5A2AAFD128C5F85ED"
+                    s:id="{0F3C6BEC-E56B-4875-93D7-2846A75881D2}"
+                    s:DataSource="{5094445C-E7B8-4045-8B79-A0CB859716F4}" />
+                </actions>
+              </rule>
+            </ruleset>
+          </rls>
+        </r>
+        <r
+          uid="{B3353136-7000-47A4-B774-0584F1A7E227}"
+          p:after="r[@uid='{A44F1F90-B45B-4429-8603-4A917B2B6808}']"
+          s:ds="{4F3EDB56-5318-4AD1-BB23-D83AB4051DE5}"
+          s:id="{020A92BA-5D27-4E60-8E8A-EFDDC535ACBD}"
+          s:par="SourceType&amp;Reset Caching Options&amp;ListSignature&amp;PageSize&amp;Offset&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames=%7B2F03D274-C26F-474C-AFB6-E497B4138469%7D&amp;Styles=%7B3913A839-8657-4572-AA31-5CD22ACE8252%7D&amp;RenderingIdentifier&amp;DynamicPlaceholderId=15"
+          s:ph="main"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{4B745287-A0EB-4274-AA94-126770FA8336}"
+          p:after="*[1=2]"
+          s:ds="{9CB50EEE-6538-4D25-A45E-EB6CFBA35832}"
+          s:id="{602A987A-4475-4006-829F-08F594C25823}"
+          s:par="Reset Caching Options&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames=%7B36457326-7A60-4A55-8C31-55890E04DF41%7D&amp;Styles&amp;RenderingIdentifier&amp;DynamicPlaceholderId=10"
+          s:ph="main"
+          s:ccb="Clear on publish" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211117T122131Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "cdf9de9f-1bce-46ab-ae39-4db2a56643c3"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240229T111607Z

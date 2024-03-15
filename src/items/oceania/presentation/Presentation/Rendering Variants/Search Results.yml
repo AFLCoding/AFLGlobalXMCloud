@@ -1,0 +1,37 @@
+﻿---
+ID: "bb0d7d2e-f681-44f0-a960-5a4a6fb2a191"
+Parent: "c8d86399-31b1-4fea-a183-160390e1e7da"
+Template: "e1a3b30c-77bc-4f6c-a008-d01b3371235d"
+Path: "/sitecore/content/AFL-Global/OCEANIA/Presentation/Rendering Variants/Search Results"
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Office/32x32/selection_view.png
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 2500
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{43418DA2-B7B0-4F03-8BEE-22CAC64771D2}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211027T075754Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "33cd14b9-c5f9-4702-80db-f3a7fecb7c24"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\unicorn
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20211103T115638Z

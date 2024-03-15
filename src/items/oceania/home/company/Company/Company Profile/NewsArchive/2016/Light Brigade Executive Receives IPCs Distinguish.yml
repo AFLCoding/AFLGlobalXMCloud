@@ -1,0 +1,99 @@
+﻿---
+ID: "4ff0b883-f807-4e5c-9097-2147e4ed59fa"
+Parent: "270282d8-4f69-44b2-aa25-83b8deb7b109"
+Template: "f36e821e-bb98-44dc-966d-e92a0e033cc7"
+Path: "/sitecore/content/AFL-Global/OCEANIA/Home/Company/Company Profile/NewsArchive/2016/Light Brigade Executive Receives IPCs Distinguish"
+SharedFields:
+- ID: "1fbc6a49-6281-48ee-87e9-a3970b145adb"
+  Hint: NavigationFilter
+  Value: |
+    {E0A2A027-0932-4878-A7D6-0416D5263EFB}
+    {61BD64D6-809E-40AE-9297-2724A19329B3}
+    {D063E9D1-C7B5-4B1E-B31E-69886C9C59F5}
+    {500AE4C0-FA7B-463F-8149-EFFF7F044101}
+    {A0E7FF57-6994-4B09-AA21-104239628D5A}
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{3A84BAC9-C1BD-4809-A12C-28EB44E25329}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{DAE7C21D-4D3B-4257-A95C-9104CD8AF409}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{86F15558-E2A7-42C1-A21D-96E3F6E81FBA}"
+              s:ds="{AA01CDAA-EDB1-4F6A-8C4A-6D6574F03D84}"
+              s:id="{43C5D426-A6F6-4716-BEAF-F82602D2277B}"
+              s:par="Reset Caching Options&amp;GridParameters&amp;FieldNames=%7BE4BC3964-5235-4FE7-A863-76777C39CFAE%7D&amp;Styles&amp;RenderingIdentifier&amp;DynamicPlaceholderId=1"
+              s:ph="main"
+              s:ccb="Clear on publish" />
+          </d>
+        </r>
+    - ID: "228f9517-e120-4014-b2c7-df0ac467a349"
+      Hint: ContentTitle
+      Value: Light Brigade® Executive Receives IPC’s Distinguished Committee Service Award
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220111T081300Z
+    - ID: "3688d7df-2feb-43a4-ab8d-410e5f70a676"
+      Hint: ContentDescription
+      Value: |
+        Tukwila, WA and Spartanburg, SC – <a href="http://www.lightbrigade.com/">Light Brigade</a>, a leading training and education company, announces that the <a href="http://www.ipc.org/">IPC</a>—Association Connecting Electronics Industries®, has recognized Larry Johnson, director and founder of Light Brigade, Inc. with a Distinguished Committee Service award for his contributions to the development of the standard IPC-D-640, Design and Critical Process Requirements for Optical Fiber, Optical Cable and Hybrid Wiring Harness Assemblies. The new standard addresses fiber optic components along with installation, testing and inspection disciplines required for the design and acceptance requirements for fiber optic and hybrid optical/copper cable harnesses for aerospace applications. <br />
+        <br />
+        “Larry has been an integral part of so many industry committees and conferences over the years, as well as the key content development and ‘resident expert’ at Light Brigade,” commented Lee Kellet, general manager of Light Brigade. “This award is another well-deserved recognition of his many contributions to the fiber optics industry.”<br />
+        <br />
+        Johnson founded Light Brigade in 1987 to support the growing fiber optics industry. Over his three-plus-decade career in the telecommunications industries, Mr. Johnson has built a solid reputation in all aspects of fiber optic design, installation, implementation, testing and measurement. He participated in the early development of fiber optic standards used for installation, testing and measurement of network and physical plant. His leadership in the optical fiber industry has resulted in the development of fiber optic certification programs for a variety of industries.<br />
+        <br />
+        IPC is a global trade association dedicated to furthering the competitive excellence and financial success of its members, who are participants in the electronics industry. The award will be presented at the IPC committee awards luncheon on September 26 at the Donald E. Stephens Convention Center in Rosemont, Illinois.<br />
+        <br />
+        For more information on Light Brigade, visit <a href="http://www.lightbrigade.com/">www.lightbrigade.com</a>.<br />
+        <br />
+        <strong>About Light Brigade </strong><br />
+        Light Brigade is a leading provider of fiber optic training through our exceptional team of qualified instructors and content developers. Since 1987, Light Brigade has trained more than 50,000 installers, technicians, engineers, and designers from a wide range of industries. The company produces professional-quality hands-on training courses, online learning programs, and training DVDs that cater to every skill level. Light Brigade also develops customized fiber optic training programs.  For more information, visit <a href="http://link.scsend.net/q4Lu?recipient_id=14ic0oTtaHq3os0XpWNpAwxft1X8uh_cYp7K6ZebYDikNcnExskLnTHnivkNBwbfr_HqggQ0mUMXuKY3WSz9JEsE9yDoPFe4adA1_mP4IK44s">www.lightbrigade.com</a>.<br />
+        <br />
+        <strong>Contact</strong><br />
+        Rick Atchison <br />
+        Light Brigade <br />
+        Marketing Specialist<br />
+        (206) 575-0404 ext. 200 <br />
+        <a rel="noopener noreferrer" href="https://mail.fujikurausa.com/owa/redir ?SURL=ci3hOJAkmlc5aO8p9YUigBdz3cY-xsofSyVGeeAF4jpTYIJAXl7TCG0AYQBpAGwAdABvADoAcgBhAHQAYwBoAGkAcwBvAG4AQABsAGkAZwBoAHQAYgByAGkAZwBhAGQAZQAuAGMAbwBtAA..&URL=mailto%3aratchison%40lightbrigade.com" target="_blank">ratchison@lightbrigade.com</a>
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Light Brigade Executive Receives IPCs Distinguish
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kushagra
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kushagra
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: Light Brigade Executive Receives IPCs Distinguish
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: Light Brigade Executive Receives IPCs Distinguish
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6f03fa54-5e19-4198-945f-3ba6a3c1e13b"
+    - ID: "a6eaffd5-fc3e-41b4-93b3-f1721fcf2300"
+      Hint: ContentPublishedDate
+      Value: 20160926T183000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T093948Z
