@@ -1,0 +1,49 @@
+﻿---
+ID: "bfc3381f-79cc-483a-ad6c-f3698c13f428"
+Parent: "01e3916d-c9c2-4394-b1e5-5b6534f6abce"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/Project/AFL-Global/AFL-NA/MicrosoftTeams-image (11)"
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/BFC3381F79CC483AAD6CF3698C13F428.ashx?h=16&thn=1&w=16"
+- ID: "22eac599-f13b-4607-a89d-c091763a467d"
+  Hint: Width
+  Value: 15
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "84f17e07-93b6-4492-bac0-8bd78a595de3"
+  Value: iVBORw0KGgoAAAANSUhEUgAAAA8AAAASCAYAAACEnoQPAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAwklEQVQ4jZ3QsUkEQRiG4WeP4+BKuMQ6FjtRsAgTEzE30Q5MLhALsAXFGsyUK0EQTD6DvYV12R12fGGYYHj/+b+vSbLBj3+wwh7X2FbbSZ7T8ZHkLEmTxJKzGsw5wSNe0S5de0x7HLDHrlaGBhd4V+pjkLnEZB9zP4+Z7GOp3NPiBQ/Y1cp0fWxgXSm+4fJ4L177E+c47cUlP3/hFvf4Hj/OycETrnCYmzwl/8lVYph5MleJtS7LDe5M5CrRJNnWSj2/PMmJ71wAOAAAAAAASUVORK5CYII=
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 272
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: image/png
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: png
+- ID: "cb09946f-3218-4823-87d2-d5007c199a96"
+  Hint: Dimensions
+  Value: 15 x 18
+- ID: "de2ca9e4-c117-4c8a-a139-1ff4b199d15a"
+  Hint: Height
+  Value: 18
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211118T123837Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2d797249-f036-4572-a8fa-3737628a041e"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        serialization\UnicornDataProvider
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240229T054218Z

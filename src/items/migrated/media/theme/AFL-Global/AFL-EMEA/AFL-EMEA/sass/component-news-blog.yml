@@ -1,0 +1,48 @@
+﻿---
+ID: "a50739a6-a944-4268-b559-d74193fead0d"
+Parent: "85dd31a3-82bc-41b9-b48a-148f62663052"
+Template: "962b53c4-f93b-4df9-9821-415c867b8903"
+Path: "/sitecore/media library/Themes/AFL-Global/AFL-EMEA/AFL-EMEA/sass/component-news-blog"
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/F835450C231447888898CDE1AABD7031.ashx?h=16&thn=1&w=16"
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "514eecb8-bbb5-402b-b5b1-9891929ee3e6"
+  Value: QGltcG9ydCAiaHR0cHM6Ly9mb250cy5nb29nbGVhcGlzLmNvbS9jc3MyP2ZhbWlseT1IaW5kOndnaHRAMzAwOzQwMDs1MDA7NjAwOzcwMCZkaXNwbGF5PXN3YXAiOw0KLmFmbC1hcnRpY2xlLWRlZmF1bHQgew0KCWgyIHsNCgkJZm9udC1zaXplOiA0LjVyZW07DQoJCWNvbG9yOiAjMDA0MjgyOw0KCQlmb250LXdlaWdodDogNzAwOw0KCQltYXJnaW4tYm90dG9tOiAzcmVtOw0KCQl0ZXh0LXRyYW5zZm9ybTogY2FwaXRhbGl6ZTsNCgkJbWFyZ2luLXRvcDogNXJlbTsNCgl9DQoJLmZpZWxkLWNvbnRlbnRpbWFnZSB7DQoJCWltZyB7DQoJCQloZWlnaHQ6IDUwMHB4Ow0KCQkJd2lkdGg6IDEwMCU7DQoJCQlvYmplY3QtZml0OiBjb3ZlcjsNCgkJCW9iamVjdC1wb3NpdGlvbjogNTAlIDI1JTsNCgkJCWJvcmRlci1yYWRpdXM6IDJyZW07DQoJCQltYXJnaW4tYm90dG9tOiA0cmVtOw0KCQl9DQoJfQ0KCWg0LmZpZWxkLWNvbnRlbnR0aXRsZSB7DQoJCWZvbnQtc2l6ZTogMi40cmVtOw0KCQlmb250LXdlaWdodDogNjAwOw0KCQljb2xvcjogIzAwYzBmMzsNCgkJbGV0dGVyLXNwYWNpbmc6IDAuMXJlbTsNCgkJbWFyZ2luLWJvdHRvbTogMnJlbTsNCgl9DQoJaDYuZmllbGQtY29udGVudHB1Ymxpc2hlZGRhdGUgew0KCQlmb250LXNpemU6IDEuNnJlbTsNCgkJY29sb3I6ICMwMDQyODI7DQoJCWZvbnQtd2VpZ2h0OiA3MDA7DQoJCWxldHRlci1zcGFjaW5nOiAwLjJyZW07DQoJCW1hcmdpbi1ib3R0b206IDMuNXJlbTsNCgl9DQoJcC5maWVsZC1jb250ZW50ZGVzY3JpcHRpb24gew0KCQlmb250LXNpemU6IDEuNnJlbTsNCgkJZm9udC13ZWlnaHQ6IDQwMDsNCgkJY29sb3I6ICM3MTcxNzE7DQoJfQ0KfQ0K
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 846
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: "application/octet-stream"
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: scss
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211208T121207Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1d863ebe-8cc8-43d1-8b07-a15871a2c26b"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\jeetendra
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220108T185943Z

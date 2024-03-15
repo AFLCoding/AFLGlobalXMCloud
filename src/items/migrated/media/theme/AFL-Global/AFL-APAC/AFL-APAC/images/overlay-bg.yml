@@ -1,0 +1,52 @@
+﻿---
+ID: "88122ea2-d36a-4a81-ad99-5e31155032b0"
+Parent: "dd95ddb5-4e51-4275-abcf-41bef7dd8a96"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/Themes/AFL-Global/AFL-APAC/AFL-APAC/images/overlay-bg"
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/8642971950404EDBB782DD7FA80D4940.ashx?h=16&thn=1&w=16"
+- ID: "22eac599-f13b-4607-a89d-c091763a467d"
+  Hint: Width
+  Value: 1
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "cae5dc20-1d47-4b32-b28d-c0a37d8d824e"
+  Value: iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAF0lEQVR4XgWAAQkAAACCelLg/yeOitB5AfoBL59IANEAAAAASUVORK5CYIKJUE5HDQoaCgAAAA1JSERSAAAAAQAAAAEIBgAAAB8VxIkAAAAXSURBVHheBYABCQAAAIJ6UuD/J46K0HkB+gEvn0gA0QAAAABJRU5ErkJggolQTkcNChoKAAAADUlIRFIAAAABAAAAAQgGAAAAHxXEiQAAABdJREFUeF4FgAEJAAAAgnpS4P8njorQeQH6AS+fSADRAAAAAElFTkSuQmCCiVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAF0lEQVR4XgWAAQkAAACCelLg/yeOitB5AfoBL59IANEAAAAASUVORK5CYII=
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 320
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: image/png
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: png
+- ID: "cb09946f-3218-4823-87d2-d5007c199a96"
+  Hint: Dimensions
+  Value: 1 x 1
+- ID: "de2ca9e4-c117-4c8a-a139-1ff4b199d15a"
+  Hint: Height
+  Value: 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20131216T115057
+    - ID: "65885c44-8fcd-4a7f-94f1-ee63703fe193"
+      Hint: Alt
+      Value: "overlay-bg"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "03ad1c86-9734-4513-b4b0-56af0b5bcbbd"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\jeetendra
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220203T110750Z
