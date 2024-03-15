@@ -2,3 +2,11 @@
 @import "components";
 @import "variants";
 @import "app";
+
+/* stylelint-disable no-invalid-position-at-import-rule */
+@layer reset, base, token, component, utility;
+
+@layer token {
+	@import '../sass/token/dist/scss/global';
+}
+
