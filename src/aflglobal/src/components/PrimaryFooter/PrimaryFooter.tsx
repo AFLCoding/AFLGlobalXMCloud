@@ -42,5 +42,3 @@ const PrimaryFooter = () => {
 };
 
 export default PrimaryFooter;
-
-
