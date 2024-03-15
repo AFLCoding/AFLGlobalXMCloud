@@ -1,0 +1,396 @@
+﻿---
+ID: "e3bc03a9-ea56-4ee5-8e24-544fb0d99d68"
+Parent: "4b9a08ff-5780-40d7-8206-47c81894fb3d"
+Template: "8136f903-5eea-4289-9b44-67b469a969ea"
+Path: "/sitecore/content/AFL-Global/EMEA/Presentation/Partial Designs/AFL-Page/High Level ContentwithHeroPage"
+SharedFields:
+- ID: "55faae90-3bba-4f7f-96fe-13c3f40055ff"
+  Hint: Signature
+  Value: "high-level-page"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{DAE7C21D-4D3B-4257-A95C-9104CD8AF409}"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{C4E820E0-6DC5-4816-AA4A-7B8EE986FCA3}"
+          p:before="*"
+          s:ds="query:self::"
+          s:id="{6F646C2F-8611-4D9A-ACCC-847F6A2F2520}"
+          s:par="Reset Caching Options&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames=%7B2F9BC627-84F4-4B00-86B0-7487FA8B6EF3%7D&amp;Styles=%7BBCA4BC05-3D3B-4BFE-9DB0-1B287AC3B77B%7D&amp;RenderingIdentifier&amp;DynamicPlaceholderId=1"
+          s:ph="/main/container-6"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{C7C442EF-8141-4DEF-9C58-79358860F603}"
+          p:after="r[@uid='{C4E820E0-6DC5-4816-AA4A-7B8EE986FCA3}']"
+          s:ds=""
+          s:id="{896A2C68-1362-4E88-8BA0-1805AE6D4837}"
+          s:par="Reset Caching Options&amp;GridParameters&amp;BackgroundImage&amp;Styles=%7B7220A741-0BCB-47E8-BBDE-2553AE2407CB%7D&amp;RenderingIdentifier&amp;DynamicPlaceholderId=6"
+          s:ph="main"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{387DF70C-DF36-4ED1-A5CF-BDB30632E13E}"
+          p:after="*[1=2]"
+          s:ds="query:self::"
+          s:id="{6162223D-9EAA-490C-A628-DA2A76933DD4}"
+          s:par="Reset Caching Options&amp;GridParameters&amp;FieldNames=%7B18604CDD-2680-4339-94B3-E6523FC23666%7D&amp;Styles=%7B1A3163C3-C552-4BFA-ADC9-C7B3A0DC5BF4%7D&amp;RenderingIdentifier&amp;DynamicPlaceholderId=3"
+          s:ph="main"
+          s:ccb="Clear on publish" />
+      </d>
+    </r>
+Languages:
+- Language: "de-DE"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{C4E820E0-6DC5-4816-AA4A-7B8EE986FCA3}"
+              p:before="*"
+              s:ds="query:self::"
+              s:id="{6F646C2F-8611-4D9A-ACCC-847F6A2F2520}"
+              s:par="Reset Caching Options&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames=%7B05E287C9-F37D-4FB7-B999-E32EAF5E80A6%7D&amp;Styles=%7BBCA4BC05-3D3B-4BFE-9DB0-1B287AC3B77B%7D&amp;RenderingIdentifier&amp;DynamicPlaceholderId=1"
+              s:ph="/main/container-6"
+              s:ccb="Clear on publish" />
+            <r
+              uid="{C7C442EF-8141-4DEF-9C58-79358860F603}"
+              p:after="r[@uid='{C4E820E0-6DC5-4816-AA4A-7B8EE986FCA3}']"
+              s:ds=""
+              s:id="{896A2C68-1362-4E88-8BA0-1805AE6D4837}"
+              s:par="Reset Caching Options&amp;GridParameters&amp;BackgroundImage&amp;Styles=%7B7220A741-0BCB-47E8-BBDE-2553AE2407CB%7D&amp;RenderingIdentifier&amp;DynamicPlaceholderId=6"
+              s:ph="main"
+              s:ccb="Clear on publish" />
+            <r
+              uid="{387DF70C-DF36-4ED1-A5CF-BDB30632E13E}"
+              p:after="r[@uid='{C7C442EF-8141-4DEF-9C58-79358860F603}']"
+              s:ds="query:self::"
+              s:id="{6162223D-9EAA-490C-A628-DA2A76933DD4}"
+              s:par="Reset Caching Options&amp;GridParameters&amp;FieldNames=%7BF1EADE4E-8A96-4763-B011-700B7D94E9BF%7D&amp;Styles=%7B1A3163C3-C552-4BFA-ADC9-C7B3A0DC5BF4%7D&amp;RenderingIdentifier&amp;DynamicPlaceholderId=3&amp;CacheClearingBehavior=Clear%20on%20publish"
+              s:ph="main"
+              s:ccb="Clear on publish" />
+            <r
+              uid="{E601ADD1-417B-4CB6-8573-9D0B14FB59AD}"
+              p:after="r[@uid='{387DF70C-DF36-4ED1-A5CF-BDB30632E13E}']"
+              s:ds="query:self::"
+              s:id="{602A987A-4475-4006-829F-08F594C25823}"
+              s:par="Reset Caching Options&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames=%7B3CAC673A-6567-4C74-ABFB-B7F4E284E43E%7D&amp;Styles=%7B315B64DC-91B7-4C7F-ABD4-C970DD2EE20D%7D%7C%7B75934B44-ADAE-4A14-AE53-87D3B8477099%7D%7C%7BCCE06C82-2B22-4EFF-A3B2-98C53C5DA51A%7D%7C%7B97AA508A-1055-49DC-AF11-AB8153C3919F%7D%7C%7B5FEBF177-B276-4769-854B-0271F03BE230%7D&amp;RenderingIdentifier&amp;DynamicPlaceholderId=4"
+              s:ph="main"
+              s:ccb="Clear on publish" />
+            <r
+              uid="{2C9FABFD-B52B-4A35-B6CA-60BEC1FA8B07}"
+              p:after="*[1=2]"
+              s:ds="query:self::"
+              s:id="{0A45D795-D8C1-4111-B485-1C25541424B3}"
+              s:par="Reset Caching Options&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames=%7B152FC279-573A-49D4-BD25-782AEC98F926%7D&amp;Styles=%7B97AA508A-1055-49DC-AF11-AB8153C3919F%7D%7C%7B1A3163C3-C552-4BFA-ADC9-C7B3A0DC5BF4%7D&amp;RenderingIdentifier&amp;DynamicPlaceholderId=5&amp;CacheClearingBehavior=Clear%20on%20publish"
+              s:ph="main"
+              s:ccb="Clear on publish" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211111T064545Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4c2f221f-9426-45ed-9eeb-c79bb3169565"
+      Hint: StickyNotes
+      Value: |
+        {"items":[]}
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "238b2ec4-3d06-4933-8e05-5041ec9da8c9"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240229T102205Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211111T064545Z
+    - ID: "4c2f221f-9426-45ed-9eeb-c79bb3169565"
+      Hint: StickyNotes
+      Value: |
+        {"items":[]}
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4ee6b6d3-a6ff-4331-b792-4d7ad4ad0ee0"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: "20240229T102205:638447989257711627Z"
+- Language: "es-ES"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{C4E820E0-6DC5-4816-AA4A-7B8EE986FCA3}"
+              p:before="*"
+              s:ds="query:self::"
+              s:id="{6F646C2F-8611-4D9A-ACCC-847F6A2F2520}"
+              s:par="Reset Caching Options&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames=%7B05E287C9-F37D-4FB7-B999-E32EAF5E80A6%7D&amp;Styles=%7BBCA4BC05-3D3B-4BFE-9DB0-1B287AC3B77B%7D&amp;RenderingIdentifier&amp;DynamicPlaceholderId=1"
+              s:ph="/main/container-6"
+              s:ccb="Clear on publish" />
+            <r
+              uid="{C7C442EF-8141-4DEF-9C58-79358860F603}"
+              p:after="r[@uid='{C4E820E0-6DC5-4816-AA4A-7B8EE986FCA3}']"
+              s:ds=""
+              s:id="{896A2C68-1362-4E88-8BA0-1805AE6D4837}"
+              s:par="Reset Caching Options&amp;GridParameters&amp;BackgroundImage&amp;Styles=%7B7220A741-0BCB-47E8-BBDE-2553AE2407CB%7D&amp;RenderingIdentifier&amp;DynamicPlaceholderId=6"
+              s:ph="main"
+              s:ccb="Clear on publish" />
+            <r
+              uid="{387DF70C-DF36-4ED1-A5CF-BDB30632E13E}"
+              p:after="r[@uid='{C7C442EF-8141-4DEF-9C58-79358860F603}']"
+              s:ds="query:self::"
+              s:id="{6162223D-9EAA-490C-A628-DA2A76933DD4}"
+              s:par="Reset Caching Options&amp;GridParameters&amp;FieldNames=%7BF1EADE4E-8A96-4763-B011-700B7D94E9BF%7D&amp;Styles=%7B1A3163C3-C552-4BFA-ADC9-C7B3A0DC5BF4%7D&amp;RenderingIdentifier&amp;DynamicPlaceholderId=3&amp;CacheClearingBehavior=Clear%20on%20publish"
+              s:ph="main"
+              s:ccb="Clear on publish" />
+            <r
+              uid="{E601ADD1-417B-4CB6-8573-9D0B14FB59AD}"
+              p:after="r[@uid='{387DF70C-DF36-4ED1-A5CF-BDB30632E13E}']"
+              s:ds="query:self::"
+              s:id="{602A987A-4475-4006-829F-08F594C25823}"
+              s:par="Reset Caching Options&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames=%7B3CAC673A-6567-4C74-ABFB-B7F4E284E43E%7D&amp;Styles=%7B315B64DC-91B7-4C7F-ABD4-C970DD2EE20D%7D%7C%7B75934B44-ADAE-4A14-AE53-87D3B8477099%7D%7C%7BCCE06C82-2B22-4EFF-A3B2-98C53C5DA51A%7D%7C%7B97AA508A-1055-49DC-AF11-AB8153C3919F%7D%7C%7B5FEBF177-B276-4769-854B-0271F03BE230%7D&amp;RenderingIdentifier&amp;DynamicPlaceholderId=4"
+              s:ph="main"
+              s:ccb="Clear on publish" />
+            <r
+              uid="{2C9FABFD-B52B-4A35-B6CA-60BEC1FA8B07}"
+              p:after="*[1=2]"
+              s:ds="query:self::"
+              s:id="{0A45D795-D8C1-4111-B485-1C25541424B3}"
+              s:par="Reset Caching Options&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames=%7B152FC279-573A-49D4-BD25-782AEC98F926%7D&amp;Styles=%7B97AA508A-1055-49DC-AF11-AB8153C3919F%7D%7C%7B1A3163C3-C552-4BFA-ADC9-C7B3A0DC5BF4%7D&amp;RenderingIdentifier&amp;DynamicPlaceholderId=5&amp;CacheClearingBehavior=Clear%20on%20publish"
+              s:ph="main"
+              s:ccb="Clear on publish" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211111T064545Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4c2f221f-9426-45ed-9eeb-c79bb3169565"
+      Hint: StickyNotes
+      Value: |
+        {"items":[]}
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5c942221-c6f2-4317-899a-f96f71f251b3"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: "20240229T102205:638447989259613935Z"
+  - Version: 2
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{C4E820E0-6DC5-4816-AA4A-7B8EE986FCA3}"
+              p:before="*"
+              s:ds="query:self::"
+              s:id="{6F646C2F-8611-4D9A-ACCC-847F6A2F2520}"
+              s:par="Reset Caching Options&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames=%7B05E287C9-F37D-4FB7-B999-E32EAF5E80A6%7D&amp;Styles=%7BBCA4BC05-3D3B-4BFE-9DB0-1B287AC3B77B%7D&amp;RenderingIdentifier&amp;DynamicPlaceholderId=1"
+              s:ph="/main/container-6"
+              s:ccb="Clear on publish" />
+            <r
+              uid="{C7C442EF-8141-4DEF-9C58-79358860F603}"
+              p:after="r[@uid='{C4E820E0-6DC5-4816-AA4A-7B8EE986FCA3}']"
+              s:ds=""
+              s:id="{896A2C68-1362-4E88-8BA0-1805AE6D4837}"
+              s:par="Reset Caching Options&amp;GridParameters&amp;BackgroundImage&amp;Styles=%7B7220A741-0BCB-47E8-BBDE-2553AE2407CB%7D&amp;RenderingIdentifier&amp;DynamicPlaceholderId=6"
+              s:ph="main"
+              s:ccb="Clear on publish" />
+            <r
+              uid="{387DF70C-DF36-4ED1-A5CF-BDB30632E13E}"
+              p:after="r[@uid='{C7C442EF-8141-4DEF-9C58-79358860F603}']"
+              s:ds="query:self::"
+              s:id="{6162223D-9EAA-490C-A628-DA2A76933DD4}"
+              s:par="Reset Caching Options&amp;GridParameters&amp;FieldNames=%7BF1EADE4E-8A96-4763-B011-700B7D94E9BF%7D&amp;Styles=%7B1A3163C3-C552-4BFA-ADC9-C7B3A0DC5BF4%7D&amp;RenderingIdentifier&amp;DynamicPlaceholderId=3&amp;CacheClearingBehavior=Clear%20on%20publish"
+              s:ph="main"
+              s:ccb="Clear on publish" />
+            <r
+              uid="{E601ADD1-417B-4CB6-8573-9D0B14FB59AD}"
+              p:after="r[@uid='{387DF70C-DF36-4ED1-A5CF-BDB30632E13E}']"
+              s:ds="query:self::"
+              s:id="{602A987A-4475-4006-829F-08F594C25823}"
+              s:par="Reset Caching Options&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames=%7B3CAC673A-6567-4C74-ABFB-B7F4E284E43E%7D&amp;Styles=%7B315B64DC-91B7-4C7F-ABD4-C970DD2EE20D%7D%7C%7B75934B44-ADAE-4A14-AE53-87D3B8477099%7D%7C%7BCCE06C82-2B22-4EFF-A3B2-98C53C5DA51A%7D%7C%7B97AA508A-1055-49DC-AF11-AB8153C3919F%7D%7C%7B5FEBF177-B276-4769-854B-0271F03BE230%7D&amp;RenderingIdentifier&amp;DynamicPlaceholderId=4"
+              s:ph="main"
+              s:ccb="Clear on publish" />
+            <r
+              uid="{2C9FABFD-B52B-4A35-B6CA-60BEC1FA8B07}"
+              p:after="*[1=2]"
+              s:ds="query:self::"
+              s:id="{0A45D795-D8C1-4111-B485-1C25541424B3}"
+              s:par="Reset Caching Options&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames=%7B152FC279-573A-49D4-BD25-782AEC98F926%7D&amp;Styles=%7B97AA508A-1055-49DC-AF11-AB8153C3919F%7D%7C%7B1A3163C3-C552-4BFA-ADC9-C7B3A0DC5BF4%7D&amp;RenderingIdentifier&amp;DynamicPlaceholderId=5&amp;CacheClearingBehavior=Clear%20on%20publish"
+              s:ph="main"
+              s:ccb="Clear on publish" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211111T064545Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4c2f221f-9426-45ed-9eeb-c79bb3169565"
+      Hint: StickyNotes
+      Value: |
+        {"items":[]}
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d2c5f136-4be7-4ba9-ac25-3c5552a05432"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: "20240229T102206:638447989262135834Z"
+- Language: "fr-FR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{C4E820E0-6DC5-4816-AA4A-7B8EE986FCA3}"
+              p:before="*"
+              s:ds="query:self::"
+              s:id="{6F646C2F-8611-4D9A-ACCC-847F6A2F2520}"
+              s:par="Reset Caching Options&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames=%7B05E287C9-F37D-4FB7-B999-E32EAF5E80A6%7D&amp;Styles=%7BBCA4BC05-3D3B-4BFE-9DB0-1B287AC3B77B%7D&amp;RenderingIdentifier&amp;DynamicPlaceholderId=1"
+              s:ph="/main/container-6"
+              s:ccb="Clear on publish" />
+            <r
+              uid="{C7C442EF-8141-4DEF-9C58-79358860F603}"
+              p:after="r[@uid='{C4E820E0-6DC5-4816-AA4A-7B8EE986FCA3}']"
+              s:ds=""
+              s:id="{896A2C68-1362-4E88-8BA0-1805AE6D4837}"
+              s:par="Reset Caching Options&amp;GridParameters&amp;BackgroundImage&amp;Styles=%7B7220A741-0BCB-47E8-BBDE-2553AE2407CB%7D&amp;RenderingIdentifier&amp;DynamicPlaceholderId=6"
+              s:ph="main"
+              s:ccb="Clear on publish" />
+            <r
+              uid="{387DF70C-DF36-4ED1-A5CF-BDB30632E13E}"
+              p:after="r[@uid='{C7C442EF-8141-4DEF-9C58-79358860F603}']"
+              s:ds="query:self::"
+              s:id="{6162223D-9EAA-490C-A628-DA2A76933DD4}"
+              s:par="Reset Caching Options&amp;GridParameters&amp;FieldNames=%7BF1EADE4E-8A96-4763-B011-700B7D94E9BF%7D&amp;Styles=%7B1A3163C3-C552-4BFA-ADC9-C7B3A0DC5BF4%7D&amp;RenderingIdentifier&amp;DynamicPlaceholderId=3&amp;CacheClearingBehavior=Clear%20on%20publish"
+              s:ph="main"
+              s:ccb="Clear on publish" />
+            <r
+              uid="{E601ADD1-417B-4CB6-8573-9D0B14FB59AD}"
+              p:after="r[@uid='{387DF70C-DF36-4ED1-A5CF-BDB30632E13E}']"
+              s:ds="query:self::"
+              s:id="{602A987A-4475-4006-829F-08F594C25823}"
+              s:par="Reset Caching Options&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames=%7B3CAC673A-6567-4C74-ABFB-B7F4E284E43E%7D&amp;Styles=%7B315B64DC-91B7-4C7F-ABD4-C970DD2EE20D%7D%7C%7B75934B44-ADAE-4A14-AE53-87D3B8477099%7D%7C%7BCCE06C82-2B22-4EFF-A3B2-98C53C5DA51A%7D%7C%7B97AA508A-1055-49DC-AF11-AB8153C3919F%7D%7C%7B5FEBF177-B276-4769-854B-0271F03BE230%7D&amp;RenderingIdentifier&amp;DynamicPlaceholderId=4"
+              s:ph="main"
+              s:ccb="Clear on publish" />
+            <r
+              uid="{2C9FABFD-B52B-4A35-B6CA-60BEC1FA8B07}"
+              p:after="*[1=2]"
+              s:ds="query:self::"
+              s:id="{0A45D795-D8C1-4111-B485-1C25541424B3}"
+              s:par="Reset Caching Options&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames=%7B152FC279-573A-49D4-BD25-782AEC98F926%7D&amp;Styles=%7B97AA508A-1055-49DC-AF11-AB8153C3919F%7D%7C%7B1A3163C3-C552-4BFA-ADC9-C7B3A0DC5BF4%7D&amp;RenderingIdentifier&amp;DynamicPlaceholderId=5&amp;CacheClearingBehavior=Clear%20on%20publish"
+              s:ph="main"
+              s:ccb="Clear on publish" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211111T064545Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4c2f221f-9426-45ed-9eeb-c79bb3169565"
+      Hint: StickyNotes
+      Value: |
+        {"items":[]}
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b7f6f230-2c38-4475-86e6-94794f670469"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: "20240229T102206:638447989264420799Z"

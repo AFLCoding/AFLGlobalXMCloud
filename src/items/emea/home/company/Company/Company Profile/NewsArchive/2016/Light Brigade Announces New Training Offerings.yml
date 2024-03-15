@@ -1,0 +1,341 @@
+﻿---
+ID: "7b685502-0089-49fc-ba3e-eeca3415ba9f"
+Parent: "39ab7594-eea8-41d8-b8d5-5c325246339c"
+Template: "f36e821e-bb98-44dc-966d-e92a0e033cc7"
+Path: "/sitecore/content/AFL-Global/EMEA/Home/Company/Company Profile/NewsArchive/2016/Light Brigade Announces New Training Offerings"
+SharedFields:
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{3A84BAC9-C1BD-4809-A12C-28EB44E25329}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{DAE7C21D-4D3B-4257-A95C-9104CD8AF409}"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: 
+Languages:
+- Language: "de-DE"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{5AC5FAFA-68AE-436E-89BB-35E86DB6A5C2}"
+              p:after="*[1=2]"
+              s:ds="{E35A0AFC-DB3F-401E-AC32-DFFE989BB81C}"
+              s:id="{43C5D426-A6F6-4716-BEAF-F82602D2277B}"
+              s:par="Reset Caching Options&amp;GridParameters&amp;FieldNames=%7BE4BC3964-5235-4FE7-A863-76777C39CFAE%7D&amp;Styles&amp;RenderingIdentifier&amp;DynamicPlaceholderId=1"
+              s:ph="main"
+              s:ccb="Clear on publish" />
+          </d>
+        </r>
+    - ID: "228f9517-e120-4014-b2c7-df0ac467a349"
+      Hint: ContentTitle
+      Value: Light Brigade Announces New Training Offerings
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220111T082326Z
+    - ID: "3688d7df-2feb-43a4-ab8d-410e5f70a676"
+      Hint: ContentDescription
+      Value: |
+        Tukwila, WA – <a href="http://www.lightbrigade.com/">Light Brigade</a>, a leading training and education company, is offering three new training opportunities beginning mid-April.<br />
+         <br />
+        High-speed Fiber Optic Systems Training DVD – this educational DVD is updated with material covering Optical Signal-to-Noise Ratio and Optical Amplifiers. Additionally, it is reorganized to address high speed system topics. This DVD also includes information on advanced modulation techniques, coherent detection, forward error corrections, transmission systems, WDM systems and more. Available April 15.<br />
+        <br />
+        Amp Mobile Learning Tool – Getting useful and easy to access technical information in the hands of fiber optic technicians is now possible with Amp. When a field technician needs refresher information on how to handle something in the field, Amp will provide instructions and information at their fingertips. The Amp pilot program is now available and the final product will be available June 1. <br />
+        <br />
+        Spanish Bilingual Fiber Optic Training Class – Light Brigade is offering its first Spanish/English bilingual fiber optic training class in Puerto Rico, May 3-6.<br />
+         <br />
+        Learn more about Light Brigade at <a href="http://www.lightbrigade.com/">www.lightbrigade.com</a>.<br />
+         <br />
+        About Light Brigade<br />
+        Founded in 1987, The Light Brigade has trained over 50,000 people worldwide in its instructor led public and custom classes on fiber optic design, maintenance and testing, including advanced topics such as FTTx, DWDM and PMD/CD. The company also produces online courses and training DVDs that provide focus on specific fiber related topics. For more information about Light Brigade, visit <a href="http://www.lightbrigade.com/">www.lightbrigade.com</a>.<br />
+         <br />
+        Contact<br />
+        Rick Atchison<br />
+        Light Brigade<br />
+        Marketing Specialist<br />
+        206.575-0404 ext. 200<br />
+        <a href="mailto:ratchison@lightbrigade.com">ratchison@lightbrigade.com</a>
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Light Brigade Announces New Training Offerings
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\matt
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\tanishka
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: Light Brigade Announces New Training Offerings
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: Light Brigade Announces New Training Offerings
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a835aa74-cab0-4f44-b599-1bfd31deca54"
+    - ID: "a6eaffd5-fc3e-41b4-93b3-f1721fcf2300"
+      Hint: ContentPublishedDate
+      Value: 20160405T183000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T100701Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{5AC5FAFA-68AE-436E-89BB-35E86DB6A5C2}"
+              p:after="*[1=2]"
+              s:ds="{E35A0AFC-DB3F-401E-AC32-DFFE989BB81C}"
+              s:id="{43C5D426-A6F6-4716-BEAF-F82602D2277B}"
+              s:par="Reset Caching Options&amp;GridParameters&amp;FieldNames=%7BE4BC3964-5235-4FE7-A863-76777C39CFAE%7D&amp;Styles&amp;RenderingIdentifier&amp;DynamicPlaceholderId=1"
+              s:ph="main"
+              s:ccb="Clear on publish" />
+          </d>
+        </r>
+    - ID: "228f9517-e120-4014-b2c7-df0ac467a349"
+      Hint: ContentTitle
+      Value: Light Brigade Announces New Training Offerings
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220111T082326Z
+    - ID: "3688d7df-2feb-43a4-ab8d-410e5f70a676"
+      Hint: ContentDescription
+      Value: |
+        Tukwila, WA &ndash;&nbsp;<a href="http://www.lightbrigade.com/">Light Brigade</a>, a leading training and education company, is offering three new training opportunities beginning mid-April.<br />
+        &nbsp;<br />
+        High-speed Fiber Optic Systems Training DVD &ndash; this educational DVD is updated with material covering Optical Signal-to-Noise Ratio and Optical Amplifiers. Additionally, it is reorganized to address high speed system topics. This DVD also includes information on advanced modulation techniques, coherent detection, forward error corrections, transmission systems, WDM systems and more. Available April 15.<br />
+        <br />
+        Amp Mobile Learning Tool &ndash; Getting useful and easy to access technical information in the hands of fiber optic technicians is now possible with Amp. When a field technician needs refresher information on how to handle something in the field, Amp will provide instructions and information at their fingertips. The Amp pilot program is now available and the final product will be available June 1.&nbsp;<br />
+        <br />
+        Spanish Bilingual Fiber Optic Training Class &ndash; Light Brigade is offering its first Spanish/English bilingual fiber optic training class in Puerto Rico, May 3-6.<br />
+        &nbsp;<br />
+        Learn more about Light Brigade at&nbsp;<a href="http://www.lightbrigade.com/">www.lightbrigade.com</a>.<br />
+        &nbsp;<br />
+        About Light Brigade<br />
+        Founded in 1987, The Light Brigade has trained over 50,000 people worldwide in its instructor led public and custom classes on fiber optic design, maintenance and testing, including advanced topics such as FTTx, DWDM and PMD/CD. The company also produces&nbsp;online courses and training DVDs that provide focus on specific fiber related topics. For more information about Light Brigade, visit&nbsp;<a href="http://www.lightbrigade.com/">www.lightbrigade.com</a>.<br />
+        &nbsp;<br />
+        Contact<br />
+        Rick Atchison<br />
+        Light Brigade<br />
+        Marketing Specialist<br />
+        206.575-0404 ext. 200<br />
+        <a href="mailto:ratchison@lightbrigade.com">ratchison@lightbrigade.com</a>
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Light Brigade Announces New Training Offerings
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\tanishka
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\tanishka
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: Light Brigade Announces New Training Offerings
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: Light Brigade Announces New Training Offerings
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "892f4c2e-8bcf-4f35-a20c-0a600c9eedad"
+    - ID: "a6eaffd5-fc3e-41b4-93b3-f1721fcf2300"
+      Hint: ContentPublishedDate
+      Value: 20160405T183000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T100700Z
+- Language: "es-ES"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{5AC5FAFA-68AE-436E-89BB-35E86DB6A5C2}"
+              p:after="*[1=2]"
+              s:ds="{E35A0AFC-DB3F-401E-AC32-DFFE989BB81C}"
+              s:id="{43C5D426-A6F6-4716-BEAF-F82602D2277B}"
+              s:par="Reset Caching Options&amp;GridParameters&amp;FieldNames=%7BE4BC3964-5235-4FE7-A863-76777C39CFAE%7D&amp;Styles&amp;RenderingIdentifier&amp;DynamicPlaceholderId=1"
+              s:ph="main"
+              s:ccb="Clear on publish" />
+          </d>
+        </r>
+    - ID: "228f9517-e120-4014-b2c7-df0ac467a349"
+      Hint: ContentTitle
+      Value: Light Brigade Announces New Training Offerings
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220111T082326Z
+    - ID: "3688d7df-2feb-43a4-ab8d-410e5f70a676"
+      Hint: ContentDescription
+      Value: |
+        Tukwila, WA – <a href="http://www.lightbrigade.com/">Light Brigade</a>, a leading training and education company, is offering three new training opportunities beginning mid-April.<br />
+         <br />
+        High-speed Fiber Optic Systems Training DVD – this educational DVD is updated with material covering Optical Signal-to-Noise Ratio and Optical Amplifiers. Additionally, it is reorganized to address high speed system topics. This DVD also includes information on advanced modulation techniques, coherent detection, forward error corrections, transmission systems, WDM systems and more. Available April 15.<br />
+        <br />
+        Amp Mobile Learning Tool – Getting useful and easy to access technical information in the hands of fiber optic technicians is now possible with Amp. When a field technician needs refresher information on how to handle something in the field, Amp will provide instructions and information at their fingertips. The Amp pilot program is now available and the final product will be available June 1. <br />
+        <br />
+        Spanish Bilingual Fiber Optic Training Class – Light Brigade is offering its first Spanish/English bilingual fiber optic training class in Puerto Rico, May 3-6.<br />
+         <br />
+        Learn more about Light Brigade at <a href="http://www.lightbrigade.com/">www.lightbrigade.com</a>.<br />
+         <br />
+        About Light Brigade<br />
+        Founded in 1987, The Light Brigade has trained over 50,000 people worldwide in its instructor led public and custom classes on fiber optic design, maintenance and testing, including advanced topics such as FTTx, DWDM and PMD/CD. The company also produces online courses and training DVDs that provide focus on specific fiber related topics. For more information about Light Brigade, visit <a href="http://www.lightbrigade.com/">www.lightbrigade.com</a>.<br />
+         <br />
+        Contact<br />
+        Rick Atchison<br />
+        Light Brigade<br />
+        Marketing Specialist<br />
+        206.575-0404 ext. 200<br />
+        <a href="mailto:ratchison@lightbrigade.com">ratchison@lightbrigade.com</a>
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Light Brigade Announces New Training Offerings
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\matt
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\tanishka
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: Light Brigade Announces New Training Offerings
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: Light Brigade Announces New Training Offerings
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "312cfb8b-315a-4a40-b180-a62b70b25b3d"
+    - ID: "a6eaffd5-fc3e-41b4-93b3-f1721fcf2300"
+      Hint: ContentPublishedDate
+      Value: 20160405T183000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T100701Z
+- Language: "fr-FR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{5AC5FAFA-68AE-436E-89BB-35E86DB6A5C2}"
+              p:after="*[1=2]"
+              s:ds="{E35A0AFC-DB3F-401E-AC32-DFFE989BB81C}"
+              s:id="{43C5D426-A6F6-4716-BEAF-F82602D2277B}"
+              s:par="Reset Caching Options&amp;GridParameters&amp;FieldNames=%7BE4BC3964-5235-4FE7-A863-76777C39CFAE%7D&amp;Styles&amp;RenderingIdentifier&amp;DynamicPlaceholderId=1"
+              s:ph="main"
+              s:ccb="Clear on publish" />
+          </d>
+        </r>
+    - ID: "228f9517-e120-4014-b2c7-df0ac467a349"
+      Hint: ContentTitle
+      Value: Light Brigade Announces New Training Offerings
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220111T082326Z
+    - ID: "3688d7df-2feb-43a4-ab8d-410e5f70a676"
+      Hint: ContentDescription
+      Value: |
+        Tukwila, WA – <a href="http://www.lightbrigade.com/">Light Brigade</a>, a leading training and education company, is offering three new training opportunities beginning mid-April.<br />
+         <br />
+        High-speed Fiber Optic Systems Training DVD – this educational DVD is updated with material covering Optical Signal-to-Noise Ratio and Optical Amplifiers. Additionally, it is reorganized to address high speed system topics. This DVD also includes information on advanced modulation techniques, coherent detection, forward error corrections, transmission systems, WDM systems and more. Available April 15.<br />
+        <br />
+        Amp Mobile Learning Tool – Getting useful and easy to access technical information in the hands of fiber optic technicians is now possible with Amp. When a field technician needs refresher information on how to handle something in the field, Amp will provide instructions and information at their fingertips. The Amp pilot program is now available and the final product will be available June 1. <br />
+        <br />
+        Spanish Bilingual Fiber Optic Training Class – Light Brigade is offering its first Spanish/English bilingual fiber optic training class in Puerto Rico, May 3-6.<br />
+         <br />
+        Learn more about Light Brigade at <a href="http://www.lightbrigade.com/">www.lightbrigade.com</a>.<br />
+         <br />
+        About Light Brigade<br />
+        Founded in 1987, The Light Brigade has trained over 50,000 people worldwide in its instructor led public and custom classes on fiber optic design, maintenance and testing, including advanced topics such as FTTx, DWDM and PMD/CD. The company also produces online courses and training DVDs that provide focus on specific fiber related topics. For more information about Light Brigade, visit <a href="http://www.lightbrigade.com/">www.lightbrigade.com</a>.<br />
+         <br />
+        Contact<br />
+        Rick Atchison<br />
+        Light Brigade<br />
+        Marketing Specialist<br />
+        206.575-0404 ext. 200<br />
+        <a href="mailto:ratchison@lightbrigade.com">ratchison@lightbrigade.com</a>
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Light Brigade Announces New Training Offerings
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\matt
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\tanishka
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: Light Brigade Announces New Training Offerings
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: Light Brigade Announces New Training Offerings
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c1947553-45c1-4cb4-9882-c9c8a8524471"
+    - ID: "a6eaffd5-fc3e-41b4-93b3-f1721fcf2300"
+      Hint: ContentPublishedDate
+      Value: 20160405T183000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T100701Z

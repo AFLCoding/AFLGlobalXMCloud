@@ -1,0 +1,187 @@
+﻿---
+ID: "6fd82bc1-ce34-4a4d-a2d1-34a90a375745"
+Parent: "bf27cca3-cb4b-4a41-a391-d79492c20e9d"
+Template: "58f6f985-9278-4625-b289-f5e86e840b79"
+Path: "/sitecore/content/AFL-Global/EMEA/Data/AFL-Hero Folder/Hero Items/Service Items/Service3"
+Languages:
+- Language: "de-DE"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "01221109-d467-43e1-b8a8-0730663a2139"
+      Hint: HeroLink
+      Value: |
+        <link text="MEHR ERFAHREN" anchor="" linktype="internal" class="" title=""  querystring="" id="{2BDF3D0B-6725-43A7-8946-4A66C3A0619A}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211101T140630Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a023f56c-df45-4171-91ef-d9615e64a292"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rob
+    - ID: "bdc73b13-efa2-4084-a5be-a2d46aa0a74c"
+      Hint: Hero Title
+      Value: "Test- und Inspektionsgeräte"
+    - ID: "c87bc2e3-f30b-4991-972b-a811e360ed64"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="187631" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/187631/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/f94bad7b31a74d7bbe3cc8622fe878bc?v=0d7a0d90" stylelabs-content-type="Image" alt="header-TandI-fs300.png" height="369" width="954" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220405T191245Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "01221109-d467-43e1-b8a8-0730663a2139"
+      Hint: HeroLink
+      Value: |
+        <link text="LEARN MORE" anchor="" linktype="internal" class="" title=""  querystring="" id="{2BDF3D0B-6725-43A7-8946-4A66C3A0619A}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211101T140630Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5a5726fb-21dd-4ac6-887e-c31ccb76e853"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rob
+    - ID: "bdc73b13-efa2-4084-a5be-a2d46aa0a74c"
+      Hint: Hero Title
+      Value: Test and Inspection Equipment
+    - ID: "c87bc2e3-f30b-4991-972b-a811e360ed64"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="187631" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/187631/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/f94bad7b31a74d7bbe3cc8622fe878bc?v=97ada065" stylelabs-content-type="Image" alt="header-TandI-fs300.png" height="369" width="954" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220405T191846Z
+- Language: "es-ES"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "01221109-d467-43e1-b8a8-0730663a2139"
+      Hint: HeroLink
+      Value: |
+        <link id="{67697A36-EE37-4C21-A1F0-09672463F0E6}" querystring="" target="|Custom" text="LEARN MORE" anchor="" title="" class="" url="/AFL-Global/AMERICAS/Home/Products/Test and Inspection" linktype="internal" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211101T140630Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "95c4abef-48c6-4d23-a976-577caf730f7e"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahesh
+    - ID: "bdc73b13-efa2-4084-a5be-a2d46aa0a74c"
+      Hint: Hero Title
+      Value: Test and Inspection Equipment
+    - ID: "c87bc2e3-f30b-4991-972b-a811e360ed64"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image mediaid="{B65221F9-D99A-4E91-9160-B18ECD71EAB6}" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220208T084326Z
+  - Version: 2
+    Fields:
+    - ID: "01221109-d467-43e1-b8a8-0730663a2139"
+      Hint: HeroLink
+      Value: |
+        <link text="MÁS INFORMACIÓN" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{2BDF3D0B-6725-43A7-8946-4A66C3A0619A}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211101T140630Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "fc3d5ccb-d382-40a9-9f0b-6ee7e413aab8"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rob
+    - ID: "bdc73b13-efa2-4084-a5be-a2d46aa0a74c"
+      Hint: Hero Title
+      Value: Equipos para pruebas e inspecciones
+    - ID: "c87bc2e3-f30b-4991-972b-a811e360ed64"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="187631" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/187631/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/f94bad7b31a74d7bbe3cc8622fe878bc?v=fd5b6c8c" stylelabs-content-type="Image" alt="header-TandI-fs300.png" height="369" width="954" />
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220405T191311Z
+- Language: "fr-FR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "01221109-d467-43e1-b8a8-0730663a2139"
+      Hint: HeroLink
+      Value: |
+        <link text="EN SAVOIR PLUS" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{2BDF3D0B-6725-43A7-8946-4A66C3A0619A}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211101T140630Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9c81c0be-9687-4ab8-85ed-c184ab4cf3e4"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rob
+    - ID: "bdc73b13-efa2-4084-a5be-a2d46aa0a74c"
+      Hint: Hero Title
+      Value: Équipement de test et d'inspection
+    - ID: "c87bc2e3-f30b-4991-972b-a811e360ed64"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="187631" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/187631/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/f94bad7b31a74d7bbe3cc8622fe878bc?v=8b04646e" stylelabs-content-type="Image" alt="header-TandI-fs300.png" height="369" width="954" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220405T191334Z

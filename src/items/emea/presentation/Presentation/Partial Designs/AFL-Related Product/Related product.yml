@@ -1,0 +1,227 @@
+﻿---
+ID: "1581bc98-9b4e-406d-ba72-80af43e2c629"
+Parent: "9def03f2-1e7e-40a8-b15c-312649af15a9"
+Template: "8136f903-5eea-4289-9b44-67b469a969ea"
+Path: "/sitecore/content/AFL-Global/EMEA/Presentation/Partial Designs/AFL-Related Product/Related product"
+SharedFields:
+- ID: "55faae90-3bba-4f7f-96fe-13c3f40055ff"
+  Hint: Signature
+  Value: "related-product"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{DAE7C21D-4D3B-4257-A95C-9104CD8AF409}"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{AB8FA7EA-E588-4D9D-82FC-B596EB776DC0}"
+          s:ds="{549D8293-34E7-4B85-8D25-F8A06556A904}"
+          s:id="{020A92BA-5D27-4E60-8E8A-EFDDC535ACBD}"
+          s:par="SourceType&amp;Reset Caching Options&amp;ListSignature&amp;PageSize&amp;Offset&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames=%7BDB67C618-89EB-4B58-AF00-07FEEE45BA12%7D&amp;Styles=%7B3913A839-8657-4572-AA31-5CD22ACE8252%7D%7C%7B03E20E52-F61B-4D2A-8F46-23D53754E26F%7D%7C%7B31CF3714-16AA-4AD6-B6B8-FF07CF3EAE23%7D%7C%7B97AA508A-1055-49DC-AF11-AB8153C3919F%7D%7C%7B7F53508C-4DE3-40DD-AEE1-143E71530101%7D&amp;RenderingIdentifier&amp;DynamicPlaceholderId=1"
+          s:ph="main"
+          s:ccb="Clear on publish" />
+      </d>
+    </r>
+Languages:
+- Language: "de-DE"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{AB8FA7EA-E588-4D9D-82FC-B596EB776DC0}"
+              s:ds="{549D8293-34E7-4B85-8D25-F8A06556A904}"
+              s:id="{020A92BA-5D27-4E60-8E8A-EFDDC535ACBD}"
+              s:par="SourceType&amp;Reset Caching Options&amp;ListSignature&amp;PageSize&amp;Offset&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames=%7BDB67C618-89EB-4B58-AF00-07FEEE45BA12%7D&amp;Styles=%7B3913A839-8657-4572-AA31-5CD22ACE8252%7D%7C%7B03E20E52-F61B-4D2A-8F46-23D53754E26F%7D%7C%7B31CF3714-16AA-4AD6-B6B8-FF07CF3EAE23%7D%7C%7B97AA508A-1055-49DC-AF11-AB8153C3919F%7D%7C%7B7F53508C-4DE3-40DD-AEE1-143E71530101%7D&amp;RenderingIdentifier&amp;DynamicPlaceholderId=1"
+              s:ph="main"
+              s:ccb="Clear on publish" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211125T144206Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "cb5e1a1d-d2fe-4965-994e-c69d8ca76778"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahesh
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220314T115625Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211125T144206Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b58bbccc-2079-4b1b-a3cc-13fc2992623d"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahesh
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220329T102618Z
+- Language: "es-ES"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{AB8FA7EA-E588-4D9D-82FC-B596EB776DC0}"
+              s:ds="{549D8293-34E7-4B85-8D25-F8A06556A904}"
+              s:id="{020A92BA-5D27-4E60-8E8A-EFDDC535ACBD}"
+              s:par="SourceType&amp;Reset Caching Options&amp;ListSignature&amp;PageSize&amp;Offset&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames=%7BDB67C618-89EB-4B58-AF00-07FEEE45BA12%7D&amp;Styles=%7B3913A839-8657-4572-AA31-5CD22ACE8252%7D%7C%7B03E20E52-F61B-4D2A-8F46-23D53754E26F%7D%7C%7B31CF3714-16AA-4AD6-B6B8-FF07CF3EAE23%7D%7C%7B97AA508A-1055-49DC-AF11-AB8153C3919F%7D%7C%7B7F53508C-4DE3-40DD-AEE1-143E71530101%7D&amp;RenderingIdentifier&amp;DynamicPlaceholderId=1"
+              s:ph="main"
+              s:ccb="Clear on publish" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211125T144206Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "21b1372f-7cb8-4627-876b-a6be02326aef"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahesh
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220314T115624Z
+  - Version: 2
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{AB8FA7EA-E588-4D9D-82FC-B596EB776DC0}"
+              s:ds="{549D8293-34E7-4B85-8D25-F8A06556A904}"
+              s:id="{020A92BA-5D27-4E60-8E8A-EFDDC535ACBD}"
+              s:par="SourceType&amp;Reset Caching Options&amp;ListSignature&amp;PageSize&amp;Offset&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames=%7BDB67C618-89EB-4B58-AF00-07FEEE45BA12%7D&amp;Styles=%7B3913A839-8657-4572-AA31-5CD22ACE8252%7D%7C%7B03E20E52-F61B-4D2A-8F46-23D53754E26F%7D%7C%7B31CF3714-16AA-4AD6-B6B8-FF07CF3EAE23%7D%7C%7B97AA508A-1055-49DC-AF11-AB8153C3919F%7D%7C%7B7F53508C-4DE3-40DD-AEE1-143E71530101%7D&amp;RenderingIdentifier&amp;DynamicPlaceholderId=1"
+              s:ph="main"
+              s:ccb="Clear on publish" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211125T144206Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2cde73bc-cc5d-4a73-bdf4-755374e10d30"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahesh
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220314T115625Z
+- Language: "fr-FR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{AB8FA7EA-E588-4D9D-82FC-B596EB776DC0}"
+              s:ds="{549D8293-34E7-4B85-8D25-F8A06556A904}"
+              s:id="{020A92BA-5D27-4E60-8E8A-EFDDC535ACBD}"
+              s:par="SourceType&amp;Reset Caching Options&amp;ListSignature&amp;PageSize&amp;Offset&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames=%7BDB67C618-89EB-4B58-AF00-07FEEE45BA12%7D&amp;Styles=%7B3913A839-8657-4572-AA31-5CD22ACE8252%7D%7C%7B03E20E52-F61B-4D2A-8F46-23D53754E26F%7D%7C%7B31CF3714-16AA-4AD6-B6B8-FF07CF3EAE23%7D%7C%7B97AA508A-1055-49DC-AF11-AB8153C3919F%7D%7C%7B7F53508C-4DE3-40DD-AEE1-143E71530101%7D&amp;RenderingIdentifier&amp;DynamicPlaceholderId=1"
+              s:ph="main"
+              s:ccb="Clear on publish" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211125T144206Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b81d7380-c63c-411c-b98c-e8cff21912a1"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahesh
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220314T115907Z

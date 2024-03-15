@@ -1,0 +1,662 @@
+﻿---
+ID: "2ff35916-c4e4-4803-af7f-f40002aa7264"
+Parent: "6bffc019-747a-4354-bee5-f032c1d82f8f"
+Template: "bf61de11-b78f-48ea-aaa4-1d17f0d83824"
+Path: "/sitecore/content/AFL-Global/EMEA/Home/Resources/Product Related Materials/Quick-Reference-Guides"
+SharedFields:
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{9B9150CA-F788-45F7-B378-77F936EC878B}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{DAE7C21D-4D3B-4257-A95C-9104CD8AF409}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 600
+- ID: "db51d4e9-c24d-4670-af0e-62c8aa08e2b6"
+  Hint: LocalData
+  Value: "{E4CAA349-A578-490A-871D-F8AD381D0966}"
+Languages:
+- Language: "de-DE"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{9E44BE5A-3919-48BF-A580-227A37352172}"
+              p:before="*"
+              s:ds="local:/Data/HTML Code 1"
+              s:id="{6DDA07A9-18D3-47A0-AB74-DF54956DD5F1}"
+              s:par="Reset Caching Options&amp;GridParameters={908E2BC6-C110-4ED7-AF39-7EEACBB31A34}&amp;Styles&amp;CacheClearingBehavior=Clear on publish&amp;RenderingIdentifier"
+              s:ph="/main/sxa-high-level-page/container-5" />
+            <r
+              uid="{458803E6-0F30-466C-9E79-91AA94185679}"
+              p:after="*[1=2]"
+              s:ds=""
+              s:id="{6DDA07A9-18D3-47A0-AB74-DF54956DD5F1}"
+              s:par="RenderingIdentifier&amp;Styles&amp;GridParameters=%7b908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7d&amp;CacheClearingBehavior=Clear+on+publish&amp;Reset Caching Options"
+              s:ph="/main/sxa-afl-full-width/container-1" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211227T091009Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Quick Reference Guides
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: "AFL Quick Reference Guides - All of AFL's product Quick Reference Guides are available for easy download in PDF format."
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\archana
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: AFL's Quick Reference Guides in PDF format
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: Quick Reference Guides
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: Quick Reference Guides
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "43a40a76-f9b6-46c9-a112-120d9da7e314"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T095807Z
+    - ID: "e3bcfb9e-ac4a-4b80-9ad0-42cf5b48b078"
+      Hint: ProductDescription
+      Value: <h1>Quick Reference Guides</h1>
+    - ID: "fb72ff1d-6b1d-4970-916a-8162ff077e62"
+      Hint: ProcutItems
+      Value: |
+        {0F937EC5-1F21-452B-9A87-5865992E4632}
+        {DB4B8A46-000D-43F5-A948-5F7557A97BC4}
+        {2FB3DC9E-BB20-4A3A-B2D0-50E37124184F}
+        {CF8C3011-9F8B-431B-BC3B-A70B30011939}
+        {B7D1D0D2-50F9-4BE4-B545-5E9F2BF74C96}
+        {071ED3EC-6771-4F64-961C-D0CE2420C426}
+        {BC35214E-A1D9-4093-B0A7-52B32A9A782E}
+        {32C7298A-8CA1-4982-B106-A4AEA30282F9}
+        {0EBB1334-C22A-44BE-8594-14317D34BE91}
+        {CEAA9BE4-3009-48F7-94AA-399C56CC95DC}
+        {CBCA4CD1-62E4-4974-A2E7-347C4FCB3CC7}
+        {DFE78BD0-F932-49E7-B59E-67C93F4BAC69}
+        {0F10355A-52F1-4258-BB6A-B48DC49D2AC4}
+        {6F2A933B-216D-4F43-BDB4-05AA032C1E78}
+        {944174B7-C104-4F75-8B45-5F856C17D439}
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{9E44BE5A-3919-48BF-A580-227A37352172}"
+              p:before="*"
+              s:ds="local:/Data/HTML Code 1"
+              s:id="{6DDA07A9-18D3-47A0-AB74-DF54956DD5F1}"
+              s:par="Reset Caching Options&amp;GridParameters={908E2BC6-C110-4ED7-AF39-7EEACBB31A34}&amp;Styles&amp;CacheClearingBehavior=Clear on publish&amp;RenderingIdentifier"
+              s:ph="/main/sxa-high-level-page/container-5" />
+            <r
+              uid="{458803E6-0F30-466C-9E79-91AA94185679}"
+              p:after="*[1=2]"
+              s:ds=""
+              s:id="{6DDA07A9-18D3-47A0-AB74-DF54956DD5F1}"
+              s:par="RenderingIdentifier&amp;Styles&amp;GridParameters=%7b908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7d&amp;CacheClearingBehavior=Clear+on+publish&amp;Reset Caching Options"
+              s:ph="/main/sxa-afl-full-width/container-1" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211227T091009Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Quick Reference Guides
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\archana
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: "AFL Quick Reference Guides - All of AFL's product Quick Reference Guides are available for easy download in PDF format."
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <div class="container shadow">
+            <br />
+            <h1><strong>Quick Reference Guides</strong></h1>
+        
+            <div class="row">
+                <!--Start First row-->
+                <div class="col-md-4">
+                    <!--Starting card 1 -->
+                    <div class="row no-gutters">
+                        <div class="col-auto">
+                            <a href="https://afl-delivery.stylelabs.cloud/api/public/content/3339cad5c1934df2981aa800d8e970c3?v=7a05b317"><img class="border" src="https://afl-delivery.stylelabs.cloud/api/public/content/qrg-cleaning-solutions?v=a508a0d2" class="img-fluid" alt="" /></a>
+                        </div>
+                        <div class="col">
+                            <div class="card-block px-2">
+                                <h6 class="card-title"><strong>Cleaning and Inspection</strong></h6>
+        
+                                <a href="https://afl-delivery.stylelabs.cloud/api/public/content/3339cad5c1934df2981aa800d8e970c3?v=7a05b317" class="btn btn-primary">DOWNLOAD</a>
+                            </div>
+                        </div>
+                    </div>
+        
+                </div>
+        
+                <div class="col-md-4">
+                    <!-- Start card 3-->
+                    <div class="row no-gutters">
+                        <div class="col-auto">
+                            <a href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-QRG-Connector-Solutions?v=67d8bba0"><img class="border" src="https://afl-delivery.stylelabs.cloud/api/public/content/QRG-Connector-Solutions?v=4392f8c4" class="img-fluid" alt="" /></a>
+                        </div>
+                        <div class="col">
+                            <div class="card-block px-2">
+                                <h6 class="card-title"><strong>Connector Solutions</strong></h6>
+        
+                                <a href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-QRG-Connector-Solutions?v=67d8bba0" class="btn btn-primary">DOWNLOAD</a>
+                            </div>
+                        </div>
+                    </div>
+        
+                </div>
+        
+                <div class="col-md-4">
+                    <!--start card 1-->
+                    <div class="row no-gutters">
+                        <div class="col-auto">
+                            <a href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-Connector-Solutions-Ordering-Guide?v=0c5ad72f"><img class="border" src="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-OG-Connector-Solutions?v=0f477a6a" class="img-fluid" alt="" /></a>
+                        </div>
+                        <div class="col">
+                            <div class="card-block px-2">
+                                <h6 class="card-title"><strong>Connector Solutions Ordering Guide</strong></h6>
+        
+                                <a href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-Connector-Solutions-Ordering-Guide?v=0c5ad72f" class="btn btn-primary">DOWNLOAD</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!--End row 1-->
+        
+            <div class="row">
+                <!--Start row 2-->
+                
+                <div class="col-md-4">
+                    <!--start card 1-->
+                    <div class="row no-gutters">
+                        <div class="col-auto">
+                            <a href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-QRG-Fiber-Management?v=3c132326"><img class="border" src="https://afl-delivery.stylelabs.cloud/api/public/content/qrg-fiber-management?v=d6a355ba" class="img-fluid" alt="" /></a>
+                        </div>
+                        <div class="col">
+                            <div class="card-block px-2">
+                                <h6 class="card-title"><strong>Fiber Management</strong></h6>
+        
+                                <a href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-QRG-Fiber-Management?v=3c132326" class="btn btn-primary">DOWNLOAD</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!--End card 1-->
+                <div class="col-md-4">
+                    <!--Starting card 1 -->
+                    <div class="row no-gutters">
+                        <div class="col-auto">
+                            <a href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-QRG-Fiber-Optic-Cab?v=1c4fde8d"><img class="border" src="https://afl-delivery.stylelabs.cloud/api/public/content/QRG-Fiber-Optic-Cable?v=83738e1d" class="img-fluid" alt="" /></a>
+                        </div>
+                        <div class="col">
+                            <div class="card-block px-2">
+                                <h6 class="card-title"><strong>Fiber Optic Cable</strong></h6>
+        
+                                <a href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-QRG-Fiber-Optic-Cab?v=1c4fde8d1" class="btn btn-primary">DOWNLOAD</a>
+                            </div>
+                        </div>
+                    </div>
+        
+                </div>
+        
+                <div class="col-md-4">
+                    <!-- Start card 2  -->
+                    <div class="row no-gutters">
+                        <div class="col-auto">
+                            <a href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-QRG-Aerial-Fiber-Optic-Cable?v=ff7e6e1b"><img class="border" src="https://afl-delivery.stylelabs.cloud/api/public/content/QRG-Aerial-Cable?v=1d971c19" class="img-fluid" alt="" /></a>
+                        </div>
+                        <div class="col">
+                            <div class="card-block px-2">
+                                <h6 class="card-title"><strong>Fiber Optic Cable - Aerial</strong></h6>
+        
+                                <a href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-QRG-Aerial-Fiber-Optic-Cable?v=ff7e6e1b" class="btn btn-primary">DOWNLOAD</a>
+                            </div>
+                        </div>
+                    </div>
+        
+                </div><!-- End card 2  -->
+            </div>
+        
+        
+            <div class="row">
+                <!--Start 3 row-->
+                
+        
+        
+                <div class="col-md-4">
+                    <!-- Start card 3-->
+                    <div class="row no-gutters">
+                        <div class="col-auto">
+                            <a href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-QRG-Fiber-Termination.pdf?v=25d3a6d1"><img class="border" src="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-QRG-Fiber-Termination?v=41f4b012" class="img-fluid" alt="" /></a>
+                        </div>
+                        <div class="col">
+                            <div class="card-block px-2">
+                                <h6 class="card-title"><strong>Fiber Termination</strong></h6>
+        
+                                <a href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-QRG-Fiber-Termination.pdf?v=25d3a6d1" class="btn btn-primary">DOWNLOAD</a>
+                            </div>
+                        </div>
+                    </div>
+        
+                </div>
+        
+                <div class="col-md-4">
+                    <!--Starting card 1 -->
+                    <div class="row no-gutters">
+                        <div class="col-auto">
+                            <a href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-FOCIS-Inspection-Adapter-Tips?v=52ecb4fa"><img class="border" src="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-QRG-FOCIS-Inspection-Adapter-Tips?v=2949ce36" class="img-fluid" alt="" /></a>
+                        </div>
+                        <div class="col">
+                            <div class="card-block px-2">
+                                <h6 class="card-title"><strong>FOCIS Inspection Adapter Tips</strong></h6>
+        
+                                <a href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-FOCIS-Inspection-Adapter-Tips?v=52ecb4fa" class="btn btn-primary">DOWNLOAD</a>
+                            </div>
+                        </div>
+                    </div>
+        
+                </div>
+        
+                <div class="col-md-4">
+                    <!-- Start card 2  -->
+                    <div class="row no-gutters">
+                        <div class="col-auto">
+                            <a href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-QRG-Fusion-Splicing-Systems?v=58b12d06"><img class="border" src="https://afl-delivery.stylelabs.cloud/api/public/content/QRG-Splicers?v=7ab39254" class="img-fluid" alt="" /></a>
+                        </div>
+                        <div class="col">
+                            <div class="card-block px-2">
+                                <h6 class="card-title"><strong>Fusion Splicing</strong></h6>
+        
+                                <a href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-QRG-Fusion-Splicing-Systems?v=58b12d06" class="btn btn-primary">DOWNLOAD</a>
+                            </div>
+                        </div>
+                    </div>
+        
+                </div><!-- End card 2  -->
+            </div>
+            <!--End row 3-->
+        
+            
+        
+        
+        
+            <div class="row">
+                <!--Start 5  row-->
+                <div class="col-md-4">
+                    <!--Starting card 1 -->
+                    <div class="row no-gutters">
+                        <div class="col-auto">
+                            <a href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-QRG-Medical-Fiber-Optics?v=a9ff5962"><img class="border" src="https://afl-delivery.stylelabs.cloud/api/public/content/QRG-Medical-Fiber-Optics?v=2febb7a6" class="img-fluid" alt="" /></a>
+                        </div>
+                        <div class="col">
+                            <div class="card-block px-2">
+                                <h6 class="card-title"><strong>Medical Fiber Optics</strong></h6>
+        
+                                <a href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-QRG-Medical-Fiber-Optics?v=a9ff5962" class="btn btn-primary">DOWNLOAD</a>
+                            </div>
+                        </div>
+                    </div>
+        
+                </div>
+        
+                <div class="col-md-4">
+                    <!-- Start card 2  -->
+                    <div class="row no-gutters">
+                        <div class="col-auto">
+                            <a href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-QRG-Specialty-Fiber-Optic-Cable?v=8414bd68"><img class="border" src="https://afl-delivery.stylelabs.cloud/api/public/content/QRG-Specialty-FO-Cable?v=cb29b3fd" class="img-fluid" alt="" /></a>
+                        </div>
+                        <div class="col">
+                            <div class="card-block px-2">
+                                <h6 class="card-title"><strong>Specialty Fiber Optic Cable</strong></h6>
+        
+                                <a href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-QRG-Specialty-Fiber-Optic-Cable?v=8414bd68" class="btn btn-primary">DOWNLOAD</a>
+                            </div>
+                        </div>
+                    </div>
+        
+                </div><!-- End card 2  -->
+        
+        
+                <div class="col-md-4">
+                    <!-- Start card 3-->
+                    <div class="row no-gutters">
+                        <div class="col-auto">
+                            <a href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-QRG-Test-and-Inspection?v=22ce78a4"><img class="border" src="https://afl-delivery.stylelabs.cloud/api/public/content/qrg-test-inspection?v=522ebfb0" class="img-fluid" alt="" /></a>
+                        </div>
+                        <div class="col">
+                            <div class="card-block px-2">
+                                <h6 class="card-title"><strong>Test and Inspection</strong></h6>
+        
+                                <a href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-QRG-Test-and-Inspection?v=22ce78a4" class="btn btn-primary">DOWNLOAD</a>
+                            </div>
+                        </div>
+                    </div>
+        
+                </div>
+            </div>
+            <!--End row 5-->
+        </div>
+        <br />
+        <style>
+            img {
+                margin-right: 20px;
+                
+            }
+            
+            .border {
+                border: rgb(217, 217, 217) 1px solid;
+            }
+        
+            .container {
+                line-height: 20px;
+            }
+        
+            .col-md-4 {
+                margin-bottom: 10px;
+            }
+        
+            /* .btn a,
+            .btn-primary {
+                display: inline-block;
+                padding: 10px 40px 10px 25px;
+                border-radius: 12px;
+                line-height: 1;
+                background: #00c0f3;
+                border: 3px solid #fff;
+                color: #fff;
+                text-align: center;
+                text-transform: uppercase;
+                font-weight: 600;
+                letter-spacing: 1.2px;
+                text-decoration: none;
+                position: relative;
+                cursor: pointer;
+                padding-top: 12px !important;
+                padding-bottom: 8px !important;
+                vertical-align: middle;
+                align-items: center;
+            } */
+        
+            strong {
+                margin-left: 3px;
+                font-weight: bold;
+            }
+        
+            .shadow {
+                box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+            }
+        
+            h1 {
+                font-size: 2em;
+                margin: 0.67em 0;
+            }
+        </style>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\archana
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: AFL's Quick Reference Guides in PDF format
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: Quick Reference Guides
+    - ID: "628db04b-29a2-483b-a88c-b8fd9a5f2086"
+      Hint: HeroLink
+      Value: 
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: Quick Reference Guides
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3496f522-d81e-4be8-a13f-6920aa889f2b"
+    - ID: "93dc88f3-05e5-482d-9b9a-c859c8258a73"
+      Hint: HeroBackgroundImage
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T095806Z
+    - ID: "e3bcfb9e-ac4a-4b80-9ad0-42cf5b48b078"
+      Hint: ProductDescription
+      Value: <h1>Quick Reference Guides</h1>
+    - ID: "fb72ff1d-6b1d-4970-916a-8162ff077e62"
+      Hint: ProcutItems
+      Value: |
+        {0F937EC5-1F21-452B-9A87-5865992E4632}
+        {DB4B8A46-000D-43F5-A948-5F7557A97BC4}
+        {2FB3DC9E-BB20-4A3A-B2D0-50E37124184F}
+        {CF8C3011-9F8B-431B-BC3B-A70B30011939}
+        {B7D1D0D2-50F9-4BE4-B545-5E9F2BF74C96}
+        {071ED3EC-6771-4F64-961C-D0CE2420C426}
+        {BC35214E-A1D9-4093-B0A7-52B32A9A782E}
+        {32C7298A-8CA1-4982-B106-A4AEA30282F9}
+        {0EBB1334-C22A-44BE-8594-14317D34BE91}
+        {CEAA9BE4-3009-48F7-94AA-399C56CC95DC}
+        {CBCA4CD1-62E4-4974-A2E7-347C4FCB3CC7}
+        {DFE78BD0-F932-49E7-B59E-67C93F4BAC69}
+        {0F10355A-52F1-4258-BB6A-B48DC49D2AC4}
+        {6F2A933B-216D-4F43-BDB4-05AA032C1E78}
+        {944174B7-C104-4F75-8B45-5F856C17D439}
+- Language: "es-ES"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{9E44BE5A-3919-48BF-A580-227A37352172}"
+              p:before="*"
+              s:ds="local:/Data/HTML Code 1"
+              s:id="{6DDA07A9-18D3-47A0-AB74-DF54956DD5F1}"
+              s:par="Reset Caching Options&amp;GridParameters={908E2BC6-C110-4ED7-AF39-7EEACBB31A34}&amp;Styles&amp;CacheClearingBehavior=Clear on publish&amp;RenderingIdentifier"
+              s:ph="/main/sxa-high-level-page/container-5" />
+            <r
+              uid="{458803E6-0F30-466C-9E79-91AA94185679}"
+              p:after="*[1=2]"
+              s:ds=""
+              s:id="{6DDA07A9-18D3-47A0-AB74-DF54956DD5F1}"
+              s:par="RenderingIdentifier&amp;Styles&amp;GridParameters=%7b908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7d&amp;CacheClearingBehavior=Clear+on+publish&amp;Reset Caching Options"
+              s:ph="/main/sxa-afl-full-width/container-1" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211227T091009Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Quick Reference Guides
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: "AFL Quick Reference Guides - All of AFL's product Quick Reference Guides are available for easy download in PDF format."
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\archana
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: AFL's Quick Reference Guides in PDF format
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: Quick Reference Guides
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: Quick Reference Guides
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "93c7db66-3ca8-41cd-9282-fc5828637ee4"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T095807Z
+    - ID: "e3bcfb9e-ac4a-4b80-9ad0-42cf5b48b078"
+      Hint: ProductDescription
+      Value: <h1>Quick Reference Guides</h1>
+    - ID: "fb72ff1d-6b1d-4970-916a-8162ff077e62"
+      Hint: ProcutItems
+      Value: |
+        {0F937EC5-1F21-452B-9A87-5865992E4632}
+        {DB4B8A46-000D-43F5-A948-5F7557A97BC4}
+        {2FB3DC9E-BB20-4A3A-B2D0-50E37124184F}
+        {CF8C3011-9F8B-431B-BC3B-A70B30011939}
+        {B7D1D0D2-50F9-4BE4-B545-5E9F2BF74C96}
+        {071ED3EC-6771-4F64-961C-D0CE2420C426}
+        {BC35214E-A1D9-4093-B0A7-52B32A9A782E}
+        {32C7298A-8CA1-4982-B106-A4AEA30282F9}
+        {0EBB1334-C22A-44BE-8594-14317D34BE91}
+        {CEAA9BE4-3009-48F7-94AA-399C56CC95DC}
+        {CBCA4CD1-62E4-4974-A2E7-347C4FCB3CC7}
+        {DFE78BD0-F932-49E7-B59E-67C93F4BAC69}
+        {0F10355A-52F1-4258-BB6A-B48DC49D2AC4}
+        {6F2A933B-216D-4F43-BDB4-05AA032C1E78}
+        {944174B7-C104-4F75-8B45-5F856C17D439}
+- Language: "fr-FR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{9E44BE5A-3919-48BF-A580-227A37352172}"
+              p:before="*"
+              s:ds="local:/Data/HTML Code 1"
+              s:id="{6DDA07A9-18D3-47A0-AB74-DF54956DD5F1}"
+              s:par="Reset Caching Options&amp;GridParameters={908E2BC6-C110-4ED7-AF39-7EEACBB31A34}&amp;Styles&amp;CacheClearingBehavior=Clear on publish&amp;RenderingIdentifier"
+              s:ph="/main/sxa-high-level-page/container-5" />
+            <r
+              uid="{458803E6-0F30-466C-9E79-91AA94185679}"
+              p:after="*[1=2]"
+              s:ds=""
+              s:id="{6DDA07A9-18D3-47A0-AB74-DF54956DD5F1}"
+              s:par="RenderingIdentifier&amp;Styles&amp;GridParameters=%7b908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7d&amp;CacheClearingBehavior=Clear+on+publish&amp;Reset Caching Options"
+              s:ph="/main/sxa-afl-full-width/container-1" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211227T091009Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Quick Reference Guides
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: "AFL Quick Reference Guides - All of AFL's product Quick Reference Guides are available for easy download in PDF format."
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\archana
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: AFL's Quick Reference Guides in PDF format
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: Quick Reference Guides
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: Quick Reference Guides
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d18647a3-9656-481a-a430-54613716443b"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T095807Z
+    - ID: "e3bcfb9e-ac4a-4b80-9ad0-42cf5b48b078"
+      Hint: ProductDescription
+      Value: <h1>Quick Reference Guides</h1>
+    - ID: "fb72ff1d-6b1d-4970-916a-8162ff077e62"
+      Hint: ProcutItems
+      Value: |
+        {0F937EC5-1F21-452B-9A87-5865992E4632}
+        {DB4B8A46-000D-43F5-A948-5F7557A97BC4}
+        {2FB3DC9E-BB20-4A3A-B2D0-50E37124184F}
+        {CF8C3011-9F8B-431B-BC3B-A70B30011939}
+        {B7D1D0D2-50F9-4BE4-B545-5E9F2BF74C96}
+        {071ED3EC-6771-4F64-961C-D0CE2420C426}
+        {BC35214E-A1D9-4093-B0A7-52B32A9A782E}
+        {32C7298A-8CA1-4982-B106-A4AEA30282F9}
+        {0EBB1334-C22A-44BE-8594-14317D34BE91}
+        {CEAA9BE4-3009-48F7-94AA-399C56CC95DC}
+        {CBCA4CD1-62E4-4974-A2E7-347C4FCB3CC7}
+        {DFE78BD0-F932-49E7-B59E-67C93F4BAC69}
+        {0F10355A-52F1-4258-BB6A-B48DC49D2AC4}
+        {6F2A933B-216D-4F43-BDB4-05AA032C1E78}
+        {944174B7-C104-4F75-8B45-5F856C17D439}

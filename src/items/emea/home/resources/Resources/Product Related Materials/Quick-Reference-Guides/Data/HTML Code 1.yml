@@ -1,0 +1,1694 @@
+﻿---
+ID: "f72010f6-ca37-4b7e-9f75-9da10de07ecf"
+Parent: "e4caa349-a578-490a-871d-f8ad381d0966"
+Template: "2ad23d55-aecd-43dd-ae0d-72d2ebcba60f"
+Path: "/sitecore/content/AFL-Global/EMEA/Home/Resources/Product Related Materials/Quick-Reference-Guides/Data/HTML Code 1"
+Languages:
+- Language: "de-DE"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "24cce27c-05db-4473-a1ed-e69b1725ff1c"
+      Hint: HtmlCode
+      Value: |
+        <div class="container shadow">
+            <br />
+            <h1><strong>Quick Reference Guides</strong></h1>
+        
+            <div class="row">
+                <!--Start First row-->
+                <div class="col-md-4">
+                    <!--Starting card 1 -->
+                    <div class="row no-gutters">
+                        <div class="col-auto">
+                            <a href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-QRG-Cleaning?v=09c02da9"><img
+                                    src="https://afl-delivery.stylelabs.cloud/api/public/content/qrg-cleaning-solutions?v=a508a0d2"
+                                    class="img-fluid" alt=""></a>
+                        </div>
+                        <div class="col">
+                            <div class="card-block px-2">
+                                <h6 class="card-title"><strong>Cleaning and Inspection</strong></h6>
+        
+                                <a href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-QRG-Cleaning?v=09c02da9"
+                                    class="btn btn-primary">DOWNLOAD</a>
+                            </div>
+                        </div>
+                    </div>
+        
+                </div>
+        
+                <div class="col-md-4">
+                    <!-- Start card 2  -->
+                    <div class="row no-gutters">
+                        <div class="col-auto">
+                            <a
+                                href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-QRG-Conductor-Accessories?v=e7850528"><img
+                                    src="https://afl-delivery.stylelabs.cloud/api/public/content/QRG-Conductor-Accessories?v=78f911c9"
+                                    class="img-fluid" alt=""></a>
+                        </div>
+                        <div class="col">
+                            <div class="card-block px-2">
+                                <h6 class="card-title"><strong>Conductor Accessories</strong></h6>
+        
+                                <a href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-QRG-Conductor-Accessories?v=e7850528"
+                                    class="btn btn-primary">DOWNLOAD</a>
+                            </div>
+                        </div>
+                    </div>
+        
+                </div><!-- End card 2  -->
+        
+        
+                <div class="col-md-4">
+                    <!-- Start card 3-->
+                    <div class="row no-gutters">
+                        <div class="col-auto">
+                            <a
+                                href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-QRG-Connector-Solutions?v=67d8bba0"><img
+                                    src="https://afl-delivery.stylelabs.cloud/api/public/content/QRG-Connector-Solutions?v=4392f8c4"
+                                    class="img-fluid" alt=""></a>
+                        </div>
+                        <div class="col">
+                            <div class="card-block px-2">
+                                <h6 class="card-title"><strong>Connector Solutions</strong></h6>
+        
+                                <a href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-QRG-Connector-Solutions?v=67d8bba0"
+                                    class="btn btn-primary">DOWNLOAD</a>
+                            </div>
+                        </div>
+                    </div>
+        
+                </div>
+            </div>
+            <!--End row 1-->
+        
+            <div class="row">
+                <!--Start row 2-->
+                <div class="col-md-4">
+                    <!--start card 1-->
+                    <div class="row no-gutters">
+                        <div class="col-auto">
+                            <a
+                                href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-Connector-Solutions-Ordering-Guide?v=0c5ad72f"><img
+                                    src="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-OG-Connector-Solutions?v=0f477a6a"
+                                    class="img-fluid" alt=""></a>
+                        </div>
+                        <div class="col">
+                            <div class="card-block px-2">
+                                <h6 class="card-title"><strong>Connector Solutions Ordering Guide</strong></h6>
+        
+                                <a href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-Connector-Solutions-Ordering-Guide?v=0c5ad72f"
+                                    class="btn btn-primary">DOWNLOAD</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!--End card 1-->
+                <div class="col-md-4">
+                    <!--start card 1-->
+                    <div class="row no-gutters">
+                        <div class="col-auto">
+                            <a
+                                href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-Datacom-Solutions-for-Utilities?v=312527c9"><img
+                                    src="https://afl-delivery.stylelabs.cloud/api/public/content/QRG-Datacom-Solutions?v=9bc66484"
+                                    class="img-fluid" alt=""></a>
+                        </div>
+                        <div class="col">
+                            <div class="card-block px-2">
+                                <h6 class="card-title"><strong>Datacom Solutions for Utilities</strong></h6>
+        
+                                <a href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-Datacom-Solutions-for-Utilities?v=312527c9"
+                                    class="btn btn-primary">DOWNLOAD</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!--End card 1-->
+                <div class="col-md-4">
+                    <!--start card 1-->
+                    <div class="row no-gutters">
+                        <div class="col-auto">
+                            <a
+                                href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-QRG-Fiber-Management?v=3c132326"><img
+                                    src="https://afl-delivery.stylelabs.cloud/api/public/content/qrg-fiber-management?v=d6a355ba"
+                                    class="img-fluid" alt=""></a>
+                        </div>
+                        <div class="col">
+                            <div class="card-block px-2">
+                                <h6 class="card-title"><strong>Fiber Management</strong></h6>
+        
+                                <a href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-QRG-Fiber-Management?v=3c132326"
+                                    class="btn btn-primary">DOWNLOAD</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!--End card 1-->
+        
+            </div>
+        
+        
+            <div class="row">
+                <!--Start 3 row-->
+                <div class="col-md-4">
+                    <!--Starting card 1 -->
+                    <div class="row no-gutters">
+                        <div class="col-auto">
+                            <a
+                                href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-QRG-Fiber-Optic-Cab?v=1c4fde8d"><img
+                                    src="https://afl-delivery.stylelabs.cloud/api/public/content/QRG-Fiber-Optic-Cable?v=83738e1d"
+                                    class="img-fluid" alt=""></a>
+                        </div>
+                        <div class="col">
+                            <div class="card-block px-2">
+                                <h6 class="card-title"><strong>Fiber Optic Cable</strong></h6>
+        
+                                <a href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-QRG-Fiber-Optic-Cab?v=1c4fde8d1"
+                                    class="btn btn-primary">DOWNLOAD</a>
+                            </div>
+                        </div>
+                    </div>
+        
+                </div>
+        
+                <div class="col-md-4">
+                    <!-- Start card 2  -->
+                    <div class="row no-gutters">
+                        <div class="col-auto">
+                            <a
+                                href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-QRG-Aerial-Fiber-Optic-Cable?v=ff7e6e1b"><img
+                                    src="https://afl-delivery.stylelabs.cloud/api/public/content/QRG-Aerial-Cable?v=1d971c19"
+                                    class="img-fluid" alt=""></a>
+                        </div>
+                        <div class="col">
+                            <div class="card-block px-2">
+                                <h6 class="card-title"><strong>Fiber Optic Cable - Aerial</strong></h6>
+        
+                                <a href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-QRG-Aerial-Fiber-Optic-Cable?v=ff7e6e1b"
+                                    class="btn btn-primary">DOWNLOAD</a>
+                            </div>
+                        </div>
+                    </div>
+        
+                </div><!-- End card 2  -->
+        
+        
+                <div class="col-md-4">
+                    <!-- Start card 3-->
+                    <div class="row no-gutters">
+                        <div class="col-auto">
+                            <a
+                                href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-QRG-Fiber-Termination.pdf?v=25d3a6d1"><img
+                                    src="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-QRG-Fiber-Termination?v=41f4b012"
+                                    class="img-fluid" alt=""></a>
+                        </div>
+                        <div class="col">
+                            <div class="card-block px-2">
+                                <h6 class="card-title"><strong>Fiber Termination</strong></h6>
+        
+                                <a href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-QRG-Fiber-Termination.pdf?v=25d3a6d1"
+                                    class="btn btn-primary">DOWNLOAD</a>
+                            </div>
+                        </div>
+                    </div>
+        
+                </div>
+            </div>
+            <!--End row 3-->
+        
+            <div class="row">
+                <!--Start 4 row-->
+                <div class="col-md-4">
+                    <!--Starting card 1 -->
+                    <div class="row no-gutters">
+                        <div class="col-auto">
+                            <a
+                                href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-FOCIS-Inspection-Adapter-Tips?v=52ecb4fa"><img
+                                    src="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-QRG-FOCIS-Inspection-Adapter-Tips?v=2949ce36"
+                                    class="img-fluid" alt=""></a>
+                        </div>
+                        <div class="col">
+                            <div class="card-block px-2">
+                                <h6 class="card-title"><strong>FOCIS Inspection Adapter Tips</strong></h6>
+        
+                                <a href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-FOCIS-Inspection-Adapter-Tips?v=52ecb4fa"
+                                    class="btn btn-primary">DOWNLOAD</a>
+                            </div>
+                        </div>
+                    </div>
+        
+                </div>
+        
+                <div class="col-md-4">
+                    <!-- Start card 2  -->
+                    <div class="row no-gutters">
+                        <div class="col-auto">
+                            <a
+                                href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-QRG-Fusion-Splicing-Systems?v=58b12d06"><img
+                                    src="https://afl-delivery.stylelabs.cloud/api/public/content/QRG-Splicers?v=7ab39254"
+                                    class="img-fluid" alt=""></a>
+                        </div>
+                        <div class="col">
+                            <div class="card-block px-2">
+                                <h6 class="card-title"><strong>Fusion Splicing</strong></h6>
+        
+                                <a href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-QRG-Fusion-Splicing-Systems?v=58b12d06"
+                                    class="btn btn-primary">DOWNLOAD</a>
+                            </div>
+                        </div>
+                    </div>
+        
+                </div><!-- End card 2  -->
+        
+        
+                <div class="col-md-4">
+                    <!-- Start card 3-->
+                    <div class="row no-gutters">
+                        <div class="col-auto">
+                            <a
+                                href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-QRG-LG-Series-Closures?v=e06023e8"><img
+                                    src="https://afl-delivery.stylelabs.cloud/api/public/content/QRG-LG-Series-Closures?v=4a7a166e"
+                                    class="img-fluid" alt=""></a>
+                        </div>
+                        <div class="col">
+                            <div class="card-block px-2">
+                                <h6 class="card-title"><strong>LG Series Closures</strong></h6>
+        
+                                <a href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-QRG-LG-Series-Closures?v=e06023e8"
+                                    class="btn btn-primary">DOWNLOAD</a>
+                            </div>
+                        </div>
+                    </div>
+        
+                </div>
+            </div>
+            <!--End row 4-->
+        
+        
+        
+            <div class="row">
+                <!--Start 5  row-->
+                <div class="col-md-4">
+                    <!--Starting card 1 -->
+                    <div class="row no-gutters">
+                        <div class="col-auto">
+                            <a
+                                href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-QRG-Medical-Fiber-Optics?v=a9ff5962"><img
+                                    src="https://afl-delivery.stylelabs.cloud/api/public/content/QRG-Medical-Fiber-Optics?v=2febb7a6"
+                                    class="img-fluid" alt=""></a>
+                        </div>
+                        <div class="col">
+                            <div class="card-block px-2">
+                                <h6 class="card-title"><strong>Medical Fiber Optics</strong></h6>
+        
+                                <a href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-QRG-Medical-Fiber-Optics?v=a9ff5962"
+                                    class="btn btn-primary">DOWNLOAD</a>
+                            </div>
+                        </div>
+                    </div>
+        
+                </div>
+        
+                <div class="col-md-4">
+                    <!-- Start card 2  -->
+                    <div class="row no-gutters">
+                        <div class="col-auto">
+                            <a
+                                href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-QRG-Specialty-Fiber-Optic-Cable?v=8414bd68"><img
+                                    src="https://afl-delivery.stylelabs.cloud/api/public/content/QRG-Specialty-FO-Cable?v=cb29b3fd"
+                                    class="img-fluid" alt=""></a>
+                        </div>
+                        <div class="col">
+                            <div class="card-block px-2">
+                                <h6 class="card-title"><strong>Specialty Fiber Optic Cable</strong></h6>
+        
+                                <a href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-QRG-Specialty-Fiber-Optic-Cable?v=8414bd68"
+                                    class="btn btn-primary">DOWNLOAD</a>
+                            </div>
+                        </div>
+                    </div>
+        
+                </div><!-- End card 2  -->
+        
+        
+                <div class="col-md-4">
+                    <!-- Start card 3-->
+                    <div class="row no-gutters">
+                        <div class="col-auto">
+                            <a
+                                href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-QRG-Test-and-Inspection?v=22ce78a4"><img
+                                    src="https://afl-delivery.stylelabs.cloud/api/public/content/qrg-test-inspection?v=522ebfb0"
+                                    class="img-fluid" alt=""></a>
+                        </div>
+                        <div class="col">
+                            <div class="card-block px-2">
+                                <h6 class="card-title"><strong>Test and Inspection</strong></h6>
+        
+                                <a href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-QRG-Test-and-Inspection?v=22ce78a4"
+                                    class="btn btn-primary">DOWNLOAD</a>
+                            </div>
+                        </div>
+                    </div>
+        
+                </div>
+            </div>
+            <!--End row 5-->
+        </div>
+        <br />
+        <style>
+            img {
+                margin-right: 20px;
+                border: rgb(217, 217, 217) 1px solid;
+            }
+        
+            .container {
+                line-height: 20px;
+            }
+        
+            .col-md-4 {
+                margin-bottom: 10px;
+            }
+        
+            /* .btn a,
+            .btn-primary {
+                display: inline-block;
+                padding: 10px 40px 10px 25px;
+                border-radius: 12px;
+                line-height: 1;
+                background: #00c0f3;
+                border: 3px solid #fff;
+                color: #fff;
+                text-align: center;
+                text-transform: uppercase;
+                font-weight: 600;
+                letter-spacing: 1.2px;
+                text-decoration: none;
+                position: relative;
+                cursor: pointer;
+                padding-top: 12px !important;
+                padding-bottom: 8px !important;
+                vertical-align: middle;
+                align-items: center;
+            } */
+        
+            strong {
+                margin-left: 3px;
+                font-weight: bold;
+            }
+        
+            .shadow {
+                box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+            }
+        
+            h1 {
+                font-size: 2em;
+                margin: 0.67em 0;
+            }
+        </style>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220401T191310Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\matt
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e69be7fe-1a44-4397-8a6a-9b0b882aa3b2"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahesh
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220412T102754Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "24cce27c-05db-4473-a1ed-e69b1725ff1c"
+      Hint: HtmlCode
+      Value: |
+        <div class="container shadow">
+            <br />
+            <h1><strong>Quick Reference Guides</strong></h1>
+        
+            <div class="row">
+                <!--Start First row-->
+                <div class="col-md-4">
+                    <!--Starting card 1 -->
+                    <div class="row no-gutters">
+                        <div class="col-auto">
+                            <a href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-QRG-Cleaning?v=09c02da9"><img
+                                    src="https://afl-delivery.stylelabs.cloud/api/public/content/qrg-cleaning-solutions?v=a508a0d2"
+                                    class="img-fluid" alt=""></a>
+                        </div>
+                        <div class="col">
+                            <div class="card-block px-2">
+                                <h6 class="card-title"><strong>Cleaning and Inspection</strong></h6>
+        
+                                <a href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-QRG-Cleaning?v=09c02da9"
+                                    class="btn btn-primary">DOWNLOAD</a>
+                            </div>
+                        </div>
+                    </div>
+        
+                </div>
+        
+                <div class="col-md-4">
+                    <!-- Start card 2  -->
+                    <div class="row no-gutters">
+                        <div class="col-auto">
+                            <a
+                                href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-QRG-Conductor-Accessories?v=e7850528"><img
+                                    src="https://afl-delivery.stylelabs.cloud/api/public/content/QRG-Conductor-Accessories?v=78f911c9"
+                                    class="img-fluid" alt=""></a>
+                        </div>
+                        <div class="col">
+                            <div class="card-block px-2">
+                                <h6 class="card-title"><strong>Conductor Accessories</strong></h6>
+        
+                                <a href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-QRG-Conductor-Accessories?v=e7850528"
+                                    class="btn btn-primary">DOWNLOAD</a>
+                            </div>
+                        </div>
+                    </div>
+        
+                </div><!-- End card 2  -->
+        
+        
+                <div class="col-md-4">
+                    <!-- Start card 3-->
+                    <div class="row no-gutters">
+                        <div class="col-auto">
+                            <a
+                                href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-QRG-Connector-Solutions?v=67d8bba0"><img
+                                    src="https://afl-delivery.stylelabs.cloud/api/public/content/QRG-Connector-Solutions?v=4392f8c4"
+                                    class="img-fluid" alt=""></a>
+                        </div>
+                        <div class="col">
+                            <div class="card-block px-2">
+                                <h6 class="card-title"><strong>Connector Solutions</strong></h6>
+        
+                                <a href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-QRG-Connector-Solutions?v=67d8bba0"
+                                    class="btn btn-primary">DOWNLOAD</a>
+                            </div>
+                        </div>
+                    </div>
+        
+                </div>
+            </div>
+            <!--End row 1-->
+        
+            <div class="row">
+                <!--Start row 2-->
+                <div class="col-md-4">
+                    <!--start card 1-->
+                    <div class="row no-gutters">
+                        <div class="col-auto">
+                            <a
+                                href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-Connector-Solutions-Ordering-Guide?v=0c5ad72f"><img
+                                    src="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-OG-Connector-Solutions?v=0f477a6a"
+                                    class="img-fluid" alt=""></a>
+                        </div>
+                        <div class="col">
+                            <div class="card-block px-2">
+                                <h6 class="card-title"><strong>Connector Solutions Ordering Guide</strong></h6>
+        
+                                <a href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-Connector-Solutions-Ordering-Guide?v=0c5ad72f"
+                                    class="btn btn-primary">DOWNLOAD</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!--End card 1-->
+                <div class="col-md-4">
+                    <!--start card 1-->
+                    <div class="row no-gutters">
+                        <div class="col-auto">
+                            <a
+                                href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-Datacom-Solutions-for-Utilities?v=312527c9"><img
+                                    src="https://afl-delivery.stylelabs.cloud/api/public/content/QRG-Datacom-Solutions?v=9bc66484"
+                                    class="img-fluid" alt=""></a>
+                        </div>
+                        <div class="col">
+                            <div class="card-block px-2">
+                                <h6 class="card-title"><strong>Datacom Solutions for Utilities</strong></h6>
+        
+                                <a href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-Datacom-Solutions-for-Utilities?v=312527c9"
+                                    class="btn btn-primary">DOWNLOAD</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!--End card 1-->
+                <div class="col-md-4">
+                    <!--start card 1-->
+                    <div class="row no-gutters">
+                        <div class="col-auto">
+                            <a
+                                href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-QRG-Fiber-Management?v=3c132326"><img
+                                    src="https://afl-delivery.stylelabs.cloud/api/public/content/qrg-fiber-management?v=d6a355ba"
+                                    class="img-fluid" alt=""></a>
+                        </div>
+                        <div class="col">
+                            <div class="card-block px-2">
+                                <h6 class="card-title"><strong>Fiber Management</strong></h6>
+        
+                                <a href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-QRG-Fiber-Management?v=3c132326"
+                                    class="btn btn-primary">DOWNLOAD</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!--End card 1-->
+        
+            </div>
+        
+        
+            <div class="row">
+                <!--Start 3 row-->
+                <div class="col-md-4">
+                    <!--Starting card 1 -->
+                    <div class="row no-gutters">
+                        <div class="col-auto">
+                            <a
+                                href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-QRG-Fiber-Optic-Cab?v=1c4fde8d"><img
+                                    src="https://afl-delivery.stylelabs.cloud/api/public/content/QRG-Fiber-Optic-Cable?v=83738e1d"
+                                    class="img-fluid" alt=""></a>
+                        </div>
+                        <div class="col">
+                            <div class="card-block px-2">
+                                <h6 class="card-title"><strong>Fiber Optic Cable</strong></h6>
+        
+                                <a href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-QRG-Fiber-Optic-Cab?v=1c4fde8d1"
+                                    class="btn btn-primary">DOWNLOAD</a>
+                            </div>
+                        </div>
+                    </div>
+        
+                </div>
+        
+                <div class="col-md-4">
+                    <!-- Start card 2  -->
+                    <div class="row no-gutters">
+                        <div class="col-auto">
+                            <a
+                                href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-QRG-Aerial-Fiber-Optic-Cable?v=ff7e6e1b"><img
+                                    src="https://afl-delivery.stylelabs.cloud/api/public/content/QRG-Aerial-Cable?v=1d971c19"
+                                    class="img-fluid" alt=""></a>
+                        </div>
+                        <div class="col">
+                            <div class="card-block px-2">
+                                <h6 class="card-title"><strong>Fiber Optic Cable - Aerial</strong></h6>
+        
+                                <a href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-QRG-Aerial-Fiber-Optic-Cable?v=ff7e6e1b"
+                                    class="btn btn-primary">DOWNLOAD</a>
+                            </div>
+                        </div>
+                    </div>
+        
+                </div><!-- End card 2  -->
+        
+        
+                <div class="col-md-4">
+                    <!-- Start card 3-->
+                    <div class="row no-gutters">
+                        <div class="col-auto">
+                            <a
+                                href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-QRG-Fiber-Termination.pdf?v=25d3a6d1"><img
+                                    src="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-QRG-Fiber-Termination?v=41f4b012"
+                                    class="img-fluid" alt=""></a>
+                        </div>
+                        <div class="col">
+                            <div class="card-block px-2">
+                                <h6 class="card-title"><strong>Fiber Termination</strong></h6>
+        
+                                <a href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-QRG-Fiber-Termination.pdf?v=25d3a6d1"
+                                    class="btn btn-primary">DOWNLOAD</a>
+                            </div>
+                        </div>
+                    </div>
+        
+                </div>
+            </div>
+            <!--End row 3-->
+        
+            <div class="row">
+                <!--Start 4 row-->
+                <div class="col-md-4">
+                    <!--Starting card 1 -->
+                    <div class="row no-gutters">
+                        <div class="col-auto">
+                            <a
+                                href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-FOCIS-Inspection-Adapter-Tips?v=52ecb4fa"><img
+                                    src="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-QRG-FOCIS-Inspection-Adapter-Tips?v=2949ce36"
+                                    class="img-fluid" alt=""></a>
+                        </div>
+                        <div class="col">
+                            <div class="card-block px-2">
+                                <h6 class="card-title"><strong>FOCIS Inspection Adapter Tips</strong></h6>
+        
+                                <a href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-FOCIS-Inspection-Adapter-Tips?v=52ecb4fa"
+                                    class="btn btn-primary">DOWNLOAD</a>
+                            </div>
+                        </div>
+                    </div>
+        
+                </div>
+        
+                <div class="col-md-4">
+                    <!-- Start card 2  -->
+                    <div class="row no-gutters">
+                        <div class="col-auto">
+                            <a
+                                href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-QRG-Fusion-Splicing-Systems?v=58b12d06"><img
+                                    src="https://afl-delivery.stylelabs.cloud/api/public/content/QRG-Splicers?v=7ab39254"
+                                    class="img-fluid" alt=""></a>
+                        </div>
+                        <div class="col">
+                            <div class="card-block px-2">
+                                <h6 class="card-title"><strong>Fusion Splicing</strong></h6>
+        
+                                <a href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-QRG-Fusion-Splicing-Systems?v=58b12d06"
+                                    class="btn btn-primary">DOWNLOAD</a>
+                            </div>
+                        </div>
+                    </div>
+        
+                </div><!-- End card 2  -->
+        
+        
+                <div class="col-md-4">
+                    <!-- Start card 3-->
+                    <div class="row no-gutters">
+                        <div class="col-auto">
+                            <a
+                                href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-QRG-LG-Series-Closures?v=e06023e8"><img
+                                    src="https://afl-delivery.stylelabs.cloud/api/public/content/QRG-LG-Series-Closures?v=4a7a166e"
+                                    class="img-fluid" alt=""></a>
+                        </div>
+                        <div class="col">
+                            <div class="card-block px-2">
+                                <h6 class="card-title"><strong>LG Series Closures</strong></h6>
+        
+                                <a href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-QRG-LG-Series-Closures?v=e06023e8"
+                                    class="btn btn-primary">DOWNLOAD</a>
+                            </div>
+                        </div>
+                    </div>
+        
+                </div>
+            </div>
+            <!--End row 4-->
+        
+        
+        
+            <div class="row">
+                <!--Start 5  row-->
+                <div class="col-md-4">
+                    <!--Starting card 1 -->
+                    <div class="row no-gutters">
+                        <div class="col-auto">
+                            <a
+                                href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-QRG-Medical-Fiber-Optics?v=a9ff5962"><img
+                                    src="https://afl-delivery.stylelabs.cloud/api/public/content/QRG-Medical-Fiber-Optics?v=2febb7a6"
+                                    class="img-fluid" alt=""></a>
+                        </div>
+                        <div class="col">
+                            <div class="card-block px-2">
+                                <h6 class="card-title"><strong>Medical Fiber Optics</strong></h6>
+        
+                                <a href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-QRG-Medical-Fiber-Optics?v=a9ff5962"
+                                    class="btn btn-primary">DOWNLOAD</a>
+                            </div>
+                        </div>
+                    </div>
+        
+                </div>
+        
+                <div class="col-md-4">
+                    <!-- Start card 2  -->
+                    <div class="row no-gutters">
+                        <div class="col-auto">
+                            <a
+                                href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-QRG-Specialty-Fiber-Optic-Cable?v=8414bd68"><img
+                                    src="https://afl-delivery.stylelabs.cloud/api/public/content/QRG-Specialty-FO-Cable?v=cb29b3fd"
+                                    class="img-fluid" alt=""></a>
+                        </div>
+                        <div class="col">
+                            <div class="card-block px-2">
+                                <h6 class="card-title"><strong>Specialty Fiber Optic Cable</strong></h6>
+        
+                                <a href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-QRG-Specialty-Fiber-Optic-Cable?v=8414bd68"
+                                    class="btn btn-primary">DOWNLOAD</a>
+                            </div>
+                        </div>
+                    </div>
+        
+                </div><!-- End card 2  -->
+        
+        
+                <div class="col-md-4">
+                    <!-- Start card 3-->
+                    <div class="row no-gutters">
+                        <div class="col-auto">
+                            <a
+                                href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-QRG-Test-and-Inspection?v=22ce78a4"><img
+                                    src="https://afl-delivery.stylelabs.cloud/api/public/content/qrg-test-inspection?v=522ebfb0"
+                                    class="img-fluid" alt=""></a>
+                        </div>
+                        <div class="col">
+                            <div class="card-block px-2">
+                                <h6 class="card-title"><strong>Test and Inspection</strong></h6>
+        
+                                <a href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-QRG-Test-and-Inspection?v=22ce78a4"
+                                    class="btn btn-primary">DOWNLOAD</a>
+                            </div>
+                        </div>
+                    </div>
+        
+                </div>
+            </div>
+            <!--End row 5-->
+        </div>
+        <br />
+        <style>
+            img {
+                margin-right: 20px;
+                border: rgb(217, 217, 217) 1px solid;
+            }
+        
+            .container {
+                line-height: 20px;
+            }
+        
+            .col-md-4 {
+                margin-bottom: 10px;
+            }
+        
+            /* .btn a,
+            .btn-primary {
+                display: inline-block;
+                padding: 10px 40px 10px 25px;
+                border-radius: 12px;
+                line-height: 1;
+                background: #00c0f3;
+                border: 3px solid #fff;
+                color: #fff;
+                text-align: center;
+                text-transform: uppercase;
+                font-weight: 600;
+                letter-spacing: 1.2px;
+                text-decoration: none;
+                position: relative;
+                cursor: pointer;
+                padding-top: 12px !important;
+                padding-bottom: 8px !important;
+                vertical-align: middle;
+                align-items: center;
+            } */
+        
+            strong {
+                margin-left: 3px;
+                font-weight: bold;
+            }
+        
+            .shadow {
+                box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+            }
+        
+            h1 {
+                font-size: 2em;
+                margin: 0.67em 0;
+            }
+        </style>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220401T191310Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\matt
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\matt
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "eeccfa6b-b8a4-49f0-83d4-06b338401ccf"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\matt
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220401T191504Z
+- Language: "es-ES"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "24cce27c-05db-4473-a1ed-e69b1725ff1c"
+      Hint: HtmlCode
+      Value: |
+        <div class="container shadow">
+            <br />
+            <h1><strong>Quick Reference Guides</strong></h1>
+        
+            <div class="row">
+                <!--Start First row-->
+                <div class="col-md-4">
+                    <!--Starting card 1 -->
+                    <div class="row no-gutters">
+                        <div class="col-auto">
+                            <a href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-QRG-Cleaning?v=09c02da9"><img
+                                    src="https://afl-delivery.stylelabs.cloud/api/public/content/qrg-cleaning-solutions?v=a508a0d2"
+                                    class="img-fluid" alt=""></a>
+                        </div>
+                        <div class="col">
+                            <div class="card-block px-2">
+                                <h6 class="card-title"><strong>Cleaning and Inspection</strong></h6>
+        
+                                <a href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-QRG-Cleaning?v=09c02da9"
+                                    class="btn btn-primary">DOWNLOAD</a>
+                            </div>
+                        </div>
+                    </div>
+        
+                </div>
+        
+                <div class="col-md-4">
+                    <!-- Start card 2  -->
+                    <div class="row no-gutters">
+                        <div class="col-auto">
+                            <a
+                                href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-QRG-Conductor-Accessories?v=e7850528"><img
+                                    src="https://afl-delivery.stylelabs.cloud/api/public/content/QRG-Conductor-Accessories?v=78f911c9"
+                                    class="img-fluid" alt=""></a>
+                        </div>
+                        <div class="col">
+                            <div class="card-block px-2">
+                                <h6 class="card-title"><strong>Conductor Accessories</strong></h6>
+        
+                                <a href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-QRG-Conductor-Accessories?v=e7850528"
+                                    class="btn btn-primary">DOWNLOAD</a>
+                            </div>
+                        </div>
+                    </div>
+        
+                </div><!-- End card 2  -->
+        
+        
+                <div class="col-md-4">
+                    <!-- Start card 3-->
+                    <div class="row no-gutters">
+                        <div class="col-auto">
+                            <a
+                                href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-QRG-Connector-Solutions?v=67d8bba0"><img
+                                    src="https://afl-delivery.stylelabs.cloud/api/public/content/QRG-Connector-Solutions?v=4392f8c4"
+                                    class="img-fluid" alt=""></a>
+                        </div>
+                        <div class="col">
+                            <div class="card-block px-2">
+                                <h6 class="card-title"><strong>Connector Solutions</strong></h6>
+        
+                                <a href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-QRG-Connector-Solutions?v=67d8bba0"
+                                    class="btn btn-primary">DOWNLOAD</a>
+                            </div>
+                        </div>
+                    </div>
+        
+                </div>
+            </div>
+            <!--End row 1-->
+        
+            <div class="row">
+                <!--Start row 2-->
+                <div class="col-md-4">
+                    <!--start card 1-->
+                    <div class="row no-gutters">
+                        <div class="col-auto">
+                            <a
+                                href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-Connector-Solutions-Ordering-Guide?v=0c5ad72f"><img
+                                    src="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-OG-Connector-Solutions?v=0f477a6a"
+                                    class="img-fluid" alt=""></a>
+                        </div>
+                        <div class="col">
+                            <div class="card-block px-2">
+                                <h6 class="card-title"><strong>Connector Solutions Ordering Guide</strong></h6>
+        
+                                <a href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-Connector-Solutions-Ordering-Guide?v=0c5ad72f"
+                                    class="btn btn-primary">DOWNLOAD</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!--End card 1-->
+                <div class="col-md-4">
+                    <!--start card 1-->
+                    <div class="row no-gutters">
+                        <div class="col-auto">
+                            <a
+                                href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-Datacom-Solutions-for-Utilities?v=312527c9"><img
+                                    src="https://afl-delivery.stylelabs.cloud/api/public/content/QRG-Datacom-Solutions?v=9bc66484"
+                                    class="img-fluid" alt=""></a>
+                        </div>
+                        <div class="col">
+                            <div class="card-block px-2">
+                                <h6 class="card-title"><strong>Datacom Solutions for Utilities</strong></h6>
+        
+                                <a href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-Datacom-Solutions-for-Utilities?v=312527c9"
+                                    class="btn btn-primary">DOWNLOAD</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!--End card 1-->
+                <div class="col-md-4">
+                    <!--start card 1-->
+                    <div class="row no-gutters">
+                        <div class="col-auto">
+                            <a
+                                href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-QRG-Fiber-Management?v=3c132326"><img
+                                    src="https://afl-delivery.stylelabs.cloud/api/public/content/qrg-fiber-management?v=d6a355ba"
+                                    class="img-fluid" alt=""></a>
+                        </div>
+                        <div class="col">
+                            <div class="card-block px-2">
+                                <h6 class="card-title"><strong>Fiber Management</strong></h6>
+        
+                                <a href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-QRG-Fiber-Management?v=3c132326"
+                                    class="btn btn-primary">DOWNLOAD</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!--End card 1-->
+        
+            </div>
+        
+        
+            <div class="row">
+                <!--Start 3 row-->
+                <div class="col-md-4">
+                    <!--Starting card 1 -->
+                    <div class="row no-gutters">
+                        <div class="col-auto">
+                            <a
+                                href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-QRG-Fiber-Optic-Cab?v=1c4fde8d"><img
+                                    src="https://afl-delivery.stylelabs.cloud/api/public/content/QRG-Fiber-Optic-Cable?v=83738e1d"
+                                    class="img-fluid" alt=""></a>
+                        </div>
+                        <div class="col">
+                            <div class="card-block px-2">
+                                <h6 class="card-title"><strong>Fiber Optic Cable</strong></h6>
+        
+                                <a href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-QRG-Fiber-Optic-Cab?v=1c4fde8d1"
+                                    class="btn btn-primary">DOWNLOAD</a>
+                            </div>
+                        </div>
+                    </div>
+        
+                </div>
+        
+                <div class="col-md-4">
+                    <!-- Start card 2  -->
+                    <div class="row no-gutters">
+                        <div class="col-auto">
+                            <a
+                                href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-QRG-Aerial-Fiber-Optic-Cable?v=ff7e6e1b"><img
+                                    src="https://afl-delivery.stylelabs.cloud/api/public/content/QRG-Aerial-Cable?v=1d971c19"
+                                    class="img-fluid" alt=""></a>
+                        </div>
+                        <div class="col">
+                            <div class="card-block px-2">
+                                <h6 class="card-title"><strong>Fiber Optic Cable - Aerial</strong></h6>
+        
+                                <a href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-QRG-Aerial-Fiber-Optic-Cable?v=ff7e6e1b"
+                                    class="btn btn-primary">DOWNLOAD</a>
+                            </div>
+                        </div>
+                    </div>
+        
+                </div><!-- End card 2  -->
+        
+        
+                <div class="col-md-4">
+                    <!-- Start card 3-->
+                    <div class="row no-gutters">
+                        <div class="col-auto">
+                            <a
+                                href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-QRG-Fiber-Termination.pdf?v=25d3a6d1"><img
+                                    src="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-QRG-Fiber-Termination?v=41f4b012"
+                                    class="img-fluid" alt=""></a>
+                        </div>
+                        <div class="col">
+                            <div class="card-block px-2">
+                                <h6 class="card-title"><strong>Fiber Termination</strong></h6>
+        
+                                <a href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-QRG-Fiber-Termination.pdf?v=25d3a6d1"
+                                    class="btn btn-primary">DOWNLOAD</a>
+                            </div>
+                        </div>
+                    </div>
+        
+                </div>
+            </div>
+            <!--End row 3-->
+        
+            <div class="row">
+                <!--Start 4 row-->
+                <div class="col-md-4">
+                    <!--Starting card 1 -->
+                    <div class="row no-gutters">
+                        <div class="col-auto">
+                            <a
+                                href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-FOCIS-Inspection-Adapter-Tips?v=52ecb4fa"><img
+                                    src="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-QRG-FOCIS-Inspection-Adapter-Tips?v=2949ce36"
+                                    class="img-fluid" alt=""></a>
+                        </div>
+                        <div class="col">
+                            <div class="card-block px-2">
+                                <h6 class="card-title"><strong>FOCIS Inspection Adapter Tips</strong></h6>
+        
+                                <a href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-FOCIS-Inspection-Adapter-Tips?v=52ecb4fa"
+                                    class="btn btn-primary">DOWNLOAD</a>
+                            </div>
+                        </div>
+                    </div>
+        
+                </div>
+        
+                <div class="col-md-4">
+                    <!-- Start card 2  -->
+                    <div class="row no-gutters">
+                        <div class="col-auto">
+                            <a
+                                href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-QRG-Fusion-Splicing-Systems?v=58b12d06"><img
+                                    src="https://afl-delivery.stylelabs.cloud/api/public/content/QRG-Splicers?v=7ab39254"
+                                    class="img-fluid" alt=""></a>
+                        </div>
+                        <div class="col">
+                            <div class="card-block px-2">
+                                <h6 class="card-title"><strong>Fusion Splicing</strong></h6>
+        
+                                <a href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-QRG-Fusion-Splicing-Systems?v=58b12d06"
+                                    class="btn btn-primary">DOWNLOAD</a>
+                            </div>
+                        </div>
+                    </div>
+        
+                </div><!-- End card 2  -->
+        
+        
+                <div class="col-md-4">
+                    <!-- Start card 3-->
+                    <div class="row no-gutters">
+                        <div class="col-auto">
+                            <a
+                                href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-QRG-LG-Series-Closures?v=e06023e8"><img
+                                    src="https://afl-delivery.stylelabs.cloud/api/public/content/QRG-LG-Series-Closures?v=4a7a166e"
+                                    class="img-fluid" alt=""></a>
+                        </div>
+                        <div class="col">
+                            <div class="card-block px-2">
+                                <h6 class="card-title"><strong>LG Series Closures</strong></h6>
+        
+                                <a href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-QRG-LG-Series-Closures?v=e06023e8"
+                                    class="btn btn-primary">DOWNLOAD</a>
+                            </div>
+                        </div>
+                    </div>
+        
+                </div>
+            </div>
+            <!--End row 4-->
+        
+        
+        
+            <div class="row">
+                <!--Start 5  row-->
+                <div class="col-md-4">
+                    <!--Starting card 1 -->
+                    <div class="row no-gutters">
+                        <div class="col-auto">
+                            <a
+                                href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-QRG-Medical-Fiber-Optics?v=a9ff5962"><img
+                                    src="https://afl-delivery.stylelabs.cloud/api/public/content/QRG-Medical-Fiber-Optics?v=2febb7a6"
+                                    class="img-fluid" alt=""></a>
+                        </div>
+                        <div class="col">
+                            <div class="card-block px-2">
+                                <h6 class="card-title"><strong>Medical Fiber Optics</strong></h6>
+        
+                                <a href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-QRG-Medical-Fiber-Optics?v=a9ff5962"
+                                    class="btn btn-primary">DOWNLOAD</a>
+                            </div>
+                        </div>
+                    </div>
+        
+                </div>
+        
+                <div class="col-md-4">
+                    <!-- Start card 2  -->
+                    <div class="row no-gutters">
+                        <div class="col-auto">
+                            <a
+                                href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-QRG-Specialty-Fiber-Optic-Cable?v=8414bd68"><img
+                                    src="https://afl-delivery.stylelabs.cloud/api/public/content/QRG-Specialty-FO-Cable?v=cb29b3fd"
+                                    class="img-fluid" alt=""></a>
+                        </div>
+                        <div class="col">
+                            <div class="card-block px-2">
+                                <h6 class="card-title"><strong>Specialty Fiber Optic Cable</strong></h6>
+        
+                                <a href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-QRG-Specialty-Fiber-Optic-Cable?v=8414bd68"
+                                    class="btn btn-primary">DOWNLOAD</a>
+                            </div>
+                        </div>
+                    </div>
+        
+                </div><!-- End card 2  -->
+        
+        
+                <div class="col-md-4">
+                    <!-- Start card 3-->
+                    <div class="row no-gutters">
+                        <div class="col-auto">
+                            <a
+                                href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-QRG-Test-and-Inspection?v=22ce78a4"><img
+                                    src="https://afl-delivery.stylelabs.cloud/api/public/content/qrg-test-inspection?v=522ebfb0"
+                                    class="img-fluid" alt=""></a>
+                        </div>
+                        <div class="col">
+                            <div class="card-block px-2">
+                                <h6 class="card-title"><strong>Test and Inspection</strong></h6>
+        
+                                <a href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-QRG-Test-and-Inspection?v=22ce78a4"
+                                    class="btn btn-primary">DOWNLOAD</a>
+                            </div>
+                        </div>
+                    </div>
+        
+                </div>
+            </div>
+            <!--End row 5-->
+        </div>
+        <br />
+        <style>
+            img {
+                margin-right: 20px;
+                border: rgb(217, 217, 217) 1px solid;
+            }
+        
+            .container {
+                line-height: 20px;
+            }
+        
+            .col-md-4 {
+                margin-bottom: 10px;
+            }
+        
+            /* .btn a,
+            .btn-primary {
+                display: inline-block;
+                padding: 10px 40px 10px 25px;
+                border-radius: 12px;
+                line-height: 1;
+                background: #00c0f3;
+                border: 3px solid #fff;
+                color: #fff;
+                text-align: center;
+                text-transform: uppercase;
+                font-weight: 600;
+                letter-spacing: 1.2px;
+                text-decoration: none;
+                position: relative;
+                cursor: pointer;
+                padding-top: 12px !important;
+                padding-bottom: 8px !important;
+                vertical-align: middle;
+                align-items: center;
+            } */
+        
+            strong {
+                margin-left: 3px;
+                font-weight: bold;
+            }
+        
+            .shadow {
+                box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+            }
+        
+            h1 {
+                font-size: 2em;
+                margin: 0.67em 0;
+            }
+        </style>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220401T191310Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\matt
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "013c9019-b06a-47f1-acc3-39ff1f64099a"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahesh
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220412T102754Z
+- Language: "fr-FR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "24cce27c-05db-4473-a1ed-e69b1725ff1c"
+      Hint: HtmlCode
+      Value: |
+        <div class="container shadow">
+            <br />
+            <h1><strong>Quick Reference Guides</strong></h1>
+        
+            <div class="row">
+                <!--Start First row-->
+                <div class="col-md-4">
+                    <!--Starting card 1 -->
+                    <div class="row no-gutters">
+                        <div class="col-auto">
+                            <a href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-QRG-Cleaning?v=09c02da9"><img
+                                    src="https://afl-delivery.stylelabs.cloud/api/public/content/qrg-cleaning-solutions?v=a508a0d2"
+                                    class="img-fluid" alt=""></a>
+                        </div>
+                        <div class="col">
+                            <div class="card-block px-2">
+                                <h6 class="card-title"><strong>Cleaning and Inspection</strong></h6>
+        
+                                <a href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-QRG-Cleaning?v=09c02da9"
+                                    class="btn btn-primary">DOWNLOAD</a>
+                            </div>
+                        </div>
+                    </div>
+        
+                </div>
+        
+                <div class="col-md-4">
+                    <!-- Start card 2  -->
+                    <div class="row no-gutters">
+                        <div class="col-auto">
+                            <a
+                                href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-QRG-Conductor-Accessories?v=e7850528"><img
+                                    src="https://afl-delivery.stylelabs.cloud/api/public/content/QRG-Conductor-Accessories?v=78f911c9"
+                                    class="img-fluid" alt=""></a>
+                        </div>
+                        <div class="col">
+                            <div class="card-block px-2">
+                                <h6 class="card-title"><strong>Conductor Accessories</strong></h6>
+        
+                                <a href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-QRG-Conductor-Accessories?v=e7850528"
+                                    class="btn btn-primary">DOWNLOAD</a>
+                            </div>
+                        </div>
+                    </div>
+        
+                </div><!-- End card 2  -->
+        
+        
+                <div class="col-md-4">
+                    <!-- Start card 3-->
+                    <div class="row no-gutters">
+                        <div class="col-auto">
+                            <a
+                                href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-QRG-Connector-Solutions?v=67d8bba0"><img
+                                    src="https://afl-delivery.stylelabs.cloud/api/public/content/QRG-Connector-Solutions?v=4392f8c4"
+                                    class="img-fluid" alt=""></a>
+                        </div>
+                        <div class="col">
+                            <div class="card-block px-2">
+                                <h6 class="card-title"><strong>Connector Solutions</strong></h6>
+        
+                                <a href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-QRG-Connector-Solutions?v=67d8bba0"
+                                    class="btn btn-primary">DOWNLOAD</a>
+                            </div>
+                        </div>
+                    </div>
+        
+                </div>
+            </div>
+            <!--End row 1-->
+        
+            <div class="row">
+                <!--Start row 2-->
+                <div class="col-md-4">
+                    <!--start card 1-->
+                    <div class="row no-gutters">
+                        <div class="col-auto">
+                            <a
+                                href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-Connector-Solutions-Ordering-Guide?v=0c5ad72f"><img
+                                    src="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-OG-Connector-Solutions?v=0f477a6a"
+                                    class="img-fluid" alt=""></a>
+                        </div>
+                        <div class="col">
+                            <div class="card-block px-2">
+                                <h6 class="card-title"><strong>Connector Solutions Ordering Guide</strong></h6>
+        
+                                <a href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-Connector-Solutions-Ordering-Guide?v=0c5ad72f"
+                                    class="btn btn-primary">DOWNLOAD</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!--End card 1-->
+                <div class="col-md-4">
+                    <!--start card 1-->
+                    <div class="row no-gutters">
+                        <div class="col-auto">
+                            <a
+                                href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-Datacom-Solutions-for-Utilities?v=312527c9"><img
+                                    src="https://afl-delivery.stylelabs.cloud/api/public/content/QRG-Datacom-Solutions?v=9bc66484"
+                                    class="img-fluid" alt=""></a>
+                        </div>
+                        <div class="col">
+                            <div class="card-block px-2">
+                                <h6 class="card-title"><strong>Datacom Solutions for Utilities</strong></h6>
+        
+                                <a href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-Datacom-Solutions-for-Utilities?v=312527c9"
+                                    class="btn btn-primary">DOWNLOAD</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!--End card 1-->
+                <div class="col-md-4">
+                    <!--start card 1-->
+                    <div class="row no-gutters">
+                        <div class="col-auto">
+                            <a
+                                href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-QRG-Fiber-Management?v=3c132326"><img
+                                    src="https://afl-delivery.stylelabs.cloud/api/public/content/qrg-fiber-management?v=d6a355ba"
+                                    class="img-fluid" alt=""></a>
+                        </div>
+                        <div class="col">
+                            <div class="card-block px-2">
+                                <h6 class="card-title"><strong>Fiber Management</strong></h6>
+        
+                                <a href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-QRG-Fiber-Management?v=3c132326"
+                                    class="btn btn-primary">DOWNLOAD</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!--End card 1-->
+        
+            </div>
+        
+        
+            <div class="row">
+                <!--Start 3 row-->
+                <div class="col-md-4">
+                    <!--Starting card 1 -->
+                    <div class="row no-gutters">
+                        <div class="col-auto">
+                            <a
+                                href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-QRG-Fiber-Optic-Cab?v=1c4fde8d"><img
+                                    src="https://afl-delivery.stylelabs.cloud/api/public/content/QRG-Fiber-Optic-Cable?v=83738e1d"
+                                    class="img-fluid" alt=""></a>
+                        </div>
+                        <div class="col">
+                            <div class="card-block px-2">
+                                <h6 class="card-title"><strong>Fiber Optic Cable</strong></h6>
+        
+                                <a href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-QRG-Fiber-Optic-Cab?v=1c4fde8d1"
+                                    class="btn btn-primary">DOWNLOAD</a>
+                            </div>
+                        </div>
+                    </div>
+        
+                </div>
+        
+                <div class="col-md-4">
+                    <!-- Start card 2  -->
+                    <div class="row no-gutters">
+                        <div class="col-auto">
+                            <a
+                                href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-QRG-Aerial-Fiber-Optic-Cable?v=ff7e6e1b"><img
+                                    src="https://afl-delivery.stylelabs.cloud/api/public/content/QRG-Aerial-Cable?v=1d971c19"
+                                    class="img-fluid" alt=""></a>
+                        </div>
+                        <div class="col">
+                            <div class="card-block px-2">
+                                <h6 class="card-title"><strong>Fiber Optic Cable - Aerial</strong></h6>
+        
+                                <a href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-QRG-Aerial-Fiber-Optic-Cable?v=ff7e6e1b"
+                                    class="btn btn-primary">DOWNLOAD</a>
+                            </div>
+                        </div>
+                    </div>
+        
+                </div><!-- End card 2  -->
+        
+        
+                <div class="col-md-4">
+                    <!-- Start card 3-->
+                    <div class="row no-gutters">
+                        <div class="col-auto">
+                            <a
+                                href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-QRG-Fiber-Termination.pdf?v=25d3a6d1"><img
+                                    src="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-QRG-Fiber-Termination?v=41f4b012"
+                                    class="img-fluid" alt=""></a>
+                        </div>
+                        <div class="col">
+                            <div class="card-block px-2">
+                                <h6 class="card-title"><strong>Fiber Termination</strong></h6>
+        
+                                <a href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-QRG-Fiber-Termination.pdf?v=25d3a6d1"
+                                    class="btn btn-primary">DOWNLOAD</a>
+                            </div>
+                        </div>
+                    </div>
+        
+                </div>
+            </div>
+            <!--End row 3-->
+        
+            <div class="row">
+                <!--Start 4 row-->
+                <div class="col-md-4">
+                    <!--Starting card 1 -->
+                    <div class="row no-gutters">
+                        <div class="col-auto">
+                            <a
+                                href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-FOCIS-Inspection-Adapter-Tips?v=52ecb4fa"><img
+                                    src="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-QRG-FOCIS-Inspection-Adapter-Tips?v=2949ce36"
+                                    class="img-fluid" alt=""></a>
+                        </div>
+                        <div class="col">
+                            <div class="card-block px-2">
+                                <h6 class="card-title"><strong>FOCIS Inspection Adapter Tips</strong></h6>
+        
+                                <a href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-FOCIS-Inspection-Adapter-Tips?v=52ecb4fa"
+                                    class="btn btn-primary">DOWNLOAD</a>
+                            </div>
+                        </div>
+                    </div>
+        
+                </div>
+        
+                <div class="col-md-4">
+                    <!-- Start card 2  -->
+                    <div class="row no-gutters">
+                        <div class="col-auto">
+                            <a
+                                href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-QRG-Fusion-Splicing-Systems?v=58b12d06"><img
+                                    src="https://afl-delivery.stylelabs.cloud/api/public/content/QRG-Splicers?v=7ab39254"
+                                    class="img-fluid" alt=""></a>
+                        </div>
+                        <div class="col">
+                            <div class="card-block px-2">
+                                <h6 class="card-title"><strong>Fusion Splicing</strong></h6>
+        
+                                <a href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-QRG-Fusion-Splicing-Systems?v=58b12d06"
+                                    class="btn btn-primary">DOWNLOAD</a>
+                            </div>
+                        </div>
+                    </div>
+        
+                </div><!-- End card 2  -->
+        
+        
+                <div class="col-md-4">
+                    <!-- Start card 3-->
+                    <div class="row no-gutters">
+                        <div class="col-auto">
+                            <a
+                                href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-QRG-LG-Series-Closures?v=e06023e8"><img
+                                    src="https://afl-delivery.stylelabs.cloud/api/public/content/QRG-LG-Series-Closures?v=4a7a166e"
+                                    class="img-fluid" alt=""></a>
+                        </div>
+                        <div class="col">
+                            <div class="card-block px-2">
+                                <h6 class="card-title"><strong>LG Series Closures</strong></h6>
+        
+                                <a href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-QRG-LG-Series-Closures?v=e06023e8"
+                                    class="btn btn-primary">DOWNLOAD</a>
+                            </div>
+                        </div>
+                    </div>
+        
+                </div>
+            </div>
+            <!--End row 4-->
+        
+        
+        
+            <div class="row">
+                <!--Start 5  row-->
+                <div class="col-md-4">
+                    <!--Starting card 1 -->
+                    <div class="row no-gutters">
+                        <div class="col-auto">
+                            <a
+                                href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-QRG-Medical-Fiber-Optics?v=a9ff5962"><img
+                                    src="https://afl-delivery.stylelabs.cloud/api/public/content/QRG-Medical-Fiber-Optics?v=2febb7a6"
+                                    class="img-fluid" alt=""></a>
+                        </div>
+                        <div class="col">
+                            <div class="card-block px-2">
+                                <h6 class="card-title"><strong>Medical Fiber Optics</strong></h6>
+        
+                                <a href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-QRG-Medical-Fiber-Optics?v=a9ff5962"
+                                    class="btn btn-primary">DOWNLOAD</a>
+                            </div>
+                        </div>
+                    </div>
+        
+                </div>
+        
+                <div class="col-md-4">
+                    <!-- Start card 2  -->
+                    <div class="row no-gutters">
+                        <div class="col-auto">
+                            <a
+                                href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-QRG-Specialty-Fiber-Optic-Cable?v=8414bd68"><img
+                                    src="https://afl-delivery.stylelabs.cloud/api/public/content/QRG-Specialty-FO-Cable?v=cb29b3fd"
+                                    class="img-fluid" alt=""></a>
+                        </div>
+                        <div class="col">
+                            <div class="card-block px-2">
+                                <h6 class="card-title"><strong>Specialty Fiber Optic Cable</strong></h6>
+        
+                                <a href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-QRG-Specialty-Fiber-Optic-Cable?v=8414bd68"
+                                    class="btn btn-primary">DOWNLOAD</a>
+                            </div>
+                        </div>
+                    </div>
+        
+                </div><!-- End card 2  -->
+        
+        
+                <div class="col-md-4">
+                    <!-- Start card 3-->
+                    <div class="row no-gutters">
+                        <div class="col-auto">
+                            <a
+                                href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-QRG-Test-and-Inspection?v=22ce78a4"><img
+                                    src="https://afl-delivery.stylelabs.cloud/api/public/content/qrg-test-inspection?v=522ebfb0"
+                                    class="img-fluid" alt=""></a>
+                        </div>
+                        <div class="col">
+                            <div class="card-block px-2">
+                                <h6 class="card-title"><strong>Test and Inspection</strong></h6>
+        
+                                <a href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-QRG-Test-and-Inspection?v=22ce78a4"
+                                    class="btn btn-primary">DOWNLOAD</a>
+                            </div>
+                        </div>
+                    </div>
+        
+                </div>
+            </div>
+            <!--End row 5-->
+        </div>
+        <br />
+        <style>
+            img {
+                margin-right: 20px;
+                border: rgb(217, 217, 217) 1px solid;
+            }
+        
+            .container {
+                line-height: 20px;
+            }
+        
+            .col-md-4 {
+                margin-bottom: 10px;
+            }
+        
+            /* .btn a,
+            .btn-primary {
+                display: inline-block;
+                padding: 10px 40px 10px 25px;
+                border-radius: 12px;
+                line-height: 1;
+                background: #00c0f3;
+                border: 3px solid #fff;
+                color: #fff;
+                text-align: center;
+                text-transform: uppercase;
+                font-weight: 600;
+                letter-spacing: 1.2px;
+                text-decoration: none;
+                position: relative;
+                cursor: pointer;
+                padding-top: 12px !important;
+                padding-bottom: 8px !important;
+                vertical-align: middle;
+                align-items: center;
+            } */
+        
+            strong {
+                margin-left: 3px;
+                font-weight: bold;
+            }
+        
+            .shadow {
+                box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+            }
+        
+            h1 {
+                font-size: 2em;
+                margin: 0.67em 0;
+            }
+        </style>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220401T191310Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\matt
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "21ca50f1-94c4-45f9-820c-07f9d2c03d8b"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahesh
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220412T102754Z

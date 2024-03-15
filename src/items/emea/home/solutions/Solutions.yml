@@ -1,0 +1,400 @@
+﻿---
+ID: "bc312be2-1c0a-4998-aa53-4d711e5c57df"
+Parent: "7d730091-d3d6-4895-a025-1fcc3ca38e50"
+Template: "bf61de11-b78f-48ea-aaa4-1d17f0d83824"
+Path: "/sitecore/content/AFL-Global/EMEA/Home/Solutions"
+SharedFields:
+- ID: "1fbc6a49-6281-48ee-87e9-a3970b145adb"
+  Hint: NavigationFilter
+  Value: 
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{9B9150CA-F788-45F7-B378-77F936EC878B}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+- ID: "dec8d2d5-e3cf-48b6-a653-8e69e2716641"
+  Hint: __Security
+  Value: |
+    au|sitecore\CharlieC|pe|-item:read|pd|-item:read|
+Languages:
+- Language: "de-DE"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211122T081421Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: LÖSUNGEN
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <h1>Solutions</h1>
+        <h2>Multiple markets, thousands of products, one end-to-end solutions provider</h2>
+        <p>Since its founding in 1984, AFL has expanded its product and services offering into dozens of markets across the globe. Today, we serve the <a href="/Solutions/Industrial/Electric-Utility">electric utility</a>, broadband, <a href="/Solutions/Industrial/Broadcast">communications</a>, enterprise and factory markets as well as the emerging markets of <a href="/Solutions/Industrial/Oil-and-Gas">oil and gas</a>, <a href="/Solutions/Industrial/Mining">mining</a>, <a href="/Solutions/Industrial/Nuclear">nuclear</a>, <a href="/Solutions/Industrial/Aerospace-and-Defense">avionics</a>, <a href="/Solutions/Industrial/Fiber-Optic-Component-and-Equipment-Mfg">renewables</a>,<a href="/Solutions/Industrial/Industrial-Environments"> harsh environment </a>and <a href="/Solutions/Industrial/Transportation">transportation</a>. Our market managers, engineers and technicians are dedicated to putting customers first and helping you with every step of your project. Choose AFL as your partner, and let us keep you connected to the industry’s most innovative solutions.</p>
+        <ul>
+            <li>
+            <h3><a href="/Solutions/Energy">Energy Market</a></h3>
+            </li>
+            <li>
+            <h3><a href="/Solutions/Enterprise">Enterprise Market</a></h3>
+            </li>
+            <li>
+            <h3><a href="/Solutions/Industrial">Industrial Market</a></h3>
+            </li>
+            <li>
+            <h3><a href="/Solutions/Service-Provider">Service Provider Market</a></h3>
+            </li>
+        </ul>
+    - ID: "56611f02-691a-4096-b044-63aa83122916"
+      Hint: Content
+      Value: |
+        <h1>Solutions</h1>
+        <h2>Multiple markets, thousands of products, one end-to-end solutions provider</h2>
+        <p>Since its founding in 1984, AFL has expanded its product and services offering into dozens of markets across the globe. Today, we serve the&nbsp;<a href="/Solutions/Industrial/Electric-Utility">electric utility</a>, broadband,&nbsp;<a href="/Solutions/Industrial/Broadcast">communications</a>, enterprise and factory markets as well as the emerging markets of&nbsp;<a href="/Solutions/Industrial/Oil-and-Gas">oil and gas</a>,&nbsp;<a href="/Solutions/Industrial/Mining">mining</a>,&nbsp;<a href="/Solutions/Industrial/Nuclear">nuclear</a>,&nbsp;<a href="/Solutions/Industrial/Aerospace-and-Defense">avionics</a>,&nbsp;<a href="/Solutions/Industrial/Fiber-Optic-Component-and-Equipment-Mfg">renewables</a>,<a href="/Solutions/Industrial/Industrial-Environments">&nbsp;harsh environment&nbsp;</a>and&nbsp;<a href="/Solutions/Industrial/Transportation">transportation</a>. Our market managers, engineers and technicians are dedicated to putting customers first and helping you with every step of your project. Choose AFL as your partner, and let us keep you connected to the industry&rsquo;s most innovative solutions.</p>
+        <ul>
+            <li>
+            <h3><a href="/Solutions/Energy">Energy Market</a></h3>
+            </li>
+            <li>
+            <h3><a href="/Solutions/Enterprise">Enterprise Market</a></h3>
+            </li>
+            <li>
+            <h3><a href="/Solutions/Industrial">Industrial Market</a></h3>
+            </li>
+            <li>
+            <h3><a href="/Solutions/Service-Provider">Service Provider Market</a></h3>
+            </li>
+        </ul>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mahesh
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: LÖSUNGEN
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: LÖSUNGEN
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7b473779-c8a6-4947-9c50-23dc32a32abd"
+    - ID: "93dc88f3-05e5-482d-9b9a-c859c8258a73"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image mediaid="{BFD65698-7C8D-4389-A768-2D0A2DECA588}" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T094436Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211122T081421Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Solutions
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <h1>Solutions</h1>
+        <h2>Multiple markets, thousands of products, one end-to-end solutions provider</h2>
+        <p>Since its founding in 1984, AFL has expanded its product and services offering into dozens of markets across the globe. Today, we serve the <a href="/Solutions/Industrial/Electric-Utility">electric utility</a>, broadband, <a href="/Solutions/Industrial/Broadcast">communications</a>, enterprise and factory markets as well as the emerging markets of <a href="/Solutions/Industrial/Oil-and-Gas">oil and gas</a>, <a href="/Solutions/Industrial/Mining">mining</a>, <a href="/Solutions/Industrial/Nuclear">nuclear</a>, <a href="/Solutions/Industrial/Aerospace-and-Defense">avionics</a>, <a href="/Solutions/Industrial/Fiber-Optic-Component-and-Equipment-Mfg">renewables</a>,<a href="/Solutions/Industrial/Industrial-Environments"> harsh environment </a>and <a href="/Solutions/Industrial/Transportation">transportation</a>. Our market managers, engineers and technicians are dedicated to putting customers first and helping you with every step of your project. Choose AFL as your partner, and let us keep you connected to the industry’s most innovative solutions.</p>
+        <ul>
+            <li>
+            <h3><a href="/Solutions/Energy">Energy Market</a></h3>
+            </li>
+            <li>
+            <h3><a href="/Solutions/Enterprise">Enterprise Market</a></h3>
+            </li>
+            <li>
+            <h3><a href="/Solutions/Industrial">Industrial Market</a></h3>
+            </li>
+            <li>
+            <h3><a href="/Solutions/Service-Provider">Service Provider Market</a></h3>
+            </li>
+        </ul>
+    - ID: "56611f02-691a-4096-b044-63aa83122916"
+      Hint: Content
+      Value: |
+        <h1>Solutions</h1>
+        <h2>Multiple markets, thousands of products, one end-to-end solutions provider</h2>
+        <p>Since its founding in 1984, AFL has expanded its product and services offering into dozens of markets across the globe. Today, we serve the&nbsp;<a href="/Solutions/Industrial/Electric-Utility">electric utility</a>, broadband,&nbsp;<a href="/Solutions/Industrial/Broadcast">communications</a>, enterprise and factory markets as well as the emerging markets of&nbsp;<a href="/Solutions/Industrial/Oil-and-Gas">oil and gas</a>,&nbsp;<a href="/Solutions/Industrial/Mining">mining</a>,&nbsp;<a href="/Solutions/Industrial/Nuclear">nuclear</a>,&nbsp;<a href="/Solutions/Industrial/Aerospace-and-Defense">avionics</a>,&nbsp;<a href="/Solutions/Industrial/Fiber-Optic-Component-and-Equipment-Mfg">renewables</a>,<a href="/Solutions/Industrial/Industrial-Environments">&nbsp;harsh environment&nbsp;</a>and&nbsp;<a href="/Solutions/Industrial/Transportation">transportation</a>. Our market managers, engineers and technicians are dedicated to putting customers first and helping you with every step of your project. Choose AFL as your partner, and let us keep you connected to the industry&rsquo;s most innovative solutions.</p>
+        <ul>
+            <li>
+            <h3><a href="/Solutions/Energy">Energy Market</a></h3>
+            </li>
+            <li>
+            <h3><a href="/Solutions/Enterprise">Enterprise Market</a></h3>
+            </li>
+            <li>
+            <h3><a href="/Solutions/Industrial">Industrial Market</a></h3>
+            </li>
+            <li>
+            <h3><a href="/Solutions/Service-Provider">Service Provider Market</a></h3>
+            </li>
+        </ul>
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: Solutions
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: Solutions
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1c5a95d2-79e6-4bea-90ca-980a2afbbd83"
+    - ID: "93dc88f3-05e5-482d-9b9a-c859c8258a73"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image mediaid="{BFD65698-7C8D-4389-A768-2D0A2DECA588}" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\matt
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231219T214444Z
+- Language: "es-ES"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211122T081421Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Markets
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <h1>Markets</h1>
+        <h2>Multiple markets, thousands of products, one end-to-end solutions provider</h2>
+        <p>Since its founding in 1984, AFL has expanded its product and services offering into dozens of markets across the globe. Today, we serve the&nbsp;<a href="/Markets/Industries/Electric-Utility">electric utility</a>, broadband,&nbsp;<a href="/Markets/Industries/Broadcast">communications</a>, enterprise and factory markets as well as the emerging markets of&nbsp;<a href="/Markets/Industries/Oil-and-Gas">oil and gas</a>,&nbsp;<a href="/Markets/Industries/Mining">mining</a>,&nbsp;<a href="/Markets/Industries/Nuclear">nuclear</a>,&nbsp;<a href="/Markets/Industries/Aerospace-and-Defense">avionics</a>,&nbsp;<a href="/Markets/Industries/Fiber-Optic-Component-and-Equipment-Mfg">renewables</a>,<a href="/Markets/Industries/Industrial-Environments">&nbsp;harsh environment&nbsp;</a>and&nbsp;<a href="/Markets/Industries/Transportation">transportation</a>. Our market managers, engineers and technicians are dedicated to putting customers first and helping you with every step of your project. Choose AFL as your partner, and let us keep you connected to the industry&rsquo;s most innovative solutions.</p>
+        <ul>
+            <li>
+            <h3><a href="/Markets/Energy">Energy Market</a></h3>
+            </li>
+            <li>
+            <h3><a href="/Markets/Enterprise">Enterprise Market</a></h3>
+            </li>
+            <li>
+            <h3><a href="/Markets/Industrial">Industrial Market</a></h3>
+            </li>
+            <li>
+            <h3><a href="/Markets/Service-Provider">Service Provider Market</a></h3>
+            </li>
+        </ul>
+    - ID: "56611f02-691a-4096-b044-63aa83122916"
+      Hint: Content
+      Value: |
+        <h1>Markets</h1>
+        <h2>Multiple markets, thousands of products, one end-to-end solutions provider</h2>
+        <p>Since its founding in 1984, AFL has expanded its product and services offering into dozens of markets across the globe. Today, we serve the&nbsp;<a href="/Markets/Industries/Electric-Utility">electric utility</a>, broadband,&nbsp;<a href="/Markets/Industries/Broadcast">communications</a>, enterprise and factory markets as well as the emerging markets of&nbsp;<a href="/Markets/Industries/Oil-and-Gas">oil and gas</a>,&nbsp;<a href="/Markets/Industries/Mining">mining</a>,&nbsp;<a href="/Markets/Industries/Nuclear">nuclear</a>,&nbsp;<a href="/Markets/Industries/Aerospace-and-Defense">avionics</a>,&nbsp;<a href="/Markets/Industries/Fiber-Optic-Component-and-Equipment-Mfg">renewables</a>,<a href="/Markets/Industries/Industrial-Environments">&nbsp;harsh environment&nbsp;</a>and&nbsp;<a href="/Markets/Industries/Transportation">transportation</a>. Our market managers, engineers and technicians are dedicated to putting customers first and helping you with every step of your project. Choose AFL as your partner, and let us keep you connected to the industry&rsquo;s most innovative solutions.</p>
+        <ul>
+            <li>
+            <h3><a href="/Markets/Energy">Energy Market</a></h3>
+            </li>
+            <li>
+            <h3><a href="/Markets/Enterprise">Enterprise Market</a></h3>
+            </li>
+            <li>
+            <h3><a href="/Markets/Industrial">Industrial Market</a></h3>
+            </li>
+            <li>
+            <h3><a href="/Markets/Service-Provider">Service Provider Market</a></h3>
+            </li>
+        </ul>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mahesh
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: Markets
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a7bc5ab1-25a7-43c6-8f92-0b80ec6b7fb0"
+    - ID: "93dc88f3-05e5-482d-9b9a-c859c8258a73"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image mediaid="{BFD65698-7C8D-4389-A768-2D0A2DECA588}" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahesh
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220224T113544Z
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211122T081421Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: SOLUCIONES
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <h1>Solutions</h1>
+        <h2>Multiple markets, thousands of products, one end-to-end solutions provider</h2>
+        <p>Since its founding in 1984, AFL has expanded its product and services offering into dozens of markets across the globe. Today, we serve the <a href="/Solutions/Industrial/Electric-Utility">electric utility</a>, broadband, <a href="/Solutions/Industrial/Broadcast">communications</a>, enterprise and factory markets as well as the emerging markets of <a href="/Solutions/Industrial/Oil-and-Gas">oil and gas</a>, <a href="/Solutions/Industrial/Mining">mining</a>, <a href="/Solutions/Industrial/Nuclear">nuclear</a>, <a href="/Solutions/Industrial/Aerospace-and-Defense">avionics</a>, <a href="/Solutions/Industrial/Fiber-Optic-Component-and-Equipment-Mfg">renewables</a>,<a href="/Solutions/Industrial/Industrial-Environments"> harsh environment </a>and <a href="/Solutions/Industrial/Transportation">transportation</a>. Our market managers, engineers and technicians are dedicated to putting customers first and helping you with every step of your project. Choose AFL as your partner, and let us keep you connected to the industry’s most innovative solutions.</p>
+        <ul>
+            <li>
+            <h3><a href="/Solutions/Energy">Energy Market</a></h3>
+            </li>
+            <li>
+            <h3><a href="/Solutions/Enterprise">Enterprise Market</a></h3>
+            </li>
+            <li>
+            <h3><a href="/Solutions/Industrial">Industrial Market</a></h3>
+            </li>
+            <li>
+            <h3><a href="/Solutions/Service-Provider">Service Provider Market</a></h3>
+            </li>
+        </ul>
+    - ID: "56611f02-691a-4096-b044-63aa83122916"
+      Hint: Content
+      Value: |
+        <h1>Solutions</h1>
+        <h2>Multiple markets, thousands of products, one end-to-end solutions provider</h2>
+        <p>Since its founding in 1984, AFL has expanded its product and services offering into dozens of markets across the globe. Today, we serve the&nbsp;<a href="/Solutions/Industrial/Electric-Utility">electric utility</a>, broadband,&nbsp;<a href="/Solutions/Industrial/Broadcast">communications</a>, enterprise and factory markets as well as the emerging markets of&nbsp;<a href="/Solutions/Industrial/Oil-and-Gas">oil and gas</a>,&nbsp;<a href="/Solutions/Industrial/Mining">mining</a>,&nbsp;<a href="/Solutions/Industrial/Nuclear">nuclear</a>,&nbsp;<a href="/Solutions/Industrial/Aerospace-and-Defense">avionics</a>,&nbsp;<a href="/Solutions/Industrial/Fiber-Optic-Component-and-Equipment-Mfg">renewables</a>,<a href="/Solutions/Industrial/Industrial-Environments">&nbsp;harsh environment&nbsp;</a>and&nbsp;<a href="/Solutions/Industrial/Transportation">transportation</a>. Our market managers, engineers and technicians are dedicated to putting customers first and helping you with every step of your project. Choose AFL as your partner, and let us keep you connected to the industry&rsquo;s most innovative solutions.</p>
+        <ul>
+            <li>
+            <h3><a href="/Solutions/Energy">Energy Market</a></h3>
+            </li>
+            <li>
+            <h3><a href="/Solutions/Enterprise">Enterprise Market</a></h3>
+            </li>
+            <li>
+            <h3><a href="/Solutions/Industrial">Industrial Market</a></h3>
+            </li>
+            <li>
+            <h3><a href="/Solutions/Service-Provider">Service Provider Market</a></h3>
+            </li>
+        </ul>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mahesh
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: SOLUCIONES
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: SOLUCIONES
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "42a25ee6-80d1-40bb-bffb-c9970cd3a5b5"
+    - ID: "93dc88f3-05e5-482d-9b9a-c859c8258a73"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image mediaid="{BFD65698-7C8D-4389-A768-2D0A2DECA588}" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T094436Z
+- Language: "fr-FR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211122T081421Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Solutions
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <h1>Solutions</h1>
+        <h2>Multiple markets, thousands of products, one end-to-end solutions provider</h2>
+        <p>Since its founding in 1984, AFL has expanded its product and services offering into dozens of markets across the globe. Today, we serve the <a href="/Solutions/Industrial/Electric-Utility">electric utility</a>, broadband, <a href="/Solutions/Industrial/Broadcast">communications</a>, enterprise and factory markets as well as the emerging markets of <a href="/Solutions/Industrial/Oil-and-Gas">oil and gas</a>, <a href="/Solutions/Industrial/Mining">mining</a>, <a href="/Solutions/Industrial/Nuclear">nuclear</a>, <a href="/Solutions/Industrial/Aerospace-and-Defense">avionics</a>, <a href="/Solutions/Industrial/Fiber-Optic-Component-and-Equipment-Mfg">renewables</a>,<a href="/Solutions/Industrial/Industrial-Environments"> harsh environment </a>and <a href="/Solutions/Industrial/Transportation">transportation</a>. Our market managers, engineers and technicians are dedicated to putting customers first and helping you with every step of your project. Choose AFL as your partner, and let us keep you connected to the industry’s most innovative solutions.</p>
+        <ul>
+            <li>
+            <h3><a href="/Solutions/Energy">Energy Market</a></h3>
+            </li>
+            <li>
+            <h3><a href="/Solutions/Enterprise">Enterprise Market</a></h3>
+            </li>
+            <li>
+            <h3><a href="/Solutions/Industrial">Industrial Market</a></h3>
+            </li>
+            <li>
+            <h3><a href="/Solutions/Service-Provider">Service Provider Market</a></h3>
+            </li>
+        </ul>
+    - ID: "56611f02-691a-4096-b044-63aa83122916"
+      Hint: Content
+      Value: |
+        <h1>Solutions</h1>
+        <h2>Multiple markets, thousands of products, one end-to-end solutions provider</h2>
+        <p>Since its founding in 1984, AFL has expanded its product and services offering into dozens of markets across the globe. Today, we serve the&nbsp;<a href="/Solutions/Industrial/Electric-Utility">electric utility</a>, broadband,&nbsp;<a href="/Solutions/Industrial/Broadcast">communications</a>, enterprise and factory markets as well as the emerging markets of&nbsp;<a href="/Solutions/Industrial/Oil-and-Gas">oil and gas</a>,&nbsp;<a href="/Solutions/Industrial/Mining">mining</a>,&nbsp;<a href="/Solutions/Industrial/Nuclear">nuclear</a>,&nbsp;<a href="/Solutions/Industrial/Aerospace-and-Defense">avionics</a>,&nbsp;<a href="/Solutions/Industrial/Fiber-Optic-Component-and-Equipment-Mfg">renewables</a>,<a href="/Solutions/Industrial/Industrial-Environments">&nbsp;harsh environment&nbsp;</a>and&nbsp;<a href="/Solutions/Industrial/Transportation">transportation</a>. Our market managers, engineers and technicians are dedicated to putting customers first and helping you with every step of your project. Choose AFL as your partner, and let us keep you connected to the industry&rsquo;s most innovative solutions.</p>
+        <ul>
+            <li>
+            <h3><a href="/Solutions/Energy">Energy Market</a></h3>
+            </li>
+            <li>
+            <h3><a href="/Solutions/Enterprise">Enterprise Market</a></h3>
+            </li>
+            <li>
+            <h3><a href="/Solutions/Industrial">Industrial Market</a></h3>
+            </li>
+            <li>
+            <h3><a href="/Solutions/Service-Provider">Service Provider Market</a></h3>
+            </li>
+        </ul>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mahesh
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: Solutions
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: Solutions
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "32f84d82-4d3d-4676-bf9a-d1e054385974"
+    - ID: "93dc88f3-05e5-482d-9b9a-c859c8258a73"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image mediaid="{BFD65698-7C8D-4389-A768-2D0A2DECA588}" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T094436Z
