@@ -1,0 +1,48 @@
+﻿---
+ID: "82ea20d7-f912-4ef8-b759-529b60c86b10"
+Parent: "dfc220bd-6bb4-4c9b-83d1-8a7acb9fd4eb"
+Template: "962b53c4-f93b-4df9-9821-415c867b8903"
+Path: "/sitecore/media library/Themes/AFL-Global/AFL-NA/AFL-NA/sass/component-common"
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/82EA20D7F9124EF8B759529B60C86B10.ashx?h=16&thn=1&w=16"
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "2df9f3d8-2ea0-4dc3-bf7b-38e3a5a00430"
+  Value: QGNoYXJzZXQgIlVURi04IjsNCg0KI3dyYXBwZXIgew0KCW92ZXJmbG93OiBoaWRkZW47DQp9DQoNCg0KDQoucm93LmNvbHVtbi1zcGxpdHRlciB7DQoJbWFyZ2luLWxlZnQ6IDA7DQoJbWFyZ2luLXJpZ2h0OiAwOw0KDQoJPmRpdiB7DQoJCXBhZGRpbmctbGVmdDogMDsNCgkJcGFkZGluZy1yaWdodDogMDsNCgl9DQp9DQoNCg0KDQouaW1hZ2Ugew0KCWEgew0KCQlkaXNwbGF5OiBpbmxpbmUtYmxvY2s7DQoJCW1heC13aWR0aDogMTAwJTsNCgl9DQoNCglpbWcgew0KCQltYXgtd2lkdGg6IDEwMCU7DQoJCWhlaWdodDogYXV0bzsNCgl9DQp9DQoNCg0KLmNvbnRlbnQgew0KCWJhY2tncm91bmQ6IDAgMDsNCgljb2xvcjogIzc0NzQ3NDsNCglib3JkZXI6IHRyYW5zcGFyZW50Ow0KCWxpbmUtaGVpZ2h0OiAxLjU7DQoJZm9udC1zaXplOiAxMnB4Ow0KCW92ZXJmbG93OiBoaWRkZW47DQp9DQoNCi5yaWNoLXRleHQgew0KCWJhY2tncm91bmQ6IDAgMDsNCgljb2xvcjogIzc0NzQ3NDsNCglib3JkZXI6IHRyYW5zcGFyZW50Ow0KCWxpbmUtaGVpZ2h0OiAxLjU7DQoJZm9udC1zaXplOiAxMnB4Ow0KCW92ZXJmbG93OiBoaWRkZW47DQoNCn0NCg0K
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 588
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: "application/octet-stream"
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: scss
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211208T134612Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ada26961-3421-44cd-a118-5bd903568eac"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\jeetendra
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220228T071649Z

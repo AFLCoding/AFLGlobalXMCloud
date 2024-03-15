@@ -1,0 +1,73 @@
+﻿---
+ID: "27ae1351-0e92-432a-886f-f5acb0f46cb2"
+Parent: "a3bcd026-175e-4bb0-97ea-101533dd6443"
+Template: "962b53c4-f93b-4df9-9821-415c867b8903"
+Path: "/sitecore/media library/Themes/AFL-Global/AFL-Oceania/AFL-Oceania/Scripts/2-3-component-header"
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/C651862D46744FA2B1F018E85EBE81F2.ashx?h=16&thn=1&w=16"
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "7e7d2dfb-88df-43f5-a7bc-12e61afb31c0"
+  Value: WEEuY29tcG9uZW50LkFGTGhlYWRlciA9IChmdW5jdGlvbiAoJCkgew0KDQogICAgdmFyIGFwaSA9IHt9Ow0KICAgIGFwaS5pbml0ID0gZnVuY3Rpb24gKCkgew0KDQogICAgICAgIC8qPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09DQogICAgICAgICAgICAgICAgICAgICAgICBGaXhlZCBoZWFkZXINCiAgICAgICAgPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PSovDQoNCiAgICAgICAgd2luZG93Lm9uc2Nyb2xsID0gZnVuY3Rpb24gKCkgew0KICAgICAgICAgICAgJChzdGlja3lFbGVtZW50KS5lYWNoKGZ1bmN0aW9uICgpIHsNCiAgICAgICAgICAgICAgICB2YXIgc3RpY2t5RWxlbWVudFBvc2l0aW9uID0gdGhpcy5wYXJlbnRFbGVtZW50Lm9mZnNldFRvcDsNCiAgICAgICAgICAgICAgICBpZiAoJCh0aGlzKS5sZW5ndGgpIHsNCiAgICAgICAgICAgICAgICAgICAgU3RpY2t5KHRoaXMsIHN0aWNreUVsZW1lbnRQb3NpdGlvbik7DQogICAgICAgICAgICAgICAgfQ0KICAgICAgICAgICAgfSkNCiAgICAgICAgfTsNCg0KICAgICAgICB2YXIgc3RpY2t5RWxlbWVudCA9IGRvY3VtZW50LnF1ZXJ5U2VsZWN0b3JBbGwoIi5hZmwtY29tcG9uZW50LXN0aWNreSIpOw0KICAgICAgICAkKHN0aWNreUVsZW1lbnQpLmVhY2goZnVuY3Rpb24gKCkgew0KICAgICAgICAgICAgdmFyIHN0aWNreUVsZW1lbnRIZWlnaHQgPSB0aGlzLmNsaWVudEhlaWdodCArICdweCc7DQogICAgICAgICAgICAkKHRoaXMpLndyYXBBbGwoJzxkaXYgY2xhc3M9InN0aWNreS1wbGFjZWhvbGRlciIgc3R5bGU9Im1pbi1oZWlnaHQ6JyArIHN0aWNreUVsZW1lbnRIZWlnaHQgKyAnIj48L2Rpdj4nKTsNCiAgICAgICAgfSkNCiAgICAgICAgJCgnLmdsb2JhbC1zZWFyY2gnKS5wYXJlbnQoJy5zdGlja3ktcGxhY2Vob2xkZXInKS5hZGRDbGFzcygnZ2xvYmFsLXNlYXJjaC13cmFwcGVyJyk7DQoNCiAgICAgICAgZnVuY3Rpb24gU3RpY2t5KHNFbGVtZW50LCBzdGlja3lFbGVtZW50UG9zaXRpb24pIHsNCg0KICAgICAgICAgICAgaWYgKHdpbmRvdy5wYWdlWU9mZnNldCA+IHN0aWNreUVsZW1lbnRQb3NpdGlvbikgew0KICAgICAgICAgICAgICAgICQoc0VsZW1lbnQpLmNzcygndG9wJywgc3RpY2t5RWxlbWVudFBvc2l0aW9uKTsNCiAgICAgICAgICAgICAgICBzRWxlbWVudC5jbGFzc0xpc3QuYWRkKCJzdGlja3kiKTsNCg0KICAgICAgICAgICAgfSBlbHNlIHsNCiAgICAgICAgICAgICAgICAkKHNFbGVtZW50KS5jc3MoJ3RvcCcsICcnKTsNCiAgICAgICAgICAgICAgICBzRWxlbWVudC5jbGFzc0xpc3QucmVtb3ZlKCJzdGlja3kiKTsNCg0KICAgICAgICAgICAgfQ0KICAgICAgICB9DQoNCiAgICAgICAgJCgnc2VsZWN0I2RkbE1hcmtldFNlbGVjdGlvbicpLmVkeUN1c3RvbVNlbGVjdEJveCgpOw0KICAgICAgICAkKCdib2R5LC5zdHlsaXNoLXNlbGVjdC1sZWZ0JykuY2xpY2soZnVuY3Rpb24oKXsNCiAgICAgICAgICAgICQoJy5sYW5ndWFnZS1zZWxlY3Rvci1pdGVtLWNvbnRhaW5lcicpLnNsaWRlVXAoKTsNCiAgICAgICAgfSkNCiAgICAgICAgJCgnLmxhbmd1YWdlLXNlbGVjdG9yJykuY2xpY2soZnVuY3Rpb24oZSl7ICAgICAgICAgICAgDQogICAgICAgICAgICBlLnN0b3BQcm9wYWdhdGlvbigpOw0KICAgICAgICB9KQ0KDQogICAgICAgICQoJy5sYW5ndWFnZS1zZWxlY3Rvci1zZWxlY3QtaXRlbScpLmNsaWNrKGZ1bmN0aW9uKGUpeyAgICAgICAgICAgIA0KICAgICAgICAgICAgJCgndWwubGlzdGluZycpLnNsaWRlVXAoKTsNCiAgICAgICAgfSkNCg0KICAgICAgICANCiAgICAgICAgY29uc3QgcGFyYSA9ICQoJy5hZmwtYmFubmVyIC5iYW5uZXItZGVzY3JpcHRpb24gcCcpOw0KICAgICAgICBjb25zdCByZWFkbW9yZUxpbmsgPSAkKCcnKTsNCiAgICAgICAgY29uc3QgY29uZmlnID0gew0KICAgICAgICAgICAgY2hhcmFjdGVyOiAnLi4uICA8YSBocmVmPSInKyByZWFkbW9yZUxpbmsgKyciPlJlYWQgbW9yZTwvYT4nDQogICAgICAgIH0NCiAgICAgICAgc2hhdmUocGFyYSwgNzAsIGNvbmZpZyk7DQoNCiAgICB9DQogICAgcmV0dXJuIGFwaTsNCn0pKGpRdWVyeSk7DQoNClhBLnJlZ2lzdGVyKCJBRkxoZWFkZXIiLCBYQS5jb21wb25lbnQuQUZMaGVhZGVyKTs=
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 2159
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: "application/x-javascript"
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: js
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211222T170026Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\jeetendra
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\jeetendra
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "63f50a0e-d99e-4dc5-802b-7ec6bfcc7a30"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\jeetendra
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220201T103445Z
+- Language: "fr-FR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211222T170027Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\jeetendra
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\jeetendra
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "aaf1eadf-0186-4e41-9c09-357205c367e9"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\jeetendra
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20211222T170027Z

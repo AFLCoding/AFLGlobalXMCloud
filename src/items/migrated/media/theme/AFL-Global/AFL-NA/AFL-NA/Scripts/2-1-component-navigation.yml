@@ -1,0 +1,73 @@
+﻿---
+ID: "dae5fae7-69e2-4e5c-8811-8759279ce4ef"
+Parent: "3f6c5267-f0fa-471e-a69c-d3927823424e"
+Template: "962b53c4-f93b-4df9-9821-415c867b8903"
+Path: "/sitecore/media library/Themes/AFL-Global/AFL-NA/AFL-NA/Scripts/2-1-component-navigation"
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/DAE5FAE769E24E5C88118759279CE4EF.ashx?h=16&thn=1&w=16"
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "f4415949-cf84-4c11-8d9f-3c661f0fb6a6"
+  Value: WEEuY29tcG9uZW50LkFGTG5hdmlnYXRpb24gPSAoZnVuY3Rpb24gKCQpIHsNCg0KICAgIHZhciBhcGkgPSB7fTsNCiAgICBhcGkuaW5pdCA9IGZ1bmN0aW9uICgpIHsNCg0KICAgICAgICAkKCcubmF2aWdhdGlvbi1tYWluIHVsLm5hdmxldmVsMicpLmVhY2goZnVuY3Rpb24gKCkgew0KICAgICAgICAgICAgJCh0aGlzKS5wcmVwZW5kKCc8YnV0dG9uIGNsYXNzPSJhZmwtY2xvc2UtYnRuIG5hdi1jbG9zZSI+PC9idXR0b24+Jyk7DQogICAgICAgICAgICAkKHRoaXMpLmNoaWxkcmVuKCdsaScpLndyYXBBbGwoJzxkaXYgY2xhc3M9InN1Ym5hdi13cmFwcGVyIj48ZGl2IGNsYXNzPSJsZXZlbDJXcmFwcGVyIj48L2Rpdj48L2Rpdj4nKTsNCiAgICAgICAgfSk7DQogICAgICAgICQoJy5uYXZpZ2F0aW9uLW1haW4gdWwubmF2bGV2ZWwzJykuZWFjaChmdW5jdGlvbiAoKSB7DQogICAgICAgICAgICAkKHRoaXMpLmNoaWxkcmVuKCdsaScpLndyYXBBbGwoJzxkaXYgY2xhc3M9ImxldmVsM1dyYXBwZXIiPjwvZGl2PicpOw0KICAgICAgICB9KTsNCiAgICAgICAgJCgnLm5hdmlnYXRpb24tbWFpbiB1bC5uYXZsZXZlbDEgPiBsaS5sZXZlbDEnKS5lYWNoKGZ1bmN0aW9uICgpIHsNCiAgICAgICAgICAgIHZhciBGaXJzdFRpdGxlID0gJCh0aGlzKS5jaGlsZHJlbignLm5hdmlnYXRpb24tdGl0bGUnKS5odG1sKCk7DQogICAgICAgICAgICB2YXIgRmlyc3Rjb250ZW50ID0gJCh0aGlzKS5jaGlsZHJlbignLm5hdmlnYXRpb24tdGl0bGUnKS5maW5kKCdhJykudGV4dCgpOw0KICAgICAgICAgICAgJCh0aGlzKS5maW5kKCcubGV2ZWwzV3JhcHBlcicpLmJlZm9yZSgnPGRpdiBjbGFzcz0ibmF2LW1vYmlsZS10aXRsZSI+QmFjayB0byAnICsgRmlyc3Rjb250ZW50ICsgJzwvZGl2PicpOw0KICAgICAgICAgICAgJCh0aGlzKS5jaGlsZHJlbigndWwubmF2bGV2ZWwyJykuZmluZCgnLmxldmVsMldyYXBwZXInKS5wcmVwZW5kKCc8ZGl2IGNsYXNzPSJuYXYtdGl0bGUtd3JhcHBlciI+PGg0IGNsYXNzPSJmaXJzdC10aXRsZSI+JyArIEZpcnN0VGl0bGUgKyAnPC9oND48L2Rpdj4nKQ0KICAgICAgICAgICAgJCh0aGlzKS5maW5kKCcuc3VibmF2LXdyYXBwZXInKS5iZWZvcmUoJzxkaXYgY2xhc3M9Im5hdi1tb2JpbGUtdGl0bGUiPiBCYWNrIHRvIE1haW4gTWVudSA8L2Rpdj4nKTsNCiAgICAgICAgfSk7DQogICAgICAgICQoJy5uYXZpZ2F0aW9uLW1haW4gdWwubmF2bGV2ZWwyICBsaS5sZXZlbDInKS5lYWNoKGZ1bmN0aW9uICgpIHsNCiAgICAgICAgICAgIHZhciBzZWNvbmRUaXRsZSA9ICQodGhpcykuY2hpbGRyZW4oJy5uYXZpZ2F0aW9uLXRpdGxlJykuaHRtbCgpOw0KICAgICAgICAgICAgJCh0aGlzKS5jaGlsZHJlbigndWwubmF2bGV2ZWwzJykuZmluZCgnLmxldmVsM1dyYXBwZXInKS5iZWZvcmUoJzxkaXYgY2xhc3M9Im5hdi10aXRsZS13cmFwcGVyIj48aDQgY2xhc3M9InNlY29uZC10aXRsZSI+JyArIHNlY29uZFRpdGxlICsgJzwvaDQ+PC9kaXY+JykNCiAgICAgICAgfSk7DQoNCiAgICAgICAgJCgnLmxvZ28nKS5wcmVwZW5kKCc8ZGl2IGNsYXNzPSJtb2JpbGUtdHJpZ2VyIj48c3Bhbj48L3NwYW4+PC9kaXY+JykNCiAgICAgICAgJCgnLm1vYmlsZS10cmlnZXInKS5jbGljayhmdW5jdGlvbiAoKSB7DQogICAgICAgICAgICAkKCdib2R5JykudG9nZ2xlQ2xhc3MoJ21vYmlsZS1vcGVuJyk7DQogICAgICAgIH0pOw0KDQogICAgICAgICQoJy5uYXZpZ2F0aW9uLW1haW4gbGkuc3VibWVudS5sZXZlbDEgID4gLm5hdmlnYXRpb24tdGl0bGUgYScpLmNsaWNrKGZ1bmN0aW9uIChlKSB7DQogICAgICAgICAgICBlLnByZXZlbnREZWZhdWx0KCk7DQogICAgICAgICAgICBlLnN0b3BQcm9wYWdhdGlvbigpOw0KICAgICAgICAgICAgdmFyIG5hdml0dGVtID0gJCh0aGlzKS5wYXJlbnQoJy5uYXZpZ2F0aW9uLXRpdGxlJykucGFyZW50KCdsaS5zdWJtZW51ICcpOw0KICAgICAgICAgICAgbmF2aXR0ZW0udG9nZ2xlQ2xhc3MoJ3N1Ym1lbnUtb3BlbicpOw0KICAgICAgICAgICAgc3VibmF2T3BlbihuYXZpdHRlbSkNCiAgICAgICAgfSk7DQogICAgICAgICQoJy5uYXZpZ2F0aW9uLW1haW4gbGkuc3VibWVudS5sZXZlbDIgID4gLm5hdmlnYXRpb24tdGl0bGUgYScpLmNsaWNrKGZ1bmN0aW9uIChlKSB7DQogICAgICAgICAgICBlLnByZXZlbnREZWZhdWx0KCk7DQogICAgICAgICAgICB2YXIgbmF2aXR0ZW0gPSAkKHRoaXMpLnBhcmVudCgnLm5hdmlnYXRpb24tdGl0bGUnKS5wYXJlbnQoJ2xpLnN1Ym1lbnUgJyk7DQogICAgICAgICAgICBuYXZpdHRlbS5hZGRDbGFzcygnc3VibWVudS1vcGVuJyk7DQogICAgICAgICAgICBzdWJuYXZPcGVuKG5hdml0dGVtKQ0KICAgICAgICB9KTsNCiAgICAgICAgJCgnLm5hdmlnYXRpb24tbWFpbicpLmNsaWNrKGZ1bmN0aW9uIChlKSB7DQogICAgICAgICAgICBlLnN0b3BQcm9wYWdhdGlvbigpOw0KICAgICAgICB9KQ0KICAgICAgICAkKCcubmF2LW1vYmlsZS10aXRsZSwubmF2LWNsb3NlJykuY2xpY2soZnVuY3Rpb24gKCkgew0KICAgICAgICAgICAgJCh0aGlzKS5wYXJlbnQoJ3VsJykucGFyZW50KCdsaS5zdWJtZW51JykucmVtb3ZlQ2xhc3MoJ3N1Ym1lbnUtb3BlbicpOw0KICAgICAgICB9KQ0KDQogICAgICAgIGZ1bmN0aW9uIHN1Ym5hdk9wZW4oc3VibmF2c2VsZWN0b3IpIHsNCiAgICAgICAgICAgIHN1Ym5hdnNlbGVjdG9yLnNpYmxpbmdzKCdsaScpLnJlbW92ZUNsYXNzKCdzdWJtZW51LW9wZW4gZmlyc3QnKTsNCiAgICAgICAgfQ0KICAgICAgICAkKCdib2R5JykuY2xpY2soZnVuY3Rpb24gKCkgew0KICAgICAgICAgICAgJCgnLm5hdmlnYXRpb24tbWFpbiBsaS5zdWJtZW51LmxldmVsMScpLnJlbW92ZUNsYXNzKCdzdWJtZW51LW9wZW4nKTsNCiAgICAgICAgfSk7DQogICAgICAgIC8vIEJhbm5lciBOYXZpZ2F0aW9uDQogICAgICAgICQoJy5hZmwtYnRuZ3JvdXAgbGknKS5maXJzdCgpLmFkZENsYXNzKCdhY3RpdmUnKTsNCiAgICAgICAgJCgnLmFmbC1idG5ncm91cCBsaScpLmNsaWNrKGZ1bmN0aW9uICgpIHsNCiAgICAgICAgICAgICQodGhpcykucGFyZW50KCcuYWZsLWJ0bmdyb3VwJykudG9nZ2xlQ2xhc3MoJ2JyZWFkY3J1bWItb3BlbicpOw0KICAgICAgICAgICAgJCh0aGlzKS5hZGRDbGFzcygnYWN0aXZlJyk7DQogICAgICAgICAgICAkKHRoaXMpLnNpYmxpbmdzKCkucmVtb3ZlQ2xhc3MoJ2FjdGl2ZScpOw0KDQogICAgICAgIH0pDQoNCg0KDQogICAgfQ0KDQoNCg0KICAgIHJldHVybiBhcGk7DQp9KShqUXVlcnkpOw0KDQpYQS5yZWdpc3RlcigiQUZMbmF2aWdhdGlvbiIsIFhBLmNvbXBvbmVudC5BRkxuYXZpZ2F0aW9uKTs=
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 3323
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: "application/x-javascript"
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: js
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211226T202300Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\jeetendra
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\jeetendra
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e31dac23-6852-44fe-a546-3395581bcacb"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\jeetendra
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220302T101837Z
+- Language: "fr-FR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211226T202301Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\jeetendra
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\jeetendra
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a6f9da52-fb1d-4d98-b50d-86f1d9a72afc"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\jeetendra
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20211226T202301Z

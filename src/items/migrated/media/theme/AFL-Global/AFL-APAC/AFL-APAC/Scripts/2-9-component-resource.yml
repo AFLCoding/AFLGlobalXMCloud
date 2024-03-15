@@ -1,0 +1,48 @@
+﻿---
+ID: "942cc42a-53c3-4e76-9a68-ae257de7aa62"
+Parent: "92f25393-0874-4ddb-92ae-1e7ee892c39b"
+Template: "962b53c4-f93b-4df9-9821-415c867b8903"
+Path: "/sitecore/media library/Themes/AFL-Global/AFL-APAC/AFL-APAC/Scripts/2-9-component-resource"
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/B774991B21944C5CBF053D63DAF3C6A4.ashx?h=16&thn=1&w=16"
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "00653680-f2a3-440a-9c3b-10ed9e8a5a16"
+  Value: WEEuY29tcG9uZW50LkFGTHJlc291cmNlID0gKGZ1bmN0aW9uKCQpIHsNCg0KICAgIHZhciBhcGkgPSB7fTsNCiAgICBhcGkuaW5pdCA9IGZ1bmN0aW9uKCkgew0KICAgICAgICAkKGRvY3VtZW50KS5vbignY2xpY2snLCAnLmFmbC1yZXNvdXJjZSAgLmJ0biAuYWZsLWxvYWRtb3JlIGEnLCBmdW5jdGlvbigpIHsNCiAgICAgICAgICAgIC8vICQoJy5hZmwtcmVzb3VyY2UgLmFmbC1udW1iZXJpdGVtVGlsZXMnKS5zbGlkZURvd24oMTAwMCkuY3NzKHsNCiAgICAgICAgICAgIC8vICAgICAnaGVpZ2h0JzogJ2F1dG8nLA0KICAgICAgICAgICAgLy8gfSk7DQogICAgICAgICAgICAkKCIuYWZsLXJlc291cmNlIC5hZmwtbnVtYmVyaXRlbVRpbGVzIC5hZmwtdGlsZXNJdGVtIikucmVtb3ZlQ2xhc3MoImFmbC10aWxlaGlkZSIpOw0KICAgICAgICAgICAgJCgiLmFmbC1sb2FkbGVzcyIpLnJlbW92ZUNsYXNzKCJkLW5vbmUiKTsNCiAgICAgICAgICAgICQoIi5hZmwtbG9hZG1vcmUiKS5hZGRDbGFzcygiZC1ub25lIik7DQogICAgICAgICAgICAkKCcuYWZsLXJlc291cmNlIC5hZmwtbnVtYmVyaXRlbVRpbGVzJykucmVtb3ZlQXR0cigic3R5bGUiKTsNCiAgICAgICAgfSk7DQogICAgICAgICQoZG9jdW1lbnQpLm9uKCdjbGljaycsICcuYWZsLXJlc291cmNlICAuYnRuIC5hZmwtbG9hZGxlc3MgYScsIGZ1bmN0aW9uKCkgew0KICAgICAgICAgICAgLy8gJCgiLmFmbC1yZXNvdXJjZSAuYWZsLW51bWJlcml0ZW1UaWxlcyIpLmNzcygiaGVpZ2h0IiwgIiA2MjVweCAhaW1wb3J0YW50Iik7DQogICAgICAgICAgICAkKCcuYWZsLXJlc291cmNlIC5hZmwtbnVtYmVyaXRlbVRpbGVzJykuYXR0cignc3R5bGUnLCAnaGVpZ2h0OjYyNXB4OyBvdmVyZmxvdzogaGlkZGVuOycpOw0KICAgICAgICAgICAgJCgiLmFmbC1sb2FkbGVzcyIpLmFkZENsYXNzKCJkLW5vbmUiKTsNCiAgICAgICAgICAgICQoIi5hZmwtbG9hZG1vcmUiKS5yZW1vdmVDbGFzcygiZC1ub25lIik7DQogICAgICAgIH0pOw0KICAgIH0NCg0KDQoNCiAgICByZXR1cm4gYXBpOw0KfSkoalF1ZXJ5KTsNCg0KWEEucmVnaXN0ZXIoIkFGTHJlc291cmNlIiwgWEEuY29tcG9uZW50LkFGTHJlc291cmNlKTs=
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 1103
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: "application/x-javascript"
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: js
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220102T053554Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\jyoti
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\jyoti
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "fb43d42b-c5a2-4c6e-b64f-236886c53f11"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\jeetendra
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220203T152211Z
