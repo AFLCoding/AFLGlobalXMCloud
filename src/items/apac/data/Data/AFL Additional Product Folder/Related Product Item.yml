@@ -1,0 +1,48 @@
+﻿---
+ID: "b26694dd-bf53-4b49-b666-c1eb69581f13"
+Parent: "85690c17-e889-44d9-83dc-0a902932a25c"
+Template: "e7037b42-b31a-46f2-821f-66db5e18b889"
+Path: "/sitecore/content/AFL-Global/APAC/Data/AFL Additional Product Folder/Related Product Item"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211108T041905Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f1e449b9-88f9-4514-b012-5aeb7dd4e86a"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahesh
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220205T120532Z
+    - ID: "fb72ff1d-6b1d-4970-916a-8162ff077e62"
+      Hint: ProcutItems
+      Value: |
+        {9BDF720B-F4CB-4764-9D84-B6D0FD4DCFE6}
+        {B68E9FF9-43D3-4F1D-9541-8E8EB171A2E5}
+        {6C5CCB78-4269-439D-8489-CD532505BD8B}
+        {99B517ED-F180-4751-A929-80D7EDB31EB2}
+        {5C3A517E-FA15-4454-A1B9-81077A149890}
+        {DE911D25-49F4-4817-9044-A006AFBC482B}
+        {2345D903-9A9B-4E1B-BC39-8FDFDAEE18FB}
+        {059F7BFF-EE88-4947-A0A3-4240ECF6C0C8}
+        {59353DDA-175C-46BC-A156-A618D1A114E4}
+        {6943F072-93D8-4634-B1A9-20738D8BDB83}
+        {339D4D17-A7D7-4579-AB76-6063D1725AE5}
+        {5963E00D-3078-413C-97EB-D7E05E2D93D2}
+        {D261AFC4-192E-45C3-92D0-849E2AA0F75A}
+        {A4EC3D03-661D-4E2F-A59B-32D634A4071D}

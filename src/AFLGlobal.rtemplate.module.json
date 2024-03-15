@@ -2,9 +2,9 @@
 	"$schema": "../.sitecore/schemas/ModuleFile.schema.json",
 	"namespace": "AFLGlobal.Template",
 	"items": {
-		"includes": [			
+		"includes": [
 			{
-				"name": "headlesstemplateProject",
+				"name": "template/Project",
 				"path": "/sitecore/templates/Project/AFLGlobal",
 				"rules": [
 					{
@@ -15,7 +15,7 @@
 				]
 			},
 			{
-				"name": "templateProject",
+				"name": "migrated/template/Project",
 				"path": "/sitecore/templates/Project/AFL-Global",
 				"rules": [
 					{
@@ -26,7 +26,7 @@
 				]
 			},
 			{
-				"name": "branchesFeature",
+				"name": "migrated/branches/Feature",
 				"path": "/sitecore/templates/Branches/Feature/AFL",
 				"rules": [
 					{
@@ -37,35 +37,27 @@
 				]
 			},
 			{
-				"name": "featureAFL",
-				"path": "/sitecore/templates/Feature/AFL",
+				"name": "migrated/template/feature",
+				"path": "/sitecore/templates/Feature",
 				"rules": [
 					{
-						"path": "*",
+						"path": "/AFL",
 						"scope": "ItemAndDescendants",
 						"allowedPushOperations": "CreateAndUpdate"
-					}
-				]
-			},
-			{
-				"name": "featureAFLEmail",
-				"path": "/sitecore/templates/Feature/AFL Email Templates",
-				"rules": [
+					},
+					{
+						"path": "/AFL Email Templates",
+						"scope": "ItemAndDescendants",
+						"allowedPushOperations": "CreateAndUpdate"
+					},
+					{
+						"path": "/AFL Page Templates",
+						"scope": "ItemAndDescendants",
+						"allowedPushOperations": "CreateAndUpdate"
+					},
 					{
 						"path": "*",
-						"scope": "ItemAndDescendants",
-						"allowedPushOperations": "CreateAndUpdate"
-					}
-				]
-			},
-			{
-				"name": "featureAFLPage",
-				"path": "/sitecore/templates/Feature/AFL Page Templates",
-				"rules": [
-					{
-						"path": "*",
-						"scope": "ItemAndDescendants",
-						"allowedPushOperations": "CreateAndUpdate"
+						"scope": "Ignored"
 					}
 				]
 			}

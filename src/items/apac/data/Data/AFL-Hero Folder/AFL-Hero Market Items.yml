@@ -1,0 +1,46 @@
+﻿---
+ID: "4d7a4e5d-5a06-4a75-a80f-b6b8cffdf6f5"
+Parent: "a8170184-e598-4852-8b66-d191b2ca3bc8"
+Template: "0ab05ec3-414e-43e1-a505-8ac2a9499c54"
+Path: "/sitecore/content/AFL-Global/APAC/Data/AFL-Hero Folder/AFL-Hero Market Items"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 300
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211029T122332Z
+    - ID: "3c953173-fa71-458e-9f7f-1ef450dea6e6"
+      Hint: Heading
+      Value: SOLUTIONS
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a741d1ac-db03-428e-bf5a-ec52ce23ed84"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sripada
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231206T111747Z
+    - ID: "f1242e44-a2d9-45ac-aca1-9046e5880fc5"
+      Hint: Hero Items
+      Value: |
+        {2DC9F944-BB43-467C-85A7-0036F0F72FFD}
+        {2B4A91C5-66C0-4973-955C-B4F2EE75B9D1}
+        {3E1A2180-911D-44AB-9585-B9C71356E6DD}
+        {FC08DE70-C443-4DA5-ADE9-4B09C30E1702}
+        {2C7A870F-4EAA-4291-A8EA-1B690046EA6C}

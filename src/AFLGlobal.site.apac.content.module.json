@@ -4,114 +4,90 @@
   "items": {
     "includes": [
       {
-        "name": "root",
-        "path": "/sitecore/content/AFL-Global",
-        "scope": "SingleItem",
-        "allowedPushOperations": "CreateOnly"
+        "name": "apac/site",
+        "path": "/sitecore/content/AFLGlobal/APAC",
+        "scope": "ItemAndDescendants",
+        "allowedPushOperations": "CreateAndUpdate"
       },
       {
-        "name": "apacsite",
+        "name": "migrated/apac/site",
         "path": "/sitecore/content/AFL-Global/APAC",
         "scope": "SingleItem",
         "allowedPushOperations": "CreateOnly"
       },
       {
-        "name": "apachome",
+        "name": "migrated/apac/home",
         "path": "/sitecore/content/AFL-Global/APAC/Home",
         "scope": "SingleItem",
         "allowedPushOperations": "CreateAndUpdate"
       },
       {
-        "name": "apacsolutions",
+        "name": "apac/home/solutions",
         "path": "/sitecore/content/AFL-Global/APAC/Home/Solutions",
-        "scope": "SingleItem",
-        "allowedPushOperations": "CreateAndUpdate"
-      },
-      {
-        "name": "apacService",
-        "path": "/sitecore/content/AFL-Global/APAC/Home/Solutions/Service Provider",
         "scope": "ItemAndDescendants",
         "allowedPushOperations": "CreateAndUpdate"
       },
       {
-        "name": "apacenterprise",
-        "path": "/sitecore/content/AFL-Global/APAC/Home/Solutions/Enterprise",
-        "scope": "ItemAndDescendants",
-        "allowedPushOperations": "CreateAndUpdate"
-      },
-      {
-        "name": "apacenergy",
-        "path": "/sitecore/content/AFL-Global/APAC/Home/Solutions/Energy",
-        "scope": "ItemAndDescendants",
-        "allowedPushOperations": "CreateAndUpdate"
-      },
-      {
-        "name": "apacindustrial",
-        "path": "/sitecore/content/AFL-Global/APAC/Home/Solutions/Industrial",
-        "scope": "ItemAndDescendants",
-        "allowedPushOperations": "CreateAndUpdate"
-      },
-      {
-        "name": "apachyperscale",
-        "path": "/sitecore/content/AFL-Global/APAC/Home/Solutions/Hyperscale",
-        "scope": "ItemAndDescendants",
-        "allowedPushOperations": "CreateAndUpdate"
-      },
-      {
-        "name": "apacresources",
+        "name": "apac/home/resources",
         "path": "/sitecore/content/AFL-Global/APAC/Home/Resources",
         "scope": "ItemAndDescendants",
         "allowedPushOperations": "CreateAndUpdate"
       },
       {
-        "name": "apaccontact",
+        "name": "apac/home/contact",
         "path": "/sitecore/content/AFL-Global/APAC/Home/Contact",
         "scope": "ItemAndDescendants",
         "allowedPushOperations": "CreateAndUpdate"
       },
       {
-        "name": "apaccompany",
+        "name": "apac/home/company",
         "path": "/sitecore/content/AFL-Global/APAC/Home/Company",
         "scope": "ItemAndDescendants",
         "allowedPushOperations": "CreateAndUpdate"
       },
-	  {
-        "name": "apac404",
+      {
+        "name": "apac/home/404",
         "path": "/sitecore/content/AFL-Global/APAC/Home/404",
         "scope": "ItemAndDescendants",
         "allowedPushOperations": "CreateAndUpdate"
       },
       {
-        "name": "apacsearchresult",
+        "name": "apac/home/searchresult",
         "path": "/sitecore/content/AFL-Global/APAC/Home/Search Result",
         "scope": "ItemAndDescendants",
         "allowedPushOperations": "CreateAndUpdate"
       },
       {
-        "name": "apacsitemap",
+        "name": "apac/home/sitemap",
         "path": "/sitecore/content/AFL-Global/APAC/Home/sitemap",
         "scope": "ItemAndDescendants",
         "allowedPushOperations": "CreateAndUpdate"
       },
       {
-        "name": "apacoverlays",
+        "name": "apac/home/overlays",
         "path": "/sitecore/content/AFL-Global/APAC/Home/Overlays",
         "scope": "ItemAndDescendants",
         "allowedPushOperations": "CreateAndUpdate"
       },
       {
-        "name": "apacpresentation",
+        "name": "apac/presentation",
         "path": "/sitecore/content/AFL-Global/APAC/Presentation",
         "scope": "ItemAndDescendants",
         "allowedPushOperations": "CreateAndUpdate"
       },
       {
-        "name": "apacsettings",
+        "name": "apac/settings",
         "path": "/sitecore/content/AFL-Global/APAC/Settings",
-        "scope": "ItemAndDescendants",
-        "allowedPushOperations": "CreateAndUpdate",
-        "exclusions": [
-          "/sitecore/content/AFL-Global/APAC/Settings/Creative Exchange Storages"
+        "rules": [
+          {
+            "path": "/Creative Exchange Storages",
+            "scope": "Ignored"
+          },
+          {
+            "path": "*",
+            "scope": "ItemAndDescendants",
+            "allowedPushOperations": "CreateAndUpdate"
+          }
         ]
       }
     ]

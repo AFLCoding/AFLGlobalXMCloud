@@ -1,10 +1,10 @@
 {
 	"$schema": "../.sitecore/schemas/ModuleFile.schema.json",
-	"namespace": "AFLGlobal.Renderings",
+	"namespace": "AFLGlobal.Layout",
 	"items": {
 		"includes": [
 			{
-				"name": "feature",
+				"name": "migrated/layout/feature",
 				"path": "/sitecore/layout/Renderings/Feature/AFL",
 				"rules": [
 					{
