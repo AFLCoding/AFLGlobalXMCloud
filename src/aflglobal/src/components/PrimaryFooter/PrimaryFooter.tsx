@@ -13,15 +13,18 @@ const PrimaryFooter = () => {
           return (
             <div key={index} className={`col ${block}__list`}>
               <h3 className={`${block}__heading`}>
-                <Link className="text-uppercase fw-bold" href="/re">
-                  {item.field.title.value}
+                <Link className="text-uppercase fw-bold" href={item.LinkTitle.jsonValue.value.href}>
+                  {item.LinkTitle.jsonValue.value.text}
                 </Link>
               </h3>
               {item.children.results.map((menuItems) => {
                 const submenuItems = menuItems.field.link.value;
                 return (
                   <div key={submenuItems.id}>
-                    <Link className={`${block}__content d-none d-md-block`} href="/re">
+                    <Link
+                      className={`${block}__content d-none d-md-block`}
+                      href={submenuItems.href}
+                    >
                       {submenuItems.text}
                     </Link>
                   </div>
@@ -39,3 +42,5 @@ const PrimaryFooter = () => {
 };
 
 export default PrimaryFooter;
+
+

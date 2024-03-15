@@ -20,14 +20,18 @@ $primaryFooter: ".primary-footer";
     @include respond-to(mobile-horizontal) {
         flex-basis: calc(var(--width-50) - var(--size-80));
         border-left: var(--border-width-200) solid $bg-basic-color-active;
+        border-color: var(--gray-350);
         padding: $size-padding 0 $size-padding $small-margin;
     }
 
-    &:nth-child(odd){
-        @include respond-to(mobile-horizontal) {
-            border:none;
+    @include respond-to(mobile-horizontal) {
+        &:nth-child(odd){
+            border:none
         }
-      }
+        &:nth-child(even){
+            padding-left: var(--size-80);
+        }
+    }
   }
   
   a{
