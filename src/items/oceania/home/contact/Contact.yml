@@ -1,0 +1,72 @@
+﻿---
+ID: "d33943ec-9785-41e3-8392-1303c5efd0e9"
+Parent: "d7d3964c-da65-4fac-a592-2f32c681394e"
+Template: "bf61de11-b78f-48ea-aaa4-1d17f0d83824"
+Path: "/sitecore/content/AFL-Global/OCEANIA/Home/Contact"
+SharedFields:
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{EDC9686A-85F3-466E-8E7E-3D28540B77AB}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{DAE7C21D-4D3B-4257-A95C-9104CD8AF409}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 750
+- ID: "dec8d2d5-e3cf-48b6-a653-8e69e2716641"
+  Hint: __Security
+  Value: |
+    au|sitecore\CharlieC|pe|-item:read|pd|-item:read|ar|sitecore\AFLProductAuthor|pe|+item:read|pd|+item:read|au|sitecore\NicoleC|pe|+item:create|+item:read|+item:rename|+item:delete|+item:write|^*|+item:admin|pd|+item:create|+item:read|+item:rename|+item:delete|+item:write|^*|+item:admin|
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25305982-b304-4816-8208-abcfc50a7067"
+      Hint: Description2
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211122T082736Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Contact
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: Connect with AFL. There are many ways to contact AFL, complete a form to send email, submit a quote request, call or visit one of our facilities.
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <h1>Contact</h1>
+        <p>
+        We would love to hear from you. Whether you need a <a href="~/link.aspx?_id=FDB740E13F2448A39B443E53EEA6170E&_z=z">quote</a>, <a href="~/link.aspx?_id=2136B0F836CB417F991E6C02EF776559&_z=z">technical support</a>, product service request or have an idea to improve our website, we are here to help. Planning a visit to one of our facilities? Check out our <a href="~/link.aspx?_id=B452851125134A56A0C309672F871A88&_z=z">locations</a> page.</p>
+        <p class="CMSSiteMapListItem"> </p>
+        <h1> </h1>
+        <h1>You can also connect with us on:</h1>
+        <a rel="noopener noreferrer" href="https://www.linkedin.com/company/aflglobal" target="_blank"><img alt="LinkedIn" src="https://afl-delivery.stylelabs.cloud/api/public/content/339b41460e3745f384cb5f87c82a3747?v=5eb5adc8?h=40&w=40" /></a> <a rel="noopener noreferrer" href="https://www.facebook.com/AFLglobal" target="_blank"><img alt="Facebook" src="https://afl-delivery.stylelabs.cloud/api/public/content/d0c692fad7654f15bf47fbcd37c304fa?v=b18d8470;w=40" /></a> 
+        <a rel="noopener noreferrer" href="https://twitter.com/AFLglobal" target="_blank"><img alt="Twitter" src="https://afl-delivery.stylelabs.cloud/api/public/content/f3f72ad1b8804d2fad3a6f6558c7e314?v=f5aa20f6?w=40" /></a> 
+        <a rel="noopener noreferrer" href="https://www.instagram.com/afl.global/" target="_blank"><img alt="Instagram" src="https://afl-delivery.stylelabs.cloud/api/public/content/99fd50081e8648c0ad1d71eae8eaca15?v=3ada2ede?h=40&w=40" style="top: 377.958px; width: 61px; height: 62.3333px; left: 77.3333px;" /></a> 
+        <a rel="noopener noreferrer" href="https://www.youtube.com/user/AFLGlobal" target="_blank"><img style="left: 1254.33px; top: 1383.82px; width: 61.6665px; height: 67.6666px;" alt="YouTube" src="https://afl-delivery.stylelabs.cloud/api/public/content/5b20be5d32eb45089f464f7d878463c7?v=5515bf0a?w=40" /></a> 
+        <a rel="noopener noreferrer" href="https://www.flickr.com/photos/aflglobal/" target="_blank"><img alt="Flickr" src="https://afl-delivery.stylelabs.cloud/api/public/content/6c81d47d3a6d4adab8bda43fd5568c87?v=42f4ad8b?w=40" /></a>  
+    - ID: "56611f02-691a-4096-b044-63aa83122916"
+      Hint: Content
+      Value: 
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: AFL contact connect email phone quote request sc upstate spartanburg
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: Contact
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: Contact
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8cc93e6e-dccf-411e-93b1-d6245f0ddabf"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\matt
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231219T213947Z

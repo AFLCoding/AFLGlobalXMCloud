@@ -1,0 +1,31 @@
+﻿---
+ID: "b2351fa6-c9e4-4ade-9614-3580a596b9b4"
+Parent: "3894cd54-75c6-4dc2-8f90-c3ca669cfed7"
+Template: "e854b5b7-510c-4b65-97f7-d483a9b54398"
+Path: "/sitecore/content/AFL-Global/OCEANIA/Data/Snippets/AFL Pages"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211209T101724Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\archana
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\archana
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c14df256-1a73-438d-9fe2-53cfd72e69d8"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\archana
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20211209T101724Z

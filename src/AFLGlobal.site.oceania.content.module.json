@@ -1,0 +1,95 @@
+{
+  "$schema": "../.sitecore/schemas/ModuleFile.schema.json",
+  "namespace": "Content.OCEANIA",
+  "items": {
+    "includes": [
+      {
+        "name": "oceania/site",
+        "path": "/sitecore/content/AFLGlobal/OCEANIA",
+        "scope": "ItemAndDescendants",
+        "allowedPushOperations": "CreateAndUpdate"
+      },
+      {
+        "name": "migrated/oceania/site",
+        "path": "/sitecore/content/AFL-Global/OCEANIA",
+        "scope": "SingleItem",
+        "allowedPushOperations": "CreateOnly"
+      },
+      {
+        "name": "migrated/oceania/home",
+        "path": "/sitecore/content/AFL-Global/OCEANIA/Home",
+        "scope": "SingleItem",
+        "allowedPushOperations": "CreateAndUpdate"
+      },
+      {
+        "name": "oceania/home/solutions",
+        "path": "/sitecore/content/AFL-Global/OCEANIA/Home/Solutions",
+        "scope": "ItemAndDescendants",
+        "allowedPushOperations": "CreateAndUpdate"
+      },
+      {
+        "name": "oceania/home/resources",
+        "path": "/sitecore/content/AFL-Global/OCEANIA/Home/Resources",
+        "scope": "ItemAndDescendants",
+        "allowedPushOperations": "CreateAndUpdate"
+      },
+      {
+        "name": "oceania/home/contact",
+        "path": "/sitecore/content/AFL-Global/OCEANIA/Home/Contact",
+        "scope": "ItemAndDescendants",
+        "allowedPushOperations": "CreateAndUpdate"
+      },
+      {
+        "name": "oceania/home/company",
+        "path": "/sitecore/content/AFL-Global/OCEANIA/Home/Company",
+        "scope": "ItemAndDescendants",
+        "allowedPushOperations": "CreateAndUpdate"
+      },
+      {
+        "name": "oceania/home/404",
+        "path": "/sitecore/content/AFL-Global/OCEANIA/Home/404",
+        "scope": "ItemAndDescendants",
+        "allowedPushOperations": "CreateAndUpdate"
+      },
+      {
+        "name": "oceania/home/searchresult",
+        "path": "/sitecore/content/AFL-Global/OCEANIA/Home/Search Result",
+        "scope": "ItemAndDescendants",
+        "allowedPushOperations": "CreateAndUpdate"
+      },
+      {
+        "name": "oceania/home/sitemap",
+        "path": "/sitecore/content/AFL-Global/OCEANIA/Home/sitemap",
+        "scope": "ItemAndDescendants",
+        "allowedPushOperations": "CreateAndUpdate"
+      },
+      {
+        "name": "oceania/home/overlays",
+        "path": "/sitecore/content/AFL-Global/OCEANIA/Home/Overlays",
+        "scope": "ItemAndDescendants",
+        "allowedPushOperations": "CreateAndUpdate"
+      },
+      {
+        "name": "oceania/presentation",
+        "path": "/sitecore/content/AFL-Global/OCEANIA/Presentation",
+        "scope": "ItemAndDescendants",
+        "allowedPushOperations": "CreateAndUpdate"
+      },
+      {
+        "name": "oceania/settings",
+        "path": "/sitecore/content/AFL-Global/OCEANIA/Settings",
+        "rules": [
+          {
+            "path": "/Creative Exchange Storages",
+            "scope": "Ignored"
+          },
+          {
+            "path": "*",
+            "scope": "ItemAndDescendants",
+            "allowedPushOperations": "CreateAndUpdate"
+          }
+        ]
+      }
+    ]
+  }
+}

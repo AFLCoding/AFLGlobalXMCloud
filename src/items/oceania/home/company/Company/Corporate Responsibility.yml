@@ -1,0 +1,88 @@
+﻿---
+ID: "572325f6-3803-47d9-8c82-41e36eb5042f"
+Parent: "cfe4a6a4-1b66-4a76-8122-570ad0e98866"
+Template: "bf61de11-b78f-48ea-aaa4-1d17f0d83824"
+Path: "/sitecore/content/AFL-Global/OCEANIA/Home/Company/Corporate Responsibility"
+SharedFields:
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{6ECBE28F-EB7D-4331-9FF6-856D46B07A3F}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{DAE7C21D-4D3B-4257-A95C-9104CD8AF409}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+- ID: "db51d4e9-c24d-4670-af0e-62c8aa08e2b6"
+  Hint: LocalData
+  Value: "{0217B59D-6C29-41C3-A703-0C810F4ED129}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{AA5658B0-E0A8-432B-91AF-ACD62B5D731A}"
+              p:before="*"
+              s:ds="local:/Data/HTML Code 1"
+              s:id="{6DDA07A9-18D3-47A0-AB74-DF54956DD5F1}"
+              s:par="Reset Caching Options&amp;GridParameters={908E2BC6-C110-4ED7-AF39-7EEACBB31A34}&amp;Styles&amp;CacheClearingBehavior=Clear on publish&amp;RenderingIdentifier"
+              s:ph="/main/sxa-afl-full-width/container-1" />
+            <r
+              uid="{29CCD3BD-0A9E-4618-8D0C-C184535E1B8D}"
+              p:after="*[1=2]"
+              s:ds="local:/Data/HTML Code 2"
+              s:id="{6DDA07A9-18D3-47A0-AB74-DF54956DD5F1}"
+              s:par="Reset Caching Options&amp;GridParameters={908E2BC6-C110-4ED7-AF39-7EEACBB31A34}&amp;Styles&amp;CacheClearingBehavior=Clear on publish&amp;RenderingIdentifier"
+              s:ph="/main/sxa-afl-full-width/container-1" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230912T130610Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{1A24FC12-1F8E-4214-921E-D355AA3E4DC5}"
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Corporate Responsibility
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rafael
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: "Establishing a culture which drives focus on social and environmental impact is a Corporate Responsibility.​ Our employees, our communities and our customers see all three facets of corporate responsibility - Environment, Social and Governance - with an increasing priority.  While keeping financial performance and customer experience a top priority, AFL is integrating ESG into our culture and processes."
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rafael
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: Corporate, Responsibility, ESG, ESG Committee, Social Responsibility, Finance, Financial Performance, Materiality, Governance
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: Corporate Responsibility
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: Corporate Responsibility
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c0fc25a5-1805-408c-9fdf-d851506efdc0"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T094007Z

@@ -1,0 +1,81 @@
+﻿---
+ID: "bc43de4a-d117-47d0-a163-3ed773da9be3"
+Parent: "07834575-2b7a-4912-9042-28872f015337"
+Template: "bf61de11-b78f-48ea-aaa4-1d17f0d83824"
+Path: "/sitecore/content/AFL-Global/OCEANIA/Home/Company/Corporate Responsibility/Social Responsibility/Slavery and Human Trafficking Statement"
+SharedFields:
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{EDC9686A-85F3-466E-8E7E-3D28540B77AB}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{DAE7C21D-4D3B-4257-A95C-9104CD8AF409}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 800
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211223T145547Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Slavery and Human Trafficking Statement
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\harry
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: AFL Slavery and Human Trafficking Statement
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <h1>Slavery and Human Trafficking Statement</h1>
+        <p>Modern slavery is a crime and a violation of fundamental human rights. It takes various forms, such as slavery, servitude, forced and compulsory labor and human trafficking, all of which have in common the deprivation of a person's liberty by another in order to exploit them for personal or commercial gain. AFL has a zero-tolerance approach to modern slavery and we are committed to acting ethically and with integrity in all our business dealings and relationships and to implement and enforce effective systems and controls to ensure modern slavery is not taking place anywhere in our own business or our supply chain.</p>
+        <p>We are also committed to ensuring there is transparency in our own business and in our approach to tackling modern slavery throughout our supply chain. We expect the same high standards from all of our contractors, suppliers and other business partners. As part of our contracting processes, we include specific prohibitions against the use of forced, compulsory or trafficked labor, or anyone held in slavery or servitude and we expect that our suppliers will hold their own suppliers to the same high standards.</p>
+        <p>This policy applies to all persons working for us or on our behalf in any capacity, including employees at all levels, directors, officers, agents, contractors, external consultants, third-party representatives and business partners.</p>
+        <p>AFL SLAVERY AND HUMAN TRAFFICKING STATEMENTS</p>
+        <ul>
+            <li><a rel="noopener noreferrer" href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-Slavery-and-Human-Trafficking-Statement-6-2023?v=22d65b73" target="_blank">FY2022 Slavery and Human Trafficking Statement</a></li>
+            <li><a rel="noopener noreferrer" href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-Slavery-and-Human-Trafficking-Statement-6-2022?v=f4fba199" target="_blank">FY2021 Slavery and Human Trafficking Statement</a></li>
+            <li><a rel="noopener noreferrer" href="https://afl-delivery.stylelabs.cloud/api/public/content/FY2021-AFL-Slavery-and-Human-Trafficking-Statement?v=693f0120" target="_blank">FY2020 Slavery and Human Trafficking Statement</a></li>
+            <!--    <li><a rel="noopener noreferrer" href="https://afl-delivery.stylelabs.cloud/api/public/content/FY2020-AFL-Slavery-and-Human-Trafficking-Statement?v=525a971c" target="_blank">FY2019 Slavery and Human Trafficking Statement</a></li>
+            <li><a rel="noopener noreferrer" href="https://afl-delivery.stylelabs.cloud/api/public/content/FY2018-Slavery-and-Human-Trafficking-Statement?v=7edc58b4" target="_blank">FY2018 Slavery and Human Trafficking Statement</a></li>
+            <li><a rel="noopener noreferrer" href="https://afl-delivery.stylelabs.cloud/api/public/content/FY2017-Slavery-and-Human-Trafficking-Statement?v=601870f6" target="_blank">FY2017 Slavery and Human Trafficking Statement</a></li>
+            <li><a rel="noopener noreferrer" href="https://afl-delivery.stylelabs.cloud/api/public/content/FY2016-Slavery-and-Human-Trafficking-Statement?v=b8157aff" target="_blank">FY2016 Slavery and Human Trafficking Statement</a></li>  -->
+        </ul>
+        Fujikura Group Policy on Human Rights:
+        <ul>
+            <li><a href="http://www.fujikura.co.jp/eng/csr/social/human_rights.html">http://www.fujikura.co.jp/eng/csr/social/human_rights.html</a></li>
+        </ul>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\harry
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: AFL Slavery and Human Trafficking Statement
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: Slavery and Human Trafficking Statement
+    - ID: "628db04b-29a2-483b-a88c-b8fd9a5f2086"
+      Hint: HeroLink
+      Value: |
+        <link id="{06691C96-41FE-41C3-BE1D-E302B68C29D7}" querystring="" linktype="internal" text="LEARN MORE" anchor="" url="/AFL-Global/AMERICAS/Home/Company/Corporate Responsibility/Social Responsibility/Slavery and Human Trafficking Statement" title="" class="" target="|Custom" />
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: Slavery and Human Trafficking Statement
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "13dd8101-6d75-474d-9f07-eeffad5847a2"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T094009Z

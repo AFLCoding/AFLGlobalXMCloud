@@ -1,0 +1,375 @@
+﻿---
+ID: "ad5699d3-5be9-41ce-b6dd-0264de9fb1cd"
+Parent: "49686f95-b829-4fef-a0aa-91d7a027c4f7"
+Template: "bf61de11-b78f-48ea-aaa4-1d17f0d83824"
+Path: "/sitecore/content/AFL-Global/OCEANIA/Home/Solutions/Energy"
+SharedFields:
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{EDC9686A-85F3-466E-8E7E-3D28540B77AB}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 44
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220201T121201Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Energy
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\tanishka
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: AFL offers an extensive range of products suitable for use in energy projects across the globe.
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <h2>
+        	Communication Solutions for Energy Generation, Transmission and Distribution</h2>
+        <div>
+        	AFL offers an extensive range of products suitable for use in energy projects across the globe.</div>
+        <div>
+        	These include:</div>
+        <ul>
+        	<li>
+        		Wind and solar farms</li>
+        	<li>
+        		Gas power generation</li>
+        	<li>
+        		Coal power generation</li>
+        	<li>
+        		Hydro power generation</li>
+        	<li>
+        		Electricity transmission and distribution</li>
+        	<li>
+        		Alternative and Bioenergy generation</li>
+        </ul>
+        <div>
+        	Applications can vary widely and require careful product consideration to meet extreme performance conditions. AFL can provide you with solutions that meet your most demanding requirements, from fibre optic cable and fittings to rodent-resistant cabinets and enclosures for use in harsh environments.</div>
+        <div>
+        	 </div>
+        <div>
+        	Our extensive product portfolio and vast experience allows us to design, manufacture and integrate</div>
+        <div>
+        	a solution that is right for your application.</div>
+        <ul>
+        	<li>
+        		Optical ground wire cable</li>
+        	<li>
+        		Connectivity products</li>
+        	<li>
+        		Aerial fibre optic cable</li>
+        	<li>
+        		Substation accessories</li>
+        	<li>
+        		IP-rated and rodent-resistant enclosures and cabinets</li>
+        	<li>
+        		Attachment hardware</li>
+        	<li>
+        		Network link testing and termination</li>
+        	<li>
+        		Test, inspection and cleaning products</li>
+        </ul>
+        <h2>
+        	Cable</h2>
+        <h3>
+        	Optical Ground Wire Cable</h3>
+        <div>
+        	AFL was a leader in the development and launch of this product back in 1985 when they discovered that electric transmission lines provided an ideal route for a telecommunications path. Today, AFL boasts the world’s largest OPGW product portfolio and highest total capacity with facilities situated throughout the world to satisfy the needs of the global market. AFL also manufactures its own line of attachment hardware which simplifies the network design phase of a project while ensuring compatibility between the cable and related components.</div>
+        <div>
+        	<br />
+        	OPGW is primarily used by the electric utility industry, placed in the secure topmost position of the transmission line where it “shields” the all-important conductors from lightning while providing a telecommunications path for internal as well as third party communications.</div>
+        <ul>
+        	<li>
+        		 For use by electric utilities on transmission lines in lieu of traditional shield wire</li>
+        	<li>
+        		 For retrofit applications where existing shield wire needs to be replaced with OPGW</li>
+        	<li>
+        		 For new transmission lines in lieu of traditional shield wire</li>
+        	<li>
+        		 Hermetically sealed tubes provide mechanical and thermal protection for optical fibre</li>
+        	<li>
+        		 High load and long span capability, with fibre counts up to 432 or more</li>
+        	<li>
+        		 Stranded wires selected to optimise mechanical and electrical properties of cable</li>
+        	<li>
+        		 Light-weight cables for optimised renewable energy applications</li>
+        	<li>
+        		 Full line of attachment hardware available for a system solution</li>
+        </ul>
+        <h3>
+        	SkyWrap®</h3>
+        <div>
+        	SkyWrap provides a retro-fit solution for installing a fibre optic cable on overhead power lines. A specially designed spinning machine is used to wrap the cable under controlled conditions. This system offers a complete communication link designed and engineered for high-voltage environments at low cost. The cable is small and imposes minimal additional load on the overhead line conductors, poles and towers. The installation technique means that SkyWrap can be deployed quickly and cost-effectively, increasing network fibre capacity with minimum disruption to electricity supply services.</div>
+        <div>
+        	 </div>
+        <div>
+        	SkyWrap was first installed in 1982 and has an excellent reputation for reliable and secure operation in more than 40 countries around the world. The success of SkyWrap is derived from the speed, manoeuvrability and low impact on the Cable Energy 3 environment. It requires fewer people and much less equipment to install the cable, which provides:</div>
+        <ul>
+        	<li>
+        		Quick, cost effective installation</li>
+        	<li>
+        		Utilize existing power line infrastructure</li>
+        	<li>
+        		Use for both earth-wires and phase conductors</li>
+        	<li>
+        		Live line installations on earth-wire</li>
+        	<li>
+        		Meets IEEE 1594 Specification</li>
+        	<li>
+        		Install on OPGW to increase network capacity</li>
+        </ul>
+        <h3>
+        	ADSS Cable</h3>
+        <div>
+        	AFL ADSS (All-Dielectric Self-Supporting) cable is ideal for installation in distribution as well as transmission environments, even when live-line installations are required. As its name indicates, there is no support or messenger wire required, so installation is achieved in a single pass, making ADSS an economical and simple means of building a fibre optic network. AFL manufactures its own line of attachment hardware which simplifies the network design phase of a project while ensuring compatibility between the cable and related components.</div>
+        <ul>
+        	<li>
+        		Suitable for use on distribution and high voltage transmission lines</li>
+        	<li>
+        		Requires no messenger wire – fully self-supporting</li>
+        	<li>
+        		Single pass installation – no messenger, no lashing wire – faster and lower cost</li>
+        	<li>
+        		Cable is water-blocked using dry core technology, with no messy flooding compounds</li>
+        	<li>
+        		Custom designs available for various span lengths or other fibre counts</li>
+        	<li>
+        		Full line of attachment hardware available for a system solution</li>
+        	<li>
+        		Track-resistant outer jacket available for installations on high voltage lines where space potentials reach up to 25 kV</li>
+        </ul>
+        <h3>
+        	Loose Tube Cable</h3>
+        <div>
+        	AFL’s Loose Tube family of fibre optic cables is designed for outdoor use in infrastructure applications. Depending on the environmental and performance criteria, AFL has an array of jacket options to withstand even the harshest petrochemical, climate or soil conditions. Designs are available with gel-filled or gelfree, color-coded buffer tubes. The large variety of cable designs, including metallic and non-metallic armour, high strength and reduced diameter cables, provide long term reliability durability and security.</div>
+        <ul>
+        	<li>
+        		All dielectric construction available</li>
+        	<li>
+        		Suitable for direct burial, or installation in conduit or tray</li>
+        	<li>
+        		Suitable for aerial installation by lashing</li>
+        	<li>
+        		Termite resistant nylon sheath</li>
+        	<li>
+        		Rodent resistant armouring options</li>
+        </ul>
+        <h2>
+        	Attachment Hardware</h2>
+        <div>
+        	AFL’s full range of aerial cables can be applied to many different tower arrangements and network configurations. These tower or pole arrangements vary based on application and geography, and must be able to withstand severe environmental conditions.</div>
+        <div>
+        	<br />
+        	The range of attachment hardware is integral to the overall solution and has been developed to optimise the installation and operation of the cable. Each installation is unique and hardware is specified accordingly, allowing a complete integrated solution approach. Products include:</div>
+        <ul>
+        	<li>
+        		Bolted, wedge and formed wire dead ends</li>
+        	<li>
+        		Tangential Supports</li>
+        	<li>
+        		Mechanical suspensions and trunnions</li>
+        	<li>
+        		Bonding wires and clamps</li>
+        	<li>
+        		Download and guide clamps</li>
+        	<li>
+        		Vibration dampers</li>
+        	<li>
+        		Isolator kits for OPGW</li>
+        	<li>
+        		Corona rings for ADSS</li>
+        </ul>
+        <h2>
+        	Enclosures and Connectivity</h2>
+        <h3>
+        	Enclosures and Cabinets</h3>
+        <div>
+        	Enclosures used in energy applications must be able to withstand environmental conditions including exposure to the sun, wind, rain and snow. These impact on equipment through extreme temperatures, shock, vibration, moisture, dust and corrosive surroundings.<br />
+        	 </div>
+        <div>
+        	AFL offers a large range of enclosures and cabinets for any environment.</div>
+        <ul>
+        	<li>
+        		OPGW Splice enclosures and accessories</li>
+        	<li>
+        		ADSS Splice enclosures and accessories</li>
+        	<li>
+        		Rodent-resistant enclosures</li>
+        	<li>
+        		Wall mount, rack mount, DIN rail mount</li>
+        	<li>
+        		Roadside and outdoor IP-rated cabinets</li>
+        	<li>
+        		Pre-loaded for ease of site installation</li>
+        	<li>
+        		Available in stainless steel, zinc or powder coat</li>
+        </ul>
+        <h3>
+        	Connectors</h3>
+        <div>
+        	AFL offers a large range of ruggedized fibre optic connectors in varying sizes, styles, materials and mating mechanisms to suit a wide range of applications and environments.</div>
+        <ul>
+        	<li>
+        		IP-rated housing to protect against water and dirt ingress</li>
+        	<li>
+        		SC, LC, ST and other standard connector types</li>
+        	<li>
+        		MTP and MPO multi-fibre connector types</li>
+        	<li>
+        		Wide variety of shell sizes</li>
+        </ul>
+        <h3>
+        	Pre-terminated Cable Assemblies</h3>
+        <div>
+        	AFL manufactures a comprehensive range of high quality pre-terminated cable assemblies in our modern manufacturing facility in Melbourne. Assemblies can be manufactured with a vast variety of connectors to virtually any combination and length using various cable types.</div>
+        <div>
+        	<br />
+        	Pre-terminated cables are ideal for energy projects as they eliminate the need for onsite termination and tooling and making installation easy while protecting the fibres.</div>
+        <ul>
+        	<li>
+        		A wide range of connector and cable options</li>
+        	<li>
+        		Loose tube, riser, tactical deployable, breakout cables</li>
+        	<li>
+        		High quality factory-terminated connectors</li>
+        	<li>
+        		Fibre protection during installation and hauling</li>
+        </ul>
+        <h2>
+        	Networking and Media Conversion</h2>
+        <div>
+        	AFL’s range of industrial rated products are manufactured to withstand extreme operating environments including temperature ranges from -40°C to +75°C, humidity, dust ingress and variable voltage.<br />
+        	<br />
+        	Products such as industrial Ethernet switches, media converters, IP cameras and recording devices provide reliable communications between equipment. Different mounting options are available, from shelf mount to rack mount and DIN rail brackets. Using industrial rated products ensures the stability and reliability of your network in all adverse conditions.</div>
+        <ul>
+        	<li>
+        		Redundant power options (100~240 V AC and 12~48 V DC)</li>
+        	<li>
+        		Data redundant link technology</li>
+        	<li>
+        		Comprehensive management options</li>
+        	<li>
+        		Extensive range of IP security cameras and recording devices</li>
+        </ul>
+        <h2>
+        	Termination Solutions</h2>
+        <div>
+        	AFL has an extensive range of termination solutions for energy fibre networks. Our popular termination options include fusion splicing of pigtails, mechanical splice-on connectors and fusion splice-on connectors.</div>
+        <div>
+        	<br />
+        	You can be confident that all of our termination solutions come with the advice and support of our experienced technical staff. Our partnership with Fujikura, the world’s leader in splicing technologies, means you benefit from the global experience and value they bring to AFL’s range of splicing solutions.</div>
+        <div>
+        	<br />
+        	AFL offers:</div>
+        <ul>
+        	<li>
+        		Core and cladding alignment fusion splicers</li>
+        	<li>
+        		Single and ribbon fibre fusion splicers</li>
+        	<li>
+        		Mechanical connectors</li>
+        	<li>
+        		Splice-on connectors</li>
+        	<li>
+        		Tooling and tool kits</li>
+        </ul>
+        <h2>
+        	Network Link Testing</h2>
+        <div>
+        	AFL offers a comprehensive portfolio of test and measurement solutions for testing and certification of fibre and copper networks. Our specialist advice on test methodologies, optical performance standards and range of test instruments and accessories will ensure your networks are tested correctly and to standards. We also supply after-sales support for all test instruments and the option to hire from a national pool of equipment.</div>
+        <div>
+        	 </div>
+        <div>
+        	Our comprehensive portfolio includes:</div>
+        <ul>
+        	<li>
+        		Light sources and power meters</li>
+        	<li>
+        		Loss test sets and OTDRs</li>
+        	<li>
+        		Reference-grade test leads and launch leads</li>
+        	<li>
+        		Cable certifiers</li>
+        </ul>
+        <div>
+        	AFL also offers specialist products for advanced testing, including:</div>
+        <ul>
+        	<li>
+        		Optical channel checkers</li>
+        	<li>
+        		40G / 100G Ethernet testing</li>
+        	<li>
+        		Passive network monitoring taps</li>
+        </ul>
+        <h2>
+        	Connector Inspection and Cleaning</h2>
+        <div>
+        	We provide a large range of connector inspection and cleaning products to ensure low loss, high performance fibre networks. We have many customised options and back them up with our expert standards-based knowledge and advice.<br />
+        	 </div>
+        <h3>
+        	Video Inspection</h3>
+        <div>
+        	Our video inspection and cleaning solutions support standard and specialty fibre optic connectors, and include:</div>
+        <ul>
+        	<li>
+        		Hand-held microscopes</li>
+        	<li>
+        		Analogue video inspection probes and displays</li>
+        	<li>
+        		Digital IEC – based inspection with automated pass / fail</li>
+        </ul>
+        <h3>
+        	Connector Cleaning</h3>
+        <div>
+        	AFL stocks a wide range of wet- and dry-based connector cleaning products for efficiently and effectively removing connector contamination. We offer:</div>
+        <ul>
+        	<li>
+        		Wet / dry cleaning solutions</li>
+        	<li>
+        		One-click style in adapter cleaners</li>
+        	<li>
+        		MTP and specialty cleaners</li>
+        </ul>
+        
+        
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\tanishka
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: Australia, New Zealand, solutions,  energy
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value:  Communication Solutions for Energy Generation, Transmission and Distribution
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value:  Communication Solutions for Energy Generation, Transmission and Distribution
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b97907b4-9f94-4a4e-b06c-51479a9de4b9"
+    - ID: "93dc88f3-05e5-482d-9b9a-c859c8258a73"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image stylelabs-content-id="176089" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/176089/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/Homepage-Markets-Energy-Web?v=f4248553" mediaid="" stylelabs-content-type="Image" alt="Energy_Market.jpg" height="250" width="570" />
+    - ID: "a40ebd3d-2b41-41fb-90f7-753544ce77c5"
+      Hint: Hero Title1
+      Value: Communication Solutions for Energy Generation, Transmission and Distribution
+    - ID: "ab91d39b-30ad-4050-acef-07c741146fcc"
+      Hint: Heading
+      Value: Energy
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T093604Z

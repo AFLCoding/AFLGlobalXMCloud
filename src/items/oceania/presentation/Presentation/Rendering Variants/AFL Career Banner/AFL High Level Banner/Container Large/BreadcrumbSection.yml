@@ -1,0 +1,41 @@
+﻿---
+ID: "20d73651-4332-44a3-9ea9-bc8acfd5b033"
+Parent: "ebf66a78-ec67-402b-908a-426a0cdd88ce"
+Template: "1151b2a9-08af-4f4d-a892-c2cc9a92ea6a"
+Path: "/sitecore/content/AFL-Global/OCEANIA/Presentation/Rendering Variants/AFL Career Banner/AFL High Level Banner/Container Large/BreadcrumbSection"
+SharedFields:
+- ID: "06882697-dc92-477d-a99a-5d79bd2ccb8d"
+  Hint: RenderingItem
+  Value: "{BFBD9DE2-3ABF-4078-BBCB-C95C5B2D863F}"
+- ID: "af48c671-dd3e-41ed-95b3-534560bef882"
+  Hint: RenderingParameters
+  Value: "BreadcrumbRoot=%7bD7D3964C-DA65-4FAC-A592-2F32C681394E%7d&Separator=%2f&Filter=%7bE0A2A027-0932-4878-A7D6-0416D5263EFB%7d&Caching=0%7c0%7c0%7c0%7c0%7c0%7c0%7c0&CacheClearingBehavior=Clear+on+publish"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220117T103915Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mahesh
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e9437f9d-f95c-48a9-bd1f-bcc1fcca1949"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahesh
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220201T155828Z

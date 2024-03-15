@@ -1,0 +1,91 @@
+﻿---
+ID: "19136fd5-6542-42f6-adc2-0bbc7afa5d8b"
+Parent: "6350991b-c7b8-4d71-b422-04cbf763dbcd"
+Template: "bf61de11-b78f-48ea-aaa4-1d17f0d83824"
+Path: "/sitecore/content/AFL-Global/OCEANIA/Home/Company/Company Profile/Core Values/Innovation"
+SharedFields:
+- ID: "1fbc6a49-6281-48ee-87e9-a3970b145adb"
+  Hint: NavigationFilter
+  Value: |
+    {E0A2A027-0932-4878-A7D6-0416D5263EFB}
+    {61BD64D6-809E-40AE-9297-2724A19329B3}
+    {D063E9D1-C7B5-4B1E-B31E-69886C9C59F5}
+    {500AE4C0-FA7B-463F-8149-EFFF7F044101}
+    {A0E7FF57-6994-4B09-AA21-104239628D5A}
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{EDC9686A-85F3-466E-8E7E-3D28540B77AB}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{DAE7C21D-4D3B-4257-A95C-9104CD8AF409}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 300
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211223T144210Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Innovation
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\harry
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: "AFL Corporate Social Responsibility - Innovation; AFL is a perennial leader when it comes to the development of innovative products for the fiber optic cabling and electric utility markets."
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <p>
+        AFL is a perennial leader when it comes to the development of innovative products for the fiber optic cabling and electric utility markets. Our Commercial teams work closely with our Research and Development teams to define new areas for product growth and development. Our commitment to innovation is exemplified in the number of patents for which we apply each year. Currently, AFL has been awarded over 80 patents.</p>
+        <p>
+        As Smart Grid and other technologies continue to roll out around the world, the need for innovation and improved reliability, efficiency and sustainability of existing power systems be<a title="Hyperlink Manager" class="reTool" href="/EditorPage.aspx?da=core&id=%7B19136FD5-6542-42F6-ADC2-0BBC7AFA5D8B%7D&ed=FIELD1086219586&vs&la=en&fld=%7B52B07316-E493-41DE-8A4F-D5010DC3EEBD%7D&so=%2Fsitecore%2Fsystem%2FSettings%2FHtml%20Editor%20Profiles%2FRich%20Text%20XA&di=0&hdl=H1086219730&mo&pe=0&fbd=1#" unselectable="on"><span class="LinkManager" unselectable="on"> </span></a>comes vital. The AFL approach to innovation is to answer customers’ need. To do this, our engineers work with customers to understand their applications and whether our current products meet the need or if they ought to be modified. We provide customer training that includes preliminary process development and optimization for the customers’ applications. For example, the AFL Splicer Engineering and Design Team offer a hands-on knowledge transfer to each customer instead of simply shipping the equipment to an inexperienced user. We also provide <a href="~/link.aspx?_id=2136B0F836CB417F991E6C02EF776559&_z=z">direct technical support</a> of our products for basic operational or development needs. This highly technical support structure is rare, if not unique, in the splicer industry.</p>
+        <br />
+        Experienced in <a href="~/link.aspx?_id=49686F95B8294FEFA0AA91D7A027C4F7&_z=z">multiple markets,</a> AFL’s wide range of custom designed products help increase efficiency of data centers, power-generating facilities and substations. We promote and support the development of a robust infrastructure that enables improved data capacity and transfer rates along the transmission and distribution systems. To support our drive for innovation, our engineers continually research and develop the latest in optical fiber technology to provide the best solutions for the industry and our customers. Subject matter experts within AFL have written research papers  and case studies on key industry topics and challenges that AFL has solved for our customers.
+        <p> </p>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\harry
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: "AFL Corporate Social Responsibility - Innovation"
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: "AFL Corporate Social Responsibility - Innovation"
+    - ID: "628db04b-29a2-483b-a88c-b8fd9a5f2086"
+      Hint: HeroLink
+      Value: |
+        <link id="{9718815C-23CD-4751-8F29-05236F52EA31}" querystring="" target="|Custom" text="LEARN MORE" anchor="" url="/AFL-Global/AMERICAS/Home/Company/Company Profile/UP Corporate Social Responsibility" title="" class="" linktype="internal" />
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: "AFL Corporate Social Responsibility - Innovation"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f2058c72-d601-487a-8cde-fe1e7bfcb878"
+    - ID: "93dc88f3-05e5-482d-9b9a-c859c8258a73"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="168707" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/168707/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/2f5811acd9bc4934b768bda0b175a254?v=3d3f66b4" stylelabs-content-type="Image" alt="community-takeroot.jpg" height="369" width="954" />
+    - ID: "a40ebd3d-2b41-41fb-90f7-753544ce77c5"
+      Hint: Hero Title1
+      Value: Innovation
+    - ID: "ab91d39b-30ad-4050-acef-07c741146fcc"
+      Hint: Heading
+      Value: Innovation
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T094002Z
+    - ID: "dd0b26a2-9ca3-4573-b501-3b33a6efbc65"
+      Hint: Hero Title2
+      Value: Developing innovative solutions.

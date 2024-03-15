@@ -1,0 +1,110 @@
+﻿---
+ID: "108863dd-bbcc-4cb4-b7fb-5d1a1c2870fe"
+Parent: "f4abac50-ad10-429b-970c-7d59dc826bcf"
+Template: "6db5d952-edde-47d2-9694-3710dbfbd752"
+Path: "/sitecore/content/AFL-Global/OCEANIA/Presentation/Page Designs/AFL/TermsAndCondition"
+SharedFields:
+- ID: "0966b999-0d0e-4278-acc9-9da69d461fe6"
+  Hint: PartialDesigns
+  Value: "{685ECA8E-9441-401F-BF60-E8C394F24DAD}|{6DD0682E-8BCC-4597-B19E-9FBD9055A85B}|{4DDC85D5-3811-4115-8442-65E1F527A151}|{39305B32-9884-4D52-ADCB-340BC4265935}|{08301DCA-0A1E-4196-A8B0-FAD2B21561D6}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+            l="{BCFC7537-EFF4-434C-96F5-BF4F55FD175B}" />
+          <d
+            id="{0B4A31C9-712D-4578-A396-2DDC0F34B63A}"
+            l="{72C595AD-68BB-44BC-B5CD-2A857039515F}" />
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211108T041327Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0a9415cb-c64a-418a-b322-e09dae36a061"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kushagra
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220308T120715Z
+- Language: "es-ES"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+            l="{BCFC7537-EFF4-434C-96F5-BF4F55FD175B}" />
+          <d
+            id="{0B4A31C9-712D-4578-A396-2DDC0F34B63A}"
+            l="{72C595AD-68BB-44BC-B5CD-2A857039515F}" />
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211108T041327Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mahesh
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5ab4d52a-6bdd-4478-a49c-2b77fe072387"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahesh
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220205T160640Z
+- Language: "fr-FR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+            l="{BCFC7537-EFF4-434C-96F5-BF4F55FD175B}" />
+          <d
+            id="{0B4A31C9-712D-4578-A396-2DDC0F34B63A}"
+            l="{72C595AD-68BB-44BC-B5CD-2A857039515F}" />
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211108T041327Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mahesh
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "98de5a4a-0d00-4a3a-9202-de77775a3dae"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahesh
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220205T144952Z
