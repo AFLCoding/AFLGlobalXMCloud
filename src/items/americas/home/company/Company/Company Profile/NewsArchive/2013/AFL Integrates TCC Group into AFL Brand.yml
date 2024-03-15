@@ -1,0 +1,374 @@
+﻿---
+ID: "fa234d0c-1fa3-4b93-bec4-6339c9109c48"
+Parent: "2e04cbde-39df-4853-b374-4850df756a1b"
+Template: "f36e821e-bb98-44dc-966d-e92a0e033cc7"
+Path: "/sitecore/content/AFL-Global/AMERICAS/Home/Company/Company Profile/NewsArchive/2013/AFL Integrates TCC Group into AFL Brand"
+SharedFields:
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{3A84BAC9-C1BD-4809-A12C-28EB44E25329}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{DAE7C21D-4D3B-4257-A95C-9104CD8AF409}"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: 
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{3931EF10-83FB-4C28-B1AC-F319FFCA791C}"
+              p:after="*[1=2]"
+              s:ds="{FA234D0C-1FA3-4B93-BEC4-6339C9109C48}"
+              s:id="{43C5D426-A6F6-4716-BEAF-F82602D2277B}"
+              s:par="Reset Caching Options&amp;GridParameters&amp;FieldNames=%7BE4BC3964-5235-4FE7-A863-76777C39CFAE%7D&amp;Styles&amp;RenderingIdentifier&amp;DynamicPlaceholderId=1"
+              s:ph="main"
+              s:ccb="Clear on publish" />
+          </d>
+        </r>
+    - ID: "228f9517-e120-4014-b2c7-df0ac467a349"
+      Hint: ContentTitle
+      Value: AFL Integrates TCC Group into AFL Brand
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220112T104126Z
+    - ID: "3688d7df-2feb-43a4-ab8d-410e5f70a676"
+      Hint: ContentDescription
+      Value: |
+        Bracknell, UK and Spartanburg, SC, USA – Following the integration of TCC Group into AFL, a provider of fiber optic cable, components and services, TCC will now be known as <a href="/Services/Europe">AFL Services Europe Limited</a>, assuming the AFL brand. The integration reinforces <a href="/">AFL</a> as a global services company focused on end-to-end support of critical infrastructure.<br />
+         <br />
+        "AFL is known for both quality services and reliable products that deliver value to our customers,” said Paul Thompson, general manager for AFL services. “As a leader in the North American market, we now have the opportunity to strengthen and broaden our customer relationships in Europe. The rebranding of TCC Group to AFL furthers our commitment to provide exceptional service abroad.” <br />
+         <br />
+        <a href="/Company/Company-Profile/News/2011/AFL-Acquires-TCC-Group">TCC Group</a> was acquired by AFL in 2011 to expand its reach into the European market. Now known as AFL Services Europe Ltd., the company will continue to design, build, install and maintain next generation networks across the United Kingdom, Ireland and Europe.  <br />
+         <br />
+        Peter Gorman, managing director for AFL Services Europe Limited commented, “With many years of experience in telecommunications network integration and implementation, our customers will have the added benefit of a global leader that is focused on the services market and seeks to continually add value. We are committed to our customers first.” <br />
+         <br />
+        AFL continues to seek opportunities to expand its footprint to global markets, connecting more businesses with innovative technologies and solutions. For additional information on AFL, its products and services, visit <a href="/">www.AFLglobal.com</a>.<br />
+        <br />
+        About AFL<br />
+        AFL provides industry-leading products and services to the electric utility, broadband, communications, OEM, enterprise, wireless and transit rail markets as well as the emerging markets of oil and gas, mining, nuclear, avionics, medical, renewable and intelligent grid. The company’s diverse product portfolio includes fibre optic cable, transmission and substation accessories, outside plant equipment, connectors, fusion splicers, test equipment and training. AFL’s service portfolio includes market-leading positions with the foremost communications companies supporting inside plant central office, EF&I, outside plant, enterprise and wireless areas.<br />
+        <br />
+        Founded in 1984, AFL is proud to offer engineering expertise, exceptional products and reliable service that help our customers improve their critical and electrical infrastructure. AFL has operations in the U.S., Mexico, Europe, Asia and the South Pacific. The company is headquartered in Spartanburg, SC, and is a wholly-owned subsidiary of Fujikura Ltd. of Japan. For more information, visit <a href="/">www.AFLglobal.com</a>.<br />
+         <br />
+        Contacts<br />
+        Joanne Lawrence<br />
+        Public Relations EMEA<br />
+        AFL<br />
+        44.1793.647200<br />
+        <a href="mailto:Joanne.Lawrence@AFLglobal.com">Joanne.Lawrence@AFLglobal.com</a><br />
+        <br />
+        Corie Culp<br />
+        Public Relations Manager                                    <br />
+        AFL<br />
+        864.433.5409<br />
+        <a href="mailto:Corie.Culp@AFLglobal.com">Corie.Culp@AFLglobal.com</a>
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: AFL Integrates TCC Group into AFL Brand
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\tanishka
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\tanishka
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: AFL Integrates TCC Group into AFL Brand
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: AFL Integrates TCC Group into AFL Brand
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6440101c-12d5-45d6-a1c6-7248c9817d34"
+    - ID: "a6eaffd5-fc3e-41b4-93b3-f1721fcf2300"
+      Hint: ContentPublishedDate
+      Value: 20130416T183000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240229T081532Z
+- Language: "es-MX"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{3931EF10-83FB-4C28-B1AC-F319FFCA791C}"
+              p:after="*[1=2]"
+              s:ds="{FA234D0C-1FA3-4B93-BEC4-6339C9109C48}"
+              s:id="{43C5D426-A6F6-4716-BEAF-F82602D2277B}"
+              s:par="Reset Caching Options&amp;GridParameters&amp;FieldNames=%7BE4BC3964-5235-4FE7-A863-76777C39CFAE%7D&amp;Styles&amp;RenderingIdentifier&amp;DynamicPlaceholderId=1"
+              s:ph="main"
+              s:ccb="Clear on publish" />
+          </d>
+        </r>
+    - ID: "228f9517-e120-4014-b2c7-df0ac467a349"
+      Hint: ContentTitle
+      Value: AFL Integrates TCC Group into AFL Brand
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220112T104126Z
+    - ID: "3688d7df-2feb-43a4-ab8d-410e5f70a676"
+      Hint: ContentDescription
+      Value: |
+        Bracknell, UK and Spartanburg, SC, USA – Following the integration of TCC Group into AFL, a provider of fiber optic cable, components and services, TCC will now be known as <a href="/Services/Europe">AFL Services Europe Limited</a>, assuming the AFL brand. The integration reinforces <a href="/">AFL</a> as a global services company focused on end-to-end support of critical infrastructure.<br />
+         <br />
+        "AFL is known for both quality services and reliable products that deliver value to our customers,” said Paul Thompson, general manager for AFL services. “As a leader in the North American market, we now have the opportunity to strengthen and broaden our customer relationships in Europe. The rebranding of TCC Group to AFL furthers our commitment to provide exceptional service abroad.” <br />
+         <br />
+        <a href="/Company/Company-Profile/News/2011/AFL-Acquires-TCC-Group">TCC Group</a> was acquired by AFL in 2011 to expand its reach into the European market. Now known as AFL Services Europe Ltd., the company will continue to design, build, install and maintain next generation networks across the United Kingdom, Ireland and Europe.  <br />
+         <br />
+        Peter Gorman, managing director for AFL Services Europe Limited commented, “With many years of experience in telecommunications network integration and implementation, our customers will have the added benefit of a global leader that is focused on the services market and seeks to continually add value. We are committed to our customers first.” <br />
+         <br />
+        AFL continues to seek opportunities to expand its footprint to global markets, connecting more businesses with innovative technologies and solutions. For additional information on AFL, its products and services, visit <a href="/">www.AFLglobal.com</a>.<br />
+        <br />
+        About AFL<br />
+        AFL provides industry-leading products and services to the electric utility, broadband, communications, OEM, enterprise, wireless and transit rail markets as well as the emerging markets of oil and gas, mining, nuclear, avionics, medical, renewable and intelligent grid. The company’s diverse product portfolio includes fibre optic cable, transmission and substation accessories, outside plant equipment, connectors, fusion splicers, test equipment and training. AFL’s service portfolio includes market-leading positions with the foremost communications companies supporting inside plant central office, EF&I, outside plant, enterprise and wireless areas.<br />
+        <br />
+        Founded in 1984, AFL is proud to offer engineering expertise, exceptional products and reliable service that help our customers improve their critical and electrical infrastructure. AFL has operations in the U.S., Mexico, Europe, Asia and the South Pacific. The company is headquartered in Spartanburg, SC, and is a wholly-owned subsidiary of Fujikura Ltd. of Japan. For more information, visit <a href="/">www.AFLglobal.com</a>.<br />
+         <br />
+        Contacts<br />
+        Joanne Lawrence<br />
+        Public Relations EMEA<br />
+        AFL<br />
+        44.1793.647200<br />
+        <a href="mailto:Joanne.Lawrence@AFLglobal.com">Joanne.Lawrence@AFLglobal.com</a><br />
+        <br />
+        Corie Culp<br />
+        Public Relations Manager                                    <br />
+        AFL<br />
+        864.433.5409<br />
+        <a href="mailto:Corie.Culp@AFLglobal.com">Corie.Culp@AFLglobal.com</a>
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: AFL Integrates TCC Group into AFL Brand
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\tanishka
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: AFL Integrates TCC Group into AFL Brand
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: AFL Integrates TCC Group into AFL Brand
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "bec843a3-041c-45cb-acfc-af8c9b2603c2"
+    - ID: "a6eaffd5-fc3e-41b4-93b3-f1721fcf2300"
+      Hint: ContentPublishedDate
+      Value: 20130416T183000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: "20240229T081532:638447913322654667Z"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{3931EF10-83FB-4C28-B1AC-F319FFCA791C}"
+              p:after="*[1=2]"
+              s:ds="{FA234D0C-1FA3-4B93-BEC4-6339C9109C48}"
+              s:id="{43C5D426-A6F6-4716-BEAF-F82602D2277B}"
+              s:par="Reset Caching Options&amp;GridParameters&amp;FieldNames=%7BE4BC3964-5235-4FE7-A863-76777C39CFAE%7D&amp;Styles&amp;RenderingIdentifier&amp;DynamicPlaceholderId=1"
+              s:ph="main"
+              s:ccb="Clear on publish" />
+          </d>
+        </r>
+    - ID: "228f9517-e120-4014-b2c7-df0ac467a349"
+      Hint: ContentTitle
+      Value: AFL Integrates TCC Group into AFL Brand
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220112T104126Z
+    - ID: "3688d7df-2feb-43a4-ab8d-410e5f70a676"
+      Hint: ContentDescription
+      Value: |
+        Bracknell, UK and Spartanburg, SC, USA &ndash; Following the integration of TCC Group into AFL, a provider of fiber optic cable, components and services, TCC will now be known as&nbsp;<a href="/Services/Europe">AFL Services Europe Limited</a>, assuming the AFL brand. The integration reinforces&nbsp;<a href="/">AFL</a>&nbsp;as a global services company focused on end-to-end support of critical infrastructure.<br />
+        &nbsp;<br />
+        "AFL is known for both quality services and reliable products that deliver value to our customers,&rdquo; said Paul Thompson, general manager for AFL services. &ldquo;As a leader in the North American market, we now have the opportunity to strengthen and broaden our customer relationships in Europe. The rebranding of TCC Group to AFL furthers our commitment to provide exceptional service abroad.&rdquo;&nbsp;<br />
+        &nbsp;<br />
+        <a href="/Company/Company-Profile/News/2011/AFL-Acquires-TCC-Group">TCC Group</a>&nbsp;was acquired by AFL in 2011 to expand its reach into the European market. Now known as AFL Services Europe Ltd., the company will continue to design, build, install and maintain next generation networks across the United Kingdom, Ireland and Europe. &nbsp;<br />
+        &nbsp;<br />
+        Peter Gorman, managing director for AFL Services Europe Limited commented, &ldquo;With many years of experience in telecommunications network integration and implementation, our customers will have the added benefit of a global leader that is focused on the services market and seeks to continually add value. We are committed to our customers first.&rdquo;&nbsp;<br />
+        &nbsp;<br />
+        AFL continues to seek opportunities to expand its footprint to global markets, connecting more businesses with innovative technologies and solutions. For additional information on AFL, its products and services, visit&nbsp;<a href="/">www.AFLglobal.com</a>.<br />
+        <br />
+        About AFL<br />
+        AFL provides industry-leading products and services to the electric utility, broadband, communications, OEM, enterprise, wireless and transit rail markets as well as the emerging markets of oil and gas, mining, nuclear, avionics, medical, renewable and intelligent grid. The company&rsquo;s diverse product portfolio includes fibre optic cable, transmission and substation accessories, outside plant equipment, connectors, fusion splicers, test equipment and training. AFL&rsquo;s service portfolio includes market-leading positions with the foremost communications companies supporting inside plant central office, EF&amp;I, outside plant, enterprise and wireless areas.<br />
+        <br />
+        Founded in 1984, AFL is proud to offer engineering expertise, exceptional products and reliable service that help our customers improve their critical and electrical infrastructure. AFL has operations in the U.S., Mexico, Europe, Asia and the South Pacific. The company is headquartered in Spartanburg, SC, and is a wholly-owned subsidiary of Fujikura Ltd. of Japan. For more information, visit&nbsp;<a href="/">www.AFLglobal.com</a>.<br />
+        &nbsp;<br />
+        Contacts<br />
+        Joanne Lawrence<br />
+        Public Relations EMEA<br />
+        AFL<br />
+        44.1793.647200<br />
+        <a href="mailto:Joanne.Lawrence@AFLglobal.com">Joanne.Lawrence@AFLglobal.com</a><br />
+        <br />
+        Corie Culp<br />
+        Public Relations Manager&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br />
+        AFL<br />
+        864.433.5409<br />
+        <a href="mailto:Corie.Culp@AFLglobal.com">Corie.Culp@AFLglobal.com</a>
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: AFL Integrates TCC Group into AFL Brand
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\tanishka
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: AFL Integrates TCC Group into AFL Brand
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3788dcc1-0586-4bec-93df-704a181ab73a"
+    - ID: "a6eaffd5-fc3e-41b4-93b3-f1721fcf2300"
+      Hint: ContentPublishedDate
+      Value: 20130416T183000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240229T081532Z
+  - Version: 2
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{3931EF10-83FB-4C28-B1AC-F319FFCA791C}"
+              p:after="*[1=2]"
+              s:ds="{FA234D0C-1FA3-4B93-BEC4-6339C9109C48}"
+              s:id="{43C5D426-A6F6-4716-BEAF-F82602D2277B}"
+              s:par="Reset Caching Options&amp;GridParameters&amp;FieldNames=%7BE4BC3964-5235-4FE7-A863-76777C39CFAE%7D&amp;Styles&amp;RenderingIdentifier&amp;DynamicPlaceholderId=1"
+              s:ph="main"
+              s:ccb="Clear on publish" />
+          </d>
+        </r>
+    - ID: "228f9517-e120-4014-b2c7-df0ac467a349"
+      Hint: ContentTitle
+      Value: AFL Integrates TCC Group into AFL Brand
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220112T104126Z
+    - ID: "3688d7df-2feb-43a4-ab8d-410e5f70a676"
+      Hint: ContentDescription
+      Value: |
+        Bracknell, UK and Spartanburg, SC, USA – Following the integration of TCC Group into AFL, a provider of fiber optic cable, components and services, TCC will now be known as <a href="/Services/Europe">AFL Services Europe Limited</a>, assuming the AFL brand. The integration reinforces <a href="/">AFL</a> as a global services company focused on end-to-end support of critical infrastructure.<br />
+         <br />
+        "AFL is known for both quality services and reliable products that deliver value to our customers,” said Paul Thompson, general manager for AFL services. “As a leader in the North American market, we now have the opportunity to strengthen and broaden our customer relationships in Europe. The rebranding of TCC Group to AFL furthers our commitment to provide exceptional service abroad.” <br />
+         <br />
+        <a href="/Company/Company-Profile/News/2011/AFL-Acquires-TCC-Group">TCC Group</a> was acquired by AFL in 2011 to expand its reach into the European market. Now known as AFL Services Europe Ltd., the company will continue to design, build, install and maintain next generation networks across the United Kingdom, Ireland and Europe.  <br />
+         <br />
+        Peter Gorman, managing director for AFL Services Europe Limited commented, “With many years of experience in telecommunications network integration and implementation, our customers will have the added benefit of a global leader that is focused on the services market and seeks to continually add value. We are committed to our customers first.” <br />
+         <br />
+        AFL continues to seek opportunities to expand its footprint to global markets, connecting more businesses with innovative technologies and solutions. For additional information on AFL, its products and services, visit <a href="/">www.AFLglobal.com</a>.<br />
+        <br />
+        About AFL<br />
+        AFL provides industry-leading products and services to the electric utility, broadband, communications, OEM, enterprise, wireless and transit rail markets as well as the emerging markets of oil and gas, mining, nuclear, avionics, medical, renewable and intelligent grid. The company’s diverse product portfolio includes fibre optic cable, transmission and substation accessories, outside plant equipment, connectors, fusion splicers, test equipment and training. AFL’s service portfolio includes market-leading positions with the foremost communications companies supporting inside plant central office, EF&I, outside plant, enterprise and wireless areas.<br />
+        <br />
+        Founded in 1984, AFL is proud to offer engineering expertise, exceptional products and reliable service that help our customers improve their critical and electrical infrastructure. AFL has operations in the U.S., Mexico, Europe, Asia and the South Pacific. The company is headquartered in Spartanburg, SC, and is a wholly-owned subsidiary of Fujikura Ltd. of Japan. For more information, visit <a href="/">www.AFLglobal.com</a>.<br />
+         <br />
+        Contacts<br />
+        Joanne Lawrence<br />
+        Public Relations EMEA<br />
+        AFL<br />
+        44.1793.647200<br />
+        <a href="mailto:Joanne.Lawrence@AFLglobal.com">Joanne.Lawrence@AFLglobal.com</a><br />
+        <br />
+        Corie Culp<br />
+        Public Relations Manager                                    <br />
+        AFL<br />
+        864.433.5409<br />
+        <a href="mailto:Corie.Culp@AFLglobal.com">Corie.Culp@AFLglobal.com</a>
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: AFL Integrates TCC Group into AFL Brand
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\tanishka
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: AFL Integrates TCC Group into AFL Brand
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: AFL Integrates TCC Group into AFL Brand
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9d50cf7d-9082-42ad-9fd0-9b40b644795b"
+    - ID: "a6eaffd5-fc3e-41b4-93b3-f1721fcf2300"
+      Hint: ContentPublishedDate
+      Value: 20130416T183000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: "20240229T081532:638447913325648812Z"

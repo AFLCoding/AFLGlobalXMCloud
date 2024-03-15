@@ -1,0 +1,1989 @@
+﻿---
+ID: "64de40f0-3b07-4512-9e68-8d5e156d3d02"
+Parent: "ba42e4aa-c755-4549-8dd7-409593885bad"
+Template: "2ad23d55-aecd-43dd-ae0d-72d2ebcba60f"
+Path: "/sitecore/content/AFL-Global/AMERICAS/Home/Contact/Contacts and Feedback Forms/Reel Return Authorization Form/Data/HTML Code 1"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "24cce27c-05db-4473-a1ed-e69b1725ff1c"
+      Hint: HtmlCode
+      Value: |
+        <!-- <script
+          src="https://code.jquery.com/jquery-3.6.0.min.js"
+          integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="
+          crossorigin="anonymous"
+        ></script>
+        <link
+          rel="stylesheet"
+          href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css"
+          integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3"
+          crossorigin="anonymous"
+        />
+        <script
+          src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.min.js"
+          integrity="sha384-QJHtvGhmr9XOIpI6YVutG+2QOK9T+ZnN4kzFN1RtK3zEFEIsxhlmWl5/YESvpZ13"
+          crossorigin="anonymous"
+        ></script>
+        <script
+          src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"
+          integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p"
+          crossorigin="anonymous"
+        ></script>
+        <script
+          src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.min.js"
+          integrity="sha384-VHvPCCyXqtD5DqJeNxl2dtTyhF78xXNXdkwX1CZeRusQfRKp+tA7hAShOK/B/fQ2"
+          crossorigin="anonymous"
+        ></script> -->
+        
+        <style>
+          .afl-contactform h3 {
+            margin-bottom: 0px !important;
+          }
+        
+          .afl-checkbox {
+            display: inline-block;
+            max-width: 25%;
+            color: white;
+            margin-left: 20px;
+            margin-right: 20px;
+          }
+        
+          .afl-checkbox label {
+            position: relative;
+            top: -15px;
+          }
+        
+          #certifiedCheckBoxes h4 {
+            color: white;
+          }
+        
+          #tbl_reels {
+            width: 100%;
+            background-color: white;
+            border: black 1px solid;
+          }
+        
+          #tbl_reels thead tr td {
+            background-color: #efefef;
+            font-weight: bold;
+            border: 1px solid black;
+            padding: 3px;
+          }
+        
+          #tbl_reels tfoot td {
+            border: 1px solid black;
+            padding: 3px;
+          }
+        
+          #tbl_reels tr {
+            border: 1px solid black;
+          }
+        
+          #tbl_reels td {
+            /* border: 1px solid black; */
+            padding: 3px;
+          }
+        
+          #tbl_reels .gray-box {
+            background-color: #efefef;
+            font-weight: bold;
+            text-align: right;
+          }
+        
+          .afl-contactform .error {
+            color: red;
+          }
+        </style>
+        
+        <div class="container">
+          <div class="row col-12">
+            <div
+              class="component sitecore-form afl-contactform container"
+              id="submissionForm"
+            >
+              <form class="afl-contactform">
+                <div id="initialForm">
+                  <h3>Customer Information</h3>
+                  <span id="companyNameRequired" class="error">* Required</span
+                  ><input
+                    type="text"
+                    name="companyName"
+                    id="companyName"
+                    class="afl-formcontrol"
+                    placeholder="Company/End User"
+                  />
+                  <span id="addressRequired" class="error">* Required</span
+                  ><input
+                    type="text"
+                    name="address"
+                    id="address"
+                    class="afl-formcontrol"
+                    placeholder="Pick Up Address"
+                  />
+                  <input
+                    type="text"
+                    name="address2"
+                    id="address2"
+                    class="afl-formcontrol"
+                    placeholder="Address Line 2"
+                  />
+                  <span id="cityRequired" class="error">* Required</span
+                  ><input
+                    type="text"
+                    name="city"
+                    id="city"
+                    class="afl-formcontrol"
+                    placeholder="City"
+                  />
+                  <span id="stateRequired" class="error">* Required</span
+                  ><select name="state" id="state" class="afl-formcontrol"></select>
+                  <span id="zipRequired">* Required</span
+                  ><input
+                    type="text"
+                    name="zip"
+                    id="zip"
+                    class="afl-formcontrol"
+                    placeholder="Zip"
+                  />
+                  <span id="contactNameRequired" class="error">* Required</span
+                  ><input
+                    type="text"
+                    name="contactName"
+                    id="contactName"
+                    class="afl-formcontrol"
+                    placeholder="Contact Name"
+                  />
+                  <span id="contactEmailRequired" class="error">* Required</span
+                  ><input
+                    type="text"
+                    name="contactEmail"
+                    id="contactEmail"
+                    class="afl-formcontrol"
+                    placeholder="Contact Email"
+                  />
+                  <span id="phoneRequired" class="error">* Required</span
+                  ><input
+                    type="text"
+                    name="phone"
+                    id="phone"
+                    class="afl-formcontrol"
+                    placeholder="Phone Number"
+                  />
+                  <select name="csr" id="csr" class="afl-formcontrol"></select>
+                  <button id="btnSubmitForm" type="button" class="btn btn-primary">
+                    Submit
+                  </button>
+                </div>
+                <div id="reelForm">
+                  <h3>Customer Information</h3>
+                  <span id="PORequired" class="error">* Required</span
+                  ><input
+                    type="text"
+                    name="PO"
+                    id="PO"
+                    class="afl-formcontrol"
+                    placeholder="PO# / AFL SO# / Reel ID#"
+                  />
+                  <span id="reelCountRequired" class="error">* Must be numeric</span
+                  ><input
+                    type="text"
+                    name="reelCount"
+                    id="reelCount"
+                    class="afl-formcontrol"
+                    placeholder="Number of Reels BY SIZE"
+                  />
+                  <span id="reelSizeRequired" class="error">* Required</span
+                  ><select name="reelSize" id="reelSize" class="afl-formcontrol">
+                    <option value="">Please Select Reel Size</option>
+                    <option value="60">60"</option>
+                    <option value="72">72"</option>
+                    <option value="84">84"</option>
+                    <option value="96">96"</option>
+                  </select>
+                  <!-- <span id="depositPaidRequired" class="error">* Must be numeric</span
+                  ><input
+                    type="text"
+                    name="deposit"
+                    id="depositPaid"
+                    class="afl-formcontrol"
+                    placeholder="Deposit Paid"
+                  />
+                  <span id="refundRequired" class="error">* Must be numeric</span
+                  ><input
+                    type="text"
+                    name="refund"
+                    id="refund"
+                    class="afl-formcontrol"
+                    placeholder="Refund Amount"
+                  /> -->
+                  <button id="btnSubmitReel" type="button" class="btn btn-primary">
+                    Add To Shipment
+                  </button>
+                </div>
+                <br />
+                <div id="reelDisplay">
+                  <table id="tbl_reels">
+                    <thead>
+                      <tr>
+                        <td class="gray-box">PO#/AFL SO#/Reel ID</td>
+                        <td class="gray-box"># of Reels</td>
+                        <td class="gray-box">Reel Size</td>
+                        <!-- <td class="gray-box">Deposit</td>
+                        <td class="gray-box">Refund Amount</td> -->
+                      </tr>
+                    </thead>
+                    <tbody id="tbl_body"></tbody>
+                    <tfoot>
+                      <tr>
+                        <td class="gray-box">Reels Returned:</td>
+                        <td id="numOfReelsReturned"></td>
+                        <!-- <td colspan="2" class="gray-box">Credit Due:</td>
+                        <td id="creditDue"></td> -->
+                      </tr>
+                    </tfoot>
+                  </table>
+                  <br />
+                  <button id="btnSubmitFinal" type="button" class="btn btn-primary">
+                    Submit
+                  </button>
+                </div>
+              </form>
+            </div>
+        
+            <div
+              class="component sitecore-form afl-contactform container"
+              id="thankYou"
+            >
+              <h3>Thank You!</h3>
+              <p>
+                Please download the spreadsheet below and email it to your sales agent.
+                A copy has been emailed to
+                <a href="mailto:afl-logistics@aflglobal.com"
+                  >afl-logistics@aflglobal.com</a
+                >.
+              </p>
+            </div>
+          </div>
+        </div>
+        <br />
+        
+        <script>
+          //var _url_domain = 'https://localhost:44342/';
+          var _url_domain = 'https://webapps.aflglobal.com/api/';
+        
+          var _minorityCertified = '';
+        
+          var reelCount = 0;
+        
+          $(document).ready(function () {
+            $('#reelForm').hide();
+            $('#reelDisplay').hide();
+            $('#thankYou').hide();
+        
+            $('#companyNameRequired').hide();
+            $('#addressRequired').hide();
+            $('#cityRequired').hide();
+            $('#stateRequired').hide();
+            $('#zipRequired').hide();
+            $('#contactNameRequired').hide();
+            $('#contactEmailRequired').hide();
+            $('#phoneRequired').hide();
+        
+            $('#PORequired').hide();
+            $('#reelCountRequired').hide();
+            $('#reelSizeRequired').hide();
+            // $('#depositPaidRequired').hide();
+            // $('#refundRequired').hide();
+        
+            $('#state').empty();
+            $('#csr').empty();
+        
+            $.ajax({
+              type: 'GET',
+              url: _url_domain + 'reel/getstates',
+              cache: false,
+              beforeSend: function () {},
+              crossDomain: true,
+              success: function (data) {
+                console.log(data);
+        
+                $('#state').append('<option value="">Select State</option>');
+        
+                $(data).each(function (idx, state) {
+                  var _option =
+                    '<option value="' +
+                    state.code +
+                    '">' +
+                    state.stateName +
+                    '</option>';
+        
+                  $('#state').append(_option);
+                });
+              },
+              complete: function () {},
+            });
+        
+            $.ajax({
+              type: 'GET',
+              url: _url_domain + 'reel/getsalesreps',
+              cache: false,
+              beforeSend: function () {},
+              crossDomain: true,
+              success: function (data) {
+                console.log(data);
+        
+                $(data).each(function (idx, rep) {
+                  var _option =
+                    '<option value="' + rep.email + '">' + rep.name + '</option>';
+        
+                  $('#csr').append(_option);
+                });
+              },
+              complete: function () {},
+            });
+        
+            $('#btnSubmitForm').click(function () {
+              var formValid = validateCustomerInformation();
+        
+              if (formValid) {
+                $('#initialForm').hide();
+                $('#reelForm').show();
+              }
+            });
+        
+            $('#btnSubmitReel').click(function () {
+              var formValid = validateShipmentInformation();
+        
+              if (formValid) {
+                var po = $('#PO').val();
+                var reelCount = $('#reelCount').val();
+                // var depositPaid = $('#depositPaid').val();
+                // var refund = $('#refund').val();
+                var reelSize = $('#reelSize').val();
+        
+                var tbl_body = $('#tbl_body');
+                var row = $('<tr></tr>');
+        
+                if (reelSize != 'unknown') {
+                  reelSize = reelSize + '"';
+                }
+        
+                $(row).append(
+                  '<td>' +
+                    po +
+                    '</td><td class="reelCounts">' +
+                    reelCount +
+                    '</td><td>' +
+                    reelSize +
+                    '</td>'
+                  // '</td><td>' +
+                  // Number(depositPaid).toLocaleString('en-US', {
+                  //   style: 'currency',
+                  //   currency: 'USD',
+                  // }) +
+                  // '</td><td class="refunds">' +
+                  // Number(refund).toLocaleString('en-US', {
+                  //   style: 'currency',
+                  //   currency: 'USD',
+                  // }) +
+                  // '</td>'
+                );
+                $(tbl_body).append(row);
+        
+                var reelCountTDs = $('.reelCounts');
+                // var refundTDs = $('.refunds');
+        
+                var reelCounts = 0;
+                // var refunds = 0;
+        
+                $(reelCountTDs).each(function (idx, td) {
+                  reelCounts += Number($(td).text());
+                });
+        
+                // $(refundTDs).each(function (idx, td) {
+                //   refunds += Number(
+                //     $(td)
+                //       .text()
+                //       .replace(/[^0-9.-]+/g, '')
+                //   );
+                // });
+        
+                $('#numOfReelsReturned').text(reelCounts);
+                // $('#creditDue').text(
+                //   refunds.toLocaleString('en-US', {
+                //     style: 'currency',
+                //     currency: 'USD',
+                //   })
+                // );
+        
+                $('#PO').val('');
+                $('#reelCount').val('');
+                // $('#depositPaid').val('');
+                // $('#refund').val('');
+                $('#reelSize').val('');
+        
+                $('#reelDisplay').show();
+              }
+            });
+        
+            $('#btnSubmitFinal').click(function () {
+              var reels = [];
+        
+              $('#tbl_body tr').each(function (idx, row) {
+                let reel = {
+                  po: $(row).children().eq(0).text(),
+                  count: $(row).children().eq(1).text(),
+                  reelSize: $(row).children().eq(2).text(),
+                  //   deposit: $(row).children().eq(3).text(),
+                  //   refund: $(row).children().eq(4).text(),
+                };
+        
+                reels.push(reel);
+              });
+        
+              let submission = {
+                company: $('#companyName').val(),
+                address1: $('#address').val(),
+                address2: $('#address2').val(),
+                city: $('#city').val(),
+                state: $('#state').val(),
+                zip: $('#zip').val(),
+                csr: $('#csr').val(),
+                contact: $('#contactName').val(),
+                contactPhone: $('#phone').val(),
+                contactEmail: $('#contactEmail').val(),
+                reels: reels,
+              };
+        
+              var fileName = 'Reel Return Authorization Form.xlsx';
+        
+              $.ajax({
+                type: 'POST',
+                url: _url_domain + 'reel/submit',
+                cache: false,
+                contentType: 'application/json',
+                data: JSON.stringify(submission),
+                beforeSend: function () {},
+                crossDomain: true,
+                xhr: function () {
+                  var xhr = new XMLHttpRequest();
+                  xhr.onreadystatechange = function () {
+                    if (xhr.readyState == 2) {
+                      if (xhr.status == 200) {
+                        xhr.responseType = 'blob';
+                      } else {
+                        xhr.responseType = 'text';
+                      }
+                    }
+                  };
+                  return xhr;
+                },
+                success: function (data) {
+                  //Convert the Byte Data to BLOB object.
+                  var blob = new Blob([data], { type: 'application/ms-excel' });
+        
+                  //Check the Browser type and download the File.
+                  var isIE = false || !!document.documentMode;
+                  if (isIE) {
+                    window.navigator.msSaveBlob(blob, fileName);
+                  } else {
+                    var url = window.URL || window.webkitURL;
+                    link = url.createObjectURL(blob);
+                    var a = $('<a />');
+                    a.attr('download', fileName);
+                    a.attr('href', link);
+                    $('body').append(a);
+                    a[0].click();
+                    $('body').remove(a);
+                  }
+        
+                  $('#submissionForm').hide();
+                  $('#thankYou').show();
+                },
+                complete: function () {},
+              });
+        
+              console.log(submission);
+            });
+          });
+        
+          function validateCustomerInformation() {
+            var isValid = true;
+        
+            if ($('#companyName').val().length == 0) {
+              $('#companyNameRequired').show();
+              isValid = false;
+            } else {
+              $('#companyNameRequired').hide();
+            }
+        
+            if ($('#address').val().length == 0) {
+              $('#addressRequired').show();
+              isValid = false;
+            } else {
+              $('#addressRequired').hide();
+            }
+        
+            if ($('#city').val().length == 0) {
+              $('#cityRequired').show();
+              isValid = false;
+            } else {
+              $('#cityRequired').hide();
+            }
+        
+            if ($('#state').val().length == 0) {
+              $('#stateRequired').show();
+              isValid = false;
+            } else {
+              $('#stateRequired').hide();
+            }
+        
+            if ($('#zip').val().length == 0) {
+              $('#zipRequired').show();
+              isValid = false;
+            } else {
+              $('#zipRequired').hide();
+            }
+        
+            if ($('#contactName').val().length == 0) {
+              $('#contactNameRequired').show();
+              isValid = false;
+            } else {
+              $('#contactNameRequired').hide();
+            }
+        
+            if ($('#contactEmail').val().length == 0) {
+              $('#contactEmailRequired').show();
+              isValid = false;
+            } else {
+              $('#contactEmailRequired').hide();
+            }
+        
+            if ($('#phone').val().length == 0) {
+              $('#phoneRequired').show();
+              isValid = false;
+            } else {
+              $('#phoneRequired').hide();
+            }
+        
+            return true;
+            //return isValid;
+          }
+        
+          function validateShipmentInformation() {
+            var isValid = true;
+        
+            if ($('#PO').val().length == 0) {
+              $('#PORequired').show();
+              isValid = false;
+            } else {
+              $('#PORequired').hide();
+            }
+        
+            if ($('#reelCount').val().length == 0) {
+              $('#reelCountRequired').show();
+              isValid = false;
+            } else {
+              if ($.isNumeric($('#reelCount').val())) {
+                $('#reelCountRequired').hide();
+              } else {
+                $('#reelCountRequired').show();
+                isValid = false;
+              }
+            }
+        
+            // if ($('#depositPaid').val().length == 0) {
+            //   $('#depositPaidRequired').show();
+            //   isValid = false;
+            // } else {
+            //   if ($.isNumeric($('#depositPaid').val())) {
+            //     $('#depositPaidRequired').hide();
+            //   } else {
+            //     $('#depositPaidRequired').show();
+            //     isValid = false;
+            //   }
+            // }
+        
+            // if ($('#refund').val().length == 0) {
+            //   $('#refundRequired').show();
+            //   isValid = false;
+            // } else {
+            //   if ($.isNumeric($('#refund').val())) {
+            //     $('#refundRequired').hide();
+            //   } else {
+            //     $('#refundRequired').show();
+            //     isValid = false;
+            //   }
+            // }
+        
+            if ($('#reelSize').val().length == 0) {
+              $('#reelSizeRequired').show();
+              isValid = false;
+            } else {
+              $('#reelSizeRequired').hide();
+            }
+        
+            return isValid;
+          }
+        
+          // if ($('#PO').val().length == 0) {
+          //     $('#PORequired').show();
+          //     isValid = false;
+          // } else {
+          //     $('#PORequired').hide();
+          // }
+        
+          // if ($('#PO').val().length == 0) {
+          //     $('#PORequired').show();
+          //     isValid = false;
+          // } else {
+          //     $('#PORequired').hide();
+          // }
+        </script>
+        
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220328T170725Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\matt
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\matt
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a431ecee-20a4-46f3-ba29-938893492c92"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\matt
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231025T145123Z
+- Language: "es-MX"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "24cce27c-05db-4473-a1ed-e69b1725ff1c"
+      Hint: HtmlCode
+      Value: |
+        <!-- <script
+          src="https://code.jquery.com/jquery-3.6.0.min.js"
+          integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="
+          crossorigin="anonymous"
+        ></script>
+        <link
+          rel="stylesheet"
+          href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css"
+          integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3"
+          crossorigin="anonymous"
+        />
+        <script
+          src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.min.js"
+          integrity="sha384-QJHtvGhmr9XOIpI6YVutG+2QOK9T+ZnN4kzFN1RtK3zEFEIsxhlmWl5/YESvpZ13"
+          crossorigin="anonymous"
+        ></script>
+        <script
+          src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"
+          integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p"
+          crossorigin="anonymous"
+        ></script>
+        <script
+          src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.min.js"
+          integrity="sha384-VHvPCCyXqtD5DqJeNxl2dtTyhF78xXNXdkwX1CZeRusQfRKp+tA7hAShOK/B/fQ2"
+          crossorigin="anonymous"
+        ></script> -->
+        
+        <style>
+          .afl-contactform h3 {
+            margin-bottom: 0px !important;
+          }
+        
+          .afl-checkbox {
+            display: inline-block;
+            max-width: 25%;
+            color: white;
+            margin-left: 20px;
+            margin-right: 20px;
+          }
+        
+          .afl-checkbox label {
+            position: relative;
+            top: -15px;
+          }
+        
+          #certifiedCheckBoxes h4 {
+            color: white;
+          }
+        
+          #tbl_reels {
+            width: 100%;
+            background-color: white;
+            border: black 1px solid;
+          }
+        
+          #tbl_reels thead tr td {
+            background-color: #efefef;
+            font-weight: bold;
+            border: 1px solid black;
+            padding: 3px;
+          }
+        
+          #tbl_reels tfoot td {
+            border: 1px solid black;
+            padding: 3px;
+          }
+        
+          #tbl_reels tr {
+            border: 1px solid black;
+          }
+        
+          #tbl_reels td {
+            /* border: 1px solid black; */
+            padding: 3px;
+          }
+        
+          #tbl_reels .gray-box {
+            background-color: #efefef;
+            font-weight: bold;
+            text-align: right;
+          }
+        
+          .afl-contactform .error {
+            color: red;
+          }
+        </style>
+        
+        <div class="container">
+          <div class="row col-12">
+            <div
+              class="component sitecore-form afl-contactform container"
+              id="submissionForm"
+            >
+              <form class="afl-contactform">
+                <div id="initialForm">
+                  <h3>Customer Information</h3>
+                  <span id="companyNameRequired" class="error">* Required</span
+                  ><input
+                    type="text"
+                    name="companyName"
+                    id="companyName"
+                    class="afl-formcontrol"
+                    placeholder="Company/End User"
+                  />
+                  <span id="addressRequired" class="error">* Required</span
+                  ><input
+                    type="text"
+                    name="address"
+                    id="address"
+                    class="afl-formcontrol"
+                    placeholder="Pick Up Address"
+                  />
+                  <input
+                    type="text"
+                    name="address2"
+                    id="address2"
+                    class="afl-formcontrol"
+                    placeholder="Address Line 2"
+                  />
+                  <span id="cityRequired" class="error">* Required</span
+                  ><input
+                    type="text"
+                    name="city"
+                    id="city"
+                    class="afl-formcontrol"
+                    placeholder="City"
+                  />
+                  <span id="stateRequired" class="error">* Required</span
+                  ><select name="state" id="state" class="afl-formcontrol"></select>
+                  <span id="zipRequired">* Required</span
+                  ><input
+                    type="text"
+                    name="zip"
+                    id="zip"
+                    class="afl-formcontrol"
+                    placeholder="Zip"
+                  />
+                  <span id="contactNameRequired" class="error">* Required</span
+                  ><input
+                    type="text"
+                    name="contactName"
+                    id="contactName"
+                    class="afl-formcontrol"
+                    placeholder="Contact Name"
+                  />
+                  <span id="contactEmailRequired" class="error">* Required</span
+                  ><input
+                    type="text"
+                    name="contactEmail"
+                    id="contactEmail"
+                    class="afl-formcontrol"
+                    placeholder="Contact Email"
+                  />
+                  <span id="phoneRequired" class="error">* Required</span
+                  ><input
+                    type="text"
+                    name="phone"
+                    id="phone"
+                    class="afl-formcontrol"
+                    placeholder="Phone Number"
+                  />
+                  <select name="csr" id="csr" class="afl-formcontrol"></select>
+                  <button id="btnSubmitForm" type="button" class="btn btn-primary">
+                    Submit
+                  </button>
+                </div>
+                <div id="reelForm">
+                  <h3>Customer Information</h3>
+                  <span id="PORequired" class="error">* Required</span
+                  ><input
+                    type="text"
+                    name="PO"
+                    id="PO"
+                    class="afl-formcontrol"
+                    placeholder="PO# / AFL SO# / Reel ID#"
+                  />
+                  <span id="reelCountRequired" class="error">* Must be numeric</span
+                  ><input
+                    type="text"
+                    name="reelCount"
+                    id="reelCount"
+                    class="afl-formcontrol"
+                    placeholder="Number of Reels BY SIZE"
+                  />
+                  <span id="reelSizeRequired" class="error">* Required</span
+                  ><select name="reelSize" id="reelSize" class="afl-formcontrol">
+                    <option value="">Please Select Reel Size</option>
+                    <option value="60">60"</option>
+                    <option value="72">72"</option>
+                    <option value="84">84"</option>
+                    <option value="96">96"</option>
+                  </select>
+                  <!-- <span id="depositPaidRequired" class="error">* Must be numeric</span
+                  ><input
+                    type="text"
+                    name="deposit"
+                    id="depositPaid"
+                    class="afl-formcontrol"
+                    placeholder="Deposit Paid"
+                  />
+                  <span id="refundRequired" class="error">* Must be numeric</span
+                  ><input
+                    type="text"
+                    name="refund"
+                    id="refund"
+                    class="afl-formcontrol"
+                    placeholder="Refund Amount"
+                  /> -->
+                  <button id="btnSubmitReel" type="button" class="btn btn-primary">
+                    Add To Shipment
+                  </button>
+                </div>
+                <br />
+                <div id="reelDisplay">
+                  <table id="tbl_reels">
+                    <thead>
+                      <tr>
+                        <td class="gray-box">PO#/AFL SO#/Reel ID</td>
+                        <td class="gray-box"># of Reels</td>
+                        <td class="gray-box">Reel Size</td>
+                        <!-- <td class="gray-box">Deposit</td>
+                        <td class="gray-box">Refund Amount</td> -->
+                      </tr>
+                    </thead>
+                    <tbody id="tbl_body"></tbody>
+                    <tfoot>
+                      <tr>
+                        <td class="gray-box">Reels Returned:</td>
+                        <td id="numOfReelsReturned"></td>
+                        <!-- <td colspan="2" class="gray-box">Credit Due:</td>
+                        <td id="creditDue"></td> -->
+                      </tr>
+                    </tfoot>
+                  </table>
+                  <br />
+                  <button id="btnSubmitFinal" type="button" class="btn btn-primary">
+                    Submit
+                  </button>
+                </div>
+              </form>
+            </div>
+        
+            <div
+              class="component sitecore-form afl-contactform container"
+              id="thankYou"
+            >
+              <h3>Thank You!</h3>
+              <p>
+                Please download the spreadsheet below and email it to your sales agent.
+                A copy has been emailed to
+                <a href="mailto:afl-logistics@aflglobal.com"
+                  >afl-logistics@aflglobal.com</a
+                >.
+              </p>
+            </div>
+          </div>
+        </div>
+        <br />
+        
+        <script>
+          //var _url_domain = 'https://localhost:44342/';
+          var _url_domain = 'https://webapps.aflglobal.com/api/';
+        
+          var _minorityCertified = '';
+        
+          var reelCount = 0;
+        
+          $(document).ready(function () {
+            $('#reelForm').hide();
+            $('#reelDisplay').hide();
+            $('#thankYou').hide();
+        
+            $('#companyNameRequired').hide();
+            $('#addressRequired').hide();
+            $('#cityRequired').hide();
+            $('#stateRequired').hide();
+            $('#zipRequired').hide();
+            $('#contactNameRequired').hide();
+            $('#contactEmailRequired').hide();
+            $('#phoneRequired').hide();
+        
+            $('#PORequired').hide();
+            $('#reelCountRequired').hide();
+            $('#reelSizeRequired').hide();
+            // $('#depositPaidRequired').hide();
+            // $('#refundRequired').hide();
+        
+            $('#state').empty();
+            $('#csr').empty();
+        
+            $.ajax({
+              type: 'GET',
+              url: _url_domain + 'reel/getstates',
+              cache: false,
+              beforeSend: function () {},
+              crossDomain: true,
+              success: function (data) {
+                console.log(data);
+        
+                $('#state').append('<option value="">Select State</option>');
+        
+                $(data).each(function (idx, state) {
+                  var _option =
+                    '<option value="' +
+                    state.code +
+                    '">' +
+                    state.stateName +
+                    '</option>';
+        
+                  $('#state').append(_option);
+                });
+              },
+              complete: function () {},
+            });
+        
+            $.ajax({
+              type: 'GET',
+              url: _url_domain + 'reel/getsalesreps',
+              cache: false,
+              beforeSend: function () {},
+              crossDomain: true,
+              success: function (data) {
+                console.log(data);
+        
+                $(data).each(function (idx, rep) {
+                  var _option =
+                    '<option value="' + rep.email + '">' + rep.name + '</option>';
+        
+                  $('#csr').append(_option);
+                });
+              },
+              complete: function () {},
+            });
+        
+            $('#btnSubmitForm').click(function () {
+              var formValid = validateCustomerInformation();
+        
+              if (formValid) {
+                $('#initialForm').hide();
+                $('#reelForm').show();
+              }
+            });
+        
+            $('#btnSubmitReel').click(function () {
+              var formValid = validateShipmentInformation();
+        
+              if (formValid) {
+                var po = $('#PO').val();
+                var reelCount = $('#reelCount').val();
+                // var depositPaid = $('#depositPaid').val();
+                // var refund = $('#refund').val();
+                var reelSize = $('#reelSize').val();
+        
+                var tbl_body = $('#tbl_body');
+                var row = $('<tr></tr>');
+        
+                if (reelSize != 'unknown') {
+                  reelSize = reelSize + '"';
+                }
+        
+                $(row).append(
+                  '<td>' +
+                    po +
+                    '</td><td class="reelCounts">' +
+                    reelCount +
+                    '</td><td>' +
+                    reelSize +
+                    '</td>'
+                  // '</td><td>' +
+                  // Number(depositPaid).toLocaleString('en-US', {
+                  //   style: 'currency',
+                  //   currency: 'USD',
+                  // }) +
+                  // '</td><td class="refunds">' +
+                  // Number(refund).toLocaleString('en-US', {
+                  //   style: 'currency',
+                  //   currency: 'USD',
+                  // }) +
+                  // '</td>'
+                );
+                $(tbl_body).append(row);
+        
+                var reelCountTDs = $('.reelCounts');
+                // var refundTDs = $('.refunds');
+        
+                var reelCounts = 0;
+                // var refunds = 0;
+        
+                $(reelCountTDs).each(function (idx, td) {
+                  reelCounts += Number($(td).text());
+                });
+        
+                // $(refundTDs).each(function (idx, td) {
+                //   refunds += Number(
+                //     $(td)
+                //       .text()
+                //       .replace(/[^0-9.-]+/g, '')
+                //   );
+                // });
+        
+                $('#numOfReelsReturned').text(reelCounts);
+                // $('#creditDue').text(
+                //   refunds.toLocaleString('en-US', {
+                //     style: 'currency',
+                //     currency: 'USD',
+                //   })
+                // );
+        
+                $('#PO').val('');
+                $('#reelCount').val('');
+                // $('#depositPaid').val('');
+                // $('#refund').val('');
+                $('#reelSize').val('');
+        
+                $('#reelDisplay').show();
+              }
+            });
+        
+            $('#btnSubmitFinal').click(function () {
+              var reels = [];
+        
+              $('#tbl_body tr').each(function (idx, row) {
+                let reel = {
+                  po: $(row).children().eq(0).text(),
+                  count: $(row).children().eq(1).text(),
+                  reelSize: $(row).children().eq(2).text(),
+                  //   deposit: $(row).children().eq(3).text(),
+                  //   refund: $(row).children().eq(4).text(),
+                };
+        
+                reels.push(reel);
+              });
+        
+              let submission = {
+                company: $('#companyName').val(),
+                address1: $('#address').val(),
+                address2: $('#address2').val(),
+                city: $('#city').val(),
+                state: $('#state').val(),
+                zip: $('#zip').val(),
+                csr: $('#csr').val(),
+                contact: $('#contactName').val(),
+                contactPhone: $('#phone').val(),
+                contactEmail: $('#contactEmail').val(),
+                reels: reels,
+              };
+        
+              var fileName = 'Reel Return Authorization Form.xlsx';
+        
+              $.ajax({
+                type: 'POST',
+                url: _url_domain + 'reel/submit',
+                cache: false,
+                contentType: 'application/json',
+                data: JSON.stringify(submission),
+                beforeSend: function () {},
+                crossDomain: true,
+                xhr: function () {
+                  var xhr = new XMLHttpRequest();
+                  xhr.onreadystatechange = function () {
+                    if (xhr.readyState == 2) {
+                      if (xhr.status == 200) {
+                        xhr.responseType = 'blob';
+                      } else {
+                        xhr.responseType = 'text';
+                      }
+                    }
+                  };
+                  return xhr;
+                },
+                success: function (data) {
+                  //Convert the Byte Data to BLOB object.
+                  var blob = new Blob([data], { type: 'application/ms-excel' });
+        
+                  //Check the Browser type and download the File.
+                  var isIE = false || !!document.documentMode;
+                  if (isIE) {
+                    window.navigator.msSaveBlob(blob, fileName);
+                  } else {
+                    var url = window.URL || window.webkitURL;
+                    link = url.createObjectURL(blob);
+                    var a = $('<a />');
+                    a.attr('download', fileName);
+                    a.attr('href', link);
+                    $('body').append(a);
+                    a[0].click();
+                    $('body').remove(a);
+                  }
+        
+                  $('#submissionForm').hide();
+                  $('#thankYou').show();
+                },
+                complete: function () {},
+              });
+        
+              console.log(submission);
+            });
+          });
+        
+          function validateCustomerInformation() {
+            var isValid = true;
+        
+            if ($('#companyName').val().length == 0) {
+              $('#companyNameRequired').show();
+              isValid = false;
+            } else {
+              $('#companyNameRequired').hide();
+            }
+        
+            if ($('#address').val().length == 0) {
+              $('#addressRequired').show();
+              isValid = false;
+            } else {
+              $('#addressRequired').hide();
+            }
+        
+            if ($('#city').val().length == 0) {
+              $('#cityRequired').show();
+              isValid = false;
+            } else {
+              $('#cityRequired').hide();
+            }
+        
+            if ($('#state').val().length == 0) {
+              $('#stateRequired').show();
+              isValid = false;
+            } else {
+              $('#stateRequired').hide();
+            }
+        
+            if ($('#zip').val().length == 0) {
+              $('#zipRequired').show();
+              isValid = false;
+            } else {
+              $('#zipRequired').hide();
+            }
+        
+            if ($('#contactName').val().length == 0) {
+              $('#contactNameRequired').show();
+              isValid = false;
+            } else {
+              $('#contactNameRequired').hide();
+            }
+        
+            if ($('#contactEmail').val().length == 0) {
+              $('#contactEmailRequired').show();
+              isValid = false;
+            } else {
+              $('#contactEmailRequired').hide();
+            }
+        
+            if ($('#phone').val().length == 0) {
+              $('#phoneRequired').show();
+              isValid = false;
+            } else {
+              $('#phoneRequired').hide();
+            }
+        
+            return true;
+            //return isValid;
+          }
+        
+          function validateShipmentInformation() {
+            var isValid = true;
+        
+            if ($('#PO').val().length == 0) {
+              $('#PORequired').show();
+              isValid = false;
+            } else {
+              $('#PORequired').hide();
+            }
+        
+            if ($('#reelCount').val().length == 0) {
+              $('#reelCountRequired').show();
+              isValid = false;
+            } else {
+              if ($.isNumeric($('#reelCount').val())) {
+                $('#reelCountRequired').hide();
+              } else {
+                $('#reelCountRequired').show();
+                isValid = false;
+              }
+            }
+        
+            // if ($('#depositPaid').val().length == 0) {
+            //   $('#depositPaidRequired').show();
+            //   isValid = false;
+            // } else {
+            //   if ($.isNumeric($('#depositPaid').val())) {
+            //     $('#depositPaidRequired').hide();
+            //   } else {
+            //     $('#depositPaidRequired').show();
+            //     isValid = false;
+            //   }
+            // }
+        
+            // if ($('#refund').val().length == 0) {
+            //   $('#refundRequired').show();
+            //   isValid = false;
+            // } else {
+            //   if ($.isNumeric($('#refund').val())) {
+            //     $('#refundRequired').hide();
+            //   } else {
+            //     $('#refundRequired').show();
+            //     isValid = false;
+            //   }
+            // }
+        
+            if ($('#reelSize').val().length == 0) {
+              $('#reelSizeRequired').show();
+              isValid = false;
+            } else {
+              $('#reelSizeRequired').hide();
+            }
+        
+            return isValid;
+          }
+        
+          // if ($('#PO').val().length == 0) {
+          //     $('#PORequired').show();
+          //     isValid = false;
+          // } else {
+          //     $('#PORequired').hide();
+          // }
+        
+          // if ($('#PO').val().length == 0) {
+          //     $('#PORequired').show();
+          //     isValid = false;
+          // } else {
+          //     $('#PORequired').hide();
+          // }
+        </script>
+        
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220328T170725Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\matt
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\matt
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f3e8a2b7-16d1-48cc-9598-9cd48ea857f0"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\matt
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231025T145137Z
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "24cce27c-05db-4473-a1ed-e69b1725ff1c"
+      Hint: HtmlCode
+      Value: |
+        <!-- <script
+          src="https://code.jquery.com/jquery-3.6.0.min.js"
+          integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="
+          crossorigin="anonymous"
+        ></script>
+        <link
+          rel="stylesheet"
+          href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css"
+          integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3"
+          crossorigin="anonymous"
+        />
+        <script
+          src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.min.js"
+          integrity="sha384-QJHtvGhmr9XOIpI6YVutG+2QOK9T+ZnN4kzFN1RtK3zEFEIsxhlmWl5/YESvpZ13"
+          crossorigin="anonymous"
+        ></script>
+        <script
+          src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"
+          integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p"
+          crossorigin="anonymous"
+        ></script>
+        <script
+          src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.min.js"
+          integrity="sha384-VHvPCCyXqtD5DqJeNxl2dtTyhF78xXNXdkwX1CZeRusQfRKp+tA7hAShOK/B/fQ2"
+          crossorigin="anonymous"
+        ></script> -->
+        
+        <style>
+          .afl-contactform h3 {
+            margin-bottom: 0px !important;
+          }
+        
+          .afl-checkbox {
+            display: inline-block;
+            max-width: 25%;
+            color: white;
+            margin-left: 20px;
+            margin-right: 20px;
+          }
+        
+          .afl-checkbox label {
+            position: relative;
+            top: -15px;
+          }
+        
+          #certifiedCheckBoxes h4 {
+            color: white;
+          }
+        
+          #tbl_reels {
+            width: 100%;
+            background-color: white;
+            border: black 1px solid;
+          }
+        
+          #tbl_reels thead tr td {
+            background-color: #efefef;
+            font-weight: bold;
+            border: 1px solid black;
+            padding: 3px;
+          }
+        
+          #tbl_reels tfoot td {
+            border: 1px solid black;
+            padding: 3px;
+          }
+        
+          #tbl_reels tr {
+            border: 1px solid black;
+          }
+        
+          #tbl_reels td {
+            /* border: 1px solid black; */
+            padding: 3px;
+          }
+        
+          #tbl_reels .gray-box {
+            background-color: #efefef;
+            font-weight: bold;
+            text-align: right;
+          }
+        
+          .afl-contactform .error {
+            color: red;
+          }
+        </style>
+        
+        <div class="container">
+          <div class="row col-12">
+            <div
+              class="component sitecore-form afl-contactform container"
+              id="submissionForm"
+            >
+              <form class="afl-contactform">
+                <div id="initialForm">
+                  <h3>Customer Information</h3>
+                  <span id="companyNameRequired" class="error">* Required</span
+                  ><input
+                    type="text"
+                    name="companyName"
+                    id="companyName"
+                    class="afl-formcontrol"
+                    placeholder="Company/End User"
+                  />
+                  <span id="addressRequired" class="error">* Required</span
+                  ><input
+                    type="text"
+                    name="address"
+                    id="address"
+                    class="afl-formcontrol"
+                    placeholder="Pick Up Address"
+                  />
+                  <input
+                    type="text"
+                    name="address2"
+                    id="address2"
+                    class="afl-formcontrol"
+                    placeholder="Address Line 2"
+                  />
+                  <span id="cityRequired" class="error">* Required</span
+                  ><input
+                    type="text"
+                    name="city"
+                    id="city"
+                    class="afl-formcontrol"
+                    placeholder="City"
+                  />
+                  <span id="stateRequired" class="error">* Required</span
+                  ><select name="state" id="state" class="afl-formcontrol"></select>
+                  <span id="zipRequired">* Required</span
+                  ><input
+                    type="text"
+                    name="zip"
+                    id="zip"
+                    class="afl-formcontrol"
+                    placeholder="Zip"
+                  />
+                  <span id="contactNameRequired" class="error">* Required</span
+                  ><input
+                    type="text"
+                    name="contactName"
+                    id="contactName"
+                    class="afl-formcontrol"
+                    placeholder="Contact Name"
+                  />
+                  <span id="contactEmailRequired" class="error">* Required</span
+                  ><input
+                    type="text"
+                    name="contactEmail"
+                    id="contactEmail"
+                    class="afl-formcontrol"
+                    placeholder="Contact Email"
+                  />
+                  <span id="phoneRequired" class="error">* Required</span
+                  ><input
+                    type="text"
+                    name="phone"
+                    id="phone"
+                    class="afl-formcontrol"
+                    placeholder="Phone Number"
+                  />
+                  <select name="csr" id="csr" class="afl-formcontrol"></select>
+                  <button id="btnSubmitForm" type="button" class="btn btn-primary">
+                    Submit
+                  </button>
+                </div>
+                <div id="reelForm">
+                  <h3>Customer Information</h3>
+                  <span id="PORequired" class="error">* Required</span
+                  ><input
+                    type="text"
+                    name="PO"
+                    id="PO"
+                    class="afl-formcontrol"
+                    placeholder="PO# / AFL SO# / Reel ID#"
+                  />
+                  <span id="reelCountRequired" class="error">* Must be numeric</span
+                  ><input
+                    type="text"
+                    name="reelCount"
+                    id="reelCount"
+                    class="afl-formcontrol"
+                    placeholder="Number of Reels BY SIZE"
+                  />
+                  <span id="reelSizeRequired" class="error">* Required</span
+                  ><select name="reelSize" id="reelSize" class="afl-formcontrol">
+                    <option value="">Please Select Reel Size</option>
+                    <option value="60">60"</option>
+                    <option value="72">72"</option>
+                    <option value="84">84"</option>
+                    <option value="96">96"</option>
+                  </select>
+                  <!-- <span id="depositPaidRequired" class="error">* Must be numeric</span
+                  ><input
+                    type="text"
+                    name="deposit"
+                    id="depositPaid"
+                    class="afl-formcontrol"
+                    placeholder="Deposit Paid"
+                  />
+                  <span id="refundRequired" class="error">* Must be numeric</span
+                  ><input
+                    type="text"
+                    name="refund"
+                    id="refund"
+                    class="afl-formcontrol"
+                    placeholder="Refund Amount"
+                  /> -->
+                  <button id="btnSubmitReel" type="button" class="btn btn-primary">
+                    Add To Shipment
+                  </button>
+                </div>
+                <br />
+                <div id="reelDisplay">
+                  <table id="tbl_reels">
+                    <thead>
+                      <tr>
+                        <td class="gray-box">PO#/AFL SO#/Reel ID</td>
+                        <td class="gray-box"># of Reels</td>
+                        <td class="gray-box">Reel Size</td>
+                        <!-- <td class="gray-box">Deposit</td>
+                        <td class="gray-box">Refund Amount</td> -->
+                      </tr>
+                    </thead>
+                    <tbody id="tbl_body"></tbody>
+                    <tfoot>
+                      <tr>
+                        <td class="gray-box">Reels Returned:</td>
+                        <td id="numOfReelsReturned"></td>
+                        <!-- <td colspan="2" class="gray-box">Credit Due:</td>
+                        <td id="creditDue"></td> -->
+                      </tr>
+                    </tfoot>
+                  </table>
+                  <br />
+                  <button id="btnSubmitFinal" type="button" class="btn btn-primary">
+                    Submit
+                  </button>
+                </div>
+              </form>
+            </div>
+        
+            <div
+              class="component sitecore-form afl-contactform container"
+              id="thankYou"
+            >
+              <h3>Thank You!</h3>
+              <p>
+                Please download the spreadsheet below and email it to your sales agent.
+                A copy has been emailed to
+                <a href="mailto:afl-logistics@aflglobal.com"
+                  >afl-logistics@aflglobal.com</a
+                >.
+              </p>
+            </div>
+          </div>
+        </div>
+        <br />
+        
+        <script>
+          //var _url_domain = 'https://localhost:44342/';
+          var _url_domain = 'https://webapps.aflglobal.com/api/';
+        
+          var _minorityCertified = '';
+        
+          var reelCount = 0;
+        
+          $(document).ready(function () {
+            $('#reelForm').hide();
+            $('#reelDisplay').hide();
+            $('#thankYou').hide();
+        
+            $('#companyNameRequired').hide();
+            $('#addressRequired').hide();
+            $('#cityRequired').hide();
+            $('#stateRequired').hide();
+            $('#zipRequired').hide();
+            $('#contactNameRequired').hide();
+            $('#contactEmailRequired').hide();
+            $('#phoneRequired').hide();
+        
+            $('#PORequired').hide();
+            $('#reelCountRequired').hide();
+            $('#reelSizeRequired').hide();
+            // $('#depositPaidRequired').hide();
+            // $('#refundRequired').hide();
+        
+            $('#state').empty();
+            $('#csr').empty();
+        
+            $.ajax({
+              type: 'GET',
+              url: _url_domain + 'reel/getstates',
+              cache: false,
+              beforeSend: function () {},
+              crossDomain: true,
+              success: function (data) {
+                console.log(data);
+        
+                $('#state').append('<option value="">Select State</option>');
+        
+                $(data).each(function (idx, state) {
+                  var _option =
+                    '<option value="' +
+                    state.code +
+                    '">' +
+                    state.stateName +
+                    '</option>';
+        
+                  $('#state').append(_option);
+                });
+              },
+              complete: function () {},
+            });
+        
+            $.ajax({
+              type: 'GET',
+              url: _url_domain + 'reel/getsalesreps',
+              cache: false,
+              beforeSend: function () {},
+              crossDomain: true,
+              success: function (data) {
+                console.log(data);
+        
+                $(data).each(function (idx, rep) {
+                  var _option =
+                    '<option value="' + rep.email + '">' + rep.name + '</option>';
+        
+                  $('#csr').append(_option);
+                });
+              },
+              complete: function () {},
+            });
+        
+            $('#btnSubmitForm').click(function () {
+              var formValid = validateCustomerInformation();
+        
+              if (formValid) {
+                $('#initialForm').hide();
+                $('#reelForm').show();
+              }
+            });
+        
+            $('#btnSubmitReel').click(function () {
+              var formValid = validateShipmentInformation();
+        
+              if (formValid) {
+                var po = $('#PO').val();
+                var reelCount = $('#reelCount').val();
+                // var depositPaid = $('#depositPaid').val();
+                // var refund = $('#refund').val();
+                var reelSize = $('#reelSize').val();
+        
+                var tbl_body = $('#tbl_body');
+                var row = $('<tr></tr>');
+        
+                if (reelSize != 'unknown') {
+                  reelSize = reelSize + '"';
+                }
+        
+                $(row).append(
+                  '<td>' +
+                    po +
+                    '</td><td class="reelCounts">' +
+                    reelCount +
+                    '</td><td>' +
+                    reelSize +
+                    '</td>'
+                  // '</td><td>' +
+                  // Number(depositPaid).toLocaleString('en-US', {
+                  //   style: 'currency',
+                  //   currency: 'USD',
+                  // }) +
+                  // '</td><td class="refunds">' +
+                  // Number(refund).toLocaleString('en-US', {
+                  //   style: 'currency',
+                  //   currency: 'USD',
+                  // }) +
+                  // '</td>'
+                );
+                $(tbl_body).append(row);
+        
+                var reelCountTDs = $('.reelCounts');
+                // var refundTDs = $('.refunds');
+        
+                var reelCounts = 0;
+                // var refunds = 0;
+        
+                $(reelCountTDs).each(function (idx, td) {
+                  reelCounts += Number($(td).text());
+                });
+        
+                // $(refundTDs).each(function (idx, td) {
+                //   refunds += Number(
+                //     $(td)
+                //       .text()
+                //       .replace(/[^0-9.-]+/g, '')
+                //   );
+                // });
+        
+                $('#numOfReelsReturned').text(reelCounts);
+                // $('#creditDue').text(
+                //   refunds.toLocaleString('en-US', {
+                //     style: 'currency',
+                //     currency: 'USD',
+                //   })
+                // );
+        
+                $('#PO').val('');
+                $('#reelCount').val('');
+                // $('#depositPaid').val('');
+                // $('#refund').val('');
+                $('#reelSize').val('');
+        
+                $('#reelDisplay').show();
+              }
+            });
+        
+            $('#btnSubmitFinal').click(function () {
+              var reels = [];
+        
+              $('#tbl_body tr').each(function (idx, row) {
+                let reel = {
+                  po: $(row).children().eq(0).text(),
+                  count: $(row).children().eq(1).text(),
+                  reelSize: $(row).children().eq(2).text(),
+                  //   deposit: $(row).children().eq(3).text(),
+                  //   refund: $(row).children().eq(4).text(),
+                };
+        
+                reels.push(reel);
+              });
+        
+              let submission = {
+                company: $('#companyName').val(),
+                address1: $('#address').val(),
+                address2: $('#address2').val(),
+                city: $('#city').val(),
+                state: $('#state').val(),
+                zip: $('#zip').val(),
+                csr: $('#csr').val(),
+                contact: $('#contactName').val(),
+                contactPhone: $('#phone').val(),
+                contactEmail: $('#contactEmail').val(),
+                reels: reels,
+              };
+        
+              var fileName = 'Reel Return Authorization Form.xlsx';
+        
+              $.ajax({
+                type: 'POST',
+                url: _url_domain + 'reel/submit',
+                cache: false,
+                contentType: 'application/json',
+                data: JSON.stringify(submission),
+                beforeSend: function () {},
+                crossDomain: true,
+                xhr: function () {
+                  var xhr = new XMLHttpRequest();
+                  xhr.onreadystatechange = function () {
+                    if (xhr.readyState == 2) {
+                      if (xhr.status == 200) {
+                        xhr.responseType = 'blob';
+                      } else {
+                        xhr.responseType = 'text';
+                      }
+                    }
+                  };
+                  return xhr;
+                },
+                success: function (data) {
+                  //Convert the Byte Data to BLOB object.
+                  var blob = new Blob([data], { type: 'application/ms-excel' });
+        
+                  //Check the Browser type and download the File.
+                  var isIE = false || !!document.documentMode;
+                  if (isIE) {
+                    window.navigator.msSaveBlob(blob, fileName);
+                  } else {
+                    var url = window.URL || window.webkitURL;
+                    link = url.createObjectURL(blob);
+                    var a = $('<a />');
+                    a.attr('download', fileName);
+                    a.attr('href', link);
+                    $('body').append(a);
+                    a[0].click();
+                    $('body').remove(a);
+                  }
+        
+                  $('#submissionForm').hide();
+                  $('#thankYou').show();
+                },
+                complete: function () {},
+              });
+        
+              console.log(submission);
+            });
+          });
+        
+          function validateCustomerInformation() {
+            var isValid = true;
+        
+            if ($('#companyName').val().length == 0) {
+              $('#companyNameRequired').show();
+              isValid = false;
+            } else {
+              $('#companyNameRequired').hide();
+            }
+        
+            if ($('#address').val().length == 0) {
+              $('#addressRequired').show();
+              isValid = false;
+            } else {
+              $('#addressRequired').hide();
+            }
+        
+            if ($('#city').val().length == 0) {
+              $('#cityRequired').show();
+              isValid = false;
+            } else {
+              $('#cityRequired').hide();
+            }
+        
+            if ($('#state').val().length == 0) {
+              $('#stateRequired').show();
+              isValid = false;
+            } else {
+              $('#stateRequired').hide();
+            }
+        
+            if ($('#zip').val().length == 0) {
+              $('#zipRequired').show();
+              isValid = false;
+            } else {
+              $('#zipRequired').hide();
+            }
+        
+            if ($('#contactName').val().length == 0) {
+              $('#contactNameRequired').show();
+              isValid = false;
+            } else {
+              $('#contactNameRequired').hide();
+            }
+        
+            if ($('#contactEmail').val().length == 0) {
+              $('#contactEmailRequired').show();
+              isValid = false;
+            } else {
+              $('#contactEmailRequired').hide();
+            }
+        
+            if ($('#phone').val().length == 0) {
+              $('#phoneRequired').show();
+              isValid = false;
+            } else {
+              $('#phoneRequired').hide();
+            }
+        
+            return true;
+            //return isValid;
+          }
+        
+          function validateShipmentInformation() {
+            var isValid = true;
+        
+            if ($('#PO').val().length == 0) {
+              $('#PORequired').show();
+              isValid = false;
+            } else {
+              $('#PORequired').hide();
+            }
+        
+            if ($('#reelCount').val().length == 0) {
+              $('#reelCountRequired').show();
+              isValid = false;
+            } else {
+              if ($.isNumeric($('#reelCount').val())) {
+                $('#reelCountRequired').hide();
+              } else {
+                $('#reelCountRequired').show();
+                isValid = false;
+              }
+            }
+        
+            // if ($('#depositPaid').val().length == 0) {
+            //   $('#depositPaidRequired').show();
+            //   isValid = false;
+            // } else {
+            //   if ($.isNumeric($('#depositPaid').val())) {
+            //     $('#depositPaidRequired').hide();
+            //   } else {
+            //     $('#depositPaidRequired').show();
+            //     isValid = false;
+            //   }
+            // }
+        
+            // if ($('#refund').val().length == 0) {
+            //   $('#refundRequired').show();
+            //   isValid = false;
+            // } else {
+            //   if ($.isNumeric($('#refund').val())) {
+            //     $('#refundRequired').hide();
+            //   } else {
+            //     $('#refundRequired').show();
+            //     isValid = false;
+            //   }
+            // }
+        
+            if ($('#reelSize').val().length == 0) {
+              $('#reelSizeRequired').show();
+              isValid = false;
+            } else {
+              $('#reelSizeRequired').hide();
+            }
+        
+            return isValid;
+          }
+        
+          // if ($('#PO').val().length == 0) {
+          //     $('#PORequired').show();
+          //     isValid = false;
+          // } else {
+          //     $('#PORequired').hide();
+          // }
+        
+          // if ($('#PO').val().length == 0) {
+          //     $('#PORequired').show();
+          //     isValid = false;
+          // } else {
+          //     $('#PORequired').hide();
+          // }
+        </script>
+        
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220328T170725Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\matt
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\matt
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f87a5acc-6cd5-4f69-9dd8-30f5cf2997b3"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\matt
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231025T145130Z

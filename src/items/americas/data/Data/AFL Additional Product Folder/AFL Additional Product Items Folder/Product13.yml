@@ -1,0 +1,139 @@
+﻿---
+ID: "0b5c2a48-9c51-4090-a643-3743327cd1ec"
+Parent: "d65eda69-fb38-4bfa-ae6a-fc3ec882451c"
+Template: "f7685090-8a03-4ab5-bc6c-ffc618fc1bea"
+Path: "/sitecore/content/AFL-Global/AMERICAS/Data/AFL Additional Product Folder/AFL Additional Product Items Folder/Product13"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211101T122417Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "802648d9-4710-4765-abe6-a8fd20f12610"
+      Hint: AdditionalProductLink
+      Value: 
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d29554ff-3609-4944-9ba0-c0d823c8e180"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\archana
+    - ID: "c40d7fae-e5a0-4929-a20f-c96501950aeb"
+      Hint: AdditionalProductIcon
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20211217T111008Z
+    - ID: "f0a5854c-f5f0-4b47-979d-afa472edac82"
+      Hint: AdditionalProductImg
+      Value: |
+        <image mediaid="{4EE82395-8074-4C7F-80FC-A1BE11EE4390}" ></image>
+- Language: "es-MX"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211101T122417Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "cf13c746-caa9-4a6d-8757-5d00b42f8358"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahesh
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220215T125413Z
+    - ID: "f0a5854c-f5f0-4b47-979d-afa472edac82"
+      Hint: AdditionalProductImg
+      Value: |
+        <image mediaid="{4EE82395-8074-4C7F-80FC-A1BE11EE4390}" ></image>
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211101T122417Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a703f1d7-782d-473f-9d09-d2bcfc7a84bc"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahesh
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220215T094013Z
+    - ID: "f0a5854c-f5f0-4b47-979d-afa472edac82"
+      Hint: AdditionalProductImg
+      Value: |
+        <image mediaid="{4EE82395-8074-4C7F-80FC-A1BE11EE4390}" ></image>
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211101T122417Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f06d2704-ec4f-469d-892b-befcdb5cde4d"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahesh
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220310T075138Z
+    - ID: "f0a5854c-f5f0-4b47-979d-afa472edac82"
+      Hint: AdditionalProductImg
+      Value: |
+        <image mediaid="{4EE82395-8074-4C7F-80FC-A1BE11EE4390}" ></image>

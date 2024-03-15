@@ -1,0 +1,318 @@
+﻿---
+ID: "cd725763-f8a3-4234-8ed9-da315783ac7e"
+Parent: "42fdc709-ba96-4169-af29-f0445e1f59a1"
+Template: "bf61de11-b78f-48ea-aaa4-1d17f0d83824"
+Path: "/sitecore/content/AFL-Global/AMERICAS/Home/Company/Environment Health Safety/EHS Policy and Principles"
+SharedFields:
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{274C9F86-81B9-4FFC-87CA-8B19AB3A526D}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{DAE7C21D-4D3B-4257-A95C-9104CD8AF409}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 400
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25305982-b304-4816-8208-abcfc50a7067"
+      Hint: Description2
+      Value: |
+        <h1>EHS Policy and Principles</h1>
+        <h3>Policy</h3>
+        <p>It is AFL&rsquo;s policy to operate worldwide in a safe and responsible manner, which respects the environment and the health of our employees, contractors, and the communities where we operate. We will fulfill our compliance obligations in our operations and will not compromise environmental, health or safety values for profit or production.</p>
+        <p>We are committed to continual review and improvement of our environmental, health, and safety performance and will include environmental, health and safety objectives, targets, and metrics in our annual business or operating plans. We encourage environmental protection by the responsible use of natural resources, energy conservation, waste minimization, and pollution prevention.</p>
+        <p>AFL Management accepts full responsibility for ownership of this policy. Management, Supervisors, Employees and Contractors are expected to understand, promote and assist in the implementation of this Policy and its accompanying Principles.</p>
+        <h3>Principles</h3>
+        <p>AFL&rsquo;s EHS Policy includes the following key principles:</p>
+        <ul>
+            <li>We value human life above all else and manage risks accordingly.&nbsp;</li>
+            <li>We will relentlessly pursue and continually improve EHS systems and processes to achieve an EHS incident free workplace.&nbsp;</li>
+            <li>We will work to protect the health and safety of our workers, including their physical, social and psychological wellbeing.</li>
+            <li>We will not compromise our EHS values for profit or production.&nbsp;</li>
+            <li>We will comply with all relevant laws and other obligations to which we subscribe. We will set higher standards for ourselves and our suppliers, where unacceptable risks are identified.&nbsp;</li>
+            <li>We are committed to be transparent stewards of our global natural resources and drive towards a sustainable future by engaging in opportunities to enhance energy efficiency,&nbsp;reduce CO2&nbsp;emissions, advance water management,&nbsp;contribute to environmental conservation, promote green procurement, and effectively manage waste.
+            </li>
+            <li>We measure and assess our performance and are open and transparent in our communications.&nbsp;</li>
+            <li>We supply and use safe and reliable products and services.&nbsp;</li>
+            <li>We use our EHS knowledge to enhance the safety and environmental wellbeing of our communities.&nbsp;</li>
+            <li>We are all accountable for conforming with and deploying our EHS Policy and Principles.&nbsp;</li>
+            <li>We will communicate with individuals, communities and concerned parties regarding the EHS aspects and impacts of our operation and encourage suppliers and contractors to reduce environmental impacts where possible.</li>
+        </ul>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211222T134734Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: EHS Policy and Principles
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\harry
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: "Environmental, Health and Safety - AFL's EHS policies and principles."
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <h1>EHS Policy and Principles</h1>
+        <p>It is AFL’s policy to operate worldwide in a safe and responsible manner, which respects the environment and the health of our employees, contractors and the communities where we operate. We will fulfill our compliance obligations in our operations and will not compromise environmental, health or safety (EHS) values for profit or production.</p>
+        <p>We are committed to continual review and improvement of our EHS performance and will include EHS objectives, targets, and metrics in our annual business or operating plans. We encourage environmental protection by the responsible use of natural resources, energy conservation, waste minimization and pollution prevention.</p>
+        <p>AFL management accepts full responsibility for ownership of this policy. Management, Supervisors, Employees and Contractors are expected to understand, promote and assist in the implementation of this policy and its accompanying principles.</p>
+        <h3><span style="text-decoration: underline;">Principles:</span></h3>
+        <p>AFL’s EHS Policy includes the following key principles:</p>
+        <ul>
+            <li>We value human life above all else and manage risks accordingly. </li>
+            <li>We will relentlessly pursue and continually improve EHS systems and processes to achieve an EHS incident free workplace. </li>
+            <li>We will work to protect the health and safety of our workers, including their physical, social and psychological wellbeing.</li>
+            <li>We will not compromise our EHS values for profit or production. </li>
+            <li>We will comply with all relevant laws and other obligations to which we subscribe. We will set higher standards for ourselves and our suppliers, where unacceptable risks are identified. </li>
+            <li>We are committed to be transparent stewards of our global natural resources and drive towards a sustainable future by engaging in opportunities to enhance energy efficiency, reduce Greenhouse Gas emissions, advance water management, contribute to environmental conservation, promote green procurement and effectively manage waste.
+            </li>
+            <li>We measure and assess our performance and are open and transparent in our communications. </li>
+            <li>We supply and use safe and reliable products and services. </li>
+            <li>We use our EHS knowledge to enhance the safety and environmental wellbeing of our communities. </li>
+            <li>We are all accountable for conforming with and deploying our EHS policy and principles. </li>
+            <li>We will communicate with individuals, communities and concerned parties regarding the EHS aspects and impacts of our operation and encourage suppliers and contractors to reduce environmental impacts where possible.</li>
+        </ul>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\harry
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: Environmental Health Safety EHS policy principles policies
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: EHS Policy and Principles
+    - ID: "628db04b-29a2-483b-a88c-b8fd9a5f2086"
+      Hint: HeroLink
+      Value: |
+        <link id="{CD725763-F8A3-4234-8ED9-DA315783AC7E}" querystring="" target="|Custom" text="LEARN MORE" anchor="" title="" class="" url="/AFL-Global/AMERICAS/Home/Company/Environment Health Safety/EHS Policy and Principles" linktype="internal" />
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: EHS Policy and Principles
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9f729084-e828-4e2a-a2f3-16df107f6780"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T091547Z
+- Language: "es-MX"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211222T134734Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: EHS Policy and Principles
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: "Environmental, Health and Safety - AFL's EHS policies and principles."
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <h1>EHS Policy and Principles</h1>
+        <h3>Policy</h3>
+        <p>It is AFL’s policy to operate worldwide in a safe and responsible manner, which respects the environment and the health of our employees, contractors, and the communities where we operate. We will fulfill our compliance obligations in our operations and will not compromise environmental, health or safety values for profit or production.</p>
+        <p>We are committed to continual review and improvement of our environmental, health, and safety performance and will include environmental, health and safety objectives, targets, and metrics in our annual business or operating plans. We encourage environmental protection by the responsible use of natural resources, energy conservation, waste minimization, and pollution prevention.</p>
+        <p>AFL Management accepts full responsibility for ownership of this policy. Management, Supervisors, Employees and Contractors are expected to understand, promote and assist in the implementation of this Policy and its accompanying Principles.</p>
+        <h3>Principles</h3>
+        <p>AFL’s EHS Policy includes the following key principles:</p>
+        <ul>
+            <li>We value human life above all else and manage risks accordingly. </li>
+            <li>We will relentlessly pursue and continually improve EHS systems and processes to achieve an EHS incident free workplace. </li>
+            <li>We will work to protect the health and safety of our workers, including their physical, social and psychological wellbeing.</li>
+            <li>We will not compromise our EHS values for profit or production. </li>
+            <li>We will comply with all relevant laws and other obligations to which we subscribe. We will set higher standards for ourselves and our suppliers, where unacceptable risks are identified. </li>
+            <li>We will encourage environmental protection and sustainable development by incorporating social responsibility, economic success and EHS excellence into our decision-making process and business strategies. </li>
+            <li>We measure and assess our performance and are open and transparent in our communications. </li>
+            <li>We supply and use safe and reliable products and services. </li>
+            <li>We use our EHS knowledge to enhance the safety and environmental wellbeing of our communities. </li>
+            <li>We are all accountable for conforming with and deploying our EHS Policy and Principles. </li>
+            <li>We will communicate with individuals, communities and concerned parties regarding the EHS aspects and impacts of our operation and encourage suppliers and contractors to reduce environmental impacts where possible.</li>
+        </ul>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\harry
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: Environmental Health Safety EHS policy principles policies
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: Políticas y principios de seguridad, salud y medioambiente
+    - ID: "628db04b-29a2-483b-a88c-b8fd9a5f2086"
+      Hint: HeroLink
+      Value: |
+        <link id="{CD725763-F8A3-4234-8ED9-DA315783AC7E}" querystring="" target="|Custom" text="LEARN MORE" anchor="" title="" class="" url="/AFL-Global/AMERICAS/Home/Company/Environment Health Safety/EHS Policy and Principles" linktype="internal" />
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: Políticas y principios de seguridad, salud y medioambiente
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "29203ae7-ddfc-464e-be6b-c839435b6537"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T091547Z
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211222T134734Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: EHS Policy and Principles
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: "Environmental, Health and Safety - AFL's EHS policies and principles."
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <h1>EHS Policy and Principles</h1>
+        <h3>Policy</h3>
+        <p>It is AFL&rsquo;s policy to operate worldwide in a safe and responsible manner, which respects the environment and the health of our employees, contractors, and the communities where we operate. We will fulfill our compliance obligations in our operations and will not compromise environmental, health or safety values for profit or production.</p>
+        <p>We are committed to continual review and improvement of our environmental, health, and safety performance and will include environmental, health and safety objectives, targets, and metrics in our annual business or operating plans. We encourage environmental protection by the responsible use of natural resources, energy conservation, waste minimization, and pollution prevention.</p>
+        <p>AFL Management accepts full responsibility for ownership of this policy. Management, Supervisors, Employees and Contractors are expected to understand, promote and assist in the implementation of this Policy and its accompanying Principles.</p>
+        <h3>Principles</h3>
+        <p>AFL&rsquo;s EHS Policy includes the following key principles:</p>
+        <ul>
+            <li>We value human life above all else and manage risks accordingly.&nbsp;</li>
+            <li>We will relentlessly pursue and continually improve EHS systems and processes to achieve an EHS incident free workplace.&nbsp;</li>
+            <li>We will work to protect the health and safety of our workers, including their physical, social and psychological wellbeing.</li>
+            <li>We will not compromise our EHS values for profit or production.&nbsp;</li>
+            <li>We will comply with all relevant laws and other obligations to which we subscribe. We will set higher standards for ourselves and our suppliers, where unacceptable risks are identified.&nbsp;</li>
+            <li>We will encourage environmental protection and sustainable development by incorporating social responsibility, economic success and EHS excellence into our decision-making process and business strategies.&nbsp;</li>
+            <li>We measure and assess our performance and are open and transparent in our communications.&nbsp;</li>
+            <li>We supply and use safe and reliable products and services.&nbsp;</li>
+            <li>We use our EHS knowledge to enhance the safety and environmental wellbeing of our communities.&nbsp;</li>
+            <li>We are all accountable for conforming with and deploying our EHS Policy and Principles.&nbsp;</li>
+            <li>We will communicate with individuals, communities and concerned parties regarding the EHS aspects and impacts of our operation and encourage suppliers and contractors to reduce environmental impacts where possible.</li>
+        </ul>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\harry
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: Environmental Health Safety EHS policy principles policies
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: EHS Policy and Principles
+    - ID: "628db04b-29a2-483b-a88c-b8fd9a5f2086"
+      Hint: HeroLink
+      Value: |
+        <link id="{CD725763-F8A3-4234-8ED9-DA315783AC7E}" querystring="" target="|Custom" text="LEARN MORE" anchor="" title="" class="" url="/AFL-Global/AMERICAS/Home/Company/Environment Health Safety/EHS Policy and Principles" linktype="internal" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "db4210ce-1f0f-4e52-9627-27e2cfdca423"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahesh
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220224T113603Z
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211222T134734Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: EHS Policy and Principles
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: "Environmental, Health and Safety - AFL's EHS policies and principles."
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <h1>EHS Policy and Principles</h1>
+        <h3>Policy</h3>
+        <p>It is AFL’s policy to operate worldwide in a safe and responsible manner, which respects the environment and the health of our employees, contractors, and the communities where we operate. We will fulfill our compliance obligations in our operations and will not compromise environmental, health or safety values for profit or production.</p>
+        <p>We are committed to continual review and improvement of our environmental, health, and safety performance and will include environmental, health and safety objectives, targets, and metrics in our annual business or operating plans. We encourage environmental protection by the responsible use of natural resources, energy conservation, waste minimization, and pollution prevention.</p>
+        <p>AFL Management accepts full responsibility for ownership of this policy. Management, Supervisors, Employees and Contractors are expected to understand, promote and assist in the implementation of this Policy and its accompanying Principles.</p>
+        <h3>Principles</h3>
+        <p>AFL’s EHS Policy includes the following key principles:</p>
+        <ul>
+            <li>We value human life above all else and manage risks accordingly. </li>
+            <li>We will relentlessly pursue and continually improve EHS systems and processes to achieve an EHS incident free workplace. </li>
+            <li>We will work to protect the health and safety of our workers, including their physical, social and psychological wellbeing.</li>
+            <li>We will not compromise our EHS values for profit or production. </li>
+            <li>We will comply with all relevant laws and other obligations to which we subscribe. We will set higher standards for ourselves and our suppliers, where unacceptable risks are identified. </li>
+            <li>We will encourage environmental protection and sustainable development by incorporating social responsibility, economic success and EHS excellence into our decision-making process and business strategies. </li>
+            <li>We measure and assess our performance and are open and transparent in our communications. </li>
+            <li>We supply and use safe and reliable products and services. </li>
+            <li>We use our EHS knowledge to enhance the safety and environmental wellbeing of our communities. </li>
+            <li>We are all accountable for conforming with and deploying our EHS Policy and Principles. </li>
+            <li>We will communicate with individuals, communities and concerned parties regarding the EHS aspects and impacts of our operation and encourage suppliers and contractors to reduce environmental impacts where possible.</li>
+        </ul>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\harry
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: Environmental Health Safety EHS policy principles policies
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: Politique et principes ESS
+    - ID: "628db04b-29a2-483b-a88c-b8fd9a5f2086"
+      Hint: HeroLink
+      Value: |
+        <link id="{CD725763-F8A3-4234-8ED9-DA315783AC7E}" querystring="" target="|Custom" text="LEARN MORE" anchor="" title="" class="" url="/AFL-Global/AMERICAS/Home/Company/Environment Health Safety/EHS Policy and Principles" linktype="internal" />
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: Politique et principes ESS
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8b4f11c1-7070-4207-a452-66e5128b0a05"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T091547Z

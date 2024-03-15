@@ -1,0 +1,978 @@
+﻿---
+ID: "db4bc552-af13-46ed-b86e-e254421dffdc"
+Parent: "ce970b5a-c494-4205-a2d2-cb8fba2418d1"
+Template: "2ad23d55-aecd-43dd-ae0d-72d2ebcba60f"
+Path: "/sitecore/content/AFL-Global/AMERICAS/Home/Resources/Product Related Materials/Catalogs/Substation/Data/HTML Code 1"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "24cce27c-05db-4473-a1ed-e69b1725ff1c"
+      Hint: HtmlCode
+      Value: |
+        <div class="container shadow">
+            <br />
+            <h1><strong>Substation</strong></h1>
+        
+            <div class="row padded-row">
+                <!--Start First row-->
+                <div class="col-md-4">
+                    <!--Starting card 1 -->
+                    <div class="row no-gutters">
+                        <div class="col">
+                            <div class="card-block px-2">
+                                <h6 class="card-title"><strong>Substation Catalog (186 MB)</strong></h6>
+        
+                                <a href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-Substation-Catalog"
+                                    class="btn btn-primary">DOWNLOAD</a>
+                            </div>
+                        </div>
+                    </div>
+        
+                </div>
+        
+                <div class="col-md-4">
+                    <!-- Start card 2  -->
+                    <div class="row no-gutters">
+                        <div class="col">
+                            <div class="card-block px-2">
+                                <h6 class="card-title"><strong>230kV Aluminum Bolted</strong></h6>
+        
+                                <a href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-Substation-230kV-Aluminum-Bolted.pdf?v=08230f57"
+                                    class="btn btn-primary">DOWNLOAD</a>
+                            </div>
+                        </div>
+                    </div>
+        
+                </div><!-- End card 2  -->
+        
+        
+                <div class="col-md-4">
+                    <!-- Start card 3-->
+                    <div class="row no-gutters">
+                        <div class="col">
+                            <div class="card-block px-2">
+                                <h6 class="card-title"><strong>230kV Aluminum Compresion</strong></h6>
+        
+                                <a href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-Substation-230kV-Aluminum-Compression.pdf?v=f360980f"
+                                    class="btn btn-primary">DOWNLOAD</a>
+                            </div>
+                        </div>
+                    </div>
+        
+                </div>
+            </div>
+            <!--End row 1-->
+        
+            <div class="row padded-row">
+                <!--Start row 2-->
+                <div class="col-md-4">
+                    <!--start card 1-->
+                    <div class="row no-gutters">
+                        <div class="col">
+                            <div class="card-block px-2">
+                                <h6 class="card-title"><strong>230kV Aluminum Welded</strong></h6>
+        
+                                <a href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-Substation-230kV-Aluminum-Welded.pdf?v=3f3642aa"
+                                    class="btn btn-primary">DOWNLOAD</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!--End card 1-->
+                <div class="col-md-4">
+                    <!--start card 1-->
+                    <div class="row no-gutters">
+                        <div class="col">
+                            <div class="card-block px-2">
+                                <h6 class="card-title"><strong>345kV - 500kV</strong></h6>
+        
+                                <a href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-Substation-345kV-500kV.pdf?v=4f522d37"
+                                    class="btn btn-primary">DOWNLOAD</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!--End card 1-->
+                <div class="col-md-4">
+                    <!--start card 1-->
+                    <div class="row no-gutters">
+                        <div class="col">
+                            <div class="card-block px-2">
+                                <h6 class="card-title"><strong>765kV</strong></h6>
+        
+                                <a href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-Substation-765kV.pdf?v=7877f4fe"
+                                    class="btn btn-primary">DOWNLOAD</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!--End card 1-->
+        
+            </div>
+        
+        
+            <div class="row padded-row">
+                <!--Start 3 row-->
+                <div class="col-md-4">
+                    <!--Starting card 1 -->
+                    <div class="row no-gutters">
+                        <div class="col">
+                            <div class="card-block px-2">
+                                <h6 class="card-title"><strong>Bronze Compression</strong></h6>
+        
+                                <a href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-Substation-Bronze-Compression.pdf?v=d8837bce"
+                                    class="btn btn-primary">DOWNLOAD</a>
+                            </div>
+                        </div>
+                    </div>
+        
+                </div>
+        
+                <div class="col-md-4">
+                    <!-- Start card 2  -->
+                    <div class="row no-gutters">
+                        <div class="col">
+                            <div class="card-block px-2">
+                                <h6 class="card-title"><strong>Bronze Connectors</strong></h6>
+        
+                                <a href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-Substation-Bronze-Connectors.pdf?v=84e111e1"
+                                    class="btn btn-primary">DOWNLOAD</a>
+                            </div>
+                        </div>
+                    </div>
+        
+                </div><!-- End card 2  -->
+        
+        
+                <div class="col-md-4">
+                    <!-- Start card 3-->
+                    <div class="row no-gutters">
+                        <div class="col">
+                            <div class="card-block px-2">
+                                <h6 class="card-title"><strong>Bus Conductors</strong></h6>
+        
+                                <a href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-Substation-Bus-Conductors.pdf?v=503a9f90"
+                                    class="btn btn-primary">DOWNLOAD</a>
+                            </div>
+                        </div>
+                    </div>
+        
+                </div>
+            </div>
+            <!--End row 3-->
+        
+            <div class="row padded-row">
+                <!--Start 4 row-->
+                <div class="col-md-4">
+                    <!--Starting card 1 -->
+                    <div class="row no-gutters">
+                        <div class="col">
+                            <div class="card-block px-2">
+                                <h6 class="card-title"><strong>Bus Dampers</strong></h6>
+        
+                                <a href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-Substation-Bus-Dampers.pdf?v=c684803e"
+                                    class="btn btn-primary">DOWNLOAD</a>
+                            </div>
+                        </div>
+                    </div>
+        
+                </div>
+        
+                <div class="col-md-4">
+                    <!-- Start card 2  -->
+                    <div class="row no-gutters">
+                        <div class="col">
+                            <div class="card-block px-2">
+                                <h6 class="card-title"><strong>Swage Accessories</strong></h6>
+        
+                                <a href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-Swage-Accessories-catalog.pdf"
+                                    class="btn btn-primary">DOWNLOAD</a>
+                            </div>
+                        </div>
+                    </div>
+        
+                </div><!-- End card 2  -->
+        
+        
+                <div class="col-md-4">
+                    <!-- Start card 3-->
+                    <div class="row no-gutters">
+                        <div class="col">
+                            <div class="card-block px-2">
+                                <h6 class="card-title"><strong>Compounds</strong></h6>
+        
+                                <a href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-Substation-Compounds.pdf?v=28461ed2"
+                                    class="btn btn-primary">DOWNLOAD</a>
+                            </div>
+                        </div>
+                    </div>
+        
+                </div>
+            </div>
+            <!--End row 4-->
+        
+        
+        
+            <div class="row padded-row">
+                <!--Start 5  row-->
+                <div class="col-md-4">
+                    <!--Starting card 1 -->
+                    <div class="row no-gutters">
+                        <div class="col">
+                            <div class="card-block px-2">
+                                <h6 class="card-title"><strong>General Information</strong></h6>
+        
+                                <a href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-Substation-General-Info.pdf?v=0d38ae59"
+                                    class="btn btn-primary">DOWNLOAD</a>
+                            </div>
+                        </div>
+                    </div>
+        
+                </div>
+        
+                <div class="col-md-4">
+                    <!-- Start card 2  -->
+                    <div class="row no-gutters">
+                        <div class="col">
+                            <div class="card-block px-2">
+                                <h6 class="card-title"><strong>Installation Instructions</strong></h6>
+        
+                                <a href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL_Substation_Installation-Instructions.pdf?v=b8861da6"
+                                    class="btn btn-primary">DOWNLOAD</a>
+                            </div>
+                        </div>
+                    </div>
+        
+                </div><!-- End card 2  -->
+            </div>
+            <!--End row 5-->
+        
+        
+        
+        </div>
+        <br />
+        <style>
+            .padded-row {
+                padding-bottom: 20px;
+            }
+        
+            img {
+                margin-right: 20px;
+                border: rgb(217, 217, 217) 1px solid;
+            }
+        
+            .container {
+                line-height: 20px;
+            }
+        
+            .col-md-4 {
+                margin-bottom: 10px;
+            }
+        
+            /* .btn a,
+            .btn-primary {
+                display: inline-block;
+                padding: 10px 40px 10px 25px;
+                border-radius: 12px;
+                line-height: 1;
+                background: #00c0f3;
+                border: 3px solid #fff;
+                color: #fff;
+                text-align: center;
+                text-transform: uppercase;
+                font-weight: 600;
+                letter-spacing: 1.2px;
+                text-decoration: none;
+                position: relative;
+                cursor: pointer;
+                padding-top: 12px !important;
+                padding-bottom: 8px !important;
+                vertical-align: middle;
+                align-items: center;
+            } */
+        
+            strong {
+                margin-left: 3px;
+                font-weight: bold;
+            }
+        
+            .shadow {
+                box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+            }
+        
+            h1 {
+                font-size: 2em;
+                margin: 0.67em 0;
+            }
+        </style>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220401T170646Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\matt
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\matt
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "38c0cc04-a595-47a0-b921-ec867f519b3c"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\matt
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230331T201946Z
+- Language: "es-MX"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "24cce27c-05db-4473-a1ed-e69b1725ff1c"
+      Hint: HtmlCode
+      Value: |
+        <div class="container shadow">
+            <br />
+            <h1><strong>Substation</strong></h1>
+        
+            <div class="row padded-row">
+                <!--Start First row-->
+                <div class="col-md-4">
+                    <!--Starting card 1 -->
+                    <div class="row no-gutters">
+                        <div class="col">
+                            <div class="card-block px-2">
+                                <h6 class="card-title"><strong>Substation Catalog (186 MB)</strong></h6>
+        
+                                <a href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-Substation-Catalog"
+                                    class="btn btn-primary">DOWNLOAD</a>
+                            </div>
+                        </div>
+                    </div>
+        
+                </div>
+        
+                <div class="col-md-4">
+                    <!-- Start card 2  -->
+                    <div class="row no-gutters">
+                        <div class="col">
+                            <div class="card-block px-2">
+                                <h6 class="card-title"><strong>230kV Aluminum Bolted</strong></h6>
+        
+                                <a href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-Substation-230kV-Aluminum-Bolted.pdf?v=08230f57"
+                                    class="btn btn-primary">DOWNLOAD</a>
+                            </div>
+                        </div>
+                    </div>
+        
+                </div><!-- End card 2  -->
+        
+        
+                <div class="col-md-4">
+                    <!-- Start card 3-->
+                    <div class="row no-gutters">
+                        <div class="col">
+                            <div class="card-block px-2">
+                                <h6 class="card-title"><strong>230kV Aluminum Compresion</strong></h6>
+        
+                                <a href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-Substation-230kV-Aluminum-Compression.pdf?v=f360980f"
+                                    class="btn btn-primary">DOWNLOAD</a>
+                            </div>
+                        </div>
+                    </div>
+        
+                </div>
+            </div>
+            <!--End row 1-->
+        
+            <div class="row padded-row">
+                <!--Start row 2-->
+                <div class="col-md-4">
+                    <!--start card 1-->
+                    <div class="row no-gutters">
+                        <div class="col">
+                            <div class="card-block px-2">
+                                <h6 class="card-title"><strong>230kV Aluminum Welded</strong></h6>
+        
+                                <a href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-Substation-230kV-Aluminum-Welded.pdf?v=3f3642aa"
+                                    class="btn btn-primary">DOWNLOAD</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!--End card 1-->
+                <div class="col-md-4">
+                    <!--start card 1-->
+                    <div class="row no-gutters">
+                        <div class="col">
+                            <div class="card-block px-2">
+                                <h6 class="card-title"><strong>345kV - 500kV</strong></h6>
+        
+                                <a href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-Substation-345kV-500kV.pdf?v=4f522d37"
+                                    class="btn btn-primary">DOWNLOAD</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!--End card 1-->
+                <div class="col-md-4">
+                    <!--start card 1-->
+                    <div class="row no-gutters">
+                        <div class="col">
+                            <div class="card-block px-2">
+                                <h6 class="card-title"><strong>765kV</strong></h6>
+        
+                                <a href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-Substation-765kV.pdf?v=7877f4fe"
+                                    class="btn btn-primary">DOWNLOAD</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!--End card 1-->
+        
+            </div>
+        
+        
+            <div class="row padded-row">
+                <!--Start 3 row-->
+                <div class="col-md-4">
+                    <!--Starting card 1 -->
+                    <div class="row no-gutters">
+                        <div class="col">
+                            <div class="card-block px-2">
+                                <h6 class="card-title"><strong>Bronze Compression</strong></h6>
+        
+                                <a href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-Substation-Bronze-Compression.pdf?v=d8837bce"
+                                    class="btn btn-primary">DOWNLOAD</a>
+                            </div>
+                        </div>
+                    </div>
+        
+                </div>
+        
+                <div class="col-md-4">
+                    <!-- Start card 2  -->
+                    <div class="row no-gutters">
+                        <div class="col">
+                            <div class="card-block px-2">
+                                <h6 class="card-title"><strong>Bronze Connectors</strong></h6>
+        
+                                <a href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-Substation-Bronze-Connectors.pdf?v=84e111e1"
+                                    class="btn btn-primary">DOWNLOAD</a>
+                            </div>
+                        </div>
+                    </div>
+        
+                </div><!-- End card 2  -->
+        
+        
+                <div class="col-md-4">
+                    <!-- Start card 3-->
+                    <div class="row no-gutters">
+                        <div class="col">
+                            <div class="card-block px-2">
+                                <h6 class="card-title"><strong>Bus Conductors</strong></h6>
+        
+                                <a href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-Substation-Bus-Conductors.pdf?v=503a9f90"
+                                    class="btn btn-primary">DOWNLOAD</a>
+                            </div>
+                        </div>
+                    </div>
+        
+                </div>
+            </div>
+            <!--End row 3-->
+        
+            <div class="row padded-row">
+                <!--Start 4 row-->
+                <div class="col-md-4">
+                    <!--Starting card 1 -->
+                    <div class="row no-gutters">
+                        <div class="col">
+                            <div class="card-block px-2">
+                                <h6 class="card-title"><strong>Bus Dampers</strong></h6>
+        
+                                <a href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-Substation-Bus-Dampers.pdf?v=c684803e"
+                                    class="btn btn-primary">DOWNLOAD</a>
+                            </div>
+                        </div>
+                    </div>
+        
+                </div>
+        
+                <div class="col-md-4">
+                    <!-- Start card 2  -->
+                    <div class="row no-gutters">
+                        <div class="col">
+                            <div class="card-block px-2">
+                                <h6 class="card-title"><strong>Swage Accessories</strong></h6>
+        
+                                <a href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-Swage-Accessories-catalog.pdf"
+                                    class="btn btn-primary">DOWNLOAD</a>
+                            </div>
+                        </div>
+                    </div>
+        
+                </div><!-- End card 2  -->
+        
+        
+                <div class="col-md-4">
+                    <!-- Start card 3-->
+                    <div class="row no-gutters">
+                        <div class="col">
+                            <div class="card-block px-2">
+                                <h6 class="card-title"><strong>Compounds</strong></h6>
+        
+                                <a href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-Substation-Compounds.pdf?v=28461ed2"
+                                    class="btn btn-primary">DOWNLOAD</a>
+                            </div>
+                        </div>
+                    </div>
+        
+                </div>
+            </div>
+            <!--End row 4-->
+        
+        
+        
+            <div class="row padded-row">
+                <!--Start 5  row-->
+                <div class="col-md-4">
+                    <!--Starting card 1 -->
+                    <div class="row no-gutters">
+                        <div class="col">
+                            <div class="card-block px-2">
+                                <h6 class="card-title"><strong>General Information</strong></h6>
+        
+                                <a href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-Substation-General-Info.pdf?v=0d38ae59"
+                                    class="btn btn-primary">DOWNLOAD</a>
+                            </div>
+                        </div>
+                    </div>
+        
+                </div>
+        
+                <div class="col-md-4">
+                    <!-- Start card 2  -->
+                    <div class="row no-gutters">
+                        <div class="col">
+                            <div class="card-block px-2">
+                                <h6 class="card-title"><strong>Installation Instructions</strong></h6>
+        
+                                <a href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL_Substation_Installation-Instructions.pdf?v=b8861da6"
+                                    class="btn btn-primary">DOWNLOAD</a>
+                            </div>
+                        </div>
+                    </div>
+        
+                </div><!-- End card 2  -->
+            </div>
+            <!--End row 5-->
+        
+        
+        
+        </div>
+        <br />
+        <style>
+            .padded-row {
+                padding-bottom: 20px;
+            }
+        
+            img {
+                margin-right: 20px;
+                border: rgb(217, 217, 217) 1px solid;
+            }
+        
+            .container {
+                line-height: 20px;
+            }
+        
+            .col-md-4 {
+                margin-bottom: 10px;
+            }
+        
+            /* .btn a,
+            .btn-primary {
+                display: inline-block;
+                padding: 10px 40px 10px 25px;
+                border-radius: 12px;
+                line-height: 1;
+                background: #00c0f3;
+                border: 3px solid #fff;
+                color: #fff;
+                text-align: center;
+                text-transform: uppercase;
+                font-weight: 600;
+                letter-spacing: 1.2px;
+                text-decoration: none;
+                position: relative;
+                cursor: pointer;
+                padding-top: 12px !important;
+                padding-bottom: 8px !important;
+                vertical-align: middle;
+                align-items: center;
+            } */
+        
+            strong {
+                margin-left: 3px;
+                font-weight: bold;
+            }
+        
+            .shadow {
+                box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+            }
+        
+            h1 {
+                font-size: 2em;
+                margin: 0.67em 0;
+            }
+        </style>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220401T170646Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\matt
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "cc54652d-7831-4704-8882-4fbed356bcdc"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\matt
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230331T201958Z
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "24cce27c-05db-4473-a1ed-e69b1725ff1c"
+      Hint: HtmlCode
+      Value: |
+        <div class="container shadow">
+            <br />
+            <h1><strong>Substation</strong></h1>
+        
+            <div class="row padded-row">
+                <!--Start First row-->
+                <div class="col-md-4">
+                    <!--Starting card 1 -->
+                    <div class="row no-gutters">
+                        <div class="col">
+                            <div class="card-block px-2">
+                                <h6 class="card-title"><strong>Substation Catalog (186 MB)</strong></h6>
+        
+                                <a href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-Substation-Catalog"
+                                    class="btn btn-primary">DOWNLOAD</a>
+                            </div>
+                        </div>
+                    </div>
+        
+                </div>
+        
+                <div class="col-md-4">
+                    <!-- Start card 2  -->
+                    <div class="row no-gutters">
+                        <div class="col">
+                            <div class="card-block px-2">
+                                <h6 class="card-title"><strong>230kV Aluminum Bolted</strong></h6>
+        
+                                <a href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-Substation-230kV-Aluminum-Bolted.pdf?v=08230f57"
+                                    class="btn btn-primary">DOWNLOAD</a>
+                            </div>
+                        </div>
+                    </div>
+        
+                </div><!-- End card 2  -->
+        
+        
+                <div class="col-md-4">
+                    <!-- Start card 3-->
+                    <div class="row no-gutters">
+                        <div class="col">
+                            <div class="card-block px-2">
+                                <h6 class="card-title"><strong>230kV Aluminum Compresion</strong></h6>
+        
+                                <a href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-Substation-230kV-Aluminum-Compression.pdf?v=f360980f"
+                                    class="btn btn-primary">DOWNLOAD</a>
+                            </div>
+                        </div>
+                    </div>
+        
+                </div>
+            </div>
+            <!--End row 1-->
+        
+            <div class="row padded-row">
+                <!--Start row 2-->
+                <div class="col-md-4">
+                    <!--start card 1-->
+                    <div class="row no-gutters">
+                        <div class="col">
+                            <div class="card-block px-2">
+                                <h6 class="card-title"><strong>230kV Aluminum Welded</strong></h6>
+        
+                                <a href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-Substation-230kV-Aluminum-Welded.pdf?v=3f3642aa"
+                                    class="btn btn-primary">DOWNLOAD</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!--End card 1-->
+                <div class="col-md-4">
+                    <!--start card 1-->
+                    <div class="row no-gutters">
+                        <div class="col">
+                            <div class="card-block px-2">
+                                <h6 class="card-title"><strong>345kV - 500kV</strong></h6>
+        
+                                <a href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-Substation-345kV-500kV.pdf?v=4f522d37"
+                                    class="btn btn-primary">DOWNLOAD</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!--End card 1-->
+                <div class="col-md-4">
+                    <!--start card 1-->
+                    <div class="row no-gutters">
+                        <div class="col">
+                            <div class="card-block px-2">
+                                <h6 class="card-title"><strong>765kV</strong></h6>
+        
+                                <a href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-Substation-765kV.pdf?v=7877f4fe"
+                                    class="btn btn-primary">DOWNLOAD</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!--End card 1-->
+        
+            </div>
+        
+        
+            <div class="row padded-row">
+                <!--Start 3 row-->
+                <div class="col-md-4">
+                    <!--Starting card 1 -->
+                    <div class="row no-gutters">
+                        <div class="col">
+                            <div class="card-block px-2">
+                                <h6 class="card-title"><strong>Bronze Compression</strong></h6>
+        
+                                <a href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-Substation-Bronze-Compression.pdf?v=d8837bce"
+                                    class="btn btn-primary">DOWNLOAD</a>
+                            </div>
+                        </div>
+                    </div>
+        
+                </div>
+        
+                <div class="col-md-4">
+                    <!-- Start card 2  -->
+                    <div class="row no-gutters">
+                        <div class="col">
+                            <div class="card-block px-2">
+                                <h6 class="card-title"><strong>Bronze Connectors</strong></h6>
+        
+                                <a href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-Substation-Bronze-Connectors.pdf?v=84e111e1"
+                                    class="btn btn-primary">DOWNLOAD</a>
+                            </div>
+                        </div>
+                    </div>
+        
+                </div><!-- End card 2  -->
+        
+        
+                <div class="col-md-4">
+                    <!-- Start card 3-->
+                    <div class="row no-gutters">
+                        <div class="col">
+                            <div class="card-block px-2">
+                                <h6 class="card-title"><strong>Bus Conductors</strong></h6>
+        
+                                <a href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-Substation-Bus-Conductors.pdf?v=503a9f90"
+                                    class="btn btn-primary">DOWNLOAD</a>
+                            </div>
+                        </div>
+                    </div>
+        
+                </div>
+            </div>
+            <!--End row 3-->
+        
+            <div class="row padded-row">
+                <!--Start 4 row-->
+                <div class="col-md-4">
+                    <!--Starting card 1 -->
+                    <div class="row no-gutters">
+                        <div class="col">
+                            <div class="card-block px-2">
+                                <h6 class="card-title"><strong>Bus Dampers</strong></h6>
+        
+                                <a href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-Substation-Bus-Dampers.pdf?v=c684803e"
+                                    class="btn btn-primary">DOWNLOAD</a>
+                            </div>
+                        </div>
+                    </div>
+        
+                </div>
+        
+                <div class="col-md-4">
+                    <!-- Start card 2  -->
+                    <div class="row no-gutters">
+                        <div class="col">
+                            <div class="card-block px-2">
+                                <h6 class="card-title"><strong>Swage Accessories</strong></h6>
+        
+                                <a href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-Swage-Accessories-catalog.pdf"
+                                    class="btn btn-primary">DOWNLOAD</a>
+                            </div>
+                        </div>
+                    </div>
+        
+                </div><!-- End card 2  -->
+        
+        
+                <div class="col-md-4">
+                    <!-- Start card 3-->
+                    <div class="row no-gutters">
+                        <div class="col">
+                            <div class="card-block px-2">
+                                <h6 class="card-title"><strong>Compounds</strong></h6>
+        
+                                <a href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-Substation-Compounds.pdf?v=28461ed2"
+                                    class="btn btn-primary">DOWNLOAD</a>
+                            </div>
+                        </div>
+                    </div>
+        
+                </div>
+            </div>
+            <!--End row 4-->
+        
+        
+        
+            <div class="row padded-row">
+                <!--Start 5  row-->
+                <div class="col-md-4">
+                    <!--Starting card 1 -->
+                    <div class="row no-gutters">
+                        <div class="col">
+                            <div class="card-block px-2">
+                                <h6 class="card-title"><strong>General Information</strong></h6>
+        
+                                <a href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-Substation-General-Info.pdf?v=0d38ae59"
+                                    class="btn btn-primary">DOWNLOAD</a>
+                            </div>
+                        </div>
+                    </div>
+        
+                </div>
+        
+                <div class="col-md-4">
+                    <!-- Start card 2  -->
+                    <div class="row no-gutters">
+                        <div class="col">
+                            <div class="card-block px-2">
+                                <h6 class="card-title"><strong>Installation Instructions</strong></h6>
+        
+                                <a href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL_Substation_Installation-Instructions.pdf?v=b8861da6"
+                                    class="btn btn-primary">DOWNLOAD</a>
+                            </div>
+                        </div>
+                    </div>
+        
+                </div><!-- End card 2  -->
+            </div>
+            <!--End row 5-->
+        
+        
+        
+        </div>
+        <br />
+        <style>
+            .padded-row {
+                padding-bottom: 20px;
+            }
+        
+            img {
+                margin-right: 20px;
+                border: rgb(217, 217, 217) 1px solid;
+            }
+        
+            .container {
+                line-height: 20px;
+            }
+        
+            .col-md-4 {
+                margin-bottom: 10px;
+            }
+        
+            /* .btn a,
+            .btn-primary {
+                display: inline-block;
+                padding: 10px 40px 10px 25px;
+                border-radius: 12px;
+                line-height: 1;
+                background: #00c0f3;
+                border: 3px solid #fff;
+                color: #fff;
+                text-align: center;
+                text-transform: uppercase;
+                font-weight: 600;
+                letter-spacing: 1.2px;
+                text-decoration: none;
+                position: relative;
+                cursor: pointer;
+                padding-top: 12px !important;
+                padding-bottom: 8px !important;
+                vertical-align: middle;
+                align-items: center;
+            } */
+        
+            strong {
+                margin-left: 3px;
+                font-weight: bold;
+            }
+        
+            .shadow {
+                box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+            }
+        
+            h1 {
+                font-size: 2em;
+                margin: 0.67em 0;
+            }
+        </style>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220401T170646Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\matt
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "64248c11-8fb4-4bc8-b289-caf74167a0b3"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\matt
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230331T201954Z

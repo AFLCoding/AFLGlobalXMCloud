@@ -1,0 +1,146 @@
+﻿---
+ID: "cc2ae56e-e151-4dec-8a88-6006c6cd6455"
+Parent: "50d90e68-7cbb-4cf8-bd36-de885dffe432"
+Template: "8fcd3cfe-8b3b-423e-8176-6a7c72cb43fc"
+Path: "/sitecore/content/AFL-Global/AMERICAS/Presentation/Rendering Variants/AFL-Resource/Resource/Wrapper/CTAWrapper/Scriban"
+SharedFields:
+- ID: "936e68b4-5346-4adb-9b77-79771d0b40dc"
+  Hint: Template
+  Value: |
+    {{
+    
+        resourcecount=0
+    
+    }}
+    {{ for i_child in (sc_followmany i_item "AFLDocumentList") }}
+    
+    {{- resourcecount=resourcecount+1 -}}
+    {{end}}
+    {{ for i_child in (sc_followmany i_item "AFLVideoList") }}
+    
+    {{- resourcecount=resourcecount+1 -}}
+    {{end}}
+    {{ for i_child in (sc_followmany i_item "AFLBlogList") }}
+    
+    {{- resourcecount=resourcecount+1 -}}
+    {{end}}
+    {{ for i_child in (sc_followmany i_item "AFLDocumentandSoftwareList") }}
+    
+    {{- resourcecount=resourcecount+1 -}}
+    {{end}}
+    {{ for i_child in (sc_followmany i_item "AFLWhitePaperList") }}
+    
+    {{- resourcecount=resourcecount+1 -}}
+    {{end}}
+    {{- if  resourcecount > 6 -}}
+    <div class="field-ctalink afl-loadmore" ><a tabindex="0" data-variantitemid="{3931802D-2739-4BAF-A1C1-1F53CBCF53A2}" data-variantfieldname="CTALink">LOAD MORE</a></div>
+    <div class="field-ctalink afl-loadless d-none" tabindex="0"><a tabindex="0" data-variantitemid="{3931802D-2739-4BAF-A1C1-1F53CBCF53A2}" data-variantfieldname="CTALink">LOAD LESS</a></div>
+    
+    {{- else -}}
+    
+    {{- end -}}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220105T084826Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\archana
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\archana
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "33130e8b-895f-4ede-b743-27074a4f4974"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\jeetendra
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220217T054102Z
+- Language: "es-MX"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220105T084826Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\archana
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0f7bcd71-0351-4465-8104-1270a077b8de"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahesh
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220215T133132Z
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220105T084826Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\archana
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "71094db6-cd3a-4316-98a3-59c3a8aaf82f"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahesh
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220215T101255Z
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220105T084826Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\archana
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3d205c87-9bae-47dd-a2d6-a95bece2ecc7"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahesh
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220310T080407Z

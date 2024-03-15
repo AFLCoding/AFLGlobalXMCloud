@@ -1,0 +1,170 @@
+﻿---
+ID: "ceaa9be4-3009-48f7-94aa-399c56cc95dc"
+Parent: "2d79e93b-c3e1-42c3-9177-3aa4778a46a7"
+Template: "38f171ae-e199-410f-9a56-8e0e4433111e"
+Path: "/sitecore/content/AFL-Global/AMERICAS/Data/AFL Resouces Data/PageDataList/Quick-Reference-Guides/QRG-Fiber-Optic-Cable"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211228T074220Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kushagra
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kushagra
+    - ID: "5e736aec-5b46-4895-be0f-5157cb6ed299"
+      Hint: PageItemButton2Url
+      Value: |
+        <link text="EMAIL" linktype="external" url="https://www.aflglobal.com/Contact/Quote-List.aspx?mode=attachment&amp;nodeid=11914&amp;attname=Fiber+Optic+Cable&amp;attguid=1fb6aac4-dc66-40c1-963e-da8a08b29025" anchor="" target="" />
+    - ID: "6aea9a7e-5135-437d-afc8-be6cd0ab3a34"
+      Hint: PageItemButton1Url
+      Value: |
+        <link text="DOWNLOAD" linktype="external" url="https://www.aflglobal.com/cmspages/getfile.aspx?guid=1fb6aac4-dc66-40c1-963e-da8a08b29025" anchor="" target="" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a1cdf2ef-f239-4560-bc7e-333518f1e7c8"
+    - ID: "97cbee95-7bbc-42da-b0f5-3e15b4d914f0"
+      Hint: PageItemImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="74771" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/74771/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/qrgfiberopticcable?v=18c8d1a9" stylelabs-content-type="Image" alt="QRG-Fiber-Optic-Cable.jpg" height="100" width="77" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kushagra
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220222T041213Z
+    - ID: "e3af6d69-bc0f-4746-94f6-a8d42f3f4a48"
+      Hint: PageItemTitle
+      Value: Fiber Optic Cable
+- Language: "es-MX"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211228T074220Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kushagra
+    - ID: "5e736aec-5b46-4895-be0f-5157cb6ed299"
+      Hint: PageItemButton2Url
+      Value: |
+        <link text="EMAIL" linktype="external" url="https://www.aflglobal.com/Contact/Quote-List.aspx?mode=attachment&amp;nodeid=11914&amp;attname=Fiber+Optic+Cable&amp;attguid=1fb6aac4-dc66-40c1-963e-da8a08b29025" anchor="" target="" />
+    - ID: "6aea9a7e-5135-437d-afc8-be6cd0ab3a34"
+      Hint: PageItemButton1Url
+      Value: |
+        <link text="DOWNLOAD" linktype="external" url="https://www.aflglobal.com/cmspages/getfile.aspx?guid=1fb6aac4-dc66-40c1-963e-da8a08b29025" anchor="" target="" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5ac26fca-fe84-452f-b8e3-d6c78ed524db"
+    - ID: "97cbee95-7bbc-42da-b0f5-3e15b4d914f0"
+      Hint: PageItemImage
+      Value: |
+        <image mediaid="{17140D8D-1E42-41B2-A003-BD6C1E05D11A}" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahesh
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220215T130414Z
+    - ID: "e3af6d69-bc0f-4746-94f6-a8d42f3f4a48"
+      Hint: PageItemTitle
+      Value: Fiber Optic Cable
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211228T074220Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kushagra
+    - ID: "5e736aec-5b46-4895-be0f-5157cb6ed299"
+      Hint: PageItemButton2Url
+      Value: |
+        <link text="EMAIL" linktype="external" url="https://www.aflglobal.com/Contact/Quote-List.aspx?mode=attachment&amp;nodeid=11914&amp;attname=Fiber+Optic+Cable&amp;attguid=1fb6aac4-dc66-40c1-963e-da8a08b29025" anchor="" target="" />
+    - ID: "6aea9a7e-5135-437d-afc8-be6cd0ab3a34"
+      Hint: PageItemButton1Url
+      Value: |
+        <link text="DOWNLOAD" linktype="external" url="https://www.aflglobal.com/cmspages/getfile.aspx?guid=1fb6aac4-dc66-40c1-963e-da8a08b29025" anchor="" target="" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c9e2ff60-ee4f-4748-b4c4-f7d132c57844"
+    - ID: "97cbee95-7bbc-42da-b0f5-3e15b4d914f0"
+      Hint: PageItemImage
+      Value: |
+        <image mediaid="{17140D8D-1E42-41B2-A003-BD6C1E05D11A}" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahesh
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220215T094942Z
+    - ID: "e3af6d69-bc0f-4746-94f6-a8d42f3f4a48"
+      Hint: PageItemTitle
+      Value: Fiber Optic Cable
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211228T074220Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kushagra
+    - ID: "5e736aec-5b46-4895-be0f-5157cb6ed299"
+      Hint: PageItemButton2Url
+      Value: |
+        <link text="EMAIL" linktype="external" url="https://www.aflglobal.com/Contact/Quote-List.aspx?mode=attachment&amp;nodeid=11914&amp;attname=Fiber+Optic+Cable&amp;attguid=1fb6aac4-dc66-40c1-963e-da8a08b29025" anchor="" target="" />
+    - ID: "6aea9a7e-5135-437d-afc8-be6cd0ab3a34"
+      Hint: PageItemButton1Url
+      Value: |
+        <link text="DOWNLOAD" linktype="external" url="https://www.aflglobal.com/cmspages/getfile.aspx?guid=1fb6aac4-dc66-40c1-963e-da8a08b29025" anchor="" target="" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6316dc27-f3b3-4556-8d00-02201137a323"
+    - ID: "97cbee95-7bbc-42da-b0f5-3e15b4d914f0"
+      Hint: PageItemImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="74771" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/74771/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/qrgfiberopticcable?v=18c8d1a9" stylelabs-content-type="Image" alt="QRG-Fiber-Optic-Cable.jpg" height="100" width="77" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahesh
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220310T075452Z
+    - ID: "e3af6d69-bc0f-4746-94f6-a8d42f3f4a48"
+      Hint: PageItemTitle
+      Value: Fiber Optic Cable

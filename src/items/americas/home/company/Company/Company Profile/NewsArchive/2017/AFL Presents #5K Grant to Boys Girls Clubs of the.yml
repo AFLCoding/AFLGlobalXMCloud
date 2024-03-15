@@ -1,0 +1,323 @@
+﻿---
+ID: "0609966f-a576-4953-8523-442161f41fc4"
+Parent: "c73dcb9a-aab5-47df-98ca-fa2456be06f5"
+Template: "f36e821e-bb98-44dc-966d-e92a0e033cc7"
+Path: "/sitecore/content/AFL-Global/AMERICAS/Home/Company/Company Profile/NewsArchive/2017/AFL Presents $5K Grant to Boys Girls Clubs of the"
+SharedFields:
+- ID: "1fbc6a49-6281-48ee-87e9-a3970b145adb"
+  Hint: NavigationFilter
+  Value: |
+    {E0A2A027-0932-4878-A7D6-0416D5263EFB}
+    {61BD64D6-809E-40AE-9297-2724A19329B3}
+    {D063E9D1-C7B5-4B1E-B31E-69886C9C59F5}
+    {500AE4C0-FA7B-463F-8149-EFFF7F044101}
+    {A0E7FF57-6994-4B09-AA21-104239628D5A}
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{3A84BAC9-C1BD-4809-A12C-28EB44E25329}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{DAE7C21D-4D3B-4257-A95C-9104CD8AF409}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "228f9517-e120-4014-b2c7-df0ac467a349"
+      Hint: ContentTitle
+      Value: AFL Presents $5K Grant to Boys & Girls Clubs of the Upstate
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211221T095416Z
+    - ID: "3688d7df-2feb-43a4-ab8d-410e5f70a676"
+      Hint: ContentDescription
+      Value: |
+        <p>Spartanburg, SC – <a href="http://www.aflglobal.com/">AFL</a>, a leading fiber optic manufacturer and provider of services, presented a $5,000 check to the <a href="http://begreatupstate.org/">Boys & Girls Clubs of the Upstate</a>. The grant was made possible by AFL’s <a href="~/link.aspx?_id=F5E14B660F224CD79DB21F673AE9DB95&_z=z">Community Outreach Program</a> and will benefit over 1,300 children throughout the Spartanburg and Cherokee counties. The program being funded is the <a href="https://www.firstinspires.org/robotics/flljr">FIRST® LEGO® League Jr.</a> for third and fourth grade club members, an event designed to introduce STEM concepts through LEGO®. <br />
+        <br />
+        <a href="https://www.aflglobal.com/productionFiles/images/News/2017_Grant_Boys-Girls_Club_final.aspx" target="_blank"></a>The Boys & Girls Clubs of the Upstate operates 13 school-based clubs after school and throughout the summer. The grant from AFL will enable the Boys & Girls Clubs to improve the quality of the program by providing STEM curriculum and supplies, tech support and transportation.</p>
+        <p>“Our mission is to inspire and enable all young people to realize their full potential as productive, responsible and caring citizens,” said Greg Tolbert, president of the Boys & Girls Clubs of the Upstate. “Fifty percent of the overall program is dedicated to academic enrichment with a focus on STEM.”<br />
+         <br />
+        The children served by the Clubs attend high poverty schools and face an opportunity gap compared to higher socioeconomic peers. The opportunity gap, including academic enrichment, are cited as a driving need behind many youth programs like the Boys & Girls Clubs.<br />
+         <br />
+        AFL has an extensive Community Outreach Program that provides grants, sponsorships, associate engagement projects, disaster relief and more. For additional information on AFL and its community initiatives, visit <a href="http://www.aflglobal.com/">www.AFLglobal.com</a>.<br />
+         <br />
+        About AFL<br />
+        Founded in 1984, AFL is an international manufacturer providing end-to-end solutions to the energy, service provider, enterprise and industrial markets as well as several emerging markets. The company’s products are in use in over 130 countries and include fiber optic cable and hardware, transmission and substation accessories, outside plant equipment, connectivity, test and inspection equipment, fusion splicers and training. AFL also offers a wide variety of services supporting data center, enterprise, wireless, and outside plant applications.<br />
+         <br />
+        Headquartered in Spartanburg, SC, AFL has operations in the U.S., Mexico, Canada, Europe, Asia and Australia, and is a wholly-owned subsidiary of Fujikura Ltd. of Japan. For more information, visit <a href="http://www.aflglobal.com/">www.AFLglobal.com</a>. <br />
+         <br />
+        Contact<br />
+        Corie Culp<br />
+        Community Relations Manager<br />
+        AFL<br />
+        864.433.5409<br />
+        <a href="mailto:Corie.Culp@AFLglobal.com">Corie.Culp@AFLglobal.com</a></p>
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: AFL Presents $5K Grant to Boys Girls Clubs of the
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\harry
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: "The grant was made possible by AFL?s Community Outreach Program and will benefit over 1,300 children throughout the Spartanburg and Cherokee counties."
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\harry
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: STEM, LEGO, FIRST, Boys & Girls Clubs of the Upstate, grant, presentation, children, school
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: AFL Presents $5K Grant to Boys Girls Clubs of the
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: AFL Presents $5K Grant to Boys Girls Clubs of the
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ffcd912f-9580-44f8-8aaf-72a722eb42e9"
+    - ID: "9dd4f0d9-c123-47a8-8cef-2c85cea172f6"
+      Hint: ContentImage
+      Value: |
+        <image mediaid="{9511A01D-373A-4CFF-A277-CC4567905F2C}" />
+    - ID: "a6eaffd5-fc3e-41b4-93b3-f1721fcf2300"
+      Hint: ContentPublishedDate
+      Value: 20171204T183000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T091458Z
+- Language: "es-MX"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "228f9517-e120-4014-b2c7-df0ac467a349"
+      Hint: ContentTitle
+      Value: AFL Presents $5K Grant to Boys & Girls Clubs of the Upstate
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211221T095416Z
+    - ID: "3688d7df-2feb-43a4-ab8d-410e5f70a676"
+      Hint: ContentDescription
+      Value: |
+        <p>Spartanburg, SC – <a href="http://www.aflglobal.com/">AFL</a>, a leading fiber optic manufacturer and provider of services, presented a $5,000 check to the <a href="http://begreatupstate.org/">Boys & Girls Clubs of the Upstate</a>. The grant was made possible by AFL’s <a href="~/link.aspx?_id=F5E14B660F224CD79DB21F673AE9DB95&_z=z">Community Outreach Program</a> and will benefit over 1,300 children throughout the Spartanburg and Cherokee counties. The program being funded is the <a href="https://www.firstinspires.org/robotics/flljr">FIRST® LEGO® League Jr.</a> for third and fourth grade club members, an event designed to introduce STEM concepts through LEGO®. <br />
+        <br />
+        <a href="https://www.aflglobal.com/productionFiles/images/News/2017_Grant_Boys-Girls_Club_final.aspx" target="_blank"></a>The Boys & Girls Clubs of the Upstate operates 13 school-based clubs after school and throughout the summer. The grant from AFL will enable the Boys & Girls Clubs to improve the quality of the program by providing STEM curriculum and supplies, tech support and transportation.</p>
+        <p>“Our mission is to inspire and enable all young people to realize their full potential as productive, responsible and caring citizens,” said Greg Tolbert, president of the Boys & Girls Clubs of the Upstate. “Fifty percent of the overall program is dedicated to academic enrichment with a focus on STEM.”<br />
+         <br />
+        The children served by the Clubs attend high poverty schools and face an opportunity gap compared to higher socioeconomic peers. The opportunity gap, including academic enrichment, are cited as a driving need behind many youth programs like the Boys & Girls Clubs.<br />
+         <br />
+        AFL has an extensive Community Outreach Program that provides grants, sponsorships, associate engagement projects, disaster relief and more. For additional information on AFL and its community initiatives, visit <a href="http://www.aflglobal.com/">www.AFLglobal.com</a>.<br />
+         <br />
+        About AFL<br />
+        Founded in 1984, AFL is an international manufacturer providing end-to-end solutions to the energy, service provider, enterprise and industrial markets as well as several emerging markets. The company’s products are in use in over 130 countries and include fiber optic cable and hardware, transmission and substation accessories, outside plant equipment, connectivity, test and inspection equipment, fusion splicers and training. AFL also offers a wide variety of services supporting data center, enterprise, wireless, and outside plant applications.<br />
+         <br />
+        Headquartered in Spartanburg, SC, AFL has operations in the U.S., Mexico, Canada, Europe, Asia and Australia, and is a wholly-owned subsidiary of Fujikura Ltd. of Japan. For more information, visit <a href="http://www.aflglobal.com/">www.AFLglobal.com</a>. <br />
+         <br />
+        Contact<br />
+        Corie Culp<br />
+        Community Relations Manager<br />
+        AFL<br />
+        864.433.5409<br />
+        <a href="mailto:Corie.Culp@AFLglobal.com">Corie.Culp@AFLglobal.com</a></p>
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: AFL Presents $5K Grant to Boys Girls Clubs of the
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: "The grant was made possible by AFL?s Community Outreach Program and will benefit over 1,300 children throughout the Spartanburg and Cherokee counties."
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\harry
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: STEM, LEGO, FIRST, Boys & Girls Clubs of the Upstate, grant, presentation, children, school
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: AFL Presents $5K Grant to Boys Girls Clubs of the
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: AFL Presents $5K Grant to Boys Girls Clubs of the
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7c2e0c8b-92cd-4de4-9090-6b12b7060c2b"
+    - ID: "9dd4f0d9-c123-47a8-8cef-2c85cea172f6"
+      Hint: ContentImage
+      Value: |
+        <image mediaid="{9511A01D-373A-4CFF-A277-CC4567905F2C}" />
+    - ID: "a6eaffd5-fc3e-41b4-93b3-f1721fcf2300"
+      Hint: ContentPublishedDate
+      Value: 20171204T183000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T091458Z
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "228f9517-e120-4014-b2c7-df0ac467a349"
+      Hint: ContentTitle
+      Value: AFL Presents $5K Grant to Boys & Girls Clubs of the Upstate
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211221T095416Z
+    - ID: "3688d7df-2feb-43a4-ab8d-410e5f70a676"
+      Hint: ContentDescription
+      Value: |
+        <p>Spartanburg, SC &ndash;&nbsp;<a href="http://www.aflglobal.com/">AFL</a>, a leading fiber optic manufacturer and provider of services, presented a $5,000 check to the&nbsp;<a href="http://begreatupstate.org/">Boys &amp; Girls Clubs of the Upstate</a>. The grant was made possible by AFL&rsquo;s&nbsp;<a href="https://www.aflglobal.com/Company/Community.aspx">Community Outreach Program</a>&nbsp;and will benefit over 1,300 children throughout the Spartanburg and Cherokee counties. The program being funded is the&nbsp;<a href="https://www.firstinspires.org/robotics/flljr">FIRST&reg; LEGO&reg; League Jr.</a>&nbsp;for third and fourth grade club members, an event designed to introduce STEM concepts through LEGO&reg;.&nbsp;<br />
+        <br />
+        <a href="https://www.aflglobal.com/productionFiles/images/News/2017_Grant_Boys-Girls_Club_final.aspx" target="_blank"></a>The Boys &amp; Girls Clubs of the Upstate operates 13 school-based clubs after school and throughout the summer. The grant from AFL will enable the Boys &amp; Girls Clubs to improve the quality of the program by providing STEM curriculum and supplies, tech support and transportation.</p>
+        <p>&ldquo;Our mission is to inspire and enable all young people to realize their full potential as productive, responsible and caring citizens,&rdquo; said Greg Tolbert, president of the Boys &amp; Girls Clubs of the Upstate. &ldquo;Fifty percent of the overall program is dedicated to academic enrichment with a focus on STEM.&rdquo;<br />
+        &nbsp;<br />
+        The children served by the Clubs attend high poverty schools and face an opportunity gap compared to higher socioeconomic peers. The opportunity gap, including academic enrichment, are cited as a driving need behind many youth programs like the Boys &amp; Girls Clubs.<br />
+        &nbsp;<br />
+        AFL has an extensive Community Outreach Program that provides grants, sponsorships, associate engagement projects, disaster relief and more. For additional information on AFL and its community initiatives, visit&nbsp;<a href="http://www.aflglobal.com/">www.AFLglobal.com</a>.<br />
+        &nbsp;<br />
+        About AFL<br />
+        Founded in 1984, AFL is an international manufacturer providing end-to-end solutions to the energy, service provider, enterprise and industrial markets as well as several emerging markets. The company&rsquo;s products are in use in over 130 countries and include fiber optic cable and hardware, transmission and substation accessories, outside plant equipment, connectivity, test and inspection equipment, fusion splicers and training. AFL also offers a wide variety of services supporting data center, enterprise, wireless, and outside plant applications.<br />
+        &nbsp;<br />
+        Headquartered in Spartanburg, SC, AFL has operations in the U.S., Mexico, Canada, Europe, Asia and Australia, and is a wholly-owned subsidiary of Fujikura Ltd. of Japan. For more information, visit&nbsp;<a href="http://www.aflglobal.com/">www.AFLglobal.com</a>.&nbsp;<br />
+        &nbsp;<br />
+        Contact<br />
+        Corie Culp<br />
+        Community Relations Manager<br />
+        AFL<br />
+        864.433.5409<br />
+        <a href="mailto:Corie.Culp@AFLglobal.com">Corie.Culp@AFLglobal.com</a></p>
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: AFL Presents $5K Grant to Boys Girls Clubs of the
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: "The grant was made possible by AFL?s Community Outreach Program and will benefit over 1,300 children throughout the Spartanburg and Cherokee counties."
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\harry
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: STEM, LEGO, FIRST, Boys & Girls Clubs of the Upstate, grant, presentation, children, school
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: AFL Presents $5K Grant to Boys Girls Clubs of the
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "64a714b8-15d3-4653-a24b-72405aaa3fbb"
+    - ID: "9dd4f0d9-c123-47a8-8cef-2c85cea172f6"
+      Hint: ContentImage
+      Value: |
+        <image mediaid="{9511A01D-373A-4CFF-A277-CC4567905F2C}" />
+    - ID: "a6eaffd5-fc3e-41b4-93b3-f1721fcf2300"
+      Hint: ContentPublishedDate
+      Value: 20171204T183000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahesh
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220215T093129Z
+  - Version: 2
+    Fields:
+    - ID: "228f9517-e120-4014-b2c7-df0ac467a349"
+      Hint: ContentTitle
+      Value: AFL Presents $5K Grant to Boys & Girls Clubs of the Upstate
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211221T095416Z
+    - ID: "3688d7df-2feb-43a4-ab8d-410e5f70a676"
+      Hint: ContentDescription
+      Value: |
+        <p>Spartanburg, SC – <a href="http://www.aflglobal.com/">AFL</a>, a leading fiber optic manufacturer and provider of services, presented a $5,000 check to the <a href="http://begreatupstate.org/">Boys & Girls Clubs of the Upstate</a>. The grant was made possible by AFL’s <a href="~/link.aspx?_id=F5E14B660F224CD79DB21F673AE9DB95&_z=z">Community Outreach Program</a> and will benefit over 1,300 children throughout the Spartanburg and Cherokee counties. The program being funded is the <a href="https://www.firstinspires.org/robotics/flljr">FIRST® LEGO® League Jr.</a> for third and fourth grade club members, an event designed to introduce STEM concepts through LEGO®. <br />
+        <br />
+        <a href="https://www.aflglobal.com/productionFiles/images/News/2017_Grant_Boys-Girls_Club_final.aspx" target="_blank"></a>The Boys & Girls Clubs of the Upstate operates 13 school-based clubs after school and throughout the summer. The grant from AFL will enable the Boys & Girls Clubs to improve the quality of the program by providing STEM curriculum and supplies, tech support and transportation.</p>
+        <p>“Our mission is to inspire and enable all young people to realize their full potential as productive, responsible and caring citizens,” said Greg Tolbert, president of the Boys & Girls Clubs of the Upstate. “Fifty percent of the overall program is dedicated to academic enrichment with a focus on STEM.”<br />
+         <br />
+        The children served by the Clubs attend high poverty schools and face an opportunity gap compared to higher socioeconomic peers. The opportunity gap, including academic enrichment, are cited as a driving need behind many youth programs like the Boys & Girls Clubs.<br />
+         <br />
+        AFL has an extensive Community Outreach Program that provides grants, sponsorships, associate engagement projects, disaster relief and more. For additional information on AFL and its community initiatives, visit <a href="http://www.aflglobal.com/">www.AFLglobal.com</a>.<br />
+         <br />
+        About AFL<br />
+        Founded in 1984, AFL is an international manufacturer providing end-to-end solutions to the energy, service provider, enterprise and industrial markets as well as several emerging markets. The company’s products are in use in over 130 countries and include fiber optic cable and hardware, transmission and substation accessories, outside plant equipment, connectivity, test and inspection equipment, fusion splicers and training. AFL also offers a wide variety of services supporting data center, enterprise, wireless, and outside plant applications.<br />
+         <br />
+        Headquartered in Spartanburg, SC, AFL has operations in the U.S., Mexico, Canada, Europe, Asia and Australia, and is a wholly-owned subsidiary of Fujikura Ltd. of Japan. For more information, visit <a href="http://www.aflglobal.com/">www.AFLglobal.com</a>. <br />
+         <br />
+        Contact<br />
+        Corie Culp<br />
+        Community Relations Manager<br />
+        AFL<br />
+        864.433.5409<br />
+        <a href="mailto:Corie.Culp@AFLglobal.com">Corie.Culp@AFLglobal.com</a></p>
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: AFL Presents $5K Grant to Boys Girls Clubs of the
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: "The grant was made possible by AFL?s Community Outreach Program and will benefit over 1,300 children throughout the Spartanburg and Cherokee counties."
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\harry
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: STEM, LEGO, FIRST, Boys & Girls Clubs of the Upstate, grant, presentation, children, school
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: AFL Presents $5K Grant to Boys Girls Clubs of the
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: AFL Presents $5K Grant to Boys Girls Clubs of the
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a6ca647f-2f50-4e4a-a716-7970e3450ce2"
+    - ID: "9dd4f0d9-c123-47a8-8cef-2c85cea172f6"
+      Hint: ContentImage
+      Value: |
+        <image mediaid="{9511A01D-373A-4CFF-A277-CC4567905F2C}" />
+    - ID: "a6eaffd5-fc3e-41b4-93b3-f1721fcf2300"
+      Hint: ContentPublishedDate
+      Value: 20171204T183000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T091458Z

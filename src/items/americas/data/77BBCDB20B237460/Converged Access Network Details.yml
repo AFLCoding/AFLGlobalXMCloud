@@ -1,0 +1,168 @@
+﻿---
+ID: "358f920b-3ce6-410f-980a-969fd99c2218"
+Parent: "43a2955b-1171-4977-863e-0aa8cddcba33"
+Template: "011c02ab-49e7-41f0-8719-03034390bc25"
+Path: "/sitecore/content/AFL-Global/AMERICAS/Data/AFL Product Detail Folder/Markets/Service Provider Product  Data Details/Converged Access Network Details"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211123T080652Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <h1>Converged Access Network</h1>
+        <p>
+        The access network of today and tomorrow is not an FTTH network. It is not a 5G Backhaul and Fronthaul network. And it is not a set of point-to-point connections for business services. It is all these things at once and more. It is a platform&mdash;a highway of the future connecting service providers to their customers. It is a highway that must carry all the traffic of today, and all the traffic that will be there tomorrow.</p>
+        <p>
+        However, we don&rsquo;t know what the traffic of tomorrow will look like. How much will home data traffic grow compared to others? What will future versions of PON (Passive Optical Networks) require for wavelengths and split ratios? How dense will 5G, or someday 6G, small cells be? What will be their bandwidth requirements? How will enterprise connectivity demands change over 20 years? These questions are impossible to answer definitively. But we can still build the access network today which will be able to handle the answers&mdash;the <strong>AFL Converged Access Network</strong>.</p>
+        <p>
+        Please click on the image above to see how AFL&rsquo;s fiber and equipment solutions can help you build an expandable, flexible, and accessible network in a range of application areas including:</p>
+    - ID: "5d336bce-e421-4fe8-ad55-214f80d841ad"
+      Hint: "Sub-Heading"
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0e9b603d-69c9-488d-8f60-e2a2f88f95d4"
+    - ID: "ab91d39b-30ad-4050-acef-07c741146fcc"
+      Hint: Heading
+      Value: Converged Access Network
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\archana
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20211210T095801Z
+- Language: "es-MX"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211123T080652Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <h1>Converged Access Network</h1>
+        <p>
+        The access network of today and tomorrow is not an FTTH network. It is not a 5G Backhaul and Fronthaul network. And it is not a set of point-to-point connections for business services. It is all these things at once and more. It is a platform&mdash;a highway of the future connecting service providers to their customers. It is a highway that must carry all the traffic of today, and all the traffic that will be there tomorrow.</p>
+        <p>
+        However, we don&rsquo;t know what the traffic of tomorrow will look like. How much will home data traffic grow compared to others? What will future versions of PON (Passive Optical Networks) require for wavelengths and split ratios? How dense will 5G, or someday 6G, small cells be? What will be their bandwidth requirements? How will enterprise connectivity demands change over 20 years? These questions are impossible to answer definitively. But we can still build the access network today which will be able to handle the answers&mdash;the <strong>AFL Converged Access Network</strong>.</p>
+        <p>
+        Please click on the image above to see how AFL&rsquo;s fiber and equipment solutions can help you build an expandable, flexible, and accessible network in a range of application areas including:</p>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "22d83cbe-77ca-4e9d-8a47-1656d383ea90"
+    - ID: "ab91d39b-30ad-4050-acef-07c741146fcc"
+      Hint: Heading
+      Value: Converged Access Network
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahesh
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220215T125921Z
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211123T080652Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <h1>Converged Access Network</h1>
+        <p>
+        The access network of today and tomorrow is not an FTTH network. It is not a 5G Backhaul and Fronthaul network. And it is not a set of point-to-point connections for business services. It is all these things at once and more. It is a platform&mdash;a highway of the future connecting service providers to their customers. It is a highway that must carry all the traffic of today, and all the traffic that will be there tomorrow.</p>
+        <p>
+        However, we don&rsquo;t know what the traffic of tomorrow will look like. How much will home data traffic grow compared to others? What will future versions of PON (Passive Optical Networks) require for wavelengths and split ratios? How dense will 5G, or someday 6G, small cells be? What will be their bandwidth requirements? How will enterprise connectivity demands change over 20 years? These questions are impossible to answer definitively. But we can still build the access network today which will be able to handle the answers&mdash;the <strong>AFL Converged Access Network</strong>.</p>
+        <p>
+        Please click on the image above to see how AFL&rsquo;s fiber and equipment solutions can help you build an expandable, flexible, and accessible network in a range of application areas including:</p>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "27d18025-b03a-4622-a3c4-bdfc555ba151"
+    - ID: "ab91d39b-30ad-4050-acef-07c741146fcc"
+      Hint: Heading
+      Value: Converged Access Network
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahesh
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220215T094517Z
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211123T080652Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <h1>Converged Access Network</h1>
+        <p>
+        The access network of today and tomorrow is not an FTTH network. It is not a 5G Backhaul and Fronthaul network. And it is not a set of point-to-point connections for business services. It is all these things at once and more. It is a platform&mdash;a highway of the future connecting service providers to their customers. It is a highway that must carry all the traffic of today, and all the traffic that will be there tomorrow.</p>
+        <p>
+        However, we don&rsquo;t know what the traffic of tomorrow will look like. How much will home data traffic grow compared to others? What will future versions of PON (Passive Optical Networks) require for wavelengths and split ratios? How dense will 5G, or someday 6G, small cells be? What will be their bandwidth requirements? How will enterprise connectivity demands change over 20 years? These questions are impossible to answer definitively. But we can still build the access network today which will be able to handle the answers&mdash;the <strong>AFL Converged Access Network</strong>.</p>
+        <p>
+        Please click on the image above to see how AFL&rsquo;s fiber and equipment solutions can help you build an expandable, flexible, and accessible network in a range of application areas including:</p>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e9126229-5daf-491b-b534-526fc994fcc5"
+    - ID: "ab91d39b-30ad-4050-acef-07c741146fcc"
+      Hint: Heading
+      Value: Converged Access Network
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahesh
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220310T075320Z

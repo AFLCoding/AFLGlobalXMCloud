@@ -1,0 +1,96 @@
+﻿---
+ID: "b7794f82-b8fd-44b4-9c64-991a3a2e7d9b"
+Parent: "a2c14618-5e32-4ad3-ac4c-07e00189a2a7"
+Template: "bf61de11-b78f-48ea-aaa4-1d17f0d83824"
+Path: "/sitecore/content/AFL-Global/AMERICAS/Home/Company/Company Profile/Leadership Team/Glenn Cash"
+SharedFields:
+- ID: "1fbc6a49-6281-48ee-87e9-a3970b145adb"
+  Hint: NavigationFilter
+  Value: "{D063E9D1-C7B5-4B1E-B31E-69886C9C59F5}"
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{274C9F86-81B9-4FFC-87CA-8B19AB3A526D}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{DAE7C21D-4D3B-4257-A95C-9104CD8AF409}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 1900
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230329T190958Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{1A24FC12-1F8E-4214-921E-D355AA3E4DC5}"
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Glenn Cash
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rafael
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: As Vice President of Accounting and Finance, Glenn Cash provides financial oversight for AFL’s global Connectivity organization
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <p>
+        As Vice President of Accounting and Finance, Glenn Cash provides financial oversight for AFL’s global Connectivity organization.  The Connectivity organization is comprised of two existing business units with locations in South Carolina, Washington State, Mexico, the United Kingdom, China and Singapore.  Over the past two years, Glenn has been instrumental with the financial reporting, consolidation and integration to bring these two existing business units into one.
+        </p>
+        <p>
+        Glenn joined AFL in 2001 and has worked in most of the Company’s businesses including  manufacturing business units as well as AFL Network Services in both the U.S. and Canada.  He spent three years with Fujikura Automotive America (a division of AFL’s parent company, Fujikura Ltd of Japan) during a major expansion phase. Additionally, Glenn spent three years living in Seattle, WA, as CFO of AFL Hyperscale.
+        </p>
+        <p>
+        Throughout his history with AFL, Glenn has collaborated with and taught AFL’s operations teams on accounting and finance topics to help them understand how they can make a difference in the Company’s results. He has also been involved with a significant number of financial system integrations, mostly related to acquisitions, to help them align with AFL’s accounting and finance processes and procedures. Glenn is the 2018 recipient of AFL’s  President’s Award, presented to associates who live AFL's core values, make significant contributions to internal or external customers and provide the highest level of collaboration with the Company.
+        </p>
+        <p>
+        Prior to joining AFL in 2001, Glenn held numerous financial and accounting positions with Michelin North America and Monsanto Electronic Materials Company. Glenn holds a Bachelor of Science in Financial Management and Master of Business Administration – both received from Clemson University.
+        </p>
+        <p>
+        Glenn is a Board Member and Chair of the Development Committee for The Children’s Cancer Partners of the Carolinas. This organization provides comprehensive support to overcome distance and cost barriers for South and North Carolina families whose children are battling cancer to improve their overall quality of life. Children's Cancer Partners is near and dear to Glenn and his family.
+        </p>
+        <p> </p>
+        <p>
+        <a href="/Company/Company-Profile/Leadership-Team/">< Back to Leadership Page</a></p>
+    - ID: "5d336bce-e421-4fe8-ad55-214f80d841ad"
+      Hint: "Sub-Heading"
+      Value: Vice President of Accounting and Finance
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rafael
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: Glenn Cash, Vice President of Accounting and Finance
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: Glenn Cash
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: Glenn Cash
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2f486476-1f3b-48f9-9e2e-111ca58a1204"
+    - ID: "93dc88f3-05e5-482d-9b9a-c859c8258a73"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image stylelabs-content-id="176103" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/176103/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/no-image?v=aacd83c8" mediaid="" stylelabs-content-type="Image" alt="noImageAvailable.jpg" height="300" width="300" />
+    - ID: "ab91d39b-30ad-4050-acef-07c741146fcc"
+      Hint: Heading
+      Value: Glenn Cash
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T091525Z

@@ -1,0 +1,154 @@
+﻿---
+ID: "978dd093-39f8-448e-bc19-3db70d53e59d"
+Parent: "4ad5fe1b-c73a-493d-bb41-e70bc49de7e3"
+Template: "38f171ae-e199-410f-9a56-8e0e4433111e"
+Path: "/sitecore/content/AFL-Global/AMERICAS/Data/AFL Resouces Data/PageDataList/Affiliations/MTA"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0b2c42c5-a801-4d58-99a7-94d53aa09d34"
+      Hint: PageItemUrl
+      Value: |
+        <link text="Montana Telecommunications Association (MTA)" linktype="external" url="http://www.telecomassn.org/" anchor="" target="_blank" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211226T093743Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\archana
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\archana
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "07093847-9370-49b5-b352-0468668852f0"
+    - ID: "97cbee95-7bbc-42da-b0f5-3e15b4d914f0"
+      Hint: PageItemImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="168210" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/168210/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/mta?v=b75fe576" stylelabs-content-type="Image" alt="MTA.png" height="100" width="100" />
+    - ID: "a2b5de22-5ad8-4740-a215-0b022607eb8a"
+      Hint: PageItemName
+      Value: Montana Telecommunications Association (MTA)
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rob
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220727T173246Z
+- Language: "es-MX"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0b2c42c5-a801-4d58-99a7-94d53aa09d34"
+      Hint: PageItemUrl
+      Value: |
+        <link linktype="external" url="http://www.telecomassn.org/" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211226T093743Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\archana
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "32ee8da4-b09b-4299-bd97-dca2e1c92f2d"
+    - ID: "97cbee95-7bbc-42da-b0f5-3e15b4d914f0"
+      Hint: PageItemImage
+      Value: |
+        <image mediaid="{37D295A4-8677-4105-9203-2E051AA37AF6}" />
+    - ID: "a2b5de22-5ad8-4740-a215-0b022607eb8a"
+      Hint: PageItemName
+      Value: Montana Telecommunications Association (MTA)
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahesh
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220215T130335Z
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0b2c42c5-a801-4d58-99a7-94d53aa09d34"
+      Hint: PageItemUrl
+      Value: |
+        <link linktype="external" url="http://www.telecomassn.org/" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211226T093743Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\archana
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "429ef7d4-500c-496a-8a8f-4a9d44832e45"
+    - ID: "97cbee95-7bbc-42da-b0f5-3e15b4d914f0"
+      Hint: PageItemImage
+      Value: |
+        <image mediaid="{37D295A4-8677-4105-9203-2E051AA37AF6}" />
+    - ID: "a2b5de22-5ad8-4740-a215-0b022607eb8a"
+      Hint: PageItemName
+      Value: Montana Telecommunications Association (MTA)
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahesh
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220215T094907Z
+  - Version: 2
+    Fields:
+    - ID: "0b2c42c5-a801-4d58-99a7-94d53aa09d34"
+      Hint: PageItemUrl
+      Value: |
+        <link linktype="external" url="http://www.telecomassn.org/" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211226T093743Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\archana
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0cf9f74a-3885-4100-b05f-0e185d6c39d9"
+    - ID: "97cbee95-7bbc-42da-b0f5-3e15b4d914f0"
+      Hint: PageItemImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="168210" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/168210/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/mta?v=b75fe576" stylelabs-content-type="Image" alt="MTA.png" height="100" width="100" />
+    - ID: "a2b5de22-5ad8-4740-a215-0b022607eb8a"
+      Hint: PageItemName
+      Value: Montana Telecommunications Association (MTA)
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahesh
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220310T075441Z

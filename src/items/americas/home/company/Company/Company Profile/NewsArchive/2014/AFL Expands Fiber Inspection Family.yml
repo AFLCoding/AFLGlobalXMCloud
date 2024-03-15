@@ -1,0 +1,359 @@
+﻿---
+ID: "5bdeb941-ab2f-4480-871b-f88b7f31701b"
+Parent: "41766054-0fab-42d9-b298-476181fc327e"
+Template: "f36e821e-bb98-44dc-966d-e92a0e033cc7"
+Path: "/sitecore/content/AFL-Global/AMERICAS/Home/Company/Company Profile/NewsArchive/2014/AFL Expands Fiber Inspection Family"
+SharedFields:
+- ID: "1fbc6a49-6281-48ee-87e9-a3970b145adb"
+  Hint: NavigationFilter
+  Value: |
+    {E0A2A027-0932-4878-A7D6-0416D5263EFB}
+    {61BD64D6-809E-40AE-9297-2724A19329B3}
+    {D063E9D1-C7B5-4B1E-B31E-69886C9C59F5}
+    {500AE4C0-FA7B-463F-8149-EFFF7F044101}
+    {A0E7FF57-6994-4B09-AA21-104239628D5A}
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{3A84BAC9-C1BD-4809-A12C-28EB44E25329}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{DAE7C21D-4D3B-4257-A95C-9104CD8AF409}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "228f9517-e120-4014-b2c7-df0ac467a349"
+      Hint: ContentTitle
+      Value: "AFL Expands Fiber Inspection Family with WiFi-based Solution"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211216T083422Z
+    - ID: "3688d7df-2feb-43a4-ab8d-410e5f70a676"
+      Hint: ContentDescription
+      Value: |
+        Lowell, MA and Spartanburg, SC – <a href="http://www.aflglobal.com/">AFL</a> introduced the newest member of its fiber inspection family, <a href="http://www.aflglobal.com/Products/Test-and-Inspection/Fiber-Optic-Inspection/FOCIS-WiFi-Fiber-Optic-Connector-Inspection-System.aspx">FOCIS WiFi</a>, at the BICSI Winter Conference and Photonics West in early February. The newest version of AFL’s industry-leading fiber inspection solution provides wireless connection of an inspection probe to a customer’s Android or IOS phone or tablet.<br />
+        <br />
+        Designed for the well-connected workforce, field installation and maintenance personnel can now view images, save and verify standards compliance using a free app on their own devices. AFL’s leading pass/fail analysis is now combined with the incredible processing power of a phone or tablet, providing a pass/fail indication in less than one second.<br />
+        <br />
+        “Demonstrations at BICSI and Photonics West were well-received. We showed FOCIS WiFi to customers who kept asking us to do it again,” said Lee Kellett, director of product marketing for AFL’s test and inspection division. “Field and maintenance personnel usually wait several seconds for inspection equipment to evaluate the connector against the standard and report pass or fail. With the new FOCIS WiFi, results appear in less than one second!”<br />
+        <br />
+        AFL introduced the <a href="http://www.aflglobal.com/Company/Company-Profile/News/2012/AFL-Introduces-New-FOCIS-Integrated-Fiber-Inspecti.aspx">FOCIS</a> system in 2012 and in early 2013 introduced <a href="http://www.aflglobal.com/Company/Company-Profile/News/2013/AFL-Introduces-NOYES-FOCIS-PRO-Fiber-Optic-Connect.aspx">FOCIS PRO</a>, a system which combines a palm-sized touch-screen tablet, DFD1 Digital FiberScope and AFL SimpleView PRO analysis software to provide the inspection and analysis power of current laptop and probe solutions. <br />
+        <br />
+        In late 2013, FOCIS PRO was recognized by the <a href="http://www.aflglobal.com/Company/Company-Profile/News/2013/AFL-Receives-Recognition-by-BTR-for-New-Products.aspx"><em>Broadband Technology Report</em> (BTR) Diamond Technology Reviews</a> (“the Diamonds”) awards program which recognizes top products and solutions available to the broadband-cable industry.<br />
+        <br />
+        For more information about AFL, its products and services, visit <a href="http://www.aflglobal.com/">www.AFLglobal.com</a>.<br />
+         <br />
+        About AFL<br />
+        AFL provides industry-leading products and services to the electric utility, broadband, communications, OEM, enterprise, wireless and transit rail markets as well as the emerging markets of oil and gas, mining, nuclear, avionics, medical, renewable and intelligent grid. The company’s diverse product portfolio includes fiber optic cable, transmission and substation accessories, outside plant equipment, connectors, fusion splicers, test equipment and training. AFL’s service portfolio includes market-leading positions with the foremost communications companies supporting inside plant central office, EF&I, outside plant, enterprise and wireless areas.<br />
+        <br />
+        Founded in 1984, AFL is proud to offer engineering expertise, exceptional products and reliable service that help our customers improve their critical and electrical infrastructure. AFL has operations in the U.S., Mexico, Europe, Asia and the South Pacific. The company is headquartered in Spartanburg, S.C., and is a wholly-owned subsidiary of Fujikura Ltd. of Japan. For more information, visit <a href="http://www.aflglobal.com/">www.AFLglobal.com</a>. <br />
+        <br />
+        Contacts<br />
+        Lee Kellett<br />
+        Director, Product Marketing, Test and Inspection<br />
+        AFL<br />
+        978.455.9211<br />
+        <a href="mailto:Lee.Kellett@AFLglobal.com">Lee.Kellett@AFLglobal.com</a><br />
+         <br />
+        Corie Culp<br />
+        PR Manager<br />
+        AFL<br />
+        864.433.5409<br />
+        <a href="mailto:Corie.Culp@AFLglobal.com">Corie.Culp@AFLglobal.com</a>
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: AFL Expands Fiber Inspection Family
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kushagra
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: AFL introduce the FOCIS WiFi, the newest member of its fiber inspection family.
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kushagra
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: AFL, FOCIS WiFi, test and inspection, fiber optics, BICSI Winter Conference and Expo, SPIE Photonics West, smartphone, wireless connection
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: AFL Expands Fiber Inspection Family
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: AFL Expands Fiber Inspection Family
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "585e2451-478f-4fa6-8678-a23fd2a07cfc"
+    - ID: "9dd4f0d9-c123-47a8-8cef-2c85cea172f6"
+      Hint: ContentImage
+      Value: |
+        <image mediaid="{0C88F993-6A52-4EC8-8887-C7B3E26FDCBD}" />
+    - ID: "a6eaffd5-fc3e-41b4-93b3-f1721fcf2300"
+      Hint: ContentPublishedDate
+      Value: 20140216T183000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T091311Z
+- Language: "es-MX"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "228f9517-e120-4014-b2c7-df0ac467a349"
+      Hint: ContentTitle
+      Value: "AFL Expands Fiber Inspection Family with WiFi-based Solution"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211216T083422Z
+    - ID: "3688d7df-2feb-43a4-ab8d-410e5f70a676"
+      Hint: ContentDescription
+      Value: |
+        Lowell, MA and Spartanburg, SC – <a href="http://www.aflglobal.com/">AFL</a> introduced the newest member of its fiber inspection family, <a href="http://www.aflglobal.com/Products/Test-and-Inspection/Fiber-Optic-Inspection/FOCIS-WiFi-Fiber-Optic-Connector-Inspection-System.aspx">FOCIS WiFi</a>, at the BICSI Winter Conference and Photonics West in early February. The newest version of AFL’s industry-leading fiber inspection solution provides wireless connection of an inspection probe to a customer’s Android or IOS phone or tablet.<br />
+        <br />
+        Designed for the well-connected workforce, field installation and maintenance personnel can now view images, save and verify standards compliance using a free app on their own devices. AFL’s leading pass/fail analysis is now combined with the incredible processing power of a phone or tablet, providing a pass/fail indication in less than one second.<br />
+        <br />
+        “Demonstrations at BICSI and Photonics West were well-received. We showed FOCIS WiFi to customers who kept asking us to do it again,” said Lee Kellett, director of product marketing for AFL’s test and inspection division. “Field and maintenance personnel usually wait several seconds for inspection equipment to evaluate the connector against the standard and report pass or fail. With the new FOCIS WiFi, results appear in less than one second!”<br />
+        <br />
+        AFL introduced the <a href="http://www.aflglobal.com/Company/Company-Profile/News/2012/AFL-Introduces-New-FOCIS-Integrated-Fiber-Inspecti.aspx">FOCIS</a> system in 2012 and in early 2013 introduced <a href="http://www.aflglobal.com/Company/Company-Profile/News/2013/AFL-Introduces-NOYES-FOCIS-PRO-Fiber-Optic-Connect.aspx">FOCIS PRO</a>, a system which combines a palm-sized touch-screen tablet, DFD1 Digital FiberScope and AFL SimpleView PRO analysis software to provide the inspection and analysis power of current laptop and probe solutions. <br />
+        <br />
+        In late 2013, FOCIS PRO was recognized by the <a href="http://www.aflglobal.com/Company/Company-Profile/News/2013/AFL-Receives-Recognition-by-BTR-for-New-Products.aspx"><em>Broadband Technology Report</em> (BTR) Diamond Technology Reviews</a> (“the Diamonds”) awards program which recognizes top products and solutions available to the broadband-cable industry.<br />
+        <br />
+        For more information about AFL, its products and services, visit <a href="http://www.aflglobal.com/">www.AFLglobal.com</a>.<br />
+         <br />
+        About AFL<br />
+        AFL provides industry-leading products and services to the electric utility, broadband, communications, OEM, enterprise, wireless and transit rail markets as well as the emerging markets of oil and gas, mining, nuclear, avionics, medical, renewable and intelligent grid. The company’s diverse product portfolio includes fiber optic cable, transmission and substation accessories, outside plant equipment, connectors, fusion splicers, test equipment and training. AFL’s service portfolio includes market-leading positions with the foremost communications companies supporting inside plant central office, EF&I, outside plant, enterprise and wireless areas.<br />
+        <br />
+        Founded in 1984, AFL is proud to offer engineering expertise, exceptional products and reliable service that help our customers improve their critical and electrical infrastructure. AFL has operations in the U.S., Mexico, Europe, Asia and the South Pacific. The company is headquartered in Spartanburg, S.C., and is a wholly-owned subsidiary of Fujikura Ltd. of Japan. For more information, visit <a href="http://www.aflglobal.com/">www.AFLglobal.com</a>. <br />
+        <br />
+        Contacts<br />
+        Lee Kellett<br />
+        Director, Product Marketing, Test and Inspection<br />
+        AFL<br />
+        978.455.9211<br />
+        <a href="mailto:Lee.Kellett@AFLglobal.com">Lee.Kellett@AFLglobal.com</a><br />
+         <br />
+        Corie Culp<br />
+        PR Manager<br />
+        AFL<br />
+        864.433.5409<br />
+        <a href="mailto:Corie.Culp@AFLglobal.com">Corie.Culp@AFLglobal.com</a>
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: AFL Expands Fiber Inspection Family
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: AFL introduce the FOCIS WiFi, the newest member of its fiber inspection family.
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kushagra
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: AFL, FOCIS WiFi, test and inspection, fiber optics, BICSI Winter Conference and Expo, SPIE Photonics West, smartphone, wireless connection
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: AFL Expands Fiber Inspection Family
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: AFL Expands Fiber Inspection Family
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f6835542-9293-4c54-b2d5-565c5a712645"
+    - ID: "9dd4f0d9-c123-47a8-8cef-2c85cea172f6"
+      Hint: ContentImage
+      Value: |
+        <image mediaid="{0C88F993-6A52-4EC8-8887-C7B3E26FDCBD}" />
+    - ID: "a6eaffd5-fc3e-41b4-93b3-f1721fcf2300"
+      Hint: ContentPublishedDate
+      Value: 20140216T183000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T091312Z
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "228f9517-e120-4014-b2c7-df0ac467a349"
+      Hint: ContentTitle
+      Value: "AFL Expands Fiber Inspection Family with WiFi-based Solution"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211216T083422Z
+    - ID: "3688d7df-2feb-43a4-ab8d-410e5f70a676"
+      Hint: ContentDescription
+      Value: |
+        Lowell, MA and Spartanburg, SC &ndash;&nbsp;<a href="http://www.aflglobal.com/">AFL</a>&nbsp;introduced the newest member of its fiber inspection family,&nbsp;<a href="http://www.aflglobal.com/Products/Test-and-Inspection/Fiber-Optic-Inspection/FOCIS-WiFi-Fiber-Optic-Connector-Inspection-System.aspx">FOCIS WiFi</a>, at the BICSI Winter Conference and Photonics West in early February. The newest version of AFL&rsquo;s industry-leading fiber inspection solution provides wireless connection of an inspection probe to a customer&rsquo;s Android or IOS phone or tablet.<br />
+        <br />
+        Designed for the well-connected workforce, field installation and maintenance personnel can now view images, save and verify standards compliance using a free app on their own devices. AFL&rsquo;s leading pass/fail analysis is now combined with the incredible processing power of a phone or tablet, providing a pass/fail indication in less than one second.<br />
+        <br />
+        &ldquo;Demonstrations at BICSI and Photonics West were well-received. We showed FOCIS WiFi to customers who kept asking us to do it again,&rdquo; said Lee Kellett, director of product marketing for AFL&rsquo;s test and inspection division. &ldquo;Field and maintenance personnel usually wait several seconds for inspection equipment to evaluate the connector against the standard and report pass or fail. With the new FOCIS WiFi, results appear in less than one second!&rdquo;<br />
+        <br />
+        AFL introduced the&nbsp;<a href="http://www.aflglobal.com/Company/Company-Profile/News/2012/AFL-Introduces-New-FOCIS-Integrated-Fiber-Inspecti.aspx">FOCIS</a>&nbsp;system in 2012 and in early 2013 introduced&nbsp;<a href="http://www.aflglobal.com/Company/Company-Profile/News/2013/AFL-Introduces-NOYES-FOCIS-PRO-Fiber-Optic-Connect.aspx">FOCIS PRO</a>, a system which combines a palm-sized touch-screen tablet, DFD1 Digital FiberScope and AFL SimpleView PRO analysis software to provide the inspection and analysis power of current laptop and probe solutions.&nbsp;<br />
+        <br />
+        In late 2013, FOCIS PRO was recognized by the&nbsp;<a href="http://www.aflglobal.com/Company/Company-Profile/News/2013/AFL-Receives-Recognition-by-BTR-for-New-Products.aspx"><em>Broadband Technology Report</em>&nbsp;(BTR) Diamond Technology Reviews</a>&nbsp;(&ldquo;the Diamonds&rdquo;) awards program which recognizes top products and solutions available to the broadband-cable industry.<br />
+        <br />
+        For more information about AFL, its products and services, visit&nbsp;<a href="http://www.aflglobal.com/">www.AFLglobal.com</a>.<br />
+        &nbsp;<br />
+        About AFL<br />
+        AFL provides industry-leading products and services to the electric utility, broadband, communications, OEM, enterprise, wireless and transit rail markets as well as the emerging markets of oil and gas, mining, nuclear, avionics, medical, renewable and intelligent grid. The company&rsquo;s diverse product portfolio includes fiber optic cable, transmission and substation accessories, outside plant equipment, connectors, fusion splicers, test equipment and training. AFL&rsquo;s service portfolio includes market-leading positions with the foremost communications companies supporting inside plant central office, EF&amp;I, outside plant, enterprise and wireless areas.<br />
+        <br />
+        Founded in 1984, AFL is proud to offer engineering expertise, exceptional products and reliable service that help our customers improve their critical and electrical infrastructure. AFL has operations in the U.S., Mexico, Europe, Asia and the South Pacific. The company is headquartered in Spartanburg, S.C., and is a wholly-owned subsidiary of Fujikura Ltd. of Japan. For more information, visit&nbsp;<a href="http://www.aflglobal.com/">www.AFLglobal.com</a>.&nbsp;<br />
+        <br />
+        Contacts<br />
+        Lee Kellett<br />
+        Director, Product Marketing, Test and Inspection<br />
+        AFL<br />
+        978.455.9211<br />
+        <a href="mailto:Lee.Kellett@AFLglobal.com">Lee.Kellett@AFLglobal.com</a><br />
+        &nbsp;<br />
+        Corie Culp<br />
+        PR Manager<br />
+        AFL<br />
+        864.433.5409<br />
+        <a href="mailto:Corie.Culp@AFLglobal.com">Corie.Culp@AFLglobal.com</a>
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: AFL Expands Fiber Inspection Family
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: AFL introduce the FOCIS WiFi, the newest member of its fiber inspection family.
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kushagra
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: AFL, FOCIS WiFi, test and inspection, fiber optics, BICSI Winter Conference and Expo, SPIE Photonics West, smartphone, wireless connection
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: AFL Expands Fiber Inspection Family
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2e871d88-7205-46b7-8bfd-7eaf5de24c2e"
+    - ID: "9dd4f0d9-c123-47a8-8cef-2c85cea172f6"
+      Hint: ContentImage
+      Value: |
+        <image mediaid="{0C88F993-6A52-4EC8-8887-C7B3E26FDCBD}" />
+    - ID: "a6eaffd5-fc3e-41b4-93b3-f1721fcf2300"
+      Hint: ContentPublishedDate
+      Value: 20140216T183000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahesh
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220215T092755Z
+  - Version: 2
+    Fields:
+    - ID: "228f9517-e120-4014-b2c7-df0ac467a349"
+      Hint: ContentTitle
+      Value: "AFL Expands Fiber Inspection Family with WiFi-based Solution"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211216T083422Z
+    - ID: "3688d7df-2feb-43a4-ab8d-410e5f70a676"
+      Hint: ContentDescription
+      Value: |
+        Lowell, MA and Spartanburg, SC – <a href="http://www.aflglobal.com/">AFL</a> introduced the newest member of its fiber inspection family, <a href="http://www.aflglobal.com/Products/Test-and-Inspection/Fiber-Optic-Inspection/FOCIS-WiFi-Fiber-Optic-Connector-Inspection-System.aspx">FOCIS WiFi</a>, at the BICSI Winter Conference and Photonics West in early February. The newest version of AFL’s industry-leading fiber inspection solution provides wireless connection of an inspection probe to a customer’s Android or IOS phone or tablet.<br />
+        <br />
+        Designed for the well-connected workforce, field installation and maintenance personnel can now view images, save and verify standards compliance using a free app on their own devices. AFL’s leading pass/fail analysis is now combined with the incredible processing power of a phone or tablet, providing a pass/fail indication in less than one second.<br />
+        <br />
+        “Demonstrations at BICSI and Photonics West were well-received. We showed FOCIS WiFi to customers who kept asking us to do it again,” said Lee Kellett, director of product marketing for AFL’s test and inspection division. “Field and maintenance personnel usually wait several seconds for inspection equipment to evaluate the connector against the standard and report pass or fail. With the new FOCIS WiFi, results appear in less than one second!”<br />
+        <br />
+        AFL introduced the <a href="http://www.aflglobal.com/Company/Company-Profile/News/2012/AFL-Introduces-New-FOCIS-Integrated-Fiber-Inspecti.aspx">FOCIS</a> system in 2012 and in early 2013 introduced <a href="http://www.aflglobal.com/Company/Company-Profile/News/2013/AFL-Introduces-NOYES-FOCIS-PRO-Fiber-Optic-Connect.aspx">FOCIS PRO</a>, a system which combines a palm-sized touch-screen tablet, DFD1 Digital FiberScope and AFL SimpleView PRO analysis software to provide the inspection and analysis power of current laptop and probe solutions. <br />
+        <br />
+        In late 2013, FOCIS PRO was recognized by the <a href="http://www.aflglobal.com/Company/Company-Profile/News/2013/AFL-Receives-Recognition-by-BTR-for-New-Products.aspx"><em>Broadband Technology Report</em> (BTR) Diamond Technology Reviews</a> (“the Diamonds”) awards program which recognizes top products and solutions available to the broadband-cable industry.<br />
+        <br />
+        For more information about AFL, its products and services, visit <a href="http://www.aflglobal.com/">www.AFLglobal.com</a>.<br />
+         <br />
+        About AFL<br />
+        AFL provides industry-leading products and services to the electric utility, broadband, communications, OEM, enterprise, wireless and transit rail markets as well as the emerging markets of oil and gas, mining, nuclear, avionics, medical, renewable and intelligent grid. The company’s diverse product portfolio includes fiber optic cable, transmission and substation accessories, outside plant equipment, connectors, fusion splicers, test equipment and training. AFL’s service portfolio includes market-leading positions with the foremost communications companies supporting inside plant central office, EF&I, outside plant, enterprise and wireless areas.<br />
+        <br />
+        Founded in 1984, AFL is proud to offer engineering expertise, exceptional products and reliable service that help our customers improve their critical and electrical infrastructure. AFL has operations in the U.S., Mexico, Europe, Asia and the South Pacific. The company is headquartered in Spartanburg, S.C., and is a wholly-owned subsidiary of Fujikura Ltd. of Japan. For more information, visit <a href="http://www.aflglobal.com/">www.AFLglobal.com</a>. <br />
+        <br />
+        Contacts<br />
+        Lee Kellett<br />
+        Director, Product Marketing, Test and Inspection<br />
+        AFL<br />
+        978.455.9211<br />
+        <a href="mailto:Lee.Kellett@AFLglobal.com">Lee.Kellett@AFLglobal.com</a><br />
+         <br />
+        Corie Culp<br />
+        PR Manager<br />
+        AFL<br />
+        864.433.5409<br />
+        <a href="mailto:Corie.Culp@AFLglobal.com">Corie.Culp@AFLglobal.com</a>
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: AFL Expands Fiber Inspection Family
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: AFL introduce the FOCIS WiFi, the newest member of its fiber inspection family.
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kushagra
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: AFL, FOCIS WiFi, test and inspection, fiber optics, BICSI Winter Conference and Expo, SPIE Photonics West, smartphone, wireless connection
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: AFL Expands Fiber Inspection Family
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: AFL Expands Fiber Inspection Family
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b5f984cf-e705-43f0-b027-363f11b25e7b"
+    - ID: "9dd4f0d9-c123-47a8-8cef-2c85cea172f6"
+      Hint: ContentImage
+      Value: |
+        <image mediaid="{0C88F993-6A52-4EC8-8887-C7B3E26FDCBD}" />
+    - ID: "a6eaffd5-fc3e-41b4-93b3-f1721fcf2300"
+      Hint: ContentPublishedDate
+      Value: 20140216T183000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T091312Z

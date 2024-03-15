@@ -1,0 +1,642 @@
+﻿---
+ID: "d14730c1-2002-4dfb-8a25-acc794913c4b"
+Parent: "a72c7f6d-5890-4a05-b047-5ee52938df6f"
+Template: "bf61de11-b78f-48ea-aaa4-1d17f0d83824"
+Path: "/sitecore/content/AFL-Global/AMERICAS/Home/Resources/Other Resources/iSupplier"
+SharedFields:
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{274C9F86-81B9-4FFC-87CA-8B19AB3A526D}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{DAE7C21D-4D3B-4257-A95C-9104CD8AF409}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 600
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20231102T124540Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{1A24FC12-1F8E-4214-921E-D355AA3E4DC5}"
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: iSupplier
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rob
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: We're excited to introduce you to AFL’s new iSupplier Portal. This platform will streamline communication and collaboration between suppliers and AFL. In this guide, we'll cover everything you need to know to get started and take full advantage of the portal. 
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <div class="container">
+        <a href="#resources" class="btn-primary">Resources</a>&nbsp;&nbsp;<a rel="noopener noreferrer" href="https://isupplier.aflglobal.com" class="btn-primary" target="_blank">iSupplier Portal Log In</a>
+        <h1><strong>Welcome to AFL&rsquo;s Oracle iSupplier Portal </strong></h1>
+        <p>We're excited to introduce you to AFL&rsquo;s new iSupplier Portal. This platform will streamline communication and collaboration between suppliers and AFL. On this site, we'll cover everything you need to know to get started and take full advantage of the portal.</p>
+        <!--
+        <h1><strong>Supplier Portal &ndash; Simplify Your  Supply Chain</strong></h1>
+        <p>Ready to take your supplier experience to the next level?  Log in now to manage your account and view orders with ease.</p>
+        -->
+        <h1><strong>Introduction to the Supplier Portal</strong></h1>
+        <p>At AFL, we value transparency in our supply chain. That's why we created the Supplier Portal &ndash; a platform that allows us to collaborate with our suppliers and share important information in real-time. With the Supplier Portal, you can easily manage and access purchase orders and supplier information. We believe that transparency is key to building strong, long-lasting relationships with our suppliers.</p>
+        <ul>
+            <li>Efficiency &ndash; the Supplier Portal streamlines your  business processes by providing access to important information in one place.</li>
+            <li>Enhanced Visibility &ndash; the Portal gives you the ability to  view and update purchase orders 24/7.</li>
+            <li>Accuracy &ndash; information is updated in real-time, reducing  the risk of errors and improving communication between you and AFL.</li>
+            <li>Time Savings &ndash; by minimizing manual processes, the  iSupplier Portal helps you save time.</li>
+        </ul>
+        <!--
+        <h1><strong>Instructions for Onboarding  to the iSupplier Portal</strong></h1>
+        <p><strong>Step 1 &ndash; Registration</strong><br />
+        We will send an invitation  from <a href="mailto:AFL.iSupplier@aflglobal.com">AFL.iSupplier@aflglobal.com</a> for you to register on the portal. Follow the link  and complete the registration form.</p>
+        <p><strong>Step 2 &ndash; Approval</strong><br />
+        Once you submit the form, we  will review your information and approve your account.</p>
+        <p><strong>Step 3 &ndash; Training</strong><br />
+        You will have access to  training within the landing page.</p>
+        -->
+        <strong><br clear="all" />
+        </strong>
+        <h1><strong>FAQs for the iSupplier Portal</strong></h1>
+        <table border="1" cellspacing="0" cellpadding="0">
+            <tbody>
+                <tr>
+                    <td valign="top" style="width: 222px;">
+                    <p><strong><em>What is the benefit    of using the iSupplier Portal?&nbsp; </em></strong></p>
+                    </td>
+                    <td valign="top" style="width: 401px;">
+                    <p>The portal streamlines communication and enhances collaboration    between suppliers and AFL, allowing for better business outcomes.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td valign="top" style="width: 222px;">
+                    <p><strong><em>Can the portal be    accessed from a mobile device?</em></strong></p>
+                    </td>
+                    <td valign="top" style="width: 401px;">
+                    <p>Yes, the portal is accessible from any device with an internet    connection.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td valign="top" style="width: 222px;">
+                    <p><strong><em>What type of training    is provided for the iSupplier Portal?</em></strong></p>
+                    </td>
+                    <td valign="top" style="width: 401px;">
+                    <p>We offer a range of training resources, including videos, and    documentation, to help you get the most out of the portal.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td valign="top" style="width: 222px;">
+                    <p><strong><em>Still have questions?</em></strong></p>
+                    </td>
+                    <td valign="top" style="width: 401px;">
+                    <p>Email us at <a href="mailto:AFL.iSupplier@aflglobal.com">AFL.iSupplier@aflglobal.com</a></p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <p>&nbsp;</p>
+        <a name="resources"></a>
+        <!--
+        <p>Exciting times lie ahead! As  AFL buyers, embracing the Oracle iSupplier Portal marks a milestone in our  procurement journey. Let's leverage this powerful tool to enhance procurement  processes, improve supplier relationships and drive business growth. Together,  we can achieve excellence!</p>
+        -->
+        <h1><strong>iSupplier Portal Resources</strong></h1>
+        <h2>Resource Documents</h2>
+        <div style="background-color: #efefef;">
+        <div class="row">
+        <div class="col-md-4">
+        <ul>
+            <li>
+            <h3><a rel="noopener noreferrer" href="https://afl-delivery.stylelabs.cloud/api/public/content/Standard-PO-Acknowledgement-Through-Invoicing_Supplier?v=13083491" target="_blank" title="Standard PO Acknowledgement Through Invoicing">Standard PO Acknowledgement Through Invoicing</a></h3>
+            </li>
+            <li>
+            <h3><a rel="noopener noreferrer" href="https://afl-delivery.stylelabs.cloud/api/public/content/Initial-PO-Acknowledgement_Supplier?v=dd3758f0" target="_blank" title="Initial PO Acknowledgement">Initial PO Acknowledgement</a></h3>
+            </li>
+            <li>
+            <h3><a rel="noopener noreferrer" href="https://afl-delivery.stylelabs.cloud/api/public/content/Approve-Reject-Changes_supplier?v=8a2f7028" target="_blank" title="Approve Reject Changes">Approve Reject Changes</a></h3>
+            </li>
+            <li>
+            <h3><a rel="noopener noreferrer" href="https://afl-delivery.stylelabs.cloud/api/public/content/Initial-Acknowledgement-Blanket-Agreement_Supplier?v=2f819227" target="_blank" title="Initial Acknowledgement Blanket Agreement">Initial Acknowledgement Blanket Agreement</a></h3>
+            </li>
+            <li>
+            <h3><a rel="noopener noreferrer" href="https://afl-delivery.stylelabs.cloud/api/public/content/Acknowledgement-Blanket-Releases_Supplier?v=c07edc3d" target="_blank" title="Acknowledgement Blanket Releases">Acknowledgement Blanket Releases</a></h3>
+            </li>
+        </ul>
+        </div>
+        <div class="col-md-4">
+        <ul>
+            <li>
+            <h3><a rel="noopener noreferrer" href="https://afl-delivery.stylelabs.cloud/api/public/content/Vendor-iSupplier-Registration-Setup_supplier?v=107d68ee" target="_blank" title="Registration &amp; Updating Supplier Information">Registration &amp; Updating Supplier Information</a></h3>
+            </li>
+            <li>
+            <h3><a rel="noopener noreferrer" href="https://afl-delivery.stylelabs.cloud/api/public/content/Split-PO-Quantity-Pre-Acknowledgement_Supplier?v=b8096094" target="_blank" title="Split PO Quantity Pre Acknowledgement">Split PO Quantity Pre Acknowledgement</a></h3>
+            </li>
+            <li>
+            <h3><a rel="noopener noreferrer" href="https://afl-delivery.stylelabs.cloud/api/public/content/Split-PO-Quantity-Post-Acknowledgement_Supplier?v=3e2b5ef4" target="_blank" title="Split PO Quantity Post Acknowledgement">Split PO Quantity Post Acknowledgement</a></h3>
+            </li>
+            <li>
+            <h3><a rel="noopener noreferrer" href="https://afl-delivery.stylelabs.cloud/api/public/content/ASN-Full-Quantity_Supplier?v=6c6924c1" target="_blank" title="ASN Full Quantity">ASN Full Quantity</a></h3>
+            </li>
+            <li>
+            <h3><a rel="noopener noreferrer" href="https://afl-delivery.stylelabs.cloud/api/public/content/ASN-Partial-Quantity_Supplier?v=49b8b39c" target="_blank" title="ASN Partial Quantity">ASN Partial Quantity</a></h3>
+            </li>
+        </ul>
+        </div>
+        <div class="col-md-4">
+        <ul>
+            <li>
+            <h3><a rel="noopener noreferrer" href="https://afl-delivery.stylelabs.cloud/api/public/content/ASN-Split-Quantity_Supplier?v=2ed0b764" target="_blank" title="ASN Split Quantity">ASN Split Quantity</a></h3>
+            </li>
+            <li>
+            <h3><a rel="noopener noreferrer" href="https://afl-delivery.stylelabs.cloud/api/public/content/Export-POs-to-Excel_Supplier?v=31d2342d" target="_blank" title="Export POs to Excel">Export POs to Excel</a></h3>
+            </li>
+            <li>
+            <h3><a rel="noopener noreferrer" href="https://afl-delivery.stylelabs.cloud/api/public/content/Supplier-Registration-Checklist?v=6984ba3e" target="_blank" title="Supplier-Registration Checklist">Supplier-Registration Checklist</a></h3>
+            </li>
+            <li>
+            <h3><a rel="noopener noreferrer" href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-Routing-Guide-Matrix.xlsm?v=64f335e2" target="_blank" title="North America Routing Guide">Routing Guide Matrix</a> (xlsm)</h3>
+            </li>
+            <li>
+            <h3><a rel="noopener noreferrer" href="https://afl-delivery.stylelabs.cloud/api/public/content/iSupplier-Portal-Policy?v=96ed18c5" target="_blank" title="iSupplier Portal Policy">iSupplier Portal Policy</a></h3>
+            </li>
+            <li>
+            <h3><a rel="noopener noreferrer" href="https://afl-delivery.stylelabs.cloud/api/public/content/Download-PDF-of-PO-number?v=2714980c" target="_blank" title="Download PDF of PO Number">Download a PDF of PO Number</a></h3>
+            </li>
+            <li>
+            <h3><a rel="noopener noreferrer" href="https://afl-delivery.stylelabs.cloud/api/public/content/INSS-017_Avoiding-Errors-When-Entering-Promise_New-Acknowledged-Ship-Dates?v=ccc5d38d" target="_blank" title="Avoiding Errors When Entering Promise &amp; New Acknowledged Ship Dates">Avoiding Errors When Entering Promise &amp; New Acknowledged Ship Dates</a></h3>
+            </li>
+            <li>
+            <h3><a rel="noopener noreferrer" href="https://afl-delivery.stylelabs.cloud/api/public/content/INSS-018_View-PO-Change-History?v=e67e28c0" target="_blank" title="View PO Change History">View PO Change History</a></h3>
+            </li>
+        </ul>
+        <br />
+        <br />
+        </div>
+        </div>
+        </div>
+        <p style="clear: both;">
+        </p>
+        <h2>Resource Videos</h2>
+        <div style="background-color: #efefef; padding: 15px;"><iframe width="325" height="183" src="https://www.youtube.com/embed/2DnU52TrYEw?si=0PKR1rkHdI1iMlP6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe>
+        &nbsp;&nbsp;<iframe width="325" height="183" src="https://www.youtube.com/embed/1dTL0zn-c08?si=D7UXKRxnCL5fQVde" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe>
+        &nbsp;&nbsp;<iframe width="325" height="183" src="https://www.youtube.com/embed/yxTt5KXPIq0?si=lyOEngVliDPVG5R0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe>
+        </div>
+        </div>
+        <style>
+            .afl-subPages a {
+            word-break: normal !important;
+            }
+        </style>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rob
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: |
+        
+        Oracle iSupplier portal supplier supply chain platform
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: Oracle iSupplier Portal. This platform will streamline communication and collaboration between suppliers and AFL.
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: Oracle iSupplier Portal. This platform will streamline communication and collaboration between suppliers and AFL.
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c3a321bb-dc4e-4701-a3a0-24ca1e5f622f"
+    - ID: "93dc88f3-05e5-482d-9b9a-c859c8258a73"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image stylelabs-content-id="173211" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/173211/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/72f7fcddb56b485dae42e4e723b876ce?v=b35c846c" mediaid="" stylelabs-content-type="Image" alt="Connect-header3.jpg" height="440" width="1140" />
+    - ID: "a40ebd3d-2b41-41fb-90f7-753544ce77c5"
+      Hint: Hero Title1
+      Value: Oracle iSupplier Portal
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\PhyllisT
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231218T153100Z
+    - ID: "dd0b26a2-9ca3-4573-b501-3b33a6efbc65"
+      Hint: Hero Title2
+      Value: 
+- Language: "es-MX"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20231106T142527Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{1A24FC12-1F8E-4214-921E-D355AA3E4DC5}"
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: iSupplier
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rob
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: We're excited to introduce you to AFL’s new iSupplier Portal. This platform will streamline communication and collaboration between suppliers and AFL. In this guide, we'll cover everything you need to know to get started and take full advantage of the portal. 
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <div class="container">
+        <a href="#resources" class="btn-primary">Resources</a>&nbsp;&nbsp;<a rel="noopener noreferrer" href="https://isupplier.aflglobal.com" class="btn-primary" target="_blank">iSupplier Portal Log In</a>
+        <h1><strong>Welcome to AFL&rsquo;s Oracle iSupplier Portal </strong></h1>
+        <p>We're excited to introduce you to AFL&rsquo;s new iSupplier Portal. This platform will streamline communication and collaboration between suppliers and AFL. On this site, we'll cover everything you need to know to get started and take full advantage of the portal.</p>
+        <!--
+        <h1><strong>Supplier Portal &ndash; Simplify Your  Supply Chain</strong></h1>
+        <p>Ready to take your supplier experience to the next level?  Log in now to manage your account and view orders with ease.</p>
+        -->
+        <h1><strong>Introduction to the Supplier Portal</strong></h1>
+        <p>At AFL, we value transparency in our supply chain. That's why we created the Supplier Portal &ndash; a platform that allows us to collaborate with our suppliers and share important information in real-time. With the Supplier Portal, you can easily manage and access purchase orders and supplier information. We believe that transparency is key to building strong, long-lasting relationships with our suppliers.</p>
+        <ul>
+            <li>Efficiency &ndash; the Supplier Portal streamlines your  business processes by providing access to important information in one place.</li>
+            <li>Enhanced Visibility &ndash; the Portal gives you the ability to  view and update purchase orders 24/7.</li>
+            <li>Accuracy &ndash; information is updated in real-time, reducing  the risk of errors and improving communication between you and AFL.</li>
+            <li>Time Savings &ndash; by minimizing manual processes, the  iSupplier Portal helps you save time.</li>
+        </ul>
+        <!--
+        <h1><strong>Instructions for Onboarding  to the iSupplier Portal</strong></h1>
+        <p><strong>Step 1 &ndash; Registration</strong><br />
+        We will send an invitation  from <a href="mailto:AFL.iSupplier@aflglobal.com">AFL.iSupplier@aflglobal.com</a> for you to register on the portal. Follow the link  and complete the registration form.</p>
+        <p><strong>Step 2 &ndash; Approval</strong><br />
+        Once you submit the form, we  will review your information and approve your account.</p>
+        <p><strong>Step 3 &ndash; Training</strong><br />
+        You will have access to  training within the landing page.</p>
+        -->
+        <strong><br clear="all" />
+        </strong>
+        <h1><strong>FAQs for the iSupplier Portal</strong></h1>
+        <table border="1" cellspacing="0" cellpadding="0">
+            <tbody>
+                <tr>
+                    <td valign="top" style="width: 222px;">
+                    <p><strong><em>What is the benefit    of using the iSupplier Portal?&nbsp; </em></strong></p>
+                    </td>
+                    <td valign="top" style="width: 401px;">
+                    <p>The portal streamlines communication and enhances collaboration    between suppliers and AFL, allowing for better business outcomes.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td valign="top" style="width: 222px;">
+                    <p><strong><em>Can the portal be    accessed from a mobile device?</em></strong></p>
+                    </td>
+                    <td valign="top" style="width: 401px;">
+                    <p>Yes, the portal is accessible from any device with an internet    connection.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td valign="top" style="width: 222px;">
+                    <p><strong><em>What type of training    is provided for the iSupplier Portal?</em></strong></p>
+                    </td>
+                    <td valign="top" style="width: 401px;">
+                    <p>We offer a range of training resources, including videos, and    documentation, to help you get the most out of the portal.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td valign="top" style="width: 222px;">
+                    <p><strong><em>Still have questions?</em></strong></p>
+                    </td>
+                    <td valign="top" style="width: 401px;">
+                    <p>Email us at <a href="mailto:AFL.iSupplier@aflglobal.com">AFL.iSupplier@aflglobal.com</a></p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <p>&nbsp;</p>
+        <a name="resources"></a>
+        <!--
+        <p>Exciting times lie ahead! As  AFL buyers, embracing the Oracle iSupplier Portal marks a milestone in our  procurement journey. Let's leverage this powerful tool to enhance procurement  processes, improve supplier relationships and drive business growth. Together,  we can achieve excellence!</p>
+        -->
+        <h1><strong>iSupplier Portal Resources</strong></h1>
+        <h2>Resource Documents</h2>
+        <div style="background-color: #efefef;">
+        <div class="row">
+        <div class="col-md-4">
+        <ul>
+            <li>
+            <h3><a rel="noopener noreferrer" href="https://afl-delivery.stylelabs.cloud/api/public/content/Create-Standard-PO-Through-Invoicing_Supplier?v=73d03c66" target="_blank" title="Create Standard PO Through Invoicing">Create Standard PO Through Invoicing</a></h3>
+            </li>
+            <li>
+            <h3><a rel="noopener noreferrer" href="https://afl-delivery.stylelabs.cloud/api/public/content/Initial-PO-Acknowledgement_Supplier?v=dd3758f0" target="_blank" title="Initial PO Acknowledgement">Initial PO Acknowledgement</a></h3>
+            </li>
+            <li>
+            <h3><a rel="noopener noreferrer" href="https://afl-delivery.stylelabs.cloud/api/public/content/Approve-Reject-Changes_supplier?v=8a2f7028" target="_blank" title="Approve Reject Changes">Approve Reject Changes</a></h3>
+            </li>
+            <li>
+            <h3><a rel="noopener noreferrer" href="https://afl-delivery.stylelabs.cloud/api/public/content/Initial-Acknowledgement-Blanket-Agreement_Supplier?v=2f819227" target="_blank" title="Initial Acknowledgement Blanket Agreement">Initial Acknowledgement Blanket Agreement</a></h3>
+            </li>
+            <li>
+            <h3><a rel="noopener noreferrer" href="https://afl-delivery.stylelabs.cloud/api/public/content/Acknowledgement-Blanket-Releases_Supplier?v=c07edc3d" target="_blank" title="Acknowledgement Blanket Releases">Acknowledgement Blanket Releases</a></h3>
+            </li>
+        </ul>
+        </div>
+        <div class="col-md-4">
+        <ul>
+            <li>
+            <h3><a rel="noopener noreferrer" href="https://afl-delivery.stylelabs.cloud/api/public/content/Vendor-iSupplier-Registration-Setup_supplier?v=107d68ee" target="_blank" title="Registration &amp; Updating Supplier Information">Registration &amp; Updating Supplier Information</a></h3>
+            </li>
+            <li>
+            <h3><a rel="noopener noreferrer" href="https://afl-delivery.stylelabs.cloud/api/public/content/Split-PO-Quantity-Pre-Acknowledgement_Supplier?v=b8096094" target="_blank" title="Split PO Quantity Pre Acknowledgement">Split PO Quantity Pre Acknowledgement</a></h3>
+            </li>
+            <li>
+            <h3><a rel="noopener noreferrer" href="https://afl-delivery.stylelabs.cloud/api/public/content/Split-PO-Quantity-Post-Acknowledgement_Supplier?v=3e2b5ef4" target="_blank" title="Split PO Quantity Post Acknowledgement">Split PO Quantity Post Acknowledgement</a></h3>
+            </li>
+            <li>
+            <h3><a rel="noopener noreferrer" href="https://afl-delivery.stylelabs.cloud/api/public/content/ASN-Full-Quantity_Supplier?v=6c6924c1" target="_blank" title="ASN Full Quantity">ASN Full Quantity</a></h3>
+            </li>
+            <li>
+            <h3><a rel="noopener noreferrer" href="https://afl-delivery.stylelabs.cloud/api/public/content/ASN-Partial-Quantity_Supplier?v=49b8b39c" target="_blank" title="ASN Partial Quantity">ASN Partial Quantity</a></h3>
+            </li>
+        </ul>
+        </div>
+        <div class="col-md-4">
+        <ul>
+            <li>
+            <h3><a rel="noopener noreferrer" href="https://afl-delivery.stylelabs.cloud/api/public/content/ASN-Split-Quantity_Supplier?v=2ed0b764" target="_blank" title="ASN Split Quantity">ASN Split Quantity</a></h3>
+            </li>
+            <li>
+            <h3><a rel="noopener noreferrer" href="https://afl-delivery.stylelabs.cloud/api/public/content/Export-POs-to-Excel_Supplier?v=31d2342d" target="_blank" title="Export POs to Excel">Export POs to Excel</a></h3>
+            </li>
+            <li>
+            <h3><a rel="noopener noreferrer" href="https://afl-delivery.stylelabs.cloud/api/public/content/Supplier-Registration-Checklist?v=6984ba3e" target="_blank" title="Supplier-Registration Checklist">Supplier-Registration Checklist</a></h3>
+            </li>
+            <li>
+            <h3><a rel="noopener noreferrer" href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-Routing-Guide-Matrix.xlsm?v=64f335e2" target="_blank" title="North America Routing Guide">Routing Guide Matrix</a> (xlsm)</h3>
+            </li>
+            <li>
+            <h3><a rel="noopener noreferrer" href="https://afl-delivery.stylelabs.cloud/api/public/content/iSupplier-Portal-Policy?v=96ed18c5" target="_blank" title="iSupplier Portal Policy">iSupplier Portal Policy</a></h3>
+            </li>
+        </ul>
+        <br />
+        <br />
+        </div>
+        </div>
+        </div>
+        <p style="clear: both;">
+        </p>
+        <h2>Resource Videos</h2>
+        <div style="background-color: #efefef; padding: 15px;"><iframe width="325" height="183" src="https://www.youtube.com/embed/2DnU52TrYEw?si=0PKR1rkHdI1iMlP6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe>
+        &nbsp;&nbsp;<iframe width="325" height="183" src="https://www.youtube.com/embed/1dTL0zn-c08?si=D7UXKRxnCL5fQVde" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe>
+        &nbsp;&nbsp;<iframe width="325" height="183" src="https://www.youtube.com/embed/yxTt5KXPIq0?si=lyOEngVliDPVG5R0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe>
+        </div>
+        </div>
+        <style>
+            .afl-subPages a {
+            word-break: normal !important;
+            }
+        </style>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rob
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: Oracle iSupplier portal supplier supply chain platform
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: Oracle iSupplier Portal
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: Oracle iSupplier Portal
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "08e5451a-d344-4f29-8ea2-2c66bf86ccf5"
+    - ID: "93dc88f3-05e5-482d-9b9a-c859c8258a73"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image stylelabs-content-id="173211" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/173211/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/72f7fcddb56b485dae42e4e723b876ce?v=b35c846c" mediaid="" stylelabs-content-type="Image" alt="Connect-header3.jpg" height="440" width="1140" />
+    - ID: "a40ebd3d-2b41-41fb-90f7-753544ce77c5"
+      Hint: Hero Title1
+      Value: Oracle iSupplier Portal
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T090830Z
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20231106T142347Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{1A24FC12-1F8E-4214-921E-D355AA3E4DC5}"
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: iSupplier
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rob
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: We're excited to introduce you to AFL’s new iSupplier Portal. This platform will streamline communication and collaboration between suppliers and AFL. In this guide, we'll cover everything you need to know to get started and take full advantage of the portal. 
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <div class="container">
+        <a href="#resources" class="btn-primary">Resources</a>&nbsp;&nbsp;<a rel="noopener noreferrer" href="https://isupplier.aflglobal.com" class="btn-primary" target="_blank">iSupplier Portal Log In</a>
+        <h1><strong>Welcome to AFL&rsquo;s Oracle iSupplier Portal </strong></h1>
+        <p>We're excited to introduce you to AFL&rsquo;s new iSupplier Portal. This platform will streamline communication and collaboration between suppliers and AFL. On this site, we'll cover everything you need to know to get started and take full advantage of the portal.</p>
+        <!--
+        <h1><strong>Supplier Portal &ndash; Simplify Your  Supply Chain</strong></h1>
+        <p>Ready to take your supplier experience to the next level?  Log in now to manage your account and view orders with ease.</p>
+        -->
+        <h1><strong>Introduction to the Supplier Portal</strong></h1>
+        <p>At AFL, we value transparency in our supply chain. That's why we created the Supplier Portal &ndash; a platform that allows us to collaborate with our suppliers and share important information in real-time. With the Supplier Portal, you can easily manage and access purchase orders and supplier information. We believe that transparency is key to building strong, long-lasting relationships with our suppliers.</p>
+        <ul>
+            <li>Efficiency &ndash; the Supplier Portal streamlines your  business processes by providing access to important information in one place.</li>
+            <li>Enhanced Visibility &ndash; the Portal gives you the ability to  view and update purchase orders 24/7.</li>
+            <li>Accuracy &ndash; information is updated in real-time, reducing  the risk of errors and improving communication between you and AFL.</li>
+            <li>Time Savings &ndash; by minimizing manual processes, the  iSupplier Portal helps you save time.</li>
+        </ul>
+        <!--
+        <h1><strong>Instructions for Onboarding  to the iSupplier Portal</strong></h1>
+        <p><strong>Step 1 &ndash; Registration</strong><br />
+        We will send an invitation  from <a href="mailto:AFL.iSupplier@aflglobal.com">AFL.iSupplier@aflglobal.com</a> for you to register on the portal. Follow the link  and complete the registration form.</p>
+        <p><strong>Step 2 &ndash; Approval</strong><br />
+        Once you submit the form, we  will review your information and approve your account.</p>
+        <p><strong>Step 3 &ndash; Training</strong><br />
+        You will have access to  training within the landing page.</p>
+        -->
+        <strong><br clear="all" />
+        </strong>
+        <h1><strong>FAQs for the iSupplier Portal</strong></h1>
+        <table border="1" cellspacing="0" cellpadding="0">
+            <tbody>
+                <tr>
+                    <td valign="top" style="width: 222px;">
+                    <p><strong><em>What is the benefit    of using the iSupplier Portal?&nbsp; </em></strong></p>
+                    </td>
+                    <td valign="top" style="width: 401px;">
+                    <p>The portal streamlines communication and enhances collaboration    between suppliers and AFL, allowing for better business outcomes.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td valign="top" style="width: 222px;">
+                    <p><strong><em>Can the portal be    accessed from a mobile device?</em></strong></p>
+                    </td>
+                    <td valign="top" style="width: 401px;">
+                    <p>Yes, the portal is accessible from any device with an internet    connection.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td valign="top" style="width: 222px;">
+                    <p><strong><em>What type of training    is provided for the iSupplier Portal?</em></strong></p>
+                    </td>
+                    <td valign="top" style="width: 401px;">
+                    <p>We offer a range of training resources, including videos, and    documentation, to help you get the most out of the portal.</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td valign="top" style="width: 222px;">
+                    <p><strong><em>Still have questions?</em></strong></p>
+                    </td>
+                    <td valign="top" style="width: 401px;">
+                    <p>Email us at <a href="mailto:AFL.iSupplier@aflglobal.com">AFL.iSupplier@aflglobal.com</a></p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <p>&nbsp;</p>
+        <a name="resources"></a>
+        <!--
+        <p>Exciting times lie ahead! As  AFL buyers, embracing the Oracle iSupplier Portal marks a milestone in our  procurement journey. Let's leverage this powerful tool to enhance procurement  processes, improve supplier relationships and drive business growth. Together,  we can achieve excellence!</p>
+        -->
+        <h1><strong>iSupplier Portal Resources</strong></h1>
+        <h2>Resource Documents</h2>
+        <div style="background-color: #efefef;">
+        <div class="row">
+        <div class="col-md-4">
+        <ul>
+            <li>
+            <h3><a rel="noopener noreferrer" href="https://afl-delivery.stylelabs.cloud/api/public/content/Create-Standard-PO-Through-Invoicing_Supplier?v=73d03c66" target="_blank" title="Create Standard PO Through Invoicing">Create Standard PO Through Invoicing</a></h3>
+            </li>
+            <li>
+            <h3><a rel="noopener noreferrer" href="https://afl-delivery.stylelabs.cloud/api/public/content/Initial-PO-Acknowledgement_Supplier?v=dd3758f0" target="_blank" title="Initial PO Acknowledgement">Initial PO Acknowledgement</a></h3>
+            </li>
+            <li>
+            <h3><a rel="noopener noreferrer" href="https://afl-delivery.stylelabs.cloud/api/public/content/Approve-Reject-Changes_supplier?v=8a2f7028" target="_blank" title="Approve Reject Changes">Approve Reject Changes</a></h3>
+            </li>
+            <li>
+            <h3><a rel="noopener noreferrer" href="https://afl-delivery.stylelabs.cloud/api/public/content/Initial-Acknowledgement-Blanket-Agreement_Supplier?v=2f819227" target="_blank" title="Initial Acknowledgement Blanket Agreement">Initial Acknowledgement Blanket Agreement</a></h3>
+            </li>
+            <li>
+            <h3><a rel="noopener noreferrer" href="https://afl-delivery.stylelabs.cloud/api/public/content/Acknowledgement-Blanket-Releases_Supplier?v=c07edc3d" target="_blank" title="Acknowledgement Blanket Releases">Acknowledgement Blanket Releases</a></h3>
+            </li>
+        </ul>
+        </div>
+        <div class="col-md-4">
+        <ul>
+            <li>
+            <h3><a rel="noopener noreferrer" href="https://afl-delivery.stylelabs.cloud/api/public/content/Vendor-iSupplier-Registration-Setup_supplier?v=107d68ee" target="_blank" title="Registration &amp; Updating Supplier Information">Registration &amp; Updating Supplier Information</a></h3>
+            </li>
+            <li>
+            <h3><a rel="noopener noreferrer" href="https://afl-delivery.stylelabs.cloud/api/public/content/Split-PO-Quantity-Pre-Acknowledgement_Supplier?v=b8096094" target="_blank" title="Split PO Quantity Pre Acknowledgement">Split PO Quantity Pre Acknowledgement</a></h3>
+            </li>
+            <li>
+            <h3><a rel="noopener noreferrer" href="https://afl-delivery.stylelabs.cloud/api/public/content/Split-PO-Quantity-Post-Acknowledgement_Supplier?v=3e2b5ef4" target="_blank" title="Split PO Quantity Post Acknowledgement">Split PO Quantity Post Acknowledgement</a></h3>
+            </li>
+            <li>
+            <h3><a rel="noopener noreferrer" href="https://afl-delivery.stylelabs.cloud/api/public/content/ASN-Full-Quantity_Supplier?v=6c6924c1" target="_blank" title="ASN Full Quantity">ASN Full Quantity</a></h3>
+            </li>
+            <li>
+            <h3><a rel="noopener noreferrer" href="https://afl-delivery.stylelabs.cloud/api/public/content/ASN-Partial-Quantity_Supplier?v=49b8b39c" target="_blank" title="ASN Partial Quantity">ASN Partial Quantity</a></h3>
+            </li>
+        </ul>
+        </div>
+        <div class="col-md-4">
+        <ul>
+            <li>
+            <h3><a rel="noopener noreferrer" href="https://afl-delivery.stylelabs.cloud/api/public/content/ASN-Split-Quantity_Supplier?v=2ed0b764" target="_blank" title="ASN Split Quantity">ASN Split Quantity</a></h3>
+            </li>
+            <li>
+            <h3><a rel="noopener noreferrer" href="https://afl-delivery.stylelabs.cloud/api/public/content/Export-POs-to-Excel_Supplier?v=31d2342d" target="_blank" title="Export POs to Excel">Export POs to Excel</a></h3>
+            </li>
+            <li>
+            <h3><a rel="noopener noreferrer" href="https://afl-delivery.stylelabs.cloud/api/public/content/Supplier-Registration-Checklist?v=6984ba3e" target="_blank" title="Supplier-Registration Checklist">Supplier-Registration Checklist</a></h3>
+            </li>
+            <li>
+            <h3><a rel="noopener noreferrer" href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-Routing-Guide-Matrix.xlsm?v=64f335e2" target="_blank" title="North America Routing Guide">Routing Guide Matrix</a> (xlsm)</h3>
+            </li>
+            <li>
+            <h3><a rel="noopener noreferrer" href="https://afl-delivery.stylelabs.cloud/api/public/content/iSupplier-Portal-Policy?v=96ed18c5" target="_blank" title="iSupplier Portal Policy">iSupplier Portal Policy</a></h3>
+            </li>
+        </ul>
+        <br />
+        <br />
+        </div>
+        </div>
+        </div>
+        <p style="clear: both;">
+        </p>
+        <h2>Resource Videos</h2>
+        <div style="background-color: #efefef; padding: 15px;"><iframe width="325" height="183" src="https://www.youtube.com/embed/2DnU52TrYEw?si=0PKR1rkHdI1iMlP6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe>
+        &nbsp;&nbsp;<iframe width="325" height="183" src="https://www.youtube.com/embed/1dTL0zn-c08?si=D7UXKRxnCL5fQVde" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe>
+        &nbsp;&nbsp;<iframe width="325" height="183" src="https://www.youtube.com/embed/yxTt5KXPIq0?si=lyOEngVliDPVG5R0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe>
+        </div>
+        </div>
+        <style>
+            .afl-subPages a {
+            word-break: normal !important;
+            }
+        </style>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rob
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: Oracle iSupplier portal supplier supply chain platform
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: Oracle iSupplier Portal
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: Oracle iSupplier Portal
+    - ID: "875fbf1e-8785-4128-9909-a0b2789e8b26"
+      Hint: FeaturedComponentHeading
+      Value: Oracle iSupplier Portal
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4b306a0e-0e77-4994-b762-88a170165ae1"
+    - ID: "93dc88f3-05e5-482d-9b9a-c859c8258a73"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image stylelabs-content-id="173211" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/173211/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/72f7fcddb56b485dae42e4e723b876ce?v=b35c846c" mediaid="" stylelabs-content-type="Image" alt="Connect-header3.jpg" height="440" width="1140" />
+    - ID: "a40ebd3d-2b41-41fb-90f7-753544ce77c5"
+      Hint: Hero Title1
+      Value: Oracle iSupplier Portal
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T090830Z

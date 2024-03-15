@@ -1,0 +1,259 @@
+﻿---
+ID: "c43b0742-7bbf-4385-808e-4ce41e329d45"
+Parent: "a6337d43-56ae-4785-bf9f-1390478e7211"
+Template: "f36e821e-bb98-44dc-966d-e92a0e033cc7"
+Path: "/sitecore/content/AFL-Global/AMERICAS/Home/Company/Company Profile/NewsArchive/2011/AFL Launches OFI 400HP for High Power Optical Netw"
+SharedFields:
+- ID: "1fbc6a49-6281-48ee-87e9-a3970b145adb"
+  Hint: NavigationFilter
+  Value: |
+    {E0A2A027-0932-4878-A7D6-0416D5263EFB}
+    {61BD64D6-809E-40AE-9297-2724A19329B3}
+    {D063E9D1-C7B5-4B1E-B31E-69886C9C59F5}
+    {500AE4C0-FA7B-463F-8149-EFFF7F044101}
+    {A0E7FF57-6994-4B09-AA21-104239628D5A}
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{3A84BAC9-C1BD-4809-A12C-28EB44E25329}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{DAE7C21D-4D3B-4257-A95C-9104CD8AF409}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "228f9517-e120-4014-b2c7-df0ac467a349"
+      Hint: ContentTitle
+      Value: "AFL Launches OFI-400HP for High Power Optical Networks"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211216T110834Z
+    - ID: "3688d7df-2feb-43a4-ab8d-410e5f70a676"
+      Hint: ContentDescription
+      Value: |
+        <p>Spartanburg, SC and Lowell, MA<br />
+        AFL is introducing the NOYES® OFI-400HP, an Optical Fiber Identifier designed to simplify installation, maintenance, rerouting or restoration tasks in high power optical networks. The OFI-400HP includes traffic and tone detection and low insertion loss that permits technicians to positively identify fibers without disrupting services. It also incorporates an optical power meter designed for use where power levels up to +33 dBm are present. Whenever power levels above +23 dBm are detected, the OFI-400HP warns users of the potential eye hazard and fiber damage associated with disconnecting, cutting or breaking the optical circuit.</p>
+        <p>"The OFI-400HP is ideal for use in Long-haul, Metro core and Metro access networks carrying CWDM, DWDM, analog video or other high power signals," explains Ganesh Nakhawa, Product Line Manager at AFL's Test and Inspection Division. "It is the only OFI on the market capable of measuring the high power levels present in these systems and the only OFI that warns users of the potential safety hazards associated with these networks."</p>
+        <p>In addition to the new OFI-400HP, AFL also offers the OFI-400, which is optimized for use with bare, buffered, ribbon and jacketed fiber and the OFI-400C, optimized for jacketed fiber. All versions feature our unique optical head that eliminates the need for the array of fiber adapters required by other OFI's.</p>
+        <p>The OFI-400HP is designed for the rigors of day-to-day field use. It features rugged construction and includes built-in automatic self-test capability. Its compact size is easy to use in crowded fiber trays, racks and conduits.</p>
+        <p>For additional information on AFL and NOYES test and inspection equipment, visit www.AFLglobal.com.</p>
+        <p>About AFL<br />
+        AFL provides industry-leading products and services to the electric utility, broadband, communications, OEM, enterprise, wireless and transit rail markets as well as the emerging markets of oil and gas, mining, nuclear, avionics, medical, renewable and intelligent grid. The company's diverse product portfolio includes fiber optic cable, transmission and substation accessories, outside plant equipment, connectors, fusion splicers, test equipment and training. AFL's service portfolio includes market-leading positions with the foremost communications companies supporting both the central office and outside plant areas.</p>
+        <p>Founded in 1984, AFL is proud to offer engineering expertise, exceptional products and reliable service that help our customers improve their critical and electrical infrastructure. AFL has operations in the U.S., Mexico, Europe and Asia. The company is headquartered in Spartanburg, SC, and is a wholly-owned subsidiary of Fujikura Ltd. of Japan. For more information, visit www.AFLglobal.com.</p>
+        <p>Contact</p>
+        <p>Bill Thompson<br />
+        Marketing Director, Test and Inspection Division<br />
+        Tel: 978-455-9211<br />
+        Bill.Thompson@AFLglobal.com</p>
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: AFL Launches OFI 400HP for High Power Optical Netw
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kushagra
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kushagra
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: AFL Launches OFI 400HP for High Power Optical Netw
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: AFL Launches OFI 400HP for High Power Optical Netw
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "98a7ccd1-b956-4000-a45f-abfa196eac54"
+    - ID: "a6eaffd5-fc3e-41b4-93b3-f1721fcf2300"
+      Hint: ContentPublishedDate
+      Value: 20111130T183000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T091209Z
+- Language: "es-MX"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "228f9517-e120-4014-b2c7-df0ac467a349"
+      Hint: ContentTitle
+      Value: "AFL Launches OFI-400HP for High Power Optical Networks"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211216T110834Z
+    - ID: "3688d7df-2feb-43a4-ab8d-410e5f70a676"
+      Hint: ContentDescription
+      Value: |
+        <p>Spartanburg, SC and Lowell, MA<br />
+        AFL is introducing the NOYES® OFI-400HP, an Optical Fiber Identifier designed to simplify installation, maintenance, rerouting or restoration tasks in high power optical networks. The OFI-400HP includes traffic and tone detection and low insertion loss that permits technicians to positively identify fibers without disrupting services. It also incorporates an optical power meter designed for use where power levels up to +33 dBm are present. Whenever power levels above +23 dBm are detected, the OFI-400HP warns users of the potential eye hazard and fiber damage associated with disconnecting, cutting or breaking the optical circuit.</p>
+        <p>"The OFI-400HP is ideal for use in Long-haul, Metro core and Metro access networks carrying CWDM, DWDM, analog video or other high power signals," explains Ganesh Nakhawa, Product Line Manager at AFL's Test and Inspection Division. "It is the only OFI on the market capable of measuring the high power levels present in these systems and the only OFI that warns users of the potential safety hazards associated with these networks."</p>
+        <p>In addition to the new OFI-400HP, AFL also offers the OFI-400, which is optimized for use with bare, buffered, ribbon and jacketed fiber and the OFI-400C, optimized for jacketed fiber. All versions feature our unique optical head that eliminates the need for the array of fiber adapters required by other OFI's.</p>
+        <p>The OFI-400HP is designed for the rigors of day-to-day field use. It features rugged construction and includes built-in automatic self-test capability. Its compact size is easy to use in crowded fiber trays, racks and conduits.</p>
+        <p>For additional information on AFL and NOYES test and inspection equipment, visit www.AFLglobal.com.</p>
+        <p>About AFL<br />
+        AFL provides industry-leading products and services to the electric utility, broadband, communications, OEM, enterprise, wireless and transit rail markets as well as the emerging markets of oil and gas, mining, nuclear, avionics, medical, renewable and intelligent grid. The company's diverse product portfolio includes fiber optic cable, transmission and substation accessories, outside plant equipment, connectors, fusion splicers, test equipment and training. AFL's service portfolio includes market-leading positions with the foremost communications companies supporting both the central office and outside plant areas.</p>
+        <p>Founded in 1984, AFL is proud to offer engineering expertise, exceptional products and reliable service that help our customers improve their critical and electrical infrastructure. AFL has operations in the U.S., Mexico, Europe and Asia. The company is headquartered in Spartanburg, SC, and is a wholly-owned subsidiary of Fujikura Ltd. of Japan. For more information, visit www.AFLglobal.com.</p>
+        <p>Contact</p>
+        <p>Bill Thompson<br />
+        Marketing Director, Test and Inspection Division<br />
+        Tel: 978-455-9211<br />
+        Bill.Thompson@AFLglobal.com</p>
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: AFL Launches OFI 400HP for High Power Optical Netw
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kushagra
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: AFL Launches OFI 400HP for High Power Optical Netw
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: AFL Launches OFI 400HP for High Power Optical Netw
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "916b54f8-700b-40b7-96a1-f1756fd29a9a"
+    - ID: "a6eaffd5-fc3e-41b4-93b3-f1721fcf2300"
+      Hint: ContentPublishedDate
+      Value: 20111130T183000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T091209Z
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "228f9517-e120-4014-b2c7-df0ac467a349"
+      Hint: ContentTitle
+      Value: "AFL Launches OFI-400HP for High Power Optical Networks"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211216T110834Z
+    - ID: "3688d7df-2feb-43a4-ab8d-410e5f70a676"
+      Hint: ContentDescription
+      Value: |
+        <p>Spartanburg, SC and Lowell, MA<br />
+        AFL is introducing the NOYES&reg; OFI-400HP, an Optical Fiber Identifier designed to simplify installation, maintenance, rerouting or restoration tasks in high power optical networks. The OFI-400HP includes traffic and tone detection and low insertion loss that permits technicians to positively identify fibers without disrupting services. It also incorporates an optical power meter designed for use where power levels up to +33 dBm are present. Whenever power levels above +23 dBm are detected, the OFI-400HP warns users of the potential eye hazard and fiber damage associated with disconnecting, cutting or breaking the optical circuit.</p>
+        <p>"The OFI-400HP is ideal for use in Long-haul, Metro core and Metro access networks carrying CWDM, DWDM, analog video or other high power signals," explains Ganesh Nakhawa, Product Line Manager at AFL's Test and Inspection Division. "It is the only OFI on the market capable of measuring the high power levels present in these systems and the only OFI that warns users of the potential safety hazards associated with these networks."</p>
+        <p>In addition to the new OFI-400HP, AFL also offers the OFI-400, which is optimized for use with bare, buffered, ribbon and jacketed fiber and the OFI-400C, optimized for jacketed fiber. All versions feature our unique optical head that eliminates the need for the array of fiber adapters required by other OFI's.</p>
+        <p>The OFI-400HP is designed for the rigors of day-to-day field use. It features rugged construction and includes built-in automatic self-test capability. Its compact size is easy to use in crowded fiber trays, racks and conduits.</p>
+        <p>For additional information on AFL and NOYES test and inspection equipment, visit www.AFLglobal.com.</p>
+        <p>About AFL<br />
+        AFL provides industry-leading products and services to the electric utility, broadband, communications, OEM, enterprise, wireless and transit rail markets as well as the emerging markets of oil and gas, mining, nuclear, avionics, medical, renewable and intelligent grid. The company's diverse product portfolio includes fiber optic cable, transmission and substation accessories, outside plant equipment, connectors, fusion splicers, test equipment and training. AFL's service portfolio includes market-leading positions with the foremost communications companies supporting both the central office and outside plant areas.</p>
+        <p>Founded in 1984, AFL is proud to offer engineering expertise, exceptional products and reliable service that help our customers improve their critical and electrical infrastructure. AFL has operations in the U.S., Mexico, Europe and Asia. The company is headquartered in Spartanburg, SC, and is a wholly-owned subsidiary of Fujikura Ltd. of Japan. For more information, visit www.AFLglobal.com.</p>
+        <p>Contact</p>
+        <p>Bill Thompson<br />
+        Marketing Director, Test and Inspection Division<br />
+        Tel: 978-455-9211<br />
+        Bill.Thompson@AFLglobal.com</p>
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: AFL Launches OFI 400HP for High Power Optical Netw
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kushagra
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: AFL Launches OFI 400HP for High Power Optical Netw
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1ce5cc1a-0f8c-45b1-9356-7b21218cb020"
+    - ID: "a6eaffd5-fc3e-41b4-93b3-f1721fcf2300"
+      Hint: ContentPublishedDate
+      Value: 20111130T183000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahesh
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220215T092551Z
+  - Version: 2
+    Fields:
+    - ID: "228f9517-e120-4014-b2c7-df0ac467a349"
+      Hint: ContentTitle
+      Value: "AFL Launches OFI-400HP for High Power Optical Networks"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211216T110834Z
+    - ID: "3688d7df-2feb-43a4-ab8d-410e5f70a676"
+      Hint: ContentDescription
+      Value: |
+        <p>Spartanburg, SC and Lowell, MA<br />
+        AFL is introducing the NOYES® OFI-400HP, an Optical Fiber Identifier designed to simplify installation, maintenance, rerouting or restoration tasks in high power optical networks. The OFI-400HP includes traffic and tone detection and low insertion loss that permits technicians to positively identify fibers without disrupting services. It also incorporates an optical power meter designed for use where power levels up to +33 dBm are present. Whenever power levels above +23 dBm are detected, the OFI-400HP warns users of the potential eye hazard and fiber damage associated with disconnecting, cutting or breaking the optical circuit.</p>
+        <p>"The OFI-400HP is ideal for use in Long-haul, Metro core and Metro access networks carrying CWDM, DWDM, analog video or other high power signals," explains Ganesh Nakhawa, Product Line Manager at AFL's Test and Inspection Division. "It is the only OFI on the market capable of measuring the high power levels present in these systems and the only OFI that warns users of the potential safety hazards associated with these networks."</p>
+        <p>In addition to the new OFI-400HP, AFL also offers the OFI-400, which is optimized for use with bare, buffered, ribbon and jacketed fiber and the OFI-400C, optimized for jacketed fiber. All versions feature our unique optical head that eliminates the need for the array of fiber adapters required by other OFI's.</p>
+        <p>The OFI-400HP is designed for the rigors of day-to-day field use. It features rugged construction and includes built-in automatic self-test capability. Its compact size is easy to use in crowded fiber trays, racks and conduits.</p>
+        <p>For additional information on AFL and NOYES test and inspection equipment, visit www.AFLglobal.com.</p>
+        <p>About AFL<br />
+        AFL provides industry-leading products and services to the electric utility, broadband, communications, OEM, enterprise, wireless and transit rail markets as well as the emerging markets of oil and gas, mining, nuclear, avionics, medical, renewable and intelligent grid. The company's diverse product portfolio includes fiber optic cable, transmission and substation accessories, outside plant equipment, connectors, fusion splicers, test equipment and training. AFL's service portfolio includes market-leading positions with the foremost communications companies supporting both the central office and outside plant areas.</p>
+        <p>Founded in 1984, AFL is proud to offer engineering expertise, exceptional products and reliable service that help our customers improve their critical and electrical infrastructure. AFL has operations in the U.S., Mexico, Europe and Asia. The company is headquartered in Spartanburg, SC, and is a wholly-owned subsidiary of Fujikura Ltd. of Japan. For more information, visit www.AFLglobal.com.</p>
+        <p>Contact</p>
+        <p>Bill Thompson<br />
+        Marketing Director, Test and Inspection Division<br />
+        Tel: 978-455-9211<br />
+        Bill.Thompson@AFLglobal.com</p>
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: AFL Launches OFI 400HP for High Power Optical Netw
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kushagra
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: AFL Launches OFI 400HP for High Power Optical Netw
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: AFL Launches OFI 400HP for High Power Optical Netw
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ca14bf44-4282-4b98-93ba-e30cf1989f58"
+    - ID: "a6eaffd5-fc3e-41b4-93b3-f1721fcf2300"
+      Hint: ContentPublishedDate
+      Value: 20111130T183000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T091209Z

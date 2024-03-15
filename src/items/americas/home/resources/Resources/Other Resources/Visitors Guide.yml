@@ -1,0 +1,473 @@
+﻿---
+ID: "91c83c79-8a0c-4fdc-80c5-8ac95af98403"
+Parent: "a72c7f6d-5890-4a05-b047-5ee52938df6f"
+Template: "bf61de11-b78f-48ea-aaa4-1d17f0d83824"
+Path: "/sitecore/content/AFL-Global/AMERICAS/Home/Resources/Other Resources/Visitors Guide"
+SharedFields:
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{26C17268-CE00-4500-8B13-7152F3648637}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{DAE7C21D-4D3B-4257-A95C-9104CD8AF409}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 500
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{C4E820E0-6DC5-4816-AA4A-7B8EE986FCA3}"
+              p:before="*"
+              s:ds="query:self::"
+              s:id="{6F646C2F-8611-4D9A-ACCC-847F6A2F2520}"
+              s:par="Reset Caching Options&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames=%7B05E287C9-F37D-4FB7-B999-E32EAF5E80A6%7D&amp;Styles=%7BBCA4BC05-3D3B-4BFE-9DB0-1B287AC3B77B%7D&amp;RenderingIdentifier&amp;DynamicPlaceholderId=1"
+              s:ph="/main/container-4"
+              s:ccb="Clear on publish" />
+            <r
+              uid="{5B3A3DA3-B61D-438E-B2DE-B95F6C1C2392}"
+              p:after="r[@uid='{C4E820E0-6DC5-4816-AA4A-7B8EE986FCA3}']"
+              s:ds=""
+              s:id="{896A2C68-1362-4E88-8BA0-1805AE6D4837}"
+              s:par="Reset Caching Options&amp;GridParameters&amp;BackgroundImage&amp;Styles=%7B7220A741-0BCB-47E8-BBDE-2553AE2407CB%7D&amp;RenderingIdentifier&amp;DynamicPlaceholderId=4"
+              s:ph="main"
+              s:ccb="Clear on publish" />
+            <r
+              uid="{387DF70C-DF36-4ED1-A5CF-BDB30632E13E}"
+              p:after="r[@uid='{5B3A3DA3-B61D-438E-B2DE-B95F6C1C2392}']"
+              s:ds="query:self::"
+              s:id="{6162223D-9EAA-490C-A628-DA2A76933DD4}"
+              s:par="Reset Caching Options&amp;GridParameters&amp;FieldNames=%7BF1EADE4E-8A96-4763-B011-700B7D94E9BF%7D&amp;Styles=%7B2E3486EE-FDA0-43C2-AFE0-16C0C29C29BF%7D%7C%7B97AA508A-1055-49DC-AF11-AB8153C3919F%7D%7C%7B1A3163C3-C552-4BFA-ADC9-C7B3A0DC5BF4%7D%7C%7B592CA5BE-A535-4EE9-A79A-775A8659B0E5%7D&amp;RenderingIdentifier&amp;DynamicPlaceholderId=3"
+              s:ph="main"
+              s:ccb="Clear on publish" />
+            <r
+              uid="{E287A817-EB8C-4279-BB79-14F3B02A4440}"
+              p:after="*[1=2]"
+              s:id="{896A2C68-1362-4E88-8BA0-1805AE6D4837}"
+              s:par="Reset Caching Options&amp;GridParameters&amp;BackgroundImage&amp;Styles&amp;CacheClearingBehavior=Clear%20on%20publish&amp;RenderingIdentifier&amp;DynamicPlaceholderId=5"
+              s:ph="main" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220124T131737Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Visitor's Guide
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: "Planning to visit AFL? Our Visitor's Guide below contains a lot of information to help you make the most of your visit here."
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <h1>Visitor's Guide</h1>
+        <p>Planning to visit AFL? Download our Visitor's Guide below. It contains a lot of information to help you make the most of your visit here.</p>
+        <div style="text-align: center;">
+        	<a href="https://afl-delivery.stylelabs.cloud/api/public/content/Visitors-Guide.pdf?v=9c8b6dd7" target="_blank"><img src="https://afl-delivery.stylelabs.cloud/api/public/content/VisitorsGuide?v=b0a4bf09" style="border-width: 0px; border-style: solid;" /></a></div>
+        <p>
+        	<br />
+        	 </p>
+        <!--<h1>
+        	AFL Visitors Form</h1>
+        Let us know some information about you and we'll be ready for your visit. Complete the form below and we'll contact you shortly. <br />-->
+        <br />
+        <br />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mahesh
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: visitors guide AFL trip planning visit
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: "Planning to visit AFL? Download our Visitor's Guide."
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: "Planning to visit AFL? Download our Visitor's Guide."
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ed504c28-e45a-489a-98b8-f46518d49066"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240229T085531Z
+- Language: "es-MX"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220124T131737Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Kit de prensa
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: The Press Kit offers logos catalogs QRG
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <h1>Press Kit</h1>
+        <h2>About AFL</h2>
+        <div>Founded in 1984, AFL is an international manufacturer providing end-to-end solutions to the energy, service provider, enterprise, hyperscale and industrial markets. The company’s products are in use in over 130 countries and include fiber optic cable and hardware, transmission and substation accessories, outside plant equipment, connectivity, test and inspection equipment, fusion splicers and training. AFL also offers a wide variety of services supporting data center, enterprise, wireless and outside plant applications.<br />
+        <br />
+        Headquartered in Spartanburg, SC, AFL has operations in the U.S., Mexico, Canada, Europe, Asia and Australia, and is a wholly owned subsidiary of Fujikura Ltd. of Japan. For more information, visit <a href=" /Home.aspx">www.AFLglobal.com</a>. Follow us on <a href="https://www.linkedin.com/company/afl-2">LinkedIn</a>, <a href="https://twitter.com/AFLglobal">Twitter</a>, <a href="https://www.facebook.com/AFLcorp">Facebook</a>, and read our <a href=" /AFL-Blog.aspx">blog</a>. </div>
+        <p> </p>
+        <h2>Additional Information</h2>
+        <p>AFL has a rich <a href=" /Company/Company-Profile/AFL-History.aspx">history </a>in the fiber optic industry, dating back to its founding in 1984. Learn more by viewing our <a href=" /Company/Company-Profile/AFL-Timeline.aspx">timeline</a>.<br />
+         <br />
+        Since its founding, AFL’s culture has been molded around customers and communities. Visit <a href=" /Company/Company-Profile/AFL-Culture.aspx">AFL Culture</a> to learn how our associates are making a difference. <br />
+         <br />
+        Want to know how AFL is helping communities around the world? Then visit AFL’s <a href=" /Company/Community.aspx">Community Outreach Program</a> and learn about our grants, engagement programs, environmental efforts and more.<br />
+         <br />
+        Great leadership is a critical part of AFL’s success because our leaders never fail to support our associates, customers and culture. Learn more by viewing our <br />
+        <a href=" /Company/Company-Profile/Leadership-Team.aspx">Leadership Team</a>.<br />
+         </p>
+        <h2>Media Resources</h2>
+        <h2>Logos</h2>
+        <p>Only those authorized by AFL, including distribution partners and agents are allowed to use the AFL logo. If you have any questions about <a rel="noopener noreferrer" href=" /productionFiles/resources/Logos/AFL_Brand-Guide.aspx" target="_blank">how to properly use the AFL logo</a> or are having difficulty finding the proper format, please contact the AFL Marketing Communications Group at: <a href="mailto:Marketing@AFLglobal.com">Marketing@AFLglobal.com</a>.</p>
+        <div>
+        <div><img alt="" src="https://afl-delivery.stylelabs.cloud/api/public/content/addd948dff81461992589ac9fa2d39da?v=19a22e22" /><br />
+        <span><a rel="noopener noreferrer" href=" /productionFiles/resources/Logos/AFL-logo-180x70-rgb-(1).aspx" target="_blank">180x70 PIXELS RGB GIF</a><br />
+        <a rel="noopener noreferrer" href=" /productionFiles/resources/Logos/AFL-logo-180x70-rgb.aspx" target="_blank">180x70 PIXELS RGB JPG</a><br />
+        <a rel="noopener noreferrer" href=" /productionFiles/resources/Logos/AFL-logo-1800x700-cmyk.aspx" target="_blank">1800x700 PIXELS CMYK JPG</a></span></div>
+        <div><img alt="" src="https://afl-delivery.stylelabs.cloud/api/public/content/b5b71870f7bd4dcc848939e36e75b0d4?v=4f2cc601" /><br />
+        <span><a rel="noopener noreferrer" href=" /productionFiles/resources/Logos/AFL-logo-180x70-blk-(1).aspx" target="_blank">180x70 PIXELS RGB GIF</a><br />
+        <a rel="noopener noreferrer" href=" /productionFiles/resources/Logos/AFL-logo-180x70-blk.aspx" target="_blank">180x70 PIXELS RGB JPG</a><br />
+        <a rel="noopener noreferrer" href=" /productionFiles/resources/Logos/AFL-logo-1800x700-blk.aspx" target="_blank">1800x700 PIXELS CMYK JPG</a></span></div>
+        </div>
+        <hr />
+        <div>
+        <h2>Catalogs and Quick Reference Guides</h2>
+        <div>
+        <div><a href="/Home/Resources/Product Related Materials/Catalogs"><img alt="" src=" https://afl-delivery.stylelabs.cloud/api/public/content/1c3c3fe2deff42e6bce6aab03285b60f?v=3f76f309" /><br />
+        <span>VIEW CATALOGS</span></a></div>
+        <div><a href="/Home/Resources/Product Related Materials/Quick-Reference-Guides"><img alt="" src="https://afl-delivery.stylelabs.cloud/api/public/content/6f7e8635f550470eb59af66cd5b5209d?v=e766ed63" /><br />
+        <span>VIEW QRGs</span></a></div>
+        </div>
+        </div>
+        <hr />
+        <div>
+        <h2>Corporate Literature</h2>
+        <div>
+        <div><a href=" /productionFiles/resources/Company/AFL-Corporate-Brochure.aspx" target="_blank"><img alt="" src=" https://afl-delivery.stylelabs.cloud/api/public/content/5ad6ff71c88c443eb2d6b5ed322337b1?v=88027f0e" /><br />
+        <span>CORPORATE BROCHURE</span></a></div>
+        <div><a href=" /productionFiles/resources/Community/Community_Outreach_2020_lowres.aspx"><img alt="Download AFL&#39;s Community Brochure" src=" https://afl-delivery.stylelabs.cloud/api/public/content/fa574471259c46eabe998c086ef2d8f4?v=029ce7f5" /><br />
+        <span>COMMUNITY OUTREACH BROCHURE</span></a></div>
+        </div>
+        </div>
+        <hr />
+        <h2>Company Video Overview</h2>
+        <p><iframe frameborder="0" height="315" src="https://www.youtube.com/embed/RkJ-9nA04rQ?rel=0" width="560" id="yt-4afdd8e6-1c38-46a0-83ce-80c1a83d9311"></iframe></p>
+        <h2>AFL in 60 Seconds</h2>
+        <p><iframe frameborder="0" height="315" src="https://www.youtube.com/embed/r4KHwRQKk3k?rel=0" width="560" id="yt-b29a0fc7-76ee-4477-b519-767b4ba854fd"></iframe></p>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mahesh
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: AFL Press Ki logos catalogs quick reference guides
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: Kit de prensa
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: Kit de prensa
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "35ff1be7-542b-45fd-871f-2770f8692035"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T090829Z
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220124T131737Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Press Kit
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: The Press Kit offers logos catalogs QRG
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <h1>Press Kit</h1>
+        <h2>About AFL</h2>
+        <div>Founded in 1984, AFL is an international manufacturer providing end-to-end solutions to the energy, service provider, enterprise, hyperscale and industrial markets. The company&rsquo;s products are in use in over 130 countries and include fiber optic cable and hardware, transmission and substation accessories, outside plant equipment, connectivity, test and inspection equipment, fusion splicers and training. AFL also offers a wide variety of services supporting data center, enterprise, wireless and outside plant applications.<br />
+        <br />
+        Headquartered in Spartanburg, SC, AFL has operations in the U.S., Mexico, Canada, Europe, Asia and Australia, and is a wholly owned subsidiary of Fujikura Ltd. of Japan. For more information, visit&nbsp;<a href=" /Home.aspx">www.AFLglobal.com</a>. Follow us on&nbsp;<a href="https://www.linkedin.com/company/afl-2">LinkedIn</a>,&nbsp;<a href="https://twitter.com/AFLglobal">Twitter</a>,&nbsp;<a href="https://www.facebook.com/AFLcorp">Facebook</a>, and read our&nbsp;<a href=" /AFL-Blog.aspx">blog</a>.&nbsp;</div>
+        <p>&nbsp;</p>
+        <h2>Additional Information</h2>
+        <p>AFL has a rich&nbsp;<a href=" /Company/Company-Profile/AFL-History.aspx">history&nbsp;</a>in the fiber optic industry, dating back to its founding in 1984. Learn more by viewing our&nbsp;<a href=" /Company/Company-Profile/AFL-Timeline.aspx">timeline</a>.<br />
+        &nbsp;<br />
+        Since its founding, AFL&rsquo;s culture has been molded around customers and communities. Visit&nbsp;<a href=" /Company/Company-Profile/AFL-Culture.aspx">AFL Culture</a>&nbsp;to learn how our associates are making a difference.&nbsp;<br />
+        &nbsp;<br />
+        Want to know how AFL is helping communities around the world? Then visit AFL&rsquo;s&nbsp;<a href=" /Company/Community.aspx">Community Outreach Program</a>&nbsp;and learn about our grants, engagement programs, environmental efforts and more.<br />
+        &nbsp;<br />
+        Great leadership is a critical part of AFL&rsquo;s success because our leaders never fail to support our associates, customers and culture. Learn more by viewing our&nbsp;<br />
+        <a href=" /Company/Company-Profile/Leadership-Team.aspx">Leadership Team</a>.<br />
+        &nbsp;</p>
+        <h2>Media Resources</h2>
+        <h2>Logos</h2>
+        <p>Only those authorized by AFL, including distribution partners and agents are allowed to use the AFL logo.&nbsp;If you have any questions about&nbsp;<a rel="noopener noreferrer" href=" /productionFiles/resources/Logos/AFL_Brand-Guide.aspx" target="_blank">how to properly use the AFL logo</a>&nbsp;or are having difficulty finding&nbsp;the proper format, please contact the AFL Marketing Communications Group at:&nbsp;<a href="mailto:Marketing@AFLglobal.com">Marketing@AFLglobal.com</a>.</p>
+        <div>
+        <div><img alt="" src=" /productionFiles/resources/Logos/AFL-logo-180x70-rgb.aspx" /><br />
+        <span><a rel="noopener noreferrer" href=" /productionFiles/resources/Logos/AFL-logo-180x70-rgb-(1).aspx" target="_blank">180x70 PIXELS RGB GIF</a><br />
+        <a rel="noopener noreferrer" href=" /productionFiles/resources/Logos/AFL-logo-180x70-rgb.aspx" target="_blank">180x70 PIXELS RGB JPG</a><br />
+        <a rel="noopener noreferrer" href=" /productionFiles/resources/Logos/AFL-logo-1800x700-cmyk.aspx" target="_blank">1800x700 PIXELS CMYK JPG</a></span></div>
+        <div><img alt="" src=" /productionFiles/resources/Logos/AFL-logo-180x70-blk.aspx" /><br />
+        <span><a rel="noopener noreferrer" href=" /productionFiles/resources/Logos/AFL-logo-180x70-blk-(1).aspx" target="_blank">180x70 PIXELS RGB GIF</a><br />
+        <a rel="noopener noreferrer" href=" /productionFiles/resources/Logos/AFL-logo-180x70-blk.aspx" target="_blank">180x70 PIXELS RGB JPG</a><br />
+        <a rel="noopener noreferrer" href=" /productionFiles/resources/Logos/AFL-logo-1800x700-blk.aspx" target="_blank">1800x700 PIXELS CMYK JPG</a></span></div>
+        </div>
+        <hr />
+        <div>
+        <h2>Catalogs and Quick Reference Guides</h2>
+        <div>
+        <div><a href=" /Resources/Catalogs.aspx"><img alt="" src=" /productionFiles/images/resources/catalog-aerial.jpg" /><br />
+        <span>VIEW CATALOGS</span></a></div>
+        <div><a href=" /Resources/Quick-Reference-Guides.aspx"><img alt="" src=" /productionFiles/images/resources/qrg-fiber-management.jpg" /><br />
+        <span>VIEW QRGs</span></a></div>
+        </div>
+        </div>
+        <hr />
+        <div>
+        <h2>Corporate Literature</h2>
+        <div>
+        <div><a href=" /productionFiles/resources/Company/AFL-Corporate-Brochure.aspx" target="_blank"><img alt="" src=" /productionFiles/images/company/CorporateOverview.aspx" /><br />
+        <span>CORPORATE BROCHURE</span></a></div>
+        <div><a href=" /productionFiles/resources/Community/Community_Outreach_2020_lowres.aspx"><img alt="Download AFL&amp;#39;s Community Brochure" src=" /productionFiles/images/Community/community-brochure.jpg" /><br />
+        <span>COMMUNITY OUTREACH BROCHURE</span></a></div>
+        </div>
+        </div>
+        <hr />
+        <h2>Company Video Overview</h2>
+        <p><iframe frameborder="0" height="315" src="https://www.youtube.com/embed/RkJ-9nA04rQ?rel=0" width="560" id="yt-4afdd8e6-1c38-46a0-83ce-80c1a83d9311"></iframe></p>
+        <h2>AFL in 60 Seconds</h2>
+        <p><iframe frameborder="0" height="315" src="https://www.youtube.com/embed/r4KHwRQKk3k?rel=0" width="560" id="yt-b29a0fc7-76ee-4477-b519-767b4ba854fd"></iframe></p>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mahesh
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: AFL Press Ki logos catalogs quick reference guides
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: Press Kit
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5ad284d5-e037-45fa-845f-fba8783d5681"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahesh
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220224T113729Z
+  - Version: 2
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{C4E820E0-6DC5-4816-AA4A-7B8EE986FCA3}"
+              p:before="*"
+              s:ds="query:self::"
+              s:id="{6F646C2F-8611-4D9A-ACCC-847F6A2F2520}"
+              s:par="Reset Caching Options&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames=%7B05E287C9-F37D-4FB7-B999-E32EAF5E80A6%7D&amp;Styles=%7BBCA4BC05-3D3B-4BFE-9DB0-1B287AC3B77B%7D&amp;RenderingIdentifier&amp;DynamicPlaceholderId=1"
+              s:ph="/main/container-4"
+              s:ccb="Clear on publish" />
+            <r
+              uid="{5B3A3DA3-B61D-438E-B2DE-B95F6C1C2392}"
+              p:after="r[@uid='{C4E820E0-6DC5-4816-AA4A-7B8EE986FCA3}']"
+              s:ds=""
+              s:id="{896A2C68-1362-4E88-8BA0-1805AE6D4837}"
+              s:par="Reset Caching Options&amp;GridParameters&amp;BackgroundImage&amp;Styles=%7B7220A741-0BCB-47E8-BBDE-2553AE2407CB%7D&amp;RenderingIdentifier&amp;DynamicPlaceholderId=4"
+              s:ph="main"
+              s:ccb="Clear on publish" />
+            <r
+              uid="{387DF70C-DF36-4ED1-A5CF-BDB30632E13E}"
+              p:after="r[@uid='{5B3A3DA3-B61D-438E-B2DE-B95F6C1C2392}']"
+              s:ds="query:self::"
+              s:id="{6162223D-9EAA-490C-A628-DA2A76933DD4}"
+              s:par="Reset Caching Options&amp;GridParameters&amp;FieldNames=%7BF1EADE4E-8A96-4763-B011-700B7D94E9BF%7D&amp;Styles=%7B2E3486EE-FDA0-43C2-AFE0-16C0C29C29BF%7D%7C%7B97AA508A-1055-49DC-AF11-AB8153C3919F%7D%7C%7B1A3163C3-C552-4BFA-ADC9-C7B3A0DC5BF4%7D%7C%7B592CA5BE-A535-4EE9-A79A-775A8659B0E5%7D&amp;RenderingIdentifier&amp;DynamicPlaceholderId=3"
+              s:ph="main"
+              s:ccb="Clear on publish" />
+            <r
+              uid="{E287A817-EB8C-4279-BB79-14F3B02A4440}"
+              p:after="*[1=2]"
+              s:id="{896A2C68-1362-4E88-8BA0-1805AE6D4837}"
+              s:par="Reset Caching Options&amp;GridParameters&amp;BackgroundImage&amp;Styles&amp;CacheClearingBehavior=Clear%20on%20publish&amp;RenderingIdentifier&amp;DynamicPlaceholderId=5"
+              s:ph="main" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220124T131737Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Dossier de presse
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: The Press Kit offers logos catalogs QRG
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <div class="afl-presskitDetailspage">
+        <h1>Press Kit</h1>
+        <h2>About AFL</h2>
+        <br />
+        <div>Founded in 1984, AFL is an international manufacturer providing end-to-end solutions to the energy, service provider, enterprise, hyperscale and industrial markets. The company’s products are in use in over 130 countries and include fiber optic
+        cable and hardware, transmission and substation accessories, outside plant equipment, connectivity, test and inspection equipment, fusion splicers and training. AFL also offers a wide variety of services supporting data center, enterprise, wireless
+        and outside plant applications.<br />
+        <br />
+        Headquartered in Spartanburg, SC, AFL has operations in the U.S., Mexico, Canada, Europe, Asia and Australia, and is a wholly owned subsidiary of Fujikura Ltd. of Japan. For more information, visit <a href=" /Home.aspx">www.AFLglobal.com</a>.
+        Follow us on <a href="https://www.linkedin.com/company/afl-2">LinkedIn</a>, <a href="https://twitter.com/AFLglobal">Twitter</a>, <a href="https://www.facebook.com/AFLcorp">Facebook</a>, and read our <a href=" /AFL-Blog.aspx">blog</a>. </div>
+        <p> </p>
+        <h2>Additional Information</h2>
+        <br />
+        <p>AFL has a rich <a href=" /Company/Company-Profile/AFL-History.aspx">history </a>in the fiber optic industry, dating back to its founding in 1984. Learn more by viewing our <a href=" /Company/Company-Profile/AFL-Timeline.aspx">timeline</a>.<br />
+         
+        <br />
+        Since its founding, AFL’s culture has been molded around customers and communities. Visit <a href=" /Company/Company-Profile/AFL-Culture.aspx">AFL Culture</a> to learn how our associates are making a difference. <br />
+         
+        <br />
+        Want to know how AFL is helping communities around the world? Then visit AFL’s <a href=" /Company/Community.aspx">Community Outreach Program</a> and learn about our grants, engagement programs, environmental efforts and
+        more.
+        <br />
+         
+        <br />
+        Great leadership is a critical part of AFL’s success because our leaders never fail to support our associates, customers and culture. Learn more by viewing our <br />
+        <a href=" /Company/Company-Profile/Leadership-Team.aspx">Leadership Team</a>.<br />
+         
+        </p>
+        <h2>Media Resources</h2>
+        <h2>Logos</h2>
+        <br />
+        <p>Only those authorized by AFL, including distribution partners and agents are allowed to use the AFL logo. If you have any questions about <a rel="noopener noreferrer" href=" /productionFiles/resources/Logos/AFL_Brand-Guide.aspx" target="_blank">how to properly use the AFL logo</a> or
+        are having difficulty finding the proper format, please contact the AFL Marketing Communications Group at: <a href="mailto:Marketing@AFLglobal.com">Marketing@AFLglobal.com</a>.</p>
+        <div class="d-flex justify-Content-Center">
+        <div class="afl-siteLogo"><img alt="" src="https://afl-delivery.stylelabs.cloud/api/public/content/addd948dff81461992589ac9fa2d39da?v=19a22e22" /><br />
+        <span><a rel="noopener noreferrer" href=" https://afl-delivery.stylelabs.cloud/api/public/content/472eaf6fc56f48e5ae780fd9e46d509e?v=03f6733b" target="_blank">180x70 PIXELS RGB GIF</a><br />
+        <a rel="noopener noreferrer" href="https://afl-delivery.stylelabs.cloud/api/public/content/17e4934f9aef45afbe228c5518c71a83?v=ddeefdb5" target="_blank">180x70 PIXELS RGB JPG</a><br />
+        <a rel="noopener noreferrer" href=" https://afl-delivery.stylelabs.cloud/api/public/content/52dc49e634104ea9932897152c83fb20?v=8f2197c0" target="_blank">1800x700 PIXELS CMYK JPG</a></span></div>
+        <div class="afl-siteLogo"><img alt="" src="https://afl-delivery.stylelabs.cloud/api/public/content/b5b71870f7bd4dcc848939e36e75b0d4?v=4f2cc601" /><br />
+        <span><a rel="noopener noreferrer" href="https://afl-delivery.stylelabs.cloud/api/public/content/3a904bdcb66c45ee8498af50b511baa4?v=b5461d3b" target="_blank">180x70 PIXELS RGB GIF</a><br />
+        <a rel="noopener noreferrer" href=" https://afl-delivery.stylelabs.cloud/api/public/content/bd0d8f5998484b59a5a6366319d6af3c?v=4a1eba69">180x70 PIXELS RGB JPG</a><br />
+        <a rel="noopener noreferrer" href="https://afl-delivery.stylelabs.cloud/api/public/content/2dc135de9be34435958566791ebed481?v=13bb6ad2" target="_blank">1800x700 PIXELS CMYK JPG</a></span></div>
+        </div>
+        <hr />
+        <div>
+        <h2>Catalogs and Quick Reference Guides</h2>
+        <div class="d-flex justify-Content-Center">
+        <div class="afl-presskitcatalogs">
+        <a href="/Home/Resources/Product Related Materials/Catalogs"><img alt="" src=" https://afl-delivery.stylelabs.cloud/api/public/content/1c3c3fe2deff42e6bce6aab03285b60f?v=3f76f309" /><br />
+        <span>VIEW CATALOGS</span></a>
+        </div>
+        <div class="afl-presskitcatalogs">
+        <a href="/Home/Resources/Product Related Materials/Quick-Reference-Guides"><img alt="" src="https://afl-delivery.stylelabs.cloud/api/public/content/6f7e8635f550470eb59af66cd5b5209d?v=e766ed63" /><br />
+        <span>VIEW QRGs</span></a>
+        </div>
+        </div>
+        </div>
+        <hr />
+        <div>
+        <h2>Corporate Literature</h2>
+        <div class="d-flex justify-Content-Center">
+        <div class="afl-presskitcatalogs">
+        <a href="https://afl-delivery.stylelabs.cloud/api/public/content/1c1967b180f74e5f9f3d4ba15159c4d7?v=fdd20cb1" target="_blank"><img alt="" src=" https://afl-delivery.stylelabs.cloud/api/public/content/5ad6ff71c88c443eb2d6b5ed322337b1?v=88027f0e" /><br />
+        <span>CORPORATE BROCHURE</span></a>
+        </div>
+        <div class="afl-presskitcatalogs">
+        <a href=" https://afl-delivery.stylelabs.cloud/api/public/content/95c5d162b0254ca6b33ac32dffc4bfe6?v=81e7357d"><img alt="Download AFL&#39;s Community Brochure" src=" https://afl-delivery.stylelabs.cloud/api/public/content/fa574471259c46eabe998c086ef2d8f4?v=029ce7f5" /><br />
+        <span>COMMUNITY OUTREACH BROCHURE</span></a>
+        </div>
+        </div>
+        </div>
+        <hr />
+        <h2>Company Video Overview</h2>
+        <p><iframe frameborder="0" height="315" src="https://www.youtube.com/embed/RkJ-9nA04rQ?rel=0" width="560" id="yt-4afdd8e6-1c38-46a0-83ce-80c1a83d9311"></iframe></p>
+        <h2>AFL in 60 Seconds</h2>
+        <p><iframe frameborder="0" height="315" src="https://www.youtube.com/embed/r4KHwRQKk3k?rel=0" width="560" id="yt-b29a0fc7-76ee-4477-b519-767b4ba854fd"></iframe></p>
+        </div>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mahesh
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: AFL Press Ki logos catalogs quick reference guides
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: Dossier de presse
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: Dossier de presse
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "78296e66-5690-4941-8ccd-3403f97bb137"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240229T085845Z

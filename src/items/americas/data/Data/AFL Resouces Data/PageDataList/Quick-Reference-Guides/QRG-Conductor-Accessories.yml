@@ -1,0 +1,170 @@
+﻿---
+ID: "071ed3ec-6771-4f64-961c-d0ce2420c426"
+Parent: "2d79e93b-c3e1-42c3-9177-3aa4778a46a7"
+Template: "38f171ae-e199-410f-9a56-8e0e4433111e"
+Path: "/sitecore/content/AFL-Global/AMERICAS/Data/AFL Resouces Data/PageDataList/Quick-Reference-Guides/QRG-Conductor-Accessories"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211227T084444Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\archana
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\archana
+    - ID: "5e736aec-5b46-4895-be0f-5157cb6ed299"
+      Hint: PageItemButton2Url
+      Value: |
+        <link text="EMAIL" linktype="external" url="https://www.aflglobal.com/Contact/Quote-List.aspx?mode=attachment&amp;nodeid=11909&amp;attname=Conductor+Accessories&amp;attguid=eb3dbf30-c6e6-4579-b7bf-bd4ea983fe5e" anchor="" target="_blank" />
+    - ID: "6aea9a7e-5135-437d-afc8-be6cd0ab3a34"
+      Hint: PageItemButton1Url
+      Value: |
+        <link text="DOWNLOAD" linktype="external" url="https://www.aflglobal.com/cmspages/getfile.aspx?guid=eb3dbf30-c6e6-4579-b7bf-bd4ea983fe5e" anchor="" target="_blank" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a2381edb-3117-4ff9-a701-0a4bfc50c8a4"
+    - ID: "97cbee95-7bbc-42da-b0f5-3e15b4d914f0"
+      Hint: PageItemImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="74792" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/74792/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/qrgconductoraccessories?v=76b4d908" stylelabs-content-type="Image" alt="QRG-Conductor-Accessories.jpg" height="100" width="77" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kushagra
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220222T040458Z
+    - ID: "e3af6d69-bc0f-4746-94f6-a8d42f3f4a48"
+      Hint: PageItemTitle
+      Value: Conductor Accessories
+- Language: "es-MX"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211227T084444Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\archana
+    - ID: "5e736aec-5b46-4895-be0f-5157cb6ed299"
+      Hint: PageItemButton2Url
+      Value: |
+        <link text="EMAIL" linktype="external" url="https://www.aflglobal.com/Contact/Quote-List.aspx?mode=attachment&amp;nodeid=11909&amp;attname=Conductor+Accessories&amp;attguid=eb3dbf30-c6e6-4579-b7bf-bd4ea983fe5e" anchor="" target="_blank" />
+    - ID: "6aea9a7e-5135-437d-afc8-be6cd0ab3a34"
+      Hint: PageItemButton1Url
+      Value: |
+        <link text="DOWNLOAD" linktype="external" url="https://www.aflglobal.com/cmspages/getfile.aspx?guid=eb3dbf30-c6e6-4579-b7bf-bd4ea983fe5e" anchor="" target="_blank" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "081f37ec-d6d9-4a51-8d72-d6270a29cc97"
+    - ID: "97cbee95-7bbc-42da-b0f5-3e15b4d914f0"
+      Hint: PageItemImage
+      Value: |
+        <image mediaid="{8761B3DD-0244-4605-866A-2E3587145D0E}" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahesh
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220215T130412Z
+    - ID: "e3af6d69-bc0f-4746-94f6-a8d42f3f4a48"
+      Hint: PageItemTitle
+      Value: Conductor Accessories
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211227T084444Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\archana
+    - ID: "5e736aec-5b46-4895-be0f-5157cb6ed299"
+      Hint: PageItemButton2Url
+      Value: |
+        <link text="EMAIL" linktype="external" url="https://www.aflglobal.com/Contact/Quote-List.aspx?mode=attachment&amp;nodeid=11909&amp;attname=Conductor+Accessories&amp;attguid=eb3dbf30-c6e6-4579-b7bf-bd4ea983fe5e" anchor="" target="_blank" />
+    - ID: "6aea9a7e-5135-437d-afc8-be6cd0ab3a34"
+      Hint: PageItemButton1Url
+      Value: |
+        <link text="DOWNLOAD" linktype="external" url="https://www.aflglobal.com/cmspages/getfile.aspx?guid=eb3dbf30-c6e6-4579-b7bf-bd4ea983fe5e" anchor="" target="_blank" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "617039df-bfe3-444e-a1eb-7aeb696019ff"
+    - ID: "97cbee95-7bbc-42da-b0f5-3e15b4d914f0"
+      Hint: PageItemImage
+      Value: |
+        <image mediaid="{8761B3DD-0244-4605-866A-2E3587145D0E}" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahesh
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220215T094938Z
+    - ID: "e3af6d69-bc0f-4746-94f6-a8d42f3f4a48"
+      Hint: PageItemTitle
+      Value: Conductor Accessories
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211227T084444Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\archana
+    - ID: "5e736aec-5b46-4895-be0f-5157cb6ed299"
+      Hint: PageItemButton2Url
+      Value: |
+        <link text="EMAIL" linktype="external" url="https://www.aflglobal.com/Contact/Quote-List.aspx?mode=attachment&amp;nodeid=11909&amp;attname=Conductor+Accessories&amp;attguid=eb3dbf30-c6e6-4579-b7bf-bd4ea983fe5e" anchor="" target="_blank" />
+    - ID: "6aea9a7e-5135-437d-afc8-be6cd0ab3a34"
+      Hint: PageItemButton1Url
+      Value: |
+        <link text="DOWNLOAD" linktype="external" url="https://www.aflglobal.com/cmspages/getfile.aspx?guid=eb3dbf30-c6e6-4579-b7bf-bd4ea983fe5e" anchor="" target="_blank" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "990c031d-adef-44d3-af29-9492b00dd8e1"
+    - ID: "97cbee95-7bbc-42da-b0f5-3e15b4d914f0"
+      Hint: PageItemImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="74792" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/74792/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/qrgconductoraccessories?v=76b4d908" stylelabs-content-type="Image" alt="QRG-Conductor-Accessories.jpg" height="100" width="77" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahesh
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220310T075451Z
+    - ID: "e3af6d69-bc0f-4746-94f6-a8d42f3f4a48"
+      Hint: PageItemTitle
+      Value: Conductor Accessories

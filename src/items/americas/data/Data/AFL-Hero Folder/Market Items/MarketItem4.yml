@@ -1,0 +1,167 @@
+﻿---
+ID: "7cfda468-299b-4aa2-905d-18cc20d7df3f"
+Parent: "ae2cd8ed-f442-47e5-819c-91e99d28ffc7"
+Template: "58f6f985-9278-4625-b289-f5e86e840b79"
+Path: "/sitecore/content/AFL-Global/AMERICAS/Data/AFL-Hero Folder/Market Items/MarketItem4"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "01221109-d467-43e1-b8a8-0730663a2139"
+      Hint: HeroLink
+      Value: |
+        <link id="{30EF9D4A-179A-450C-A231-9155D6AB87D3}" querystring="" target="" text="Our Energy Solutions" anchor="" title="Energy Market" class="" url="/AFL-Global/AMERICAS/Home/Solutions/Energy" linktype="internal" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211029T104329Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5144f087-0a75-4f7a-9475-2091367d64f4"
+    - ID: "ada1864f-f56d-4775-b6f9-9d7cd785cf18"
+      Hint: BodyPosition
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sripada
+    - ID: "bdc73b13-efa2-4084-a5be-a2d46aa0a74c"
+      Hint: Hero Title
+      Value: Energy
+    - ID: "c87bc2e3-f30b-4991-972b-a811e360ed64"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="187460" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/187460/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/67214ca7a09e421a8424b0a75e689f8b?v=eaa0ef3e" stylelabs-content-type="Image" alt="Energy Market" height="250" width="570" vspace="" hspace="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231206T080344Z
+    - ID: "ef467041-c8d3-47d6-91b4-aed6845bf7f2"
+      Hint: ColumnWidth
+      Value: 
+- Language: "es-MX"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "01221109-d467-43e1-b8a8-0730663a2139"
+      Hint: HeroLink
+      Value: |
+        <link id="{30EF9D4A-179A-450C-A231-9155D6AB87D3}" querystring="" text="MÁS INFORMACIÓN" anchor="" title="" class="" url="/AFL-Global/AMERICAS/Home/Solutions/Energy" linktype="internal" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211029T104329Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "df685abe-3c16-468c-a286-c8f299768f1a"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sripada
+    - ID: "bdc73b13-efa2-4084-a5be-a2d46aa0a74c"
+      Hint: Hero Title
+      Value: Energía
+    - ID: "c87bc2e3-f30b-4991-972b-a811e360ed64"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image mediaid="{B65221F9-D99A-4E91-9160-B18ECD71EAB6}" />
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231206T080345Z
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "01221109-d467-43e1-b8a8-0730663a2139"
+      Hint: HeroLink
+      Value: |
+        <link id="{30EF9D4A-179A-450C-A231-9155D6AB87D3}" querystring="" linktype="internal" text="LEARN MORE" anchor="" url="/AFL-Global/AMERICAS/Home/Solutions/Energy" title="" class="" target="" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211029T104329Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c90b85b5-504e-4793-8fff-e6542b10f572"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sripada
+    - ID: "bdc73b13-efa2-4084-a5be-a2d46aa0a74c"
+      Hint: Hero Title
+      Value: Energy
+    - ID: "c87bc2e3-f30b-4991-972b-a811e360ed64"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image mediaid="{B65221F9-D99A-4E91-9160-B18ECD71EAB6}" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231206T080345Z
+  - Version: 2
+    Fields:
+    - ID: "01221109-d467-43e1-b8a8-0730663a2139"
+      Hint: HeroLink
+      Value: |
+        <link id="{30EF9D4A-179A-450C-A231-9155D6AB87D3}" querystring="" text="EN SAVOIR PLUS" anchor="" title="" class="" url="/AFL-Global/AMERICAS/Home/Solutions/Energy" linktype="internal" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211029T104329Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "326b6889-570c-4b01-bd86-6f7b55c601c3"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sripada
+    - ID: "bdc73b13-efa2-4084-a5be-a2d46aa0a74c"
+      Hint: Hero Title
+      Value: Énergie
+    - ID: "c87bc2e3-f30b-4991-972b-a811e360ed64"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="73530" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/73530/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/Energybanner?v=adbdfb83" stylelabs-content-type="Image" alt="MicrosoftTeams-image (8).png" height="277" width="553" />
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231206T080345Z

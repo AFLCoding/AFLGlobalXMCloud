@@ -1,0 +1,170 @@
+﻿---
+ID: "3f2fed1b-03b4-49f7-8306-19139d94e08b"
+Parent: "f34dad77-71b1-4c4b-8958-efa4a0c7499a"
+Template: "38f171ae-e199-410f-9a56-8e0e4433111e"
+Path: "/sitecore/content/AFL-Global/AMERICAS/Data/AFL Resouces Data/PageDataList/Catalogs/EMEA-Energy-Solutions"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211226T135739Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\archana
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\archana
+    - ID: "5e736aec-5b46-4895-be0f-5157cb6ed299"
+      Hint: PageItemButton2Url
+      Value: |
+        <link text="EMAIL" linktype="external" url="https://www.aflglobal.com/Contact/Quote-List.aspx?mode=attachment&amp;nodeid=44080&amp;attname=Energy+Solutions+-+EMEA&amp;attguid=6ebdd08e-ff1a-436f-ac34-8aecba08e96d" anchor="" target="_blank" />
+    - ID: "6aea9a7e-5135-437d-afc8-be6cd0ab3a34"
+      Hint: PageItemButton1Url
+      Value: |
+        <link text="DOWNLOAD" linktype="external" url="https://www.aflglobal.com/cmspages/getfile.aspx?guid=6ebdd08e-ff1a-436f-ac34-8aecba08e96d" anchor="" target="_blank" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "56b0e420-5e94-4cf4-9b21-fb0edae4f9bb"
+    - ID: "97cbee95-7bbc-42da-b0f5-3e15b4d914f0"
+      Hint: PageItemImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="74724" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/74724/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/emeaenergysolutions?v=0439a52f" stylelabs-content-type="Image" alt="EMEA-Energy-Solutions.jpg" height="100" width="71" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kushagra
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220221T142730Z
+    - ID: "e3af6d69-bc0f-4746-94f6-a8d42f3f4a48"
+      Hint: PageItemTitle
+      Value: "Energy Solutions - EMEA"
+- Language: "es-MX"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211226T135739Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\archana
+    - ID: "5e736aec-5b46-4895-be0f-5157cb6ed299"
+      Hint: PageItemButton2Url
+      Value: |
+        <link text="EMAIL" linktype="external" url="https://www.aflglobal.com/Contact/Quote-List.aspx?mode=attachment&amp;nodeid=44080&amp;attname=Energy+Solutions+-+EMEA&amp;attguid=6ebdd08e-ff1a-436f-ac34-8aecba08e96d" anchor="" target="_blank" />
+    - ID: "6aea9a7e-5135-437d-afc8-be6cd0ab3a34"
+      Hint: PageItemButton1Url
+      Value: |
+        <link text="DOWNLOAD" linktype="external" url="https://www.aflglobal.com/cmspages/getfile.aspx?guid=6ebdd08e-ff1a-436f-ac34-8aecba08e96d" anchor="" target="_blank" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "bc9d6a8f-d263-4d23-b817-a49dc8010823"
+    - ID: "97cbee95-7bbc-42da-b0f5-3e15b4d914f0"
+      Hint: PageItemImage
+      Value: |
+        <image mediaid="{4B4FDF25-14C7-42A3-8738-8892F97A21B2}" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahesh
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220215T130354Z
+    - ID: "e3af6d69-bc0f-4746-94f6-a8d42f3f4a48"
+      Hint: PageItemTitle
+      Value: "Energy Solutions - EMEA"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211226T135739Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\archana
+    - ID: "5e736aec-5b46-4895-be0f-5157cb6ed299"
+      Hint: PageItemButton2Url
+      Value: |
+        <link text="EMAIL" linktype="external" url="https://www.aflglobal.com/Contact/Quote-List.aspx?mode=attachment&amp;nodeid=44080&amp;attname=Energy+Solutions+-+EMEA&amp;attguid=6ebdd08e-ff1a-436f-ac34-8aecba08e96d" anchor="" target="_blank" />
+    - ID: "6aea9a7e-5135-437d-afc8-be6cd0ab3a34"
+      Hint: PageItemButton1Url
+      Value: |
+        <link text="DOWNLOAD" linktype="external" url="https://www.aflglobal.com/cmspages/getfile.aspx?guid=6ebdd08e-ff1a-436f-ac34-8aecba08e96d" anchor="" target="_blank" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f47e1128-d122-4b22-ada7-04cfafd6676e"
+    - ID: "97cbee95-7bbc-42da-b0f5-3e15b4d914f0"
+      Hint: PageItemImage
+      Value: |
+        <image mediaid="{4B4FDF25-14C7-42A3-8738-8892F97A21B2}" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahesh
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220215T094923Z
+    - ID: "e3af6d69-bc0f-4746-94f6-a8d42f3f4a48"
+      Hint: PageItemTitle
+      Value: "Energy Solutions - EMEA"
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211226T135739Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\archana
+    - ID: "5e736aec-5b46-4895-be0f-5157cb6ed299"
+      Hint: PageItemButton2Url
+      Value: |
+        <link text="EMAIL" linktype="external" url="https://www.aflglobal.com/Contact/Quote-List.aspx?mode=attachment&amp;nodeid=44080&amp;attname=Energy+Solutions+-+EMEA&amp;attguid=6ebdd08e-ff1a-436f-ac34-8aecba08e96d" anchor="" target="_blank" />
+    - ID: "6aea9a7e-5135-437d-afc8-be6cd0ab3a34"
+      Hint: PageItemButton1Url
+      Value: |
+        <link text="DOWNLOAD" linktype="external" url="https://www.aflglobal.com/cmspages/getfile.aspx?guid=6ebdd08e-ff1a-436f-ac34-8aecba08e96d" anchor="" target="_blank" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "546f132b-564a-4116-8b37-d3c7ec5e0404"
+    - ID: "97cbee95-7bbc-42da-b0f5-3e15b4d914f0"
+      Hint: PageItemImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="74724" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/74724/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/emeaenergysolutions?v=0439a52f" stylelabs-content-type="Image" alt="EMEA-Energy-Solutions.jpg" height="100" width="71" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahesh
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220310T075447Z
+    - ID: "e3af6d69-bc0f-4746-94f6-a8d42f3f4a48"
+      Hint: PageItemTitle
+      Value: "Energy Solutions - EMEA"

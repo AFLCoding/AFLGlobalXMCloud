@@ -1,0 +1,170 @@
+﻿---
+ID: "dfe78bd0-f932-49e7-b59e-67c93f4bac69"
+Parent: "2d79e93b-c3e1-42c3-9177-3aa4778a46a7"
+Template: "38f171ae-e199-410f-9a56-8e0e4433111e"
+Path: "/sitecore/content/AFL-Global/AMERICAS/Data/AFL Resouces Data/PageDataList/Quick-Reference-Guides/QRG-Medical-Fiber-Optics"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211228T071753Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kushagra
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kushagra
+    - ID: "5e736aec-5b46-4895-be0f-5157cb6ed299"
+      Hint: PageItemButton2Url
+      Value: |
+        <link text="EMAIL" linktype="external" url="https://www.aflglobal.com/Contact/Quote-List.aspx?mode=attachment&amp;nodeid=14289&amp;attname=Medical+Fiber+Optics&amp;attguid=18d42e0c-8217-4fea-a715-14f2f1fa11ab" anchor="" target="" />
+    - ID: "6aea9a7e-5135-437d-afc8-be6cd0ab3a34"
+      Hint: PageItemButton1Url
+      Value: |
+        <link text="DOWNLOAD" linktype="external" url="https://www.aflglobal.com/cmspages/getfile.aspx?guid=18d42e0c-8217-4fea-a715-14f2f1fa11ab" anchor="" target="" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6c5960fa-3932-48e2-89f5-b1b3ac01e7c0"
+    - ID: "97cbee95-7bbc-42da-b0f5-3e15b4d914f0"
+      Hint: PageItemImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="74773" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/74773/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/qrgmedicalfiberoptics?v=b7a1fb41" stylelabs-content-type="Image" alt="QRG-Medical-Fiber-Optics.jpg" height="100" width="77" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kushagra
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220222T041532Z
+    - ID: "e3af6d69-bc0f-4746-94f6-a8d42f3f4a48"
+      Hint: PageItemTitle
+      Value: Medical Fiber Optics
+- Language: "es-MX"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211228T071753Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kushagra
+    - ID: "5e736aec-5b46-4895-be0f-5157cb6ed299"
+      Hint: PageItemButton2Url
+      Value: |
+        <link text="EMAIL" linktype="external" url="https://www.aflglobal.com/Contact/Quote-List.aspx?mode=attachment&amp;nodeid=14289&amp;attname=Medical+Fiber+Optics&amp;attguid=18d42e0c-8217-4fea-a715-14f2f1fa11ab" anchor="" target="" />
+    - ID: "6aea9a7e-5135-437d-afc8-be6cd0ab3a34"
+      Hint: PageItemButton1Url
+      Value: |
+        <link text="DOWNLOAD" linktype="external" url="https://www.aflglobal.com/cmspages/getfile.aspx?guid=18d42e0c-8217-4fea-a715-14f2f1fa11ab" anchor="" target="" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "618ec52c-e8fb-49e6-855a-13200568ba31"
+    - ID: "97cbee95-7bbc-42da-b0f5-3e15b4d914f0"
+      Hint: PageItemImage
+      Value: |
+        <image mediaid="{0A54B81D-79F6-4482-BD8E-143FD9CC9B53}" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahesh
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220215T130416Z
+    - ID: "e3af6d69-bc0f-4746-94f6-a8d42f3f4a48"
+      Hint: PageItemTitle
+      Value: Medical Fiber Optics
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211228T071753Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kushagra
+    - ID: "5e736aec-5b46-4895-be0f-5157cb6ed299"
+      Hint: PageItemButton2Url
+      Value: |
+        <link text="EMAIL" linktype="external" url="https://www.aflglobal.com/Contact/Quote-List.aspx?mode=attachment&amp;nodeid=14289&amp;attname=Medical+Fiber+Optics&amp;attguid=18d42e0c-8217-4fea-a715-14f2f1fa11ab" anchor="" target="" />
+    - ID: "6aea9a7e-5135-437d-afc8-be6cd0ab3a34"
+      Hint: PageItemButton1Url
+      Value: |
+        <link text="DOWNLOAD" linktype="external" url="https://www.aflglobal.com/cmspages/getfile.aspx?guid=18d42e0c-8217-4fea-a715-14f2f1fa11ab" anchor="" target="" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8ee7870a-c16d-483c-9a05-63767bdf2ad8"
+    - ID: "97cbee95-7bbc-42da-b0f5-3e15b4d914f0"
+      Hint: PageItemImage
+      Value: |
+        <image mediaid="{0A54B81D-79F6-4482-BD8E-143FD9CC9B53}" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahesh
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220215T094943Z
+    - ID: "e3af6d69-bc0f-4746-94f6-a8d42f3f4a48"
+      Hint: PageItemTitle
+      Value: Medical Fiber Optics
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211228T071753Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kushagra
+    - ID: "5e736aec-5b46-4895-be0f-5157cb6ed299"
+      Hint: PageItemButton2Url
+      Value: |
+        <link text="EMAIL" linktype="external" url="https://www.aflglobal.com/Contact/Quote-List.aspx?mode=attachment&amp;nodeid=14289&amp;attname=Medical+Fiber+Optics&amp;attguid=18d42e0c-8217-4fea-a715-14f2f1fa11ab" anchor="" target="" />
+    - ID: "6aea9a7e-5135-437d-afc8-be6cd0ab3a34"
+      Hint: PageItemButton1Url
+      Value: |
+        <link text="DOWNLOAD" linktype="external" url="https://www.aflglobal.com/cmspages/getfile.aspx?guid=18d42e0c-8217-4fea-a715-14f2f1fa11ab" anchor="" target="" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "72b9176b-59ef-4221-a041-acb2c56460a6"
+    - ID: "97cbee95-7bbc-42da-b0f5-3e15b4d914f0"
+      Hint: PageItemImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="74773" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/74773/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/qrgmedicalfiberoptics?v=b7a1fb41" stylelabs-content-type="Image" alt="QRG-Medical-Fiber-Optics.jpg" height="100" width="77" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahesh
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220310T075452Z
+    - ID: "e3af6d69-bc0f-4746-94f6-a8d42f3f4a48"
+      Hint: PageItemTitle
+      Value: Medical Fiber Optics

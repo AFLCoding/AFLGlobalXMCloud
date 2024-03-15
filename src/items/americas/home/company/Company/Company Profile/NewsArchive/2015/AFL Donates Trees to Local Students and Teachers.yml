@@ -1,0 +1,307 @@
+﻿---
+ID: "c2b6aea4-4e6d-4b1e-9033-304caca1aaae"
+Parent: "4018063d-9a62-4161-a382-5995a6ac8aa0"
+Template: "f36e821e-bb98-44dc-966d-e92a0e033cc7"
+Path: "/sitecore/content/AFL-Global/AMERICAS/Home/Company/Company Profile/NewsArchive/2015/AFL Donates Trees to Local Students and Teachers"
+SharedFields:
+- ID: "1fbc6a49-6281-48ee-87e9-a3970b145adb"
+  Hint: NavigationFilter
+  Value: |
+    {E0A2A027-0932-4878-A7D6-0416D5263EFB}
+    {61BD64D6-809E-40AE-9297-2724A19329B3}
+    {D063E9D1-C7B5-4B1E-B31E-69886C9C59F5}
+    {500AE4C0-FA7B-463F-8149-EFFF7F044101}
+    {A0E7FF57-6994-4B09-AA21-104239628D5A}
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{3A84BAC9-C1BD-4809-A12C-28EB44E25329}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{DAE7C21D-4D3B-4257-A95C-9104CD8AF409}"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{48D826CA-7AE6-4387-AE67-E7070B242906}">
+          <p:d />
+        </r>
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: 
+    - ID: "228f9517-e120-4014-b2c7-df0ac467a349"
+      Hint: ContentTitle
+      Value: AFL Donates Trees to Intermediate Students and Teachers in School District Five
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211213T140421Z
+    - ID: "3688d7df-2feb-43a4-ab8d-410e5f70a676"
+      Hint: ContentDescription
+      Value: |
+        <p>Spartanburg, SC – <a href="http://www.aflglobal.com/">AFL</a> partnered with <a href="http://www.spart5.net/site/default.aspx?PageID=1">District Five Schools</a> to provide a longleaf pine tree in honor of fifth and sixth grade students and teachers in the area. More than 1,300 trees were donated to Beech Springs Intermediate and Berry Shoals Intermediate schools in Duncan, South Carolina. The initiative is part of AFL’s <a href="https://www.aflglobal.com/Company/Community/Take-Root.aspx">Take Root</a> program which has a goal to plant 12,000 trees by the end of 2015.<br />
+        <br />
+        “Part of AFL’s Environment, Health and Safety program focuses on environmental stewardship. Planting trees is one aspect of this,” commented Corie Culp, AFL’s community relations manager. “By teaching children about our environment at a young age, we can help preserve it for years to come.”<br />
+        <br />
+        <a href="https://www.aflglobal.com/productionFiles/News/Berry-Shoals-2015.aspx" target="_blank"></a>AFL’s first goal was to plant 5,000 trees by 2010. Having exceeded that goal, AFL set a loftier goal—to plant 12,000 by the next five years. Over the past five years, AFL has hosted Take Root events on its campuses both domestic and international and with various organizations in communities where AFL has operations.<br />
+         <br />
+        AFL has an extensive <a href="https://www.aflglobal.com/Company/Community.aspx">Community Outreach Program</a> that provides grants to nonprofit organizations, encourages associates to serve in their communities, provides disaster relief and sponsors various events in the community, plus much more. For additional information on AFL and its community initiatives, visit <a href="http://www.aflglobal.com/">www.AFLglobal.com</a>.</p>
+        About AFL<br />
+        AFL provides industry-leading products and services to the electric utility, broadband, communications, factory, enterprise, wireless and transit rail markets as well as the emerging markets of oil and gas, mining, nuclear, avionics, medical, renewable and intelligent grid. The company’s diverse product portfolio includes fiber optic cable, transmission and substation accessories, outside plant equipment, connectors, fusion splicers, test equipment and training. AFL’s service portfolio includes market-leading positions with the foremost communications companies supporting OEM, outside plant, enterprise and wireless areas.<br />
+        <br />
+        Founded in 1984, AFL is proud to offer engineering expertise, exceptional products and reliable service that help our customers improve their critical and electrical infrastructure. AFL has operations in the U.S., Mexico, Europe, Asia and Australia. The company is headquartered in Spartanburg, SC and is a wholly-owned subsidiary of Fujikura Ltd. of Japan. For more information, visit <a href="http://www.aflglobal.com/">www.AFLglobal.com</a>.<br />
+        <br />
+        Contact<br />
+        Corie Culp<br />
+        Community Relations Manager<br />
+        AFL<br />
+        864.433.5409<br />
+        <a href="mailto:Corie.Culp@AFLglobal.com">Corie.Culp@AFLglobal.com</a>
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: AFL Donates Trees to Local Students and Teachers
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\tanishka
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\tanishka
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: AFL Donates Trees to Local Students and Teachers
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: AFL Donates Trees to Local Students and Teachers
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4950e0c3-6bcf-41e8-b612-c582d8aad58e"
+    - ID: "9dd4f0d9-c123-47a8-8cef-2c85cea172f6"
+      Hint: ContentImage
+      Value: |
+        <image mediaid="{B54A1300-0FF4-4B5B-8E52-CC99360E9125}" />
+    - ID: "a6eaffd5-fc3e-41b4-93b3-f1721fcf2300"
+      Hint: ContentPublishedDate
+      Value: 20151129T183000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T091346Z
+- Language: "es-MX"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "228f9517-e120-4014-b2c7-df0ac467a349"
+      Hint: ContentTitle
+      Value: AFL Donates Trees to Intermediate Students and Teachers in School District Five
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211213T140421Z
+    - ID: "3688d7df-2feb-43a4-ab8d-410e5f70a676"
+      Hint: ContentDescription
+      Value: |
+        <p>Spartanburg, SC – <a href="http://www.aflglobal.com/">AFL</a> partnered with <a href="http://www.spart5.net/site/default.aspx?PageID=1">District Five Schools</a> to provide a longleaf pine tree in honor of fifth and sixth grade students and teachers in the area. More than 1,300 trees were donated to Beech Springs Intermediate and Berry Shoals Intermediate schools in Duncan, South Carolina. The initiative is part of AFL’s <a href="https://www.aflglobal.com/Company/Community/Take-Root.aspx">Take Root</a> program which has a goal to plant 12,000 trees by the end of 2015.<br />
+        <br />
+        “Part of AFL’s Environment, Health and Safety program focuses on environmental stewardship. Planting trees is one aspect of this,” commented Corie Culp, AFL’s community relations manager. “By teaching children about our environment at a young age, we can help preserve it for years to come.”<br />
+        <br />
+        <a href="https://www.aflglobal.com/productionFiles/News/Berry-Shoals-2015.aspx" target="_blank"></a>AFL’s first goal was to plant 5,000 trees by 2010. Having exceeded that goal, AFL set a loftier goal—to plant 12,000 by the next five years. Over the past five years, AFL has hosted Take Root events on its campuses both domestic and international and with various organizations in communities where AFL has operations.<br />
+         <br />
+        AFL has an extensive <a href="https://www.aflglobal.com/Company/Community.aspx">Community Outreach Program</a> that provides grants to nonprofit organizations, encourages associates to serve in their communities, provides disaster relief and sponsors various events in the community, plus much more. For additional information on AFL and its community initiatives, visit <a href="http://www.aflglobal.com/">www.AFLglobal.com</a>.</p>
+        About AFL<br />
+        AFL provides industry-leading products and services to the electric utility, broadband, communications, factory, enterprise, wireless and transit rail markets as well as the emerging markets of oil and gas, mining, nuclear, avionics, medical, renewable and intelligent grid. The company’s diverse product portfolio includes fiber optic cable, transmission and substation accessories, outside plant equipment, connectors, fusion splicers, test equipment and training. AFL’s service portfolio includes market-leading positions with the foremost communications companies supporting OEM, outside plant, enterprise and wireless areas.<br />
+        <br />
+        Founded in 1984, AFL is proud to offer engineering expertise, exceptional products and reliable service that help our customers improve their critical and electrical infrastructure. AFL has operations in the U.S., Mexico, Europe, Asia and Australia. The company is headquartered in Spartanburg, SC and is a wholly-owned subsidiary of Fujikura Ltd. of Japan. For more information, visit <a href="http://www.aflglobal.com/">www.AFLglobal.com</a>.<br />
+        <br />
+        Contact<br />
+        Corie Culp<br />
+        Community Relations Manager<br />
+        AFL<br />
+        864.433.5409<br />
+        <a href="mailto:Corie.Culp@AFLglobal.com">Corie.Culp@AFLglobal.com</a>
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: AFL Donates Trees to Local Students and Teachers
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\tanishka
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: AFL Donates Trees to Local Students and Teachers
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: AFL Donates Trees to Local Students and Teachers
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "65624f0a-6186-4597-8a80-b3f824d1762b"
+    - ID: "9dd4f0d9-c123-47a8-8cef-2c85cea172f6"
+      Hint: ContentImage
+      Value: |
+        <image mediaid="{B54A1300-0FF4-4B5B-8E52-CC99360E9125}" />
+    - ID: "a6eaffd5-fc3e-41b4-93b3-f1721fcf2300"
+      Hint: ContentPublishedDate
+      Value: 20151129T183000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T091346Z
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "228f9517-e120-4014-b2c7-df0ac467a349"
+      Hint: ContentTitle
+      Value: AFL Donates Trees to Intermediate Students and Teachers in School District Five
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211213T140421Z
+    - ID: "3688d7df-2feb-43a4-ab8d-410e5f70a676"
+      Hint: ContentDescription
+      Value: |
+        <p>Spartanburg, SC &ndash;&nbsp;<a href="http://www.aflglobal.com/">AFL</a>&nbsp;partnered with&nbsp;<a href="http://www.spart5.net/site/default.aspx?PageID=1">District Five Schools</a>&nbsp;to provide a longleaf pine tree in honor of fifth and sixth grade students and teachers in the area. More than 1,300 trees were donated to Beech Springs Intermediate and Berry Shoals Intermediate schools in Duncan, South Carolina. The initiative is part of AFL&rsquo;s&nbsp;<a href="https://www.aflglobal.com/Company/Community/Take-Root.aspx">Take Root</a>&nbsp;program which has a goal to plant 12,000 trees by the end of 2015.<br />
+        <br />
+        &ldquo;Part of AFL&rsquo;s Environment, Health and Safety program focuses on environmental stewardship. Planting trees is one aspect of this,&rdquo; commented Corie Culp, AFL&rsquo;s community relations manager. &ldquo;By teaching children about our environment at a young age, we can help preserve it for years to come.&rdquo;<br />
+        <br />
+        <a href="https://www.aflglobal.com/productionFiles/News/Berry-Shoals-2015.aspx" target="_blank"></a>AFL&rsquo;s first goal was to plant 5,000 trees by 2010. Having exceeded that goal, AFL set a loftier goal&mdash;to plant 12,000 by the next five years. Over the past five years, AFL has hosted Take Root events on its campuses both domestic and international and with various organizations in communities where AFL has operations.<br />
+        &nbsp;<br />
+        AFL has an extensive&nbsp;<a href="https://www.aflglobal.com/Company/Community.aspx">Community Outreach Program</a>&nbsp;that provides grants to nonprofit organizations, encourages associates to serve in their communities, provides disaster relief and sponsors various events in the community, plus much more. For additional information on AFL and its community initiatives, visit&nbsp;<a href="http://www.aflglobal.com/">www.AFLglobal.com</a>.</p>
+        About AFL<br />
+        AFL provides industry-leading products and services to the electric utility, broadband, communications, factory, enterprise, wireless and transit rail markets as well as the emerging markets of oil and gas, mining, nuclear, avionics, medical, renewable and intelligent grid. The company&rsquo;s diverse product portfolio includes fiber optic cable, transmission and substation accessories, outside plant equipment, connectors, fusion splicers, test equipment and training. AFL&rsquo;s service portfolio includes market-leading positions with the foremost communications companies supporting OEM, outside plant, enterprise and wireless areas.<br />
+        <br />
+        Founded in 1984, AFL is proud to offer engineering expertise, exceptional products and reliable service that help our customers improve their critical and electrical infrastructure. AFL has operations in the U.S., Mexico, Europe, Asia and Australia. The company is headquartered in Spartanburg, SC and is a wholly-owned subsidiary of Fujikura Ltd. of Japan. For more information, visit&nbsp;<a href="http://www.aflglobal.com/">www.AFLglobal.com</a>.<br />
+        <br />
+        Contact<br />
+        Corie Culp<br />
+        Community Relations Manager<br />
+        AFL<br />
+        864.433.5409<br />
+        <a href="mailto:Corie.Culp@AFLglobal.com">Corie.Culp@AFLglobal.com</a>
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: AFL Donates Trees to Local Students and Teachers
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\tanishka
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: AFL Donates Trees to Local Students and Teachers
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ad30d706-776a-48f9-8284-0ae54c0cf436"
+    - ID: "9dd4f0d9-c123-47a8-8cef-2c85cea172f6"
+      Hint: ContentImage
+      Value: |
+        <image mediaid="{B54A1300-0FF4-4B5B-8E52-CC99360E9125}" />
+    - ID: "a6eaffd5-fc3e-41b4-93b3-f1721fcf2300"
+      Hint: ContentPublishedDate
+      Value: 20151129T183000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahesh
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220215T092856Z
+  - Version: 2
+    Fields:
+    - ID: "228f9517-e120-4014-b2c7-df0ac467a349"
+      Hint: ContentTitle
+      Value: AFL Donates Trees to Intermediate Students and Teachers in School District Five
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211213T140421Z
+    - ID: "3688d7df-2feb-43a4-ab8d-410e5f70a676"
+      Hint: ContentDescription
+      Value: |
+        <p>Spartanburg, SC – <a href="http://www.aflglobal.com/">AFL</a> partnered with <a href="http://www.spart5.net/site/default.aspx?PageID=1">District Five Schools</a> to provide a longleaf pine tree in honor of fifth and sixth grade students and teachers in the area. More than 1,300 trees were donated to Beech Springs Intermediate and Berry Shoals Intermediate schools in Duncan, South Carolina. The initiative is part of AFL’s <a href="https://www.aflglobal.com/Company/Community/Take-Root.aspx">Take Root</a> program which has a goal to plant 12,000 trees by the end of 2015.<br />
+        <br />
+        “Part of AFL’s Environment, Health and Safety program focuses on environmental stewardship. Planting trees is one aspect of this,” commented Corie Culp, AFL’s community relations manager. “By teaching children about our environment at a young age, we can help preserve it for years to come.”<br />
+        <br />
+        <a href="https://www.aflglobal.com/productionFiles/News/Berry-Shoals-2015.aspx" target="_blank"></a>AFL’s first goal was to plant 5,000 trees by 2010. Having exceeded that goal, AFL set a loftier goal—to plant 12,000 by the next five years. Over the past five years, AFL has hosted Take Root events on its campuses both domestic and international and with various organizations in communities where AFL has operations.<br />
+         <br />
+        AFL has an extensive <a href="https://www.aflglobal.com/Company/Community.aspx">Community Outreach Program</a> that provides grants to nonprofit organizations, encourages associates to serve in their communities, provides disaster relief and sponsors various events in the community, plus much more. For additional information on AFL and its community initiatives, visit <a href="http://www.aflglobal.com/">www.AFLglobal.com</a>.</p>
+        About AFL<br />
+        AFL provides industry-leading products and services to the electric utility, broadband, communications, factory, enterprise, wireless and transit rail markets as well as the emerging markets of oil and gas, mining, nuclear, avionics, medical, renewable and intelligent grid. The company’s diverse product portfolio includes fiber optic cable, transmission and substation accessories, outside plant equipment, connectors, fusion splicers, test equipment and training. AFL’s service portfolio includes market-leading positions with the foremost communications companies supporting OEM, outside plant, enterprise and wireless areas.<br />
+        <br />
+        Founded in 1984, AFL is proud to offer engineering expertise, exceptional products and reliable service that help our customers improve their critical and electrical infrastructure. AFL has operations in the U.S., Mexico, Europe, Asia and Australia. The company is headquartered in Spartanburg, SC and is a wholly-owned subsidiary of Fujikura Ltd. of Japan. For more information, visit <a href="http://www.aflglobal.com/">www.AFLglobal.com</a>.<br />
+        <br />
+        Contact<br />
+        Corie Culp<br />
+        Community Relations Manager<br />
+        AFL<br />
+        864.433.5409<br />
+        <a href="mailto:Corie.Culp@AFLglobal.com">Corie.Culp@AFLglobal.com</a>
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: AFL Donates Trees to Local Students and Teachers
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\tanishka
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: AFL Donates Trees to Local Students and Teachers
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: AFL Donates Trees to Local Students and Teachers
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "fd6dcf6f-149f-4a98-9348-92df1dd15481"
+    - ID: "9dd4f0d9-c123-47a8-8cef-2c85cea172f6"
+      Hint: ContentImage
+      Value: |
+        <image mediaid="{B54A1300-0FF4-4B5B-8E52-CC99360E9125}" />
+    - ID: "a6eaffd5-fc3e-41b4-93b3-f1721fcf2300"
+      Hint: ContentPublishedDate
+      Value: 20151129T183000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T091346Z

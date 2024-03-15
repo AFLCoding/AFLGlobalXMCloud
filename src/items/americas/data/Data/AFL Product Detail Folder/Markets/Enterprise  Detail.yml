@@ -1,0 +1,182 @@
+﻿---
+ID: "4420dee8-6281-49c2-bc3e-a20acf94f0f1"
+Parent: "dce66b80-292f-4e27-89f9-396b00358797"
+Template: "011c02ab-49e7-41f0-8719-03034390bc25"
+Path: "/sitecore/content/AFL-Global/AMERICAS/Data/AFL Product Detail Folder/Markets/Enterprise  Detail"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211122T121013Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        AFL delivers the right combination of fiber optic cable, connectivity and equipment products for today&rsquo;s enterprise applications. Whether you are designing, building or managing a Data Center, Campus LAN or FTTx network, AFL has a solution. With decades of experience working inside the enterprise market, we understand the challenges of today and are uniquely positioned to provide end-to-end fiber solutions regardless of the application or environment. AFL manufactures every part of the passive optical infrastructure. Our keen focus on innovation and product development helps future-proof your network for years to come. If you are looking for an application-based provider to help you to meet the challenges of the growing enterprise industry, turn to AFL for high-quality, end-to-end solutions that deliver a competitive advantage
+        <ul>
+            <li>Cabling Solutions</li>
+            <li>Fiber Management</li>
+            <li>Termination Solutions</li>
+            <li><a href="https://www.aflglobal.com/Products/Fusion-Splicing.aspx" style="color: #0091ea; background-color: transparent;">Fusion Splicers</a></li>
+            <li><a href="https://www.aflglobal.com/Products/Test-and-Inspection.aspx" style="color: #0091ea; background-color: transparent;">Test and Inspection Equipment</a></li>
+            <li><a rel="noopener noreferrer" href="https://www.aflglobal.com/Services/Training.aspx" target="_blank" style="color: #0091ea; background-color: transparent;">Training and Education</a></li>
+        </ul>
+    - ID: "5d336bce-e421-4fe8-ad55-214f80d841ad"
+      Hint: "Sub-Heading"
+      Value: Enterprise Sub Heading
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "75f1f59a-7c9c-466b-8104-90084b530cd0"
+    - ID: "ab91d39b-30ad-4050-acef-07c741146fcc"
+      Hint: Heading
+      Value: Enterprise Heading
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20211124T145114Z
+- Language: "es-MX"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211122T121013Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        AFL delivers the right combination of fiber optic cable, connectivity and equipment products for today&rsquo;s enterprise applications. Whether you are designing, building or managing a Data Center, Campus LAN or FTTx network, AFL has a solution. With decades of experience working inside the enterprise market, we understand the challenges of today and are uniquely positioned to provide end-to-end fiber solutions regardless of the application or environment. AFL manufactures every part of the passive optical infrastructure. Our keen focus on innovation and product development helps future-proof your network for years to come. If you are looking for an application-based provider to help you to meet the challenges of the growing enterprise industry, turn to AFL for high-quality, end-to-end solutions that deliver a competitive advantage
+        <ul>
+            <li>Cabling Solutions</li>
+            <li>Fiber Management</li>
+            <li>Termination Solutions</li>
+            <li><a href="https://www.aflglobal.com/Products/Fusion-Splicing.aspx" style="color: #0091ea; background-color: transparent;">Fusion Splicers</a></li>
+            <li><a href="https://www.aflglobal.com/Products/Test-and-Inspection.aspx" style="color: #0091ea; background-color: transparent;">Test and Inspection Equipment</a></li>
+            <li><a rel="noopener noreferrer" href="https://www.aflglobal.com/Services/Training.aspx" target="_blank" style="color: #0091ea; background-color: transparent;">Training and Education</a></li>
+        </ul>
+    - ID: "5d336bce-e421-4fe8-ad55-214f80d841ad"
+      Hint: "Sub-Heading"
+      Value: Enterprise Sub Heading
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "44d8b5e0-a6c2-4c09-ae54-de2ebdfe6815"
+    - ID: "ab91d39b-30ad-4050-acef-07c741146fcc"
+      Hint: Heading
+      Value: Enterprise Heading
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahesh
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220215T125929Z
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211122T121013Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        AFL delivers the right combination of fiber optic cable, connectivity and equipment products for today&rsquo;s enterprise applications. Whether you are designing, building or managing a Data Center, Campus LAN or FTTx network, AFL has a solution. With decades of experience working inside the enterprise market, we understand the challenges of today and are uniquely positioned to provide end-to-end fiber solutions regardless of the application or environment. AFL manufactures every part of the passive optical infrastructure. Our keen focus on innovation and product development helps future-proof your network for years to come. If you are looking for an application-based provider to help you to meet the challenges of the growing enterprise industry, turn to AFL for high-quality, end-to-end solutions that deliver a competitive advantage
+        <ul>
+            <li>Cabling Solutions</li>
+            <li>Fiber Management</li>
+            <li>Termination Solutions</li>
+            <li><a href="https://www.aflglobal.com/Products/Fusion-Splicing.aspx" style="color: #0091ea; background-color: transparent;">Fusion Splicers</a></li>
+            <li><a href="https://www.aflglobal.com/Products/Test-and-Inspection.aspx" style="color: #0091ea; background-color: transparent;">Test and Inspection Equipment</a></li>
+            <li><a rel="noopener noreferrer" href="https://www.aflglobal.com/Services/Training.aspx" target="_blank" style="color: #0091ea; background-color: transparent;">Training and Education</a></li>
+        </ul>
+    - ID: "5d336bce-e421-4fe8-ad55-214f80d841ad"
+      Hint: "Sub-Heading"
+      Value: Enterprise Sub Heading
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c675e58a-34b4-4084-83d9-8a6d3b929c4e"
+    - ID: "ab91d39b-30ad-4050-acef-07c741146fcc"
+      Hint: Heading
+      Value: Enterprise Heading
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahesh
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220215T094527Z
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211122T121013Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        AFL delivers the right combination of fiber optic cable, connectivity and equipment products for today&rsquo;s enterprise applications. Whether you are designing, building or managing a Data Center, Campus LAN or FTTx network, AFL has a solution. With decades of experience working inside the enterprise market, we understand the challenges of today and are uniquely positioned to provide end-to-end fiber solutions regardless of the application or environment. AFL manufactures every part of the passive optical infrastructure. Our keen focus on innovation and product development helps future-proof your network for years to come. If you are looking for an application-based provider to help you to meet the challenges of the growing enterprise industry, turn to AFL for high-quality, end-to-end solutions that deliver a competitive advantage
+        <ul>
+            <li>Cabling Solutions</li>
+            <li>Fiber Management</li>
+            <li>Termination Solutions</li>
+            <li><a href="https://www.aflglobal.com/Products/Fusion-Splicing.aspx" style="color: #0091ea; background-color: transparent;">Fusion Splicers</a></li>
+            <li><a href="https://www.aflglobal.com/Products/Test-and-Inspection.aspx" style="color: #0091ea; background-color: transparent;">Test and Inspection Equipment</a></li>
+            <li><a rel="noopener noreferrer" href="https://www.aflglobal.com/Services/Training.aspx" target="_blank" style="color: #0091ea; background-color: transparent;">Training and Education</a></li>
+        </ul>
+    - ID: "5d336bce-e421-4fe8-ad55-214f80d841ad"
+      Hint: "Sub-Heading"
+      Value: Enterprise Sub Heading
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9db96677-7589-4c87-9448-836b1ce5c244"
+    - ID: "ab91d39b-30ad-4050-acef-07c741146fcc"
+      Hint: Heading
+      Value: Enterprise Heading
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahesh
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220310T075322Z
