@@ -1,0 +1,48 @@
+﻿---
+ID: "bad45cb7-24ea-4caf-9fa4-34d46c943950"
+Parent: "964c5c21-d292-4e99-9454-d30a02b43f8e"
+Template: "b960cbe4-381f-4a2b-9f44-a43c7a991a0b"
+Path: "/sitecore/content/AFL-Global/AMERICAS/Home/RSS feeds/AFL-Blog"
+SharedFields:
+- ID: "ea2a3fc7-8255-4fbd-bbc8-6a917a0641e6"
+  Hint: Type
+  Value: 
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "16cc56dd-27f5-4839-b790-dbbd9aca882c"
+      Hint: Title
+      Value: "AFL-Blog"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220525T201950Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rafael
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rafael
+    - ID: "72c481b9-f789-4457-838f-2329eb8469c2"
+      Hint: Source
+      Value: "/sitecore/content/AFL-Global/AMERICAS/Home/AFL Blog"
+    - ID: "770878c5-ee73-4967-aff5-d0f402523fdf"
+      Hint: Description
+      Value: Blog RSS feed
+    - ID: "88edd62c-7c1f-4308-b41f-2d4719f791eb"
+      Hint: Image
+      Value: |
+        <image mediaid="{49753ABA-4555-4AE0-BD97-DF04D8B49C68}" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "cd731d70-902c-4add-9a3e-624ee5753b05"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231018T103629Z

@@ -1,0 +1,388 @@
+﻿---
+ID: "9718815c-23cd-4751-8f29-05236f52ea31"
+Parent: "83c50541-bd7c-47cd-9d20-e403c98c4046"
+Template: "bf61de11-b78f-48ea-aaa4-1d17f0d83824"
+Path: "/sitecore/content/AFL-Global/AMERICAS/Home/Company/Company Profile/UP Corporate Social Responsibility"
+SharedFields:
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{274C9F86-81B9-4FFC-87CA-8B19AB3A526D}"
+- ID: "9135200a-5626-4dd8-ab9d-d665b8c11748"
+  Hint: __Never publish
+  Value: 1
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{DAE7C21D-4D3B-4257-A95C-9104CD8AF409}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 600
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25305982-b304-4816-8208-abcfc50a7067"
+      Hint: Description2
+      Value: |
+        With operations in seven countries, AFL employs approximately 4,500 associates worldwide.&nbsp;Over the past 30+ years, AFL has seen many changes in technology, manufacturing and engineering, as well as changes across our markets and geographies around the world. We believe that AFL continues to succeed due to the strength of our associates and our core values, which drive our culture and priorities, and provide a framework in which decisions are made. AFL&rsquo;s core values are:&nbsp;Customers First;&nbsp;Integrity;&nbsp;Innovation;&nbsp;Collaboration and Accountability;&nbsp;Environment, Health and Safety; and&nbsp;Community Engagement.<br />
+        <br />
+        <h2><a href="~/link.aspx?_id=6AD6F291903B44AE802B0ED119A5A1E4&amp;_z=z">Establishing a culture which drives focus on social and environmental impact is a Corporate Responsibility</a></h2>
+        <br />
+        Our employees, our communities and our customers see all three facets of corporate responsibility - Environment, Social Governance - with an increasing priority.  While keeping financial performance and customer experience a top priority, AFL is integrating ESG into our culture and processes.<br />
+        <br />
+        <h2><a href="~/link.aspx?_id=6AD6F291903B44AE802B0ED119A5A1E4&amp;_z=z">Customers First</a></h2>
+        <br />
+        Our company was literally built on putting the customer first. In 1984, AFL was formed to manufacture fiber optic cable for utility and telecommunications customers. After 30 years, we are still laser focused on serving our customers. Across our company, our associates are doing whatever it takes to exceed our customers&rsquo; expectations.<br />
+        <br />
+        <h2><a href="~/link.aspx?_id=5E57F90DD6A0422FA5296E26BDC8F604&amp;_z=z">Integrity</a></h2>
+        <br />
+        At AFL, we understand that people shape our culture. That's why each associate is enabled to truly make a difference. AFL drives decision-making down into the organization. We know that the best concepts and processes come from associates on the front line with strong work ethics and enthusiasm to accomplish projects with integrity.<br />
+        <br />
+        <h2><a href="~/link.aspx?_id=3FCE0BA3E2514D959CB1ED05B0CBB01E&amp;_z=z">Innovation</a></h2>
+        <br />
+        AFL is a perennial leader when it comes to the development of innovative products across our markets. Our commercial teams work closely with our research and development teams to define new areas for product growth and development. Our commitment to innovation is exemplified in the number of patents for which we apply each year. Currently, AFL has been awarded over 100 patents.<br />
+        <br />
+        <h2><a href="~/link.aspx?_id=B953A8A10BFD44A48BA010AEA6F829B1&amp;_z=z">Collaboration and Accountability</a></h2>
+        <br />
+        AFL is dedicated to providing quality products and exceptional service and is committed to exceeding the expectations of our customers. Our goal is to first understand exactly what our customers need and work together to achieve the solution that best suits their application. Across the company, our associates are collaborating with each other to deliver solutions that improve our customers&rsquo; businesses.<br />
+        <br />
+        <h2><a href="~/link.aspx?_id=42FDC709BA964169AF29F0445E1F59A1&amp;_z=z">Environment, Health and Safety</a></h2>
+        <br />
+        AFL has a long and proven history of focusing on the health and safety of our workforce and the preservation of the environment for the benefit of communities today and future generations. Our commitment includes specific short- and long-term goals at our manufacturing sites. For more information on these efforts, please go to our<br />
+        <a href="~/link.aspx?_id=F32459CE4C844719A8C4BEBE908499D7&amp;_z=z">Environmental Sustainability</a>&nbsp;page. AFL is also committed to working with our customers and suppliers to ensure that minerals used in our products are not sourced from conflict zones. For more information read our&nbsp;<a href="~/link.aspx?_id=1C373F2CCD6C4B3CB5E33FCCFD22A534&amp;_z=z">Conflict Minerals Policy</a>.<br />
+        <br />
+        <h2><a href="~/link.aspx?_id=F5E14B660F224CD79DB21F673AE9DB95&amp;_z=z">Community Engagement</a></h2>
+        <br />
+        AFL is committed to being an exemplary corporate citizen in the communities where we operate. Our&nbsp;<a href="~/link.aspx?_id=5C491C798DA748F8B92330B6405E3094&amp;_z=z">Community Advisory Board</a>&nbsp;consists of local and regional business and community leaders that are helping us reach our goal &ndash; to connect with our communities through financial and social commitments, improving the quality of life.
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211223T144210Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Corporate Social Responsibility
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\harry
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: AFL Corporate Social Responsibility statement includes our core values Customers First; Integrity; Innovation; Collaboration and Accountability; Environment, Health and Safety; and Community Engagement.
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        With operations in seven countries, AFL employs approximately 4,500 associates worldwide. Over the past 30+ years, AFL has seen many changes in technology, manufacturing and engineering, as well as changes across our markets and geographies around the world. We believe that AFL continues to succeed due to the strength of our associates and our core values, which drive our culture and priorities, and provide a framework in which decisions are made. AFL’s core values are: Customers First; Integrity; Innovation; Collaboration and Accountability; Environment, Health and Safety; and Community Engagement.<br />
+        <br />
+        <h2><a href="~/link.aspx?_id=6AD6F291903B44AE802B0ED119A5A1E4&_z=z">Customers First</a></h2>
+        <br />
+        Our company was literally built on putting the customer first. In 1984, AFL was formed to manufacture fiber optic cable for utility and telecommunications customers. After 30 years, we are still laser focused on serving our customers. Across our company, our associates are doing whatever it takes to exceed our customers’ expectations.<br />
+        <br />
+        <h2><a href="~/link.aspx?_id=5E57F90DD6A0422FA5296E26BDC8F604&_z=z">Integrity</a></h2>
+        <br />
+        At AFL, we understand that people shape our culture. That's why each associate is enabled to truly make a difference. AFL drives decision-making down into the organization. We know that the best concepts and processes come from associates on the front line with strong work ethics and enthusiasm to accomplish projects with integrity.<br />
+        <br />
+        <h2><a href="~/link.aspx?_id=3FCE0BA3E2514D959CB1ED05B0CBB01E&_z=z">Innovation</a></h2>
+        <br />
+        AFL is a perennial leader when it comes to the development of innovative products across our markets. Our commercial teams work closely with our research and development teams to define new areas for product growth and development. Our commitment to innovation is exemplified in the number of patents for which we apply each year. Currently, AFL has been awarded over 100 patents.<br />
+        <br />
+        <h2><a href="~/link.aspx?_id=B953A8A10BFD44A48BA010AEA6F829B1&_z=z">Collaboration and Accountability</a></h2>
+        <br />
+        AFL is dedicated to providing quality products and exceptional service and is committed to exceeding the expectations of our customers. Our goal is to first understand exactly what our customers need and work together to achieve the solution that best suits their application. Across the company, our associates are collaborating with each other to deliver solutions that improve our customers’ businesses.<br />
+        <br />
+        <h2><a href="~/link.aspx?_id=42FDC709BA964169AF29F0445E1F59A1&_z=z">Environment, Health and Safety</a></h2>
+        <br />
+        AFL has a long and proven history of focusing on the health and safety of our workforce and the preservation of the environment for the benefit of communities today and future generations. Our commitment includes specific short- and long-term goals at our manufacturing sites. For more information on these efforts, please go to our<br />
+        <a href="~/link.aspx?_id=F32459CE4C844719A8C4BEBE908499D7&_z=z">Environmental Sustainability</a> page. AFL is also committed to working with our customers and suppliers to ensure that minerals used in our products are not sourced from conflict zones. For more information read our <a href="~/link.aspx?_id=1C373F2CCD6C4B3CB5E33FCCFD22A534&_z=z">Conflict Minerals Policy</a>.<br />
+        <br />
+        <h2><a href="~/link.aspx?_id=F5E14B660F224CD79DB21F673AE9DB95&_z=z">Community Engagement</a></h2>
+        <br />
+        AFL is committed to being an exemplary corporate citizen in the communities where we operate. Our <a href="~/link.aspx?_id=5C491C798DA748F8B92330B6405E3094&_z=z">Community Advisory Board</a> consists of local and regional business and community leaders that are helping us reach our goal – to connect with our communities through financial and social commitments, improving the quality of life.
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\harry
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: AFL Corporate Social Responsibility statement
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: Corporate Social Responsibility
+    - ID: "628db04b-29a2-483b-a88c-b8fd9a5f2086"
+      Hint: HeroLink
+      Value: |
+        <link id="{9718815C-23CD-4751-8F29-05236F52EA31}" querystring="" target="|Custom" text="LEARN MORE" anchor="" url="/AFL-Global/AMERICAS/Home/Company/Company Profile/UP Corporate Social Responsibility" title="" class="" linktype="internal" />
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: Corporate Social Responsibility
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f6263e53-9fab-486d-95ce-cc499115e61e"
+    - ID: "93dc88f3-05e5-482d-9b9a-c859c8258a73"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="168707" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/168707/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/2f5811acd9bc4934b768bda0b175a254?v=3d3f66b4" stylelabs-content-type="Image" alt="community-takeroot.jpg" height="369" width="954" />
+    - ID: "a40ebd3d-2b41-41fb-90f7-753544ce77c5"
+      Hint: Hero Title1
+      Value: AFL's Corporate Social Responsibility Statement
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T091530Z
+    - ID: "dd0b26a2-9ca3-4573-b501-3b33a6efbc65"
+      Hint: Hero Title2
+      Value: 
+- Language: "es-MX"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211223T144210Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Corporate Social Responsibility
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: AFL Corporate Social Responsibility statement includes our core values Customers First; Integrity; Innovation; Collaboration and Accountability; Environment, Health and Safety; and Community Engagement.
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        With operations in seven countries, AFL employs approximately 4,500 associates worldwide. Over the past 30+ years, AFL has seen many changes in technology, manufacturing and engineering, as well as changes across our markets and geographies around the world. We believe that AFL continues to succeed due to the strength of our associates and our core values, which drive our culture and priorities, and provide a framework in which decisions are made. AFL’s core values are: Customers First; Integrity; Innovation; Collaboration and Accountability; Environment, Health and Safety; and Community Engagement.<br />
+        <br />
+        <h2><a href="~/link.aspx?_id=6AD6F291903B44AE802B0ED119A5A1E4&_z=z">Customers First</a></h2>
+        <br />
+        Our company was literally built on putting the customer first. In 1984, AFL was formed to manufacture fiber optic cable for utility and telecommunications customers. After 30 years, we are still laser focused on serving our customers. Across our company, our associates are doing whatever it takes to exceed our customers’ expectations.<br />
+        <br />
+        <h2><a href="~/link.aspx?_id=5E57F90DD6A0422FA5296E26BDC8F604&_z=z">Integrity</a></h2>
+        <br />
+        At AFL, we understand that people shape our culture. That's why each associate is enabled to truly make a difference. AFL drives decision-making down into the organization. We know that the best concepts and processes come from associates on the front line with strong work ethics and enthusiasm to accomplish projects with integrity.<br />
+        <br />
+        <h2><a href="~/link.aspx?_id=3FCE0BA3E2514D959CB1ED05B0CBB01E&_z=z">Innovation</a></h2>
+        <br />
+        AFL is a perennial leader when it comes to the development of innovative products across our markets. Our commercial teams work closely with our research and development teams to define new areas for product growth and development. Our commitment to innovation is exemplified in the number of patents for which we apply each year. Currently, AFL has been awarded over 100 patents.<br />
+        <br />
+        <h2><a href="~/link.aspx?_id=B953A8A10BFD44A48BA010AEA6F829B1&_z=z">Collaboration and Accountability</a></h2>
+        <br />
+        AFL is dedicated to providing quality products and exceptional service and is committed to exceeding the expectations of our customers. Our goal is to first understand exactly what our customers need and work together to achieve the solution that best suits their application. Across the company, our associates are collaborating with each other to deliver solutions that improve our customers’ businesses.<br />
+        <br />
+        <h2><a href="~/link.aspx?_id=42FDC709BA964169AF29F0445E1F59A1&_z=z">Environment, Health and Safety</a></h2>
+        <br />
+        AFL has a long and proven history of focusing on the health and safety of our workforce and the preservation of the environment for the benefit of communities today and future generations. Our commitment includes specific short- and long-term goals at our manufacturing sites. For more information on these efforts, please go to our<br />
+        <a href="~/link.aspx?_id=F32459CE4C844719A8C4BEBE908499D7&_z=z">Environmental Sustainability</a> page. AFL is also committed to working with our customers and suppliers to ensure that minerals used in our products are not sourced from conflict zones. For more information read our <a href="~/link.aspx?_id=1C373F2CCD6C4B3CB5E33FCCFD22A534&_z=z">Conflict Minerals Policy</a>.<br />
+        <br />
+        <h2><a href="~/link.aspx?_id=F5E14B660F224CD79DB21F673AE9DB95&_z=z">Community Engagement</a></h2>
+        <br />
+        AFL is committed to being an exemplary corporate citizen in the communities where we operate. Our <a href="~/link.aspx?_id=5C491C798DA748F8B92330B6405E3094&_z=z">Community Advisory Board</a> consists of local and regional business and community leaders that are helping us reach our goal – to connect with our communities through financial and social commitments, improving the quality of life.
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\harry
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: AFL Corporate Social Responsibility statement
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: Responsabilidad social corporativa
+    - ID: "628db04b-29a2-483b-a88c-b8fd9a5f2086"
+      Hint: HeroLink
+      Value: |
+        <link id="{9718815C-23CD-4751-8F29-05236F52EA31}" querystring="" target="|Custom" text="LEARN MORE" anchor="" url="/AFL-Global/AMERICAS/Home/Company/Company Profile/UP Corporate Social Responsibility" title="" class="" linktype="internal" />
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: Responsabilidad social corporativa
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "cc2b6ea9-4869-4c63-ac35-6bdb0fed0167"
+    - ID: "93dc88f3-05e5-482d-9b9a-c859c8258a73"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="168707" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/168707/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/2f5811acd9bc4934b768bda0b175a254?v=3d3f66b4" stylelabs-content-type="Image" alt="community-takeroot.jpg" height="369" width="954" />
+    - ID: "a40ebd3d-2b41-41fb-90f7-753544ce77c5"
+      Hint: Hero Title1
+      Value: AFL's Corporate Social Responsibility Statement
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T091530Z
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211223T144210Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Corporate Social Responsibility
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: AFL Corporate Social Responsibility statement includes our core values Customers First; Integrity; Innovation; Collaboration and Accountability; Environment, Health and Safety; and Community Engagement.
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        With operations in seven countries, AFL employs approximately 4,500 associates worldwide.&nbsp;Over the past 30+ years, AFL has seen many changes in technology, manufacturing and engineering, as well as changes across our markets and geographies around the world. We believe that AFL continues to succeed due to the strength of our associates and our core values, which drive our culture and priorities, and provide a framework in which decisions are made. AFL&rsquo;s core values are:&nbsp;Customers First;&nbsp;Integrity;&nbsp;Innovation;&nbsp;Collaboration and Accountability;&nbsp;Environment, Health and Safety; and&nbsp;Community Engagement.<br />
+        <br />
+        <h2>Customers First</h2>
+        <br />
+        Our company was literally built on putting the customer first. In 1984, AFL was formed to manufacture fiber optic cable for utility and telecommunications customers. After 30 years, we are still laser focused on serving our customers. Across our company, our associates are doing whatever it takes to exceed our customers&rsquo; expectations.<br />
+        <br />
+        <h2>Integrity</h2>
+        <br />
+        At AFL, we understand that people shape our culture. That's why each associate is enabled to truly make a difference. AFL drives decision-making down into the organization. We know that the best concepts and processes come from associates on the front line with strong work ethics and enthusiasm to accomplish projects with integrity.<br />
+        <br />
+        <h2>Innovation</h2>
+        <br />
+        AFL is a perennial leader when it comes to the development of innovative products across our markets. Our commercial teams work closely with our research and development teams to define new areas for product growth and development. Our commitment to innovation is exemplified in the number of patents for which we apply each year. Currently, AFL has been awarded over 100 patents.<br />
+        <br />
+        <h2>Collaboration and Accountability</h2>
+        <br />
+        AFL is dedicated to providing quality products and exceptional service and is committed to exceeding the expectations of our customers. Our goal is to first understand exactly what our customers need and work together to achieve the solution that best suits their application. Across the company, our associates are collaborating with each other to deliver solutions that improve our customers&rsquo; businesses.<br />
+        <br />
+        <h2>Environment, Health and Safety</h2>
+        <br />
+        AFL has a long and proven history of focusing on the health and safety of our workforce and the preservation of the environment for the benefit of communities today and future generations. Our commitment includes specific short- and long-term goals at our manufacturing sites. For more information on these efforts, please go to our<br />
+        <a href="/Company/Environment-Health-Safety/Environmental-Sustainability">Environmental Sustainability</a>&nbsp;page. AFL is also committed to working with our customers and suppliers to ensure that minerals used in our products are not sourced from conflict zones. For more information read our&nbsp;<a href="/Company/Environment-Health-Safety/Environmental-Sustainability/Conflict-Mineral-Policy">Conflict Minerals Policy</a>.<br />
+        <br />
+        <h2>Community Engagement</h2>
+        <br />
+        AFL is committed to being an exemplary corporate citizen in the communities where we operate. Our&nbsp;<a href="/Company/Community/Community-Advisory-Board">Community Advisory Board</a>&nbsp;consists of local and regional business and community leaders that are helping us reach our goal &ndash; to connect with our communities through financial and social commitments, improving the quality of life.
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\harry
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: AFL Corporate Social Responsibility statement
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: Corporate Social Responsibility
+    - ID: "628db04b-29a2-483b-a88c-b8fd9a5f2086"
+      Hint: HeroLink
+      Value: |
+        <link id="{9718815C-23CD-4751-8F29-05236F52EA31}" querystring="" target="|Custom" text="LEARN MORE" anchor="" url="/AFL-Global/AMERICAS/Home/Company/Company Profile/UP Corporate Social Responsibility" title="" class="" linktype="internal" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e56b1300-a6a0-4d73-80a8-d872bf030098"
+    - ID: "93dc88f3-05e5-482d-9b9a-c859c8258a73"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image mediaid="{FE0503F4-6E63-4CBD-8F95-5B61268EB239}" />
+    - ID: "a40ebd3d-2b41-41fb-90f7-753544ce77c5"
+      Hint: Hero Title1
+      Value: AFL's Corporate Social Responsibility Statement
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rafael
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231005T015852Z
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211223T144210Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Corporate Social Responsibility
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: AFL Corporate Social Responsibility statement includes our core values Customers First; Integrity; Innovation; Collaboration and Accountability; Environment, Health and Safety; and Community Engagement.
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        With operations in seven countries, AFL employs approximately 4,500 associates worldwide. Over the past 30+ years, AFL has seen many changes in technology, manufacturing and engineering, as well as changes across our markets and geographies around the world. We believe that AFL continues to succeed due to the strength of our associates and our core values, which drive our culture and priorities, and provide a framework in which decisions are made. AFL’s core values are: Customers First; Integrity; Innovation; Collaboration and Accountability; Environment, Health and Safety; and Community Engagement.<br />
+        <br />
+        <h2><a href="~/link.aspx?_id=6AD6F291903B44AE802B0ED119A5A1E4&_z=z">Customers First</a></h2>
+        <br />
+        Our company was literally built on putting the customer first. In 1984, AFL was formed to manufacture fiber optic cable for utility and telecommunications customers. After 30 years, we are still laser focused on serving our customers. Across our company, our associates are doing whatever it takes to exceed our customers’ expectations.<br />
+        <br />
+        <h2><a href="~/link.aspx?_id=5E57F90DD6A0422FA5296E26BDC8F604&_z=z">Integrity</a></h2>
+        <br />
+        At AFL, we understand that people shape our culture. That's why each associate is enabled to truly make a difference. AFL drives decision-making down into the organization. We know that the best concepts and processes come from associates on the front line with strong work ethics and enthusiasm to accomplish projects with integrity.<br />
+        <br />
+        <h2><a href="~/link.aspx?_id=3FCE0BA3E2514D959CB1ED05B0CBB01E&_z=z">Innovation</a></h2>
+        <br />
+        AFL is a perennial leader when it comes to the development of innovative products across our markets. Our commercial teams work closely with our research and development teams to define new areas for product growth and development. Our commitment to innovation is exemplified in the number of patents for which we apply each year. Currently, AFL has been awarded over 100 patents.<br />
+        <br />
+        <h2><a href="~/link.aspx?_id=B953A8A10BFD44A48BA010AEA6F829B1&_z=z">Collaboration and Accountability</a></h2>
+        <br />
+        AFL is dedicated to providing quality products and exceptional service and is committed to exceeding the expectations of our customers. Our goal is to first understand exactly what our customers need and work together to achieve the solution that best suits their application. Across the company, our associates are collaborating with each other to deliver solutions that improve our customers’ businesses.<br />
+        <br />
+        <h2><a href="~/link.aspx?_id=42FDC709BA964169AF29F0445E1F59A1&_z=z">Environment, Health and Safety</a></h2>
+        <br />
+        AFL has a long and proven history of focusing on the health and safety of our workforce and the preservation of the environment for the benefit of communities today and future generations. Our commitment includes specific short- and long-term goals at our manufacturing sites. For more information on these efforts, please go to our<br />
+        <a href="~/link.aspx?_id=F32459CE4C844719A8C4BEBE908499D7&_z=z">Environmental Sustainability</a> page. AFL is also committed to working with our customers and suppliers to ensure that minerals used in our products are not sourced from conflict zones. For more information read our <a href="~/link.aspx?_id=1C373F2CCD6C4B3CB5E33FCCFD22A534&_z=z">Conflict Minerals Policy</a>.<br />
+        <br />
+        <h2><a href="~/link.aspx?_id=F5E14B660F224CD79DB21F673AE9DB95&_z=z">Community Engagement</a></h2>
+        <br />
+        AFL is committed to being an exemplary corporate citizen in the communities where we operate. Our <a href="~/link.aspx?_id=5C491C798DA748F8B92330B6405E3094&_z=z">Community Advisory Board</a> consists of local and regional business and community leaders that are helping us reach our goal – to connect with our communities through financial and social commitments, improving the quality of life.
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\harry
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: AFL Corporate Social Responsibility statement
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: Responsabilité sociale d'entreprise
+    - ID: "628db04b-29a2-483b-a88c-b8fd9a5f2086"
+      Hint: HeroLink
+      Value: |
+        <link id="{9718815C-23CD-4751-8F29-05236F52EA31}" querystring="" target="|Custom" text="LEARN MORE" anchor="" url="/AFL-Global/AMERICAS/Home/Company/Company Profile/UP Corporate Social Responsibility" title="" class="" linktype="internal" />
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: Responsabilité sociale d'entreprise
+    - ID: "875fbf1e-8785-4128-9909-a0b2789e8b26"
+      Hint: FeaturedComponentHeading
+      Value: 
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2fddb96a-d920-4445-a050-16199d536701"
+    - ID: "93dc88f3-05e5-482d-9b9a-c859c8258a73"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="168707" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/168707/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/2f5811acd9bc4934b768bda0b175a254?v=3d3f66b4" stylelabs-content-type="Image" alt="community-takeroot.jpg" height="369" width="954" />
+    - ID: "a40ebd3d-2b41-41fb-90f7-753544ce77c5"
+      Hint: Hero Title1
+      Value: AFL's Corporate Social Responsibility Statement
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T091530Z

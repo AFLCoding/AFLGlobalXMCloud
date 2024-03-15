@@ -1,0 +1,431 @@
+﻿---
+ID: "15b90bfd-59cd-41ea-99f5-4142bd4d8afd"
+Parent: "f5e14b66-0f22-4cd7-9db2-1f673ae9db95"
+Template: "bf61de11-b78f-48ea-aaa4-1d17f0d83824"
+Path: "/sitecore/content/AFL-Global/AMERICAS/Home/Company/Community/Imagine-That-NS-Redirect"
+SharedFields:
+- ID: "1fbc6a49-6281-48ee-87e9-a3970b145adb"
+  Hint: NavigationFilter
+  Value: |
+    {E0A2A027-0932-4878-A7D6-0416D5263EFB}
+    {61BD64D6-809E-40AE-9297-2724A19329B3}
+    {D063E9D1-C7B5-4B1E-B31E-69886C9C59F5}
+    {500AE4C0-FA7B-463F-8149-EFFF7F044101}
+    {A0E7FF57-6994-4B09-AA21-104239628D5A}
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{274C9F86-81B9-4FFC-87CA-8B19AB3A526D}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{DAE7C21D-4D3B-4257-A95C-9104CD8AF409}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 800
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "22753447-be25-4035-a3c9-7f875afe8e57"
+      Hint: RedirectUrl
+      Value: |
+        <link linktype="external" url="https://webapps.aflglobal.com/imaginethat/2022/Canada/index-NS.html" anchor="" target="_blank" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211124T172854Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Imagine That NS Redirect
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: Imagine That NS Redirect
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <h2><a href="https://webapps.aflglobal.com/imaginethat/2022/Canada/index-NS.html" target="_blank">Imagine That NS Redirect</a></h2>
+    - ID: "56611f02-691a-4096-b044-63aa83122916"
+      Hint: Content
+      Value: 
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: Imagine That NS Redirect
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: Imagine That NS Redirect
+    - ID: "628db04b-29a2-483b-a88c-b8fd9a5f2086"
+      Hint: HeroLink
+      Value: 
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: Imagine That NS Redirect
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7a651930-e785-4614-9446-6a7f0031054e"
+    - ID: "93dc88f3-05e5-482d-9b9a-c859c8258a73"
+      Hint: HeroBackgroundImage
+      Value: 
+    - ID: "a40ebd3d-2b41-41fb-90f7-753544ce77c5"
+      Hint: Hero Title1
+      Value: Imagine That NS Redirect
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T091544Z
+    - ID: "dd0b26a2-9ca3-4573-b501-3b33a6efbc65"
+      Hint: Hero Title2
+      Value: Imagine That NS Redirect
+- Language: "es-MX"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211124T172854Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Other Initiatives
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: Community Engagement is one of AFL’s core values including Champions for a Cause, Naruse Academic Scholarship, Disaster Relief, and sponsorships. 
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <h2>Imagine contributing even more!</h2>
+        <p>AFL has a corporate culture of giving back. In fact, Community Engagement is one of AFL’s core values. Additional Community Outreach Program initiatives include:</p>
+        <div>Naruse Academic Scholarship</div>
+        <div>Each year AFL awards two four-year scholarships to North American-based associates who have a child entering a college or university. The scholarship was named in memory of Toshihide Naruse, Managing Director of Fujikura, AFL’s parent company, whose contributions to AFL were significant.<br />
+        <br />
+        <a href="~/link.aspx?_id=BC6707B7D95C4AF09898E49B050DDBAC&_z=z">2020-2021 Award Recipient</a><br />
+        <a href="~/link.aspx?_id=E3633B307F93445788ECD0DC34D23DF9&_z=z">2019-2020 Award Recipient</a><br />
+        <a href="~/link.aspx?_id=91B34A40A29343D9B41540DCFB97EC7D&_z=z">2018-2019 Award Recipient</a></div>
+        <div><a href="~/link.aspx?_id=C8F3062F25434B0FA187702FB24014EC&_z=z">2017-2018 Award Recipient</a><br />
+        <a href="~/link.aspx?_id=AEBA9BFF608D43EEAB5CB87188C01C1A&_z=z">2016-2017 Award Recipient</a></div>
+        <div> </div>
+        <div>
+        <h2>Sponsorships</h2>
+        <div>AFL invests in events year-round that support requests from associates and nonprofit organizations. Whether AFL sponsors a child's sports or a fundraising event, we proudly support our community.</div>
+        <br />
+        Disaster Relief</div>
+        <div>Our associates understand the need to reach out and help our communities. From hurricanes to earthquakes, AFL’s Community Outreach Program has matched the donations of associates when disaster strikes. AFL has reached out after these most recent disasters:</div>
+        <ul>
+            <li>Australian Wildfires 2020</li>
+            <li>Mexico City Earthquake 2017</li>
+            <li>Hurricane Maria 2017</li>
+            <li>Hurricane Irma 2017</li>
+            <li>Hurricane Harvey 2017</li>
+        </ul>
+        <h2>Visit our <a href="~/link.aspx?_id=F5E14B660F224CD79DB21F673AE9DB95&_z=z">community homepage</a> for more information.</h2>
+        <div> </div>
+    - ID: "56611f02-691a-4096-b044-63aa83122916"
+      Hint: Content
+      Value: |
+        <h2>Imagine contributing even more!</h2>
+        <p>AFL has a corporate culture of giving back. In fact, Community Engagement is one of AFL&rsquo;s core values. Additional Community Outreach Program initiatives include:</p>
+        <div>Naruse Academic Scholarship</div>
+        <div>Each year AFL awards two four-year scholarships to North American-based associates who have a child entering a college or university. The scholarship was named in memory of Toshihide Naruse, Managing Director of Fujikura, AFL&rsquo;s parent company, whose contributions to AFL were significant.<br />
+        <br />
+        <a href="/Company/Company Profile/News/2020/AFL Presents Two Naruse Academic Scholarship Awards">2020-2021 Award Recipient</a><br />
+        <a href="/Company/Company-Profile/News/2019/AFL-Presents-Naruse-Academic-Scholarship-Awards">2019-2020 Award Recipient</a><br />
+        <a href="/Company/Company-Profile/News/2018-News/AFL-Presents-2018-2019-Naruse-Academic-Scholarship">2018-2019 Award Recipient</a></div>
+        <div><a href="/Company/Company-Profile/News/2017/AFL-Presents-2017-2018-Naruse-Academic-Scholarship">2017-2018 Award Recipient</a><br />
+        <a href="/Company/Company-Profile/News/2016/AFL-Presents-2016-2017-Naruse-Academic-Scholarship">2016-2017 Award Recipient</a></div>
+        <div> </div>
+        <div>
+        <h2>Sponsorships</h2>
+        <div>AFL invests in events year-round that support requests from associates and nonprofit organizations. Whether AFL sponsors a child's sports or a fundraising event, we proudly support our community.</div>
+        <br />
+        Disaster Relief</div>
+        <div>Our associates understand the need to reach out and help our communities. From hurricanes to earthquakes, AFL&rsquo;s Community Outreach Program has matched the donations of associates when disaster strikes. AFL has reached out after these most recent disasters:</div>
+        <ul>
+            <li>Australian Wildfires 2020</li>
+            <li>Mexico City Earthquake 2017</li>
+            <li>Hurricane Maria 2017</li>
+            <li>Hurricane Irma 2017</li>
+            <li>Hurricane Harvey 2017</li>
+        </ul>
+        <br />
+        <br />
+        <h2>Visit our <a>community homepage</a> for more information.</h2>
+        <div> </div>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mahesh
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: AFL community engagement community outreach, environmental stewardship, hampions for a Cause, Naruse Academic Scholarship, Disaster Relief, and sponsorships
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: Otras iniciativas
+    - ID: "628db04b-29a2-483b-a88c-b8fd9a5f2086"
+      Hint: HeroLink
+      Value: |
+        <link id="{19332D89-F652-48E0-8A27-1CAFF52B718D}" querystring="" target="|Custom" text="LEARN MORE" anchor="" title="" class="" url="/AFL-Global/AMERICAS/Home/Company/Community/Other Initiatives" linktype="internal" />
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: Otras iniciativas
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d9e39d44-f0eb-4bd4-8c0a-ffb9776a6318"
+    - ID: "93dc88f3-05e5-482d-9b9a-c859c8258a73"
+      Hint: HeroBackgroundImage
+      Value: 
+    - ID: "a40ebd3d-2b41-41fb-90f7-753544ce77c5"
+      Hint: Hero Title1
+      Value: Additional Community Involvement
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T091544Z
+    - ID: "dd0b26a2-9ca3-4573-b501-3b33a6efbc65"
+      Hint: Hero Title2
+      Value: Imagine how we can shape the community
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211124T172854Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Other Initiatives
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: Community Engagement is one of AFL’s core values including Champions for a Cause, Naruse Academic Scholarship, Disaster Relief, and sponsorships. 
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <h2>Imagine contributing even more!</h2>
+        <p>AFL has a corporate culture of giving back. In fact, Community Engagement is one of AFL&rsquo;s core values. Additional Community Outreach Program initiatives include:</p>
+        <div>Naruse Academic Scholarship</div>
+        <div>Each year AFL awards two four-year scholarships to North American-based associates who have a child entering a college or university. The scholarship was named in memory of Toshihide Naruse, Managing Director of Fujikura, AFL&rsquo;s parent company, whose contributions to AFL were significant.<br />
+        <br />
+        <a href="/Company/Company-Profile/News/2020/AFL-Presents-Two-Naruse-Academic-Scholarship-Award">2020-2021 Award Recipient</a><br />
+        <a href="/Company/Company-Profile/News/2019/AFL-Presents-Naruse-Academic-Scholarship-Awards">2019-2020 Award Recipient</a><br />
+        <a href="/Company/Company-Profile/News/2018-News/AFL-Presents-2018-2019-Naruse-Academic-Scholarship">2018-2019 Award Recipient</a></div>
+        <div><a href="/Company/Company-Profile/News/2017/AFL-Presents-2017-2018-Naruse-Academic-Scholarship">2017-2018 Award Recipient</a><br />
+        <a href="/Company/Company-Profile/News/2016/AFL-Presents-2016-2017-Naruse-Academic-Scholarship">2016-2017 Award Recipient</a></div>
+        <div> </div>
+        <div>
+        <h2>Sponsorships</h2>
+        <div>AFL invests in events year-round that support requests from associates and nonprofit organizations. Whether AFL sponsors a child's sports or a fundraising event, we proudly support our community.</div>
+        <br />
+        Disaster Relief</div>
+        <div>Our associates understand the need to reach out and help our communities. From hurricanes to earthquakes, AFL&rsquo;s Community Outreach Program has matched the donations of associates when disaster strikes. AFL has reached out after these most recent disasters:</div>
+        <ul>
+            <li>Australian Wildfires 2020</li>
+            <li>Mexico City Earthquake 2017</li>
+            <li>Hurricane Maria 2017</li>
+            <li>Hurricane Irma 2017</li>
+            <li>Hurricane Harvey 2017</li>
+        </ul>
+        <br />
+        <br />
+        <h2>Visit our <a href="/Company/Community">community homepage</a> for more information.</h2>
+        <div> </div>
+    - ID: "56611f02-691a-4096-b044-63aa83122916"
+      Hint: Content
+      Value: |
+        <h2>Imagine contributing even more!</h2>
+        <p>AFL has a corporate culture of giving back. In fact, Community Engagement is one of AFL&rsquo;s core values. Additional Community Outreach Program initiatives include:</p>
+        <div>Naruse Academic Scholarship</div>
+        <div>Each year AFL awards two four-year scholarships to North American-based associates who have a child entering a college or university. The scholarship was named in memory of Toshihide Naruse, Managing Director of Fujikura, AFL&rsquo;s parent company, whose contributions to AFL were significant.<br />
+        <br />
+        <a href="/Company/Company Profile/News/2020/AFL Presents Two Naruse Academic Scholarship Awards">2020-2021 Award Recipient</a><br />
+        <a href="/Company/Company-Profile/News/2019/AFL-Presents-Naruse-Academic-Scholarship-Awards">2019-2020 Award Recipient</a><br />
+        <a href="/Company/Company-Profile/News/2018-News/AFL-Presents-2018-2019-Naruse-Academic-Scholarship">2018-2019 Award Recipient</a></div>
+        <div><a href="/Company/Company-Profile/News/2017/AFL-Presents-2017-2018-Naruse-Academic-Scholarship">2017-2018 Award Recipient</a><br />
+        <a href="/Company/Company-Profile/News/2016/AFL-Presents-2016-2017-Naruse-Academic-Scholarship">2016-2017 Award Recipient</a></div>
+        <div> </div>
+        <div>
+        <h2>Sponsorships</h2>
+        <div>AFL invests in events year-round that support requests from associates and nonprofit organizations. Whether AFL sponsors a child's sports or a fundraising event, we proudly support our community.</div>
+        <br />
+        Disaster Relief</div>
+        <div>Our associates understand the need to reach out and help our communities. From hurricanes to earthquakes, AFL&rsquo;s Community Outreach Program has matched the donations of associates when disaster strikes. AFL has reached out after these most recent disasters:</div>
+        <ul>
+            <li>Australian Wildfires 2020</li>
+            <li>Mexico City Earthquake 2017</li>
+            <li>Hurricane Maria 2017</li>
+            <li>Hurricane Irma 2017</li>
+            <li>Hurricane Harvey 2017</li>
+        </ul>
+        <br />
+        <br />
+        <h2>Visit our <a>community homepage</a> for more information.</h2>
+        <div> </div>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mahesh
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: AFL community engagement community outreach, environmental stewardship, hampions for a Cause, Naruse Academic Scholarship, Disaster Relief, and sponsorships
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: Other Initiatives
+    - ID: "628db04b-29a2-483b-a88c-b8fd9a5f2086"
+      Hint: HeroLink
+      Value: |
+        <link id="{19332D89-F652-48E0-8A27-1CAFF52B718D}" querystring="" target="|Custom" text="LEARN MORE" anchor="" title="" class="" url="/AFL-Global/AMERICAS/Home/Company/Community/Other Initiatives" linktype="internal" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1ff839fa-224f-4f64-a61c-c84cdcb38f1e"
+    - ID: "93dc88f3-05e5-482d-9b9a-c859c8258a73"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image mediaid="{341B5404-5B4B-4359-BFAF-0689939D70A9}" />
+    - ID: "a40ebd3d-2b41-41fb-90f7-753544ce77c5"
+      Hint: Hero Title1
+      Value: Additional Community Involvement
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahesh
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220224T113537Z
+    - ID: "dd0b26a2-9ca3-4573-b501-3b33a6efbc65"
+      Hint: Hero Title2
+      Value: Imagine how we can shape the community
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211124T172854Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Other Initiatives
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: Community Engagement is one of AFL’s core values including Champions for a Cause, Naruse Academic Scholarship, Disaster Relief, and sponsorships. 
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <h2>Imagine contributing even more!</h2>
+        <p>AFL has a corporate culture of giving back. In fact, Community Engagement is one of AFL’s core values. Additional Community Outreach Program initiatives include:</p>
+        <div>Naruse Academic Scholarship</div>
+        <div>Each year AFL awards two four-year scholarships to North American-based associates who have a child entering a college or university. The scholarship was named in memory of Toshihide Naruse, Managing Director of Fujikura, AFL’s parent company, whose contributions to AFL were significant.<br />
+        <br />
+        <a href="~/link.aspx?_id=BC6707B7D95C4AF09898E49B050DDBAC&_z=z">2020-2021 Award Recipient</a><br />
+        <a href="~/link.aspx?_id=E3633B307F93445788ECD0DC34D23DF9&_z=z">2019-2020 Award Recipient</a><br />
+        <a href="~/link.aspx?_id=91B34A40A29343D9B41540DCFB97EC7D&_z=z">2018-2019 Award Recipient</a></div>
+        <div><a href="~/link.aspx?_id=C8F3062F25434B0FA187702FB24014EC&_z=z">2017-2018 Award Recipient</a><br />
+        <a href="~/link.aspx?_id=AEBA9BFF608D43EEAB5CB87188C01C1A&_z=z">2016-2017 Award Recipient</a></div>
+        <div> </div>
+        <div>
+        <h2>Sponsorships</h2>
+        <div>AFL invests in events year-round that support requests from associates and nonprofit organizations. Whether AFL sponsors a child's sports or a fundraising event, we proudly support our community.</div>
+        <br />
+        Disaster Relief</div>
+        <div>Our associates understand the need to reach out and help our communities. From hurricanes to earthquakes, AFL’s Community Outreach Program has matched the donations of associates when disaster strikes. AFL has reached out after these most recent disasters:</div>
+        <ul>
+            <li>Australian Wildfires 2020</li>
+            <li>Mexico City Earthquake 2017</li>
+            <li>Hurricane Maria 2017</li>
+            <li>Hurricane Irma 2017</li>
+            <li>Hurricane Harvey 2017</li>
+        </ul>
+        <h2>Visit our <a href="~/link.aspx?_id=F5E14B660F224CD79DB21F673AE9DB95&_z=z">community homepage</a> for more information.</h2>
+        <div> </div>
+    - ID: "56611f02-691a-4096-b044-63aa83122916"
+      Hint: Content
+      Value: |
+        <h2>Imagine contributing even more!</h2>
+        <p>AFL has a corporate culture of giving back. In fact, Community Engagement is one of AFL&rsquo;s core values. Additional Community Outreach Program initiatives include:</p>
+        <div>Naruse Academic Scholarship</div>
+        <div>Each year AFL awards two four-year scholarships to North American-based associates who have a child entering a college or university. The scholarship was named in memory of Toshihide Naruse, Managing Director of Fujikura, AFL&rsquo;s parent company, whose contributions to AFL were significant.<br />
+        <br />
+        <a href="/Company/Company Profile/News/2020/AFL Presents Two Naruse Academic Scholarship Awards">2020-2021 Award Recipient</a><br />
+        <a href="/Company/Company-Profile/News/2019/AFL-Presents-Naruse-Academic-Scholarship-Awards">2019-2020 Award Recipient</a><br />
+        <a href="/Company/Company-Profile/News/2018-News/AFL-Presents-2018-2019-Naruse-Academic-Scholarship">2018-2019 Award Recipient</a></div>
+        <div><a href="/Company/Company-Profile/News/2017/AFL-Presents-2017-2018-Naruse-Academic-Scholarship">2017-2018 Award Recipient</a><br />
+        <a href="/Company/Company-Profile/News/2016/AFL-Presents-2016-2017-Naruse-Academic-Scholarship">2016-2017 Award Recipient</a></div>
+        <div> </div>
+        <div>
+        <h2>Sponsorships</h2>
+        <div>AFL invests in events year-round that support requests from associates and nonprofit organizations. Whether AFL sponsors a child's sports or a fundraising event, we proudly support our community.</div>
+        <br />
+        Disaster Relief</div>
+        <div>Our associates understand the need to reach out and help our communities. From hurricanes to earthquakes, AFL&rsquo;s Community Outreach Program has matched the donations of associates when disaster strikes. AFL has reached out after these most recent disasters:</div>
+        <ul>
+            <li>Australian Wildfires 2020</li>
+            <li>Mexico City Earthquake 2017</li>
+            <li>Hurricane Maria 2017</li>
+            <li>Hurricane Irma 2017</li>
+            <li>Hurricane Harvey 2017</li>
+        </ul>
+        <br />
+        <br />
+        <h2>Visit our <a>community homepage</a> for more information.</h2>
+        <div> </div>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mahesh
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: AFL community engagement community outreach, environmental stewardship, hampions for a Cause, Naruse Academic Scholarship, Disaster Relief, and sponsorships
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: Autres initiatives
+    - ID: "628db04b-29a2-483b-a88c-b8fd9a5f2086"
+      Hint: HeroLink
+      Value: |
+        <link id="{19332D89-F652-48E0-8A27-1CAFF52B718D}" querystring="" target="|Custom" text="LEARN MORE" anchor="" title="" class="" url="/AFL-Global/AMERICAS/Home/Company/Community/Other Initiatives" linktype="internal" />
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: Autres initiatives
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9f1f8b10-8120-480f-b2d6-80e1bd531015"
+    - ID: "93dc88f3-05e5-482d-9b9a-c859c8258a73"
+      Hint: HeroBackgroundImage
+      Value: 
+    - ID: "a40ebd3d-2b41-41fb-90f7-753544ce77c5"
+      Hint: Hero Title1
+      Value: Additional Community Involvement
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T091544Z
+    - ID: "dd0b26a2-9ca3-4573-b501-3b33a6efbc65"
+      Hint: Hero Title2
+      Value: Imagine how we can shape the community

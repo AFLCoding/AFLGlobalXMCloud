@@ -1,0 +1,390 @@
+﻿---
+ID: "17b7db4f-f720-4387-940f-ba051edd538f"
+Parent: "33a4b930-f2ff-4b6a-b570-8dae4461fd4b"
+Template: "bf61de11-b78f-48ea-aaa4-1d17f0d83824"
+Path: "/sitecore/content/AFL-Global/AMERICAS/Home/Resources/AFL Portals"
+SharedFields:
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{274C9F86-81B9-4FFC-87CA-8B19AB3A526D}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{DAE7C21D-4D3B-4257-A95C-9104CD8AF409}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211224T082437Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: AFL Portals
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\harry
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: AFL Portals. We offer two portals. Customer and Agent Portal and a Supplier Portal.
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <h1>AFL Portals</h1>
+        <div>
+        <h3>If you've been directed here from AFL Direct, please read below.</h3>
+        </div>
+        <br />
+        <hr />
+        <div><a rel="noopener noreferrer" class="AFLbutton" href="https://customer.aflglobal.com/login" target="_blank">Customer and Agent Login</a>
+        <a rel="noopener noreferrer" class="AFLbutton" href="https://supplier.aflglobal.com/" target="_blank">Supplier Login</a></div>
+        <br />
+        <hr />
+        <h1>Not sure what this is? See the benefits below.</h1>
+        <h2>Customers and Agents Portal</h2>
+        Looking for your purchase orders sent to AFL?<br />
+        <br />
+        Designed for our customer and agents our login secured portal provides:
+        <ul>
+            <li>Real-time access to your purchase order, AFL sales order, shipment and invoice information.</li>
+            <li>Ability to setup advanced e-mail notifications for orders, shipments and invoices.</li>
+            <li>Specify notifications for specific states/provinces, cities and zip/postal codes.</li>
+            <li>Configure the notifications you need using our notifications wizard.</li>
+            <li>Simply follow the orders and shipments that interest you.</li>
+            <li>Track their progress using the new homepage feed.</li>
+            <li>Advanced search feature allows you to filter and search for the information you need and export it to excel.</li>
+            <li>Training on how you can configure the portal to meet your needs.</li>
+        </ul>
+        We hope you enjoy our new customer portal.<br />
+        Need access to the customer portal? <br />
+        <br />
+        <a rel="noopener noreferrer" class="AFLbutton" href="http://content.aflglobal.com/Customer-Portal-SignUp.html" target="_blank">Sign up</a><br />
+        <br />
+        <hr />
+        <br />
+        <h2>Suppliers Portal</h2>
+        Our suppliers can search for and view AFL purchase order information in real-time. Information includes:
+        <ul>
+            <li>PO number</li>
+            <li>Date</li>
+            <li>Associated buyer</li>
+            <li>Purchase order status</li>
+        </ul>
+        Need access to the supplier portal?<br />
+        <br />
+        <a rel="noopener noreferrer" class="AFLbutton" href="http://content.aflglobal.com/Supplier-Portal-SignUp.html" target="_blank">Sign up</a>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\harry
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: AFL portal customer agent supplier
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: "AFL Portals - Customer and Agents and Supplier portals."
+    - ID: "628db04b-29a2-483b-a88c-b8fd9a5f2086"
+      Hint: HeroLink
+      Value: |
+        <link id="{17B7DB4F-F720-4387-940F-BA051EDD538F}" querystring="" target="|Custom" text="LEARN MORE" anchor="" title="" class="" url="/AFL-Global/AMERICAS/Home/Resources/AFL Portals" linktype="internal" />
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: "AFL Portals - Customer and Agents and Supplier portals."
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1527800a-957b-4290-82a2-1882600a7da2"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d8b38dd7-e9a0-4410-9f17-d436b0c8635a"
+      Hint: OpenGraphImageUrl
+      Value: |
+        <image stylelabs-content-id="173211" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/173211/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/72f7fcddb56b485dae42e4e723b876ce?v=04906f7c" mediaid="" stylelabs-content-type="Image" alt="Connect-header3.jpg" height="440" width="1140" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T090817Z
+- Language: "es-MX"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211224T082437Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: PORTALES DE AFL
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: AFL Portals. We offer two portals. Customer and Agent Portal and a Supplier Portal.
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <h1>AFL Portals</h1>
+        <div>
+        <h3>If you've been directed here from AFL Direct, please read below.</h3>
+        </div>
+        <br />
+        <hr />
+        <div><a rel="noopener noreferrer" class="AFLbutton" href="https://customer.aflglobal.com/login" target="_blank">Customer and Agent Login</a>
+        <a rel="noopener noreferrer" class="AFLbutton" href="https://supplier.aflglobal.com/" target="_blank">Supplier Login</a></div>
+        <br />
+        <hr />
+        <h1>Not sure what this is? See the benefits below.</h1>
+        <h2>Customers and Agents Portal</h2>
+        Looking for your purchase orders sent to AFL?<br />
+        <br />
+        Designed for our customer and agents our login secured portal provides:
+        <ul>
+            <li>Real-time access to your purchase order, AFL sales order, shipment and invoice information.</li>
+            <li>Ability to setup advanced e-mail notifications for orders, shipments and invoices.</li>
+            <li>Specify notifications for specific states/provinces, cities and zip/postal codes.</li>
+            <li>Configure the notifications you need using our notifications wizard.</li>
+            <li>Simply follow the orders and shipments that interest you.</li>
+            <li>Track their progress using the new homepage feed.</li>
+            <li>Advanced search feature allows you to filter and search for the information you need and export it to excel.</li>
+            <li>Training on how you can configure the portal to meet your needs.</li>
+        </ul>
+        We hope you enjoy our new customer portal.<br />
+        Need access to the customer portal? <br />
+        <br />
+        <a rel="noopener noreferrer" class="AFLbutton" href="http://content.aflglobal.com/Customer-Portal-SignUp.html" target="_blank">Sign up</a><br />
+        <br />
+        <hr />
+        <br />
+        <h2>Suppliers Portal</h2>
+        Our suppliers can search for and view AFL purchase order information in real-time. Information includes:
+        <ul>
+            <li>PO number</li>
+            <li>Date</li>
+            <li>Associated buyer</li>
+            <li>Purchase order status</li>
+        </ul>
+        Need access to the supplier portal?<br />
+        <br />
+        <a rel="noopener noreferrer" class="AFLbutton" href="http://content.aflglobal.com/Supplier-Portal-SignUp.html" target="_blank">Sign up</a>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\harry
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: AFL portal customer agent supplier
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: PORTALES DE AFL
+    - ID: "628db04b-29a2-483b-a88c-b8fd9a5f2086"
+      Hint: HeroLink
+      Value: |
+        <link id="{17B7DB4F-F720-4387-940F-BA051EDD538F}" querystring="" target="|Custom" text="LEARN MORE" anchor="" title="" class="" url="/AFL-Global/AMERICAS/Home/Resources/AFL Portals" linktype="internal" />
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: PORTALES DE AFL
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2cce1ac9-6244-4e8f-a97f-f0e9efaaa204"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T090817Z
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211224T082437Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: AFL Portals
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: AFL Portals. We offer two portals. Customer and Agent Portal and a Supplier Portal.
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <h1>AFL Portals</h1>
+        <div>
+        <h3>If you've been directed here from AFL Direct, please read below.</h3>
+        </div>
+        <br />
+        <hr />
+        <div><a rel="noopener noreferrer" class="AFLbutton" href="https://customer.aflglobal.com/login" target="_blank">Customer and Agent Login</a>
+        <a rel="noopener noreferrer" class="AFLbutton" href="https://supplier.aflglobal.com/" target="_blank">Supplier Login</a></div>
+        <br />
+        <hr />
+        <h1>Not sure what this is? See the benefits below.</h1>
+        <h2>Customers and Agents Portal</h2>
+        Looking for your purchase orders sent to AFL?<br />
+        <br />
+        Designed for our customer and agents our login secured portal provides:
+        <ul>
+            <li>Real-time access to your purchase order, AFL sales order, shipment and invoice information.</li>
+            <li>Ability to setup advanced e-mail notifications for orders, shipments and invoices.</li>
+            <li>Specify notifications for specific states/provinces, cities and zip/postal codes.</li>
+            <li>Configure the notifications you need using our notifications wizard.</li>
+            <li>Simply follow the orders and shipments that interest you.</li>
+            <li>Track their progress using the new homepage feed.</li>
+            <li>Advanced search feature allows you to filter and search for the information you need and export it to excel.</li>
+            <li>Training on how you can configure the portal to meet your needs.</li>
+        </ul>
+        We hope you enjoy our new customer portal.<br />
+        Need access to the customer portal?&nbsp;<br />
+        <br />
+        <a rel="noopener noreferrer" class="AFLbutton" href="http://content.aflglobal.com/Customer-Portal-SignUp.html" target="_blank">Sign up</a><br />
+        <br />
+        <hr />
+        <br />
+        <h2>Suppliers Portal</h2>
+        Our suppliers can search for and view AFL purchase order information in real-time. Information includes:
+        <ul>
+            <li>PO number</li>
+            <li>Date</li>
+            <li>Associated buyer</li>
+            <li>Purchase order status</li>
+        </ul>
+        Need access to the supplier portal?<br />
+        <br />
+        <a rel="noopener noreferrer" class="AFLbutton" href="http://content.aflglobal.com/Supplier-Portal-SignUp.html" target="_blank">Sign up</a>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\harry
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: AFL portal customer agent supplier
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: AFL Portals
+    - ID: "628db04b-29a2-483b-a88c-b8fd9a5f2086"
+      Hint: HeroLink
+      Value: |
+        <link id="{17B7DB4F-F720-4387-940F-BA051EDD538F}" querystring="" target="|Custom" text="LEARN MORE" anchor="" title="" class="" url="/AFL-Global/AMERICAS/Home/Resources/AFL Portals" linktype="internal" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "572fc0b2-4ede-40a8-bcd2-258373345b8e"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahesh
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220224T113636Z
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211224T082437Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: PORTAILS AFL
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: AFL Portals. We offer two portals. Customer and Agent Portal and a Supplier Portal.
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <h1>AFL Portals</h1>
+        <div>
+        <h3>If you've been directed here from AFL Direct, please read below.</h3>
+        </div>
+        <br />
+        <hr />
+        <div><a rel="noopener noreferrer" class="AFLbutton" href="https://customer.aflglobal.com/login" target="_blank">Customer and Agent Login</a>
+        <a rel="noopener noreferrer" class="AFLbutton" href="https://supplier.aflglobal.com/" target="_blank">Supplier Login</a></div>
+        <br />
+        <hr />
+        <h1>Not sure what this is? See the benefits below.</h1>
+        <h2>Customers and Agents Portal</h2>
+        Looking for your purchase orders sent to AFL?<br />
+        <br />
+        Designed for our customer and agents our login secured portal provides:
+        <ul>
+            <li>Real-time access to your purchase order, AFL sales order, shipment and invoice information.</li>
+            <li>Ability to setup advanced e-mail notifications for orders, shipments and invoices.</li>
+            <li>Specify notifications for specific states/provinces, cities and zip/postal codes.</li>
+            <li>Configure the notifications you need using our notifications wizard.</li>
+            <li>Simply follow the orders and shipments that interest you.</li>
+            <li>Track their progress using the new homepage feed.</li>
+            <li>Advanced search feature allows you to filter and search for the information you need and export it to excel.</li>
+            <li>Training on how you can configure the portal to meet your needs.</li>
+        </ul>
+        We hope you enjoy our new customer portal.<br />
+        Need access to the customer portal? <br />
+        <br />
+        <a rel="noopener noreferrer" class="AFLbutton" href="http://content.aflglobal.com/Customer-Portal-SignUp.html" target="_blank">Sign up</a><br />
+        <br />
+        <hr />
+        <br />
+        <h2>Suppliers Portal</h2>
+        Our suppliers can search for and view AFL purchase order information in real-time. Information includes:
+        <ul>
+            <li>PO number</li>
+            <li>Date</li>
+            <li>Associated buyer</li>
+            <li>Purchase order status</li>
+        </ul>
+        Need access to the supplier portal?<br />
+        <br />
+        <a rel="noopener noreferrer" class="AFLbutton" href="http://content.aflglobal.com/Supplier-Portal-SignUp.html" target="_blank">Sign up</a>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\harry
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: AFL portal customer agent supplier
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: PORTAILS AFL
+    - ID: "628db04b-29a2-483b-a88c-b8fd9a5f2086"
+      Hint: HeroLink
+      Value: |
+        <link id="{17B7DB4F-F720-4387-940F-BA051EDD538F}" querystring="" target="|Custom" text="LEARN MORE" anchor="" title="" class="" url="/AFL-Global/AMERICAS/Home/Resources/AFL Portals" linktype="internal" />
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: PORTAILS AFL
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d53c8f46-91fa-442b-87a0-e5ee6e26fff7"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T090817Z

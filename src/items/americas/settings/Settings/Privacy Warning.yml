@@ -1,0 +1,166 @@
+﻿---
+ID: "bcbb4c84-846f-45ce-ad15-e2eb4a99e50d"
+Parent: "1f3fcb78-4f16-4740-9aeb-6c25fceb5798"
+Template: "dc66d5da-3216-48e6-ae78-bac8445b6a46"
+Path: "/sitecore/content/AFL-Global/AMERICAS/Settings/Privacy Warning"
+SharedFields:
+- ID: "73501930-26ed-493f-adc9-3ac77fc5ed66"
+  Hint: PrivacyWarningType
+  Value: 
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1466c213-7752-427f-a6b8-e4e2cf6e1264"
+      Hint: LearnMoreText
+      Value: "Privacy-Policy"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211027T075732Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3b0ec038-f48e-4ef6-bdd8-83c2f0ce3b50"
+    - ID: "a4270003-480f-467a-bbea-0d1b05b28656"
+      Hint: LearnMoreTarget
+      Value: |
+        <link id="{57D9A07E-C59A-4572-8458-1B52101169DC}" querystring="" target="|Custom" text="" anchor="" title="" class="" url="/AFL-Global/AMERICAS/Home/Resources/Other Resources/Privacy Policy" linktype="internal" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rgiri
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220312T192326Z
+    - ID: "f2ad4c49-ecc4-4d42-a967-2756182705ac"
+      Hint: PrivacyWarningContent
+      Value: |
+        <div class="afl-gdpr-text"><strong>Cookies Use on AFL Website</strong></div>
+        <div class="afl-gdpr-info">We use cookies to give you the best online experience. By using our website you agree to our use of cookies in accordance with our
+        </div>
+- Language: "es-MX"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1466c213-7752-427f-a6b8-e4e2cf6e1264"
+      Hint: LearnMoreText
+      Value: "Privacy-Policy"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211027T075732Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ee7824aa-e57b-4d38-8f56-84c87c2b2e8c"
+    - ID: "a4270003-480f-467a-bbea-0d1b05b28656"
+      Hint: LearnMoreTarget
+      Value: |
+        <link id="{57D9A07E-C59A-4572-8458-1B52101169DC}" querystring="" target="|Custom" text="" anchor="" title="" class="" url="/AFL-Global/AMERICAS/Home/Resources/Other Resources/Privacy Policy" linktype="internal" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahesh
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220215T134310Z
+    - ID: "f2ad4c49-ecc4-4d42-a967-2756182705ac"
+      Hint: PrivacyWarningContent
+      Value: |
+        <div class="afl-gdpr-text"><strong>Cookies Use on AFL Website</strong></div>
+        <div class="afl-gdpr-info">We use cookies to give you the best online experience. By using our website you agree to our use of cookies in accordance with our
+        </div>
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1466c213-7752-427f-a6b8-e4e2cf6e1264"
+      Hint: LearnMoreText
+      Value: "Privacy-Policy"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211027T075732Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c9f015d1-3205-42de-9482-720cef441981"
+    - ID: "a4270003-480f-467a-bbea-0d1b05b28656"
+      Hint: LearnMoreTarget
+      Value: |
+        <link id="{57D9A07E-C59A-4572-8458-1B52101169DC}" querystring="" target="|Custom" text="" anchor="" title="" class="" url="/AFL-Global/AMERICAS/Home/Resources/Other Resources/Privacy Policy" linktype="internal" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahesh
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220215T102203Z
+    - ID: "f2ad4c49-ecc4-4d42-a967-2756182705ac"
+      Hint: PrivacyWarningContent
+      Value: |
+        <div class="afl-gdpr-text"><strong>Cookies Use on AFL Website</strong></div>
+        <div class="afl-gdpr-info">We use cookies to give you the best online experience. By using our website you agree to our use of cookies in accordance with our
+        </div>
+  - Version: 2
+    Fields:
+    - ID: "1466c213-7752-427f-a6b8-e4e2cf6e1264"
+      Hint: LearnMoreText
+      Value: "Privacy-Policy"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211027T075732Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5e2803b8-a951-4d9a-bb38-e394d962b16b"
+    - ID: "a4270003-480f-467a-bbea-0d1b05b28656"
+      Hint: LearnMoreTarget
+      Value: |
+        <link id="{57D9A07E-C59A-4572-8458-1B52101169DC}" querystring="" target="|Custom" text="" anchor="" title="" class="" url="/AFL-Global/AMERICAS/Home/Resources/Other Resources/Privacy Policy" linktype="internal" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahesh
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220310T080804Z
+    - ID: "f2ad4c49-ecc4-4d42-a967-2756182705ac"
+      Hint: PrivacyWarningContent
+      Value: |
+        <div class="afl-gdpr-text"><strong>Cookies Use on AFL Website</strong></div>
+        <div class="afl-gdpr-info">We use cookies to give you the best online experience. By using our website you agree to our use of cookies in accordance with our
+        </div>
