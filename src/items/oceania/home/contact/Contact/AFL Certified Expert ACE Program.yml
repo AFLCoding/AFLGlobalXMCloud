@@ -1,0 +1,109 @@
+﻿---
+ID: "0e3b81cd-fa47-4339-97d3-0d132cda7fbc"
+Parent: "d33943ec-9785-41e3-8392-1303c5efd0e9"
+Template: "bf61de11-b78f-48ea-aaa4-1d17f0d83824"
+Path: "/sitecore/content/AFL-Global/OCEANIA/Home/Contact/AFL Certified Expert ACE Program"
+SharedFields:
+- ID: "1fbc6a49-6281-48ee-87e9-a3970b145adb"
+  Hint: NavigationFilter
+  Value: |
+    {E0A2A027-0932-4878-A7D6-0416D5263EFB}
+    {500AE4C0-FA7B-463F-8149-EFFF7F044101}
+    {A0E7FF57-6994-4B09-AA21-104239628D5A}
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{EDC9686A-85F3-466E-8E7E-3D28540B77AB}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{DAE7C21D-4D3B-4257-A95C-9104CD8AF409}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 700
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{4A0E4C96-B682-430A-BB40-8EF0196502E3}"
+              s:ds="{FEDF2C34-2472-4863-AEAC-2F1734A9133F}"
+              s:id="{6162223D-9EAA-490C-A628-DA2A76933DD4}"
+              s:par="Reset Caching Options&amp;GridParameters&amp;FieldNames&amp;Styles=%7B1A3163C3-C552-4BFA-ADC9-C7B3A0DC5BF4%7D&amp;RenderingIdentifier&amp;DynamicPlaceholderId=2&amp;CacheClearingBehavior=Clear%20on%20publish"
+              s:ph="main"
+              s:ccb="Clear on publish" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211122T084153Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: AFL Certified Expert (ACE) Program
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: "AFL Certified Expert (ACE) Installers Program - ACE Installers can design and install an AFL end-to-end system with a limited lifetime warranty. "
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <p>AFL  is a market leader in developing and manufacturing fibre optic solutions for a  wide variety of industries and applications.   We carefully select Installer Partners that insist on the same quality  of workmanship that we do at AFL. By doing so, we have built a network of AFL  Certified Expert (ACE) Installers that design and install AFL fibre optic  systems. </p>
+        <p>As an AFL ACE Installer, you will enjoy the confidence of designing and installing  an AFL system that will fit the unique needs of each customer, as well as  provide the piece of mind that an AFL Certified Site Guarantee (CSG) offers.  This, coupled with individual technical support offered by AFL, will clearly  differentiate you from your competition.</p>
+        <p>ACE  Installers are a very important component of the Certified Site Guarantee we  offer. We carefully select partners that are as stringent about quality  workmanship as we are at AFL. As an ACE Installer, you can separate yourself  from the competition by offering great products with the best warranty in the industry.</p>
+        <p>• <strong>Leading Edge Technology</strong><br />
+        Better understanding of fibre technology in addition to updates of new  technology development to make sure you stay ahead of your competition.</p>
+        <p>• <strong>Single Source System Supplier</strong><br />
+        One company to go to for all your fibre, copper and technical support needs.</p>
+        <p><strong>• Industry Standard 20-Year  Performance Warranty</strong> <br />
+        Written around performance standards to give your customers peace of mind for  the 20-year CSG of their fibre installation.</p>
+        <p>• <strong>New Specialised Certifications</strong><br />
+        Opportunity to achieve new accreditations.</p>
+        <p>• <strong>Engineering Support</strong><br />
+        An Engineer on Call to help you better understand any technical issue so you  can determine the solution that best fits each customer’s needs and  applications.</p>
+        <p><strong>• Marketing Incentives</strong><br />
+        Gain access to the power behind the AFL brand, including being listed on  AFLglobal.com as an ACE Installer.</p>
+        <p>• <strong>Rebate  Program</strong><br />
+        Earn rebates based on AFL product purchases.</p>
+        <p><strong>More information on the ACE Program</strong></p>
+        <p><a class="btn btn-primary" rel="noopener noreferrer" href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-ACE-Program-Brochure-AUNZ?v=a8e536db" target="_blank">Download ACE Program Brochure</a></p>
+        <p><a href="~/link.aspx?_id=922731B52A6C4C5ABC971765BBDA49DA&_z=z" class="btn btn-primary">Find an ACE Partner</a></p>
+        <p>
+        <strong> <span>*Lifetime is defined as the System Design Lifetime which is 25 years.</span></strong></p>
+    - ID: "56611f02-691a-4096-b044-63aa83122916"
+      Hint: Content
+      Value: 
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: AFL Certified Expert (ACE) Installers n Program AFL certified link warranty
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: AFL Certified Expert ACE Program
+    - ID: "628db04b-29a2-483b-a88c-b8fd9a5f2086"
+      Hint: HeroLink
+      Value: |
+        <link id="{366C8820-BADD-41DD-A243-CC32938D3FF8}" querystring="" linktype="internal" text="LEARN MORE" anchor="" url="/AFL-Global/AMERICAS/Home/Contact/AFL Certified Expert ACE Program" title="" class="" target="|Custom" />
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: AFL Certified Expert ACE Program
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "13c2037d-f25d-49f9-93f4-b5fa8524c0ec"
+    - ID: "93dc88f3-05e5-482d-9b9a-c859c8258a73"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="167242" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/167242/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/ACEprogrambanner?v=aa70fdf8" stylelabs-content-type="Image" alt="ACE-Program.jpg" height="369" width="954" />
+    - ID: "a40ebd3d-2b41-41fb-90f7-753544ce77c5"
+      Hint: Hero Title1
+      Value: AFL Certified Expert (ACE) Program
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T093801Z

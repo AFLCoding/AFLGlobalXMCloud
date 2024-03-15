@@ -1,0 +1,42 @@
+﻿---
+ID: "b0a3f711-ff52-4aa5-884d-abe5d0f7ab9d"
+Parent: "3d7d31aa-ad5b-437f-a9f1-9f6cebf18499"
+Template: "58f6f985-9278-4625-b289-f5e86e840b79"
+Path: "/sitecore/content/AFL-Global/OCEANIA/Data/AFL-Hero Folder/Hero Items/Service Items/Service3"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "01221109-d467-43e1-b8a8-0730663a2139"
+      Hint: HeroLink
+      Value: |
+        <link text="DOWNLOAD" linktype="external" url="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-AUNZ-Corporate-Capabilities-Profile?v=88b9a361" anchor="" target="_blank" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211101T140630Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2367766b-6d16-4dda-ac3c-47a1eb74bf82"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rob
+    - ID: "bdc73b13-efa2-4084-a5be-a2d46aa0a74c"
+      Hint: Hero Title
+      Value: Corporate Capabilities Brochure
+    - ID: "c87bc2e3-f30b-4991-972b-a811e360ed64"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="73530" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/73530/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/Energybanner?v=5c80ff80" stylelabs-content-type="Image" alt="MicrosoftTeams-image (8).png" height="277" width="553" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220406T173453Z

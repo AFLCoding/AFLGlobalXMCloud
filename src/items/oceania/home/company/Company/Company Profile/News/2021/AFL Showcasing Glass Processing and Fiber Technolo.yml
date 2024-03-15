@@ -1,0 +1,106 @@
+﻿---
+ID: "4df39f3f-6e4e-4570-941a-5b1933817ded"
+Parent: "08aece6a-23bf-4d44-96f9-9000080644cc"
+Template: "f36e821e-bb98-44dc-966d-e92a0e033cc7"
+Path: "/sitecore/content/AFL-Global/OCEANIA/Home/Company/Company Profile/News/2021/AFL Showcasing Glass Processing and Fiber Technolo"
+SharedFields:
+- ID: "1fbc6a49-6281-48ee-87e9-a3970b145adb"
+  Hint: NavigationFilter
+  Value: |
+    {E0A2A027-0932-4878-A7D6-0416D5263EFB}
+    {61BD64D6-809E-40AE-9297-2724A19329B3}
+    {D063E9D1-C7B5-4B1E-B31E-69886C9C59F5}
+    {500AE4C0-FA7B-463F-8149-EFFF7F044101}
+    {A0E7FF57-6994-4B09-AA21-104239628D5A}
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{3A84BAC9-C1BD-4809-A12C-28EB44E25329}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{DAE7C21D-4D3B-4257-A95C-9104CD8AF409}"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{48D826CA-7AE6-4387-AE67-E7070B242906}">
+          <p:d />
+        </r>
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: 
+    - ID: "228f9517-e120-4014-b2c7-df0ac467a349"
+      Hint: ContentTitle
+      Value: AFL Showcasing Glass Processing and Fiber Technology at SPIE Photonics West 2021
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211202T115532Z
+    - ID: "3688d7df-2feb-43a4-ab8d-410e5f70a676"
+      Hint: ContentDescription
+      Value: |
+        <div>Spartanburg, SC &ndash;&nbsp;<a href="http://www.aflglobal.com/">AFL</a>, an industry-leading manufacturer of fiber optic cable, equipment and accessories, is exhibiting at the virtual&nbsp;<a href="https://spie.org/conferences-and-exhibitions/photonics-west/marketplace/photonics-west-marketplace/exhibitors?utm_id=zpw21xo1e&amp;spMailingID=6649024&amp;spUserID=NTE0Mjk1ODg1ODkS1&amp;spJobID=1220145998&amp;spReportId=MTIyMDE0NTk5NwS2&amp;SSO=1">SPIE Photonics West</a>&nbsp;and showcasing the&nbsp;<a href="~/link.aspx?_id=F33349693D2346A3933ED74A44218347&amp;_z=z">LZM-125 LAZERMaster splicing and glass processing system</a>, the&nbsp;<a href="~/link.aspx?_id=76980661631C4C62A5F120B5E7B6F9D0&amp;_z=z">Fujikura FSM-100P/P+</a>&nbsp;with new observation method,&nbsp;<a href="~/link.aspx?_id=97DE1C0D6E8749508DF3FA4FF87FA83E&amp;_z=z">Fujikura CT+ LDF (large diameter fiber) cleavers</a>&nbsp;and&nbsp;<a href="https://learn.aflglobal.com/product-specialty-fiber/500-c-rated-optical-fibers-for-high-temperature-applications">500&deg;C metal-coated specialty optical fiber</a>. Visit AFL virtually to learn more about these new products:<br />
+        AFL&rsquo;s new&nbsp;LZM-125 LAZERMaster&reg; Splicing System&nbsp;is a splicing, glass processing system and fiber ablation machine that uses a CO2&nbsp;laser heat source to perform splicing, tapering, lensing ablation and other glass shaping operations with glass diameters up to 2.0 mm. The high-resolution optical analysis system works in conjunction with on-board firmware for fully automatic splicing, tapering and other glass shaping processes. The new LZM-125 series includes a self-contained workstation.<br />
+        <br />
+        The&nbsp;Fujikura FSM-100P/P+ specialty fiber fusion splicer&nbsp;includes a new observation method for fiber rotational alignment. IPA2 provides an enhanced alignment technique for shaped and multi-core fibers and keeps the previously existing FSM100P/P+ alignment capabilities.&nbsp;IPA2 provides a new set of tools for aligning fibers that are less common or more difficult to align with our existing methods.<br />
+        <br />
+        The&nbsp;Fujikura LDF Cleavers cleave fibers up to 1,250 &mu;m and has the ability to provide both flat (CT-104+ and CT-105+) and angled cleaves (CT-106+) using an automatic clamping system with programmable force. The new CT+ series has an automatic clamping force feature that quickly sets the optimum clamping force which is critical for providing quality cleaves without damaging the fiber. The new blade material provides at least a 5X increase in cleaver blade life. The color LCD shows cleaving progress and recommended insert size depending on fiber coating and cladding diameter, and the USB port allows for saving and storing cleaving programs to a PC or tablet.&nbsp;<br />
+        <br />
+        The 500&deg;C Metal-Coated&nbsp;<a href="~/link.aspx?_id=5AB6A30E51E6470DADAF45066D58C314&amp;_z=z">Optical Fibers</a>&nbsp;VHT500 single-mode and VHT5000 multimode fibers feature advanced glass chemistries for improved performance in hydrogen-rich environments, and excellent optical performance in permanent, long-term exposure to temperatures up to 500&deg;C. Learn more about this product by&nbsp;<a href="https://learn.aflglobal.com/product-specialty-fiber/500-c-rated-optical-fibers-for-high-temperature-applications">reading this white paper</a>.<br />
+        <br />
+        Additionally, AFL has developed a broad range of medical optical fibers to address the needs of minimally-­invasive diagnostic and surgical procedures. AFL&rsquo;s&nbsp;<a href="~/link.aspx?_id=C8F64CF76EC148CF84690B8E7C6E98A2&amp;_z=z">medical offering</a>&nbsp;includes both sensing fibers as well as Laser Power Delivery designs. Medical fibers are available in a broad range of designs including diameters from 80 &micro;m to 2 mm.<br />
+        <br />
+        To learn more about AFL, its products and services, visit&nbsp;<a href="http://www.aflglobal.com/">www.AFLglobal.com</a>.<br />
+        <br />
+        About AFL<br />
+        Founded in 1984, AFL is an international manufacturer providing end-to-end solutions to the energy, service provider, enterprise and industrial markets as well as several emerging markets. The company&rsquo;s products are in use in over 130 countries and include fiber optic cable and hardware, transmission and substation accessories, outside plant equipment, connectivity, test and inspection equipment, fusion splicers and training. AFL also offers a wide variety of services supporting data center, enterprise, wireless and outside plant applications.<br />
+        <p>
+        Headquartered in Spartanburg, SC, AFL has  operations in the U.S., Mexico, Canada, Europe, Asia and Australia, and is a  wholly owned subsidiary of Fujikura Ltd. of Japan. For more information,  visit&nbsp;<a href="http://www.aflglobal.com/">www.AFLglobal.com</a>.  Follow us on&nbsp;<a href="https://www.linkedin.com/company/aflglobal">LinkedIn</a>,&nbsp;<a href="https://twitter.com/AFLglobal">X</a>,&nbsp;<a href="https://www.facebook.com/AFLglobal">Facebook</a>, and read our&nbsp;<a href="https://www.aflglobal.com/AFL-Blog/">blog</a>.</p>
+        Contacts<br />
+        Michael Hetrick<br />
+        National Sales Manager, AFL<br />
+        410.937.8048<br />
+        <a href="mailto:Michael.Hetrick@AFLglobal.com">Michael.Hetrick@AFLglobal.com</a><br />
+        <br />
+        Corie Culp<br />
+        Public Relations Manager, AFL<br />
+        864.433.5409<br />
+        <a href="mailto:Corie.Culp@AFLglobal.com">Corie.Culp@AFLglobal.com</a></div>
+    - ID: "4c3792cf-8348-4d85-9cac-3f6086716488"
+      Hint: ContentCategory
+      Value: "{F78EA78A-E127-49A5-95B6-7DE64F85F319}"
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: AFL Showcasing Glass Processing and Fiber Technolo
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: AFL Showcasing Glass Processing and Fiber Technolo
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: AFL Showcasing Glass Processing and Fiber Technolo
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5f5e34ef-cd85-4fdb-8601-7b1f0a89cc13"
+    - ID: "9dd4f0d9-c123-47a8-8cef-2c85cea172f6"
+      Hint: ContentImage
+      Value: |
+        <image mediaid="{D267F04F-3C66-44B4-9AE8-3ED8E36E49C0}" />
+    - ID: "a6eaffd5-fc3e-41b4-93b3-f1721fcf2300"
+      Hint: ContentPublishedDate
+      Value: 20210307T183000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T093852Z

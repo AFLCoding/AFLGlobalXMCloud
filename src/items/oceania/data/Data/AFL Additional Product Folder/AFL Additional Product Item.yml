@@ -1,0 +1,48 @@
+﻿---
+ID: "4f3edb56-5318-4ad1-bb23-d83ab4051de5"
+Parent: "0cbbef8f-6fe4-4d4a-a343-55962c45d0c7"
+Template: "e7037b42-b31a-46f2-821f-66db5e18b889"
+Path: "/sitecore/content/AFL-Global/OCEANIA/Data/AFL Additional Product Folder/AFL Additional Product Item"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211105T141138Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "df577835-a878-4805-8a87-d38c4a2657bc"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\archana
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220208T054304Z
+    - ID: "fb72ff1d-6b1d-4970-916a-8162ff077e62"
+      Hint: ProcutItems
+      Value: |
+        {013988EC-0675-40B0-A5C3-AC4693F7373F}
+        {6EEA6C0A-9981-4002-B833-BA5154D2B7A5}
+        {731FD9A4-3D76-4876-95D3-62EBA8C97F0B}
+        {71EE9496-50F8-4510-81BA-087E9FF575D8}
+        {C8CC2FD3-F5AB-44DF-852B-C468F2C42EF8}
+        {4B40614C-9257-4E51-9FE0-2E064B07C3DF}
+        {FC917EFE-9234-4A68-8117-930A2711C328}
+        {90DAFDDC-2AD0-401D-9080-C3B0A34F435D}
+        {060ACD6A-B4E5-4A7D-ABAA-31DDA9097ACD}
+        {6B329149-B6B6-499C-AA32-A0E5D62B2AE1}
+        {9B5428D0-3A97-4D19-809B-35C0B60227E3}
+        {D7D6FB7A-1B8B-46DE-A4E9-E44D1FFD92C9}
+        {56FB6AEF-51A2-4C9E-B8B4-191CA12324A5}
+        {08415AC1-4048-4F7E-B8DA-6E2CD273F9FD}

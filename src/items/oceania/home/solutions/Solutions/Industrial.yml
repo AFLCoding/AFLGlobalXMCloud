@@ -1,0 +1,320 @@
+﻿---
+ID: "b11e3ef3-26fd-43e8-9bdc-581a2bfebe27"
+Parent: "49686f95-b829-4fef-a0aa-91d7a027c4f7"
+Template: "bf61de11-b78f-48ea-aaa4-1d17f0d83824"
+Path: "/sitecore/content/AFL-Global/OCEANIA/Home/Solutions/Industrial"
+SharedFields:
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{EDC9686A-85F3-466E-8E7E-3D28540B77AB}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 47
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220201T121251Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Industrial
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\tanishka
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: AFL offers Australia’s most extensive range of fibre optic solutions for  industrial, mining and harsh environment.
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <h2>
+        	Fibre Solutions for Harsh Environments</h2>
+        <div>
+        	AFL offers Australia’s most extensive range of fibre optic solutions. We have solutions to suit all industries and environments, including:</div>
+        <ul>
+        	<li>
+        		Defence</li>
+        	<li>
+        		Broadcast</li>
+        	<li>
+        		Industrial</li>
+        	<li>
+        		Process control</li>
+        	<li>
+        		Security</li>
+        	<li>
+        		Utilities</li>
+        	<li>
+        		Transport</li>
+        	<li>
+        		Mining, oil and gas</li>
+        </ul>
+        <div>
+        	We provide solutions that can withstand the harshest environments and meet the most demanding performance requirements. From office and fixed vehicle/vessel applications to field deployable solutions, we know each requirement is unique. That’s why our experts help you choose the solution that best suits your needs.</div>
+        <div>
+        	<br />
+        	Our extensive product range coupled with vast experience means we can design, manufacture and</div>
+        <div>
+        	implement the right solution for your industrial application.</div>
+        <div>
+        	<br />
+        	AFL’s range of industrial products are built to withstand extreme operating environments including</div>
+        <div>
+        	temperatures from -40°C to 75°C, humidity, dust ingress and variable voltage.
+        	<h2>
+        		<br />
+        		Connectivity Products</h2>
+        	<h3>
+        		Pre-terminated Cable Assemblies</h3>
+        	<div>
+        		AFL manufactures a comprehensive range of high quality pre-terminated cable assemblies in our modern manufacturing facility in Melbourne. They can be made with a variety of connectors and cable types to produce virtually any combination. Our pre-terminated cables are ideal for harsh environments because they eliminate the need for difficult onsite termination and tooling. This makes installation easy and keeps the fibres protected.</div>
+        	<div>
+        		We have:</div>
+        	<ul>
+        		<li>
+        			loose tube, riser, tactical deployable, breakout cables and plastic optical fibre (POF)</li>
+        		<li>
+        			high quality factory-terminated connectors</li>
+        		<li>
+        			fibre protection products for installation and hauling</li>
+        	</ul>
+        	<h3>
+        		Expanded Beam (EB) Technology</h3>
+        	<div>
+        		AFL’s expanded beam fibre optic connectors are designed to perform in the most demanding industrial environments. They are perfectly suited for the rigours of tactical military communications, outside broadcasts and petrochemical, mining and offshore systems. The EB technology ensures you receive reliable optical performance in contaminated and extreme environments. AFL is a certified manufacturer and repairer of EB connector assemblies.</div>
+        	<div>
+        		 </div>
+        	<h3>
+        		What are the benefits of EB technology?</h3>
+        	<ul>
+        		<li>
+        			Resistant to dust, dirt and other contaminants</li>
+        		<li>
+        			Fibre is sealed and protected behind a lens</li>
+        		<li>
+        			Easily cleaned without risk of fibre damage</li>
+        		<li>
+        			Cable retention mechanism provides strength</li>
+        		<li>
+        			Hermaphroditic multi-channel connectors</li>
+        	</ul>
+        	<h3>
+        		Multi-channel Physical Contact Connectors</h3>
+        	<div>
+        		AFL has a range of multi-channel physical contact connectors for industrial applications, including process control. They are available in different sizes, shell styles, materials and mating mechanisms to suit a wide range of applications and environments. These connectors can accommodate many cable types, including fibre-only, composite fibre and copper for remote powering of equipment. Included in the range are:</div>
+        	<ul>
+        		<li>
+        			Ruggedized connector housings</li>
+        		<li>
+        			A wide variety of insert configurations and shell sizes</li>
+        		<li>
+        			Fibre / copper hybrids</li>
+        	</ul>
+        	<h3>
+        		Ruggedized Standard Connectors</h3>
+        	<div>
+        		When you need extra connector protection, but not a specialty connector, our standard connectors with special rugged housing are the right solution. AFL offers ruggedized fibre optic connector assemblies and adapters which perform reliably in wide temperature ranges and have superior resistance to chemicals – perfect for industrial environments. Our ruggedized connectors have:</div>
+        	<ul>
+        		<li>
+        			SC, LC and RJ45 standard connector types</li>
+        		<li>
+        			Various ruggedized housings and bulkheads</li>
+        		<li>
+        			IP-rated housings to protect against water and dirt</li>
+        	</ul>
+        </div>
+        <h2>
+        	Specialty Cable</h2>
+        <div>
+        	AFL has a proud history of supplying specialty loose tube and tight buffered cables for harsh environments. We have a broad range of fibre optic cables for high bandwidth transmission of data, video (including High Definition) and audio communications.<br />
+        	<br />
+        	Our indoor/outdoor cables feature a unique tight buffer coating which provides excellent mechanical and environmental protection for the optical fibres. They are available in a large variety of cable designs and configurations and are field deployable. For extra protection and ease-of-installation we can supply them on ruggedized cable reels. Our specialty cables have:</div>
+        <ul>
+        	<li>
+        		Long term reliability, security and reusability</li>
+        	<li>
+        		Superior rodent protection</li>
+        	<li>
+        		High crush resistance</li>
+        	<li>
+        		Chemical and UV protection</li>
+        	<li>
+        		Compliance to Mil Spec and MSHA standards</li>
+        	<li>
+        		High bandwidth capability</li>
+        </ul>
+        <h2>
+        	Enclosures and Cabinets</h2>
+        <div>
+        	Industrial enclosures must be built to withstand extreme temperatures, shock, vibration, moisture, dust and corrosive surroundings. AFL offers a large range of enclosures and cabinets suitable for all types of environments. We also design custom solutions for specific applications and extreme conditions. Our specialty</div>
+        <div>
+        	enclosures and cabinets are:</div>
+        <ul>
+        	<li>
+        		IP-rated for extreme environments</li>
+        	<li>
+        		Custom-designed and manufactured</li>
+        	<li>
+        		Available in stainless steel, zinc or powder coat</li>
+        	<li>
+        		Wall, rack or DIN rail mountable</li>
+        	<li>
+        		Field deployable</li>
+        	<li>
+        		Pre-loaded for easy installation</li>
+        </ul>
+        <h2>
+        	Fibre Termination and Testing</h2>
+        <div>
+        	Testing fixed or deployable harsh environment fibre cables is a crucial part of long term reliability and performance. All of our cable assemblies are factory tested, however, harsh environment cables are not immune to damage when exposed to operational extremes.</div>
+        <div>
+        	<br />
+        	AFL is the expert in testing methodologies and optical performance standards. We have a wide range of fusion splicing and test instruments and accessories available, including:</div>
+        <ul>
+        	<li>
+        		Hand-held light source and power meter kits</li>
+        	<li>
+        		OTDRs with multimode or single-mode module combinations</li>
+        	<li>
+        		Hand-held loss test sets</li>
+        	<li>
+        		Heavy duty dust proof and shock proof carrying cases to suit all test equipment</li>
+        	<li>
+        		Reference-grade test lead kits with application documentation</li>
+        	<li>
+        		Visual fault locators for circuit fault finding and identification</li>
+        	<li>
+        		Fujikura fusion splicer and cleaver kits</li>
+        	<li>
+        		Single-mode and multimode compact and ruggedized launch leads</li>
+        </ul>
+        <h2>
+        	Fibre Inspection and Cleaning</h2>
+        <div>
+        	Dirt, dust and other particles on fibre connector end faces are the primary cause of problematic fibre networks. Video microscope technology offers quick and easy inspection of fibre optic connectors during installation and maintenance.</div>
+        <div>
+        	<br />
+        	Fibre inspection and cleaning is recommended at the time of installation and as part of any fault finding exercise. We offer non-flammable, travel safe cleaning solutions for ease of transportation. These include:</div>
+        <ul>
+        	<li>
+        		IBYC – Inspect Before You Connect</li>
+        	<li>
+        		Reduce network downtime and failures</li>
+        	<li>
+        		Reduce troubleshooting</li>
+        	<li>
+        		Optimise network performance</li>
+        	<li>
+        		Prevent connector end face damage</li>
+        	<li>
+        		Remove oil, grease, dust and other contaminants</li>
+        </ul>
+        <h2>
+        	Networking and Media Conversion</h2>
+        <div>
+        	AFL’s industrial Ethernet switches, media converters and serial devices provide reliable communications between pieces of equipment. Most of our devices have different mounting options available – from shelf or rack mount to DIN rail brackets. Our industrial rated products ensure your network remains stable and reliable, even</div>
+        <div>
+        	in adverse conditions. They feature:</div>
+        <ul>
+        	<li>
+        		Redundant power options (100-240V AC and 12-48V DC)</li>
+        	<li>
+        		Data redundant link technology</li>
+        	<li>
+        		Fan-less circuitry</li>
+        	<li>
+        		Fibre optic, copper and wireless options</li>
+        	<li>
+        		Power over Ethernet (PoE) technology</li>
+        	<li>
+        		Comprehensive management options</li>
+        	<li>
+        		GPON Optical LAN solution</li>
+        </ul>
+        <h2>
+        	Accessories</h2>
+        <h3>
+        	Cable Reels</h3>
+        <div>
+        	AFL offers hand-winding cable reels in various sizes and configurations to suit different cable diameters and length requirements. All the cable reels in the range are:</div>
+        <ul>
+        	<li>
+        		Lightweight and portable</li>
+        	<li>
+        		Made from robust materials</li>
+        	<li>
+        		Ideal for harsh environments</li>
+        	<li>
+        		Weather proof</li>
+        </ul>
+        <div>
+        	They also have the convenience of an auxiliary spool for tail end storage.</div>
+        <div>
+        	 </div>
+        <h3>
+        	Universal Field Splice Kit</h3>
+        <div>
+        	This field splice kit makes it easy to do fast in-field repairs to damaged multimode and single-mode fibre optic cables in industrial areas. It is re-usable and suitable for repairing up to four fibre cables. They feature:</div>
+        <ul>
+        	<li>
+        		A universal design for mechanical or fusion splices</li>
+        	<li>
+        		High tensile load bearing</li>
+        	<li>
+        		Fully-sealed design</li>
+        </ul>
+        <h2>
+        	In-house repairs</h2>
+        <div>
+        	Our dedicated Technical Services team provides advice, maintenance and repair services for many types of connectors including:</div>
+        <ul>
+        	<li>
+        		MIL 38999</li>
+        	<li>
+        		MIL 28876</li>
+        	<li>
+        		SMPTE</li>
+        	<li>
+        		Expanded beam technology</li>
+        	<li>
+        		TFOCA</li>
+        </ul>
+        <br />
+        
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\tanishka
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: Australia, New Zealand, solutions, fibre optic, industrial, mining, harsh environment
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: Fibre Solutions for Harsh Environments by AFL Australia / New Zealand
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: Fibre Solutions for Harsh Environments by AFL Australia / New Zealand
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1ea0f587-27d3-4ebc-ab25-88db1f19819a"
+    - ID: "93dc88f3-05e5-482d-9b9a-c859c8258a73"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image stylelabs-content-id="71152" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/71152/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/e3ba7189844c4741b3d7cb80236bafb7?v=c3a541bd" mediaid="" stylelabs-content-type="Image" alt="Slide-Military.aspx" height="374" width="954" />
+    - ID: "a40ebd3d-2b41-41fb-90f7-753544ce77c5"
+      Hint: Hero Title1
+      Value: Fibre Solutions for Harsh Environments by AFL Australia / New Zealand
+    - ID: "ab91d39b-30ad-4050-acef-07c741146fcc"
+      Hint: Heading
+      Value: Fibre Solutions for Harsh Environments by AFL Australia / New Zealand
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T093604Z

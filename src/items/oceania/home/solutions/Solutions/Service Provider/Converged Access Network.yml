@@ -1,0 +1,120 @@
+﻿---
+ID: "336e0e65-e8d0-4c0b-b2f9-911d28e42db0"
+Parent: "98e3c3ba-4a3b-442f-a306-d08a1cfaee9c"
+Template: "bf61de11-b78f-48ea-aaa4-1d17f0d83824"
+Path: "/sitecore/content/AFL-Global/OCEANIA/Home/Solutions/Service Provider/Converged Access Network"
+SharedFields:
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{DF0AC170-124B-45F1-8901-F096CAB355E1}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{DAE7C21D-4D3B-4257-A95C-9104CD8AF409}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211122T091027Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Converged Access Network
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: "The access network of today and tomorrow is not an FTTH network. It is not a 5G Backhaul and Fronthaul network. And it is not a set of point-to-point connections for business services."
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <p>The access network of today and tomorrow is not an FTTH network. It is not a 5G Backhaul and Fronthaul network. And it is not a set of point-to-point connections for business services. It is all these things at once and more. It is a platform—a highway of the future connecting service providers to their customers. It is a highway that must carry all the traffic of today, and all the traffic that will be there tomorrow.</p>
+        <p>However, we don’t know what the traffic of tomorrow will look like. How much will home data traffic grow compared to others? What will future versions of PON (Passive Optical Networks) require for wavelengths and split ratios? How dense will 5G, or someday 6G, small cells be? What will be their bandwidth requirements? How will enterprise connectivity demands change over 20 years? These questions are impossible to answer definitively. But we can still build the access network today which will be able to handle the answers—the AFL Converged Access Network.</p>
+        <p>Please click on the image above to see how AFL’s fiber and equipment solutions can help you build an expandable, flexible, and accessible network in a range of application areas including:</p>
+        <ul>
+            <li><a href="~/link.aspx?_id=ACACE3D0469F4F1C93F7D2786A35283D&_z=z">5G/Wireless Fronthaul/Backhaul</a></li>
+            <li><a href="~/link.aspx?_id=336E0E65E8D04C0BB2F9911D28E42DB0&_z=z">Fiber to the Home/Business (FTTX)</a></li>
+            <li><a href="~/link.aspx?_id=241387D3089E45D298393F033A220CB6&_z=z">Multiple Dwelling Unit/Multiple Tenant Units (MXU)</a></li>
+            <li><a href="/Solutions/Service-Provider/Converged-Access-Network/Campus-Venue-Networks">Campuses and Venues</a></li>
+            <li><a href="~/link.aspx?_id=F0FBFD36F7BF411BBF88FC9E0B12EE85&_z=z">Enterprise</a></li>
+            <li><a href="/Solutions/Solutions/Central-Office">Central Office</a></li>
+        </ul>
+        <p>
+        The AFL Converged Access Network meets the demands of the present and the future through three key characteristics: <strong>Expandability</strong>, <strong>Flexibility</strong> and <strong>Accessibility</strong>.</p>
+        <p>
+        <strong>Expandability</strong> refers to the ability of a network to handle increased traffic in the future. The simplest way to do this is to deploy more fiber, but there is an expense to this. AFL solves this problem in several ways. One of the most dramatic ways is by providing the most compact ribbon cables available—AFL’s Wrapping Tube Cable (WTC) using SpiderWeb Ribbon® (SWR®) technology. This cable allows more fiber to be deployed in the same pathways so that network operators can deploy far more fiber with only an incremental increase in cost. These higher density fiber cables allow operators to use a portion of the fibers to support current needs while allowing for further growth with the remaining dark fibers. AFL also accomplishes expandability through modular solutions such as IDEAA® distribution cabinets and ASCEND® fiber panels.</p>
+        <p>
+        <strong>Flexibility</strong> refers to the ability of a network to adapt to changes. The specific nature of network demands is hard to predict. What if a disruptive wireless service provider installs 5G nodes at certain locations, and needs fronthaul and backhaul services? Merely having fibers near the locations is not enough. Fortunately, AFL splice closures, terminals, hubs and other components provide modular and highly flexible solutions which allow the network to adapt. Need to make a new fiber connection somewhere? 12 fibers? 24? Change the wavelengths used in the network? With AFL solutions, the network can be redesigned to accommodate these scenarios.</p>
+        <p>
+        <strong>Accessibility</strong> refers to the ability of technicians to go into the field and make network changes. It is one thing to make design changes on a computer image; however, making those changes in the field can be a challenge. Here, too, AFL provides solutions including highly modular, craft-friendly connections, industry-leading fusion splicers and test equipment which also make documentation simple, and even the design of SpiderWeb Ribbon (SWR) makes craft interaction easier.</p>
+        <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" src="https://www.youtube.com/embed/Ac0V33629Ms" title="YouTube video player" width="625" height="352" id="yt-293b8b72-4e3b-4047-8d71-f89655e5efbd"></iframe>
+    - ID: "558ad533-11c5-40a9-ae0c-81c045f78faa"
+      Hint: ProductTitle
+      Value: 
+    - ID: "56611f02-691a-4096-b044-63aa83122916"
+      Hint: Content
+      Value: |
+        <h1>Converged Access Network</h1>
+        <p>The access network of today and tomorrow is not an FTTH network. It is not a 5G Backhaul and Fronthaul network. And it is not a set of point-to-point connections for business services. It is all these things at once and more. It is a platform&mdash;a highway of the future connecting service providers to their customers. It is a highway that must carry all the traffic of today, and all the traffic that will be there tomorrow.</p>
+        <p>However, we don&rsquo;t know what the traffic of tomorrow will look like. How much will home data traffic grow compared to others? What will future versions of PON (Passive Optical Networks) require for wavelengths and split ratios? How dense will 5G, or someday 6G, small cells be? What will be their bandwidth requirements? How will enterprise connectivity demands change over 20 years? These questions are impossible to answer definitively. But we can still build the access network today which will be able to handle the answers&mdash;the&amp;;<strong>AFL Converged Access Network</strong>.</p>
+        <p>Please click on the image above to see how AFL&rsquo;s fiber and equipment solutions can help you build an expandable, flexible, and accessible network in a range of application areas including:</p>
+        <ul>
+            <li><a href="/Markets/Service-Provider/Converged-Access-Network/5G-Wireless-Access-Network" style="color: #0091ea; background-color: transparent;">5G/Wireless Fronthaul/Backhaul</a></li>
+            <li><a href="/Markets/Service-Provider/FTTx" style="color: #0091ea; background-color: transparent;">Fiber to the Home/Business (FTTX)</a></li>
+            <li><a href="//www.aflglobal.com/Markets/Service-Provider/MDUs" style="color: #0091ea; background-color: transparent;">Multiple Dwelling Unit/Multiple Tenant Units (MXU)</a></li>
+            <li><a href="/Markets/Service-Provider/Converged-Access-Network/Campus-Venue-Networks" style="color: #0091ea; background-color: transparent;">Campuses and Venues</a></li>
+            <li><a href="/Markets/Enterprise" style="color: #0091ea; background-color: transparent;">Enterprise</a></li>
+            <li><a href="/Markets/Solutions/Central-Office" style="color: #0091ea; background-color: transparent;">Central Office</a></li>
+        </ul>
+        <p>The AFL Converged Access Network meets the demands of the present and the future through three key characteristics:&amp;;<strong>Expandability</strong>,&amp;;<strong>Flexibility</strong>&amp;;and&amp;;<strong>Accessibility</strong>.</p>
+        <p><strong>Expandability</strong>&amp;;refers to the ability of a network to handle increased traffic in the future. The simplest way to do this is to deploy more fiber, but there is an expense to this. AFL solves this problem in several ways. One of the most dramatic ways is by providing the most compact ribbon cables available&mdash;AFL&rsquo;s Wrapping Tube Cable (WTC) using SpiderWeb Ribbon&reg; (SWR&reg;) technology. This cable allows more fiber to be deployed in the same pathways so that network operators can deploy far more fiber with only an incremental increase in cost. These higher density fiber cables allow operators to use a portion of the fibers to support current needs while allowing for further growth with the remaining dark fibers. AFL also accomplishes expandability through modular solutions such as IDEAA&reg; distribution cabinets and ASCEND&reg; fiber panels.</p>
+        <p><strong>Flexibility</strong>&amp;;refers to the ability of a network to adapt to changes. The specific nature of network demands is hard to predict. What if a disruptive wireless service provider installs 5G nodes at certain locations, and needs fronthaul and backhaul services? Merely having fibers near the locations is not enough. Fortunately, AFL splice closures, terminals, hubs and other components provide modular and highly flexible solutions which allow the network to adapt. Need to make a new fiber connection somewhere? 12 fibers? 24? Change the wavelengths used in the network? With AFL solutions, the network can be redesigned to accommodate these scenarios.</p>
+        <p><strong>Accessibility</strong>&amp;;refers to the ability of technicians to go into the field and make network changes. It is one thing to make design changes on a computer image; however, making those changes in the field can be a challenge. Here, too, AFL provides solutions including highly modular, craft-friendly connections, industry-leading fusion splicers and test equipment which also make documentation simple, and even the design of SpiderWeb Ribbon (SWR) makes craft interaction easier.</p>
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: AFL Converged Access Network service provider telco operators telecom
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: Converged Access Network
+    - ID: "628db04b-29a2-483b-a88c-b8fd9a5f2086"
+      Hint: HeroLink
+      Value: |
+        <link id="{336E0E65-E8D0-4C0B-B2F9-911D28E42DB0}" querystring="" target="|Custom" text="LEARN MORE" anchor="" title="" class="" url="/AFL-Global/OCEANIA/Home/Solutions/Service Provider/Converged Access Network" linktype="internal" />
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: Converged Access Network
+    - ID: "82f4bd76-0837-4e55-a1f6-15231096b2b9"
+      Hint: Attributes
+      Value: "description=The%20access%20network%20of%20today%20and%20tomorrow%20is%20not%20an%20FTTH%20network.%20It%20is%20not%20a%205G%20Backhaul%20and%20Fronthaul%20network.%20And%20it%20is%20not%20a%20set%20of%20point-to-point%20connections%20for%20business%20services.&keywords=AFL%20Converged%20Access%20Network%20service%20provider%20telco%20operators%20telecom"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6eeb7dbc-36e7-419d-a700-e009cd723545"
+    - ID: "93dc88f3-05e5-482d-9b9a-c859c8258a73"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="73487" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/73487/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/convergedaccessnetwork?v=ddafc060" stylelabs-content-type="Image" alt="AFL-Desktop-Homepage-photos_2.jpg" height="571" width="1338" />
+    - ID: "ab91d39b-30ad-4050-acef-07c741146fcc"
+      Hint: Heading
+      Value: Converged Access Network
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d8b38dd7-e9a0-4410-9f17-d436b0c8635a"
+      Hint: OpenGraphImageUrl
+      Value: |
+        <image mediaid="{064748B7-7D07-473A-B7C8-76CF966F6FB7}" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T093601Z
+    - ID: "e3bcfb9e-ac4a-4b80-9ad0-42cf5b48b078"
+      Hint: ProductDescription
+      Value: |
+        <p>
+        The AFL Converged Access Network meets the demands of the present and the future through three key characteristics: <strong>Expandability</strong>, <strong>Flexibility</strong> and <strong>Accessibility</strong>.</p>
+        <p>
+        <strong>Expandability</strong> refers to the ability of a network to handle increased traffic in the future. The simplest way to do this is to deploy more fiber, but there is an expense to this. AFL solves this problem in several ways. One of the most dramatic ways is by providing the most compact ribbon cables available&mdash;AFL&rsquo;s Wrapping Tube Cable (WTC) using SpiderWeb Ribbon&reg; (SWR&reg;) technology. This cable allows more fiber to be deployed in the same pathways so that network operators can deploy far more fiber with only an incremental increase in cost. These higher density fiber cables allow operators to use a portion of the fibers to support current needs while allowing for further growth with the remaining dark fibers. AFL also accomplishes expandability through modular solutions such as IDEAA&reg; distribution cabinets and ASCEND&reg; fiber panels.</p>
+        <p>
+        <strong>Flexibility</strong> refers to the ability of a network to adapt to changes. The specific nature of network demands is hard to predict. What if a disruptive wireless service provider installs 5G nodes at certain locations, and needs fronthaul and backhaul services? Merely having fibers near the locations is not enough. Fortunately, AFL splice closures, terminals, hubs and other components provide modular and highly flexible solutions which allow the network to adapt. Need to make a new fiber connection somewhere? 12 fibers? 24? Change the wavelengths used in the network? With AFL solutions, the network can be redesigned to accommodate these scenarios.</p>
+        <p>
+        <strong>Accessibility</strong> refers to the ability of technicians to go into the field and make network changes. It is one thing to make design changes on a computer image; however, making those changes in the field can be a challenge. Here, too, AFL provides solutions including highly modular, craft-friendly connections, industry-leading fusion splicers and test equipment which also make documentation simple, and even the design of SpiderWeb Ribbon (SWR) makes craft interaction easier.</p>
+        <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" src="https://www.youtube.com/embed/Ac0V33629Ms" title="YouTube video player" width="625" height="352" id="yt-293b8b72-4e3b-4047-8d71-f89655e5efbd"></iframe>

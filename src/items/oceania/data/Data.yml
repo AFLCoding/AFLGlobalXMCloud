@@ -1,0 +1,39 @@
+﻿---
+ID: "c6330951-fa61-48a3-8ae3-8aa72b4c4baa"
+Parent: "c0f43c98-2de5-483b-98af-74ad5ec23880"
+Template: "5ecd34f4-b36f-4533-9643-df41cd8b5036"
+Path: "/sitecore/content/AFL-Global/OCEANIA/Data"
+SharedFields:
+- ID: "dec8d2d5-e3cf-48b6-a653-8e69e2716641"
+  Hint: __Security
+  Value: |
+    au|sitecore\CharlieC|pe|+item:create|+item:read|-item:admin|+item:rename|+item:delete|+item:write|pd|+item:create|+item:read|-item:admin|+item:rename|+item:delete|+item:write|
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{6DD509C7-87DB-42F0-8C87-6BE471CA3278}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211027T075722Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "908a2453-8676-4f01-8625-5c511e02428d"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\matt
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231219T214321Z

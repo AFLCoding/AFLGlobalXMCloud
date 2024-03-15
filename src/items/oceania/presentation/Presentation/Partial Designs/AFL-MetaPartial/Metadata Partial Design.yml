@@ -1,0 +1,79 @@
+﻿---
+ID: "685eca8e-9441-401f-bf60-e8c394f24dad"
+Parent: "c0fbce33-2a31-47d5-a4f4-7b912406e928"
+Template: "c2a8e276-1757-4957-9dd5-8669b79fd80d"
+Path: "/sitecore/content/AFL-Global/OCEANIA/Presentation/Partial Designs/AFL-MetaPartial/Metadata Partial Design"
+SharedFields:
+- ID: "55faae90-3bba-4f7f-96fe-13c3f40055ff"
+  Hint: Signature
+  Value: "metadata-partial-design"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{81ABF2E8-6C9E-47FC-B38A-EA0FB9359A38}"
+          p:before="*"
+          s:ds=""
+          s:id="{DF1F7B6F-0AB0-438D-B0B8-2F1BE4692953}"
+          s:par="Key=%3C%21--%20Google%20Tag%20Manager%20--%3E%20%3Cscript%3E%28function%28w%2Cd%2Cs%2Cl%2Ci%29%7Bw%5Bl%5D%3Dw%5Bl%5D%7C%7C%5B%5D%3Bw%5Bl%5D.push%28%7B%27gtm.start%27%3A%20new%20Date%28%29.getTime%28%29%2Cevent%3A%27gtm.js%27%7D%29%3Bvar%20f%3Dd.getElementsByTagName%28s%29%5B0%5D%2C%20j%3Dd.createElement%28s%29%2Cdl%3Dl%21%3D%27dataLayer%27%3F%27%26l%3D%27%2Bl%3A%27%27%3Bj.async%3Dtrue%3Bj.src%3D%20%27https%3A%2F%2Fwww.googletagmanager.com%2Fgtm.js%3Fid%3D%27%2Bi%2Bdl%3Bf.parentNode.insertBefore%28j%2Cf%29%3B%20%7D%29%28window%2Cdocument%2C%27script%27%2C%27dataLayer%27%2C%27GTM-ML3R7ZL%27%29%3B%3C%2Fscript%3E%20%3C%21--%20End%20Google%20Tag%20Manager%20--%3E"
+          s:ph="head"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{D6D03412-F415-4AB7-AD04-22A82B532F5E}"
+          p:after="r[@uid='{81ABF2E8-6C9E-47FC-B38A-EA0FB9359A38}']"
+          s:id="{B07712AD-28B9-4B93-A524-D8BD29CA9D8D}"
+          s:par="CacheClearingBehavior=Clear%20on%20publish"
+          s:ph="head" />
+        <r
+          uid="{EE1625DF-ED43-4CF6-8918-B553BBBB425C}"
+          p:after="r[@uid='{D6D03412-F415-4AB7-AD04-22A82B532F5E}']"
+          s:id="{CA9D504B-B04F-4327-BCEB-A789BA5C3865}"
+          s:par="CacheClearingBehavior=Clear%20on%20publish"
+          s:ph="head" />
+        <r
+          uid="{5BF8B3CC-952A-4965-B64A-DB822F47C1FF}"
+          p:after="r[@uid='{EE1625DF-ED43-4CF6-8918-B553BBBB425C}']"
+          s:ds="{F210C97B-9190-4248-83D3-3B49C10CA2E1}"
+          s:id="{3ED31F2A-93BE-40CA-A073-69CD9517D0BA}"
+          s:par=""
+          s:ph="head"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{E04F9E7E-86AF-45A0-BB95-7317E4F34E2A}"
+          p:after="*[1=2]"
+          s:ds=""
+          s:id="{DF1F7B6F-0AB0-438D-B0B8-2F1BE4692953}"
+          s:par="Key=%3C%21--%20Global%20site%20tag%20%28gtag.js%29%20-%20Google%20Analytics%20--%3E%20%3Cscript%20async%20src%3D%22https%3A%2F%2Fwww.googletagmanager.com%2Fgtag%2Fjs%3Fid%3DUA-1586632-11%22%3E%20%3Cscript%3E%20window.dataLayer%20%3D%20window.dataLayer%20%7C%7C%20%5B%5D%3B%20function%20gtag%28%29%7BdataLayer.push%28arguments%29%3B%7D%20gtag%28%27js%27%2C%20new%20Date%28%29%29%3B%20%20%20%20gtag%28%27config%27%2C%20%27UA-1586632-11%27%29%3B%20%3C%2Fscript%3E"
+          s:ph="head"
+          s:ccb="Clear on publish" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211210T152300Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\archana
+    - ID: "76a92454-c8be-479b-b260-26aebced5a1a"
+      Hint: Base Partial Design
+      Value: "{C5E8CC89-68C6-4273-85EA-0B18FA6E0FB7}"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "517ded6d-61ad-463e-ac51-f542d1a66cdc"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahesh
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220329T103116Z
