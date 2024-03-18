@@ -33,6 +33,14 @@ $primaryFooter: ".primary-footer";
         }
     }
   }
+
+  &__heading-empty{
+    margin-bottom: 0px;
+
+    @include respond-to(mobile-horizontal) {
+        display: none;
+    }
+}
   
   a{
     color:$text-light-grey;

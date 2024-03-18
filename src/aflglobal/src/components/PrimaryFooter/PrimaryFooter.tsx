@@ -11,8 +11,14 @@ const PrimaryFooter = () => {
       <div className={`footer row mx-auto ${block}__width`}>
         {primaryFooterData?.map((item, index) => {
           return (
-            <div key={index} className={`col ${block}__list`}>
-              <h3 className={`${block}__heading`}>
+            <div key={index} className={`col ${block}__list d-flex flex-column`}>
+              <h3
+                className={`${block}__heading ${
+                  item.LinkTitle.jsonValue.value.text.length > 1
+                    ? ''
+                    : `${block}__heading-empty flex-grow-1`
+                }`}
+              >
                 <Link className="text-uppercase fw-bold" href={item.LinkTitle.jsonValue.value.href}>
                   {item.LinkTitle.jsonValue.value.text}
                 </Link>
@@ -20,7 +26,7 @@ const PrimaryFooter = () => {
               {item.children.results.map((menuItems) => {
                 const submenuItems = menuItems.field.link.value;
                 return (
-                  <div key={submenuItems.id}>
+                  <div key={submenuItems.id} className="flex-grow-1">
                     <Link
                       className={`${block}__content d-none d-md-block`}
                       href={submenuItems.href}
