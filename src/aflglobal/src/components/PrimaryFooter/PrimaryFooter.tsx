@@ -19,7 +19,10 @@ const PrimaryFooter = () => {
                     : `${block}__heading-empty flex-grow-1`
                 }`}
               >
-                <Link className="text-uppercase fw-bold" href={item.LinkTitle.jsonValue.value.href}>
+                <Link
+                  className={`text-uppercase fw-bold ${block}__heading-link ${block}__link`}
+                  href={item.LinkTitle.jsonValue.value.href}
+                >
                   {item.LinkTitle.jsonValue.value.text}
                 </Link>
               </h3>
@@ -28,7 +31,7 @@ const PrimaryFooter = () => {
                 return (
                   <div key={submenuItems.id} className="flex-grow-1">
                     <Link
-                      className={`${block}__content d-none d-md-block`}
+                      className={`${block}__content d-none d-md-block ${block}__link`}
                       href={submenuItems.href}
                     >
                       {submenuItems.text}
