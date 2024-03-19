@@ -1,0 +1,23 @@
+@import "@sass/abstracts/vars";
+@import "@sass/abstracts/mixins";
+
+$block: ".footer-secondary";
+
+#{$block} {
+    background-color: $bg-secondary-gray;
+    border-top: var(--border-width-400) solid $text-blue-dark;
+    color:$text-white;
+
+    &__content{
+        padding: var(--size-70) var(--size-0) var(--size-168) var(--size-198);
+
+        &-link , &-p{
+            font-size: var(--font-size-120);
+            color:$text-white;
+            margin-bottom: var(--size-0);
+        }
+        a:hover{
+            color:$text-white;
+        }
+    }
+}
