@@ -1,0 +1,99 @@
+﻿---
+ID: "3467aea8-b391-48c9-a656-668b4826e4bd"
+Parent: "884e01cc-5ed6-4687-8fd3-33edd7625a09"
+Template: "f36e821e-bb98-44dc-966d-e92a0e033cc7"
+Path: /sitecore/content/AFLGlobal/APAC/Home/Company/Company Profile/NewsArchive/2016/AFL ACTs to Support Community
+SharedFields:
+- ID: "1fbc6a49-6281-48ee-87e9-a3970b145adb"
+  Hint: NavigationFilter
+  Value: |
+    {E0A2A027-0932-4878-A7D6-0416D5263EFB}
+    {61BD64D6-809E-40AE-9297-2724A19329B3}
+    {D063E9D1-C7B5-4B1E-B31E-69886C9C59F5}
+    {500AE4C0-FA7B-463F-8149-EFFF7F044101}
+    {A0E7FF57-6994-4B09-AA21-104239628D5A}
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{3A84BAC9-C1BD-4809-A12C-28EB44E25329}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{DAE7C21D-4D3B-4257-A95C-9104CD8AF409}"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{48D826CA-7AE6-4387-AE67-E7070B242906}">
+          <p:d />
+        </r>
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "228f9517-e120-4014-b2c7-df0ac467a349"
+      Hint: ContentTitle
+      Value: AFL ACTs to Support Community
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211224T035332Z
+    - ID: "3688d7df-2feb-43a4-ab8d-410e5f70a676"
+      Hint: ContentDescription
+      Value: |
+        Spartanburg, SC – <a href="http://www.afl/">AFL</a> associates spent two days volunteering for organizations in the upstate of South Carolina, giving their time and talent so that nonprofit leaders are able to focus on the needs of the community. Nearly 60 AFL volunteers plus friends and family volunteered for <a href="http://hoperemains.org/">Hope Remains Ranch</a> in Wellford and <a href="https://www.habitatgreenville.org/restore/">Habitat ReStore</a> in Taylors, providing approximately 300 service hours. The projects are part of AFL’s <a href="https://www.aflglobal.com/Company/Community/ACT-Project.aspx">ACT (AFL Community Team) program</a>. <br />
+        <br />
+        AFL volunteers plus family and friends spent two Saturday mornings in Wellford at <a href="https://www.habitatgreenville.org/restore/">Hope Remains Ranch</a>, an organization that provide equine therapy for children and families. Projects included staining rocking chairs and swings, installing insulation and lattice work, planting flowers and stabilizing pasture posts with wedges and concrete. Additionally, <a href="https://www.brightview.com/">BrightView</a>, a local landscaping company, partnered with AFL to pull brush near the creek line. This project was supplemented with a $3,000 ACT grant made possible by <a href="https://www.aflglobal.com/Company/Community.aspx">AFL’s Community Outreach Program</a>.   <br />
+        <br />
+        Another team of volunteers spent an entire day in Taylors at the <a href="https://www.habitatgreenville.org/restore/">Habitat ReStore</a>, a branch of Habitat for Humanity Greenville. Proceeds from the ReStore support Habitat Greenville home construction and homeowner education programs for families with low income. Projects included cleaning shelves, organizing supplies, moving heavy items and painting window trim in preparation for the upcoming holidays. <br />
+        <br />
+        “Our volunteers are an essential part of our Community Outreach Program—it’s indicative of our culture and the impact we want to make in our community,” commented Corie Culp, community relations manager for AFL. “Our associates work hard to make a difference for each organization we support. At the same time they have the opportunity to learn more about the overwhelming need in our community.”<br />
+        <br />
+        AFL’s extensive <a href="https://www.aflglobal.com/Company/Community.aspx">Community Outreach Program</a> provides grants, sponsorships, conservation initiatives, scholarships, disaster relief and more. For additional information on AFL and its community initiatives, visit <a href="http://www.aflglobal.com/">www.AFLglobal.com</a>.<br />
+         <br />
+        About AFL<br />
+        Founded in 1984, AFL is an international manufacturer providing end-to-end solutions to the energy, service provider, enterprise and industrial markets as well as several emerging markets. The company’s products are in use in over 130 countries and include fiber optic cable and hardware, transmission and substation accessories, outside plant equipment, connectivity, test and inspection equipment, fusion splicers and training. AFL also offers a wide variety of services supporting data center, enterprise, wireless, and outside plant applications.<br />
+        <br />
+        Headquartered in Spartanburg, SC, AFL has operations in the U.S., Mexico, Canada, Europe, Asia and Australia, and is a wholly-owned subsidiary of Fujikura Ltd. of Japan. For more information, visit <a href="http://www.aflglobal.com/">www.AFLglobal.com</a>. <br />
+        <br />
+        Contacts<br />
+        Corie Culp<br />
+        Community Relations Manager<br />
+        AFL<br />
+        864.433.5409<br />
+        <a href="mailto:Corie.Culp@AFLglobal.com">Corie.Culp@AFLglobal.com</a>
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: AFL ACTs to Support Community
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kushagra
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kushagra
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: AFL ACTs to Support Community
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: AFL ACTs to Support Community
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2532eac6-7d47-48c0-98d9-9a1874e291a1"
+    - ID: "9dd4f0d9-c123-47a8-8cef-2c85cea172f6"
+      Hint: ContentImage
+      Value: |
+        <image mediaid="{978B9EE0-15CE-4BA5-AFC7-F253D47F3C5F}" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\pawan.tyagi@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240316T041559Z

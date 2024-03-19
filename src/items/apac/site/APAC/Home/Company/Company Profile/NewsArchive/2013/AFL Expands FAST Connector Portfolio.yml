@@ -1,0 +1,81 @@
+﻿---
+ID: "c520d2f7-c0ae-4a3f-9ba7-8dfb09f14d97"
+Parent: "f7234f2c-f1fe-4c2e-a3aa-3de9b33faefd"
+Template: "f36e821e-bb98-44dc-966d-e92a0e033cc7"
+Path: /sitecore/content/AFLGlobal/APAC/Home/Company/Company Profile/NewsArchive/2013/AFL Expands FAST Connector Portfolio
+SharedFields:
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{3A84BAC9-C1BD-4809-A12C-28EB44E25329}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{DAE7C21D-4D3B-4257-A95C-9104CD8AF409}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "228f9517-e120-4014-b2c7-df0ac467a349"
+      Hint: ContentTitle
+      Value: AFL Expands FAST Connector Portfolio
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220112T102909Z
+    - ID: "3688d7df-2feb-43a4-ab8d-410e5f70a676"
+      Hint: ContentDescription
+      Value: |
+        Spartanburg, SC – <a href="/">AFL</a> is expanding its <a href="/Products/Fiber-Inside-Plant/Connectors-and-Accessories/Field-Installable-Connectors/FAST-Connectors_(1)">FAST Connector</a> portfolio to include two new SC/APC connectors to address applications that require an SC/APC interface or need enhanced return loss.<br />
+        <br />
+        AFL’s FAST Connectors are pre-polished, field-installable connectors that eliminate the need for hand polishing in the field. They feature a pre-stubbed, factory-polished ferrule and precision mechanical alignment that ensures low loss termination for either single-mode or multimode fibers. These connectors are compatible with 250 µm and 900 µm fibers as well as 900 µm, 2 mm and 3 mm cordage. All primary fibers are supported and each connector is color-coded for better identification.<br />
+        <br />
+        Included with the FAST Connector is an innovative translucent wedge that enables the use of a VFI to provide a “pass/fail” signal when physical contact is achieved. In addition, each connector comes with a factory-installed wedge clip that secures a wedge clamp in an open position until a fiber is inserted. Once inserted, the wedge clip is removed and secures the fiber into the fiber channel aligning it with the pre-polished fiber stub contained within.<br />
+        <br />
+        For more information about AFL, its products and services, visit <a href="/">www.AFLglobal.com</a>.<br />
+        <br />
+        About AFL<br />
+        AFL provides industry-leading products and services to the electric utility, broadband, communications, OEM, enterprise, wireless and transit rail markets as well as the emerging markets of oil and gas, mining, nuclear, avionics, medical, renewable and intelligent grid. The company’s diverse product portfolio includes fiber optic cable, transmission and substation accessories, outside plant equipment, connectors, fusion splicers, test equipment and training. AFL’s service portfolio includes market-leading positions with the foremost communications companies supporting inside plant central office, EF&I, outside plant, enterprise and wireless areas.<br />
+        <br />
+        Founded in 1984, AFL is proud to offer engineering expertise, exceptional products and reliable service that help our customers improve their critical and electrical infrastructure. AFL has operations in the U.S., Mexico, Europe, Asia and the South Pacific. The company is headquartered in Spartanburg, SC, and is a wholly-owned subsidiary of Fujikura Ltd. of Japan. For more information, visit <a href="/">www.AFLglobal.com</a>.<br />
+        <br />
+        Contacts<br />
+        Chuck Turner<br />
+        Product Manager<br />
+        AFL<br />
+        864.486.7335<br />
+        <a href="mailto:Chuck.Turner@AFLglobal.com">Chuck.Turner@AFLglobal.com</a><br />
+         <br />
+        Corie Culp<br />
+        PR Manager<br />
+        AFL<br />
+        864.433.5409<br />
+        <a href="mailto:Corie.Culp@AFLglobal.com">Corie.Culp@AFLglobal.com</a>
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: AFL Expands FAST Connector Portfolio
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\tanishka
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\tanishka
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: AFL Expands FAST Connector Portfolio
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: AFL Expands FAST Connector Portfolio
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "21c1284f-cdbf-477d-bbf4-c06a211097c5"
+    - ID: "a6eaffd5-fc3e-41b4-93b3-f1721fcf2300"
+      Hint: ContentPublishedDate
+      Value: 20130401T183000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\pawan.tyagi@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240316T041525Z

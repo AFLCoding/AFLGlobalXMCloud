@@ -1,0 +1,70 @@
+﻿---
+ID: "4b32761a-db66-433c-ad7a-83a66eb88838"
+Parent: "ffc48f9e-7756-4a9c-abe4-68b4d0710c62"
+Template: "bf61de11-b78f-48ea-aaa4-1d17f0d83824"
+Path: /sitecore/content/AFLGlobal/APAC/Home/Resources/Product Related Materials/Frequently Asked Questions/Fusion Splicing Systems
+SharedFields:
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{274C9F86-81B9-4FFC-87CA-8B19AB3A526D}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220125T100119Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Fusion Splicing Systems
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kushagra
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: "Fusion Splicing Systems - AFL product frequently asked questions submitted by customers regarding AFL product lines."
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <h1>FAQ: Fusion Splicing Systems</h1>
+        <p>Below are the FAQs submitted by customers regarding the Fusion Splicing Systems product line.</p>
+        <p>Q:  If I buy a new fusion splicer from an unauthorized reseller in North America, can I still get maintenance and technical support from AFL?<br />
+        A:  No. We do not offer maintenance services and technical support to splicers that were purchased new from <a href=" /Contact/Splicers/Authorized-Splicer-Distributors ">unauthorized resellers</a> in North America. AFL and AFL's <a href=" /Contact/AFL-Distributors ">authorized distributors</a> are the only authorized resellers of Fujikura splicers in North America.<br />
+        <br />
+        Q:  Why do I get “offset” errors on my fixed v-groove splicer?<br />
+        A:  Offsets are usually caused by debris on the v-grooves or on the fiber.  AFL recommends a <a href="/Products/Test-and-Inspection/Fiber-Optic-Cleaning/Splicer_V-Groove_Cleaning_Kit ">splicer v-groove cleaning kit</a>.<br />
+        <br />
+        Q:  I get “Large Dust Burn” error messages when I am splicing.  Is there something wrong with my splicer?<br />
+        A:  No. Large dust burns are contamination or excessive alcohol igniting during the splicing process. This is feedback to the operator to check his fiber preparation procedures. Multiple “Large Dust Burn” errors can lead to problems with arc power.<br />
+         <br />
+        Q:  When I perform an arc calibration, I get the message “Power Inadequate”. Why does that happen?<br />
+        A:  It may take several iterations to get the arc power to its optimal value. Continue performing the arc calibration tests until it passes.<br />
+        <br />
+        Q:  What is the difference between the sheath clamp and fiber holder?<br />
+        A:  The sheath clamp is a hinged magnetic clamp that is attached to the splicer. The fiber is placed in position and then clamped in place with the hinged mechanism. The sheath clamp can be removed on the single fiber splicers such as the 70S and 19S to allow the use of fiber holders. The fiber holders also have a hinged magnetic clamp, but are used for handling the fiber for the cleaving process. The fiber holder is then positioned in the splicer. Inexperienced persons have an easier time with fiber holders. All ribbon splicers require the use of fiber holders.</p>
+        <div> </div>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kushagra
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: Fusion Splicing Systems AFL products frequently asked questions FAQ
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: Fusion Splicing Systems
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: Fusion Splicing Systems
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "40e30c10-e870-4800-83fe-902f2e0908d1"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\pawan.tyagi@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240316T041304Z

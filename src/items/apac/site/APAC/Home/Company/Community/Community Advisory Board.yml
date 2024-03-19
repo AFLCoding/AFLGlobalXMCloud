@@ -1,0 +1,87 @@
+﻿---
+ID: "e35b512e-54fb-4c5e-8dab-b05c1c471565"
+Parent: "489aa41b-4c83-4604-b832-8c2544d45840"
+Template: "bf61de11-b78f-48ea-aaa4-1d17f0d83824"
+Path: /sitecore/content/AFLGlobal/APAC/Home/Company/Community/Community Advisory Board
+SharedFields:
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{87CE798E-CDA3-4363-A47F-74DF3E2D88BE}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{DAE7C21D-4D3B-4257-A95C-9104CD8AF409}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211124T143131Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Community Advisory Board
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: AFL's community advisory board is made up of business and community leaders with a shared goal, connect with our communities through financial and social commitments.
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <p>Initiated in 2004, AFL’s Community Advisory Board consists of business and community leaders that are helping us reach a common goal – to connect with our communities through financial and social commitments, ultimately improving the quality of life.</p>
+        <div>Our Advisory Board members include:</div>
+        <ul>
+            <li>Kelley Ezell, Executive Director, Upstate Family Resource Center</li>
+            <li>Molly Talbot-Metz, MPH, President and CEO, Mary Black Foundation</li>
+            <li>Hank McCullough, Senior Manager - Government Relations, Piedmont Natural Gas</li>
+            <li>Dr. Randall Gary, Superintendent, District Five Schools</li>
+        </ul>
+        <div>AFL's Board members include:</div>
+        <ul>
+            <!--   <li>Jody Gallagher, President and CEO</li>-->
+            <li>Angie Myers, Director of Community Engagement </li>
+            <li>Ryan Burns, Human Resources Director</li>
+            <li>Steve Polidan, Vice President, Connectivity</li>
+            <li><a href="/Company/Company-Profile/Leadership-Team/Lisa-Gunton">Lisa Gunton</a>, Vice President, Human Resources</li>
+            <li>Rob Davis, Interactive Marketing Manager</li>
+        </ul>
+        <div>Our board is instrumental in playing a key role as a sounding board for other aspects of our operations that have an impact on the community.</div>
+        <p><img alt="" height="451" width="599" src="https://afl-delivery.stylelabs.cloud/api/public/content/2f2e1f6821ca4d8b845e01ee6c0656c5?v=fad886b9" /></p>
+        <p> </p>
+        <h2>Visit our <a href="~/link.aspx?_id=F5E14B660F224CD79DB21F673AE9DB95&_z=z">community homepage</a> for more information.</h2>
+        <p> </p>
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: community advisory board AFL communities charities philanthropy
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: Community Advisory Board
+    - ID: "628db04b-29a2-483b-a88c-b8fd9a5f2086"
+      Hint: HeroLink
+      Value: |
+        <link id="{5C491C79-8DA7-48F8-B923-30B6405E3094}" querystring="" target="|Custom" text="LEARN MORE" anchor="" title="" class="" url="/AFL-Global/AMERICAS/Home/Company/Community/Community Advisory Board" linktype="internal" />
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: Community Advisory Board
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e14596f0-6e36-4025-b0a6-024f1d24abea"
+    - ID: "93dc88f3-05e5-482d-9b9a-c859c8258a73"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="168694" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/168694/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/a0f099fd18814ecca238422ada27cb0c?v=c5d88750" stylelabs-content-type="Image" alt="community-advisory-board.png" height="369" width="954" />
+    - ID: "a40ebd3d-2b41-41fb-90f7-753544ce77c5"
+      Hint: Hero Title1
+      Value: Community Advisory Board
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\pawan.tyagi@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240316T041636Z
+    - ID: "dd0b26a2-9ca3-4573-b501-3b33a6efbc65"
+      Hint: Hero Title2
+      Value: Connecting communities through financial and social commitments

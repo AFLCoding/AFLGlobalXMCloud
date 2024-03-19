@@ -1,0 +1,105 @@
+﻿---
+ID: "7ad69665-fccf-4d16-af8b-5c5380491a17"
+Parent: "74757c65-68ad-4966-9977-85354a7ca746"
+Template: "bf61de11-b78f-48ea-aaa4-1d17f0d83824"
+Path: /sitecore/content/AFLGlobal/APAC/Home/Company/Company Profile/Leadership Team/Akira Saita
+SharedFields:
+- ID: "1fbc6a49-6281-48ee-87e9-a3970b145adb"
+  Hint: NavigationFilter
+  Value: "{D063E9D1-C7B5-4B1E-B31E-69886C9C59F5}"
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{87CE798E-CDA3-4363-A47F-74DF3E2D88BE}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{DAE7C21D-4D3B-4257-A95C-9104CD8AF409}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 6
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220526T193504Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{EE9BAFE9-A55E-406B-8BBF-45ADF7FF9068}"
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Akira Saita
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rafael
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: Akira Saita is Vice Chairman of AFL and was appointed to this position in 2022 by Fujikura Ltd. of Japan, AFL’s parent company. In this role, he is responsible for working with the AFL leadership team to define and develop the strategic direction of the Fujikura Group and AFL for the optimization of the asset and resources to achieve the sustainable growth of the entire Group. 
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <p>
+        Akira Saita is Vice Chairman of AFL and was appointed to this position in 2022 by Fujikura Ltd. of Japan, AFL’s parent company. In this role, he is responsible for working with the AFL leadership team to define and develop the strategic direction of the Fujikura Group and AFL for the optimization of the asset and resources to achieve the sustainable growth of the entire Group.
+        </p>
+        <p>
+        Since joining Fujikura Ltd. in 1990, Saita has been involved in various international business activities. He started his career with Fujikura in the overseas development of turnkey projects for the installation of ultra-high voltage power cables in Southeast Asian countries, including the construction of submarine cable projects in Malaysia and underground transmission lines in Singapore.
+        </p>
+        <p>
+        In 1997, as the first director of Fujikura's newly established Shanghai office in China, he was involved in the development of the Chinese market, which was still in its infancy at the time. In addition to the power cable business, Saita helped Fujikura enter the market for optical fiber and related products and was involved in developing Chinese market customers and establishing several joint ventures with local leading capital firm.
+        </p>
+        <p>
+        After returning to Japan in 2003, Saita was responsible for international sales of telecommunications products worldwide. From 2016 to 2019, he was Managing Director of Fujikura Europe Ltd. in London and responsible for sales in the UK and European markets. During this period he was also promoted to Managing Executive Officer from Executive Officer of Fujikura Ltd.
+        </p>
+        <p>
+        After returning to Japan, he was involved in the following positions as an executive in charge of Corporate Strategy Planning, Human Resources, General Affairs, and Environment, Health and Safety for one year from 2021.
+        </p>
+        <p>
+        Prior to his appointment to AFL, Saita served as Executive Board Members of Fujikura Asia Ltd., Fujikura Dia Cable Ltd. and Fujikura China Ltd. He has also served as an Executive Board Member of the Tokyo Chamber of Commerce, Tokyo Employers' Association, and Japan Electric Wire & Cable Industry Employers' Association.
+        </p>
+        <p>
+        Saita graduated with a Bachelor of Laws from Meiji University School of Law in Tokyo, Japan. He has lived abroad for a total of 20 years and enjoys reading and has a large collection of business and history books.
+        </p>
+        <p> </p>
+        <p>
+        <a href="~/link.aspx?_id=EAAB1B6BBFAB4287B123DFB809321001&_z=z">< Back to Leadership Page</a></p>
+    - ID: "5d336bce-e421-4fe8-ad55-214f80d841ad"
+      Hint: "Sub-Heading"
+      Value: Vice Chairman
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rafael
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: Akira Saita is Vice Chairman of AFL
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: Naoki Okada
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: Naoki Okada
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "79e66c52-2b22-4af1-9e4a-ad602828f1cd"
+    - ID: "93dc88f3-05e5-482d-9b9a-c859c8258a73"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image stylelabs-content-id="316015" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/316015/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/1b7cc93642af47b2a183d69f3a3d11fa?v=1d11f7f6" mediaid="" stylelabs-content-type="Image" alt="Saita_Akira_large.webp" height="430" width="1210" />
+    - ID: "a40ebd3d-2b41-41fb-90f7-753544ce77c5"
+      Hint: Hero Title1
+      Value: Akira Saita
+    - ID: "ab91d39b-30ad-4050-acef-07c741146fcc"
+      Hint: Heading
+      Value: Akira Saita
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\pawan.tyagi@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240316T041706Z
