@@ -1,0 +1,535 @@
+﻿---
+ID: "33a4b930-f2ff-4b6a-b570-8dae4461fd4b"
+Parent: "cb5a0b73-f405-4010-9c53-688eda61e0f7"
+Template: "bf61de11-b78f-48ea-aaa4-1d17f0d83824"
+Path: "/sitecore/content/AFL-Global/AMERICAS/Home/Resources"
+SharedFields:
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{26C17268-CE00-4500-8B13-7152F3648637}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{DAE7C21D-4D3B-4257-A95C-9104CD8AF409}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 500
+- ID: "dec8d2d5-e3cf-48b6-a653-8e69e2716641"
+  Hint: __Security
+  Value: |
+    au|sitecore\TICreator|pe|-item:rename|-item:delete|-item:create|-item:admin|-item:write|-item:read|!*|pd|-item:rename|-item:delete|-item:create|-item:admin|-item:write|-item:read|!*|au|sitecore\CharlieC|pe|-item:read|pd|-item:read|ar|sitecore\AFLProductAuthor|pe|+item:rename|+item:write|+item:read|+item:create|pd|+item:rename|+item:write|+item:read|+item:create|au|sitecore\TIReviewer|pe|-item:read|pd|-item:read|
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{7BD020B3-0D46-41D5-ACA5-8FC4BA1F461F}"
+              p:before="*"
+              s:ds=""
+              s:id="{896A2C68-1362-4E88-8BA0-1805AE6D4837}"
+              s:par="Reset Caching Options&amp;GridParameters&amp;BackgroundImage&amp;Styles=%7B2E3486EE-FDA0-43C2-AFE0-16C0C29C29BF%7D%7C%7B1A3163C3-C552-4BFA-ADC9-C7B3A0DC5BF4%7D&amp;RenderingIdentifier&amp;DynamicPlaceholderId=4"
+              s:ph="main"
+              s:ccb="Clear on publish" />
+            <r
+              uid="{038C8D2B-C2A0-4588-9A73-79005417BA96}"
+              p:after="r[@uid='{7BD020B3-0D46-41D5-ACA5-8FC4BA1F461F}']"
+              s:ds="{33A4B930-F2FF-4B6A-B570-8DAE4461FD4B}"
+              s:id="{99A633FC-B9A9-44A0-B78A-BCBB08DD02C9}"
+              s:par="Reset Caching Options&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;DynamicPlaceholderId=3"
+              s:ph="container-4"
+              s:ccb="Clear on publish" />
+            <r
+              uid="{FCC8C49F-EE93-4654-A4F3-A4F318EA00C2}"
+              p:after="*[1=2]"
+              s:ds=""
+              s:id="{9D3BA81A-EECE-4B5A-9862-0239A9D53EEC}"
+              s:par="NavigationRoot=%7B33A4B930-F2FF-4B6A-B570-8DAE4461FD4B%7D&amp;LevelFrom=%7B1BB88840-5FB3-4353-AD8D-81136F6FF75A%7D&amp;LevelTo=%7B8C72A61D-7BD1-4A4F-98B3-A6869672373B%7D&amp;Filter=%7BA0E7FF57-6994-4B09-AA21-104239628D5A%7D&amp;Flattened&amp;AddRoot&amp;NavigationFieldNames&amp;Reset Caching Options&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;DynamicPlaceholderId=2"
+              s:ph="container-4"
+              s:ccb="Clear on publish" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211122T082706Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Resources
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: "AFL Resources - AFL offers many resources to our customers including: frequently ask questions, catalogs, quick reference guides, specifications sheets."
+    - ID: "56611f02-691a-4096-b044-63aa83122916"
+      Hint: Content
+      Value: |
+        <h3 class="field-sub-heading">With customer-focused resources, AFL gives you the tools to implement solutions that positively impact your business</h3>
+        <p>With an end-to-end product portfolio as diverse as AFL&rsquo;s, it is critical for our customers to have access to the right support resources. That is what this section of our website is all about. With new products being released often, we will update
+        this information as needed to ensure you have the latest information literally at your fingertips.</p>
+        <p>Check out the related links on the right.</p>
+        <h3>Resources:</h3>
+        <ul>
+            <li><a class="CMSSiteMapLink" href="/Resources">Resources</a>
+            <ul class="CMSSiteMapList">
+                <li class="CMSSiteMapListItem"><a class="CMSSiteMapLink" href="/Resources/Catalogs">Catalogs</a></li>
+                <li class="CMSSiteMapListItem"><a class="CMSSiteMapLink" href="/Resources/Quick-Reference-Guides">Quick Reference Guides</a></li>
+                <li class="CMSSiteMapListItem"><a class="CMSSiteMapLink" href="https://learn.aflglobal.com/white-papers">White Papers</a></li>
+                <li class="CMSSiteMapListItem"><a class="CMSSiteMapLink" href="https://learn.aflglobal.com/case-studies">Case Studies</a></li>
+                <li class="CMSSiteMapListItem"><a class="CMSSiteMapLink" href="/Resources/Frequently-Asked-Questions">Frequently Asked Questions</a></li>
+            </ul>
+            </li>
+            <li class="CMSSiteMapListItem">
+            <ul class="CMSSiteMapList">
+                <li class="CMSSiteMapListItem"><a class="CMSSiteMapLink" href="/Resources/Software">Software</a></li>
+                <li class="CMSSiteMapListItem"><a class="CMSSiteMapLink" href="/Resources/The-Light-Brigade">Light Brigade&reg; Training</a></li>
+                <li class="CMSSiteMapListItem"><a class="CMSSiteMapLink" href="/Resources/Surplus-Inventory">Surplus Inventory</a></li>
+                <li class="CMSSiteMapListItem"><a class="CMSSiteMapLink" href="https://direct.aflglobal.com/customer">AFL Direct</a></li>
+                <li class="CMSSiteMapListItem"><a class="CMSSiteMapLink" href="/Contact/Trade-Show-Schedule">Trade Show Schedule</a></li>
+                <li class="CMSSiteMapListItem"><a class="CMSSiteMapLink" href="/Resources/AFL-Certified-Expert-Installers-Program">AFL Certified Expert (ACE) Program</a></li>
+            </ul>
+            </li>
+            <li class="CMSSiteMapListItem">
+            <div class="CMSSiteMapListItem">&nbsp;</div>
+            <ul class="CMSSiteMapList">
+                <li class="CMSSiteMapListItem"><a class="CMSSiteMapLink" href="/Resources/Other-Resources">Other Resources</a>
+                <ul class="CMSSiteMapList">
+                    <li class="CMSSiteMapListItem"><a class="CMSSiteMapLink" href="/AFL-Blog/">AFL Blog</a></li>
+                    <li class="CMSSiteMapListItem"><a class="CMSSiteMapLink" href="/Resources/Other-Resources/Newsroom">Newsroom</a></li>
+                    <li class="CMSSiteMapListItem"><a class="CMSSiteMapLink" href="/Resources/Other-Resources/Discontinued-Products">Discontinued Products</a></li>
+                    <li class="CMSSiteMapListItem"><a class="CMSSiteMapLink" href="/Resources/Other-Resources/Product-and-Image-Resources">Product and Image Resources</a></li>
+                    <li class="CMSSiteMapListItem"><a class="CMSSiteMapLink" href="/Resources/Other-Resources/Visitors-Guide">Visitor's Guide</a></li>
+                    <li class="CMSSiteMapListItem"><a class="CMSSiteMapLink" href="/Resources/Other-Resources/Trade-Compliance">Trade Compliance</a>
+                    <ul class="CMSSiteMapList">
+                        <li class="CMSSiteMapListItem"><a class="CMSSiteMapLink" href="/Resources/Other-Resources/Trade-Compliance/US-Export-and-Trade-Compliance">US Export and Trade Compliance</a></li>
+                    </ul>
+                    </li>
+                    <li class="CMSSiteMapListItem"><a class="CMSSiteMapLink" href="/Resources/Other-Resources/Terms-and-Conditions">Terms and Conditions</a>
+                    <ul class="CMSSiteMapList">
+                        <li class="CMSSiteMapListItem"><a class="CMSSiteMapLink" href="/Resources/Other-Resources/Terms-and-Conditions/Germany">Germany</a></li>
+                        <li class="CMSSiteMapListItem"><a class="CMSSiteMapLink" href="/Resources/Other-Resources/Terms-and-Conditions/United-Kingdom">United Kingdom</a></li>
+                    </ul>
+                    </li>
+                    <li class="CMSSiteMapListItem"><a class="CMSSiteMapLink" href="/Resources/Other-Resources/Shipping">Shipping</a></li>
+                    <li class="CMSSiteMapListItem"><a class="CMSSiteMapLink" href="/Resources/Other-Resources/Privacy-Policy">Privacy Policy</a></li>
+                    <li class="CMSSiteMapListItem"><a class="CMSSiteMapLink" href="/Resources/Other-Resources/UK-Tax-Strategy">UK Tax Strategy</a></li>
+                </ul>
+                </li>
+            </ul>
+            </li>
+        </ul>
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: AFL resources frequently ask questions catalogs quick reference guides specifications sheets
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: "Resources - AFL gives you the tools to implement solutions that positively impact your business."
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: "Resources - AFL gives you the tools to implement solutions that positively impact your business."
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "38cb0332-affe-4ad6-8374-1e9e52331f51"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240229T085520Z
+- Language: "es-MX"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{7BD020B3-0D46-41D5-ACA5-8FC4BA1F461F}"
+              p:before="*"
+              s:ds=""
+              s:id="{896A2C68-1362-4E88-8BA0-1805AE6D4837}"
+              s:par="Reset Caching Options&amp;GridParameters&amp;BackgroundImage&amp;Styles=%7B2E3486EE-FDA0-43C2-AFE0-16C0C29C29BF%7D%7C%7B1A3163C3-C552-4BFA-ADC9-C7B3A0DC5BF4%7D&amp;RenderingIdentifier&amp;DynamicPlaceholderId=4"
+              s:ph="main"
+              s:ccb="Clear on publish" />
+            <r
+              uid="{038C8D2B-C2A0-4588-9A73-79005417BA96}"
+              p:after="r[@uid='{7BD020B3-0D46-41D5-ACA5-8FC4BA1F461F}']"
+              s:ds="{33A4B930-F2FF-4B6A-B570-8DAE4461FD4B}"
+              s:id="{99A633FC-B9A9-44A0-B78A-BCBB08DD02C9}"
+              s:par="Reset Caching Options&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;DynamicPlaceholderId=3"
+              s:ph="container-4"
+              s:ccb="Clear on publish" />
+            <r
+              uid="{FCC8C49F-EE93-4654-A4F3-A4F318EA00C2}"
+              p:after="*[1=2]"
+              s:ds=""
+              s:id="{9D3BA81A-EECE-4B5A-9862-0239A9D53EEC}"
+              s:par="NavigationRoot=%7B33A4B930-F2FF-4B6A-B570-8DAE4461FD4B%7D&amp;LevelFrom=%7B1BB88840-5FB3-4353-AD8D-81136F6FF75A%7D&amp;LevelTo=%7B8C72A61D-7BD1-4A4F-98B3-A6869672373B%7D&amp;Filter=%7BA0E7FF57-6994-4B09-AA21-104239628D5A%7D&amp;Flattened&amp;AddRoot&amp;NavigationFieldNames&amp;Reset Caching Options&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;DynamicPlaceholderId=2"
+              s:ph="container-4"
+              s:ccb="Clear on publish" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211122T082706Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: RECURSOS
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "56611f02-691a-4096-b044-63aa83122916"
+      Hint: Content
+      Value: |
+        <h3 class="field-sub-heading">With customer-focused resources, AFL gives you the tools to implement solutions that positively impact your business</h3>
+        <p>With an end-to-end product portfolio as diverse as AFL&rsquo;s, it is critical for our customers to have access to the right support resources. That is what this section of our website is all about. With new products being released often, we will update
+        this information as needed to ensure you have the latest information literally at your fingertips.</p>
+        <p>Check out the related links on the right.</p>
+        <h3>Resources:</h3>
+        <ul>
+            <li><a class="CMSSiteMapLink" href="/Resources">Resources</a>
+            <ul class="CMSSiteMapList">
+                <li class="CMSSiteMapListItem"><a class="CMSSiteMapLink" href="/Resources/Catalogs">Catalogs</a></li>
+                <li class="CMSSiteMapListItem"><a class="CMSSiteMapLink" href="/Resources/Quick-Reference-Guides">Quick Reference Guides</a></li>
+                <li class="CMSSiteMapListItem"><a class="CMSSiteMapLink" href="https://learn.aflglobal.com/white-papers">White Papers</a></li>
+                <li class="CMSSiteMapListItem"><a class="CMSSiteMapLink" href="https://learn.aflglobal.com/case-studies">Case Studies</a></li>
+                <li class="CMSSiteMapListItem"><a class="CMSSiteMapLink" href="/Resources/Frequently-Asked-Questions">Frequently Asked Questions</a></li>
+            </ul>
+            </li>
+            <li class="CMSSiteMapListItem">
+            <ul class="CMSSiteMapList">
+                <li class="CMSSiteMapListItem"><a class="CMSSiteMapLink" href="/Resources/Software">Software</a></li>
+                <li class="CMSSiteMapListItem"><a class="CMSSiteMapLink" href="/Resources/The-Light-Brigade">Light Brigade&reg; Training</a></li>
+                <li class="CMSSiteMapListItem"><a class="CMSSiteMapLink" href="/Resources/Surplus-Inventory">Surplus Inventory</a></li>
+                <li class="CMSSiteMapListItem"><a class="CMSSiteMapLink" href="https://direct.aflglobal.com/customer">AFL Direct</a></li>
+                <li class="CMSSiteMapListItem"><a class="CMSSiteMapLink" href="/Contact/Trade-Show-Schedule">Trade Show Schedule</a></li>
+                <li class="CMSSiteMapListItem"><a class="CMSSiteMapLink" href="/Resources/AFL-Certified-Expert-Installers-Program">AFL Certified Expert (ACE) Program</a></li>
+            </ul>
+            </li>
+            <li class="CMSSiteMapListItem">
+            <div class="CMSSiteMapListItem">&nbsp;</div>
+            <ul class="CMSSiteMapList">
+                <li class="CMSSiteMapListItem"><a class="CMSSiteMapLink" href="/Resources/Other-Resources">Other Resources</a>
+                <ul class="CMSSiteMapList">
+                    <li class="CMSSiteMapListItem"><a class="CMSSiteMapLink" href="/AFL-Blog/">AFL Blog</a></li>
+                    <li class="CMSSiteMapListItem"><a class="CMSSiteMapLink" href="/Resources/Other-Resources/Newsroom">Newsroom</a></li>
+                    <li class="CMSSiteMapListItem"><a class="CMSSiteMapLink" href="/Resources/Other-Resources/Discontinued-Products">Discontinued Products</a></li>
+                    <li class="CMSSiteMapListItem"><a class="CMSSiteMapLink" href="/Resources/Other-Resources/Product-and-Image-Resources">Product and Image Resources</a></li>
+                    <li class="CMSSiteMapListItem"><a class="CMSSiteMapLink" href="/Resources/Other-Resources/Visitors-Guide">Visitor's Guide</a></li>
+                    <li class="CMSSiteMapListItem"><a class="CMSSiteMapLink" href="/Resources/Other-Resources/Trade-Compliance">Trade Compliance</a>
+                    <ul class="CMSSiteMapList">
+                        <li class="CMSSiteMapListItem"><a class="CMSSiteMapLink" href="/Resources/Other-Resources/Trade-Compliance/US-Export-and-Trade-Compliance">US Export and Trade Compliance</a></li>
+                    </ul>
+                    </li>
+                    <li class="CMSSiteMapListItem"><a class="CMSSiteMapLink" href="/Resources/Other-Resources/Terms-and-Conditions">Terms and Conditions</a>
+                    <ul class="CMSSiteMapList">
+                        <li class="CMSSiteMapListItem"><a class="CMSSiteMapLink" href="/Resources/Other-Resources/Terms-and-Conditions/Germany">Germany</a></li>
+                        <li class="CMSSiteMapListItem"><a class="CMSSiteMapLink" href="/Resources/Other-Resources/Terms-and-Conditions/United-Kingdom">United Kingdom</a></li>
+                    </ul>
+                    </li>
+                    <li class="CMSSiteMapListItem"><a class="CMSSiteMapLink" href="/Resources/Other-Resources/Shipping">Shipping</a></li>
+                    <li class="CMSSiteMapListItem"><a class="CMSSiteMapLink" href="/Resources/Other-Resources/Privacy-Policy">Privacy Policy</a></li>
+                    <li class="CMSSiteMapListItem"><a class="CMSSiteMapLink" href="/Resources/Other-Resources/UK-Tax-Strategy">UK Tax Strategy</a></li>
+                </ul>
+                </li>
+            </ul>
+            </li>
+        </ul>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mahesh
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: RECURSOS
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: RECURSOS
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9c202d3a-0784-4c4c-9861-c24a8c3899d3"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: "20240229T085520:638447937205972584Z"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{C417C3D3-C0CC-4E96-90FE-A8A199206C7C}"
+              p:before="*"
+              s:ds=""
+              s:id="{BFBD9DE2-3ABF-4078-BBCB-C95C5B2D863F}"
+              s:par="BreadcrumbRoot&amp;Separator=%2F&amp;IsNavigation&amp;Filter&amp;Reset Caching Options&amp;GridParameters&amp;FieldNames&amp;Styles=%7B592CA5BE-A535-4EE9-A79A-775A8659B0E5%7D&amp;RenderingIdentifier&amp;DynamicPlaceholderId=1"
+              s:ph="main"
+              s:ccb="Clear on publish" />
+            <r
+              uid="{7BD020B3-0D46-41D5-ACA5-8FC4BA1F461F}"
+              p:after="r[@uid='{C417C3D3-C0CC-4E96-90FE-A8A199206C7C}']"
+              s:ds=""
+              s:id="{896A2C68-1362-4E88-8BA0-1805AE6D4837}"
+              s:par="Reset Caching Options&amp;GridParameters&amp;BackgroundImage&amp;Styles=%7B2E3486EE-FDA0-43C2-AFE0-16C0C29C29BF%7D%7C%7B1A3163C3-C552-4BFA-ADC9-C7B3A0DC5BF4%7D&amp;RenderingIdentifier&amp;DynamicPlaceholderId=4"
+              s:ph="main"
+              s:ccb="Clear on publish" />
+            <r
+              uid="{038C8D2B-C2A0-4588-9A73-79005417BA96}"
+              p:after="r[@uid='{7BD020B3-0D46-41D5-ACA5-8FC4BA1F461F}']"
+              s:ds="{33A4B930-F2FF-4B6A-B570-8DAE4461FD4B}"
+              s:id="{99A633FC-B9A9-44A0-B78A-BCBB08DD02C9}"
+              s:par="Reset Caching Options&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;DynamicPlaceholderId=3"
+              s:ph="container-4"
+              s:ccb="Clear on publish" />
+            <r
+              uid="{FCC8C49F-EE93-4654-A4F3-A4F318EA00C2}"
+              p:after="*[1=2]"
+              s:ds=""
+              s:id="{9D3BA81A-EECE-4B5A-9862-0239A9D53EEC}"
+              s:par="NavigationRoot=%7B33A4B930-F2FF-4B6A-B570-8DAE4461FD4B%7D&amp;LevelFrom=%7B1BB88840-5FB3-4353-AD8D-81136F6FF75A%7D&amp;LevelTo=%7B8C72A61D-7BD1-4A4F-98B3-A6869672373B%7D&amp;Filter=%7BA0E7FF57-6994-4B09-AA21-104239628D5A%7D&amp;Flattened&amp;AddRoot&amp;NavigationFieldNames&amp;Reset Caching Options&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;DynamicPlaceholderId=2"
+              s:ph="container-4"
+              s:ccb="Clear on publish" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211122T082706Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Resources
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "56611f02-691a-4096-b044-63aa83122916"
+      Hint: Content
+      Value: |
+        <h3 class="field-sub-heading">With customer-focused resources, AFL gives you the tools to implement solutions that positively impact your business</h3>
+        <p>With an end-to-end product portfolio as diverse as AFL&rsquo;s, it is critical for our customers to have access to the right support resources. That is what this section of our website is all about. With new products being released often, we will update
+        this information as needed to ensure you have the latest information literally at your fingertips.</p>
+        <p>Check out the related links on the right.</p>
+        <h3>Resources:</h3>
+        <ul>
+            <li><a class="CMSSiteMapLink" href="/Resources">Resources</a>
+            <ul class="CMSSiteMapList">
+                <li class="CMSSiteMapListItem"><a class="CMSSiteMapLink" href="/Resources/Catalogs">Catalogs</a></li>
+                <li class="CMSSiteMapListItem"><a class="CMSSiteMapLink" href="/Resources/Quick-Reference-Guides">Quick Reference Guides</a></li>
+                <li class="CMSSiteMapListItem"><a class="CMSSiteMapLink" href="https://learn.aflglobal.com/white-papers">White Papers</a></li>
+                <li class="CMSSiteMapListItem"><a class="CMSSiteMapLink" href="https://learn.aflglobal.com/case-studies">Case Studies</a></li>
+                <li class="CMSSiteMapListItem"><a class="CMSSiteMapLink" href="/Resources/Frequently-Asked-Questions">Frequently Asked Questions</a></li>
+            </ul>
+            </li>
+            <li class="CMSSiteMapListItem">
+            <ul class="CMSSiteMapList">
+                <li class="CMSSiteMapListItem"><a class="CMSSiteMapLink" href="/Resources/Software">Software</a></li>
+                <li class="CMSSiteMapListItem"><a class="CMSSiteMapLink" href="/Resources/The-Light-Brigade">Light Brigade&reg; Training</a></li>
+                <li class="CMSSiteMapListItem"><a class="CMSSiteMapLink" href="/Resources/Surplus-Inventory">Surplus Inventory</a></li>
+                <li class="CMSSiteMapListItem"><a class="CMSSiteMapLink" href="https://direct.aflglobal.com/customer">AFL Direct</a></li>
+                <li class="CMSSiteMapListItem"><a class="CMSSiteMapLink" href="/Contact/Trade-Show-Schedule">Trade Show Schedule</a></li>
+                <li class="CMSSiteMapListItem"><a class="CMSSiteMapLink" href="/Resources/AFL-Certified-Expert-Installers-Program">AFL Certified Expert (ACE) Program</a></li>
+            </ul>
+            </li>
+            <li class="CMSSiteMapListItem">
+            <div class="CMSSiteMapListItem">&nbsp;</div>
+            <ul class="CMSSiteMapList">
+                <li class="CMSSiteMapListItem"><a class="CMSSiteMapLink" href="/Resources/Other-Resources">Other Resources</a>
+                <ul class="CMSSiteMapList">
+                    <li class="CMSSiteMapListItem"><a class="CMSSiteMapLink" href="/AFL-Blog/">AFL Blog</a></li>
+                    <li class="CMSSiteMapListItem"><a class="CMSSiteMapLink" href="/Resources/Other-Resources/Newsroom">Newsroom</a></li>
+                    <li class="CMSSiteMapListItem"><a class="CMSSiteMapLink" href="/Resources/Other-Resources/Discontinued-Products">Discontinued Products</a></li>
+                    <li class="CMSSiteMapListItem"><a class="CMSSiteMapLink" href="/Resources/Other-Resources/Product-and-Image-Resources">Product and Image Resources</a></li>
+                    <li class="CMSSiteMapListItem"><a class="CMSSiteMapLink" href="/Resources/Other-Resources/Visitors-Guide">Visitor's Guide</a></li>
+                    <li class="CMSSiteMapListItem"><a class="CMSSiteMapLink" href="/Resources/Other-Resources/Trade-Compliance">Trade Compliance</a>
+                    <ul class="CMSSiteMapList">
+                        <li class="CMSSiteMapListItem"><a class="CMSSiteMapLink" href="/Resources/Other-Resources/Trade-Compliance/US-Export-and-Trade-Compliance">US Export and Trade Compliance</a></li>
+                    </ul>
+                    </li>
+                    <li class="CMSSiteMapListItem"><a class="CMSSiteMapLink" href="/Resources/Other-Resources/Terms-and-Conditions">Terms and Conditions</a>
+                    <ul class="CMSSiteMapList">
+                        <li class="CMSSiteMapListItem"><a class="CMSSiteMapLink" href="/Resources/Other-Resources/Terms-and-Conditions/Germany">Germany</a></li>
+                        <li class="CMSSiteMapListItem"><a class="CMSSiteMapLink" href="/Resources/Other-Resources/Terms-and-Conditions/United-Kingdom">United Kingdom</a></li>
+                    </ul>
+                    </li>
+                    <li class="CMSSiteMapListItem"><a class="CMSSiteMapLink" href="/Resources/Other-Resources/Shipping">Shipping</a></li>
+                    <li class="CMSSiteMapListItem"><a class="CMSSiteMapLink" href="/Resources/Other-Resources/Privacy-Policy">Privacy Policy</a></li>
+                    <li class="CMSSiteMapListItem"><a class="CMSSiteMapLink" href="/Resources/Other-Resources/UK-Tax-Strategy">UK Tax Strategy</a></li>
+                </ul>
+                </li>
+            </ul>
+            </li>
+        </ul>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mahesh
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: Resources
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d0b4c9f5-1ff6-40fb-9750-60ea3e041412"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240229T085520Z
+  - Version: 2
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{7BD020B3-0D46-41D5-ACA5-8FC4BA1F461F}"
+              p:before="*"
+              s:ds=""
+              s:id="{896A2C68-1362-4E88-8BA0-1805AE6D4837}"
+              s:par="Reset Caching Options&amp;GridParameters&amp;BackgroundImage&amp;Styles=%7B2E3486EE-FDA0-43C2-AFE0-16C0C29C29BF%7D%7C%7B1A3163C3-C552-4BFA-ADC9-C7B3A0DC5BF4%7D&amp;RenderingIdentifier&amp;DynamicPlaceholderId=4"
+              s:ph="main"
+              s:ccb="Clear on publish" />
+            <r
+              uid="{038C8D2B-C2A0-4588-9A73-79005417BA96}"
+              p:after="r[@uid='{7BD020B3-0D46-41D5-ACA5-8FC4BA1F461F}']"
+              s:ds="{33A4B930-F2FF-4B6A-B570-8DAE4461FD4B}"
+              s:id="{99A633FC-B9A9-44A0-B78A-BCBB08DD02C9}"
+              s:par="Reset Caching Options&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;DynamicPlaceholderId=3"
+              s:ph="container-4"
+              s:ccb="Clear on publish" />
+            <r
+              uid="{FCC8C49F-EE93-4654-A4F3-A4F318EA00C2}"
+              p:after="*[1=2]"
+              s:ds=""
+              s:id="{9D3BA81A-EECE-4B5A-9862-0239A9D53EEC}"
+              s:par="NavigationRoot=%7B33A4B930-F2FF-4B6A-B570-8DAE4461FD4B%7D&amp;LevelFrom=%7B1BB88840-5FB3-4353-AD8D-81136F6FF75A%7D&amp;LevelTo=%7B8C72A61D-7BD1-4A4F-98B3-A6869672373B%7D&amp;Filter=%7BA0E7FF57-6994-4B09-AA21-104239628D5A%7D&amp;Flattened&amp;AddRoot&amp;NavigationFieldNames&amp;Reset Caching Options&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;DynamicPlaceholderId=2"
+              s:ph="container-4"
+              s:ccb="Clear on publish" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211122T082706Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: RESSOURCES
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "56611f02-691a-4096-b044-63aa83122916"
+      Hint: Content
+      Value: |
+        <h3 class="field-sub-heading">With customer-focused resources, AFL gives you the tools to implement solutions that positively impact your business</h3>
+        <p>With an end-to-end product portfolio as diverse as AFL&rsquo;s, it is critical for our customers to have access to the right support resources. That is what this section of our website is all about. With new products being released often, we will update
+        this information as needed to ensure you have the latest information literally at your fingertips.</p>
+        <p>Check out the related links on the right.</p>
+        <h3>Resources:</h3>
+        <ul>
+            <li><a class="CMSSiteMapLink" href="/Resources">Resources</a>
+            <ul class="CMSSiteMapList">
+                <li class="CMSSiteMapListItem"><a class="CMSSiteMapLink" href="/Resources/Catalogs">Catalogs</a></li>
+                <li class="CMSSiteMapListItem"><a class="CMSSiteMapLink" href="/Resources/Quick-Reference-Guides">Quick Reference Guides</a></li>
+                <li class="CMSSiteMapListItem"><a class="CMSSiteMapLink" href="https://learn.aflglobal.com/white-papers">White Papers</a></li>
+                <li class="CMSSiteMapListItem"><a class="CMSSiteMapLink" href="https://learn.aflglobal.com/case-studies">Case Studies</a></li>
+                <li class="CMSSiteMapListItem"><a class="CMSSiteMapLink" href="/Resources/Frequently-Asked-Questions">Frequently Asked Questions</a></li>
+            </ul>
+            </li>
+            <li class="CMSSiteMapListItem">
+            <ul class="CMSSiteMapList">
+                <li class="CMSSiteMapListItem"><a class="CMSSiteMapLink" href="/Resources/Software">Software</a></li>
+                <li class="CMSSiteMapListItem"><a class="CMSSiteMapLink" href="/Resources/The-Light-Brigade">Light Brigade&reg; Training</a></li>
+                <li class="CMSSiteMapListItem"><a class="CMSSiteMapLink" href="/Resources/Surplus-Inventory">Surplus Inventory</a></li>
+                <li class="CMSSiteMapListItem"><a class="CMSSiteMapLink" href="https://direct.aflglobal.com/customer">AFL Direct</a></li>
+                <li class="CMSSiteMapListItem"><a class="CMSSiteMapLink" href="/Contact/Trade-Show-Schedule">Trade Show Schedule</a></li>
+                <li class="CMSSiteMapListItem"><a class="CMSSiteMapLink" href="/Resources/AFL-Certified-Expert-Installers-Program">AFL Certified Expert (ACE) Program</a></li>
+            </ul>
+            </li>
+            <li class="CMSSiteMapListItem">
+            <div class="CMSSiteMapListItem">&nbsp;</div>
+            <ul class="CMSSiteMapList">
+                <li class="CMSSiteMapListItem"><a class="CMSSiteMapLink" href="/Resources/Other-Resources">Other Resources</a>
+                <ul class="CMSSiteMapList">
+                    <li class="CMSSiteMapListItem"><a class="CMSSiteMapLink" href="/AFL-Blog/">AFL Blog</a></li>
+                    <li class="CMSSiteMapListItem"><a class="CMSSiteMapLink" href="/Resources/Other-Resources/Newsroom">Newsroom</a></li>
+                    <li class="CMSSiteMapListItem"><a class="CMSSiteMapLink" href="/Resources/Other-Resources/Discontinued-Products">Discontinued Products</a></li>
+                    <li class="CMSSiteMapListItem"><a class="CMSSiteMapLink" href="/Resources/Other-Resources/Product-and-Image-Resources">Product and Image Resources</a></li>
+                    <li class="CMSSiteMapListItem"><a class="CMSSiteMapLink" href="/Resources/Other-Resources/Visitors-Guide">Visitor's Guide</a></li>
+                    <li class="CMSSiteMapListItem"><a class="CMSSiteMapLink" href="/Resources/Other-Resources/Trade-Compliance">Trade Compliance</a>
+                    <ul class="CMSSiteMapList">
+                        <li class="CMSSiteMapListItem"><a class="CMSSiteMapLink" href="/Resources/Other-Resources/Trade-Compliance/US-Export-and-Trade-Compliance">US Export and Trade Compliance</a></li>
+                    </ul>
+                    </li>
+                    <li class="CMSSiteMapListItem"><a class="CMSSiteMapLink" href="/Resources/Other-Resources/Terms-and-Conditions">Terms and Conditions</a>
+                    <ul class="CMSSiteMapList">
+                        <li class="CMSSiteMapListItem"><a class="CMSSiteMapLink" href="/Resources/Other-Resources/Terms-and-Conditions/Germany">Germany</a></li>
+                        <li class="CMSSiteMapListItem"><a class="CMSSiteMapLink" href="/Resources/Other-Resources/Terms-and-Conditions/United-Kingdom">United Kingdom</a></li>
+                    </ul>
+                    </li>
+                    <li class="CMSSiteMapListItem"><a class="CMSSiteMapLink" href="/Resources/Other-Resources/Shipping">Shipping</a></li>
+                    <li class="CMSSiteMapListItem"><a class="CMSSiteMapLink" href="/Resources/Other-Resources/Privacy-Policy">Privacy Policy</a></li>
+                    <li class="CMSSiteMapListItem"><a class="CMSSiteMapLink" href="/Resources/Other-Resources/UK-Tax-Strategy">UK Tax Strategy</a></li>
+                </ul>
+                </li>
+            </ul>
+            </li>
+        </ul>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mahesh
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: RESSOURCES
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: RESSOURCES
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3875b1af-5332-4396-a04e-7d6b2394fcee"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: "20240229T085520:638447937209440755Z"

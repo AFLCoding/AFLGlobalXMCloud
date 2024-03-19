@@ -1,0 +1,44 @@
+﻿---
+ID: "deae45d0-80e4-4f0f-9a5c-58f2be320e97"
+Parent: "dbfdaf3a-276a-4f9a-81f0-3c59b662f5dc"
+Template: "7c02e9f5-54b5-4ef4-bd10-f4c5d448a48c"
+Path: "/sitecore/content/AFL-Global/APAC/Presentation/Rendering Variants/AFL-AdditionalProduct/HighLevel Related product/div/span"
+SharedFields:
+- ID: "1aa68c0b-eb67-4575-9ca8-1689c2aff091"
+  Hint: Tag
+  Value: "{E8E2C26D-2F96-4A9C-9C17-D095E6CE46CC}"
+- ID: "8414031e-7b85-426c-8516-84d6223a1208"
+  Hint: CssClass
+  Value: "slider__label sr-only"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+- ID: "c35b2285-b4a8-406f-a91c-24a60391dc12"
+  Hint: DataAttributes
+  Value: 
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220112T092419Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\archana
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\archana
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "84aa2d5e-0f3c-4a77-baff-5c21ba7564b3"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\archana
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220112T094734Z

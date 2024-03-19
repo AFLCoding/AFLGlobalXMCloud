@@ -7,34 +7,6 @@ SharedFields:
 - ID: "037fe404-dd19-4bf7-8e30-4dadf68b27b0"
   Hint: componentName
   Value: linklistTest
-- ID: "17bb046a-a32a-41b3-8315-81217947611b"
-  Hint: ComponentQuery
-  Value: |
-    query TitleQuery($datasource: String!, $language: String!) {
-      datasource: item(path: $datasource, language: $language) {
-        children {
-          results {
-            field(name: "Title") {
-              title: jsonValue
-            }
-            LinkTitle: field(name: "LinkTitle") {
-                ... on LinkField {
-                  jsonValue
-                }
-              }
-            children {
-              results {
-                
-                field(name: "Link") {
-                  link: jsonValue
-                }
-              }
-            }
-          }
-        }
-      }
-    }
-    
 Languages:
 - Language: en
   Versions:
@@ -53,11 +25,11 @@ Languages:
         sitecore\pawan.tyagi@altudo.co
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "5517090c-e6ab-4ccc-a70b-86cb83ce7b1c"
+      Value: "ad31219c-4960-4ac7-b1f0-ab4abaeac061"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\pawan.tyagi@altudo.co
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240315T162545Z
+      Value: 20240313T093923Z

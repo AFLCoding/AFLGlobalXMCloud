@@ -1,0 +1,122 @@
+﻿---
+ID: "7604cff7-f292-480b-8e51-1c1c0e7135e7"
+Parent: "af5babaa-64a1-4c90-8545-53ba5ccd8328"
+Template: "bf61de11-b78f-48ea-aaa4-1d17f0d83824"
+Path: "/sitecore/content/AFL-Global/APAC/Home/Resources/Product Related Materials/Frequently Asked Questions/FAQ Test and Inspection/OTDR General Questions"
+SharedFields:
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{87CE798E-CDA3-4363-A47F-74DF3E2D88BE}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{DAE7C21D-4D3B-4257-A95C-9104CD8AF409}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220823T185246Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{1A24FC12-1F8E-4214-921E-D355AA3E4DC5}"
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: OTDR General Questions
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rafael
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: OTDR General Questions
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <h1 style="color: #000000; background-color: #ffffff; margin: 0.67em 0px; line-height: 24px;">OTDR: General Questions</h1>
+        <strong style="color: #333333; background-color: #ffffff;">Q: What do OTDRs test? </strong><br style="color: #333333; background-color: #ffffff;" />
+        <strong style="color: #333333; background-color: #ffffff;">A:</strong><span style="background-color: #ffffff; color: #333333;"> OTDRs test the overall length, loss and optical return loss of fiber optic cables or networks. Additionally, they detect, locate, identify and measure optical components in installed networks including fusion splices, optical connectors and PON splitters as well as faults such as breaks or tight bends causing high loss.</span><br style="color: #333333; background-color: #ffffff;" />
+        <br style="color: #333333; background-color: #ffffff;" />
+        <strong style="color: #333333; background-color: #ffffff;">Q: Does it take training to use an OTDR?</strong><br style="color: #333333; background-color: #ffffff;" />
+        <strong style="color: #333333; background-color: #ffffff;">A:</strong><span style="background-color: #ffffff; color: #333333;"> Each OTDR is supplied with a quick reference guide and supported with App Notes and training presentations. Dedicated tech support experts are a phone call or email away to answer any questions you have. Need more in-depth training? Check out the wide range of training classes and CDs available from <a rel="noopener noreferrer" href="http://www.aflglobal.com/Services/Training/The-Light-Brigade.aspx" target="_blank" style="color: #0091ea; background-color: transparent;">The Light Brigade</a>.</span><br style="color: #333333; background-color: #ffffff;" />
+        <br style="color: #333333; background-color: #ffffff;" />
+        <strong style="color: #333333; background-color: #ffffff;">Q: How does it work?</strong><br style="color: #333333; background-color: #ffffff;" />
+        <strong style="color: #333333; background-color: #ffffff;">A:</strong><span style="background-color: #ffffff; color: #333333;"> OTDRs operate like an optical radar, injecting pulses of light into the fiber from one end and measuring reflections and backscatter that is returned to the OTDR. Loss due to fusion splices, connectors, breaks or macro-bends reduce the amount of returned backscatter. The OTDR records returned backscatter and reflections vs. time and may present this as a trace showing optical loss vs. distance. Intelligent algorithms interpret the trace to locate, identify and characterize detected network start, end, components and faults.</span><br style="color: #333333; background-color: #ffffff;" />
+        <br style="color: #333333; background-color: #ffffff;" />
+        <span style="background-color: #ffffff; color: #333333;"><strong>Q: Can a virus affect AFL products that run Windows CE operating system by via a USB Flash Drive or SD Card?</strong><br />
+        <strong>A:</strong> There is no risk that the viruses that affect Windows personal computers can be transferred via a USB Flash Drive or SD Card to AFL products because viruses that run on the Windows XP/7/8 X86 architecture will not run on the ARM processor.<br />
+         <br />
+        Windows CE viruses do exist and it is possible that such a virus could be introduced into an AFL product via a USB Flash Drive or SD Card. However, these viruses are extremely rare and, to our knowledge, this has never happened to any AFL Windows CE product.<br />
+         <br />
+        <strong>Q: When do I need to use a launch cord (cable) with my OTDR?</strong><br />
+        <strong>A:</strong> A launch cord ‘moves’ the effects of the OTDR’s own front panel connection away from the first connection in the link under test. This allows the OTDR to measure the loss and reflectance of first connection in the link. However, a launch cable will not eliminate the 'dead zone’ after the first connection in the link.<br />
+         <br />
+        <strong>Q: When do I need to use a tail cord (receive cable)?</strong><br />
+        <strong>A:</strong> A tail cord provides fiber backscatter after the final connection in the fiber link under test, enabling the OTDR to measure the loss and reflectance of the final connection in the link<br />
+         <br />
+        <strong>Q: When do I need to use both a launch and tail cord (launch and receive cable) with my OTDR?</strong><br />
+        <strong>A:</strong> You will need to use both a launch and tail cord to measure the end-to-end (insertion) loss and optical return loss (ORL) of a fiber.<br />
+         <br />
+        <strong>Q: Must a launch or tail cord (launch or receive cable) have the same fiber type as the fiber network (link) under test?</strong><br />
+        <strong>A:</strong> The fiber type of launch and tail cords must match the fiber type used in the fiber link under test.<br />
+        <br />
+        <strong>Q: How long should a launch or tail cord (launch or receive cable) be?</strong><br />
+        <strong>A:</strong> This depends on a number of factors including:</span><br style="color: #333333; background-color: #ffffff;" />
+        <ul style="color: #333333; background-color: #ffffff; list-style-image: url('https://webapps.aflglobal.com/productionFiles/images/bulletRound.aspx');">
+            <li>The length of the fiber link you are testing,</li>
+            <li>Whether or not the link under test includes a splitter (i.e. whether or not you are testing through an FTTx PON splitter),</li>
+            <li>The particular model OTDR you are using.</li>
+        </ul>
+        <span style="background-color: #ffffff; color: #333333;">Application examples:</span><br style="color: #333333; background-color: #ffffff;" />
+        <ul style="color: #333333; background-color: #ffffff; list-style-image: url('https://webapps.aflglobal.com/productionFiles/images/bulletRound.aspx');">
+            <li>A 150 m launch/tail cord will work for fiber links of 2 km or less, typically found in enterprise networks.</li>
+            <li>A 1 km launch/tail cord will work for most PON and intermediate length (up to 50 km) point-to-point fiber links.</li>
+        </ul>
+        <span style="background-color: #ffffff; color: #333333;"><strong>Q: Is an OTDR launch cord (cable) the same thing as a ‘pulse suppressor’ or ‘launch fiber’?</strong><br />
+        <strong>A:</strong> Yes, all are long test jumpers housed in portable, compact cases. A typical launch cord contains 150 m to 1 km of fiber. AFL calls most of their launch cords ‘fiber rings’<br />
+         <br />
+        <strong>Q: What is the maximum fiber length and pulse width that can be tested with the 150 meter fiber ring?</strong><br />
+        <strong>A: </strong>A 1.0 </span><span style="background-color: #ffffff; color: #333333;">µ</span><span style="background-color: #ffffff; color: #333333;">s (1,000 ns) pulse width will test up to 40 km of Corning SMF-28e fiber @1310 nm and 50 km @ 1550 nm.<br />
+         <br />
+        Qualifying factors</span><br style="color: #333333; background-color: #ffffff;" />
+        <ul style="color: #333333; background-color: #ffffff; list-style-image: url('https://webapps.aflglobal.com/productionFiles/images/bulletRound.aspx');">
+            <li>A 1.0 µs is the maximum pulse width that will allow the OTDR to accurately measure the first network connection (mated to fiber ring)</li>
+            <li>A longer pulse width will allow the OTDR to measure distances greater than 40 km @ 1310 nm, but the OTDR will miss the first network connection</li>
+        </ul>
+        <span style="background-color: #ffffff; color: #333333;"><strong>Q: How do I know which range to select on my OTDR?</strong><br />
+        <strong>A:</strong> AFL OTDRs are equipped with a SmartAuto</span><span style="background-color: #ffffff; color: #333333;">™ or</span><span style="background-color: #ffffff; color: #333333;"> “Full Auto” selection enabling the OTDR to automatically scan the network and set the range setting.<br />
+         <br />
+        At a minimum, the selected range must be longer than the total length of the launch cord, plus the length of the fiber under test, plus the length of the tail cord. For best results, select a length approximately equal to 150% of the longest fiber, plus the length of the launch and tail cords to be tested.<br />
+         <br />
+        <strong>Q: How do I know which pulse width to use on my OTDR?</strong><br />
+        <strong>A:</strong> If the OTDR has a SmartAuto</span><span style="background-color: #ffffff; color: #333333;">™ or</span><span style="background-color: #ffffff; color: #333333;"> “Full Auto”, Expert Auto or Expert Auto-Once mode, the OTDR software will automatically chose the proper range based on the fiber length, and the best pulse width based on that range selected. If the technician is not satisfied with the selected pulse width the OTDR may be switched to “Expert” test mode (if available) and settings may be adjusted manually. The key is to always use the shortest pulse width possible that will satisfy the trace quality and allow the user to see the end of the fiber. Short pulse widths are used for short fibers. Long PW’s are used on long fibers. If the trace quality exhibits excessive noise that cannot be removed by additional averages, select the next higher pulse width.<br />
+         <br />
+        <strong>Q: Which pulse width do I use to troubleshoot a long fiber run?</strong><br />
+        <strong>A:</strong> Use the shortest pulse width that allows the fault to be located. Repair the fault, and then switch to a longer pulse width to test the entire network.<br />
+         <br />
+        <strong>Q: What is an “echo” or “ghost” event on an OTDR trace?</strong><br />
+        <strong>A:</strong> An echo occurs when the OTDR receives unwanted multiple reflections. Large reflective events are more likely to cause multiple reflections due to large amounts of energy reflected back to the OTDR. Portions of the energy reflected multiple times result in echoes. These waveform artifacts look like real events; however they seldom have loss associated with them.</span>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rafael
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: OTDR General Questions
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: OTDR General Questions
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3bd40e7e-9e83-4c17-aeed-5690b83f7265"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T101551Z

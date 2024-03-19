@@ -22,61 +22,61 @@
         "allowedPushOperations": "CreateAndUpdate"
       },
       {
-        "name": "migrated/americas/home/rssfeed",
+        "name": "americas/home/rssfeed",
         "path": "/sitecore/content/AFL-Global/AMERICAS/Home/RSS feeds",
         "scope": "ItemAndDescendants",
         "allowedPushOperations": "CreateAndUpdate"
       },
       {
-        "name": "migrated/americas/home/solutions",
+        "name": "americas/home/solutions",
         "path": "/sitecore/content/AFL-Global/AMERICAS/Home/Solutions",
         "scope": "ItemAndDescendants",
         "allowedPushOperations": "CreateAndUpdate"
       },
       {
-        "name": "migrated/americas/home/resources",
+        "name": "americas/home/resources",
         "path": "/sitecore/content/AFL-Global/AMERICAS/Home/Resources",
         "scope": "ItemAndDescendants",
         "allowedPushOperations": "CreateAndUpdate"
       },
       {
-        "name": "migrated/americas/home/contact",
+        "name": "americas/home/contact",
         "path": "/sitecore/content/AFL-Global/AMERICAS/Home/Contact",
         "scope": "ItemAndDescendants",
         "allowedPushOperations": "CreateAndUpdate"
       },
       {
-        "name": "migrated/americas/home/company",
+        "name": "americas/home/company",
         "path": "/sitecore/content/AFL-Global/AMERICAS/Home/Company",
         "scope": "ItemAndDescendants",
         "allowedPushOperations": "CreateAndUpdate"
       },
       {
-        "name": "migrated/americas/home/404",
+        "name": "americas/home/404",
         "path": "/sitecore/content/AFL-Global/AMERICAS/Home/404",
         "scope": "ItemAndDescendants",
         "allowedPushOperations": "CreateAndUpdate"
       },
       {
-        "name": "migrated/americas/home/searchresult",
+        "name": "americas/home/searchresult",
         "path": "/sitecore/content/AFL-Global/AMERICAS/Home/Search Result",
         "scope": "ItemAndDescendants",
         "allowedPushOperations": "CreateAndUpdate"
       },
       {
-        "name": "migrated/americas/home/sitemap",
+        "name": "americas/home/sitemap",
         "path": "/sitecore/content/AFL-Global/AMERICAS/Home/sitemap",
         "scope": "ItemAndDescendants",
         "allowedPushOperations": "CreateAndUpdate"
       },
       {
-        "name": "migrated/americas/home/overlays",
+        "name": "americas/home/overlays",
         "path": "/sitecore/content/AFL-Global/AMERICAS/Home/Overlays",
         "scope": "ItemAndDescendants",
         "allowedPushOperations": "CreateAndUpdate"
       },
       {
-        "name": "migrated/americas/presentation",
+        "name": "americas/presentation",
         "path": "/sitecore/content/AFL-Global/AMERICAS/Presentation",
         "rules": [
           {
@@ -103,7 +103,7 @@
         ]
       },
       {
-        "name": "migrated/americas/settings",
+        "name": "americas/settings",
         "path": "/sitecore/content/AFL-Global/AMERICAS/Settings",
         "rules": [
           {

@@ -1,0 +1,95 @@
+﻿---
+ID: "79b18657-9ace-4f2a-a1d1-b7472e2019db"
+Parent: "6d5e71df-f526-40d9-9d8c-f6e98be8f9bb"
+Template: "bf61de11-b78f-48ea-aaa4-1d17f0d83824"
+Path: "/sitecore/content/AFL-Global/APAC/Home/Company/Corporate Responsibility/Social Responsibility/Diversity  Inclusion/Memberships"
+SharedFields:
+- ID: "1fbc6a49-6281-48ee-87e9-a3970b145adb"
+  Hint: NavigationFilter
+  Value: |
+    {E0A2A027-0932-4878-A7D6-0416D5263EFB}
+    {61BD64D6-809E-40AE-9297-2724A19329B3}
+    {D063E9D1-C7B5-4B1E-B31E-69886C9C59F5}
+    {500AE4C0-FA7B-463F-8149-EFFF7F044101}
+    {A0E7FF57-6994-4B09-AA21-104239628D5A}
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{87CE798E-CDA3-4363-A47F-74DF3E2D88BE}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{DAE7C21D-4D3B-4257-A95C-9104CD8AF409}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 1000
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211223T150132Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Memberships
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\harry
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: AFL is active in several organizations promoting diversity and inclusion. Associates’ involvement is encouraged and information shared among business units and leadership to enhance AFL’s mission, vision and core values.
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <h1>AFL Employee Memberships</h1>
+        <p>
+        AFL is active in several organizations promoting diversity and inclusion. Associates’ involvement is encouraged and information shared among business units and leadership to enhance AFL’s mission, vision and core values.</p>
+        <h2>
+        <a rel="noopener noreferrer" href="https://www.womeninmanufacturing.org/home/" target="_blank">Women in Manufacturing® (WiM)</a></h2>
+        <p>
+        WiM is a national association dedicated to supporting, promoting and inspiring women who are pursuing or have chosen a career in the manufacturing industry. <a rel="noopener noreferrer" href="https://www.womeninmanufacturing.org/home/" target="_blank">https://www.womeninmanufacturing.org/home/</a></p>
+        <h2>
+        <a rel="noopener noreferrer" href="https://jaasc.org/home/" target="_blank">Japan-America Association of South Carolina (JAASC)</a></h2>
+        <p>
+        JAASC is a statewide, nonprofit organization dedicated to fostering and promoting positive relationships among the people of the United States and Japan. JAASC aims to strengthen the bonds of friendship and understanding through social, educational and cultural exchanges. <a rel="noopener noreferrer" href="https://jaasc.org/home/" target="_blank">https://jaasc.org/home/</a></p>
+        <h2>
+        <a rel="noopener noreferrer" href="https://www.eacc-carolinas.com/" target="_blank">European American Chamber of Commerce (Carolinas) (EACC)</a></h2>
+        <p>
+        The EACC an organization whose mission is to provide its members with access to transatlantic business opportunities as well as timely and relevant information, resources and support on matters affecting business activities between Europe and the United States. EACC Carolinas is an independent, membership organization dedicated to stimulating business and networking relations between Europe and the Carolinas region. <a rel="noopener noreferrer" href="https://www.eacc-carolinas.com/" target="_blank">https://www.eacc-carolinas.com/</a></p>
+        <h2>
+        <a rel="noopener noreferrer" href="http://www.mindfulemployer.net/" target="_blank">UK MINDFUL EMPLOYER® Network</a></h2>
+        <p>
+        As more associates are being diagnosed as disabled with mental health illness, it is often the most difficult group to support and help return to full, productive work. Mindful Employer is aimed at increasing awareness of mental health at work and providing on-going support for employers in recruitment and retention of staff. They bring together representatives of local employers of all sizes and sectors to discuss issues relating to improving staff well-being and exploring strategies and cultures which help businesses reach their full potential. This is achieved by providing a free forum for sharing experience and best practice. The network meets regularly and occasionally invites top speakers to inspire and challenge attendees.<br />
+        <a rel="noopener noreferrer" href="http://www.mindfulemployer.net/" target="_blank">http://www.mindfulemployer.net/</a></p>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\harry
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: AFL Employee Memberships
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: AFL Employee Memberships
+    - ID: "628db04b-29a2-483b-a88c-b8fd9a5f2086"
+      Hint: HeroLink
+      Value: |
+        <link id="{1C373F2C-CD6C-4B3C-B5E3-3FCCFD22A534}" querystring="" linktype="internal" text="LEARN MORE" anchor="" url="/AFL-Global/AMERICAS/Home/Company/Corporate Responsibility/Social Responsibility/Conflict Mineral Policy" title="" class="" target="|Custom" />
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: AFL Employee Memberships
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6d18923a-99e0-4d3b-9701-dd047457c9ce"
+    - ID: "93dc88f3-05e5-482d-9b9a-c859c8258a73"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image stylelabs-content-id="168702" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/168702/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/Diversity-Inclusion?v=b3618218" mediaid="" stylelabs-content-type="Image" alt="Diversity-header (1).jpg" height="369" width="955" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T101907Z

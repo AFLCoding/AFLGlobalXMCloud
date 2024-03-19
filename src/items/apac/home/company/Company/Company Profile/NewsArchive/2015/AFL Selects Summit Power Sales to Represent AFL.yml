@@ -1,0 +1,95 @@
+﻿---
+ID: "28ed0ea6-b0f4-4b86-8b35-8d1995e329f8"
+Parent: "8799aff7-4d9d-404d-934c-fe8ec2b8f122"
+Template: "f36e821e-bb98-44dc-966d-e92a0e033cc7"
+Path: "/sitecore/content/AFL-Global/APAC/Home/Company/Company Profile/NewsArchive/2015/AFL Selects Summit Power Sales to Represent AFL"
+SharedFields:
+- ID: "1fbc6a49-6281-48ee-87e9-a3970b145adb"
+  Hint: NavigationFilter
+  Value: |
+    {E0A2A027-0932-4878-A7D6-0416D5263EFB}
+    {61BD64D6-809E-40AE-9297-2724A19329B3}
+    {D063E9D1-C7B5-4B1E-B31E-69886C9C59F5}
+    {500AE4C0-FA7B-463F-8149-EFFF7F044101}
+    {A0E7FF57-6994-4B09-AA21-104239628D5A}
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{3A84BAC9-C1BD-4809-A12C-28EB44E25329}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{DAE7C21D-4D3B-4257-A95C-9104CD8AF409}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "228f9517-e120-4014-b2c7-df0ac467a349"
+      Hint: ContentTitle
+      Value: AFL Selects Summit Power Sales to Represent Enterprise Market in Rocky Mountain Region
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211216T103534Z
+    - ID: "3688d7df-2feb-43a4-ab8d-410e5f70a676"
+      Hint: ContentDescription
+      Value: |
+        Spartanburg, SC – <a href="http://www.aflglobal.com/">AFL</a> announces it has selected Summit Power Sales to support the <a href="http://www.aflglobal.com/Solutions/Data-Center.aspx">enterprise</a> market for AFL in Colorado, Utah, Wyoming, Idaho and Montana. The products and services Summit Power Sales will represent include <a href="http://www.aflglobal.com/Products/Fiber-Optic-Cable.aspx">fiber optic cable</a>, <a href="http://www.aflglobal.com/Products/Fiber-Inside-Plant.aspx">connectivity</a>, <a href="http://www.aflglobal.com/Products/Fiber-Outside-Plant.aspx">closures</a>, <a href="http://www.aflglobal.com/Products/Fusion-Splicing.aspx">fusion splicers</a>, <a href="http://www.aflglobal.com/Products/Test-and-Inspection.aspx">test and inspection equipment</a> and <a href="http://www.aflglobal.com/Services/Training/The-Light-Brigade.aspx">Light Brigade® training and education</a>.<br />
+         <br />
+        In 2000, Jeremy Most, principle of Summit Power Sales, established the company.<br />
+         <br />
+        “By representing a select few manufacturers in a concentrated territory, we have had the opportunity to focus on our customers and serve with great dedication,” commented Most. “We have built strong relationships at the distribution level and with several leading contractors over the past 14 years. We look forward to working with AFL to strengthen their impact in the Rocky Mountain region.”<br />
+         <br />
+        Prior to starting Summit Power Sales, Most and a business partner opened Aspen Power and Telecommunications where they served the datacom, telecommunication and utility markets growing sales to more than $50 million covering six states.<br />
+         <br />
+        Most continues, “With our experience and AFL’s reputation in the industry, we are confident that we’ll be instrumental in helping AFL reach its goals.”   <br />
+         <br />
+        Working in tandem with Most is Carin Darr, outside sales representative. With 25 years of experience in the communications and distribution industries, Carin will provide support for customers in Colorado, Montana and Wyoming.<br />
+         <br />
+        For additional information about AFL, its products and services, visit <a href="http://www.aflglobal.com/">www.AFLglobal.com</a>.<br />
+         <br />
+        About AFL<br />
+        AFL provides industry-leading products and services to the electric utility, broadband, communications, enterprise and factory markets as well as the emerging markets of oil and gas, mining, nuclear, avionics, renewables and transportation. The company’s diverse product portfolio includes fiber optic cable, transmission and substation accessories, outside plant equipment, connectors, fusion splicers, test equipment and training. AFL’s service portfolio includes market-leading positions with the foremost communications companies supporting inside plant central office, EF&I, outside plant, enterprise and wireless areas.<br />
+        <br />
+        Founded in 1984, AFL is proud to offer engineering expertise, exceptional products and reliable services that help our customers improve their critical fiber optic and electrical infrastructures. AFL has operations in the U.S., Mexico, Canada, Europe, Asia and Australia. The company is headquartered in Spartanburg, SC and is a wholly-owned subsidiary of Fujikura Ltd. of Japan. For more information, visit <a href="http://www.aflglobal.com/">www.AFLglobal.com</a>. <br />
+        <br />
+        Contact<br />
+        Corie Culp<br />
+        Public Relations Manager<br />
+        AFL<br />
+        864.433.5409<br />
+        <a href="mailto:Corie.Culp@AFLglobal.com">Corie.Culp@AFLglobal.com</a>
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: AFL Selects Summit Power Sales to Represent AFL
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\tanishka
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: AFL announces it has selected Summit Power Sales to support the enterprise market for AFL in Colorado, Utah, Wyoming, Idaho and Montana. 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\tanishka
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: "AFL, Summit Power Sales, partners, fiber optic cable, connectivity, closures, fusion splicers, test and inspection equipment, Light Brigade?, training, education, enterprise, Rocky Mountain region"
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: AFL Selects Summit Power Sales to Represent AFL
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: AFL Selects Summit Power Sales to Represent AFL
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "195108bb-8aab-459f-8856-8b40a1a36a5c"
+    - ID: "a6eaffd5-fc3e-41b4-93b3-f1721fcf2300"
+      Hint: ContentPublishedDate
+      Value: 20150602T183000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T101822Z

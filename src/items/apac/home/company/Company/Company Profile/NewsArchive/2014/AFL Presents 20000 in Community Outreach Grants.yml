@@ -1,0 +1,87 @@
+﻿---
+ID: "6aaf852a-33ff-4391-b16d-95ac553c42b9"
+Parent: "269b9fff-cd06-472d-b9a2-7d1e3616ba00"
+Template: "f36e821e-bb98-44dc-966d-e92a0e033cc7"
+Path: "/sitecore/content/AFL-Global/APAC/Home/Company/Company Profile/NewsArchive/2014/AFL Presents 20000 in Community Outreach Grants"
+SharedFields:
+- ID: "1fbc6a49-6281-48ee-87e9-a3970b145adb"
+  Hint: NavigationFilter
+  Value: |
+    {E0A2A027-0932-4878-A7D6-0416D5263EFB}
+    {61BD64D6-809E-40AE-9297-2724A19329B3}
+    {D063E9D1-C7B5-4B1E-B31E-69886C9C59F5}
+    {500AE4C0-FA7B-463F-8149-EFFF7F044101}
+    {A0E7FF57-6994-4B09-AA21-104239628D5A}
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{3A84BAC9-C1BD-4809-A12C-28EB44E25329}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{DAE7C21D-4D3B-4257-A95C-9104CD8AF409}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "228f9517-e120-4014-b2c7-df0ac467a349"
+      Hint: ContentTitle
+      Value: AFL Presents $20,000 in Community Outreach Grants
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211214T110611Z
+    - ID: "3688d7df-2feb-43a4-ab8d-410e5f70a676"
+      Hint: ContentDescription
+      Value: |
+        Spartanburg, SC – <a href="http://www.aflglobal.com/">AFL</a> presented $20,000 grants to four nonprofit organizations in Canada, Georgia, North Carolina and Delaware. Made possible by AFL’s <a href="http://www.aflglobal.com/Company/Community.aspx">Community Outreach Program</a>, the grants support AFL’s continued efforts to positively impact our communities.<br />
+         <br />
+        The <a href="http://www.jdrf.ca/">Juvenile Diabetes Research Foundation (JDRF) Canada</a> was the recipient of a $10,000 community outreach grant that supports type 1 diabetes (T1D) research. JDRF funds research in three areas—cure, treat and prevent. Through the JDRF Canadian Clinical Trial Network (JDRF CCTN), solutions for accelerating management, care and ultimately the cure of T1D are being addressed.<br />
+         <br />
+        <a href="http://www.habitatgwinnett.org/">Gwinnett Habitat for Humanity®</a> received a $5,000 grant to support construction of a new home. Habitat homeowners must demonstrate a need, partner with Habitat by providing 250 “sweat equity” hours and demonstrate an ability to pay a mortgage. Gwinnett Habitat for Humanity has a goal to complete three new homes, rehab two homes and complete six home repair projects in 2014.<br />
+         <br />
+        <a href="http://www.habitatncc.org/">Habitat for Humanity of New Castle County</a> is the recipient of a $2,500 grant to support the Alumni Support Group and Tool Lending Library, a program that provides courses to help homeowners achieve financial stability through learning to budget and complete simple home repairs on their own.<br />
+         <br />
+        Lastly, the <a href="http://www.unionshelter.org/">Union County Community Shelter</a> received a $2,500 grant for its Promise Partner Housing Stabilization program. The shelter works to end homelessness in the surrounding community, enabling the homeless to become stable, productive contributors to the community by becoming self-sufficient.<br />
+         <br />
+        AFL has an extensive Community Outreach Program that provides grants, sponsorships, employee engagement projects, disaster relief and more. For additional information on AFL and its community initiatives, visit <a href="http://www.aflglobal.com/">www.AFLglobal.com</a>.<br />
+        <br />
+        About AFL<br />
+        AFL provides industry-leading products and services to the electric utility, broadband, communications, enterprise and OEM markets as well as the emerging markets of oil and gas, mining, nuclear, avionics, renewables and transportation. The company’s diverse product portfolio includes fiber optic cable, transmission and substation accessories, outside plant equipment, connectors, fusion splicers, test equipment and training. AFL’s service portfolio includes market-leading positions with the foremost communications companies supporting inside plant central office, EF&I, outside plant, enterprise and wireless areas.<br />
+        <br />
+        Founded in 1984, AFL is proud to offer engineering expertise, exceptional products and reliable service that help our customers improve their critical and electrical infrastructure. AFL has operations in the U.S., Mexico, Canada, Europe, Asia and the South Pacific. The company is headquartered in Spartanburg, SC and is a wholly-owned subsidiary of Fujikura Ltd. of Japan. For more information, visit <a href="http://www.aflglobal.com/">www.AFLglobal.com</a>. <br />
+        <br />
+        Contact<br />
+        Corie Culp<br />
+        Public Relations Manager<br />
+        AFL<br />
+        864.433.5409<br />
+        <a href="mailto:Corie.Culp@AFLglobal.com">Corie.Culp@AFLglobal.com</a>
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: AFL Presents 20000 in Community Outreach Grants
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kushagra
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kushagra
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: AFL Presents 20000 in Community Outreach Grants
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: AFL Presents 20000 in Community Outreach Grants
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "343f5aa1-7511-4465-8bfe-9310f5af242f"
+    - ID: "a6eaffd5-fc3e-41b4-93b3-f1721fcf2300"
+      Hint: ContentPublishedDate
+      Value: 20140324T183000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T101805Z
