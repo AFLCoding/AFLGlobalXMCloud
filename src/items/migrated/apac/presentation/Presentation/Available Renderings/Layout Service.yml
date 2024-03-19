@@ -1,0 +1,34 @@
+﻿---
+ID: "2bef6289-e0b3-4238-9e57-800607fa2ed7"
+Parent: "960b28bd-301a-400b-9aa6-6a0af6610953"
+Template: "634465da-c860-4d80-b469-98dabc3de6c8"
+Path: "/sitecore/content/AFL-Global/APAC/Presentation/Available Renderings/Layout Service"
+SharedFields:
+- ID: "715ae6c0-71c8-4744-ab4f-65362d20ad65"
+  Hint: Renderings
+  Value: "{AFA8325E-9653-4E88-8839-1777A56B5FB1}"
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{BC13F33E-4606-44FE-9146-0AA6F5682987}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211027T075737Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "784c2350-1182-4ccf-9330-22b4bc4d378b"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\unicorn
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20211103T115739Z

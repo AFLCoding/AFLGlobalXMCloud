@@ -1,0 +1,48 @@
+﻿---
+ID: "225602b5-1d57-41e7-ab79-ea47dbcb0989"
+Parent: "dc27248d-688e-455d-912d-8a02e404bb3d"
+Template: "e7037b42-b31a-46f2-821f-66db5e18b889"
+Path: "/sitecore/content/AFL-Global/APAC/Data/AFL-FeatureProduct Folder/AlumaCore Optical Ground Wire OPGW detail"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211126T110155Z
+    - ID: "32e51e4a-eea7-4372-9b5b-338b74eb3ed4"
+      Hint: FeatureProductDescription
+      Value: |
+        <p style="color: #333333; background-color: #ffffff; margin-right: 0px; margin-bottom: 15px; margin-left: 0px;">AFL AlumaCore OPGW (Optical Ground Wire) is preferred for its central aluminum pipe and color-coded fiber optic buffer tubes which simplify the splicing process while providing optimum fiber protection as well as long term product reliability.</p>
+        <p style="color: #333333; background-color: #ffffff; margin: 0px 0px 15px;">Optical Ground Wire (OPGW) is a dual functioning cable.&nbsp; It is designed to replace traditional static / shield /&nbsp;earth wires on overhead&nbsp;transmission lines with the added benefit of containing optical fibers which can be used for telecommunications purposes. OPGW must be capable of withstanding the mechanical stresses applied to overhead cables by environmental factors such as wind and ice. OPGW must also be capable of handling electrical faults on the transmission line by providing a path to ground without damaging the sensitive optical fibers inside the cable.</p>
+        <p style="color: #333333; background-color: #ffffff; margin: 0px 0px 15px;">AFL has been manufacturing Optical Ground Wire since 1985 when AlumaCore OPGW was our only product.&nbsp; It remains a top seller and a preferred design by many utilities because of its reputation for reliable service and survivability even in the harshest of conditions. This product has been successfully deployed worldwide in climates ranging from the Siberian Tundra to the rainforests of Brazil. The The durable optical sub-units come in a tight structure or loose tube configuration. Tight structure is the absolute most rugged option with the gel-filled loose buffer tubes running a close second.&nbsp; AFL will work with you on your particular application to determine which option is best for you given your fiber count, climatic conditions, and other considerations.</p>
+        <p style="color: #333333; background-color: #ffffff; margin: 0px 0px 15px;">The OPGW cable design is constructed of a fiber optic core (with multiple sub-units depending on the fiber count) encased in a hermetically sealed hardened aluminum pipe with a covering of one or more layers of steel and/or alloy wires. Installation is very similar to the process used to install conductors, although care must be taken to use the proper sheave or pulley sizes so as not to cause damage or crush the cable. After installation, when the cable is ready to be spliced, the wires are cut away exposing the central aluminum pipe which can&nbsp;easily be ring-cut with a pipe cutting tool. The color-coded sub-units are preferred by most users because they make splice box preparation very simple.</p>
+        <p style="color: #333333; background-color: #ffffff; margin: 0px 0px 15px;">Additionally, AlumaCore OPGW is the ideal solution for those customers looking to isolate or sectionalize their OPGW in an effort to minimize line losses. Ask us more about this unique application for more details.</p>
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "46f5078b-5623-4ac8-9579-98890619b28c"
+    - ID: "9ce6e31f-c94f-41ab-83cd-b96ca5698509"
+      Hint: FeatureProductHeading
+      Value: AlumaCore Optical Ground Wire (OPGW)
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20211126T134718Z
+    - ID: "eac35925-413d-4845-af02-180163cbd2a9"
+      Hint: FeatureProductTitle
+      Value: AlumaCore Optical Ground Wire (OPGW)
+    - ID: "fb72ff1d-6b1d-4970-916a-8162ff077e62"
+      Hint: ProcutItems
+      Value: 

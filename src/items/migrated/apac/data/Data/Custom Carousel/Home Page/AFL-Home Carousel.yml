@@ -1,0 +1,35 @@
+﻿---
+ID: "5697ddab-685d-48ee-a0a0-aa8882a2d2da"
+Parent: "a82897b5-a37f-405c-b824-0cf0e709aa54"
+Template: "6f9c9c28-ba50-41d6-ae16-54569803e411"
+Path: "/sitecore/content/AFL-Global/APAC/Data/Custom Carousel/Home Page/AFL-Home Carousel"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{D24CFD2F-4281-4783-82C0-F87EA95461AF}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211021T104944Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "811aa229-17f3-41ff-b95c-3130e879d066"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sripada
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231206T102814Z

@@ -1,0 +1,363 @@
+﻿---
+ID: "de5bfdcc-fe53-44fa-a6a9-c3e86290bd2d"
+Parent: "4dc45b7f-2337-48c1-84f4-26e5ea35c1eb"
+Template: "8fcd3cfe-8b3b-423e-8176-6a7c72cb43fc"
+Path: "/sitecore/content/AFL-Global/AMERICAS/Presentation/Rendering Variants/AFL-Resource/Resource/Wrapper/Scriban1"
+SharedFields:
+- ID: "7b5b7e8d-e579-44aa-8174-d4594db0c2f9"
+  Hint: CssClass
+  Value: "afl-numberitemTiles d-flex"
+- ID: "8a85a595-3298-4eb1-96dd-c882ee5802ae"
+  Hint: Tag
+  Value: "{18C8C889-C723-452A-970C-7CE4D41EE371}"
+- ID: "936e68b4-5346-4adb-9b77-79771d0b40dc"
+  Hint: Template
+  Value: |
+    {{
+        resourcecount=0
+        hideclass=""
+        }}
+    <div class="afl-tilesItem {{hideclass}}" >
+            <div class="field-documentimage">
+    
+                {{ 
+                    href = ''
+                    url = ''
+                }}
+    
+                {{ if i_item.DownloadFileLink.media_url | string.size > 0 }}
+                    {{ url = i_item.DownloadFileLink.media_url }}
+                {{ else }}
+                    {{ parts =  i_item.DownloadFileLink | string.split ' ' }}
+                    {{~ for part in parts ~}}
+                        {{ if part | string.contains 'href'
+                            href = part | string.split '='
+                            break
+                        end }}
+                    {{~ end ~}}
+                
+                    {{ if href | array.size > 0 }}
+                        {{ url = href[1] | string.replace "\"" "" | string.replace ">VIEW</a>" "" }}
+                    {{ end }}
+    
+                {{ end }}
+            
+    <a title='' href='{{ url }}' target="_blank">
+                    <img mediaid="" stylelabs-content-id="237949" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/237949/thumbnail" src=" https://afl-delivery.stylelabs.cloud/api/public/content/acfda5d42f5848cb88b7a693891cfc01?v=252fbef0" stylelabs-content-type="Image" alt="Catalog_Icon.png" height="287" width="339" format="" >
+                </a>
+            </div>
+    <div class="afl-TileItemDetail">
+                <p class="field-documentcategory">Specification Sheet</p>
+                <div class="afl-itemBlog">
+                    <h3 class="afl-itemBlog field-documentname"> <a title='' href='{{ url }}' target="_blank">Download Specification Sheet</a></h3>
+                  
+                      <a title='' href='{{ url }}' target="_blank">VIEW</a>
+                    
+                </div>
+            </div>
+       
+    </div>
+        {{ for i_child in (sc_followmany i_item "AFLDocumentList") }}
+        <div class="afl-tilesItem {{hideclass}}">
+            {{ if i_child.DocumentName | string.contains "Software Downloads" }}
+                {{ parts =  i_child.DocumentUrl | string.split ' ' }}
+                {{ 
+                    href = ''
+                    url = ''
+                }}
+                
+                {{~ for part in parts ~}}
+                    {{ if part | string.contains 'href'
+                        href = part | string.split '='
+                        break
+                    end }}
+                {{~ end ~}}
+                
+                {{ if href | array.size > 0 }}
+                    {{ url = href[1] | string.replace "\"" "" | string.replace ">VIEW</a>" "" }}
+                {{ end }}
+    
+                <div class="field-documentimage">
+                    <a title='{{ i_child.DocumentName }}' href='{{ url }}'
+                        rel="noopener noreferrer" target="_blank">
+                        {{ i_child.DocumentImage }}
+                    </a>
+                </div>
+    
+                <div class="afl-TileItemDetail">
+                    <p class="field-documentcategory">{{i_child.DocumentCategory}}</p>
+                    <div class="afl-itemBlog">
+                        <h3 class="afl-itemBlog field-documentname">
+                            <a title='{{ i_child.DocumentName }}' href='{{ url }}'
+                                rel="noopener noreferrer" target="_blank">{{i_child.DocumentName}}</a>
+                        </h3>
+                        {{i_child.DocumentUrl}}
+                    </div>
+                </div>
+    
+            {{ else }} 
+    
+                <div class="field-documentimage">
+    
+                    <a title='{{ i_child.DocumentName }}' href='{{ i_child.DocumentUrl | string.replace "<a href=\"" "" | string.replace "\" rel=\"noopener noreferrer\" target=\"_blank\">VIEW</a>" "" }}'
+                        rel="noopener noreferrer" target="_blank">
+                        {{ i_child.DocumentImage }}
+                    </a>
+                </div>
+    
+                <div class="afl-TileItemDetail">
+                    <p class="field-documentcategory">{{i_child.DocumentCategory}}</p>
+                    <div class="afl-itemBlog">
+                        <h3 class="afl-itemBlog field-documentname">
+                            <a title='{{ i_child.DocumentName }}' href='{{ i_child.DocumentUrl | string.replace "<a href=\"" "" | string.replace "\" rel=\"noopener noreferrer\" target=\"_blank\">VIEW</a>" "" }}'
+                                rel="noopener noreferrer" target="_blank">{{i_child.DocumentName}}</a>
+                        </h3>
+                        {{i_child.DocumentUrl}}
+                    </div>
+                </div>
+    
+            {{ end }}
+            
+        </div>
+        
+        {{- resourcecount=resourcecount+1 -}}
+        
+        {{- if resourcecount > 5 -}}
+        {{- hideclass="afl-tilehide"-}}
+        {{end}}
+        {{end}}
+        {{ for i_child in (sc_followmany i_item "AFLVideoList") }}
+        <div class="afl-tilesItem {{hideclass}}">
+    
+            {{ if i_child.VideoUrl | string.contains "sketchfab" }}
+            <div class="field-documentimage">
+                <a title='{{ i_child.VideoName }}' href='{{ i_child.VideoUrl | string.replace "<a href=\"" "" | string.replace "\" rel=\"noopener noreferrer\" target=\"_blank\">PLAY VIDEO</a>" "" }}'
+                    rel="noopener noreferrer" target="_blank">
+                    {{ i_child.VideoImage }}
+                </a>
+            </div>
+            {{ else }}
+    
+            <div title="{{ i_child.VideoName }}" class="field-documentimage lightbox-thumbnail" style="cursor:pointer" data-preview-video='{{ i_child.VideoUrl| string.replace "<a href=\"" "" | string.replace "\" rel=\"noopener noreferrer\" target=\"_blank\">PLAY VIDEO</a>" "" }}'>
+                {{ i_child.VideoImage }}
+            </div>
+            {{ end }}
+            <div class="afl-TileItemDetail">
+                <p class="field-documentcategory">{{i_child.VideoCategory}}</p>
+                <div class="afl-itemBlog">
+                    <h3 class="afl-itemBlog field-documentname">
+    
+                        {{ if i_child.VideoUrl | string.contains "sketchfab" }}
+                        <a title='{{ i_child.VideoName }}' href='{{ i_child.VideoUrl | string.replace "<a href=\"" "" | string.replace "\" rel=\"noopener noreferrer\" target=\"_blank\">PLAY VIDEO</a>" "" }}'
+                            rel="noopener noreferrer" target="_blank">{{i_child.VideoName}}</a>
+                        {{ else }}
+                        <a title='{{ i_child.VideoName }}' class="lightbox-thumbnail" rel="noopener noreferrer" style="cursor:pointer" data-preview-video='{{ i_child.VideoUrl | string.replace "<a href=\"" "" | string.replace "\" rel=\"noopener noreferrer\" target=\"_blank\">PLAY VIDEO</a>" "" }}'>{{i_child.VideoName}}</a>
+                        {{ end }}
+                        
+                    </h3>
+    
+                    {{ if i_child.VideoUrl | string.contains "sketchfab" }}
+                    {{ i_child.VideoUrl }}
+                    {{ else }}
+                    <a title='{{ i_child.VideoName }}' class="lightbox-thumbnail" rel="noopener noreferrer" style="cursor:pointer" data-preview-video='{{ i_child.VideoUrl | string.replace "<a href=\"" "" | string.replace "\" rel=\"noopener noreferrer\" target=\"_blank\">PLAY VIDEO</a>" "" }}'>PLAY VIDEO</a>
+                    {{ end }}
+                </div>
+            </div>
+        </div>
+        
+        {{- resourcecount=resourcecount+1 -}}
+        
+        {{- if resourcecount > 5 -}}
+        {{- hideclass="afl-tilehide"-}}
+        {{end}}
+        {{end}}
+        {{ for i_child in (sc_followmany i_item "AFLBlogList") }}
+        <div class="afl-tilesItem {{hideclass}}">
+            <div class="field-documentimage">
+                <a title='{{ i_child.VideoName }}' href='{{ i_child.VideoUrl | string.replace "<a href=\"" "" | string.replace "\" rel=\"noopener noreferrer\" target=\"_blank\">VIEW</a>" "" }}'
+                    rel="noopener noreferrer" target="_blank">
+                    {{ i_child.VideoImage }}
+                </a>
+            </div>
+            <div class="afl-TileItemDetail">
+                <p class="field-documentcategory">{{i_child.VideoCategory}}</p>
+                <div class="afl-itemBlog">
+                    <h3 class="afl-itemBlog field-documentname">
+                        <a title='{{ i_child.VideoName }}' href='{{ i_child.VideoUrl | string.replace "<a href=\"" "" | string.replace "\" rel=\"noopener noreferrer\" target=\"_blank\">VIEW</a>" "" }}'
+                            rel="noopener noreferrer" target="_blank">{{i_child.VideoName}}</a>
+                    </h3>
+                    {{i_child.VideoUrl}}
+                </div>
+            </div>
+        </div>
+        
+        
+        
+        {{- resourcecount=resourcecount+1 -}}
+        
+        {{- if resourcecount > 5 -}}
+        {{- hideclass="afl-tilehide"-}}
+        {{end}}
+        {{end}}
+        {{ for i_child in (sc_followmany i_item "AFLDocumentandSoftwareList") }}
+        <div class="afl-tilesItem {{hideclass}}">
+            <div class="field-documentimage">
+                <a title='{{ i_child.DocumentandSoftwareName }}' href="{{i_child.DocumentandSoftwareUrl}}">{{ i_child.DocumentandSoftwareImage }}</a>
+            </div>
+            <div class="afl-TileItemDetail">
+                <p class="field-documentcategory">{{i_child.DocumentandSoftwareCategory}}</p>
+                <div class="afl-itemBlog">
+                    <h3 class="afl-itemBlog field-documentname">
+                        <a title='{{ i_child.DocumentandSoftwareName }}' href='{{ i_child.DocumentandSoftwareUrl | string.replace "<a href=\"" "" | string.replace "\" rel=\"noopener noreferrer\" target=\"_blank\">VIEW</a>" "" }}'
+                            rel="noopener noreferrer" target="_blank">{{i_child.DocumentandSoftwareName}}</a>
+                    </h3>
+                    {{i_child.DocumentandSoftwareUrl}}
+                </div>
+            </div>
+        </div>
+        
+        
+        
+        {{- resourcecount=resourcecount+1 -}}
+        
+        {{- if resourcecount > 5 -}}
+        {{- hideclass="afl-tilehide"-}}
+        {{end}}
+        {{end}}
+        {{ for i_child in (sc_followmany i_item "AFLWhitePaperList") }}
+        <div class="afl-tilesItem {{hideclass}}">
+            <div class="field-documentimage">
+                <a title='{{ i_child.WhitePaperName }}' href='{{ i_child.WhitePaperUrl | string.replace "<a href=\"" "" | string.replace "\" rel=\"noopener noreferrer\" target=\"_blank\">VIEW</a>" "" }}'
+                    rel="noopener noreferrer" target="_blank">
+                    {{ i_child.WhitePaperImage }}
+                </a>
+            </div>
+            <div class="afl-TileItemDetail">
+                <p class="field-documentcategory">{{i_child.WhitePaperCategory}}</p>
+                <div class="afl-itemBlog">
+                    <h3 class="afl-itemBlog field-documentname">
+                        <a title='{{ i_child.WhitePaperName }}' href='{{ i_child.WhitePaperUrl | string.replace "<a href=\"" "" | string.replace "\" rel=\"noopener noreferrer\" target=\"_blank\">VIEW</a>" "" }}'
+                            rel="noopener noreferrer" target="_blank">{{i_child.WhitePaperName}}</a>
+                    </h3>
+                    {{i_child.WhitePaperUrl}}
+                </div>
+            </div>
+        </div>
+        
+        {{- resourcecount=resourcecount+1 -}}
+        
+        {{- if resourcecount > 5 -}}
+        {{- hideclass="afl-tilehide"-}}
+        {{end}}
+        {{end}}
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 300
+- ID: "c35b2285-b4a8-406f-a91c-24a60391dc12"
+  Hint: DataAttributes
+  Value: 
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220119T103104Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\archana
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\archana
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "56f10963-dd28-4d14-9172-7bb5edfaf72f"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\matt
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230621T201842Z
+- Language: "es-MX"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220119T103104Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\archana
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "08d54dea-8e91-421a-9ff9-7426320680e9"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahesh
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220215T133130Z
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220119T103104Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\archana
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d39ccbe0-953d-4c97-9c7c-cec2e975fb91"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahesh
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220215T101253Z
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220119T103104Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\archana
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a822485e-cfd6-41ed-b9e0-7e4d098fac20"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahesh
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220310T080406Z
