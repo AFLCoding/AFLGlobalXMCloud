@@ -22,61 +22,61 @@
         "allowedPushOperations": "CreateAndUpdate"
       },
       {
-        "name": "apac/home/solutions",
+        "name": "migrated/apac/home/solutions",
         "path": "/sitecore/content/AFL-Global/APAC/Home/Solutions",
         "scope": "ItemAndDescendants",
         "allowedPushOperations": "CreateAndUpdate"
       },
       {
-        "name": "apac/home/resources",
+        "name": "migrated/apac/home/resources",
         "path": "/sitecore/content/AFL-Global/APAC/Home/Resources",
         "scope": "ItemAndDescendants",
         "allowedPushOperations": "CreateAndUpdate"
       },
       {
-        "name": "apac/home/contact",
+        "name": "migrated/apac/home/contact",
         "path": "/sitecore/content/AFL-Global/APAC/Home/Contact",
         "scope": "ItemAndDescendants",
         "allowedPushOperations": "CreateAndUpdate"
       },
       {
-        "name": "apac/home/company",
+        "name": "migrated/apac/home/company",
         "path": "/sitecore/content/AFL-Global/APAC/Home/Company",
         "scope": "ItemAndDescendants",
         "allowedPushOperations": "CreateAndUpdate"
       },
       {
-        "name": "apac/home/404",
+        "name": "migrated/apac/home/404",
         "path": "/sitecore/content/AFL-Global/APAC/Home/404",
         "scope": "ItemAndDescendants",
         "allowedPushOperations": "CreateAndUpdate"
       },
       {
-        "name": "apac/home/searchresult",
+        "name": "migrated/apac/home/searchresult",
         "path": "/sitecore/content/AFL-Global/APAC/Home/Search Result",
         "scope": "ItemAndDescendants",
         "allowedPushOperations": "CreateAndUpdate"
       },
       {
-        "name": "apac/home/sitemap",
+        "name": "migrated/apac/home/sitemap",
         "path": "/sitecore/content/AFL-Global/APAC/Home/sitemap",
         "scope": "ItemAndDescendants",
         "allowedPushOperations": "CreateAndUpdate"
       },
       {
-        "name": "apac/home/overlays",
+        "name": "migrated/apac/home/overlays",
         "path": "/sitecore/content/AFL-Global/APAC/Home/Overlays",
         "scope": "ItemAndDescendants",
         "allowedPushOperations": "CreateAndUpdate"
       },
       {
-        "name": "apac/presentation",
+        "name": "migrated/apac/presentation",
         "path": "/sitecore/content/AFL-Global/APAC/Presentation",
         "scope": "ItemAndDescendants",
         "allowedPushOperations": "CreateAndUpdate"
       },
       {
-        "name": "apac/settings",
+        "name": "migrated/apac/settings",
         "path": "/sitecore/content/AFL-Global/APAC/Settings",
         "rules": [
           {

@@ -4,9 +4,6 @@ Parent: "6ebf071d-0c04-449e-b62b-f3def50bc39c"
 Template: "6ebf071d-0c04-449e-b62b-f3def50bc39c"
 Path: /sitecore/templates/Feature/AFL/Rendering Parameters/Custom Carousel/__Standard Values
 SharedFields:
-- ID: "3094d236-5985-4c4f-ae6a-e30740885532"
-  Hint: Caching
-  Value: 0|0|0|0|0|0|0|0
 - ID: "33be7c66-0674-450b-9c9f-b133a1219b28"
   Hint: Timeout
   Value: 2000

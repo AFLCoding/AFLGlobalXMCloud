@@ -1,0 +1,35 @@
+﻿---
+ID: "bd61b456-3374-4295-90ff-aefc22bfb517"
+Parent: "5698e4d0-0a47-419a-a2d7-7743e4efa976"
+Template: "a066d10c-85cf-4eaf-9508-49cb49707994"
+Path: /sitecore/content/AFLGlobal/APAC/Data/AFL LinkList Folder/Footer Navigation/Products/Fiber Optic Connectivity
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220308T072153Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kushagra
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kushagra
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "baa37e74-157e-4d07-97f2-1b3b7ed3b236"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kushagra
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220308T072224Z
+    - ID: "e47138d1-880e-47a0-8f73-b93c23ff83cd"
+      Hint: Link
+      Value: |
+        <link text="Fiber Optic Connectivity" anchor="" linktype="internal" class="" title="" target="_blank" querystring="" id="{79D82945-19A3-40C6-B326-0F514B4040B2}" />

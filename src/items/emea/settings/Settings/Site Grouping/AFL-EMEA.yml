@@ -24,7 +24,7 @@ SharedFields:
   Value: 1
 - ID: "8e0dd914-9afb-4d45-bf8b-7ff5d6e5337e"
   Hint: HostName
-  Value: "xmc-americafujic5d9-aflglobalmif8f8-dev.sitecorecloud.io"
+  Value: aflglobal.xmcloudcm.localhost
 - ID: "a7803a5d-cd03-4eda-abed-1d9af4bf6660"
   Hint: Database
   Value: master
@@ -39,7 +39,7 @@ SharedFields:
   Value: *
 - ID: "e5b5ccb5-17a1-429d-bd3e-6122b3216e52"
   Hint: TargetHostName
-  Value: "xmc-americafujic5d9-aflglobalmif8f8-dev.sitecorecloud.io"
+  Value: aflglobal.xmcloudcm.localhost
 - ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
   Hint: __Originator
   Value: "{0EF8CB53-535D-41FE-8704-2C014D60D2DD}"
@@ -82,14 +82,14 @@ Languages:
         sitecore\Admin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "3379e2ea-ec12-4a29-909d-228f52f2a2bf"
+      Value: "1c981207-58ed-4036-9fdc-e861c6324066"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\pawan.tyagi@altudo.co
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240314T052334Z
+      Value: 20240318T112541Z
 - Language: "es-ES"
   Versions:
   - Version: 1
