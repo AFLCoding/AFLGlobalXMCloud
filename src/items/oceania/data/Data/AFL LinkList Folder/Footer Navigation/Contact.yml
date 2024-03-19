@@ -1,0 +1,45 @@
+﻿---
+ID: "b0f5c188-140b-4d63-8bac-875cc92aa494"
+Parent: "b742390a-a5b4-486b-91e0-1e9400b5e6d3"
+Template: "60d25f33-2d41-47e5-b2f8-605ea5168daf"
+Path: "/sitecore/content/AFL-Global/OCEANIA/Data/AFL LinkList Folder/Footer Navigation/Contact"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 400
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: 
+    - ID: "0b76a3cf-fb07-42d8-8b0c-8a3fcfd5d586"
+      Hint: Title
+      Value: Contact
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220202T155654Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\archana
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\archana
+    - ID: "5f32ce78-6536-4244-a7a2-8d5a586d6a98"
+      Hint: LinkTitle
+      Value: |
+        <link text="Contact" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{D33943EC-9785-41E3-8392-1303C5EFD0E9}" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "215c8177-3792-46de-b21c-13e233c37778"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rob
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220727T143036Z
