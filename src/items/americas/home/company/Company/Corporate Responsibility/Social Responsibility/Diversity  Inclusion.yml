@@ -1,0 +1,278 @@
+﻿---
+ID: "e3bbb079-54e9-40f3-86a4-146f5035ae30"
+Parent: "e84a2e5d-0038-49dc-a1c5-8dce4a914667"
+Template: "bf61de11-b78f-48ea-aaa4-1d17f0d83824"
+Path: "/sitecore/content/AFL-Global/AMERICAS/Home/Company/Corporate Responsibility/Social Responsibility/Diversity  Inclusion"
+SharedFields:
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{274C9F86-81B9-4FFC-87CA-8B19AB3A526D}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{DAE7C21D-4D3B-4257-A95C-9104CD8AF409}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 700
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211222T133655Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Diversity  Inclusion
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\harry
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: Diversity and inclusion are drivers of innovation. As a leader of innovation in our industry, diversity and inclusion are critical to our success at AFL.
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <h1>Diversity & Inclusion</h1>
+        <p>Diversity and inclusion are drivers of innovation. As a leader of innovation in our industry, diversity and inclusion are critical to our success at AFL. We are a global company with customers of every race, ethnicity, gender, age, religion, ability, background and experience, and we want that diversity to be represented within the walls of our company as well. We can better connect our world if we understand our world. We want to cultivate an environment where individual cultures are celebrated, and where AFL culture unites us. We believe that different points of view should be encouraged, celebrated and cultivated. Our culture embraces all forms of diversity, and sees it as an asset to our company. At AFL we are always striving to do more, and that includes doing more to embrace, celebrate, and grow diversity and inclusion.</p>
+        <ul>
+            <li>
+            <a rel="noopener noreferrer" href="http://www.fujikura.co.jp/eng/csr/social/diversity.html" target="_blank">Fujikura (AFL’s parent company) Diversity & Inclusion Statement</a>
+            </li>
+            <li>
+            <a rel="noopener noreferrer" href="https://afl-delivery.stylelabs.cloud/api/public/content/de46a7971e694fe5a0457208afbcdd6b?v=fe12b4a4" target="_blank">AFL Supplier Diversity Statement</a></li>
+            <li><a rel="noopener noreferrer" href="/Company/Company-Profile/Diversity-and-Inclusion/AFL-Supplier-Diversity-Statement" target="_blank"></a><a href="~/link.aspx?_id=1927FD87322541F188EA593C732D401F&_z=z">Equal Employment Opportunity</a></li>
+            <li><a href="/Company/Company-Profile/Diversity-and-Inclusion/Equal-Employment-Opportunity"></a><a href="~/link.aspx?_id=7752EA1BF4B34AC5A8213006B81265BB&_z=z">Employee Resource Groups</a></li>
+            <li><a href="/Company/Company-Profile/Diversity-and-Inclusion/Employee-Resource-Groups"></a><a href="~/link.aspx?_id=3179A11298C14B72A4B109528E7926D6&_z=z">Memberships</a></li>
+        </ul>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\harry
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: AFL Diversity and inclusion
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: AFL Diversity and inclusion
+    - ID: "628db04b-29a2-483b-a88c-b8fd9a5f2086"
+      Hint: HeroLink
+      Value: |
+        <link id="{E3BBB079-54E9-40F3-86A4-146F5035AE30}" querystring="" target="|Custom" text="LEARN MORE" anchor="" url="/AFL-Global/AMERICAS/Home/Company/Corporate Responsibility/Social Responsibility/Diversity  Inclusion" title="" class="" linktype="internal" />
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: AFL Diversity and inclusion
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "fe46fd14-7e81-4cd3-a446-3c31769e38e0"
+    - ID: "93dc88f3-05e5-482d-9b9a-c859c8258a73"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="168702" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/168702/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/8fd9ee497bdf403f90fcc84b9050acc2?v=2d0241c0" stylelabs-content-type="Image" alt="Diversity-header (1).jpg" height="369" width="955" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T091551Z
+- Language: "es-MX"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211222T133655Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Diversity  Inclusion
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: Diversity and inclusion are drivers of innovation. As a leader of innovation in our industry, diversity and inclusion are critical to our success at AFL.
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <h1>Diversity & Inclusion</h1>
+        <p>Diversity and inclusion are drivers of innovation. As a leader of innovation in our industry, diversity and inclusion are critical to our success at AFL. We are a global company with customers of every race, ethnicity, gender, age, religion, ability, background and experience, and we want that diversity to be represented within the walls of our company as well. We can better connect our world if we understand our world. We want to cultivate an environment where individual cultures are celebrated, and where AFL culture unites us. We believe that different points of view should be encouraged, celebrated and cultivated. Our culture embraces all forms of diversity, and sees it as an asset to our company. At AFL we are always striving to do more, and that includes doing more to embrace, celebrate, and grow diversity and inclusion.</p>
+        <ul>
+            <li>
+            <a rel="noopener noreferrer" href="http://www.fujikura.co.jp/eng/csr/social/diversity.html" target="_blank">Fujikura (AFL’s parent company) Diversity & Inclusion Statement</a>
+            </li>
+            <li>
+            <a rel="noopener noreferrer" href="https://afl-delivery.stylelabs.cloud/api/public/content/de46a7971e694fe5a0457208afbcdd6b?v=fe12b4a4" target="_blank">AFL Supplier Diversity Statement</a></li>
+            <li><a rel="noopener noreferrer" href="/Company/Company-Profile/Diversity-and-Inclusion/AFL-Supplier-Diversity-Statement" target="_blank"></a><a href="~/link.aspx?_id=1927FD87322541F188EA593C732D401F&_z=z">Equal Employment Opportunity</a></li>
+            <li><a href="/Company/Company-Profile/Diversity-and-Inclusion/Equal-Employment-Opportunity"></a><a href="~/link.aspx?_id=7752EA1BF4B34AC5A8213006B81265BB&_z=z">Employee Resource Groups</a></li>
+            <li><a href="/Company/Company-Profile/Diversity-and-Inclusion/Employee-Resource-Groups"></a><a href="~/link.aspx?_id=3179A11298C14B72A4B109528E7926D6&_z=z">Memberships</a></li>
+        </ul>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\harry
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: AFL Diversity and inclusion
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: Inclusión y diversidad
+    - ID: "628db04b-29a2-483b-a88c-b8fd9a5f2086"
+      Hint: HeroLink
+      Value: |
+        <link id="{E3BBB079-54E9-40F3-86A4-146F5035AE30}" querystring="" target="|Custom" text="LEARN MORE" anchor="" url="/AFL-Global/AMERICAS/Home/Company/Corporate Responsibility/Social Responsibility/Diversity  Inclusion" title="" class="" linktype="internal" />
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: Inclusión y diversidad
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "eb396331-d13b-40b4-b0aa-19a4abe388d7"
+    - ID: "93dc88f3-05e5-482d-9b9a-c859c8258a73"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="168702" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/168702/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/8fd9ee497bdf403f90fcc84b9050acc2?v=2d0241c0" stylelabs-content-type="Image" alt="Diversity-header (1).jpg" height="369" width="955" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T091552Z
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211222T133655Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Diversity  Inclusion
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: Diversity and inclusion are drivers of innovation. As a leader of innovation in our industry, diversity and inclusion are critical to our success at AFL.
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <h1>Diversity &amp; Inclusion</h1>
+        <p>Diversity and inclusion are drivers of innovation. As a leader of innovation in our industry, diversity and inclusion are critical to our success at AFL. We are a global company with customers of every race, ethnicity, gender, age, religion, ability, background and experience, and we want that diversity to be represented within the walls of our company as well. We can better connect our world if we understand our world. We want to cultivate an environment where individual cultures are celebrated, and where AFL culture unites us. We believe that different points of view should be encouraged, celebrated and cultivated. Our culture embraces all forms of diversity, and sees it as an asset to our company. At AFL we are always striving to do more, and that includes doing more to embrace, celebrate, and grow diversity and inclusion.</p>
+        <ul>
+            <li>
+            <a rel="noopener noreferrer" href="http://www.fujikura.co.jp/eng/csr/social/diversity.html" target="_blank">Fujikura (AFL&rsquo;s parent company) Diversity &amp; Inclusion Statement</a>
+            </li>
+            <li>
+            <a rel="noopener noreferrer" href="https://afl-delivery.stylelabs.cloud/api/public/content/de46a7971e694fe5a0457208afbcdd6b?v=fe12b4a4" target="_blank">AFL Supplier Diversity Statement</a></li>
+            <li><a rel="noopener noreferrer" href="/Company/Company-Profile/Diversity-and-Inclusion/AFL-Supplier-Diversity-Statement" target="_blank"></a><a href="/Company/Company-Profile/Diversity-and-Inclusion/Equal-Employment-Opportunity">Equal Employment Opportunity</a></li>
+            <li><a href="/Company/Company-Profile/Diversity-and-Inclusion/Equal-Employment-Opportunity"></a><a href="/Company/Company-Profile/Diversity-and-Inclusion/Employee-Resource-Groups">Employee Resource Groups</a></li>
+            <li><a href="/Company/Company-Profile/Diversity-and-Inclusion/Employee-Resource-Groups"></a><a href="/Company/Company-Profile/Diversity-and-Inclusion/Memberships">Memberships</a></li>
+        </ul>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\harry
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: AFL Diversity and inclusion
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: Diversity  Inclusion
+    - ID: "628db04b-29a2-483b-a88c-b8fd9a5f2086"
+      Hint: HeroLink
+      Value: |
+        <link id="{E3BBB079-54E9-40F3-86A4-146F5035AE30}" querystring="" target="|Custom" text="LEARN MORE" anchor="" url="/AFL-Global/AMERICAS/Home/Company/Corporate Responsibility/Social Responsibility/Diversity  Inclusion" title="" class="" linktype="internal" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b83babdf-b8bf-414a-b22c-c8f987cfc6f1"
+    - ID: "93dc88f3-05e5-482d-9b9a-c859c8258a73"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image mediaid="{CB6D44A6-8415-49BC-826F-DF65CD02FDD5}" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rafael
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231004T154745Z
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211222T133655Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Diversity  Inclusion
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: Diversity and inclusion are drivers of innovation. As a leader of innovation in our industry, diversity and inclusion are critical to our success at AFL.
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <h1>Diversity & Inclusion</h1>
+        <p>Diversity and inclusion are drivers of innovation. As a leader of innovation in our industry, diversity and inclusion are critical to our success at AFL. We are a global company with customers of every race, ethnicity, gender, age, religion, ability, background and experience, and we want that diversity to be represented within the walls of our company as well. We can better connect our world if we understand our world. We want to cultivate an environment where individual cultures are celebrated, and where AFL culture unites us. We believe that different points of view should be encouraged, celebrated and cultivated. Our culture embraces all forms of diversity, and sees it as an asset to our company. At AFL we are always striving to do more, and that includes doing more to embrace, celebrate, and grow diversity and inclusion.</p>
+        <ul>
+            <li>
+            <a rel="noopener noreferrer" href="http://www.fujikura.co.jp/eng/csr/social/diversity.html" target="_blank">Fujikura (AFL’s parent company) Diversity & Inclusion Statement</a>
+            </li>
+            <li>
+            <a rel="noopener noreferrer" href="https://afl-delivery.stylelabs.cloud/api/public/content/de46a7971e694fe5a0457208afbcdd6b?v=fe12b4a4" target="_blank">AFL Supplier Diversity Statement</a></li>
+            <li><a rel="noopener noreferrer" href="/Company/Company-Profile/Diversity-and-Inclusion/AFL-Supplier-Diversity-Statement" target="_blank"></a><a href="~/link.aspx?_id=1927FD87322541F188EA593C732D401F&_z=z">Equal Employment Opportunity</a></li>
+            <li><a href="/Company/Company-Profile/Diversity-and-Inclusion/Equal-Employment-Opportunity"></a><a href="~/link.aspx?_id=7752EA1BF4B34AC5A8213006B81265BB&_z=z">Employee Resource Groups</a></li>
+            <li><a href="/Company/Company-Profile/Diversity-and-Inclusion/Employee-Resource-Groups"></a><a href="~/link.aspx?_id=3179A11298C14B72A4B109528E7926D6&_z=z">Memberships</a></li>
+        </ul>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\harry
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: AFL Diversity and inclusion
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: Inclusion de la diversité
+    - ID: "628db04b-29a2-483b-a88c-b8fd9a5f2086"
+      Hint: HeroLink
+      Value: |
+        <link id="{E3BBB079-54E9-40F3-86A4-146F5035AE30}" querystring="" target="|Custom" text="LEARN MORE" anchor="" url="/AFL-Global/AMERICAS/Home/Company/Corporate Responsibility/Social Responsibility/Diversity  Inclusion" title="" class="" linktype="internal" />
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: Inclusion de la diversité
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "17340f83-6851-4568-8776-744f780a93d6"
+    - ID: "93dc88f3-05e5-482d-9b9a-c859c8258a73"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="168702" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/168702/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/8fd9ee497bdf403f90fcc84b9050acc2?v=2d0241c0" stylelabs-content-type="Image" alt="Diversity-header (1).jpg" height="369" width="955" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T091551Z

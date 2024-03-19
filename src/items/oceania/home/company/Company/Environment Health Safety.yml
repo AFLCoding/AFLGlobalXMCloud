@@ -1,0 +1,136 @@
+﻿---
+ID: "0deeadfe-deaf-4025-9874-639242dfae68"
+Parent: "cfe4a6a4-1b66-4a76-8122-570ad0e98866"
+Template: "bf61de11-b78f-48ea-aaa4-1d17f0d83824"
+Path: "/sitecore/content/AFL-Global/OCEANIA/Home/Company/Environment Health Safety"
+SharedFields:
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{EDC9686A-85F3-466E-8E7E-3D28540B77AB}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{DAE7C21D-4D3B-4257-A95C-9104CD8AF409}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211122T090352Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Environment Health Safety
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: "Environmental, Health and Safety - AFL's EHS program was established to insure the health and safety of all of our employees and to lesson our impact on the environment."
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <h2>AFL’s EHS program provides a safe work environment with a keen focus on environmental stewardship</h2>
+        <p>AFL has a long and proven history of focusing on the health and safety of our workforce and the preservation of the environment for the benefit of communities today and future generations. Safety, health and environmental management is a priority area of accountability at AFL. In fact, it is one our <a href="/Company/Company-Profile/AFL-Culture" style="color: #0091ea; background-color: transparent;">Core Values</a>.<br />
+        <br />
+        Our commitment includes specific short- and long-term goals at our manufacturing sites. Hallmarks of our program include:</p>
+        <ul style="color: #333333; background-color: #ffffff; list-style-image: url('https://www.aflglobal.com/productionFiles/images/bulletRound.aspx');">
+            <li>
+            <p>Providing a safe work environment for all associates</p>
+            </li>
+            <li>
+            <p>Ambitious <a href="~/link.aspx?_id=F32459CE4C844719A8C4BEBE908499D7&_z=z">sustainability</a> goals aligned with <a rel="noopener noreferrer" href="https://sciencebasedtargets.org/" target="_blank">Science Based Targets initiative</a> </p>
+            </li>
+            <li>
+            <p>Regularly auditing operations at our manufacturing facilities to ensure conformance to our policies</p>
+            </li>
+            <li>
+            <p>Established global safety, health and environmental processes based on regulatory requirements and recognized best practices</p>
+            </li>
+            <li>
+            <p>A record of stewardship that includes careful conservation of the natural resources, including reduction of waste, promotion of recycling and efficiency in our energy and water use</p>
+            </li>
+            <li>
+            <p>Working with customers, suppliers and government agencies to meet our safety, health and environmental responsibilities</p>
+            </li>
+            <li>
+            <p style="margin-right: 0px; margin-bottom: 15px; margin-left: 0px;">A culture that focuses on continuous improvement</p>
+            </li>
+            <li>
+            <p>Globally, our ISO 14001:2015  environmental management system process provides the framework for improvement. Our audit process is robust and our employees are engaged in identifying and implementing improvements. Strong management support across the business units—from individual environmental, health and safety managers to senior leadership—also drives success. Most importantly, all of us at AFL share a lasting commitment to building a better company for future generations in the communities where we live and work. <a href="~/link.aspx?_id=85FA31300C93477785F2B78E68099C63&_z=z">Click for more information on our ISO 14001:2015  certifications</a></p>
+            </li>
+        </ul>
+        <p>At AFL, we take the time to ensure that each project is completed in a safe way that reflects our environmental commitment.</p>
+        <ul>
+            <li><a href="~/link.aspx?_id=85FA31300C93477785F2B78E68099C63&_z=z">Certifications</a></li>
+            <li><a href="~/link.aspx?_id=CD725763F8A342348ED9DA315783AC7E&_z=z">EHS Policy and Principles</a></li>
+            <li><a href="~/link.aspx?_id=F32459CE4C844719A8C4BEBE908499D7&_z=z">Environmental Sustainability</a></li>
+            <li><a href="~/link.aspx?_id=320A70EA73C24DDFAA1B30044006E3BC&_z=z">Wood Reel Recycling Program</a></li>
+            <li><a href="~/link.aspx?_id=8C16760AC51742DC898B566CBA41FB34&_z=z">Safety Record</a></li>
+            <li><a href="~/link.aspx?_id=444280D8D591471CA4CB29798660C055&_z=z">SDS Documents</a></li>
+        </ul>
+        <style>
+            .afl-subPages ul li a {
+            font-size: 15px !important;
+            }
+            .afl-subPages a {
+            word-break: normal !important;
+            }
+        </style>
+    - ID: "56611f02-691a-4096-b044-63aa83122916"
+      Hint: Content
+      Value: |
+        <p>AFL has a long and proven history of focusing on the health and safety of our workforce and the preservation of the environment for the benefit of communities today and future generations. Safety, health and environmental management is a priority area of accountability at AFL. In fact, it is one our<a href="/Company/Company-Profile/AFL-Culture" style="color: #0091ea; background-color: transparent;">Core Values</a>.<br />
+        <br />
+        Our commitment includes specific short- and long-term goals at our manufacturing sites. Hallmarks of our program include:</p>
+        <ul style="color: #333333; background-color: #ffffff; list-style-image: url('https://www.aflglobal.com/productionFiles/images/bulletRound.aspx');">
+            <li>
+            <p>Providing a safe work environment for all associates</p>
+            </li>
+            <li>
+            <p>Regularly auditing operations at our manufacturing facilities to ensure conformance to our policies</p>
+            </li>
+            <li>
+            <p>Established global safety, health and environmental processes based on regulatory requirements and recognized best practices</p>
+            </li>
+            <li>
+            <p>A record of stewardship that includes careful conservation of the natural resources, including reduction of waste, promotion of recycling and efficiency in our energy and water use</p>
+            </li>
+            <li>
+            <p>Working with customers, suppliers and government agencies to meet our safety, health and environmental responsibilities</p>
+            </li>
+            <li>
+            <p style="margin-right: 0px; margin-bottom: 15px; margin-left: 0px;">A culture that focuses on continuous improvement</p>
+            </li>
+        </ul>
+        <p>At AFL, we take the time to ensure that each project is completed in a safe way that reflects our environmental commitment.</p>
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: Environmental Health Safety EHS program AFL employees MSDS certifications contract prequalifications
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: Environment Health Safety
+    - ID: "628db04b-29a2-483b-a88c-b8fd9a5f2086"
+      Hint: HeroLink
+      Value: |
+        <link id="{42FDC709-BA96-4169-AF29-F0445E1F59A1}" querystring="" target="|Custom" text="LEARN MORE" anchor="" title="" class="" url="/AFL-Global/AMERICAS/Home/Company/Environment Health Safety" linktype="internal" />
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: Environment Health Safety
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "cf4e595d-56d8-47f1-96f8-abaab493a72c"
+    - ID: "93dc88f3-05e5-482d-9b9a-c859c8258a73"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="168676" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/168676/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/bb7394c51f0c456f936ec6e57daca5ca?v=d125225d" stylelabs-content-type="Image" alt="company-ehs.jpg" height="369" width="954" />
+    - ID: "a40ebd3d-2b41-41fb-90f7-753544ce77c5"
+      Hint: Hero Title1
+      Value: Environment, Health and Safety
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T094006Z
+    - ID: "dd0b26a2-9ca3-4573-b501-3b33a6efbc65"
+      Hint: Hero Title2
+      Value: A Culture of Continuous Improvement

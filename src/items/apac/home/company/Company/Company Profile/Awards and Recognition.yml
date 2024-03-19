@@ -1,0 +1,1089 @@
+﻿---
+ID: "a8475bbd-1204-4bea-9212-221f076b2ee5"
+Parent: "8c6df1dc-c8dd-4102-8ae0-7095ae449e79"
+Template: "bf61de11-b78f-48ea-aaa4-1d17f0d83824"
+Path: "/sitecore/content/AFL-Global/APAC/Home/Company/Company Profile/Awards and Recognition"
+SharedFields:
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{87CE798E-CDA3-4363-A47F-74DF3E2D88BE}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{DAE7C21D-4D3B-4257-A95C-9104CD8AF409}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 700
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211223T144943Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Awards and Recognition
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\harry
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <h1>Awards and Recognition</h1>
+        <h2>2022</h2>
+        <ul>
+            <li>
+            <h3><span style="font-size: 13px;">2022 Laser Focus World Innovators Awards</span></h3>
+            <ul>
+                <li><span>Our Metal-Coated Optical Fibers recognized among the best.</span></li>
+                <li><span><a href="~/link.aspx?_id=3F1763AEC797438BA3A9B5B0CF775B3C&_z=z">Verrillon® VHT500 Ultra-High Temperature Single-mode Series</a></span></li>
+                <li><span><a href="~/link.aspx?_id=05056B66FA7D47CB80719976BE7B50A0&_z=z">Verrillon VHT5000 Multimode Series</a></span><br />
+                 </li>
+            </ul>
+            </li>
+        </ul>
+        <ul>
+            <li>
+            <h3><span style="font-size: 13px;">United Way of the Piedmont, </span><strong style="font-size: 13px;">Large Business Partner of the Year</strong></h3>
+            <ul>
+                <li><span>Awarded to companies with 100 or more employees and considered total campaign giving, average gift, per capita gift, undesignated giving, participation rate, and company intangibles.</span></li>
+                <li><span>Increased average gift, increased per capita gift, 79% undesignated, largest UWP campaign in history.</span></li>
+                <li><span>Recognized for top down leadership, excellent campaign management, company culture of philanthropy, and board / donor group participation.</span><br />
+                 </li>
+            </ul>
+            </li>
+        </ul>
+        <h2>2021</h2>
+        <ul>
+            <li>
+            <h3>Safer Buildings Coalition™ Safe Inside 2021 Project of the Year</h3>
+            <ul>
+                <li>Recognizes outstanding projects in the in-building public safety communications market</li>
+                <li>Spotlights projects for their impact, quality of workmanship, innovation and contribution to reducing noise and interference</li>
+                <li>Awarded for project at Fifth + Broadway <br />
+                 </li>
+            </ul>
+            </li>
+            <li>
+            <h3>Broadband Technology Report (BTR) Diamond Technology Review</h3>
+            <ul>
+                <li>4.0 Diamonds
+                <ul>
+                    <li>Apex® Splice Closure</li>
+                    <li>FlexScan® TS100 FTTH PON Troubleshooter</li>
+                </ul>
+                </li>
+                <li>3.5 Diamonds
+                <ul>
+                    <li>FlowScout PON Optical Power Meter</li>
+                    <li>Field-replaceable Port Saver OTDR Connectors</li>
+                </ul>
+                </li>
+            </ul>
+            </li>
+        </ul>
+        <ul>
+            <li>
+            <h3>Cabling Installation & Maintenance (CI&M) Innovators Awards Program</h3>
+            <ul>
+                <li>Platinum: Apex® Splice Closure</li>
+                <li>Gold: Fujikura 90R Ribbon Fusion Splicer</li>
+            </ul>
+            </li>
+        </ul>
+        <ul>
+            <li>
+            <h3>South Carolina Manufacturers Alliance (SCMA) Plant Safety Award</h3>
+            <ul>
+                <li>Awarded to five AFL manufacturing locations in Spartanburg, South Carolina</li>
+            </ul>
+            </li>
+        </ul>
+        <ul>
+            <li>
+            <h3>South Carolina Chamber of Commerce Safety Award</h3>
+            <ul>
+                <li>Recognition based on the Lost Time Incident Rate recorded during 2019 calendar year</li>
+                <li>Five Spartanburg locations recognized</li>
+            </ul>
+            </li>
+        </ul>
+        <ul>
+            <li>
+            <h3>Lightwave Innovation Reviews Honoree</h3>
+            <ul>
+                <li>Apex® splice closure - 4.0 </li>
+                <li>Fujikura 90R mass fusion splicer - 4.5</li>
+            </ul>
+            </li>
+        </ul>
+        <ul>
+            <li>
+            <h3>Fierce Innovation Award - Telecom Edition</h3>
+            <ul>
+                <li>The peer-reviewed awards program highlights advances in service and equipment developments</li>
+                <li>Awarded to the FlexScan® TS100 FTTH PON Troubleshooter</li>
+            </ul>
+            </li>
+        </ul>
+        <h2>2020</h2>
+        <ul>
+            <li>
+            <h3>Cable Installation & Management Innovators Awards Program</h3>
+            <ul>
+                <li>Gold: Fujikura 90S Core Alignment Fusion Splicer</li>
+            </ul>
+            </li>
+        </ul>
+        <ul>
+            <li>
+            <h3>BTR Diamond Technology Review</h3>
+            <ul>
+                <li>4.0 Diamonds Award
+                <ul>
+                    <li>Fujikura 90R Mass Fusion Splicer</li>
+                </ul>
+                </li>
+                <li>3.5 Diamonds Award
+                <ul>
+                    <li>NodeFlex™ Bendable Cable Assembly</li>
+                </ul>
+                </li>
+            </ul>
+            </li>
+        </ul>
+        <ul>
+            <li>
+            <h3>NC Department of Labor/Union County Chamber of Commerce - Excellence in Safety</h3>
+            <ul>
+                <li>AFL Raleigh was presented with the Gold Award for the 11th consecutive year</li>
+                <li>AFL Monroe was given a Gold Award for the third consecutive year for the rate of days away from work, job transfer or restriction at least 50 percent below the industry average</li>
+            </ul>
+            </li>
+        </ul>
+        <ul>
+            <li>
+            <h3>South Carolina Manufacturers Alliance (SCMA) Plant Safety Award</h3>
+            <ul>
+                <li>Awarded to three AFL manufacturing locations in Spartanburg, South Carolina</li>
+            </ul>
+            </li>
+        </ul>
+        <ul>
+            <li>
+            <h3>2020 South Carolina Chamber of Commerce Safety Award</h3>
+            <ul>
+                <li>Recognition based on the Lost Time Incident Rate recorded during 2019 calendar year</li>
+            </ul>
+            </li>
+        </ul>
+        <ul>
+            <li>
+            <h3>Lightwave Innovation Reviews Honoree</h3>
+            <ul>
+                <li>Splicer Accessory Management via Bluetooth® - 3.5 stars</li>
+            </ul>
+            </li>
+        </ul>
+        <h2>2019</h2>
+        <ul>
+            <li>
+            <h3>Association of Fundraising Professionals (SC, Piedmont Chapter) 2019 Corporate Philanthropist of the Year Award</h3>
+            <ul>
+                <li>The award honors a business, corporation or foundation who demonstrates outstanding commitment to the Upstate community through direct financial support to nonprofit organizations and charitable projects.</li>
+            </ul>
+            </li>
+        </ul>
+        <ul>
+            <li>
+            <h3>Better Business Bureau® of the Upstate, 2019 Business of Integrity Award for Community Service</h3>
+            <ul>
+                <li>Recognition for commitment to exceptional marketplace standards that benefit consumers, employees, suppliers, industry peers and the communities in which we do business and serve</li>
+            </ul>
+            </li>
+        </ul>
+        <ul>
+            <li>
+            <h3>Cable Installation & Management Innovators Awards Program</h3>
+            <ul>
+                <li>Platinum - Bluetooth®-enabled Splicing Family</li>
+                <li>Gold - FlexScan® Quad OTDR</li>
+                <li>Silver - FOCIS Lightning Multi-fiber Connector Inspection System </li>
+            </ul>
+            </li>
+        </ul>
+        <ul>
+            <li>
+            <h3>BTR Diamond Technology Review</h3>
+            <ul>
+                <li>4.5 Diamonds Award
+                <ul>
+                    <li>FOCIS Lightning Multi-fiber Connector Inspection System</li>
+                </ul>
+                </li>
+                <li>4.0 Diamonds Award
+                <ul>
+                    <li>FlexScan® Quad OTDR</li>
+                </ul>
+                </li>
+            </ul>
+            </li>
+        </ul>
+        <ul>
+            <li>
+            <h3>United Way of the Piedmont, Employee Giving Award ($200K+)</h3>
+            <ul>
+                <li>Special recognition for outstanding contribution</li>
+            </ul>
+            </li>
+        </ul>
+        <ul>
+            <li>
+            <h3>United Way of the Piedmont, Game Changer Award</h3>
+            <ul>
+                <li>Awarded for increasing employee donations by 42 percent </li>
+            </ul>
+            </li>
+        </ul>
+        <ul>
+            <li>
+            <h3>United Way of the Piedmont, Outstanding Campaign Committee Award</h3>
+            <ul>
+                <li>Awarded for demonstrating exceptional teamwork resulting in increased associate per capita giving</li>
+            </ul>
+            </li>
+        </ul>
+        <ul>
+            <li>
+            <h3>South Carolina Manufacturers Alliance (SCMA) Corporate Responsibility Award</h3>
+            <ul>
+                <li>Recognized for the positive contributions made in the local community</li>
+            </ul>
+            </li>
+        </ul>
+        <ul>
+            <li>
+            <h3>NC Department of Labor/Union County Chamber of Commerce - Excellence in Safety</h3>
+            <ul>
+                <li>AFL Raleigh was presented with the Gold Award for the tenth consecutive year</li>
+                <li>AFL Monroe was given a Gold Award for the second consecutive year for the rate of days away from work, job transfer or restriction at least 50 percent below the industry average</li>
+            </ul>
+            </li>
+        </ul>
+        <ul>
+            <li>
+            <h3>United Way of Central Carolinas 2018 Outstanding Accounts Award</h3>
+            <ul>
+                <li>Special recognition for outstanding contribution</li>
+            </ul>
+            </li>
+        </ul>
+        <ul>
+            <li>
+            <h3>2019 South Carolina Chamber of Commerce Safety Award</h3>
+            <ul>
+                <li>Recognition based on the Lost Time Incident Rate recorded during 2018 calendar year</li>
+            </ul>
+            </li>
+        </ul>
+        <ul>
+            <li>
+            <h3>2019 Blue Cross Blue Shield LiveLifeBlue℠ Award</h3>
+            <ul>
+                <li>Awarded to companies who have implemented corporate-level policies and programs to improve the well-being of associates at their company and in their community </li>
+            </ul>
+            </li>
+        </ul>
+        <ul>
+            <li>
+            <h3>South Carolina Manufacturers Alliance (SCMA) Plant Safety Award</h3>
+            <ul>
+                <li>Awarded to five AFL manufacturing locations in Spartanburg, South Carolina</li>
+            </ul>
+            </li>
+        </ul>
+        <ul>
+            <li>
+            <h3>Lightwave Innovation Reviews Honoree</h3>
+            <ul>
+                <li>Awarded for the FOCIS Lightning Ultrafast MPO/MTP Connector Inspection System</li>
+            </ul>
+            </li>
+        </ul>
+        <h3> </h3>
+        <h2>2018</h2>
+        <h3> </h3>
+        <ul>
+            <li>
+            <h3>United Way of the Piedmont, Corporate Philanthropist of the Year</h3>
+            <ul>
+                <li>Recognized through the Association of Fundraising Professionals (AFP), Piedmont Chapter</li>
+            </ul>
+            </li>
+        </ul>
+        <ul>
+            <li>
+            <h3>BTR Diamond Technology Review</h3>
+            <ul>
+                <li>4.0 Diamonds Award
+                <ul>
+                    <li>FleXpress™ Fast OTDR Test Mode for FlexScan® OTDRs</li>
+                </ul>
+                </li>
+            </ul>
+            </li>
+        </ul>
+        <ul>
+            <li>
+            <h3>Cable Installation & Management Innovators Awards Program</h3>
+            <ul>
+                <li>Silver Award
+                <ul>
+                    <li>Multi-Fiber Identification System</li>
+                    <li>FOCIS Duel Fiber Optic Connector Inspection System</li>
+                </ul>
+                </li>
+            </ul>
+            </li>
+        </ul>
+        <ul>
+            <li>
+            <h3>DHEC, Recycling and Green Hospitality Award</h3>
+            <ul>
+                <li>Awarded for Outstanding Waste Reduction & Recycling Efforts<br />
+                 </li>
+            </ul>
+            </li>
+            <li>
+            <h3>United Way of the Piedmont, Employee Giving Award ($200K+)</h3>
+            <ul>
+                <li>Awarded to companies based on increase in employee and employee per capita giving</li>
+            </ul>
+            </li>
+        </ul>
+        <ul>
+            <li>
+            <h3>United Way of the Piedmont, Campaign Creativity Award</h3>
+            </li>
+        </ul>
+        <ul>
+            <li>
+            <h3>United Way of the Piedmont, Outstanding Campaign Committee Award</h3>
+            <ul>
+                <li>Awarded for demonstrating exceptional teamwork resulting in increased associate per capita giving</li>
+            </ul>
+            </li>
+        </ul>
+        <ul>
+            <li>
+            <h3>United Way of the Piedmont, Campaign Coordinator Award</h3>
+            <ul>
+                <li>Presented to individuals who set an example of outstanding leadership through their involvement in United Way activities</li>
+            </ul>
+            </li>
+        </ul>
+        <ul>
+            <li>
+            <h3>NC Department of Labor/Union County Chamber of Commerce - Excellence in Safety</h3>
+            <ul>
+                <li>AFL Raleigh received a gold award and was recognized for one year with an incident rate at least 50 percent below the industry average</li>
+                <li>AFL Monroe received a gold award and was recognized for nine years with the rate of days away from work, job transfer or restriction at least 50 percent below the industry average</li>
+            </ul>
+            </li>
+        </ul>
+        <ul>
+            <li>
+            <h3>Laser Focus World Silver Innovators Award</h3>
+            <ul>
+                <li>Awarded for the LZM-110A+ LAZERMaster</li>
+            </ul>
+            </li>
+        </ul>
+        <ul>
+            <li>
+            <h3>South Carolina Manufacturers Alliance (SCMA) Corporate Responsibility Award</h3>
+            <ul>
+                <li>Recognized for the positive contributions made in the local community</li>
+            </ul>
+            </li>
+        </ul>
+        <ul>
+            <li>
+            <h3>Spartanburg Community College Economic Visionary Award</h3>
+            <ul>
+                <li>Awarded for extraordinary leadership in transforming the Upstate of South Carolina  </li>
+            </ul>
+            </li>
+        </ul>
+        <ul>
+            <li>
+            <h3>South Carolina Manufacturers Alliance (SCMA) Workplace Safety Award</h3>
+            <ul>
+                <li>2017 Workplace Safety Award for cabling, connectivity/splicing and accessories manufacturing plants</li>
+            </ul>
+            </li>
+        </ul>
+        <ul>
+            <li>
+            <h3>Middle Tyger Community Impact Award</h3>
+            <ul>
+                <li>Awarded by the YMCA of Greater Spartanburg, the award is given to individuals or organizations that demonstrate extraordinary commitment and support of the YMCA's mission</li>
+            </ul>
+            </li>
+        </ul>
+        <ul>
+            <li>
+            <h3>Best in Show at BICSI Winter/New Product Pavilion</h3>
+            <ul>
+                <li>Awarded by BICSI attendees, AFL's <a href="https://www.aflglobal.com/Products/Test-and-Inspection/Fiber-Optic-Inspection/FOCIS-Duel-Fiber-Optic-Connector-Inspection-System">FOCIS Duel</a> won "Install Tools, Methods and Testing" category and overall Best in Show</li>
+            </ul>
+            </li>
+        </ul>
+        <h2>2017</h2>
+        <ul>
+            <li>
+            <h3>United Way of the Piedmont, Employee Giving Award ($150K-$200K)</h3>
+            <ul>
+                <li>Awarded to companies based on increase in employee and employee per capita giving</li>
+            </ul>
+            </li>
+        </ul>
+        <ul>
+            <li>
+            <h3>United Way of the Piedmont, Outstanding Campaign Committee Award</h3>
+            <ul>
+                <li>Awarded for demonstrating exceptional teamwork resulting in increased associate per capita giving</li>
+            </ul>
+            </li>
+        </ul>
+        <ul>
+            <li>
+            <h3>United Way of the Piedmont, Campaign Spirit Award</h3>
+            <ul>
+                <li>Awarded to companies whose associates exemplified the highest level of team spirit during their campaign</li>
+            </ul>
+            </li>
+        </ul>
+        <ul>
+            <li>
+            <h3>South Carolina Chamber of Commerce</h3>
+            <ul>
+                <li>Workplace Safety Award (for 2016) - Cable, Accessories and Wire manufacturing</li>
+            </ul>
+            </li>
+        </ul>
+        <ul>
+            <li>
+            <h3>South Carolina Manufacturers Alliance (SCMA)</h3>
+            <ul>
+                <li>Workplace Safety Award (for 2016) - Cable and Accessories manufacturing</li>
+            </ul>
+            </li>
+        </ul>
+        <ul>
+            <li>
+            <h3>Kriz Davis Partner of the Year Award </h3>
+            <ul>
+                <li>Recognizes companies for combined overall growth in sales dollars, growth percentage in sales, overall growth and collaborative sales efforts</li>
+            </ul>
+            </li>
+        </ul>
+        <ul>
+            <li>
+            <h3>Cable Installation & Management Innovators Awards Program</h3>
+            <ul>
+                <li>Gold Award
+                <ul>
+                    <li>FOCIS Flex</li>
+                    <li>ROGUE OTDR with aeRos® Workflow Management </li>
+                    <li>Wrapping Tube Cable with SpiderWeb® Ribbon </li>
+                </ul>
+                </li>
+            </ul>
+            </li>
+        </ul>
+        <br />
+        <h2>2016</h2>
+        <ul>
+            <li>
+            <h3>IABC-SC (International Association of Business Communicators – SC)</h3>
+            <ul>
+                <li>Awards of Excellence
+                <ul>
+                    <li>Employee Engagement: United Way Annual Campaign</li>
+                    <li>Advertising Campaign: Fusion Splicing Ad Campaign</li>
+                </ul>
+                </li>
+                <li>Award of Merit
+                <ul>
+                    <li>Internal Communication: Just AFL Campaign</li>
+                </ul>
+                </li>
+            </ul>
+            </li>
+        </ul>
+        <ul>
+            <li>
+            <h3>IABC Southern Region (International Association of Business Communicators)</h3>
+            <ul>
+                <li>Silver Quill Awards of Excellence
+                <ul>
+                    <li>Employee Engagement: United Way Annual Campaign</li>
+                    <li>Marketing, Advertising and Brand Communication: Fusion Splicing Ad Campaign</li>
+                </ul>
+                </li>
+            </ul>
+            </li>
+        </ul>
+        <ul>
+            <li>
+            <h3>Cabling Installation & Maintenance Platinum Innovation Award</h3>
+            <ul>
+                <li>Recognizes innovative products and systems as well as their uses and applications. AFL's FlexScan Complete Kits received the platinum award.  </li>
+            </ul>
+            </li>
+        </ul>
+        <ul>
+            <li>
+            <h3>AT&T Supplier Diversity Crystal Award</h3>
+            <ul>
+                <li>Awarded to Prime Suppliers who attained and/or exceeded 21.5% diversity utilization in 2015, demonstrating an unwavering commitment to helping the diverse supplier community grow and prosper</li>
+            </ul>
+            </li>
+        </ul>
+        <ul>
+            <li>
+            <h3>Energex Suppliers Award (Australia)</h3>
+            <ul>
+                <li>Recognizes companies with outstanding operational performance, quality and delivery</li>
+            </ul>
+            </li>
+        </ul>
+        <ul>
+            <li>
+            <h3>City of London Gold Award (UK)</h3>
+            <ul>
+                <li>Acknowledges companies that consistently exceed the requirements of the Code of Good Practice and have a regard for the surrounding environment by reducing disturbance to businesses and residences</li>
+            </ul>
+            </li>
+        </ul>
+        <ul>
+            <li>
+            <h3>United Way of the Piedmont, Employee Giving Award ($150K-$200K)</h3>
+            <ul>
+                <li>Awarded to companies based on increase in employee and employee per capita giving</li>
+            </ul>
+            </li>
+        </ul>
+        <ul>
+            <li>
+            <h3>United Way of the Piedmont, Outstanding Creativity Award</h3>
+            </li>
+        </ul>
+        <ul>
+            <li>
+            <h3>United Way of the Piedmont, Campaign Spirit Award</h3>
+            </li>
+        </ul>
+        <ul>
+            <li>
+            <h3>North Carolina Department of Labor</h3>
+            <ul>
+                <li>Safety Award
+                <ul>
+                    <li>Silver Award - AFL Enterprise Division, Monroe, NC and OSPE Division, Raleigh, NC</li>
+                    <li>Gold Award - AFL Enterprise Division, Monroe, NC and OSPE Division, Raleigh, NC</li>
+                </ul>
+                </li>
+            </ul>
+            </li>
+        </ul>
+        <ul>
+            <li>
+            <h3>SC Department of Health and Environmental Control (DHEC)</h3>
+            <ul>
+                <li>Recognized by the Smart Business Recycling and Green Hospitality Program for recycling efforts</li>
+            </ul>
+            </li>
+        </ul>
+        <ul>
+            <li>
+            <h3>Lakes Region Community Services (LRCS)</h3>
+            <ul>
+                <li>Community Partner Award (2016) - AFL's Test & Inspection Division</li>
+            </ul>
+            </li>
+        </ul>
+        <ul>
+            <li>
+            <h3>South Carolina Chamber of Commerce</h3>
+            <ul>
+                <li>Commendation of Excellence Award/Safety Program Recognition (2015) - Ridgeview, Hidden Lake and USAC manufacturing</li>
+            </ul>
+            </li>
+        </ul>
+        <ul>
+            <li>
+            <h3>South Carolina Manufacturers Alliance (SCMA)</h3>
+            <ul>
+                <li>Safety Performance Recognition Award (for 2015) - Ridgeview, Hidden Lake and USAC manufacturing</li>
+            </ul>
+            </li>
+        </ul>
+        <h3> </h3>
+        <h2>2015</h2>
+        <ul>
+            <li>
+            <h3>South Carolina Manufacturers Alliance (SCMA)</h3>
+            <ul>
+                <li>Made in South Carolina Excellence in Corporate Responsibility Award</li>
+                <li>Safety Performance Recognition Award (2014) - Ridgeview and Hidden Lake manufacturing</li>
+                <li>18 Years without a Lost Workday Incident Recognition Award - Hidden Lake manufacturing plant (ranked among the top three SCMA members)</li>
+            </ul>
+            </li>
+        </ul>
+        <ul>
+            <li>
+            <h3>South Carolina Chamber of Commerce</h3>
+            <ul>
+                <li>Commendation of Excellence/Safety Program Recognition (2014) - Ridgeview, Hidden Lake and USAC Manufacturing</li>
+            </ul>
+            </li>
+        </ul>
+        <ul>
+            <li>
+            <h3>Union County Chamber of Commerce</h3>
+            <ul>
+                <li>2014 Gold Award for Safety - AFL Monroe and AFL Raleigh</li>
+                <li>Million Hour Safety Award - AFL Monroe</li>
+            </ul>
+            </li>
+        </ul>
+        <ul>
+            <li>
+            <h3>BB&T Insurance Lighthouse Beam Safety Award Program</h3>
+            <ul>
+                <li>Excellent Safety Performance</li>
+            </ul>
+            </li>
+        </ul>
+        <ul>
+            <li>
+            <h3>IABC-SC (International Association of Business Communicators – SC)</h3>
+            <ul>
+                <li>Best of Show
+                <ul>
+                    <li>AFL Fall Festival</li>
+                </ul>
+                </li>
+                <li>Awards of Excellence
+                <ul>
+                    <li>Special Events: <a href="/Company/Company-Profile/30th-Anniversary">AFL Turns 30</a></li>
+                    <li>Special Events: AFL Fall Festival
+                    <ul>
+                        <li>Received Best of Show award</li>
+                    </ul>
+                    </li>
+                    <li>Marketing Communication: Swage Bus and Cable Accessories Product Launch Campaign</li>
+                    <li>Employee Engagement: <a href="/Company/Community/United-Way">United Way Annual Campaign</a></li>
+                    <li>Advertising Campaigns: Marketing Automation Campaign</li>
+                </ul>
+                </li>
+            </ul>
+            </li>
+        </ul>
+        <ul>
+            <li>
+            <h3>IABC-SC (International Association of Business Communicators – Southern Region)</h3>
+            <ul>
+                <li>Silver Quill Award of Excellence
+                <ul>
+                    <li>Communication Management - Internal Communication: <a href="/Company/Community/United-Way">United Way Annual Campaign</a></li>
+                </ul>
+                </li>
+                <li>Silver Quill Award of Merit
+                <ul>
+                    <li>Communication Management - Internal Communication: <a href="/Company/Company-Profile/30th-Anniversary">AFL Turns 30</a></li>
+                </ul>
+                </li>
+            </ul>
+            </li>
+        </ul>
+        <h2>2014</h2>
+        <ul>
+            <li>
+            <h3>South Carolina Manufacturers Alliance (SCMA)</h3>
+            <ul>
+                <li>Made in South Carolina Excellence in Corporate Responsibility Award</li>
+            </ul>
+            </li>
+            <li>
+            <h3>United Way of the Piedmont, Employee Giving Award ($100K - $150K)</h3>
+            <ul>
+                <li>Awarded to companies based on increase in employee and employee per capita giving</li>
+            </ul>
+            </li>
+            <li>
+            <h3>United Way of the Piedmont, Campaign Spirit Award</h3>
+            </li>
+            <li>
+            <h3>South Carolina Manufacturers Alliance (SCMA)</h3>
+            <ul>
+                <li>Total man hours worked since last incident - Ridgeview Manufacturing</li>
+                <li>Total man hours worked without a lost workday incident during 2013 - Ridgeview Manufacturing Safety</li>
+                <li>Performance Recognition Award - Ridgeview and Hidden Lake manufacturing</li>
+            </ul>
+            </li>
+            <li>
+            <h3>South Carolina Chamber of Commerce</h3>
+            <ul>
+                <li>Commendation of Excellence/Safety Program Recognition (2013) - Ridgeview and Hidden Lake manufacturing</li>
+            </ul>
+            </li>
+            <li>
+            <h3>IABC-SC (International Association of Business Communicators – South Carolina)</h3>
+            <ul>
+                <li>Awards of Excellence:
+                <ul>
+                    <li>Internal Communication: <a href="/Company/Community/United-Way">United Way Annual Campaign</a></li>
+                    <li>Audio Visual: <a rel="noopener noreferrer" href="http://youtu.be/A0gCyn_SWbk" target="_blank">Poli-MOD Motion Graphics Piece</a></li>
+                    <li>Audio Visual: <a rel="noopener noreferrer" href="http://youtu.be/Skrp2XNgZBM" target="_blank">SkyWrap® Motion Graphics Piece</a></li>
+                    <li>Community Relations: <a href="/Company/Community">AFL Community Outreach Team</a></li>
+                    <li>Marketing Communications: AFL Trade Show - IEEE</li>
+                </ul>
+                </li>
+                <li>Awards of Merit:
+                <ul>
+                    <li>Employee Engagement: AFL Habitat House Build</li>
+                    <li>Other Graphic Design: AFL New Trade Show Booth</li>
+                    <li>Audio Visual: AFL 30-year Documentary</li>
+                </ul>
+                </li>
+            </ul>
+            </li>
+            <li>
+            <h3>IABC (International Association of Business Communicators – Southern Region)</h3>
+            <ul>
+                <li>Sliver Quill Award of Excellence:
+                <ul>
+                    <li>Communication Management - Internal Communication: <a href="/Company/Community/United-Way">United Way Annual Campaign</a></li>
+                </ul>
+                </li>
+            </ul>
+            </li>
+            <li>
+            <h3>BB&T Insurance Lighthouse Beam Safety Award Program</h3>
+            <ul>
+                <li>Excellent Safety Performance</li>
+            </ul>
+            </li>
+        </ul>
+        <h2>2013</h2>
+        <ul>
+            <li>
+            <h3>BB&T Insurance Lighthouse Beam Safety Award Program</h3>
+            <ul>
+                <li>Excellent Safety Performance</li>
+            </ul>
+            </li>
+            <li>
+            <h3>United Way of the Piedmont, Employee Giving Award ($100K - $150K)</h3>
+            <ul>
+                <li>Awarded to companies based on increase in employee and employee per capita giving</li>
+            </ul>
+            </li>
+            <li>
+            <h3>United Way of the Piedmont, Outstanding Creativity Award</h3>
+            </li>
+            <li>
+            <h3>Economic Futures Award</h3>
+            <ul>
+                <li>For Outstanding Commitment and Service to the Spartanburg County Community</li>
+            </ul>
+            </li>
+            <li>
+            <h3>South Carolina Manufacturers Alliance (SCMA)</h3>
+            <ul>
+                <li>Safety Performance Recognition Award - Ridgeview Plant</li>
+                <li>Safety Performance Recognition Award - Hillside Plant</li>
+                <li>Made in South Carolina Excellence in Corporate Responsibility Award</li>
+            </ul>
+            </li>
+            <li>
+            <h3>IABC-SC (International Association of Business Communicators – South Carolina)</h3>
+            <ul>
+                <li>Awards of Excellence:
+                <ul>
+                    <li><a rel="noopener noreferrer" href="http://youtu.be/Q7a66obGx60" target="_blank">70S Fusion Splicer Motion Graphics piece</a></li>
+                    <li>70S Fusion Splicer Marketing Campaign</li>
+                    <li>AFL Lobby Rebranding</li>
+                </ul>
+                </li>
+                <li>Awards of Merit:
+                <ul>
+                    <li><a href="/Company/Community/United-Way">United Way Annual Campaign</a></li>
+                    <li>Hidden Lake Grand Opening</li>
+                </ul>
+                </li>
+            </ul>
+            </li>
+        </ul>
+        <h2>2012</h2>
+        <ul>
+            <li>
+            <h3>SC Biz News Roaring Twenties</h3>
+            <ul>
+                <li>Top 20 Best-Performing Company in SC</li>
+            </ul>
+            </li>
+            <li>
+            <h3>Broadband Gear Report BTR Diamond Technology Review</h3>
+            <ul>
+                <li>NOYES® FOCIS Fiber Optic Connector Inspection System (3.5 stars)</li>
+            </ul>
+            </li>
+            <li>
+            <h3>Communications Technology Platinum Award</h3>
+            <ul>
+                <li>NOYES® FOCIS Fiber Optic Connector Inspection System - Honorable Mention</li>
+            </ul>
+            </li>
+            <li>
+            <h3>South Carolina Manufacturers Alliance (SCMA)</h3>
+            <ul>
+                <li>Excellence in Corporate Responsibility Award</li>
+            </ul>
+            </li>
+            <li>
+            <h3>IABC-SC (International Association of Business Communicators – South Carolina)</h3>
+            <ul>
+                <li>Awards of Excellence:
+                <ul>
+                    <li><a href="/Company/Community/United-Way">United Way Campaign</a>*</li>
+                    <li><a href="/">www.AFLglobal.com</a> website*</li>
+                    <li><a href="/productionFiles/resources/Community/AFL-Social-Responsibility">Community Brochure</a> (two awards – one for print and one for design*)</li>
+                </ul>
+                </li>
+                <li>Awards of Merit:
+                <ul>
+                    <li><a href="/Contact/Newsletter">eConnect eNewsletter</a></li>
+                    <li>Company brochure (two awards – one for print communication and one for design)</li>
+                    <li><a href="/">www.AFLglobal.com</a> website</li>
+                </ul>
+                </li>
+            </ul>
+            </li>
+        </ul>
+        *Award in Top 5 of all entries submitted across SC<br />
+        <br />
+        <h2>2011</h2>
+        <ul>
+            <li>
+            <h3>South Carolina Chamber of Commerce</h3>
+            <ul>
+                <li>Commendation of Excellence in Safety (3 SC locations)</li>
+            </ul>
+            </li>
+            <li>
+            <h3>BB&T Insurance Lighthouse Beam Safety Award Program</h3>
+            <ul>
+                <li>Excellent Safety Performance</li>
+            </ul>
+            </li>
+        </ul>
+        <h2>2010</h2>
+        <ul>
+            <li>
+            <h3>Spartanburg Area (SC) Chamber of Commerce</h3>
+            <ul>
+                <li>Economic Champion</li>
+            </ul>
+            </li>
+            <li>
+            <h3>South Carolina Manufacturers Alliance (SCMA)</h3>
+            <ul>
+                <li>Safety Award</li>
+                <li>Safety Performance Award</li>
+            </ul>
+            </li>
+            <li>
+            <h3><em>Broadband Properties</em> Magazine</h3>
+            <ul>
+                <li>Top 100 Broadband Companies</li>
+            </ul>
+            </li>
+        </ul>
+        <h2>2009</h2>
+        <ul>
+            <li>
+            <h3>Spartanburg Area (SC) Chamber of Commerce</h3>
+            <ul>
+                <li>Economic Champion</li>
+            </ul>
+            </li>
+            <li>
+            <h3>South Carolina Manufacturers Alliance (SCMA)</h3>
+            <ul>
+                <li>Safety Award</li>
+                <li>Safety Performance Award</li>
+            </ul>
+            </li>
+            <li>
+            <h3><em>Broadband Properties</em> Magazine</h3>
+            <ul>
+                <li>Top 100 Broadband Companies</li>
+            </ul>
+            </li>
+        </ul>
+        <h2>2008</h2>
+        <ul>
+            <li>
+            <h3>Nuevo Leon Environment Protection and Natural Resources Agency (APMARN)</h3>
+            <ul>
+                <li>AFL Monterry Mexico, Nuevo León “Recicla” Award for recycling efforts</li>
+            </ul>
+            </li>
+            <li>
+            <h3>South Carolina Chamber of Commerce</h3>
+            <ul>
+                <li>Top 25 Fastest Growing Companies Finalist (#20)</li>
+                <li>Manufacturer of the Year (medium-sized business)</li>
+            </ul>
+            </li>
+            <li>
+            <h3>South Carolina Occupational Safety Council</h3>
+            <ul>
+                <li>Edgar L McGowan Award, AFL Spartanburg/Ridgeview facility with<br />
+                6,061,567 hours since last lost time incident</li>
+            </ul>
+            </li>
+            <li>
+            <h3>Spartanburg Area (SC) Chamber of Commerce</h3>
+            <ul>
+                <li>Economic Champion</li>
+            </ul>
+            </li>
+        </ul>
+        <h2>2007</h2>
+        <ul>
+            <li>
+            <h3>South Carolina Chamber of Commerce</h3>
+            <ul>
+                <li>Commendation of Excellence - Safety Program Recognition - Spartanburg / Hillside and Ridgeview facilities</li>
+            </ul>
+            </li>
+            <li>
+            <h3>South Carolina Department of Labor Licensing and Regulations</h3>
+            <ul>
+                <li>Certificate of Safety Acheivement Award - Spartanburg / Hillside and Ridgeview facilities</li>
+            </ul>
+            </li>
+            <li>
+            <h3>South Carolina Manufacturers Alliance (SCMA)</h3>
+            <ul>
+                <li>Plant Safety Recognition Award - Hours Work Without A Lost Work Day Injury</li>
+            </ul>
+            </li>
+            <li>
+            <h3>South Carolina Occupational Safety Council</h3>
+            <ul>
+                <li>Safety Award for Outstanding Record</li>
+                <li>Palmetto Safety Excellence Award - Spartanburg / Ridgeview Mftg facility</li>
+            </ul>
+            </li>
+            <li>
+            <h3>Spartanburg Area (SC) Chamber of Commerce</h3>
+            <ul>
+                <li>Economic Champion</li>
+            </ul>
+            </li>
+        </ul>
+        <h2>2006</h2>
+        <ul>
+            <li>
+            <h3>Middle Tyger Council (Spartanburg, South Carolina)</h3>
+            <ul>
+                <li>Large Manufacturer of the Year for Outstanding Community Service</li>
+            </ul>
+            </li>
+            <li>
+            <h3>South Carolina Chamber of Commerce</h3>
+            <ul>
+                <li>Commendation of Excellence - Safety Program Recognition - Spartanburg / Hillside and Ridgeview facilities</li>
+            </ul>
+            </li>
+            <li>
+            <h3>South Carolina Department of Labor Licensing and Regulations</h3>
+            <ul>
+                <li>Certificate of Safety Acheivement Award - Spartanburg / Hillside and Ridgeview facilities</li>
+            </ul>
+            </li>
+            <li>
+            <h3>South Carolina Manufacturers Alliance (SCMA)</h3>
+            <ul>
+                <li>Plant Safety Recognition Award - Hours Work Without A Lost Work Day Injury</li>
+            </ul>
+            </li>
+            <li>
+            <h3>South Carolina Occupational Safety Council</h3>
+            <ul>
+                <li>Safety Certificate - Spartanburg / Hillside Mftg facility</li>
+            </ul>
+            </li>
+        </ul>
+        <h2>2005</h2>
+        <ul>
+            <li>
+            <h3>South Carolina Chamber of Commerce</h3>
+            <ul>
+                <li>Commendation of Excellence - Safety Program Recognition - Spartanburg / Hillside and Ridgeview facilities</li>
+            </ul>
+            </li>
+            <li>
+            <h3>South Carolina Department of Labor Licensing and Regulations</h3>
+            <ul>
+                <li>Certificate of Safety Acheivement Award - Spartanburg / Hillside and Ridgeview facilities</li>
+            </ul>
+            </li>
+            <li>
+            <h3>South Carolina Manufacturers Alliance (SCMA)</h3>
+            <ul>
+                <li>Plant Safety Recognition Award - Hours Work Without A Lost Work Day Injury</li>
+            </ul>
+            </li>
+            <li>
+            <h3>South Carolina Occupational Safety Council</h3>
+            <ul>
+                <li>Safety Award for Outstanding Record</li>
+                <li>Palmetto Safety Excellence Award - Spartanburg / Ridgeview Mftg facility</li>
+                <li>Safety Certificate - Spartanburg / Hillside Mftg facility</li>
+            </ul>
+            </li>
+        </ul>
+        <p> </p>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\harry
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: Awards and Recognition
+    - ID: "628db04b-29a2-483b-a88c-b8fd9a5f2086"
+      Hint: HeroLink
+      Value: |
+        <link id="{2F702347-41A1-43F9-A06C-2AB5943903EC}" querystring="" target="|Custom" text="LEARN MORE" anchor="" title="" class="" url="/AFL-Global/AMERICAS/Home/Company/Company Profile/Awards and Recognition" linktype="internal" />
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: Awards and Recognition
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ffe2a2f4-e200-46af-a500-ce39e71ee7da"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T101858Z

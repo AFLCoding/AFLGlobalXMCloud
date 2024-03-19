@@ -1,0 +1,137 @@
+﻿---
+ID: "9fa2dd19-3b01-4ee3-a057-74c8049f1388"
+Parent: "d1c07165-7fd0-4d8b-a420-5a4ee087aa28"
+Template: "dc4ebc23-a470-4b5d-8df8-4a55fa823bb4"
+Path: "/sitecore/content/AFL-Global/AMERICAS/Presentation/Rendering Variants/Event List/Default/Event List Time/EventEnd"
+SharedFields:
+- ID: "4753764c-c05a-4623-841b-97f85135241c"
+  Hint: FieldName
+  Value: EventEnd
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{A570CF0B-5540-44D3-A19A-432E14A0D612}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "00aa3e05-dd03-47a9-aa1b-03a4dfbb3156"
+      Hint: DateFormat
+      Value: "{6661BFF7-029E-4C18-9288-10E143E436F2}"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211027T075734Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "079175a6-dcc0-4849-89f8-01d2a77de1cc"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\unicorn
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20211103T115707Z
+    - ID: "fd5230d8-e68d-4e17-9d85-ea676f27ac3a"
+      Hint: Prefix
+      Value: to 
+- Language: "es-MX"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "00aa3e05-dd03-47a9-aa1b-03a4dfbb3156"
+      Hint: DateFormat
+      Value: "{6661BFF7-029E-4C18-9288-10E143E436F2}"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211027T075734Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5dea5ff1-f8d3-4229-86cf-d02679749e17"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahesh
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220215T133255Z
+    - ID: "fd5230d8-e68d-4e17-9d85-ea676f27ac3a"
+      Hint: Prefix
+      Value: to 
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "00aa3e05-dd03-47a9-aa1b-03a4dfbb3156"
+      Hint: DateFormat
+      Value: "{6661BFF7-029E-4C18-9288-10E143E436F2}"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211027T075734Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "60a7d77e-838f-46e4-a595-4777c6d3d238"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahesh
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220215T101429Z
+    - ID: "fd5230d8-e68d-4e17-9d85-ea676f27ac3a"
+      Hint: Prefix
+      Value: to 
+  - Version: 2
+    Fields:
+    - ID: "00aa3e05-dd03-47a9-aa1b-03a4dfbb3156"
+      Hint: DateFormat
+      Value: "{6661BFF7-029E-4C18-9288-10E143E436F2}"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211027T075734Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c51c1d04-2f09-4fa8-b7bd-8acbaa057376"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahesh
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220310T080447Z
+    - ID: "fd5230d8-e68d-4e17-9d85-ea676f27ac3a"
+      Hint: Prefix
+      Value: to 

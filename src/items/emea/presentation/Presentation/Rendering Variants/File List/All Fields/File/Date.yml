@@ -1,0 +1,168 @@
+﻿---
+ID: "56e23a7e-50ca-4908-bd9f-f5d202cfc7ca"
+Parent: "a193e67e-e74e-4245-a484-20c4651d8996"
+Template: "dc4ebc23-a470-4b5d-8df8-4a55fa823bb4"
+Path: "/sitecore/content/AFL-Global/EMEA/Presentation/Rendering Variants/File List/All Fields/File/Date"
+SharedFields:
+- ID: "4753764c-c05a-4623-841b-97f85135241c"
+  Hint: FieldName
+  Value: __Updated
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 300
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{A15A2CC6-84D0-462A-8910-AFDE45269C01}"
+Languages:
+- Language: "de-DE"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "15867cb6-e128-4d78-9d4f-739e5963dfc4"
+      Hint: Suffix
+      Value: )
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211027T075739Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "55585133-b5e0-44fc-9526-208552c96e60"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahesh
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220314T112359Z
+    - ID: "fd5230d8-e68d-4e17-9d85-ea676f27ac3a"
+      Hint: Prefix
+      Value: (
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "15867cb6-e128-4d78-9d4f-739e5963dfc4"
+      Hint: Suffix
+      Value: )
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211027T075739Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9d7ca402-93e0-4b90-aaaf-cf830e1facbe"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\unicorn
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20211103T115708Z
+    - ID: "fd5230d8-e68d-4e17-9d85-ea676f27ac3a"
+      Hint: Prefix
+      Value: (
+- Language: "es-ES"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "15867cb6-e128-4d78-9d4f-739e5963dfc4"
+      Hint: Suffix
+      Value: )
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211027T075739Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "41ede238-0b50-42bf-92c4-9daa45cd560c"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahesh
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220207T114647Z
+    - ID: "fd5230d8-e68d-4e17-9d85-ea676f27ac3a"
+      Hint: Prefix
+      Value: (
+  - Version: 2
+    Fields:
+    - ID: "15867cb6-e128-4d78-9d4f-739e5963dfc4"
+      Hint: Suffix
+      Value: )
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211027T075739Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e1bae194-92dc-4679-bb15-97440bb448e4"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahesh
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220314T115146Z
+    - ID: "fd5230d8-e68d-4e17-9d85-ea676f27ac3a"
+      Hint: Prefix
+      Value: (
+- Language: "fr-FR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "15867cb6-e128-4d78-9d4f-739e5963dfc4"
+      Hint: Suffix
+      Value: )
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211027T075739Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a87043e2-b1cf-4980-a7f3-7c57916ce40e"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahesh
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220314T120001Z
+    - ID: "fd5230d8-e68d-4e17-9d85-ea676f27ac3a"
+      Hint: Prefix
+      Value: (

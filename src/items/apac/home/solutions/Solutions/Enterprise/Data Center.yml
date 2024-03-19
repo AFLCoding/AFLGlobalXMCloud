@@ -1,0 +1,164 @@
+﻿---
+ID: "3aa14ac1-2ef7-429a-9fe7-750ec0d81d16"
+Parent: "2bc9f8e8-aa56-4241-9441-2019fab648d1"
+Template: "bf61de11-b78f-48ea-aaa4-1d17f0d83824"
+Path: "/sitecore/content/AFL-Global/APAC/Home/Solutions/Enterprise/Data Center"
+SharedFields:
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{274C9F86-81B9-4FFC-87CA-8B19AB3A526D}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211122T092530Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Data Center
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: "Data Center Solutions - AFL offers fiber optic cabling, management systems, design, test and inspection as well as fusion splicing systems."
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <h2>
+        AFL delivers the right combination of fiber optic products, services and technology for data centers<br />
+         </h2>
+        <p>
+        The data center is the heart of your operation. Regardless of how or where you deploy your infrastructure, AFL has an end-to-end solution to support your growing network.</p>
+        <p>
+        With its vertically-integrated operations, AFL has the expertise to maximize the performance and scalability of your data center. As the technology leader in fiber optic cabling and connectivity systems, AFL helps deliver modularity, density and flexibility of design for your network infrastructure. AFL can supply every piece of the puzzle, providing control over quality, reliability and performance.</p>
+        <ul>
+            <li>
+            Cabling solutions
+            <ul>
+                <li>
+                <a href="/Products/Fiber-Optic-Cable">Fiber Optic Cable</a> including air-jetted fiber (eABF)</li>
+            </ul>
+            </li>
+            <li>
+            <a href="/Products/Fiber-Optic-Connectivity/Preterminated-Cable-Assemblies">Pre-Terminated Cable Assemblies</a></li>
+            <li>
+            <a href="/Products/Fiber-Optic-Connectivity/Rack-Mount-Patch-Panels/ASCEND-High-Density-Platform">ASCEND™ High Density Platform</a>
+            <ul>
+                <li>
+                <a href="/Products/Fiber-Optic-Connectivity/Rack-Mount-Patch-Panels/ASCEND-High-Density-Platform/ASCEND-Fiber-Housings">Fiber Housings</a></li>
+                <li>
+                <a href="/Products/Fiber-Optic-Connectivity/Rack-Mount-Patch-Panels/ASCEND-High-Density-Platform/ASCEND-Fanout-Cassettes">Fanout Cassettes</a></li>
+                <li>
+                <a href="/Products/Fiber-Optic-Connectivity/Rack-Mount-Patch-Panels/ASCEND-High-Density-Platform/ASCEND-Patch-Cassettes">Patch Cassettes</a></li>
+                <li>
+                <a href="/Products/Fiber-Optic-Connectivity/Rack-Mount-Patch-Panels/ASCEND-High-Density-Platform/ASCEND-Splice-Cassettes">Splice Cassettes</a></li>
+                <li>
+                <a href="/Products/Fiber-Optic-Connectivity/Rack-Mount-Patch-Panels/ASCEND-High-Density-Platform/ASCEND-Patch-Cord-Assemblies">Patch Cord Assemblies</a></li>
+                <li>
+                <a href="/Products/Fiber-Optic-Connectivity/Rack-Mount-Patch-Panels/ASCEND-High-Density-Platform/ASCEND-Trunk-Cable-Assemblies">Trunk Cable Assemblies</a></li>
+            </ul>
+            </li>
+            <li>
+            <a href="/Products/Fiber-Optic-Connectivity/Field-Installable-Connectors">Field Terminated Connectivity Systems</a>
+            <ul>
+                <li>
+                <a href="/Products/Fiber-Optic-Connectivity/Field-Installable-Connectors/Splice-On-Connectors-FuseConnect-Fusion-Splice">FUSEConnect® Splice-On Connectors</a></li>
+                <li>
+                <a href="/Products/Fiber-Optic-Connectivity/Field-Installable-Connectors/FuseConnect-MPO">FUSEConnect® MPO</a></li>
+                <li>
+                <a href="/Products/Fiber-Optic-Connectivity/Field-Installable-Connectors/FAST-Connectors_(1)">FASTConnect®</a></li>
+                <li>
+                <a href="/Products/Fiber-Optic-Connectivity/Modules-and-Panel-Accessories/Poli-MOD-Patch-and-Splice-Module">Poli-MOD® Patch and Splice Module</a></li>
+                <li>
+                <a href="/Products/Fiber-Optic-Connectivity/Rack-Mount-Patch-Panels">Rack Mount Patch Panels</a></li>
+            </ul>
+            </li>
+            <li>
+            <a href="/Products/Fusion-Splicing">Fusion splicers</a></li>
+            <li>
+            <a href="/Products/Test-and-Inspection">Test and inspection equipment</a>
+            <ul>
+                <li>
+                <a href="/Products/Test-and-Inspection/Fiber-Optic-Inspection">Inspection Solutions</a></li>
+                <li>
+                <a href="/Products/Test-and-Inspection/Optical-Loss-Testing/Loss-Test-sets/rogue-olts-certifier">Network Certification Testing</a></li>
+                <li>
+                <a href="/Products/Fiber Optic Cleaning">Cleaning Supplies</a></li>
+            </ul>
+            </li>
+            <li>
+            Design and installation services</li>
+        </ul>
+    - ID: "56611f02-691a-4096-b044-63aa83122916"
+      Hint: Content
+      Value: |
+        <h2>AFL delivers the right combination of fiber optic products, services and technology for data centers</h2>
+        <p>The data center is the heart of your operation. Regardless of how or where you deploy your infrastructure, AFL has an end-to-end solution to support your growing network.</p>
+        <p>With its vertically-integrated operations, AFL has the expertise to maximize the performance and scalability of your data center. As the technology leader in fiber optic cabling and connectivity systems, AFL helps deliver modularity, density and flexibility of design for your network infrastructure. AFL can supply every piece of the puzzle, providing control over quality, reliability and performance.</p>
+        <ul>
+            <li><a href="/Services/What-We-Do/Structured-Cabling">Cabling solutions</a>
+            <ul>
+                <li><a href="/Products/Fiber-Optic-Cable">Fiber Optic Cable</a>&nbsp;including&nbsp;<a href="/Solutions/Air-Blown-Fiber">air-jetted fiber (eABF)</a></li>
+            </ul>
+            </li>
+            <li><a href="/Products/Fiber-Optic-Connectivity/Preterminated-Cable-Assemblies">Pre-Terminated Cable Assemblies</a></li>
+            <li><a href="/Products/Fiber-Optic-Connectivity/Rack-Mount-Patch-Panels/ASCEND-High-Density-Platform">ASCEND&trade; High Density Platform</a>
+            <ul>
+                <li><a href="/Products/Fiber-Optic-Connectivity/Rack-Mount-Patch-Panels/ASCEND-High-Density-Platform/ASCEND-Fiber-Housings">Fiber Housings</a></li>
+                <li><a href="/Products/Fiber-Optic-Connectivity/Rack-Mount-Patch-Panels/ASCEND-High-Density-Platform/ASCEND-Fanout-Cassettes">Fanout Cassettes</a></li>
+                <li><a href="/Products/Fiber-Optic-Connectivity/Rack-Mount-Patch-Panels/ASCEND-High-Density-Platform/ASCEND-Patch-Cassettes">Patch Cassettes</a></li>
+                <li><a href="/Products/Fiber-Optic-Connectivity/Rack-Mount-Patch-Panels/ASCEND-High-Density-Platform/ASCEND-Splice-Cassettes">Splice Cassettes</a></li>
+                <li><a href="/Products/Fiber-Optic-Connectivity/Rack-Mount-Patch-Panels/ASCEND-High-Density-Platform/ASCEND-Patch-Cord-Assemblies">Patch Cord Assemblies</a></li>
+                <li><a href="/Products/Fiber-Optic-Connectivity/Rack-Mount-Patch-Panels/ASCEND-High-Density-Platform/ASCEND-Trunk-Cable-Assemblies">Trunk Cable Assemblies</a></li>
+            </ul>
+            </li>
+            <li><a href="/Products/Fiber-Optic-Connectivity/Field-Installable-Connectors">Field Terminated Connectivity Systems</a>
+            <ul>
+                <li><a href="/Products/Fiber-Optic-Connectivity/Field-Installable-Connectors/Splice-On-Connectors-FuseConnect-Fusion-Splice">FUSEConnect&reg; Splice-On Connectors</a></li>
+                <li><a href="/Products/Fiber-Optic-Connectivity/Field-Installable-Connectors/FuseConnect-MPO">FUSEConnect&reg; MPO</a></li>
+                <li><a href="/Products/Fiber-Optic-Connectivity/Field-Installable-Connectors/FAST-Connectors_(1)">FASTConnect&reg;</a></li>
+                <li><a href="/Products/Fiber-Optic-Connectivity/Modules-and-Panel-Accessories/Poli-MOD-Patch-and-Splice-Module">Poli-MOD&reg; Patch and Splice Module</a></li>
+                <li><a href="/Products/Fiber-Optic-Connectivity/Rack-Mount-Patch-Panels">Rack Mount Patch Panels</a></li>
+            </ul>
+            </li>
+            <li><a href="/Products/Fusion-Splicing">Fusion splicers</a></li>
+            <li><a href="/Products/Test-and-Inspection">Test and inspection equipment</a>
+            <ul>
+                <li><a href="/Products/Test-and-Inspection/Fiber-Optic-Inspection">Inspection Solutions</a></li>
+                <li><a href="/Products/Test-and-Inspection/Optical-Loss-Testing/Loss-Test-sets/rogue-olts-certifier">Network Certification Testing</a></li>
+                <li><a href="/Products/Cleaning">Cleaning Supplies</a></li>
+            </ul>
+            </li>
+            <li><a href="/Services/What-We-Do/Engineering-Services">Design</a>&nbsp;and&nbsp;<a href="/Services/What-We-Do/Infrastructure-Installation">installation</a>&nbsp;services</li>
+        </ul>
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: data center solutions consolidation equipment products fiber copper cabling management patch panel power networking test inspection
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: Data Center
+    - ID: "628db04b-29a2-483b-a88c-b8fd9a5f2086"
+      Hint: HeroLink
+      Value: |
+        <link id="{3AA14AC1-2EF7-429A-9FE7-750EC0D81D16}" querystring="" linktype="internal" text="LEARN MORE" anchor="" url="/AFL-Global/APAC/Home/Solutions/Enterprise/Data Center" title="" class="" target="|Custom" />
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: Data Center
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "fd61c140-ea2d-423e-97a4-8df26a57f107"
+    - ID: "93dc88f3-05e5-482d-9b9a-c859c8258a73"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image mediaid="{768FE3B7-51F9-4F5E-A659-DBB11087C3DF}" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d8b38dd7-e9a0-4410-9f17-d436b0c8635a"
+      Hint: OpenGraphImageUrl
+      Value: |
+        <image mediaid="{CF846A72-E2F1-4E5E-B2DE-F039BCE83399}" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T101446Z

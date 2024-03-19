@@ -1,0 +1,38 @@
+﻿---
+ID: "259a0b01-a9d9-40e5-a015-35a1cf220c1c"
+Parent: "087de977-dc46-433d-aaac-277a4068f143"
+Template: "070a64fa-5f1b-40cc-83cb-3ce05d1895fc"
+Path: "/sitecore/content/AFL-Global/AMERICAS/Presentation/Rendering Variants/Image/Responsive Image/Responsive Image"
+SharedFields:
+- ID: "23a32ca5-1169-4fb5-8624-c1090341a25d"
+  Hint: MWidths
+  Value: "w320=%7B4A13A390-B765-4807-BB80-2FDC9AFA1DAA%7D&w480=%7B02F8B057-DE07-41A0-930B-6800C8DD7B2F%7D&w800=%7B6002CC59-677D-44A8-9D86-DE38872AAAFD%7D&w1200=%7B15268575-1AE7-4922-9CC6-9E9CFF97B645%7D&w3000=%7B338E3D52-A82C-4DC0-A3CC-E9881C4B13C4%7D"
+- ID: "df178dc4-b83d-46ec-8d4f-9de85e2c996c"
+  Hint: FieldName
+  Value: Responsive Image
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220321T132525Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mahesh
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "241f91be-fff1-415a-b682-37848c969f77"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahesh
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220321T132654Z

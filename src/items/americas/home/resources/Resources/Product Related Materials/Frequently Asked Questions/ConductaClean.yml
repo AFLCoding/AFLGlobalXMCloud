@@ -1,0 +1,422 @@
+﻿---
+ID: "b839e33b-a1cc-4dcb-afeb-a2fbfb3470d6"
+Parent: "b21ece9f-86e0-480a-b6bc-fb3b026a5066"
+Template: "bf61de11-b78f-48ea-aaa4-1d17f0d83824"
+Path: "/sitecore/content/AFL-Global/AMERICAS/Home/Resources/Product Related Materials/Frequently Asked Questions/ConductaClean"
+SharedFields:
+- ID: "1fbc6a49-6281-48ee-87e9-a3970b145adb"
+  Hint: NavigationFilter
+  Value: "{D063E9D1-C7B5-4B1E-B31E-69886C9C59F5}"
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{274C9F86-81B9-4FFC-87CA-8B19AB3A526D}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{DAE7C21D-4D3B-4257-A95C-9104CD8AF409}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220125T100315Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: ConductaClean
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kushagra
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: "AFL Conductor Accessories ConductaClean - product frequently asked questions submitted by customers regarding AFL product lines."
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <h1>FAQ: ConductaClean</h1>
+        <p>Below are the FAQs submitted by customers regarding the ConductaClean product line.<br />
+        <br />
+        Q: What makes this technology so revolutionary?<br />
+        A: One of the primary root causes for splicing failures is poor cleaning of aluminum strands prior to compression. ConductaClean enables line crews to properly prepare conductors quickly, efficiently and affordably.<br />
+        <br />
+        Q: What types of conductors can be cleaned with ConductaClean?<br />
+        A: ACSR, ACAR, AAC, AAAC and ACSS.<br />
+        <br />
+        Q: Can ConductaClean be used on energized (hot) conductors?<br />
+        A: No.<br />
+        <br />
+        Q: How long does it take for ConductaClean to work?<br />
+        A: One minute for relatively clean/new conductor, three minutes for moderately contaminated conductor, and six minutes for highly contaminated conductor. (Note: While it is very uncommon, it has been observed that longer cleaning times may be required for unusual conductor conditions.) For example, in two situations since the technology was introduced, conductors that appeared to have a baked on surface coating of contamination with high carbon content were encountered that required 12 to 15 minutes of cleaning. (These conductors were known to have been operated at high temperatures for an extended time in an environment with a relatively high concentration of carbon in the local atmosphere.) It was found that wiping the surface with a “Scotch‐Brite” pad after the first three minutes of cleaning accelerated the cleaning (thereby reducing the total cleaning time required) by helping break through the baked on carbon layer.<br />
+        <br />
+        Q: Is the ConductaClean unit waterresistant?<br />
+        A: All operating switches and compartment plates are factory sealed.<br />
+        <br />
+        Q: Where can ConductaClean be used?<br />
+        A: On the ground or suspended from a bucket. For greaterstability in ground cleanings, a tripod accessory is available.<br />
+        <br />
+        Q: How tough is the ConductaClean unit?<br />
+        A: ConductaClean’s stainless steel housing can withstand reasonable abuse. (It has been accidentally dropped out of an elevated bucket and still worked.)<br />
+        <br />
+        Q: Does ConductaClean work in freezing temperatures?<br />
+        A: Although cleaning time is reduced with very cold temperatures, ConductaClean has been used in freezing conditions, as long as the mixed solution does not sit for an extended period. Common sense applies.<br />
+        <br />
+        Q: How many cleaning cycles will the tool battery support?<br />
+        A: This obviously depends upon cycle lengths and frequencies of use.Under typical splicing conditions and procedures, two fully charged 18V batteries will last long enough to support splicing preparations for one line crew in an eight hourshift.<br />
+        <br />
+        Q: How many cleanings can you get from one bottle?<br />
+        A: Depending upon conductor condition, typically 5‐12 cleanings.<br />
+        <br />
+        Q: Is the ConductaClean solution hazardous?<br />
+        A: No. The risks associated with using the ConductaClean solution are minimal compared to chemicals that linemen routinely use, (i.e. pentachlorophenol, CCA, creosote, pesticides, electrical joint compound, hydraulic fluid, gasoline, etc.). Standard safety attire (glasses and gloves) would apply.<br />
+        <br />
+        Q: What PPE (Personal Protective Equipment) is required to use ConductaClean?<br />
+        A: Everyone in the work area should wear safety goggles or glasses with side shields complying with current safety standards. Anyone operating the tool should wear gloves to protect hands from any spilled solution. Hard hats, safety shoes, etc. should be used when specified. Keep hands and face away from the opening of the tube where solution could splash or spill.<br />
+        <br />
+        Q: How should spent solution be disposed?<br />
+        A: The spent solution can be disposed of in any sanitary drain system. However, line personnel should always refer to their company’s operating protocol prior to disposal. (Note: There are no known regulations that prevent spent solution from being poured on the ground, but in order to be consistent with most utility’s “green” policies it is recommended that the solution be disposed in a sanitary drain when possible.)<br />
+        <br />
+        Q: Does ConductaClean solution come pre‐mixed?<br />
+        A: Not at this time. The shipping obstacles for pre‐mixed solution are simply time and cost prohibitive. However, many utilities order extra tubes to allow pre‐mixing in the shop prior to field use.<br />
+        <br />
+        Q: What is the life expectancy of the machine?<br />
+        A: ConductaClean units have been used in the field by several utilities since early 2008, and zero failures have been encountered since introduction.<br />
+        <br />
+        Q: Is there any evidence to support that using ConductaClean is effective?<br />
+        A: Yes. Heat cycle testing of compression connectors by the Electric Power Research Institute (EPRI) shows that connectors installed using ConductaClean consistently out perform connectors installed using wire brushing as evidenced by lower operating temperatures and longer life.<br />
+        <br />
+        Q: What is the shelf life of the solution?<br />
+        A: In the dry state, the solution when sealed and stored in a cool/dry environment has no degradation for well over a year. In the wet (mixed) state, the unused solution will remain active for at least a month. If the wet solution has been used, contaminates remaining from the cleaned conductor may affect the mixture.<br />
+        <br />
+        Q: Is there concern of any residual wet solution that may be left on the inner aluminum strands after cleaning?<br />
+        A: When the proper amount of filler compound is injected into the fitting prior to compression, the small amount of solution, if any, will be forced out the conductor (span) end of the fitting by filler compound. This has been confirmed by in‐house lab testing.</p>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kushagra
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: Conductor Accessories ConductaClean AFL products frequently asked questions FAQ
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: ConductaClean
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: ConductaClean
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "62268783-7a7b-4577-ad28-7b6ae0b1fe94"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T090804Z
+- Language: "es-MX"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220125T100315Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: ConductaClean
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: "AFL Conductor Accessories ConductaClean - product frequently asked questions submitted by customers regarding AFL product lines."
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <h1>FAQ: ConductaClean</h1>
+        <p>Below are the FAQs submitted by customers regarding the ConductaClean product line.<br />
+        <br />
+        Q: What makes this technology so revolutionary?<br />
+        A: One of the primary root causes for splicing failures is poor cleaning of aluminum strands prior to compression. ConductaClean enables line crews to properly prepare conductors quickly, efficiently and affordably.<br />
+        <br />
+        Q: What types of conductors can be cleaned with ConductaClean?<br />
+        A: ACSR, ACAR, AAC, AAAC and ACSS.<br />
+        <br />
+        Q: Can ConductaClean be used on energized (hot) conductors?<br />
+        A: No.<br />
+        <br />
+        Q: How long does it take for ConductaClean to work?<br />
+        A: One minute for relatively clean/new conductor, three minutes for moderately contaminated conductor, and six minutes for highly contaminated conductor. (Note: While it is very uncommon, it has been observed that longer cleaning times may be required for unusual conductor conditions.) For example, in two situations since the technology was introduced, conductors that appeared to have a baked on surface coating of contamination with high carbon content were encountered that required 12 to 15 minutes of cleaning. (These conductors were known to have been operated at high temperatures for an extended time in an environment with a relatively high concentration of carbon in the local atmosphere.) It was found that wiping the surface with a “Scotch‐Brite” pad after the first three minutes of cleaning accelerated the cleaning (thereby reducing the total cleaning time required) by helping break through the baked on carbon layer.<br />
+        <br />
+        Q: Is the ConductaClean unit waterresistant?<br />
+        A: All operating switches and compartment plates are factory sealed.<br />
+        <br />
+        Q: Where can ConductaClean be used?<br />
+        A: On the ground or suspended from a bucket. For greaterstability in ground cleanings, a tripod accessory is available.<br />
+        <br />
+        Q: How tough is the ConductaClean unit?<br />
+        A: ConductaClean’s stainless steel housing can withstand reasonable abuse. (It has been accidentally dropped out of an elevated bucket and still worked.)<br />
+        <br />
+        Q: Does ConductaClean work in freezing temperatures?<br />
+        A: Although cleaning time is reduced with very cold temperatures, ConductaClean has been used in freezing conditions, as long as the mixed solution does not sit for an extended period. Common sense applies.<br />
+        <br />
+        Q: How many cleaning cycles will the tool battery support?<br />
+        A: This obviously depends upon cycle lengths and frequencies of use.Under typical splicing conditions and procedures, two fully charged 18V batteries will last long enough to support splicing preparations for one line crew in an eight hourshift.<br />
+        <br />
+        Q: How many cleanings can you get from one bottle?<br />
+        A: Depending upon conductor condition, typically 5‐12 cleanings.<br />
+        <br />
+        Q: Is the ConductaClean solution hazardous?<br />
+        A: No. The risks associated with using the ConductaClean solution are minimal compared to chemicals that linemen routinely use, (i.e. pentachlorophenol, CCA, creosote, pesticides, electrical joint compound, hydraulic fluid, gasoline, etc.). Standard safety attire (glasses and gloves) would apply.<br />
+        <br />
+        Q: What PPE (Personal Protective Equipment) is required to use ConductaClean?<br />
+        A: Everyone in the work area should wear safety goggles or glasses with side shields complying with current safety standards. Anyone operating the tool should wear gloves to protect hands from any spilled solution. Hard hats, safety shoes, etc. should be used when specified. Keep hands and face away from the opening of the tube where solution could splash or spill.<br />
+        <br />
+        Q: How should spent solution be disposed?<br />
+        A: The spent solution can be disposed of in any sanitary drain system. However, line personnel should always refer to their company’s operating protocol prior to disposal. (Note: There are no known regulations that prevent spent solution from being poured on the ground, but in order to be consistent with most utility’s “green” policies it is recommended that the solution be disposed in a sanitary drain when possible.)<br />
+        <br />
+        Q: Does ConductaClean solution come pre‐mixed?<br />
+        A: Not at this time. The shipping obstacles for pre‐mixed solution are simply time and cost prohibitive. However, many utilities order extra tubes to allow pre‐mixing in the shop prior to field use.<br />
+        <br />
+        Q: What is the life expectancy of the machine?<br />
+        A: ConductaClean units have been used in the field by several utilities since early 2008, and zero failures have been encountered since introduction.<br />
+        <br />
+        Q: Is there any evidence to support that using ConductaClean is effective?<br />
+        A: Yes. Heat cycle testing of compression connectors by the Electric Power Research Institute (EPRI) shows that connectors installed using ConductaClean consistently out perform connectors installed using wire brushing as evidenced by lower operating temperatures and longer life.<br />
+        <br />
+        Q: What is the shelf life of the solution?<br />
+        A: In the dry state, the solution when sealed and stored in a cool/dry environment has no degradation for well over a year. In the wet (mixed) state, the unused solution will remain active for at least a month. If the wet solution has been used, contaminates remaining from the cleaned conductor may affect the mixture.<br />
+        <br />
+        Q: Is there concern of any residual wet solution that may be left on the inner aluminum strands after cleaning?<br />
+        A: When the proper amount of filler compound is injected into the fitting prior to compression, the small amount of solution, if any, will be forced out the conductor (span) end of the fitting by filler compound. This has been confirmed by in‐house lab testing.</p>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kushagra
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: Conductor Accessories ConductaClean AFL products frequently asked questions FAQ
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: ConductaClean
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: ConductaClean
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b69d6a71-2ab3-495c-bb11-3aacca12334e"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T090804Z
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220125T100315Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: ConductaClean
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: "AFL Conductor Accessories ConductaClean - product frequently asked questions submitted by customers regarding AFL product lines."
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <h1>FAQ: ConductaClean</h1>
+        <p>Below are the FAQs submitted by customers regarding the ConductaClean product line.<br />
+        <br />
+        Q:&nbsp;What makes this technology so revolutionary?<br />
+        A:&nbsp;One of the primary root causes for splicing failures is poor cleaning of aluminum strands prior to&nbsp;compression. ConductaClean enables line crews to properly prepare conductors quickly, efficiently and affordably.<br />
+        <br />
+        Q: What types of conductors can be cleaned with ConductaClean?<br />
+        A:&nbsp;ACSR, ACAR, AAC, AAAC and ACSS.<br />
+        <br />
+        Q: Can ConductaClean be used on energized (hot) conductors?<br />
+        A:&nbsp;No.<br />
+        <br />
+        Q: How long does it take for ConductaClean to work?<br />
+        A:&nbsp;One minute for relatively clean/new conductor, three minutes for moderately contaminated conductor, and six minutes for highly contaminated conductor. (Note: While it is very uncommon, it has been observed that longer cleaning times may be required for unusual conductor conditions.) For example, in two situations&nbsp;since the technology was introduced, conductors that appeared to have a baked on surface coating of contamination with high carbon content were encountered that required 12 to 15 minutes of cleaning. (These conductors were known to have been operated at high temperatures for an extended time in an environment with a relatively high concentration of carbon in the local atmosphere.) It was found that wiping the surface with a &ldquo;Scotch‐Brite&rdquo; pad after the first three minutes of cleaning accelerated the cleaning (thereby reducing the total cleaning time required) by helping break through the baked on carbon layer.<br />
+        <br />
+        Q: Is the ConductaClean unit waterresistant?<br />
+        A:&nbsp;All operating switches and compartment plates are factory sealed.<br />
+        <br />
+        Q: Where can ConductaClean be used?<br />
+        A:&nbsp;On the ground or suspended from a bucket. For greaterstability in ground cleanings, a tripod accessory is available.<br />
+        <br />
+        Q: How tough is the ConductaClean unit?<br />
+        A:&nbsp;ConductaClean&rsquo;s stainless steel housing can withstand reasonable abuse. (It has been accidentally dropped out of an elevated bucket and still worked.)<br />
+        <br />
+        Q: Does ConductaClean work in freezing temperatures?<br />
+        A:&nbsp;Although cleaning time is reduced with very cold temperatures, ConductaClean has been used in freezing&nbsp;conditions, as long as the mixed solution does not sit for an extended period. Common sense applies.<br />
+        <br />
+        Q: How many cleaning cycles will the tool battery support?<br />
+        A:&nbsp;This obviously depends upon cycle lengths and frequencies of use.Under typical splicing conditions and&nbsp;procedures, two fully charged 18V batteries will last long enough to support splicing preparations for one&nbsp;line crew in an eight hourshift.<br />
+        <br />
+        Q: How many cleanings can you get from one bottle?<br />
+        A:&nbsp;Depending upon conductor condition, typically 5‐12 cleanings.<br />
+        <br />
+        Q: Is the ConductaClean solution hazardous?<br />
+        A:&nbsp;No. The risks associated with using the ConductaClean solution are minimal compared to chemicals that&nbsp;linemen routinely use, (i.e. pentachlorophenol, CCA, creosote, pesticides, electrical joint compound,&nbsp;hydraulic fluid, gasoline, etc.). Standard safety attire (glasses and gloves) would apply.<br />
+        <br />
+        Q: What PPE (Personal Protective Equipment) is required to use ConductaClean?<br />
+        A:&nbsp;Everyone in the work area should wear safety goggles or glasses with side shields complying with current&nbsp;safety standards. Anyone operating the tool should wear gloves to protect hands from any spilled solution.&nbsp;Hard hats, safety shoes, etc. should be used when specified. Keep hands and face away from the opening of&nbsp;the tube where solution could splash or spill.<br />
+        <br />
+        Q: How should spent solution be disposed?<br />
+        A:&nbsp;The spent solution can be disposed of in any sanitary drain system. However, line personnel should&nbsp;always refer to their company&rsquo;s operating protocol prior to disposal. (Note: There are no known regulations&nbsp;that prevent spent solution from being poured on the ground, but in order to be consistent with most&nbsp;utility&rsquo;s &ldquo;green&rdquo; policies it is recommended that the solution be disposed in a sanitary drain when possible.)<br />
+        <br />
+        Q: Does ConductaClean solution come pre‐mixed?<br />
+        A:&nbsp;Not at this time. The shipping obstacles for pre‐mixed solution are simply time and cost prohibitive.&nbsp;However, many utilities order extra tubes to allow pre‐mixing in the shop prior to field use.<br />
+        <br />
+        Q: What is the life expectancy of the machine?<br />
+        A:&nbsp;ConductaClean units have been used in the field by several utilities since early 2008, and zero failures&nbsp;have been encountered since introduction.<br />
+        <br />
+        Q: Is there any evidence to support that using ConductaClean is effective?<br />
+        A:&nbsp;Yes. Heat cycle testing of compression connectors by the Electric Power Research Institute (EPRI) shows&nbsp;that connectors installed using ConductaClean consistently out perform connectors installed using wire&nbsp;brushing as evidenced by lower operating temperatures and longer life.<br />
+        <br />
+        Q: What is the shelf life of the solution?<br />
+        A:&nbsp;In the dry state, the solution when sealed and stored in a cool/dry environment has no degradation for&nbsp;well over a year. In the wet (mixed) state, the unused solution will remain active for at least a month. If the&nbsp;wet solution has been used, contaminates remaining from the cleaned conductor may affect the mixture.<br />
+        <br />
+        Q: Is there concern of any residual wet solution that may be left on the inner aluminum strands after&nbsp;cleaning?<br />
+        A:&nbsp;When the proper amount of filler compound is injected into the fitting prior to compression, the small&nbsp;amount of solution, if any, will be forced out the conductor (span) end of the fitting by filler compound. This&nbsp;has been confirmed by in‐house lab testing.</p>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kushagra
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: Conductor Accessories ConductaClean AFL products frequently asked questions FAQ
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: ConductaClean
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a1169317-b338-4006-8c04-bafef3b8febd"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahesh
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220224T113802Z
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220125T100315Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: ConductaClean
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: "AFL Conductor Accessories ConductaClean - product frequently asked questions submitted by customers regarding AFL product lines."
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <h1>FAQ: ConductaClean</h1>
+        <p>Below are the FAQs submitted by customers regarding the ConductaClean product line.<br />
+        <br />
+        Q: What makes this technology so revolutionary?<br />
+        A: One of the primary root causes for splicing failures is poor cleaning of aluminum strands prior to compression. ConductaClean enables line crews to properly prepare conductors quickly, efficiently and affordably.<br />
+        <br />
+        Q: What types of conductors can be cleaned with ConductaClean?<br />
+        A: ACSR, ACAR, AAC, AAAC and ACSS.<br />
+        <br />
+        Q: Can ConductaClean be used on energized (hot) conductors?<br />
+        A: No.<br />
+        <br />
+        Q: How long does it take for ConductaClean to work?<br />
+        A: One minute for relatively clean/new conductor, three minutes for moderately contaminated conductor, and six minutes for highly contaminated conductor. (Note: While it is very uncommon, it has been observed that longer cleaning times may be required for unusual conductor conditions.) For example, in two situations since the technology was introduced, conductors that appeared to have a baked on surface coating of contamination with high carbon content were encountered that required 12 to 15 minutes of cleaning. (These conductors were known to have been operated at high temperatures for an extended time in an environment with a relatively high concentration of carbon in the local atmosphere.) It was found that wiping the surface with a “Scotch‐Brite” pad after the first three minutes of cleaning accelerated the cleaning (thereby reducing the total cleaning time required) by helping break through the baked on carbon layer.<br />
+        <br />
+        Q: Is the ConductaClean unit waterresistant?<br />
+        A: All operating switches and compartment plates are factory sealed.<br />
+        <br />
+        Q: Where can ConductaClean be used?<br />
+        A: On the ground or suspended from a bucket. For greaterstability in ground cleanings, a tripod accessory is available.<br />
+        <br />
+        Q: How tough is the ConductaClean unit?<br />
+        A: ConductaClean’s stainless steel housing can withstand reasonable abuse. (It has been accidentally dropped out of an elevated bucket and still worked.)<br />
+        <br />
+        Q: Does ConductaClean work in freezing temperatures?<br />
+        A: Although cleaning time is reduced with very cold temperatures, ConductaClean has been used in freezing conditions, as long as the mixed solution does not sit for an extended period. Common sense applies.<br />
+        <br />
+        Q: How many cleaning cycles will the tool battery support?<br />
+        A: This obviously depends upon cycle lengths and frequencies of use.Under typical splicing conditions and procedures, two fully charged 18V batteries will last long enough to support splicing preparations for one line crew in an eight hourshift.<br />
+        <br />
+        Q: How many cleanings can you get from one bottle?<br />
+        A: Depending upon conductor condition, typically 5‐12 cleanings.<br />
+        <br />
+        Q: Is the ConductaClean solution hazardous?<br />
+        A: No. The risks associated with using the ConductaClean solution are minimal compared to chemicals that linemen routinely use, (i.e. pentachlorophenol, CCA, creosote, pesticides, electrical joint compound, hydraulic fluid, gasoline, etc.). Standard safety attire (glasses and gloves) would apply.<br />
+        <br />
+        Q: What PPE (Personal Protective Equipment) is required to use ConductaClean?<br />
+        A: Everyone in the work area should wear safety goggles or glasses with side shields complying with current safety standards. Anyone operating the tool should wear gloves to protect hands from any spilled solution. Hard hats, safety shoes, etc. should be used when specified. Keep hands and face away from the opening of the tube where solution could splash or spill.<br />
+        <br />
+        Q: How should spent solution be disposed?<br />
+        A: The spent solution can be disposed of in any sanitary drain system. However, line personnel should always refer to their company’s operating protocol prior to disposal. (Note: There are no known regulations that prevent spent solution from being poured on the ground, but in order to be consistent with most utility’s “green” policies it is recommended that the solution be disposed in a sanitary drain when possible.)<br />
+        <br />
+        Q: Does ConductaClean solution come pre‐mixed?<br />
+        A: Not at this time. The shipping obstacles for pre‐mixed solution are simply time and cost prohibitive. However, many utilities order extra tubes to allow pre‐mixing in the shop prior to field use.<br />
+        <br />
+        Q: What is the life expectancy of the machine?<br />
+        A: ConductaClean units have been used in the field by several utilities since early 2008, and zero failures have been encountered since introduction.<br />
+        <br />
+        Q: Is there any evidence to support that using ConductaClean is effective?<br />
+        A: Yes. Heat cycle testing of compression connectors by the Electric Power Research Institute (EPRI) shows that connectors installed using ConductaClean consistently out perform connectors installed using wire brushing as evidenced by lower operating temperatures and longer life.<br />
+        <br />
+        Q: What is the shelf life of the solution?<br />
+        A: In the dry state, the solution when sealed and stored in a cool/dry environment has no degradation for well over a year. In the wet (mixed) state, the unused solution will remain active for at least a month. If the wet solution has been used, contaminates remaining from the cleaned conductor may affect the mixture.<br />
+        <br />
+        Q: Is there concern of any residual wet solution that may be left on the inner aluminum strands after cleaning?<br />
+        A: When the proper amount of filler compound is injected into the fitting prior to compression, the small amount of solution, if any, will be forced out the conductor (span) end of the fitting by filler compound. This has been confirmed by in‐house lab testing.</p>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kushagra
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: Conductor Accessories ConductaClean AFL products frequently asked questions FAQ
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: ConductaClean
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: ConductaClean
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d901cbce-0d0a-4ffe-9ca7-7b0ead39a5d4"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T090804Z

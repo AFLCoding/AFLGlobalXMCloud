@@ -1,0 +1,129 @@
+﻿---
+ID: "eddd38fe-338e-4379-8019-0c3a2860d9b7"
+Parent: "e8b08ae7-ed24-4a3e-a1f5-ef438ee42711"
+Template: "bf61de11-b78f-48ea-aaa4-1d17f0d83824"
+Path: "/sitecore/content/AFL-Global/APAC/Home/Company/Environment Health Safety/Certifications"
+SharedFields:
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{87CE798E-CDA3-4363-A47F-74DF3E2D88BE}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{DAE7C21D-4D3B-4257-A95C-9104CD8AF409}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211222T135054Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Certifications
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\harry
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: AFL has many safety, environmental and telecommunication certifications including ISO 14001, ISO 9001, ISO TL9000, and ISO 18000.
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <div class="content" id="contentWide">
+        <h1>Certifications</h1>
+        <p>AFL manufacturing facilities are certified for various ISO standards. Read more about <a href="#ISO">ISO standards</a> below.</p>
+        <h2>AFL Telecommunications LLC</h2>
+        <ul>
+            <li><a rel="noopener noreferrer" href="https://afl-delivery.stylelabs.cloud/api/public/content/7e081dca677b47a6a468e574313f4fdc?v=e5893088" target="_blank" title="View ISO 14001">ISO 14001:2015</a> | <a rel="noopener noreferrer" href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-Telecommunications-LLC-Appendix-ISO-14001?v=5d99fc02" target="_blank">Appendix</a></li>
+            <li><a rel="noopener noreferrer" href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-Ridgeview-ISO-9001-2015?v=f6456c5a" target="_blank">ISO 9001</a> Ridgeview, USAC, Hidden Lake II, Hillside, Howell Rd</li>
+            <li><a rel="noopener noreferrer" href="https://afl-delivery.stylelabs.cloud/api/public/content/ACA-494238-9001?v=1c653f99" target="_blank">ISO 9001</a> Hidden Lake (Accessories)</li>
+            <li><a rel="noopener noreferrer" href="https://afl-delivery.stylelabs.cloud/api/public/content/SO-9001-Hidden-Lake?v=d140d555" target="_blank">ISO 9001</a> Mt. Olive, NC and Bristol, VA</li>
+        </ul>
+        <h2>AFL Telecomunicaciones de Mexico S de RL de CV</h2>
+        <ul>
+            <li><a rel="noopener noreferrer" href="https://afl-delivery.stylelabs.cloud/api/public/content/Monterrey-ISO-14001-2015?v=fdb87533" target="_blank" title="View ISO 14001">ISO 14001:2015</a></li>
+            <li><a rel="noopener noreferrer" href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL_TL_9000_Certificate?v=00048f1c" target="_blank" title="View ISO 9001">ISO 9001 and TL 9000</a></li>
+        </ul>
+        <h2>AFL Telecommunications Europe Ltd.</h2>
+        <ul>
+            <li><a rel="noopener noreferrer" href="https://afl-delivery.stylelabs.cloud/api/public/content/UNCE-Certificate?v=cbfef8e7" target="_blank" title="View ISO 14001">UNCE Certificate 2018</a></li>
+            <li><a rel="noopener noreferrer" href="https://afl-delivery.stylelabs.cloud/api/public/content/UVDB-Certificate?v=6f5b0a9a" target="_parent" title="View ISO 9001">UVDB Certificate 2021</a></li>
+            <li><a rel="noopener noreferrer" href="https://afl-delivery.stylelabs.cloud/api/public/content/UVDB-Verify-Certificate?v=389db388" target="_blank" title="View Sellihca by Achilles">UVDB Verify Certificate 2021</a></li>
+            <li><a rel="noopener noreferrer" href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-Telecommunications-Europe-ISO14001?v=ebd015ca" target="_blank" title="View Sellihca by Achilles">ISO 14001:2015</a></li>
+            <li><a rel="noopener noreferrer" href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-Telecommunications-Europe-ISO9001?v=2b147f7c" target="_blank" title="View Sellihca by Achilles">ISO 9001</a></li>
+        </ul>
+        <h2>AFL Test and Inspection Division</h2>
+        <ul>
+            <li><a rel="noopener noreferrer" href="https://afl-delivery.stylelabs.cloud/api/public/content/ISO-9001-Certificate-Test-Inspectio?v=d25dde19" target="_blank">ISO 9001</a></li>
+        </ul>
+        <h2>AFL Telecommunications GmbH</h2>
+        <ul>
+            <li><a rel="noopener noreferrer" href="https://afl-delivery.stylelabs.cloud/api/public/content/TUEV_DIN_EN_ISO_9001_14001?v=adbb2887" target="_blank" title="View ISO 14001 and 9001">ISO 14001:2015 and 9001</a></li>
+            <li><a rel="noopener noreferrer" href="https://afl-delivery.stylelabs.cloud/api/public/content/TUEV_DIN_EN_ISO_50001?v=92786762" target="_blank" title="View ISO 14001 and 9001">ISO 5001</a></li>
+            <li><a rel="noopener noreferrer" href="https://afl-delivery.stylelabs.cloud/api/public/content/UNCE-Certificate-MGB?v=3dfa5a82" target="_blank">UNCE Certificate</a><a rel="noopener noreferrer" href="https://afl-delivery.stylelabs.cloud/api/public/content/UNCE-Certificate-MGB?v=3dfa5a82" target="_blank"> 2021</a></li>
+        </ul>
+        <h2>Network Services Inc.</h2>
+        <ul>
+            <li><a rel="noopener noreferrer" href="https://afl-delivery.stylelabs.cloud/api/public/content/Network-Services-TL9000-and-ISO-90001-Certificate?v=7ad29233" target="_blank" title="View TL9000 and ISO 90001">ISO 9001</a></li>
+        </ul>
+        <h2>AFL Specialty Fiber</h2>
+        <ul>
+            <li><a rel="noopener noreferrer" href="https://afl-delivery.stylelabs.cloud/api/public/content/BSI-ISO_9001_2015_Certificate-2018?v=2f11d50a" target="_blank">ISO 9001</a></li>
+            <li><a rel="noopener noreferrer" href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-Specialty-Fiber-Quality-Policy?v=29d9d079" target="_blank">Quality Policy</a></li>
+        </ul>
+        <h2>ALTA Group</h2>
+        <ul>
+            <li><a rel="noopener noreferrer" href="https://afl-delivery.stylelabs.cloud/api/public/content/Alta-Group-1-2-13-TL9000-ISO9001?v=26662a35" title="View ISO 9001 and TL 9000" target="_blank">ISO 9001</a></li>
+        </ul>
+        <h2>AFL Telecommunications Australia Pty Ltd</h2>
+        <ul>
+            <li><a rel="noopener noreferrer" href="https://afl-delivery.stylelabs.cloud/api/public/content/d8c37a5be02f43a89cc870336977b4a9?v=e8c3d70e" target="_blank">ISO 14001:2015</a></li>
+            <li><a rel="noopener noreferrer" href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-Australia-ISO-9001-2015?v=2db6c8c2" target="_blank">ISO 9001</a></li>
+        </ul>
+        <br />
+        <p> </p>
+        <h1> </h1>
+        <div id="ISO">
+        <h1>ISO Standards</h1>
+        </div>
+        <h3>ISO 9000</h3>
+        <p>The ISO 9000 family of standards is related to quality management systems and designed to help organizations ensure that they meet the needs of customers and other stakeholders while meeting statutory and regulatory requirements related to the product. The standards are published by ISO, the International Organization for Standardization, and available through National standards bodies. ISO 9000 deals with the fundamentals of quality management systems, including the eight management principles on which the family of standards is based. ISO 9001 deals with the requirements that organizations wishing to meet the standard have to fulfill.</p>
+        <h3>TL 9000</h3>
+        <p>TL 9000 is a quality management practice designed by the QuEST Forum in 1998. It was created to focus on supply chain directives throughout the international telecommunications industry, including the USA domestically. TL 9000 specializes the generic ISO 9000 and ISO 9001 to the needs of one industrial sector, which for TL 9000 is the telecom industry—extending from service providers through telecom equipment manufacturers through the suppliers and contractors and subcontractors that provide electronic components and software components to those telecom equipment manufacturers.</p>
+        <h3>ISO 14001:2015</h3>
+        <p>ISO 14001 is a standard related to environmental management that exists to help organizations (a) minimize how their operations (processes etc.) negatively affect the environment (i.e. cause adverse changes to air, water, or land); (b) comply with applicable laws, regulations, and other environmentally oriented requirements, and (c) continually improve in the above.</p>
+        <h3>OHSAS 18001</h3>
+        <p>OHSAS 18001 is a British Standard for occupational health and safety management systems. It exists to help all kinds of organizations put in place demonstrably sound occupational health and safety performance. It is widely seen as the world’s most recognized occupational health and safety management systems standard.</p>
+        </div>
+        <div class="rightCol">
+        <div class="rightColBox" id="contactInfo"> </div>
+        </div>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\harry
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: environmental safety certifications ISO 9001 14001 TL9000 18000
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: Certifications
+    - ID: "628db04b-29a2-483b-a88c-b8fd9a5f2086"
+      Hint: HeroLink
+      Value: |
+        <link id="{85FA3130-0C93-4777-85F2-B78E68099C63}" querystring="" target="|Custom" text="LEARN MORE" anchor="" title="" class="" url="/AFL-Global/AMERICAS/Home/Company/Environment Health Safety/Certifications" linktype="internal" />
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: Certifications
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e8203578-8017-440f-ad24-b9087c813f1a"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T101903Z

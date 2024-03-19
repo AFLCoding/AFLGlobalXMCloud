@@ -1,0 +1,126 @@
+﻿---
+ID: "caf7e100-1182-489a-9818-10e3443f4957"
+Parent: "076af30c-2a45-432f-bf60-e8865dfe134c"
+Template: "a066d10c-85cf-4eaf-9508-49cb49707994"
+Path: "/sitecore/content/AFL-Global/EMEA/Data/AFL LinkList Folder/Footer Navigation/Contact/Equipment Rental"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 300
+Languages:
+- Language: "de-DE"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220308T125135Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kushagra
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9f7355cd-89a9-4810-9726-6abe19258e78"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rafael
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231017T180154Z
+    - ID: "e47138d1-880e-47a0-8f73-b93c23ff83cd"
+      Hint: Link
+      Value: |
+        <link text="Geräteverleih" anchor="" linktype="internal" class="" title="" target="_blank" querystring="" id="{2C2798B1-E0E6-42B8-B8BA-E4C8CB264826}" />
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220308T125135Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kushagra
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kushagra
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0f67b53a-4cba-431e-9848-1f98c96d09a7"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Ashish
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220425T074223Z
+    - ID: "e47138d1-880e-47a0-8f73-b93c23ff83cd"
+      Hint: Link
+      Value: |
+        <link text="Equipment Rental" anchor="" linktype="internal" class="" title="" target="_blank" querystring="" id="{2C2798B1-E0E6-42B8-B8BA-E4C8CB264826}" />
+- Language: "es-ES"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220308T125135Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kushagra
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4c144daf-60b2-4445-a54d-5cb25884a3dd"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rafael
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231017T160616Z
+    - ID: "e47138d1-880e-47a0-8f73-b93c23ff83cd"
+      Hint: Link
+      Value: |
+        <link text="Alquiler De Equipos" anchor="" linktype="internal" class="" title="" target="_blank" querystring="" id="{2C2798B1-E0E6-42B8-B8BA-E4C8CB264826}" />
+- Language: "fr-FR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220308T125135Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kushagra
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9d74caac-dcfc-457d-a8bc-274b08121c42"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rafael
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231017T174801Z
+    - ID: "e47138d1-880e-47a0-8f73-b93c23ff83cd"
+      Hint: Link
+      Value: |
+        <link text="Location D'équipement" anchor="" linktype="internal" class="" title="" target="_blank" querystring="" id="{2C2798B1-E0E6-42B8-B8BA-E4C8CB264826}" />

@@ -1,0 +1,35 @@
+﻿---
+ID: "7943dde8-2cd1-42c7-8b6c-f9022bcc40f3"
+Parent: "2a027947-58cd-4da4-83e3-13de894fee64"
+Template: "6f9c9c28-ba50-41d6-ae16-54569803e411"
+Path: "/sitecore/content/AFL-Global/EMEA/Data/Custom Carousel/About Services page/About Services Carousel"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{D24CFD2F-4281-4783-82C0-F87EA95461AF}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230126T164228Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rafael
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rafael
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "34bf5996-fb3f-4572-8ae6-9a59fbcb12ca"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rafael
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230126T164622Z

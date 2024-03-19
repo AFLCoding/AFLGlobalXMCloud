@@ -1,0 +1,93 @@
+﻿---
+ID: "dd6931fb-dec7-4e91-9104-79522a2b4db9"
+Parent: "269b9fff-cd06-472d-b9a2-7d1e3616ba00"
+Template: "f36e821e-bb98-44dc-966d-e92a0e033cc7"
+Path: "/sitecore/content/AFL-Global/APAC/Home/Company/Company Profile/NewsArchive/2014/AFL to Showcase Enterprise Solutions at BICSI"
+SharedFields:
+- ID: "1fbc6a49-6281-48ee-87e9-a3970b145adb"
+  Hint: NavigationFilter
+  Value: |
+    {E0A2A027-0932-4878-A7D6-0416D5263EFB}
+    {61BD64D6-809E-40AE-9297-2724A19329B3}
+    {D063E9D1-C7B5-4B1E-B31E-69886C9C59F5}
+    {500AE4C0-FA7B-463F-8149-EFFF7F044101}
+    {A0E7FF57-6994-4B09-AA21-104239628D5A}
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{3A84BAC9-C1BD-4809-A12C-28EB44E25329}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{DAE7C21D-4D3B-4257-A95C-9104CD8AF409}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "228f9517-e120-4014-b2c7-df0ac467a349"
+      Hint: ContentTitle
+      Value: AFL to Showcase Enterprise Solutions at BICSI Winter in Orlando
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211216T095041Z
+    - ID: "3688d7df-2feb-43a4-ab8d-410e5f70a676"
+      Hint: ContentDescription
+      Value: |
+        Spartanburg, SC – <a href="http://www.aflglobal.com/">AFL</a>, an industry-leading provider of fiber optic products, engineering expertise and integrated services, is featuring an end-to-end enterprise solution in booth #818 at the <a href="https://www.bicsi.org/winter/2014/default.aspx">2014 BICSI Winter Conference and Expo</a>, Feb. 3-5 at the Rosen Shingle Creek Resort in Orlando, Fla.<br />
+        <br />
+        AFL and Dura-Line’s <a href="http://www.aflglobal.com/Solutions/Air-Blown-Fiber.aspx">eABF™ Air-Jetted Fiber Cabling Solution</a>, the highest fiber density solution in the market, will be demonstrated during the show. Providing an upgradeable physical pathway, the eABF solution features air-jetting qualities yet is rugged enough to comply with Telcordia’s GR-409 and NEC riser and plenum flame ratings. The eABF pathway system is comprised of Enterprise FuturePath® products and includes Indoor/Outdoor HDPE, riser, plenum and LSZH product lines.<br />
+        <br />
+        Demonstrations of the <a href="http://www.aflglobal.com/Products/Fusion-Splicing/Field-Fusion-Splicing-Equipment/Splicers-Single-Fiber/Fujikura-70S-Fusion-Splicer.aspx">Fujikura 70S Fusion Splicer</a>, the world’s fastest fusion splicer, will also be provided. The new design streamlines the steps required to complete splices, resulting in greater productivity. With new easy-to-use features, the 70S offers a shrink time of 14 seconds.<br />
+        <br />
+        Also showcased will be AFL’s <a href="http://www.aflglobal.com/Products/Test-and-Inspection/OTDRS-and-Fault-Locators/M310-Enterprise-Data-Center-Multifunction-OTDR-w-O.aspx">M310 Data Center OTDR</a> with Enhanced Event Analysis. Its high dynamic range, short dead zones and new advanced event analysis algorithm minimizes missed and false events and ensures accuracy and reliability in event analysis, taking advantage of short dead zones in data center applications.<br />
+        <br />
+        Designed for network growth, AFL offers its newest <a href="http://www.aflglobal.com/Products/Fiber-Inside-Plant/Modules-and-Panel-Accessories/Optical-Modules/Poli-MOD-Patch-and-Splice-Module.aspx">Poli-MOD</a>, a pigtailed optical interconnect patch and splice module. Accommodating up to 24 fiber interconnections in an industry-standard, single-slot LGX® 118 footprint, the Poli-MOD module uses a snap-in splice sleeve cradle that securely manages both single and ribbon fiber arrangements.<br />
+        <br />
+        Visit AFL at BICSI Winter and help us celebrate our 30 year anniversary! To learn more about AFL, its products and services, visit booth #818 at the BICSI Winter Conference and Exhibition or go to <a href="https://www.aflglobal.com/">www.AFLglobal.com</a>.<br />
+        <br />
+        About AFL<br />
+        AFL provides industry-leading products and services to the electric utility, broadband, communications, enterprise and OEM markets as well as the emerging markets of oil and gas, mining, nuclear, avionics, renewables and transportation. The company’s diverse product portfolio includes fiber optic cable, transmission and substation accessories, outside plant equipment, connectors, fusion splicers, test equipment and training. AFL’s service portfolio includes market-leading positions with the foremost communications companies supporting inside plant central office, EF&I, outside plant, enterprise and wireless areas.<br />
+        <br />
+        Founded in 1984, AFL is proud to offer engineering expertise, exceptional products and reliable service that help our customers improve their critical and electrical infrastructure. AFL has operations in the U.S., Mexico, Canada, Europe, Asia and the South Pacific. The company is headquartered in Spartanburg, SC, and is a wholly-owned subsidiary of Fujikura Ltd. of Japan. For more information, visit <a href="http://www.aflglobal.com/">www.AFLglobal.com</a>.<br />
+        <br />
+        Contact<br />
+        Corie Culp<br />
+        Public Relations Manager<br />
+        AFL<br />
+        864.433.5409<br />
+        <a href="mailto:Corie.Culp@AFLglobal.com">Corie.Culp@AFLglobal.com</a>
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: AFL to Showcase Enterprise Solutions at BICSI
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kushagra
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: "AFL is featuring an end-to-end enterprise solution in booth #818 at the 2014 BICSI Winter Conference and Expo, Feb. 3-5 at the Rosen Shingle Creek Resort in Orlando, Fla."
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kushagra
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: "AFL, BICSI Winter Conference and Exhibition, Rosen Shingle Creek Resort, Orlando, Flordia, enterprise, fiber optic, fujikura fusion splicer, OTDR, air-blown fiber"
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: AFL to Showcase Enterprise Solutions at BICSI
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: AFL to Showcase Enterprise Solutions at BICSI
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4ed9f83d-49c1-4987-a87e-62349e0ebf31"
+    - ID: "a6eaffd5-fc3e-41b4-93b3-f1721fcf2300"
+      Hint: ContentPublishedDate
+      Value: 20140130T183000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T101809Z

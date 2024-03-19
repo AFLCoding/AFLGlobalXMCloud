@@ -1,0 +1,156 @@
+﻿---
+ID: "c8f10b00-00ad-4dc9-ba64-318b178c58f8"
+Parent: "d7190016-a6db-47aa-a037-053f9197ee98"
+Template: "a066d10c-85cf-4eaf-9508-49cb49707994"
+Path: "/sitecore/content/AFL-Global/EMEA/Data/AFL LinkList Folder/Footer Navigation/Products/Fibre Optic Connectivity"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 300
+Languages:
+- Language: "de-DE"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220202T152246Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\archana
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ead9de9f-e27c-46fe-8065-0b2c6ac73253"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rafael
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231017T175600Z
+    - ID: "e47138d1-880e-47a0-8f73-b93c23ff83cd"
+      Hint: Link
+      Value: |
+        <link text="Glasfaser-Konnektivität" anchor="" linktype="internal" class="" title="" target="_blank" querystring="" id="{833A9280-D7FE-42C6-BC98-96CEE5509FF4}" />
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220202T152246Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\archana
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\archana
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b4c495f0-c4d7-4049-a1d2-1f3d945de6d8"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rob
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220810T203457Z
+    - ID: "e47138d1-880e-47a0-8f73-b93c23ff83cd"
+      Hint: Link
+      Value: |
+        <link text="Fibre Optic Connectivity" anchor="" linktype="internal" class="" title="" target="_blank" querystring="" id="{833A9280-D7FE-42C6-BC98-96CEE5509FF4}" />
+- Language: "es-ES"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220202T152246Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\archana
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4b874b4c-f171-4980-ba18-d43ed2f514aa"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahesh
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220208T084328Z
+    - ID: "e47138d1-880e-47a0-8f73-b93c23ff83cd"
+      Hint: Link
+      Value: |
+        <link id="{67697A36-EE37-4C21-A1F0-09672463F0E6}" querystring="" target="" text="Test and Inspection" anchor="" title="" class="" url="/AFL-Global/AMERICAS/Home/Products/Test and Inspection" linktype="internal" />
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220202T152246Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\archana
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "adcd9f6b-67c9-4ff4-af4d-d1359f1f3a11"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rafael
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231017T160014Z
+    - ID: "e47138d1-880e-47a0-8f73-b93c23ff83cd"
+      Hint: Link
+      Value: |
+        <link text="Conectividad De Fibra Óptica" anchor="" linktype="internal" class="" title="" target="_blank" querystring="" id="{833A9280-D7FE-42C6-BC98-96CEE5509FF4}" />
+- Language: "fr-FR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220202T152246Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\archana
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "60efe550-e0e2-4f86-bfbc-65bce9a7cccd"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rafael
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231017T174247Z
+    - ID: "e47138d1-880e-47a0-8f73-b93c23ff83cd"
+      Hint: Link
+      Value: |
+        <link text="Connectivité Par Fibre Optique" anchor="" linktype="internal" class="" title="" target="_blank" querystring="" id="{833A9280-D7FE-42C6-BC98-96CEE5509FF4}" />

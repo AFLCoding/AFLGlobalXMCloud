@@ -1,0 +1,152 @@
+﻿---
+ID: "6d451a4b-7bf6-45b0-a8ed-d7edc05c20db"
+Parent: "af5babaa-64a1-4c90-8545-53ba5ccd8328"
+Template: "bf61de11-b78f-48ea-aaa4-1d17f0d83824"
+Path: "/sitecore/content/AFL-Global/APAC/Home/Resources/Product Related Materials/Frequently Asked Questions/FAQ Test and Inspection/FOCIS Wi-Fi"
+SharedFields:
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{87CE798E-CDA3-4363-A47F-74DF3E2D88BE}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{DAE7C21D-4D3B-4257-A95C-9104CD8AF409}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220818T185041Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{1A24FC12-1F8E-4214-921E-D355AA3E4DC5}"
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: "FOCIS Wi-Fi"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rafael
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: "FOCIS Wi-Fi"
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <h1 style="color: #000000; background-color: #ffffff; margin: 0.67em 0px; line-height: 24px;">FOCIS Wi-Fi</h1>
+        <a name="focis-pal" style="color: #0091ea; background-color: #ffffff;"></a>
+        <h2 style="color: #004a91; background-color: #ffffff; margin: 0px;">FOCIS WiFi PAL:</h2>
+        <p style="color: #333333; background-color: #ffffff; margin: 0px 0px 15px;"><strong>Q: Why didn’t I receive a copy of a user manual with my AFL FOCIS WiFi system?</strong><br />
+        <strong>A: </strong>FOCIS WiFi user manuals are available as a free, downloadable .pdf documents from the FOCIS WiFi web page. This permits you to install and read the user manual on your mobile device. Upload the user manual to the iBooks app on your iPhone or iPad or the Play Books app on your Android device.</p>
+        <p style="color: #333333; background-color: #ffffff; margin: 0px 0px 15px;"><strong>Q: Is there an upgrade kit that will allow me to use my existing AFL DFS1 Digital FiberScope with FOCIS WiFi?</strong><br />
+        <strong>A:</strong> Yes, you can purchase an upgrade kit that allows any owner of a DFS1 to upgrade to a FOCIS WiFi View, FOCIS WiFi PLUS or FOCIS WiFi PRO system. Contact your AFL sales representative for more information.</p>
+        <p style="color: #333333; background-color: #ffffff; margin: 0px 0px 15px;"><strong>Q: After following the directions in the FOCIS WiFi user guide, I continue to experience one or more of the following connection problems with my mobile device:</strong></p>
+        <ul style="color: #333333; background-color: #ffffff; list-style-image: url('https://webapps.aflglobal.com/productionFiles/images/bulletRound.aspx');">
+            <li><strong>My mobile device does not detect the SSID of the FOCIS WiFi PAL</strong></li>
+            <li><strong>My mobile device fails to connect to or only temporarily connects to the SSID of the FOCIS WiFi PAL</strong></li>
+            <li><strong>My mobile device connects to the SSID but the Connectivity Status Screen shows the DFS1 probe to be inactive</strong></li>
+        </ul>
+        <p style="color: #333333; background-color: #ffffff; margin: 0px 0px 15px;"><strong>How can I resolve these problems?</strong><br />
+        <strong>A: </strong> FOCIS WiFi PAL is designed to sequence through a boot up and diagnostics loop once to achieve stable operation. On very rare occasions, a unit may attempt multiple boot-up attempts to clear a detected anomaly and produce the symptoms you are experiencing.  To resolve any of these connectivity problems, simply turn off the FOCIS WiFi PAL, wait at least 5 seconds and turn on the FOCIS WiFi PAL. This will fully resolve the symptoms you are experiencing.</p>
+        <p style="color: #333333; background-color: #ffffff; margin: 0px 0px 15px;"><strong>Q:</strong> <strong>Which fiber inspection standards are supported by the FOCIS WiFi PRO automatic inspection feature?</strong><br />
+        <strong>A:</strong> FOCIS WiFi PRO supports the following standards:</p>
+        <ul style="color: #333333; background-color: #ffffff; list-style-image: url('https://webapps.aflglobal.com/productionFiles/images/bulletRound.aspx');">
+            <li>IEC-PC-SM-RL-45dB</li>
+            <li>IEC-APC-SM</li>
+            <li>IEC-PC-SM-RL-26dB</li>
+            <li>IEC-PC-MM</li>
+            <li>AT&T TP-76461</li>
+            <li>ATT-TP-76461-SM</li>
+            <li>ATT-TP-76461-MM</li>
+        </ul>
+        <p style="color: #333333; background-color: #ffffff; margin: 0px 0px 15px;"><strong>Q: </strong><strong>Does FOCIS WiFi PRO support User-defined inspection criteria?</strong><br />
+        <strong>A: </strong>Yes, FOCIS WiFi PRO allows users to define, store and use customized inspection criteria.</p>
+        <p style="color: #333333; background-color: #ffffff; margin: 0px 0px 15px;"><strong>Q: </strong><strong>Can I test on live fiber?</strong><br />
+        <strong>A:</strong> Yes, it will not prevent proper analysis of the fiber endface.</p>
+        <p style="color: #333333; background-color: #ffffff; margin: 0px 0px 15px;"><strong>Q: </strong><strong>How long does the battery last between charges? And how long does it take to recharge the battery?</strong><br />
+        <strong>A:</strong> Battery capacity is 9.5 hours continuous operation with the DFS1 (3 hours after a 2 hour charge). From a completely discharged state, a recharge time of 7 hours is typical.</p>
+        <p style="color: #333333; background-color: #ffffff; margin: 0px 0px 15px;"><strong>Q: </strong><strong>Can I use any AC Adapter with a USB outlet to charge the PAL?</strong><br />
+        <strong>A:</strong> Yes, in addition to the AC adapter provided with FOCIS WiFi, any standard USB outlet AC adapter can be used.</p>
+        <p style="color: #333333; background-color: #ffffff; margin: 0px 0px 15px;"><strong>Q: </strong><strong>What is the purpose of the RJ-45 connection port?</strong><br />
+        <strong>A:</strong> It is for AFL use only.</p>
+        <p style="color: #333333; background-color: #ffffff; margin: 0px 0px 15px;"><strong>Q: </strong><strong>What WiFi protocol does the FOCIS WiFi PAL use?</strong><br />
+        <strong>A:</strong>  It uses IEEE 802.11 b/g/n.</p>
+        <p style="color: #333333; background-color: #ffffff; margin: 0px 0px 15px;"><strong>Q: What is the range of the PAL wireless signal?</strong><br />
+        <strong>A:</strong> The minimum range is 2.4 meters.</p>
+        <br style="color: #333333; background-color: #ffffff;" />
+        <br style="color: #333333; background-color: #ffffff;" />
+        <a name="focis-android" style="color: #0091ea; background-color: #ffffff;"></a>
+        <h2 style="color: #004a91; background-color: #ffffff; margin: 0px;">FOCIS WiFi MOBILE for Android:</h2>
+        <p style="color: #333333; background-color: #ffffff; margin: 0px 0px 15px;"><strong>Q: </strong><strong>Which Android™ OS versions and devices are compatible with the FOCIS MOBILE application?  </strong><br />
+        <strong>A:</strong> FOCIS MOBILE is compatible with Android™ smartphones and tablets running Android version 2.3.3 and later.</p>
+        <p style="color: #333333; background-color: #ffffff; margin: 0px 0px 15px;"><strong>Q: </strong><strong>Where do I download the Android version of FOCIS MOBILE to use with my FOCIS WiFi? </strong><br />
+        <strong>A:</strong> Download the FOCIS MOBILE app for Android devices at the <a href="https://play.google.com/store/apps/collection/promotion_2013_playyourheartout?utm_source=HA_Desktop_&utm_medium=SEM&utm_campaign=pyho&pcampaignid=MKTAD1225PY7" style="color: #0091ea; background-color: transparent;">Google Play</a><a href="https://play.google.com/store/apps/collection/promotion_2013_playyourheartout?utm_source=HA_Desktop_&utm_medium=SEM&utm_campaign=pyho&pcampaignid=MKTAD1225PY7" target="_blank" style="color: #0091ea; background-color: transparent;"></a>store and search for the AFL FOCIS MOBILE app.</p>
+        <p style="color: #333333; background-color: #ffffff; margin: 0px 0px 15px;"><strong>Q: </strong><strong>On how many devices can I download the FOCIS MOBILE app to use with my FOCIS WiFi? </strong><br />
+        <strong>A:</strong> There is no limitation on the number of downloads and devices for the app.</p>
+        <p style="color: #333333; background-color: #ffffff; margin: 0px 0px 15px;"><strong>Q: </strong><strong>I’ve opened my FOCIS MOBILE app, but it doesn’t connect to my PAL.  Why not? </strong><br />
+        <strong>A:</strong> There are several reasons why FOCIS WiFi may not open:</p>
+        <ul style="color: #333333; background-color: #ffffff; list-style-image: url('https://webapps.aflglobal.com/productionFiles/images/bulletRound.aspx');">
+            <li>Check that your PAL is in the On position </li>
+            <li>Make sure your DFS1 is plugged in to the PAL device </li>
+            <li>Check WiFi connectivity status icon</li>
+            <li>Refresh WiFi connectivity</li>
+            <li>In your device’s System Settings screen, go to the WiFi Connectivity Screen to see which WiFi network is currently connected on your Android. Make sure it matches the network shown on the back of your PAL.  The PAL network will appear as AFL_XXXXXXXXX (contains 9 digit serial number). You can only connect to one wireless network at a time.</li>
+        </ul>
+        <p style="color: #333333; background-color: #ffffff; margin: 0px 0px 15px;"><strong>Q: How do I share images saved on my mobile device?</strong><br />
+        <strong>A:</strong> You can share them via email or text from your device, or use a cloud-based solution like Dropbox or Google Drive.</p>
+        <p style="color: #333333; background-color: #ffffff; margin: 0px 0px 15px;"><strong>Q: How do I delete files and images from my FOCIS MOBILE?<br />
+        A:</strong> Tap the software icon to enter the Photo Gallery, then press and hold an image or folder until it is framed in blue. Next, press the trash can icon and select Yes. NOTE: you can press and hold multiple icons sequentially to select and then delete multiple files simultaneously.</p>
+        <p style="color: #333333; background-color: #ffffff; margin: 0px 0px 15px;"><strong>Q: Why doesn’t the FOCIS MOBILE application change orientation from portrait to landscape on my Android device?</strong><br />
+        <strong>A:</strong> The FOCIS MOBILE is designed to work in portrait mode only.</p>
+        <p style="color: #333333; background-color: #ffffff; margin: 0px 0px 15px;"><strong>Q: Why can’t I obtain a clear, sharp, focused image of my connector endface when I use a Universal 2.5mm PC probe tip adapter (AFL p/n DFS1-00-0002MR) with my DFS1 Digital Fiberscope?</strong><br />
+        <strong>A:</strong> The design of the Universal 2.5 mm PC probe tip adapter incorporates a ferrule stop located inside the tip. The stop insures that the fiber endface is located within the focus range of the inspection probe. When inserting a ferrule into the Universal 2.5 mm PC probe tip, users must make sure to seat the ferrule against the ferrule stop. By design, the fit between the ferrule and the tip is snug, but users should have no difficulty positioning the ferrule properly.</p>
+        <br style="color: #333333; background-color: #ffffff;" />
+        <br style="color: #333333; background-color: #ffffff;" />
+        <a name="focis-ios" style="color: #0091ea; background-color: #ffffff;"></a>
+        <h2 style="color: #004a91; background-color: #ffffff; margin: 0px;">FOCIS WiFi MOBILE for iOS:</h2>
+        <p style="color: #333333; background-color: #ffffff; margin: 0px 0px 15px;"><strong>Q: </strong><strong>Which iOS™ devices are compatible with the FOCIS MOBILE application?   </strong><br />
+        <strong>A:</strong> FOCIS  MOBILE is compatible with iPhones and iPads running iOS 7 and later.</p>
+        <p style="color: #333333; background-color: #ffffff; margin: 0px 0px 15px;"><strong>Q: Where do I download the iOS version of FOCIS MOBILE to use with my FOCIS WiFi?</strong><br />
+        <strong>A:</strong>  For Apple iOS devices, search for the AFL FOCIS MOBILE app in the App Store.</p>
+        <p style="color: #333333; background-color: #ffffff; margin: 0px 0px 15px;"><strong>Q: On how many devices can I download the FOCIS MOBILE app to use with my FOCIS WiFi?</strong><br />
+        <strong>A:</strong> There is no limitation on the number of downloads and devices for the app.</p>
+        <p style="color: #333333; background-color: #ffffff; margin: 0px 0px 15px;"><strong>Q: </strong><strong>When it shows a failed connection, can it display why it failed e.g. > than 3 scratched, etc.?</strong><br />
+        <strong>A:</strong> We currently do not support detailed reporting, just pass/fail with the defects highlighted in red.</p>
+        <p style="color: #333333; background-color: #ffffff; margin: 0px 0px 15px;"><strong>Q: </strong><strong>Can the images taken be used in a word document or other program?</strong><br />
+        <strong>A:</strong> The images are standard .png format and can be used in word documents, etc.</p>
+        <p style="color: #333333; background-color: #ffffff; margin: 0px 0px 15px;"><strong>Q: </strong><strong>I’ve opened my FOCIS MOBILE app, but it doesn’t connect to my PAL.  Why not?</strong><br />
+        <strong>A:</strong> There are several reasons why FOCIS WiFi may not open: </p>
+        <ul style="color: #333333; background-color: #ffffff; list-style-image: url('https://webapps.aflglobal.com/productionFiles/images/bulletRound.aspx');">
+            <li>Check that your PAL is in the On position </li>
+            <li>Make sure your DFS1 is plugged in to the PAL device</li>
+            <li>Check WiFi connectivity status icon</li>
+            <li>In your device’s System Settings screen, go to the WiFi Connectivity Screen to see which WiFi network is currently connected on your Android or iPad.  Make sure it matches the network shown on the back of your PAL. The PAL network will appear as AFL_XXXXXXXXX (contains 9 digit serial number). You can only connect to one wireless network at a time.</li>
+        </ul>
+        <p style="color: #333333; background-color: #ffffff; margin: 0px 0px 15px;"><strong>Q: How do I share images saved on my mobile device?</strong><br />
+        <strong>A:</strong> You can share them via email or text from your device, or through a cloud-based solution such as Dropbox.</p>
+        <p style="color: #333333; background-color: #ffffff; margin: 0px 0px 15px;"><strong>Q: How do I delete files and images from my FOCIS MOBILE?</strong><br />
+        <strong>A:</strong> Tap the select icon in the image Gallery and then select the image. Next, press the trash can icon to delete the image. NOTE: you can select multiple images and then delete the images simultaneously.</p>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rafael
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: "FOCIS Wi-Fi"
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: "FOCIS Wi-Fi"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "970a3440-015e-46b0-b777-32513a1814f0"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T101550Z

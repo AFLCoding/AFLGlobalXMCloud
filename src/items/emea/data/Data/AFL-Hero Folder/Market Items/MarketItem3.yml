@@ -1,0 +1,193 @@
+﻿---
+ID: "c392a874-3f69-436a-8247-227acf448cab"
+Parent: "1e667722-e49a-46d4-b7db-d61137f6291b"
+Template: "58f6f985-9278-4625-b289-f5e86e840b79"
+Path: "/sitecore/content/AFL-Global/EMEA/Data/AFL-Hero Folder/Market Items/MarketItem3"
+Languages:
+- Language: "de-DE"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "01221109-d467-43e1-b8a8-0730663a2139"
+      Hint: HeroLink
+      Value: |
+        <link id="{9DC066FF-25EB-4C4B-AC49-9F2F53389ACE}" querystring="" text="MEHR ERFAHREN" anchor="" title="" class="" url="/AFL-Global/EMEA/Home/Solutions/Industrial" linktype="internal" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211029T104329Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "77ac2e7d-e117-4016-a13b-808353120b00"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sripada
+    - ID: "bdc73b13-efa2-4084-a5be-a2d46aa0a74c"
+      Hint: Hero Title
+      Value: Industriell
+    - ID: "c87bc2e3-f30b-4991-972b-a811e360ed64"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="73528" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/73528/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/Industrialbanner?v=561bdda9" stylelabs-content-type="Image" alt="MicrosoftTeams-image (5).png" height="226" width="553" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231206T080558Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "01221109-d467-43e1-b8a8-0730663a2139"
+      Hint: HeroLink
+      Value: |
+        <link id="{9DC066FF-25EB-4C4B-AC49-9F2F53389ACE}" querystring="" text="LEARN MORE" anchor="" title="" class="" url="/AFL-Global/EMEA/Home/Solutions/Industrial" linktype="internal" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211029T104329Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a8c3470c-c2ce-4268-9d45-be374f8a86fa"
+    - ID: "ada1864f-f56d-4775-b6f9-9d7cd785cf18"
+      Hint: BodyPosition
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sripada
+    - ID: "bdc73b13-efa2-4084-a5be-a2d46aa0a74c"
+      Hint: Hero Title
+      Value: Industrial
+    - ID: "c87bc2e3-f30b-4991-972b-a811e360ed64"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="187466" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/187466/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/2e1f334d447640dcb6c3a51125ae1312?v=810bff3c" stylelabs-content-type="Image" alt="Industrial_Market.webp" height="250" width="570" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231206T080600Z
+    - ID: "ef467041-c8d3-47d6-91b4-aed6845bf7f2"
+      Hint: ColumnWidth
+      Value: 
+- Language: "es-ES"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "01221109-d467-43e1-b8a8-0730663a2139"
+      Hint: HeroLink
+      Value: |
+        <link id="{8731F938-5744-4EB4-8E81-DDD8E996A464}" querystring="" linktype="internal" text="LEARN MORE" anchor="" url="/AFL-Global/AMERICAS/Home/Solutions/Industrial" title="" class="" target="|Custom" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211029T104329Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d2947e33-061c-4a50-a303-0293f05223d0"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sripada
+    - ID: "bdc73b13-efa2-4084-a5be-a2d46aa0a74c"
+      Hint: Hero Title
+      Value: Industrial
+    - ID: "c87bc2e3-f30b-4991-972b-a811e360ed64"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image mediaid="{FE482B43-30CA-41CE-91B8-FF2FA64FCDB5}" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231206T080357Z
+  - Version: 2
+    Fields:
+    - ID: "01221109-d467-43e1-b8a8-0730663a2139"
+      Hint: HeroLink
+      Value: |
+        <link id="{9DC066FF-25EB-4C4B-AC49-9F2F53389ACE}" querystring="" target="" text="MÁS INFORMACIÓN" anchor="" title="" class="" url="/AFL-Global/EMEA/Home/Solutions/Industrial" linktype="internal" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211029T104329Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ef5ce01d-8b08-4852-9ad5-ec48a045ae03"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sripada
+    - ID: "bdc73b13-efa2-4084-a5be-a2d46aa0a74c"
+      Hint: Hero Title
+      Value: Industrial
+    - ID: "c87bc2e3-f30b-4991-972b-a811e360ed64"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="73528" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/73528/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/Industrialbanner?v=561bdda9" stylelabs-content-type="Image" alt="MicrosoftTeams-image (5).png" height="226" width="553" />
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231206T080558Z
+- Language: "fr-FR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "01221109-d467-43e1-b8a8-0730663a2139"
+      Hint: HeroLink
+      Value: |
+        <link id="{9DC066FF-25EB-4C4B-AC49-9F2F53389ACE}" querystring="" target="" text="EN SAVOIR PLUS" anchor="" title="" class="" url="/AFL-Global/EMEA/Home/Solutions/Industrial" linktype="internal" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211029T104329Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "149b3bcb-8915-475a-b5f0-a3fe1dfe61e1"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sripada
+    - ID: "bdc73b13-efa2-4084-a5be-a2d46aa0a74c"
+      Hint: Hero Title
+      Value: Industriel
+    - ID: "c87bc2e3-f30b-4991-972b-a811e360ed64"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="73528" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/73528/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/Industrialbanner?v=561bdda9" stylelabs-content-type="Image" alt="MicrosoftTeams-image (5).png" height="226" width="553" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231206T080600Z

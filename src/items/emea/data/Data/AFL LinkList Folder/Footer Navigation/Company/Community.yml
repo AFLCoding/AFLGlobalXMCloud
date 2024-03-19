@@ -1,0 +1,156 @@
+﻿---
+ID: "dc87e986-4c86-4a36-b3b3-231d7e2a1daf"
+Parent: "13a3f40e-8fe6-49ba-9e4b-781cf2a81c42"
+Template: "a066d10c-85cf-4eaf-9508-49cb49707994"
+Path: "/sitecore/content/AFL-Global/EMEA/Data/AFL LinkList Folder/Footer Navigation/Company/Community"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: "de-DE"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220202T155356Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\archana
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6a85a132-59fe-4b59-afc9-17bfd4fcc6d7"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rafael
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231017T180005Z
+    - ID: "e47138d1-880e-47a0-8f73-b93c23ff83cd"
+      Hint: Link
+      Value: |
+        <link text="Gemeinschaft" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{67D6CC74-2F5E-46AF-ADCA-C2AEC3CB957A}" />
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220202T155356Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\archana
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\archana
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "da758850-f7e5-45ef-b516-6c3c822e181e"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Ashish
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220425T062238Z
+    - ID: "e47138d1-880e-47a0-8f73-b93c23ff83cd"
+      Hint: Link
+      Value: |
+        <link text="Community" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{67D6CC74-2F5E-46AF-ADCA-C2AEC3CB957A}" />
+- Language: "es-ES"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220202T155356Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\archana
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e3084d90-1eed-4861-be50-acdf66a243a9"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahesh
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220208T084555Z
+    - ID: "e47138d1-880e-47a0-8f73-b93c23ff83cd"
+      Hint: Link
+      Value: |
+        <link id="{F5E14B66-0F22-4CD7-9DB2-1F673AE9DB95}" querystring="" target="" text="Community" anchor="" title="" class="" url="/AFL-Global/AMERICAS/Home/Company/Community" linktype="internal" />
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220202T155356Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\archana
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "52431980-2395-4473-bb5f-43e631074a3d"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rafael
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231017T160409Z
+    - ID: "e47138d1-880e-47a0-8f73-b93c23ff83cd"
+      Hint: Link
+      Value: |
+        <link text="Comunidad" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{02BFE37A-935E-4B54-90E0-DB39177E7491}" />
+- Language: "fr-FR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220202T155356Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\archana
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "30e4614a-8de6-4af2-9939-dcbac293fa9a"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rafael
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231017T174619Z
+    - ID: "e47138d1-880e-47a0-8f73-b93c23ff83cd"
+      Hint: Link
+      Value: |
+        <link text="Communauté" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{67D6CC74-2F5E-46AF-ADCA-C2AEC3CB957A}" />

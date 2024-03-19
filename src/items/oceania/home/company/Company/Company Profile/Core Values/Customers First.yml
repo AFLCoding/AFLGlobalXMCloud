@@ -1,0 +1,85 @@
+﻿---
+ID: "9f37c655-1a95-4154-a358-5629cd104a55"
+Parent: "6350991b-c7b8-4d71-b422-04cbf763dbcd"
+Template: "bf61de11-b78f-48ea-aaa4-1d17f0d83824"
+Path: "/sitecore/content/AFL-Global/OCEANIA/Home/Company/Company Profile/Core Values/Customers First"
+SharedFields:
+- ID: "1fbc6a49-6281-48ee-87e9-a3970b145adb"
+  Hint: NavigationFilter
+  Value: "{D063E9D1-C7B5-4B1E-B31E-69886C9C59F5}"
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{274C9F86-81B9-4FFC-87CA-8B19AB3A526D}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{DAE7C21D-4D3B-4257-A95C-9104CD8AF409}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211223T143316Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Customers First
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\harry
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: "AFL Customer First - At AFL we strive in every encounter to exceed our customers' expectations. We have grown our customer service to ensure that every AFL customer attention and outstanding service."
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <p>Our company was literally built on putting the customer first. In 1984, AFL was formed to manufacture fiber optic cable for utility and telecommunications customers.</p>
+        <div>Over 35 years later, we are still laser focused on serving our customers. Across our company, our associates are doing whatever it takes to exceed our customers’ expectations. At the center of our “Customers First” culture is our Customer Service team.</div>
+        <div> </div>
+        <div>AFL’s customer service representatives work one-on-one with each AFL customer. Our service level begins with understanding the customer. We take the time to listen first. How can AFL help our customers meet their goals? How can AFL do more than the customer expects us to do?</div>
+        <div> </div>
+        <div>We know that you cannot provide this exceptional kind of customer service without the right people. We know our customers demand a highly qualified, highly knowledgeable, and highly responsive contact. So we invest in our people. We never stop training. We are proud that the average tenure of an AFL customer service representative is 14 years. In fact, we have two team members that have been with AFL over 30 years!</div>
+        <div> </div>
+        <div>As AFL has grown, we have expanded our customer service team to ensure every AFL customer receives attention and outstanding service. When new members are added to the AFL team, we take the time to recruit the best of the best. That also means we are very selective.</div>
+        <div> </div>
+        <div>Another differentiator at AFL is how we create paths for customer service representatives to move into other areas of the business where they can use their skills to serve our customers in new ways. Today, we have customer service alumni in business development, sales, international trade, product engineering and marketing.</div>
+        <div> </div>
+        <div>Our culture of customer service permeates the entire organization. "Customers First" is one of our core values. At AFL, it started with a focus on customers. And we know that if we keep focusing on taking better and better care of our customers, AFL will succeed too.</div>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\harry
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: AFL customer first culture sales service fiber optic splice test
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: Customers First
+    - ID: "628db04b-29a2-483b-a88c-b8fd9a5f2086"
+      Hint: HeroLink
+      Value: |
+        <link id="{6AD6F291-903B-44AE-802B-0ED119A5A1E4}" querystring="" target="|Custom" text="LEARN MORE" anchor="" title="" class="" url="/AFL-Global/AMERICAS/Home/Company/Company Profile/Core Values/Customers First" linktype="internal" />
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: Customers First
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e3631fc4-5bfe-4b04-8b45-d203af728f27"
+    - ID: "93dc88f3-05e5-482d-9b9a-c859c8258a73"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="168704" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/168704/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/dcf7c22a837b4af795f4bd7027db409c?v=14eb2284" stylelabs-content-type="Image" alt="customer-first-955x369.png" height="369" width="955" />
+    - ID: "a40ebd3d-2b41-41fb-90f7-753544ce77c5"
+      Hint: Hero Title1
+      Value: Customers First
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T094001Z
+    - ID: "dd0b26a2-9ca3-4573-b501-3b33a6efbc65"
+      Hint: Hero Title2
+      Value: Associates around the world are striving to put our customers first in everything we do

@@ -1,0 +1,166 @@
+﻿---
+ID: "becf09a2-ec75-45d0-b2e3-67b7424730ea"
+Parent: "1934f013-0751-4347-9186-b15a35fdc27b"
+Template: "13dd909c-f987-4d60-a5c0-e72dde5c00c3"
+Path: "/sitecore/content/AFL-Global/AMERICAS/Data/AFL Resouces Data/AFL WhitePaperList Data/Download White Papers"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "20f6351d-0af4-4496-a415-e31a14f5cca5"
+      Hint: WhitePaperName
+      Value: Download White Papers
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211220T113147Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\archana
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\archana
+    - ID: "6b01e138-84c2-4ab8-adda-ab41e659fafd"
+      Hint: WhitePaperCategory
+      Value: White Paper
+    - ID: "6c7e6fdc-655d-48ad-81e3-83fad57a73eb"
+      Hint: WhitePaperImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="237957" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/237957/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/9b785757f7ce43d2b401a95527956727?v=e3db04d3" stylelabs-content-type="Image" alt="WhitePaper_Icon.png" height="287" width="339" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ca7b5a24-f5f4-4efb-a4dd-16c5b2761ace"
+    - ID: "a8bcba31-4191-4cf9-ba64-f3798feda127"
+      Hint: WhitePaperUrl
+      Value: |
+        <link text="VIEW" linktype="external" url="https://learn.aflglobal.com/white-papers" anchor="" target="_blank" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rob
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220509T200316Z
+- Language: "es-MX"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "20f6351d-0af4-4496-a415-e31a14f5cca5"
+      Hint: WhitePaperName
+      Value: Download White Papers
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211220T113147Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\archana
+    - ID: "6b01e138-84c2-4ab8-adda-ab41e659fafd"
+      Hint: WhitePaperCategory
+      Value: White Paper
+    - ID: "6c7e6fdc-655d-48ad-81e3-83fad57a73eb"
+      Hint: WhitePaperImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="237957" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/237957/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/9b785757f7ce43d2b401a95527956727?v=e3db04d3" stylelabs-content-type="Image" alt="WhitePaper_Icon.png" height="287" width="339" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "22c13feb-11cb-4bdb-98ec-fdba833e7801"
+    - ID: "a8bcba31-4191-4cf9-ba64-f3798feda127"
+      Hint: WhitePaperUrl
+      Value: |
+        <link text="VIEW" linktype="external" url="https://learn.aflglobal.com/white-papers" anchor="" target="_blank" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231110T064339Z
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "20f6351d-0af4-4496-a415-e31a14f5cca5"
+      Hint: WhitePaperName
+      Value: Download White Papers
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211220T113147Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\archana
+    - ID: "6b01e138-84c2-4ab8-adda-ab41e659fafd"
+      Hint: WhitePaperCategory
+      Value: White Paper
+    - ID: "6c7e6fdc-655d-48ad-81e3-83fad57a73eb"
+      Hint: WhitePaperImage
+      Value: |
+        <image mediaid="{CF3F3C45-2F4A-45F6-83DA-275974948879}" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2c578342-1cdd-4be2-a634-5d2c1a4d44f4"
+    - ID: "a8bcba31-4191-4cf9-ba64-f3798feda127"
+      Hint: WhitePaperUrl
+      Value: |
+        <link text="VIEW" linktype="external" url="https://learn.aflglobal.com/white-papers" anchor="" target="_blank" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahesh
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220215T094852Z
+  - Version: 2
+    Fields:
+    - ID: "20f6351d-0af4-4496-a415-e31a14f5cca5"
+      Hint: WhitePaperName
+      Value: Download White Papers
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211220T113147Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\archana
+    - ID: "6b01e138-84c2-4ab8-adda-ab41e659fafd"
+      Hint: WhitePaperCategory
+      Value: White Paper
+    - ID: "6c7e6fdc-655d-48ad-81e3-83fad57a73eb"
+      Hint: WhitePaperImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="237957" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/237957/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/9b785757f7ce43d2b401a95527956727?v=e3db04d3" stylelabs-content-type="Image" alt="WhitePaper_Icon.png" height="287" width="339" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "39f8661e-c6d3-4ebc-b141-d447c998bc83"
+    - ID: "a8bcba31-4191-4cf9-ba64-f3798feda127"
+      Hint: WhitePaperUrl
+      Value: |
+        <link text="VIEW" linktype="external" url="https://learn.aflglobal.com/white-papers" anchor="" target="_blank" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231110T064339Z

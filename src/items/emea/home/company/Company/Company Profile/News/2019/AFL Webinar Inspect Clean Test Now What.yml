@@ -1,0 +1,322 @@
+﻿---
+ID: "a28d433d-63ec-4be4-85d2-f9c6713c6f8c"
+Parent: "5a54194e-f462-429e-874d-34bfe14f9989"
+Template: "f36e821e-bb98-44dc-966d-e92a0e033cc7"
+Path: "/sitecore/content/AFL-Global/EMEA/Home/Company/Company Profile/News/2019/AFL Webinar Inspect Clean Test Now What"
+SharedFields:
+- ID: "1fbc6a49-6281-48ee-87e9-a3970b145adb"
+  Hint: NavigationFilter
+  Value: |
+    {E0A2A027-0932-4878-A7D6-0416D5263EFB}
+    {61BD64D6-809E-40AE-9297-2724A19329B3}
+    {D063E9D1-C7B5-4B1E-B31E-69886C9C59F5}
+    {500AE4C0-FA7B-463F-8149-EFFF7F044101}
+    {A0E7FF57-6994-4B09-AA21-104239628D5A}
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{3A84BAC9-C1BD-4809-A12C-28EB44E25329}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{DAE7C21D-4D3B-4257-A95C-9104CD8AF409}"
+Languages:
+- Language: "de-DE"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "228f9517-e120-4014-b2c7-df0ac467a349"
+      Hint: ContentTitle
+      Value: "AFL Webinar: Inspect, Clean, Test… Now What"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211207T055327Z
+    - ID: "3688d7df-2feb-43a4-ab8d-410e5f70a676"
+      Hint: ContentDescription
+      Value: |
+        <p>Spartanburg, SC – <a href="http://www.aflglobal.com/">AFL</a>, an international manufacturer of fiber optic cable, connectivity and accessories, is hosting a <a href="http://content.aflglobal.com/Register-for-Webinars.html">webinar series</a> which started in August and is concluding in November. Join us to learn about the new and unique solutions AFL has to offer for the energy market. This series is ideal for transmission line engineers, telecom/network engineers, standards engineers, project engineers, transmission and distribution engineering managers, and fiber and communications technicians.<br />
+        <br />
+        The last of a four-webinar series, Inspect, Clean, Test… Now What? will cover how utilities are applying fiber networks to monitor and manage utility assets, as well as deliver broadband services to underserved municipalities and rural communities. This session identifies key physical network issues leading to poor optical network performance, the unique challenges FTTH PONs present, and how to prevent or overcome those challenges using connector inspection and cleaning tools, light sources and power meters, OTDRs and optical fiber identifiers.<br />
+        <br />
+        When:             Wednesday, November 20, 2:00 p.m. – 3:00 p.m.<br />
+        Who:               Michael Scholten, Senior Product Marketing Manager, Test and Inspection<br />
+        How:               Online - <a href="http://content.aflglobal.com/Register-for-Webinars.html">register here</a></p>
+        <p>About the speaker<br />
+        Michael Scholten is a Senior Product Marketing Manager for AFL Test and Inspection. with over 20 years of experience in fiber optic network test, including product marketing, systems engineering, project management, hardware and software development, he also has experience in FTTH PON, Ethernet, OTN and SDH at data rates up to 100 Gb/s. Michael holds a BSEE from Michigan Technological University and represents AFL in TIA fiber-related standardization activities.<br />
+        <br />
+        Contacts<br />
+        Adam Harrison, Solutions Manager<br />
+        AFL<br />
+        864.433.5536<br />
+        <a href="mailto:Adam.Harrison@AFLglobal.com">Adam.Harrison@AFLglobal.com</a><br />
+         <br />
+        Corie Culp, Public Relations Manager<br />
+        AFL<br />
+        864.433.5409<br />
+        <a href="mailto:Corie.Culp@AFLglobal.com">Corie.Culp@AFLglobal.com</a><br />
+        <br />
+        About AFL<br />
+        Founded in 1984, AFL is an international manufacturer providing end-to-end solutions to the energy, service provider, enterprise and industrial markets as well as several emerging markets. The company’s products are in use in over 130 countries and include fiber optic cable and hardware, transmission and substation accessories, outside plant equipment, connectivity, test and inspection equipment, fusion splicers and training. AFL also offers a wide variety of services supporting data center, enterprise, wireless and outside plant applications.<br />
+        <br />
+        Headquartered in Spartanburg, SC, AFL has operations in the U.S., Mexico, Canada, Europe, Asia and Australia, and is a wholly-owned subsidiary of Fujikura Ltd. of Japan. For more information, visit <a href="http://www.aflglobal.com/">www.AFLglobal.com</a>. Follow us on <a href="https://www.linkedin.com/company/afl-2">LinkedIn</a>, <a href="https://twitter.com/AFLglobal">Twitter</a>, and “like us” on <a href="https://www.facebook.com/AFLcorp">Facebook</a>. Review our <a href="https://www.aflglobal.com/AFL-Blog/">blog</a> or subscribe to our bi-monthly e-newsletter.</p>
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4c3792cf-8348-4d85-9cac-3f6086716488"
+      Hint: ContentCategory
+      Value: "{F78EA78A-E127-49A5-95B6-7DE64F85F319}"
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: AFL Webinar Inspect Clean Test Now What
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\matt
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\matt
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: AFL Webinar Inspect Clean Test Now What
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: AFL Webinar Inspect Clean Test Now What
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "49a5fe46-403f-4bb9-af09-aa40eb7e10a9"
+    - ID: "9dd4f0d9-c123-47a8-8cef-2c85cea172f6"
+      Hint: ContentImage
+      Value: |
+        <image mediaid="{5362966F-CB82-4D2E-ADD2-A22B63FECD8B}" />
+    - ID: "a6eaffd5-fc3e-41b4-93b3-f1721fcf2300"
+      Hint: ContentPublishedDate
+      Value: 20191117T183000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T100030Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "228f9517-e120-4014-b2c7-df0ac467a349"
+      Hint: ContentTitle
+      Value: "AFL Webinar: Inspect, Clean, Test… Now What"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211207T055327Z
+    - ID: "3688d7df-2feb-43a4-ab8d-410e5f70a676"
+      Hint: ContentDescription
+      Value: |
+        <p>Spartanburg, SC &ndash;&nbsp;<a href="http://www.aflglobal.com/">AFL</a>, an international manufacturer of fiber optic cable, connectivity and accessories, is hosting a&nbsp;<a href="http://content.aflglobal.com/Register-for-Webinars.html">webinar series</a>&nbsp;which started in August and is concluding in November. Join us to learn about the new and unique solutions AFL has to offer for the energy market. This series is ideal for transmission line engineers, telecom/network engineers, standards engineers, project engineers, transmission and distribution engineering managers, and fiber and communications technicians.<br />
+        <br />
+        The last of a four-webinar series,&nbsp;Inspect, Clean, Test&hellip; Now What?&nbsp;will cover how utilities are applying fiber networks to monitor and manage utility assets, as well as deliver broadband services to underserved municipalities and rural communities. This session identifies key physical network issues leading to poor optical network performance, the unique challenges FTTH PONs present, and how to prevent or overcome those challenges using connector inspection and cleaning tools, light sources and power meters, OTDRs and optical fiber identifiers.<br />
+        <br />
+        When: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Wednesday, November 20, 2:00 p.m. &ndash; 3:00 p.m.<br />
+        Who: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Michael Scholten, Senior Product Marketing Manager,&nbsp;Test and Inspection<br />
+        How:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Online -&nbsp;<a href="http://content.aflglobal.com/Register-for-Webinars.html">register here</a></p>
+        <p>About the speaker<br />
+        Michael Scholten is a Senior Product Marketing Manager for AFL Test and Inspection. with over 20 years of experience in fiber optic network test, including product marketing, systems engineering, project management, hardware and software development, he also has experience in FTTH PON, Ethernet, OTN and SDH at data rates up to 100 Gb/s. Michael holds a BSEE from Michigan Technological University and represents AFL in TIA fiber-related standardization activities.<br />
+        <br />
+        Contacts<br />
+        Adam Harrison, Solutions Manager<br />
+        AFL<br />
+        864.433.5536<br />
+        <a href="mailto:Adam.Harrison@AFLglobal.com">Adam.Harrison@AFLglobal.com</a><br />
+        &nbsp;<br />
+        Corie Culp, Public Relations Manager<br />
+        AFL<br />
+        864.433.5409<br />
+        <a href="mailto:Corie.Culp@AFLglobal.com">Corie.Culp@AFLglobal.com</a><br />
+        <br />
+        About AFL<br />
+        Founded in 1984, AFL is an international manufacturer providing end-to-end solutions to the energy, service provider, enterprise and industrial markets as well as several emerging markets. The company&rsquo;s products are in use in over 130 countries and include fiber optic cable and hardware, transmission and substation accessories, outside plant equipment, connectivity, test and inspection equipment, fusion splicers and training. AFL also offers a wide variety of services supporting data center, enterprise, wireless and outside plant applications.<br />
+        <br />
+        Headquartered in Spartanburg, SC, AFL has operations in the U.S., Mexico, Canada, Europe, Asia and Australia, and is a wholly-owned subsidiary of Fujikura Ltd. of Japan. For more information, visit&nbsp;<a href="http://www.aflglobal.com/">www.AFLglobal.com</a>.&nbsp;Follow us on&nbsp;<a href="https://www.linkedin.com/company/afl-2">LinkedIn</a>,&nbsp;<a href="https://twitter.com/AFLglobal">Twitter</a>, and &ldquo;like us&rdquo; on&nbsp;<a href="https://www.facebook.com/AFLcorp">Facebook</a>. Review our&nbsp;<a href="https://www.aflglobal.com/AFL-Blog/">blog</a>&nbsp;or&nbsp;subscribe&nbsp;to our bi-monthly e-newsletter.</p>
+    - ID: "4c3792cf-8348-4d85-9cac-3f6086716488"
+      Hint: ContentCategory
+      Value: "{F78EA78A-E127-49A5-95B6-7DE64F85F319}"
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: AFL Webinar Inspect Clean Test Now What
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: AFL Webinar Inspect Clean Test Now What
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: AFL Webinar Inspect Clean Test Now What
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ae156f59-978b-44e0-b026-8b2879c0d363"
+    - ID: "9dd4f0d9-c123-47a8-8cef-2c85cea172f6"
+      Hint: ContentImage
+      Value: |
+        <image mediaid="{5362966F-CB82-4D2E-ADD2-A22B63FECD8B}" />
+    - ID: "a6eaffd5-fc3e-41b4-93b3-f1721fcf2300"
+      Hint: ContentPublishedDate
+      Value: 20191117T183000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T100029Z
+- Language: "es-ES"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "228f9517-e120-4014-b2c7-df0ac467a349"
+      Hint: ContentTitle
+      Value: "AFL Webinar: Inspect, Clean, Test… Now What"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211207T055327Z
+    - ID: "3688d7df-2feb-43a4-ab8d-410e5f70a676"
+      Hint: ContentDescription
+      Value: |
+        <p>Spartanburg, SC – <a href="http://www.aflglobal.com/">AFL</a>, an international manufacturer of fiber optic cable, connectivity and accessories, is hosting a <a href="http://content.aflglobal.com/Register-for-Webinars.html">webinar series</a> which started in August and is concluding in November. Join us to learn about the new and unique solutions AFL has to offer for the energy market. This series is ideal for transmission line engineers, telecom/network engineers, standards engineers, project engineers, transmission and distribution engineering managers, and fiber and communications technicians.<br />
+        <br />
+        The last of a four-webinar series, Inspect, Clean, Test… Now What? will cover how utilities are applying fiber networks to monitor and manage utility assets, as well as deliver broadband services to underserved municipalities and rural communities. This session identifies key physical network issues leading to poor optical network performance, the unique challenges FTTH PONs present, and how to prevent or overcome those challenges using connector inspection and cleaning tools, light sources and power meters, OTDRs and optical fiber identifiers.<br />
+        <br />
+        When:             Wednesday, November 20, 2:00 p.m. – 3:00 p.m.<br />
+        Who:               Michael Scholten, Senior Product Marketing Manager, Test and Inspection<br />
+        How:               Online - <a href="http://content.aflglobal.com/Register-for-Webinars.html">register here</a></p>
+        <p>About the speaker<br />
+        Michael Scholten is a Senior Product Marketing Manager for AFL Test and Inspection. with over 20 years of experience in fiber optic network test, including product marketing, systems engineering, project management, hardware and software development, he also has experience in FTTH PON, Ethernet, OTN and SDH at data rates up to 100 Gb/s. Michael holds a BSEE from Michigan Technological University and represents AFL in TIA fiber-related standardization activities.<br />
+        <br />
+        Contacts<br />
+        Adam Harrison, Solutions Manager<br />
+        AFL<br />
+        864.433.5536<br />
+        <a href="mailto:Adam.Harrison@AFLglobal.com">Adam.Harrison@AFLglobal.com</a><br />
+         <br />
+        Corie Culp, Public Relations Manager<br />
+        AFL<br />
+        864.433.5409<br />
+        <a href="mailto:Corie.Culp@AFLglobal.com">Corie.Culp@AFLglobal.com</a><br />
+        <br />
+        About AFL<br />
+        Founded in 1984, AFL is an international manufacturer providing end-to-end solutions to the energy, service provider, enterprise and industrial markets as well as several emerging markets. The company’s products are in use in over 130 countries and include fiber optic cable and hardware, transmission and substation accessories, outside plant equipment, connectivity, test and inspection equipment, fusion splicers and training. AFL also offers a wide variety of services supporting data center, enterprise, wireless and outside plant applications.<br />
+        <br />
+        Headquartered in Spartanburg, SC, AFL has operations in the U.S., Mexico, Canada, Europe, Asia and Australia, and is a wholly-owned subsidiary of Fujikura Ltd. of Japan. For more information, visit <a href="http://www.aflglobal.com/">www.AFLglobal.com</a>. Follow us on <a href="https://www.linkedin.com/company/afl-2">LinkedIn</a>, <a href="https://twitter.com/AFLglobal">Twitter</a>, and “like us” on <a href="https://www.facebook.com/AFLcorp">Facebook</a>. Review our <a href="https://www.aflglobal.com/AFL-Blog/">blog</a> or subscribe to our bi-monthly e-newsletter.</p>
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4c3792cf-8348-4d85-9cac-3f6086716488"
+      Hint: ContentCategory
+      Value: "{F78EA78A-E127-49A5-95B6-7DE64F85F319}"
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: AFL Webinar Inspect Clean Test Now What
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\matt
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\matt
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: AFL Webinar Inspect Clean Test Now What
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: AFL Webinar Inspect Clean Test Now What
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ab82e695-3d91-44d7-afbf-b3d655a497a6"
+    - ID: "9dd4f0d9-c123-47a8-8cef-2c85cea172f6"
+      Hint: ContentImage
+      Value: |
+        <image mediaid="{5362966F-CB82-4D2E-ADD2-A22B63FECD8B}" />
+    - ID: "a6eaffd5-fc3e-41b4-93b3-f1721fcf2300"
+      Hint: ContentPublishedDate
+      Value: 20191117T183000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T100030Z
+- Language: "fr-FR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "228f9517-e120-4014-b2c7-df0ac467a349"
+      Hint: ContentTitle
+      Value: "AFL Webinar: Inspect, Clean, Test… Now What"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211207T055327Z
+    - ID: "3688d7df-2feb-43a4-ab8d-410e5f70a676"
+      Hint: ContentDescription
+      Value: |
+        <p>Spartanburg, SC – <a href="http://www.aflglobal.com/">AFL</a>, an international manufacturer of fiber optic cable, connectivity and accessories, is hosting a <a href="http://content.aflglobal.com/Register-for-Webinars.html">webinar series</a> which started in August and is concluding in November. Join us to learn about the new and unique solutions AFL has to offer for the energy market. This series is ideal for transmission line engineers, telecom/network engineers, standards engineers, project engineers, transmission and distribution engineering managers, and fiber and communications technicians.<br />
+        <br />
+        The last of a four-webinar series, Inspect, Clean, Test… Now What? will cover how utilities are applying fiber networks to monitor and manage utility assets, as well as deliver broadband services to underserved municipalities and rural communities. This session identifies key physical network issues leading to poor optical network performance, the unique challenges FTTH PONs present, and how to prevent or overcome those challenges using connector inspection and cleaning tools, light sources and power meters, OTDRs and optical fiber identifiers.<br />
+        <br />
+        When:             Wednesday, November 20, 2:00 p.m. – 3:00 p.m.<br />
+        Who:               Michael Scholten, Senior Product Marketing Manager, Test and Inspection<br />
+        How:               Online - <a href="http://content.aflglobal.com/Register-for-Webinars.html">register here</a></p>
+        <p>About the speaker<br />
+        Michael Scholten is a Senior Product Marketing Manager for AFL Test and Inspection. with over 20 years of experience in fiber optic network test, including product marketing, systems engineering, project management, hardware and software development, he also has experience in FTTH PON, Ethernet, OTN and SDH at data rates up to 100 Gb/s. Michael holds a BSEE from Michigan Technological University and represents AFL in TIA fiber-related standardization activities.<br />
+        <br />
+        Contacts<br />
+        Adam Harrison, Solutions Manager<br />
+        AFL<br />
+        864.433.5536<br />
+        <a href="mailto:Adam.Harrison@AFLglobal.com">Adam.Harrison@AFLglobal.com</a><br />
+         <br />
+        Corie Culp, Public Relations Manager<br />
+        AFL<br />
+        864.433.5409<br />
+        <a href="mailto:Corie.Culp@AFLglobal.com">Corie.Culp@AFLglobal.com</a><br />
+        <br />
+        About AFL<br />
+        Founded in 1984, AFL is an international manufacturer providing end-to-end solutions to the energy, service provider, enterprise and industrial markets as well as several emerging markets. The company’s products are in use in over 130 countries and include fiber optic cable and hardware, transmission and substation accessories, outside plant equipment, connectivity, test and inspection equipment, fusion splicers and training. AFL also offers a wide variety of services supporting data center, enterprise, wireless and outside plant applications.<br />
+        <br />
+        Headquartered in Spartanburg, SC, AFL has operations in the U.S., Mexico, Canada, Europe, Asia and Australia, and is a wholly-owned subsidiary of Fujikura Ltd. of Japan. For more information, visit <a href="http://www.aflglobal.com/">www.AFLglobal.com</a>. Follow us on <a href="https://www.linkedin.com/company/afl-2">LinkedIn</a>, <a href="https://twitter.com/AFLglobal">Twitter</a>, and “like us” on <a href="https://www.facebook.com/AFLcorp">Facebook</a>. Review our <a href="https://www.aflglobal.com/AFL-Blog/">blog</a> or subscribe to our bi-monthly e-newsletter.</p>
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4c3792cf-8348-4d85-9cac-3f6086716488"
+      Hint: ContentCategory
+      Value: "{F78EA78A-E127-49A5-95B6-7DE64F85F319}"
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: AFL Webinar Inspect Clean Test Now What
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\matt
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\matt
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: AFL Webinar Inspect Clean Test Now What
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: AFL Webinar Inspect Clean Test Now What
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1846b437-3bde-46a7-b623-3cbb480a9650"
+    - ID: "9dd4f0d9-c123-47a8-8cef-2c85cea172f6"
+      Hint: ContentImage
+      Value: |
+        <image mediaid="{5362966F-CB82-4D2E-ADD2-A22B63FECD8B}" />
+    - ID: "a6eaffd5-fc3e-41b4-93b3-f1721fcf2300"
+      Hint: ContentPublishedDate
+      Value: 20191117T183000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T100029Z

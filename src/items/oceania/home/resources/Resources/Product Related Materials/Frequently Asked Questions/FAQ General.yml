@@ -1,0 +1,81 @@
+﻿---
+ID: "f3426a28-e8f6-40f8-8909-5f5179e9f937"
+Parent: "abed8a09-62a0-491b-bb21-9a97d2b687e5"
+Template: "bf61de11-b78f-48ea-aaa4-1d17f0d83824"
+Path: "/sitecore/content/AFL-Global/OCEANIA/Home/Resources/Product Related Materials/Frequently Asked Questions/FAQ General"
+SharedFields:
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{EDC9686A-85F3-466E-8E7E-3D28540B77AB}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220125T100336Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: FAQ General
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kushagra
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: Here we provide general definitions of AFL and industry terminology.
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <h1>FAQ: General</h1>
+        <p>Please reference the definitons below to gain a better understanding of our individual product lines. If you have any questions please <a href=" /Contact ">contact us</a>. <br />
+        <br />
+        <a href="/Products/Fiber-Optic-Cable ">Fiber Optic Cable</a><br />
+        AFL Fiber Optic Cable solutions are used in various environments, including those above ground, and even those underwater. Our cables include Optical Ground Wire (OPGW), All-Dielectric Self-Supporting (ADSS), Enterprise Cable, Loose Tube and Specialty Cables.<br />
+        <br />
+        <a href="/Products/Fiber-Optic-Connectivity">Fiber Optic Connectivity</a><br />
+        With decades of experience, AFL’s fiber connectivity products are tried and tested like no others. AFL’s experience in the field is proven success that you can count on for products you deploy now and in the future.<br />
+        <br />
+        <a href="/Products/Copper-Apparatus ">Conductor Accessories</a><br />
+        Suited for electric power utilities and rail companies, AFL’s conductor accessories improve the reliability of critical electrical and optical infrastructure used for the transmission and distribution of electricity. Products include substation accessories, transmission accessories, network underground accessories, motion control and fiber optic cable hardware.<br />
+        <br />
+        <a href="/Products/Test-and-Inspection ">Test and Inspection</a><br />
+        AFL’s Test and Inspection products are designed to provide accurate test results while enduring various environments including outside plant environments. The product line includes optical time domain reflectometers (OTDRs), loss test kits, inspection and cleaning, fiber identifiers, fault locators and more.<br />
+        <br />
+        <a href="/Products/Fusion-Splicing ">Fusion Splicing</a><br />
+        AFL’s fusion splicing solutions include splicing equipment for field and specialty applications. Field solutions include single fiber, ribbon and FTTx splicing applications. Specialty solutions include the ARCMaster® series and laser splicer ideally suited for R&D and production requirements.<br />
+        <br />
+        <a href="/Products/Specialty-Optical-Fiber ">Specialty Optical Fiber </a><br />
+        Our fibers are the preferred solution of specialty optical fibers for the oil and gas, military, industrial and communication markets, and are designed to be used for harsh environments, specialty applications, polarization-maintaining and communication fibers.<br />
+        <br />
+        <a href="/Products/Aluminum-Clad-Steel ">Aluminum Clad Steel</a><br />
+        Manufactured with high-purity compacted aluminum powder, the finished wire provides superior corrosion resistance, high tensile strength and uninterrupted electrical conductivity. Products include guy wire, messenger wire, formed wire, antenna and overhead ground wire.  </p>
+        <p><a href="/Products/Rail-Transit-Systems ">Rail Transit Systems</a><br />
+        AFL provides cabling systems that optimize network infrastructure and meet specific application needs. We offer aerial self-supporting installations, loose tube cables for installation in underground ducts and aluminum interlock armored cables that allow for direct installation within tunnels and stations.<br />
+        <br />
+        <a href="/Products/Copper-Apparatus ">Copper Apparatus</a><br />
+        AFL’s copper apparatus products include telecommunication demarcation products, network interface devices (NIDs), enclosures, line modules and passive electronics.</p>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kushagra
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: AFL definitions terminology general frequently asked questions FAQ
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: FAQ General
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: FAQ General
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "43c46b07-5ffb-4204-bf90-633a21ba0a1d"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T093750Z

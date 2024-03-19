@@ -1,0 +1,236 @@
+﻿---
+ID: "181d60ba-2b54-475f-8d99-5e3757293370"
+Parent: "54b4fda9-8858-4e21-8349-746ede75213b"
+Template: "011c02ab-49e7-41f0-8719-03034390bc25"
+Path: "/sitecore/content/AFL-Global/EMEA/Data/AFL Product Detail Folder/Services Details/Services Offerings Details/Enterprise Services Details/Markets Details/Service Providers Details"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 900
+Languages:
+- Language: "de-DE"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211124T151426Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <p>Today&rsquo;s application driven, internet based cloud environments are causing service providers to revisit and roll out new architectures.</p>
+        <p>Delivering the exceptional value that your subscribers and customers expect starts with strong partnerships. A broad network of mutually beneficial alliances empowers service providers to deliver the creative solutions that meet these unique customer needs, as well as a commitment to innovation and collaboration. This is accomplished by partnering with select companies in various business verticals to help deliver these powerful solutions.</p>
+        <p>As such a partner, AFL understands the demands on today&rsquo;s service providers. Our staff are specifically trained and operate as an extension to provide implementation and support services and customer integration solutions for our customers.</p>
+        <h2>Services</h2>
+        <ul style="color: #333333; background-color: #ffffff; list-style-image: url('https://www.aflglobal.com/productionFiles/images/bulletRound.aspx');">
+            <li><a href="https://www.aflglobal.com/Services/Solutions/Structured-Cabling.aspx" style="color: #0091ea; background-color: transparent;"><strong>Structured Cabling</strong></a>- Firmly established as fiber optic specialists, this expertise remains at the heart of our service offering to clients. Our team understands the intricate nature of cabling and can build organized connections that have capacity in the thousands. Having an organized system that is easily secured, tested, and labelled is the difference between success and failure in meeting your communications and connectivity needs.</li>
+            <li><strong>Equipment Rack &amp; Stack</strong>- The most basic concept in service provider implementation is the physical placement of hardware inside a data center or central office facility; or as IT professionals like to call it, the &ldquo;rack and stacking&rdquo; of hardware into cabinets and racks. It is an elementary procedure, but if it is done incorrectly or taken lightly, the end result of a project could be disastrous. Our trained experts will take care of the whole process for you. They will design the rack, mount your gear, patch your rack, verify high-availability configuration, and power up your equipment. To simplify ongoing support, upon deployment, complete documentation and digital pictures of the entire installation will be provided.</li>
+            <li><a href="https://www.aflglobal.com/Services/Solutions/Distributed-Antenna-Systems-DAS.aspx" style="color: #0091ea; background-color: transparent;"><strong>Distributed Antenna Systems (DAS)</strong></a>-As a leading DAS (distributed antenna systems) solutions integrator, we integrate with the largest service providers today. Our team strategically installs system components for maximized coverage, delivering best-in-class signal performance exceeding customer expectations and code requirements.</li>
+            <li><a href="https://www.aflglobal.com/Services/Solutions/Small-Cell-and-Public-Safety-Solutions.aspx" style="color: #0091ea; background-color: transparent;"><strong>Small Cell Infrastructure</strong></a>-As a certified integrator of small cell systems, AFL is proud to actively deploy systems for service providers&rsquo; enterprise clients.</li>
+            <li><a href="https://www.aflglobal.com/Services/Contact-Us.aspx" style="color: #0091ea; background-color: transparent;"><strong>24/7 professional support</strong></a>- Our dedicated service and support professionals are focused on providing your company and clients the reliable, high-quality service and support you expect and deserve. You can rest easy knowing our expert teams are available 24/7 to keep your business operating at peak efficiency.</li>
+        </ul>
+    - ID: "5d336bce-e421-4fe8-ad55-214f80d841ad"
+      Hint: "Sub-Heading"
+      Value: "Service Providers sub-heading"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "83e66454-7ea4-47d0-b0bb-03d818b850fa"
+    - ID: "ab91d39b-30ad-4050-acef-07c741146fcc"
+      Hint: Heading
+      Value: Service Providers heading
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahesh
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220314T112119Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211124T151426Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <p>Today&rsquo;s application driven, internet based cloud environments are causing service providers to revisit and roll out new architectures.</p>
+        <p>Delivering the exceptional value that your subscribers and customers expect starts with strong partnerships. A broad network of mutually beneficial alliances empowers service providers to deliver the creative solutions that meet these unique customer needs, as well as a commitment to innovation and collaboration. This is accomplished by partnering with select companies in various business verticals to help deliver these powerful solutions.</p>
+        <p>As such a partner, AFL understands the demands on today&rsquo;s service providers. Our staff are specifically trained and operate as an extension to provide implementation and support services and customer integration solutions for our customers.</p>
+        <h2>Services</h2>
+        <ul style="color: #333333; background-color: #ffffff; list-style-image: url('https://www.aflglobal.com/productionFiles/images/bulletRound.aspx');">
+            <li><a href="https://www.aflglobal.com/Services/Solutions/Structured-Cabling.aspx" style="color: #0091ea; background-color: transparent;"><strong>Structured Cabling</strong></a>- Firmly established as fiber optic specialists, this expertise remains at the heart of our service offering to clients. Our team understands the intricate nature of cabling and can build organized connections that have capacity in the thousands. Having an organized system that is easily secured, tested, and labelled is the difference between success and failure in meeting your communications and connectivity needs.</li>
+            <li><strong>Equipment Rack &amp; Stack</strong>- The most basic concept in service provider implementation is the physical placement of hardware inside a data center or central office facility; or as IT professionals like to call it, the &ldquo;rack and stacking&rdquo; of hardware into cabinets and racks. It is an elementary procedure, but if it is done incorrectly or taken lightly, the end result of a project could be disastrous. Our trained experts will take care of the whole process for you. They will design the rack, mount your gear, patch your rack, verify high-availability configuration, and power up your equipment. To simplify ongoing support, upon deployment, complete documentation and digital pictures of the entire installation will be provided.</li>
+            <li><a href="https://www.aflglobal.com/Services/Solutions/Distributed-Antenna-Systems-DAS.aspx" style="color: #0091ea; background-color: transparent;"><strong>Distributed Antenna Systems (DAS)</strong></a>-As a leading DAS (distributed antenna systems) solutions integrator, we integrate with the largest service providers today. Our team strategically installs system components for maximized coverage, delivering best-in-class signal performance exceeding customer expectations and code requirements.</li>
+            <li><a href="https://www.aflglobal.com/Services/Solutions/Small-Cell-and-Public-Safety-Solutions.aspx" style="color: #0091ea; background-color: transparent;"><strong>Small Cell Infrastructure</strong></a>-As a certified integrator of small cell systems, AFL is proud to actively deploy systems for service providers&rsquo; enterprise clients.</li>
+            <li><a href="https://www.aflglobal.com/Services/Contact-Us.aspx" style="color: #0091ea; background-color: transparent;"><strong>24/7 professional support</strong></a>- Our dedicated service and support professionals are focused on providing your company and clients the reliable, high-quality service and support you expect and deserve. You can rest easy knowing our expert teams are available 24/7 to keep your business operating at peak efficiency.</li>
+        </ul>
+    - ID: "5d336bce-e421-4fe8-ad55-214f80d841ad"
+      Hint: "Sub-Heading"
+      Value: "Service Providers sub-heading"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5d36f70e-7de7-4575-8472-83bd4cc7ddd7"
+    - ID: "ab91d39b-30ad-4050-acef-07c741146fcc"
+      Hint: Heading
+      Value: Service Providers heading
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20211124T171824Z
+- Language: "es-ES"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211124T151426Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <p>Today&rsquo;s application driven, internet based cloud environments are causing service providers to revisit and roll out new architectures.</p>
+        <p>Delivering the exceptional value that your subscribers and customers expect starts with strong partnerships. A broad network of mutually beneficial alliances empowers service providers to deliver the creative solutions that meet these unique customer needs, as well as a commitment to innovation and collaboration. This is accomplished by partnering with select companies in various business verticals to help deliver these powerful solutions.</p>
+        <p>As such a partner, AFL understands the demands on today&rsquo;s service providers. Our staff are specifically trained and operate as an extension to provide implementation and support services and customer integration solutions for our customers.</p>
+        <h2>Services</h2>
+        <ul style="color: #333333; background-color: #ffffff; list-style-image: url('https://www.aflglobal.com/productionFiles/images/bulletRound.aspx');">
+            <li><a href="https://www.aflglobal.com/Services/Solutions/Structured-Cabling.aspx" style="color: #0091ea; background-color: transparent;"><strong>Structured Cabling</strong></a>- Firmly established as fiber optic specialists, this expertise remains at the heart of our service offering to clients. Our team understands the intricate nature of cabling and can build organized connections that have capacity in the thousands. Having an organized system that is easily secured, tested, and labelled is the difference between success and failure in meeting your communications and connectivity needs.</li>
+            <li><strong>Equipment Rack &amp; Stack</strong>- The most basic concept in service provider implementation is the physical placement of hardware inside a data center or central office facility; or as IT professionals like to call it, the &ldquo;rack and stacking&rdquo; of hardware into cabinets and racks. It is an elementary procedure, but if it is done incorrectly or taken lightly, the end result of a project could be disastrous. Our trained experts will take care of the whole process for you. They will design the rack, mount your gear, patch your rack, verify high-availability configuration, and power up your equipment. To simplify ongoing support, upon deployment, complete documentation and digital pictures of the entire installation will be provided.</li>
+            <li><a href="https://www.aflglobal.com/Services/Solutions/Distributed-Antenna-Systems-DAS.aspx" style="color: #0091ea; background-color: transparent;"><strong>Distributed Antenna Systems (DAS)</strong></a>-As a leading DAS (distributed antenna systems) solutions integrator, we integrate with the largest service providers today. Our team strategically installs system components for maximized coverage, delivering best-in-class signal performance exceeding customer expectations and code requirements.</li>
+            <li><a href="https://www.aflglobal.com/Services/Solutions/Small-Cell-and-Public-Safety-Solutions.aspx" style="color: #0091ea; background-color: transparent;"><strong>Small Cell Infrastructure</strong></a>-As a certified integrator of small cell systems, AFL is proud to actively deploy systems for service providers&rsquo; enterprise clients.</li>
+            <li><a href="https://www.aflglobal.com/Services/Contact-Us.aspx" style="color: #0091ea; background-color: transparent;"><strong>24/7 professional support</strong></a>- Our dedicated service and support professionals are focused on providing your company and clients the reliable, high-quality service and support you expect and deserve. You can rest easy knowing our expert teams are available 24/7 to keep your business operating at peak efficiency.</li>
+        </ul>
+    - ID: "5d336bce-e421-4fe8-ad55-214f80d841ad"
+      Hint: "Sub-Heading"
+      Value: "Service Providers sub-heading"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "28d4d9ad-8887-4ea9-8f41-a261d5f83ac4"
+    - ID: "ab91d39b-30ad-4050-acef-07c741146fcc"
+      Hint: Heading
+      Value: Service Providers heading
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahesh
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220207T113527Z
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211124T151426Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <p>Today&rsquo;s application driven, internet based cloud environments are causing service providers to revisit and roll out new architectures.</p>
+        <p>Delivering the exceptional value that your subscribers and customers expect starts with strong partnerships. A broad network of mutually beneficial alliances empowers service providers to deliver the creative solutions that meet these unique customer needs, as well as a commitment to innovation and collaboration. This is accomplished by partnering with select companies in various business verticals to help deliver these powerful solutions.</p>
+        <p>As such a partner, AFL understands the demands on today&rsquo;s service providers. Our staff are specifically trained and operate as an extension to provide implementation and support services and customer integration solutions for our customers.</p>
+        <h2>Services</h2>
+        <ul style="color: #333333; background-color: #ffffff; list-style-image: url('https://www.aflglobal.com/productionFiles/images/bulletRound.aspx');">
+            <li><a href="https://www.aflglobal.com/Services/Solutions/Structured-Cabling.aspx" style="color: #0091ea; background-color: transparent;"><strong>Structured Cabling</strong></a>- Firmly established as fiber optic specialists, this expertise remains at the heart of our service offering to clients. Our team understands the intricate nature of cabling and can build organized connections that have capacity in the thousands. Having an organized system that is easily secured, tested, and labelled is the difference between success and failure in meeting your communications and connectivity needs.</li>
+            <li><strong>Equipment Rack &amp; Stack</strong>- The most basic concept in service provider implementation is the physical placement of hardware inside a data center or central office facility; or as IT professionals like to call it, the &ldquo;rack and stacking&rdquo; of hardware into cabinets and racks. It is an elementary procedure, but if it is done incorrectly or taken lightly, the end result of a project could be disastrous. Our trained experts will take care of the whole process for you. They will design the rack, mount your gear, patch your rack, verify high-availability configuration, and power up your equipment. To simplify ongoing support, upon deployment, complete documentation and digital pictures of the entire installation will be provided.</li>
+            <li><a href="https://www.aflglobal.com/Services/Solutions/Distributed-Antenna-Systems-DAS.aspx" style="color: #0091ea; background-color: transparent;"><strong>Distributed Antenna Systems (DAS)</strong></a>-As a leading DAS (distributed antenna systems) solutions integrator, we integrate with the largest service providers today. Our team strategically installs system components for maximized coverage, delivering best-in-class signal performance exceeding customer expectations and code requirements.</li>
+            <li><a href="https://www.aflglobal.com/Services/Solutions/Small-Cell-and-Public-Safety-Solutions.aspx" style="color: #0091ea; background-color: transparent;"><strong>Small Cell Infrastructure</strong></a>-As a certified integrator of small cell systems, AFL is proud to actively deploy systems for service providers&rsquo; enterprise clients.</li>
+            <li><a href="https://www.aflglobal.com/Services/Contact-Us.aspx" style="color: #0091ea; background-color: transparent;"><strong>24/7 professional support</strong></a>- Our dedicated service and support professionals are focused on providing your company and clients the reliable, high-quality service and support you expect and deserve. You can rest easy knowing our expert teams are available 24/7 to keep your business operating at peak efficiency.</li>
+        </ul>
+    - ID: "5d336bce-e421-4fe8-ad55-214f80d841ad"
+      Hint: "Sub-Heading"
+      Value: "Service Providers sub-heading"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3981d508-e129-471b-9b4a-3c690aa8f6e3"
+    - ID: "ab91d39b-30ad-4050-acef-07c741146fcc"
+      Hint: Heading
+      Value: Service Providers heading
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahesh
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220314T114919Z
+- Language: "fr-FR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211124T151426Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <p>Today&rsquo;s application driven, internet based cloud environments are causing service providers to revisit and roll out new architectures.</p>
+        <p>Delivering the exceptional value that your subscribers and customers expect starts with strong partnerships. A broad network of mutually beneficial alliances empowers service providers to deliver the creative solutions that meet these unique customer needs, as well as a commitment to innovation and collaboration. This is accomplished by partnering with select companies in various business verticals to help deliver these powerful solutions.</p>
+        <p>As such a partner, AFL understands the demands on today&rsquo;s service providers. Our staff are specifically trained and operate as an extension to provide implementation and support services and customer integration solutions for our customers.</p>
+        <h2>Services</h2>
+        <ul style="color: #333333; background-color: #ffffff; list-style-image: url('https://www.aflglobal.com/productionFiles/images/bulletRound.aspx');">
+            <li><a href="https://www.aflglobal.com/Services/Solutions/Structured-Cabling.aspx" style="color: #0091ea; background-color: transparent;"><strong>Structured Cabling</strong></a>- Firmly established as fiber optic specialists, this expertise remains at the heart of our service offering to clients. Our team understands the intricate nature of cabling and can build organized connections that have capacity in the thousands. Having an organized system that is easily secured, tested, and labelled is the difference between success and failure in meeting your communications and connectivity needs.</li>
+            <li><strong>Equipment Rack &amp; Stack</strong>- The most basic concept in service provider implementation is the physical placement of hardware inside a data center or central office facility; or as IT professionals like to call it, the &ldquo;rack and stacking&rdquo; of hardware into cabinets and racks. It is an elementary procedure, but if it is done incorrectly or taken lightly, the end result of a project could be disastrous. Our trained experts will take care of the whole process for you. They will design the rack, mount your gear, patch your rack, verify high-availability configuration, and power up your equipment. To simplify ongoing support, upon deployment, complete documentation and digital pictures of the entire installation will be provided.</li>
+            <li><a href="https://www.aflglobal.com/Services/Solutions/Distributed-Antenna-Systems-DAS.aspx" style="color: #0091ea; background-color: transparent;"><strong>Distributed Antenna Systems (DAS)</strong></a>-As a leading DAS (distributed antenna systems) solutions integrator, we integrate with the largest service providers today. Our team strategically installs system components for maximized coverage, delivering best-in-class signal performance exceeding customer expectations and code requirements.</li>
+            <li><a href="https://www.aflglobal.com/Services/Solutions/Small-Cell-and-Public-Safety-Solutions.aspx" style="color: #0091ea; background-color: transparent;"><strong>Small Cell Infrastructure</strong></a>-As a certified integrator of small cell systems, AFL is proud to actively deploy systems for service providers&rsquo; enterprise clients.</li>
+            <li><a href="https://www.aflglobal.com/Services/Contact-Us.aspx" style="color: #0091ea; background-color: transparent;"><strong>24/7 professional support</strong></a>- Our dedicated service and support professionals are focused on providing your company and clients the reliable, high-quality service and support you expect and deserve. You can rest easy knowing our expert teams are available 24/7 to keep your business operating at peak efficiency.</li>
+        </ul>
+    - ID: "5d336bce-e421-4fe8-ad55-214f80d841ad"
+      Hint: "Sub-Heading"
+      Value: "Service Providers sub-heading"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7d080f63-dc4f-4401-b33d-7860250bbb38"
+    - ID: "ab91d39b-30ad-4050-acef-07c741146fcc"
+      Hint: Heading
+      Value: Service Providers heading
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahesh
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220314T115654Z

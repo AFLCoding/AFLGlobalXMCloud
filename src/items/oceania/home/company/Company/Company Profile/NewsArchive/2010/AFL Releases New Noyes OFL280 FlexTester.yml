@@ -1,0 +1,86 @@
+﻿---
+ID: "5e4d820e-7298-4bb3-b296-27230fb6bf5b"
+Parent: "52d6a19b-3b0e-4535-a02d-9d3574c70535"
+Template: "f36e821e-bb98-44dc-966d-e92a0e033cc7"
+Path: "/sitecore/content/AFL-Global/OCEANIA/Home/Company/Company Profile/NewsArchive/2010/AFL Releases New Noyes OFL280 FlexTester"
+SharedFields:
+- ID: "1fbc6a49-6281-48ee-87e9-a3970b145adb"
+  Hint: NavigationFilter
+  Value: |
+    {E0A2A027-0932-4878-A7D6-0416D5263EFB}
+    {61BD64D6-809E-40AE-9297-2724A19329B3}
+    {D063E9D1-C7B5-4B1E-B31E-69886C9C59F5}
+    {500AE4C0-FA7B-463F-8149-EFFF7F044101}
+    {A0E7FF57-6994-4B09-AA21-104239628D5A}
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{3A84BAC9-C1BD-4809-A12C-28EB44E25329}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{DAE7C21D-4D3B-4257-A95C-9104CD8AF409}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "228f9517-e120-4014-b2c7-df0ac467a349"
+      Hint: ContentTitle
+      Value: AFL Releases New NOYES OFL280 FlexTester
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211202T103220Z
+    - ID: "3688d7df-2feb-43a4-ab8d-410e5f70a676"
+      Hint: ContentDescription
+      Value: |
+        Spartanburg, SC — AFL announces the introduction of the Noyes OFL280 FlexTester, a hand-held, multifunction OTDR and loss test set offering incomparable flexibility and exceptional value. With unmatched combinations of fiber optic test functions, ease-of-use and portability, all OFL280 FlexTester models include an integrated single-mode 1310/1550 nm OTDR with PON-optimized and standard test modes, optical power meter, 1310/1550 nm laser source and visual fault locator. The OFL280 FlexTester will replace or upgrade four existing OFL250/OFL280 models:<br />
+        <br />
+        FlexTester <br />
+        Model<span> </span>Wavelengths, Range<br />
+        and Special Features<span> </span>Will Replace <br />
+        or Upgrade<br />
+        OFL280-100<span> </span>1310/1550 nm, 34/32 dB<span> </span>OFL250 dual-wavelength<br />
+        OFL280-101<span> </span>1310/1550/1625 nm, 34/32/30 dB<span> </span>OFL250 triple-wavelength<br />
+        OFL280-102<span> </span>1310/1490/1550 nm, 34/32/32 dB<span> </span>Existing OFL280-102<br />
+        OFL280-103<span> </span>1310/1550/1625 nm, 34/32/30 dB with <br />
+        live fiber filter and FTTx PON meter<span> </span>Existing OFL280-103<br />
+         <br />
+        <br />
+        Operating at 1310/1550 nm, the OFL280-100 is suitable for certifying point-to-point or FTTx PON fibers, allowing the detection of macro bends. The OFL280-101 adds 1625 nm, allowing certification of the L-band for transport use. Testing at 1490 nm is required by some network operators to certify FTTx PONs, making the OFL280-102 the best choice. The filtered, three wavelength OFL280-103 certifies dark fibers at 1310/1550 nm, fault-locates live FTTx fibers at 1625 nm, and measures FTTx power levels at 1490 and 1550 nm, all from a single test port. All OFL280 FlexTester models can test through FTTx PON splitters!<br />
+        <br />
+        As with all Noyes OTDR's, test results may be saved as industry standard .SOR files, which can be transferred to a PC for viewing, printing and analysis using supplied Windows® compatible software.<br />
+        <br />
+        The enhanced-capability OFL280 FlexTester will replace comparable OFL250 and OFL280 models with no price increases. For additional information, visit www.AFLglobal.com.<br />
+        <br />
+        About AFL<br />
+        AFL is an industry leader in providing fiber optic products, engineering expertise and integrated services to the Electric Utility, Broadband, Telco, OEM, Private Network and Wireless markets. It has operations in the U.S., Mexico and the U.K. AFL is a division of Fujikura Ltd. of Japan.<br />
+        <br />
+        Contacts<br />
+        Chris Blair<br />
+        AFL<br />
+        603.528.7780<br />
+        chris.blair@aflglobal.com
+    - ID: "4c3792cf-8348-4d85-9cac-3f6086716488"
+      Hint: ContentCategory
+      Value: "{F78EA78A-E127-49A5-95B6-7DE64F85F319}"
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: AFL Releases New Noyes OFL280 FlexTester
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: AFL Releases New Noyes OFL280 FlexTester
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: AFL Releases New Noyes OFL280 FlexTester
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c554c08d-9632-4b0e-be55-cb4c79d0f5a2"
+    - ID: "a6eaffd5-fc3e-41b4-93b3-f1721fcf2300"
+      Hint: ContentPublishedDate
+      Value: 20100420T183000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T093911Z

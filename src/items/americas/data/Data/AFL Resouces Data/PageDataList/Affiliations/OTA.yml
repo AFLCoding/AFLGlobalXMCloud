@@ -1,0 +1,150 @@
+﻿---
+ID: "cc149e7b-89e2-4e1b-a55f-bb03c63ff924"
+Parent: "4ad5fe1b-c73a-493d-bb41-e70bc49de7e3"
+Template: "38f171ae-e199-410f-9a56-8e0e4433111e"
+Path: "/sitecore/content/AFL-Global/AMERICAS/Data/AFL Resouces Data/PageDataList/Affiliations/OTA"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0b2c42c5-a801-4d58-99a7-94d53aa09d34"
+      Hint: PageItemUrl
+      Value: |
+        <link text="Oregon Telecommunications Association (OTA)" linktype="external" url="https://www.ota-telecom.org/" anchor="" target="_blank" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211229T123316Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\harry
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\harry
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a84bb547-7a76-4462-ac7f-9d93950fc437"
+    - ID: "97cbee95-7bbc-42da-b0f5-3e15b4d914f0"
+      Hint: PageItemImage
+      Value: |
+        <image stylelabs-content-id="168158" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/168158/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/ota?v=6f1c9fd7" mediaid="" stylelabs-content-type="Image" alt="OTA.png" height="100" width="100" />
+    - ID: "a2b5de22-5ad8-4740-a215-0b022607eb8a"
+      Hint: PageItemName
+      Value: Oregon Telecommunications Association (OTA)
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rob
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220727T172122Z
+- Language: "es-MX"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0b2c42c5-a801-4d58-99a7-94d53aa09d34"
+      Hint: PageItemUrl
+      Value: |
+        <link linktype="external" url="https://www.ota-telecom.org/" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211229T123316Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\harry
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "cc66c18a-d83c-4713-8189-52458fcf016c"
+    - ID: "97cbee95-7bbc-42da-b0f5-3e15b4d914f0"
+      Hint: PageItemImage
+      Value: |
+        <image stylelabs-content-id="168158" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/168158/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/ota?v=8d0c8236" mediaid="" stylelabs-content-type="Image" alt="OTA.png" height="100" width="100" />
+    - ID: "a2b5de22-5ad8-4740-a215-0b022607eb8a"
+      Hint: PageItemName
+      Value: Oregon Telecommunications Association (OTA)
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rob
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220824T174255Z
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0b2c42c5-a801-4d58-99a7-94d53aa09d34"
+      Hint: PageItemUrl
+      Value: |
+        <link linktype="external" url="https://www.ota-telecom.org/" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211229T123316Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\harry
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "26bd2863-5fe5-4a8b-b918-72448a2d2b65"
+    - ID: "a2b5de22-5ad8-4740-a215-0b022607eb8a"
+      Hint: PageItemName
+      Value: OTA
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahesh
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220215T094911Z
+  - Version: 2
+    Fields:
+    - ID: "0b2c42c5-a801-4d58-99a7-94d53aa09d34"
+      Hint: PageItemUrl
+      Value: |
+        <link linktype="external" url="https://www.ota-telecom.org/" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211229T123316Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\harry
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "363b3fc8-1c9e-43f4-82ba-1d7aa6cfee3c"
+    - ID: "97cbee95-7bbc-42da-b0f5-3e15b4d914f0"
+      Hint: PageItemImage
+      Value: |
+        <image stylelabs-content-id="168158" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/168158/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/ota?v=6f1c9fd7" mediaid="" stylelabs-content-type="Image" alt="OTA.png" height="100" width="100" />
+    - ID: "a2b5de22-5ad8-4740-a215-0b022607eb8a"
+      Hint: PageItemName
+      Value: Oregon Telecommunications Association (OTA)
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rob
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220824T174232Z

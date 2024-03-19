@@ -1,0 +1,44 @@
+﻿---
+ID: "539badcf-ba52-4144-ad49-15a741efd6cf"
+Parent: "a8170184-e598-4852-8b66-d191b2ca3bc8"
+Template: "0ab05ec3-414e-43e1-a505-8ac2a9499c54"
+Path: "/sitecore/content/AFL-Global/APAC/Data/AFL-Hero Folder/AFL-Hero Services Items"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 400
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211101T140554Z
+    - ID: "3c953173-fa71-458e-9f7f-1ef450dea6e6"
+      Hint: Heading
+      Value: SERVICES
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c2760f67-9729-4eaa-b556-8a2550971718"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20211210T092723Z
+    - ID: "f1242e44-a2d9-45ac-aca1-9046e5880fc5"
+      Hint: Hero Items
+      Value: |
+        {41600B97-BDC2-43F9-A1F2-03920E56A84C}
+        {B928EE6F-2D3B-4348-9E28-962946073EF8}
+        {809ED95C-4497-4B55-938A-0D2DED3CC387}

@@ -1,0 +1,354 @@
+﻿---
+ID: "93f88113-e0e2-4611-b3e5-1d231306ef04"
+Parent: "87d93a23-c90b-4bd2-9a96-475d2f287f56"
+Template: "f36e821e-bb98-44dc-966d-e92a0e033cc7"
+Path: "/sitecore/content/AFL-Global/EMEA/Home/Company/Company Profile/News/2020/AFL Launches ROGUE OLTS Certifier"
+SharedFields:
+- ID: "1fbc6a49-6281-48ee-87e9-a3970b145adb"
+  Hint: NavigationFilter
+  Value: |
+    {E0A2A027-0932-4878-A7D6-0416D5263EFB}
+    {61BD64D6-809E-40AE-9297-2724A19329B3}
+    {D063E9D1-C7B5-4B1E-B31E-69886C9C59F5}
+    {500AE4C0-FA7B-463F-8149-EFFF7F044101}
+    {A0E7FF57-6994-4B09-AA21-104239628D5A}
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{3A84BAC9-C1BD-4809-A12C-28EB44E25329}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{DAE7C21D-4D3B-4257-A95C-9104CD8AF409}"
+Languages:
+- Language: "de-DE"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "228f9517-e120-4014-b2c7-df0ac467a349"
+      Hint: ContentTitle
+      Value: AFL Launches ROGUE® OLTS Certifier
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211206T131252Z
+    - ID: "3688d7df-2feb-43a4-ab8d-410e5f70a676"
+      Hint: ContentDescription
+      Value: |
+        <div>Westford, MA and Spartanburg, SC – <a href="http://www.aflglobal.com/">AFL</a>, a manufacturer of fiber optic cable, accessories and equipment, is launching the <a href="~/link.aspx?_id=B307C1531CEE49B9BEDD0BD35F8B61BB&_z=z">ROGUE OLTS Certifier</a> designed for both enterprise network operators and telecom service providers working in environments ranging from data centers to LANs, access, metro and core networks. The unique optical design features a test port on each of the paired units that measures insertion loss, return loss and length bi-directionally to industry standards on multimode or single-mode networks. This allows certification of both enterprise networks and single-fiber circuits often found in optical access networks connecting homes and businesses.<br />
+        “The new ROGUE OLTS Certifier represents a collaborative effort with customers who asked for a flexible solution that lowered their costs for testing & certifying networks,” explained Arun Jain, director of product marketing for AFL Test & Inspection. “We delivered a product that is easy to use, performs multiple tests on almost every network type, and works online or offline.”<br />
+         <br />
+        ROGUE is available with dual bi-directional test ports that certify two single-mode fibers at once, without swapping test cords, to accelerate testing high density networks such as data centers, saving technicians valuable time when testing hundreds or thousands of fibers. All ROGUE models can be paired with an optional <a href="~/link.aspx?_id=38B069DAF39E49638C698A7ED2109EAA&_z=z">Multi-Fiber Switch</a> for certifying MPO terminated cables bi-directionally to IEEE 40 and 100G test limits.<br />
+         <br />
+        Some of the ROGUE OLTS Certifier’s key features and benefits include:<br />
+         <br />
+        <ul>
+            <li>Performs bi-directional testing on up to two fibers at one time;</li>
+            <li>Measures insertion loss, return loss and length on multimode and single-mode networks;</li>
+            <li>Supports Tier-1 certification to industry standards and custom test limits;</li>
+            <li>Includes a step-by-step setup wizard to assist with referencing using encircled flux compliant launch;</li>
+            <li>Additional dedicated power meter and visual fault identifier for troubleshooting;</li>
+            <li>Included PC- and cloud-based reporting with optional <a href="~/link.aspx?_id=4C1A455A2E234F3A968C0A26C07049A8&_z=z">aeRos® Pro</a> software for cloud-based workflow integration to remotely build projects, assign jobs, collect real-time results, track progress and generate reports.</li>
+        </ul>
+         <br />
+        For additional information about AFL, its products and services, visit <a href="http://www.aflglobal.com/">www.AFLglobal.com</a>.<br />
+        <br />
+        About AFL<br />
+        Founded in 1984, AFL is an international manufacturer providing end-to-end solutions to the energy, service provider, enterprise and industrial markets as well as several emerging markets. The company’s products are in use in over 130 countries and include fiber optic cable and hardware, transmission and substation accessories, outside plant equipment, connectivity, test and inspection equipment, fusion splicers and training. AFL also offers a wide variety of services supporting data center, enterprise, wireless and outside plant applications.<br />
+         <br />
+        Headquartered in Spartanburg, SC, AFL has operations in the U.S., Mexico, Canada, Europe, Asia and Australia, and is a wholly owned subsidiary of Fujikura Ltd. of Japan. For more information, visit <a rel="noopener noreferrer" href="http://www.aflglobal.com/" target="_blank">www.AFLglobal.com</a>. Follow us on <a rel="noopener noreferrer" href="https://www.linkedin.com/company/afl-2" target="_blank">LinkedIn</a>, <a rel="noopener noreferrer" href="https://twitter.com/AFLglobal" target="_blank">Twitter</a>, and “like us” on <a href="https://www.facebook.com/AFLcorp">Facebook</a>. Review our <a rel="noopener noreferrer" href="https://www.aflglobal.com/AFL-Blog/" target="_blank">blog</a> or subscribe to our bi-monthly e-newsletter.<br />
+        <br />
+        Contacts<br />
+        Barbara Shea<br />
+        Product Marketing Lead, AFL<br />
+        978.455.9285<br />
+        <a href="mailto:Barbara.Shea@AFLglobal.com">Barbara.Shea@AFLglobal.com</a><br />
+        <br />
+        Corie Culp<br />
+        Public Relations Manager, AFL<br />
+        864.433.5409<br />
+        <a href="mailto:Corie.Culp@AFLglobal.com">Corie.Culp@AFLglobal.com</a></div>
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4c3792cf-8348-4d85-9cac-3f6086716488"
+      Hint: ContentCategory
+      Value: "{F78EA78A-E127-49A5-95B6-7DE64F85F319}"
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: AFL Launches ROGUE OLTS Certifier
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\matt
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\matt
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: AFL Launches ROGUE OLTS Certifier
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: AFL Launches ROGUE OLTS Certifier
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e045d511-d7e6-4ee8-9e98-b4c8f960cf82"
+    - ID: "9dd4f0d9-c123-47a8-8cef-2c85cea172f6"
+      Hint: ContentImage
+      Value: |
+        <image mediaid="{ED67D7ED-7987-4FA6-9195-5A84E3FC57AC}" />
+    - ID: "a6eaffd5-fc3e-41b4-93b3-f1721fcf2300"
+      Hint: ContentPublishedDate
+      Value: 20200205T183000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T100054Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "228f9517-e120-4014-b2c7-df0ac467a349"
+      Hint: ContentTitle
+      Value: AFL Launches ROGUE® OLTS Certifier
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211206T131252Z
+    - ID: "3688d7df-2feb-43a4-ab8d-410e5f70a676"
+      Hint: ContentDescription
+      Value: |
+        <div>Westford, MA and Spartanburg, SC &ndash;&nbsp;<a href="http://www.aflglobal.com/">AFL</a>, a manufacturer of fiber optic cable, accessories and equipment, is launching the&nbsp;<a href="~/link.aspx?_id=B307C1531CEE49B9BEDD0BD35F8B61BB&amp;_z=z">ROGUE OLTS Certifier</a>&nbsp;designed for both enterprise network operators and telecom service providers working in environments ranging from data centers to LANs, access, metro and core networks. The unique optical design features a test port on each of the paired units that measures insertion loss, return loss and length bi-directionally to industry standards on multimode or single-mode networks. This allows certification of both enterprise networks and single-fiber circuits often found in optical access networks connecting homes and businesses.<br />
+        &ldquo;The new ROGUE OLTS Certifier represents a collaborative effort with customers who asked for a flexible solution that lowered their costs for testing &amp; certifying networks,&rdquo; explained Arun Jain, director of product marketing for AFL Test &amp; Inspection. &ldquo;We delivered a product that is easy to use, performs multiple tests on almost every network type, and works online or offline.&rdquo;<br />
+        &nbsp;<br />
+        ROGUE is available with dual bi-directional test ports that certify two single-mode fibers at once, without swapping test cords, to accelerate testing high density networks such as data centers, saving technicians valuable time when testing hundreds or thousands of fibers. All ROGUE models can be paired with an optional&nbsp;<a href="~/link.aspx?_id=38B069DAF39E49638C698A7ED2109EAA&amp;_z=z">Multi-Fiber Switch</a>&nbsp;for certifying MPO terminated cables bi-directionally to IEEE 40 and 100G test limits.<br />
+        &nbsp;<br />
+        Some of the ROGUE OLTS Certifier&rsquo;s key features and benefits include:<br />
+        &nbsp;<br />
+        <ul>
+            <li>Performs bi-directional testing on up to two fibers at one time;</li>
+            <li>Measures insertion loss, return loss and length on multimode and single-mode networks;</li>
+            <li>Supports Tier-1 certification to industry standards and custom test limits;</li>
+            <li>Includes a step-by-step setup wizard to assist with referencing using encircled flux compliant launch;</li>
+            <li>Additional dedicated power meter and visual fault identifier for troubleshooting;</li>
+            <li>Included PC- and cloud-based reporting with optional&nbsp;<a href="~/link.aspx?_id=4C1A455A2E234F3A968C0A26C07049A8&amp;_z=z">aeRos&reg; Pro</a>&nbsp;software for cloud-based workflow integration to remotely build projects, assign jobs, collect real-time results, track progress and generate reports.</li>
+        </ul>
+        &nbsp;<br />
+        For additional information about AFL, its products and services, visit&nbsp;<a href="http://www.aflglobal.com/">www.AFLglobal.com</a>.<br />
+        <br />
+        About AFL<br />
+        Founded in 1984, AFL is an international manufacturer providing end-to-end solutions to the energy, service provider, enterprise and industrial markets as well as several emerging markets. The company&rsquo;s products are in use in over 130 countries and include fiber optic cable and hardware, transmission and substation accessories, outside plant equipment, connectivity, test and inspection equipment, fusion splicers and training. AFL also offers a wide variety of services supporting data center, enterprise, wireless and outside plant applications.<br />
+        &nbsp;<br />
+        Headquartered in Spartanburg, SC, AFL has operations in the U.S., Mexico, Canada, Europe, Asia and Australia, and is a wholly owned subsidiary of Fujikura Ltd. of Japan. For more information, visit&nbsp;<a rel="noopener noreferrer" href="http://www.aflglobal.com/" target="_blank">www.AFLglobal.com</a>. Follow us on&nbsp;<a rel="noopener noreferrer" href="https://www.linkedin.com/company/afl-2" target="_blank">LinkedIn</a>,&nbsp;<a rel="noopener noreferrer" href="https://twitter.com/AFLglobal" target="_blank">Twitter</a>, and &ldquo;like us&rdquo; on&nbsp;<a href="https://www.facebook.com/AFLcorp">Facebook</a>. Review our&nbsp;<a rel="noopener noreferrer" href="https://www.aflglobal.com/AFL-Blog/" target="_blank">blog</a>&nbsp;or&nbsp;subscribe&nbsp;to our bi-monthly e-newsletter.<br />
+        <br />
+        Contacts<br />
+        Barbara Shea<br />
+        Product Marketing Lead, AFL<br />
+        978.455.9285<br />
+        <a href="mailto:Barbara.Shea@AFLglobal.com">Barbara.Shea@AFLglobal.com</a><br />
+        <br />
+        Corie Culp<br />
+        Public Relations Manager, AFL<br />
+        864.433.5409<br />
+        <a href="mailto:Corie.Culp@AFLglobal.com">Corie.Culp@AFLglobal.com</a></div>
+    - ID: "4c3792cf-8348-4d85-9cac-3f6086716488"
+      Hint: ContentCategory
+      Value: "{F78EA78A-E127-49A5-95B6-7DE64F85F319}"
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: AFL Launches ROGUE OLTS Certifier
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: AFL Launches ROGUE OLTS Certifier
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: AFL Launches ROGUE OLTS Certifier
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f29a9e09-167b-49ff-ac60-14f21a5c6ec0"
+    - ID: "9dd4f0d9-c123-47a8-8cef-2c85cea172f6"
+      Hint: ContentImage
+      Value: |
+        <image mediaid="{ED67D7ED-7987-4FA6-9195-5A84E3FC57AC}" />
+    - ID: "a6eaffd5-fc3e-41b4-93b3-f1721fcf2300"
+      Hint: ContentPublishedDate
+      Value: 20200205T183000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T100053Z
+- Language: "es-ES"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "228f9517-e120-4014-b2c7-df0ac467a349"
+      Hint: ContentTitle
+      Value: AFL Launches ROGUE® OLTS Certifier
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211206T131252Z
+    - ID: "3688d7df-2feb-43a4-ab8d-410e5f70a676"
+      Hint: ContentDescription
+      Value: |
+        <div>Westford, MA and Spartanburg, SC – <a href="http://www.aflglobal.com/">AFL</a>, a manufacturer of fiber optic cable, accessories and equipment, is launching the <a href="~/link.aspx?_id=B307C1531CEE49B9BEDD0BD35F8B61BB&_z=z">ROGUE OLTS Certifier</a> designed for both enterprise network operators and telecom service providers working in environments ranging from data centers to LANs, access, metro and core networks. The unique optical design features a test port on each of the paired units that measures insertion loss, return loss and length bi-directionally to industry standards on multimode or single-mode networks. This allows certification of both enterprise networks and single-fiber circuits often found in optical access networks connecting homes and businesses.<br />
+        “The new ROGUE OLTS Certifier represents a collaborative effort with customers who asked for a flexible solution that lowered their costs for testing & certifying networks,” explained Arun Jain, director of product marketing for AFL Test & Inspection. “We delivered a product that is easy to use, performs multiple tests on almost every network type, and works online or offline.”<br />
+         <br />
+        ROGUE is available with dual bi-directional test ports that certify two single-mode fibers at once, without swapping test cords, to accelerate testing high density networks such as data centers, saving technicians valuable time when testing hundreds or thousands of fibers. All ROGUE models can be paired with an optional <a href="~/link.aspx?_id=38B069DAF39E49638C698A7ED2109EAA&_z=z">Multi-Fiber Switch</a> for certifying MPO terminated cables bi-directionally to IEEE 40 and 100G test limits.<br />
+         <br />
+        Some of the ROGUE OLTS Certifier’s key features and benefits include:<br />
+         <br />
+        <ul>
+            <li>Performs bi-directional testing on up to two fibers at one time;</li>
+            <li>Measures insertion loss, return loss and length on multimode and single-mode networks;</li>
+            <li>Supports Tier-1 certification to industry standards and custom test limits;</li>
+            <li>Includes a step-by-step setup wizard to assist with referencing using encircled flux compliant launch;</li>
+            <li>Additional dedicated power meter and visual fault identifier for troubleshooting;</li>
+            <li>Included PC- and cloud-based reporting with optional <a href="~/link.aspx?_id=4C1A455A2E234F3A968C0A26C07049A8&_z=z">aeRos® Pro</a> software for cloud-based workflow integration to remotely build projects, assign jobs, collect real-time results, track progress and generate reports.</li>
+        </ul>
+         <br />
+        For additional information about AFL, its products and services, visit <a href="http://www.aflglobal.com/">www.AFLglobal.com</a>.<br />
+        <br />
+        About AFL<br />
+        Founded in 1984, AFL is an international manufacturer providing end-to-end solutions to the energy, service provider, enterprise and industrial markets as well as several emerging markets. The company’s products are in use in over 130 countries and include fiber optic cable and hardware, transmission and substation accessories, outside plant equipment, connectivity, test and inspection equipment, fusion splicers and training. AFL also offers a wide variety of services supporting data center, enterprise, wireless and outside plant applications.<br />
+         <br />
+        Headquartered in Spartanburg, SC, AFL has operations in the U.S., Mexico, Canada, Europe, Asia and Australia, and is a wholly owned subsidiary of Fujikura Ltd. of Japan. For more information, visit <a rel="noopener noreferrer" href="http://www.aflglobal.com/" target="_blank">www.AFLglobal.com</a>. Follow us on <a rel="noopener noreferrer" href="https://www.linkedin.com/company/afl-2" target="_blank">LinkedIn</a>, <a rel="noopener noreferrer" href="https://twitter.com/AFLglobal" target="_blank">Twitter</a>, and “like us” on <a href="https://www.facebook.com/AFLcorp">Facebook</a>. Review our <a rel="noopener noreferrer" href="https://www.aflglobal.com/AFL-Blog/" target="_blank">blog</a> or subscribe to our bi-monthly e-newsletter.<br />
+        <br />
+        Contacts<br />
+        Barbara Shea<br />
+        Product Marketing Lead, AFL<br />
+        978.455.9285<br />
+        <a href="mailto:Barbara.Shea@AFLglobal.com">Barbara.Shea@AFLglobal.com</a><br />
+        <br />
+        Corie Culp<br />
+        Public Relations Manager, AFL<br />
+        864.433.5409<br />
+        <a href="mailto:Corie.Culp@AFLglobal.com">Corie.Culp@AFLglobal.com</a></div>
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4c3792cf-8348-4d85-9cac-3f6086716488"
+      Hint: ContentCategory
+      Value: "{F78EA78A-E127-49A5-95B6-7DE64F85F319}"
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: AFL Launches ROGUE OLTS Certifier
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\matt
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\matt
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: AFL Launches ROGUE OLTS Certifier
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: AFL Launches ROGUE OLTS Certifier
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1f399b53-fdd3-48c0-80c1-f26b0900b90e"
+    - ID: "9dd4f0d9-c123-47a8-8cef-2c85cea172f6"
+      Hint: ContentImage
+      Value: |
+        <image mediaid="{ED67D7ED-7987-4FA6-9195-5A84E3FC57AC}" />
+    - ID: "a6eaffd5-fc3e-41b4-93b3-f1721fcf2300"
+      Hint: ContentPublishedDate
+      Value: 20200205T183000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T100054Z
+- Language: "fr-FR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "228f9517-e120-4014-b2c7-df0ac467a349"
+      Hint: ContentTitle
+      Value: AFL Launches ROGUE® OLTS Certifier
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211206T131252Z
+    - ID: "3688d7df-2feb-43a4-ab8d-410e5f70a676"
+      Hint: ContentDescription
+      Value: |
+        <div>Westford, MA and Spartanburg, SC – <a href="http://www.aflglobal.com/">AFL</a>, a manufacturer of fiber optic cable, accessories and equipment, is launching the <a href="~/link.aspx?_id=B307C1531CEE49B9BEDD0BD35F8B61BB&_z=z">ROGUE OLTS Certifier</a> designed for both enterprise network operators and telecom service providers working in environments ranging from data centers to LANs, access, metro and core networks. The unique optical design features a test port on each of the paired units that measures insertion loss, return loss and length bi-directionally to industry standards on multimode or single-mode networks. This allows certification of both enterprise networks and single-fiber circuits often found in optical access networks connecting homes and businesses.<br />
+        “The new ROGUE OLTS Certifier represents a collaborative effort with customers who asked for a flexible solution that lowered their costs for testing & certifying networks,” explained Arun Jain, director of product marketing for AFL Test & Inspection. “We delivered a product that is easy to use, performs multiple tests on almost every network type, and works online or offline.”<br />
+         <br />
+        ROGUE is available with dual bi-directional test ports that certify two single-mode fibers at once, without swapping test cords, to accelerate testing high density networks such as data centers, saving technicians valuable time when testing hundreds or thousands of fibers. All ROGUE models can be paired with an optional <a href="~/link.aspx?_id=38B069DAF39E49638C698A7ED2109EAA&_z=z">Multi-Fiber Switch</a> for certifying MPO terminated cables bi-directionally to IEEE 40 and 100G test limits.<br />
+         <br />
+        Some of the ROGUE OLTS Certifier’s key features and benefits include:<br />
+         <br />
+        <ul>
+            <li>Performs bi-directional testing on up to two fibers at one time;</li>
+            <li>Measures insertion loss, return loss and length on multimode and single-mode networks;</li>
+            <li>Supports Tier-1 certification to industry standards and custom test limits;</li>
+            <li>Includes a step-by-step setup wizard to assist with referencing using encircled flux compliant launch;</li>
+            <li>Additional dedicated power meter and visual fault identifier for troubleshooting;</li>
+            <li>Included PC- and cloud-based reporting with optional <a href="~/link.aspx?_id=4C1A455A2E234F3A968C0A26C07049A8&_z=z">aeRos® Pro</a> software for cloud-based workflow integration to remotely build projects, assign jobs, collect real-time results, track progress and generate reports.</li>
+        </ul>
+         <br />
+        For additional information about AFL, its products and services, visit <a href="http://www.aflglobal.com/">www.AFLglobal.com</a>.<br />
+        <br />
+        About AFL<br />
+        Founded in 1984, AFL is an international manufacturer providing end-to-end solutions to the energy, service provider, enterprise and industrial markets as well as several emerging markets. The company’s products are in use in over 130 countries and include fiber optic cable and hardware, transmission and substation accessories, outside plant equipment, connectivity, test and inspection equipment, fusion splicers and training. AFL also offers a wide variety of services supporting data center, enterprise, wireless and outside plant applications.<br />
+         <br />
+        Headquartered in Spartanburg, SC, AFL has operations in the U.S., Mexico, Canada, Europe, Asia and Australia, and is a wholly owned subsidiary of Fujikura Ltd. of Japan. For more information, visit <a rel="noopener noreferrer" href="http://www.aflglobal.com/" target="_blank">www.AFLglobal.com</a>. Follow us on <a rel="noopener noreferrer" href="https://www.linkedin.com/company/afl-2" target="_blank">LinkedIn</a>, <a rel="noopener noreferrer" href="https://twitter.com/AFLglobal" target="_blank">Twitter</a>, and “like us” on <a href="https://www.facebook.com/AFLcorp">Facebook</a>. Review our <a rel="noopener noreferrer" href="https://www.aflglobal.com/AFL-Blog/" target="_blank">blog</a> or subscribe to our bi-monthly e-newsletter.<br />
+        <br />
+        Contacts<br />
+        Barbara Shea<br />
+        Product Marketing Lead, AFL<br />
+        978.455.9285<br />
+        <a href="mailto:Barbara.Shea@AFLglobal.com">Barbara.Shea@AFLglobal.com</a><br />
+        <br />
+        Corie Culp<br />
+        Public Relations Manager, AFL<br />
+        864.433.5409<br />
+        <a href="mailto:Corie.Culp@AFLglobal.com">Corie.Culp@AFLglobal.com</a></div>
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4c3792cf-8348-4d85-9cac-3f6086716488"
+      Hint: ContentCategory
+      Value: "{F78EA78A-E127-49A5-95B6-7DE64F85F319}"
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: AFL Launches ROGUE OLTS Certifier
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\matt
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\matt
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: AFL Launches ROGUE OLTS Certifier
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: AFL Launches ROGUE OLTS Certifier
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "34e9915e-102f-4d46-ab79-89112c1d733d"
+    - ID: "9dd4f0d9-c123-47a8-8cef-2c85cea172f6"
+      Hint: ContentImage
+      Value: |
+        <image mediaid="{ED67D7ED-7987-4FA6-9195-5A84E3FC57AC}" />
+    - ID: "a6eaffd5-fc3e-41b4-93b3-f1721fcf2300"
+      Hint: ContentPublishedDate
+      Value: 20200205T183000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T100054Z

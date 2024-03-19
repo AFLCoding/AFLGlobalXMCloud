@@ -1,0 +1,156 @@
+﻿---
+ID: "d534a997-3cc0-4759-939b-92f2f3c76582"
+Parent: "076af30c-2a45-432f-bf60-e8865dfe134c"
+Template: "a066d10c-85cf-4eaf-9508-49cb49707994"
+Path: "/sitecore/content/AFL-Global/EMEA/Data/AFL LinkList Folder/Footer Navigation/Contact/Contact and Feedback Forms"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 0
+Languages:
+- Language: "de-DE"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220202T155927Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\archana
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "74b7294f-37c0-4265-9ffe-cf08701267dd"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Ashish
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220425T073617Z
+    - ID: "e47138d1-880e-47a0-8f73-b93c23ff83cd"
+      Hint: Link
+      Value: |
+        <link text="Contact And Feedback Forms" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{2ADAE6D6-3D0D-4852-9101-93E1181B7169}" />
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220202T155927Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\archana
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\archana
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c1816cd9-1866-4a6d-9094-a885fe9d935e"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Ashish
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220425T073202Z
+    - ID: "e47138d1-880e-47a0-8f73-b93c23ff83cd"
+      Hint: Link
+      Value: |
+        <link text="Contact And Feedback Forms" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{2ADAE6D6-3D0D-4852-9101-93E1181B7169}" />
+- Language: "es-ES"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220202T155927Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\archana
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7f540517-730f-4b08-b858-b86264c4ea02"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rob
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220322T160123Z
+    - ID: "e47138d1-880e-47a0-8f73-b93c23ff83cd"
+      Hint: Link
+      Value: |
+        <link id="{F47F25EB-58C8-4CE3-A43A-B8AA18FF2ED6}" querystring="" linktype="internal" text="Contact And Feedback Forms" anchor="" url="/AFL-Global/AMERICAS/Home/Contact/Contact and RFQ Form" title="" class="" target="" />
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220202T155927Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\archana
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "69fd5a4f-21c6-4fe0-b070-4d5c8bccdf1b"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rafael
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231017T160529Z
+    - ID: "e47138d1-880e-47a0-8f73-b93c23ff83cd"
+      Hint: Link
+      Value: |
+        <link text="Formularios De Contacto Y Comentarios" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{2ADAE6D6-3D0D-4852-9101-93E1181B7169}" />
+- Language: "fr-FR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220202T155927Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\archana
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3c8baba9-b7d7-41de-b80a-a97463747b53"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Ashish
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220425T073328Z
+    - ID: "e47138d1-880e-47a0-8f73-b93c23ff83cd"
+      Hint: Link
+      Value: |
+        <link text="Contact And Feedback Forms" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{2ADAE6D6-3D0D-4852-9101-93E1181B7169}" />

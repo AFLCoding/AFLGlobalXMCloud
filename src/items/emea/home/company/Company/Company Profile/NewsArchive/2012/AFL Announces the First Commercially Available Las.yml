@@ -1,0 +1,374 @@
+﻿---
+ID: "67b5fe73-2a14-45d3-8ad9-00d842cf3052"
+Parent: "1075dad2-939d-4fd7-b43e-5e1173f24496"
+Template: "f36e821e-bb98-44dc-966d-e92a0e033cc7"
+Path: "/sitecore/content/AFL-Global/EMEA/Home/Company/Company Profile/NewsArchive/2012/AFL Announces the First Commercially Available Las"
+SharedFields:
+- ID: "1fbc6a49-6281-48ee-87e9-a3970b145adb"
+  Hint: NavigationFilter
+  Value: |
+    {E0A2A027-0932-4878-A7D6-0416D5263EFB}
+    {61BD64D6-809E-40AE-9297-2724A19329B3}
+    {D063E9D1-C7B5-4B1E-B31E-69886C9C59F5}
+    {500AE4C0-FA7B-463F-8149-EFFF7F044101}
+    {A0E7FF57-6994-4B09-AA21-104239628D5A}
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{3A84BAC9-C1BD-4809-A12C-28EB44E25329}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{DAE7C21D-4D3B-4257-A95C-9104CD8AF409}"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{48D826CA-7AE6-4387-AE67-E7070B242906}">
+          <p:d />
+        </r>
+      </d>
+    </r>
+Languages:
+- Language: "de-DE"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "228f9517-e120-4014-b2c7-df0ac467a349"
+      Hint: ContentTitle
+      Value: AFL Announces the First Commercially Available Laser Splicer and Glass Processor
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211206T200433Z
+    - ID: "3688d7df-2feb-43a4-ab8d-410e5f70a676"
+      Hint: ContentDescription
+      Value: |
+        Developed and manufactured by AFL in conjunction with Fujikura Japan, AFL's LZM­-100 LAZERMaster™ is the first commercially available glass processing and splicing system that uses a CO2 laser heat source to perform splicing, adiabatic tapering and other glass-shaping operations. The LZM possesses large diameter capabilities up to 2.3 mm and long tapering capabilities up to 150 mm.<br />
+        <br />
+        The LZM-100 utilizes proprietary (patent-pending) closed-loop power stabilization techniques, resulting in power stability within 0.5 percent, enabling highly repeatable processes and very smooth taper profiles. In addition, by using the carbon dioxide heat source, repeatable performance is ensured and electrode/filament maintenance and instability is eliminated. The clean, deposit-free fiber surface and consistent results is essential in high power fiber lasers and power delivery systems, making the LZM-100 ideal for technically-advanced markets such as medical, military/defense, industrial and more.<br />
+        <br />
+        In addition to a CO2 laser, the LZM-100 high precision glass processing is enabled by onboard firmware. Operations may be performed automatically, manually or by PC control. Proprietary software is supplied with the LZM-100 and provides additional features, greater flexibility and finer control.<br />
+        <br />
+        The LZM-100 LAZERMaster provides four fundamental benefits to the market:<br />
+        <br />
+        CO2 laser heat source for splicing and glass shaping<br />
+        <br />
+        Tremendous capability for R&D and production applications<br />
+        <br />
+        Customizable to specific requirements<br />
+        <br />
+        Simple and easy operation<br />
+        <br />
+        <br />
+        AFL is the first to market a laser splicer, the LAZERMaster, with unique features such as the CO2 laser heat source, and advanced feedback control and stabilization techniques. Ancillary market segments such as bio-medical, military and defense, and industrial applications will benefit from the ball lensing, tapering, and large diameter fiber capabilities and functionality. With a significant trend in the industry toward the increased use of fiber lasers and high power delivery systems, the LZM-100 provides an innovation that solves a specific problem to support this industry growth.<br />
+        <br />
+        To learn more about AFL, its products and services, visit www.AFLglobal.com.<br />
+        <br />
+        <br />
+        About AFL<br />
+        AFL provides industry-leading products and services to the electric utility, broadband, communications, OEM, enterprise, wireless and transit rail markets as well as the emerging markets of oil and gas, mining, nuclear, avionics, medical, renewable and intelligent grid. The company's diverse product portfolio includes fiber optic cable, transmission and substation accessories, outside plant equipment, connectors, fusion splicers, test equipment and training. AFL's service portfolio includes market-leading positions with the foremost communications companies supporting inside plant central office, EF&I, outside plant, enterprise and wireless areas.<br />
+        <br />
+        Founded in 1984, AFL is proud to offer engineering expertise, exceptional products and reliable service that help our customers improve their critical and electrical infrastructure. AFL has operations in the U.S., Mexico, Europe and Asia. The company is headquartered in Spartanburg, SC, and is a wholly-owned subsidiary of Fujikura Ltd. of Japan. For more information, visit www.AFLglobal.com.<br />
+        <br />
+        <br />
+        Contact<br />
+        Mike Hetrick<br />
+        Commercial Manager<br />
+        410.937.8048<br />
+        Michael.Hetrick@AFLglobal.com<br />
+        <br />
+        Corie Culp<br />
+        PR Manager<br />
+        864.433.5409<br />
+        Corie.Culp@AFLglobal.com
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4c3792cf-8348-4d85-9cac-3f6086716488"
+      Hint: ContentCategory
+      Value: "{F78EA78A-E127-49A5-95B6-7DE64F85F319}"
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: AFL Announces the First Commercially Available Las
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\matt
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\matt
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: AFL Announces the First Commercially Available Las
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: AFL Announces the First Commercially Available Las
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "82cc352b-1874-4edc-a3b6-c935211491f7"
+    - ID: "a6eaffd5-fc3e-41b4-93b3-f1721fcf2300"
+      Hint: ContentPublishedDate
+      Value: 20121106T183000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T100325Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: 
+    - ID: "228f9517-e120-4014-b2c7-df0ac467a349"
+      Hint: ContentTitle
+      Value: AFL Announces the First Commercially Available Laser Splicer and Glass Processor
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211206T200433Z
+    - ID: "3688d7df-2feb-43a4-ab8d-410e5f70a676"
+      Hint: ContentDescription
+      Value: |
+        Developed and manufactured by AFL in conjunction with Fujikura Japan, AFL's LZM­-100 LAZERMaster&trade; is the first commercially available glass processing and splicing system that uses a CO2 laser heat source to perform splicing, adiabatic tapering and other glass-shaping operations. The LZM possesses large diameter capabilities up to 2.3 mm and long tapering capabilities up to 150 mm.<br />
+        <br />
+        The LZM-100 utilizes proprietary (patent-pending) closed-loop power stabilization techniques, resulting in power stability within 0.5 percent, enabling highly repeatable processes and very smooth taper profiles. In addition, by using the carbon dioxide heat source, repeatable performance is ensured and electrode/filament maintenance and instability is eliminated. The clean, deposit-free fiber surface and consistent results is essential in high power fiber lasers and power delivery systems, making the LZM-100 ideal for technically-advanced markets such as medical, military/defense, industrial and more.<br />
+        <br />
+        In addition to a CO2 laser, the LZM-100 high precision glass processing is enabled by onboard firmware. Operations may be performed automatically, manually or by PC control. Proprietary software is supplied with the LZM-100 and provides additional features, greater flexibility and finer control.<br />
+        <br />
+        The LZM-100 LAZERMaster provides four fundamental benefits to the market:<br />
+        <br />
+        CO2 laser heat source for splicing and glass shaping<br />
+        <br />
+        Tremendous capability for R&amp;D and production applications<br />
+        <br />
+        Customizable to specific requirements<br />
+        <br />
+        Simple and easy operation<br />
+        <br />
+        <br />
+        AFL is the first to market a laser splicer, the LAZERMaster, with unique features such as the CO2 laser heat source, and advanced feedback control and stabilization techniques. Ancillary market segments such as bio-medical, military and defense, and industrial applications will benefit from the ball lensing, tapering, and large diameter fiber capabilities and functionality. With a significant trend in the industry toward the increased use of fiber lasers and high power delivery systems, the LZM-100 provides an innovation that solves a specific problem to support this industry growth.<br />
+        <br />
+        To learn more about AFL, its products and services, visit www.AFLglobal.com.<br />
+        <br />
+        <br />
+        About AFL<br />
+        AFL provides industry-leading products and services to the electric utility, broadband, communications, OEM, enterprise, wireless and transit rail markets as well as the emerging markets of oil and gas, mining, nuclear, avionics, medical, renewable and intelligent grid. The company's diverse product portfolio includes fiber optic cable, transmission and substation accessories, outside plant equipment, connectors, fusion splicers, test equipment and training. AFL's service portfolio includes market-leading positions with the foremost communications companies supporting inside plant central office, EF&amp;I, outside plant, enterprise and wireless areas.<br />
+        <br />
+        Founded in 1984, AFL is proud to offer engineering expertise, exceptional products and reliable service that help our customers improve their critical and electrical infrastructure. AFL has operations in the U.S., Mexico, Europe and Asia. The company is headquartered in Spartanburg, SC, and is a wholly-owned subsidiary of Fujikura Ltd. of Japan. For more information, visit www.AFLglobal.com.<br />
+        <br />
+        <br />
+        Contact<br />
+        Mike Hetrick<br />
+        Commercial Manager<br />
+        410.937.8048<br />
+        Michael.Hetrick@AFLglobal.com<br />
+        <br />
+        Corie Culp<br />
+        PR Manager<br />
+        864.433.5409<br />
+        Corie.Culp@AFLglobal.com
+    - ID: "4c3792cf-8348-4d85-9cac-3f6086716488"
+      Hint: ContentCategory
+      Value: "{F78EA78A-E127-49A5-95B6-7DE64F85F319}"
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: AFL Announces the First Commercially Available Las
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: AFL Announces the First Commercially Available Las
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: AFL Announces the First Commercially Available Las
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c14c9fc8-dbba-4bb2-ab52-6b7f90b39f79"
+    - ID: "a6eaffd5-fc3e-41b4-93b3-f1721fcf2300"
+      Hint: ContentPublishedDate
+      Value: 20121106T183000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T100324Z
+- Language: "es-ES"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "228f9517-e120-4014-b2c7-df0ac467a349"
+      Hint: ContentTitle
+      Value: AFL Announces the First Commercially Available Laser Splicer and Glass Processor
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211206T200433Z
+    - ID: "3688d7df-2feb-43a4-ab8d-410e5f70a676"
+      Hint: ContentDescription
+      Value: |
+        Developed and manufactured by AFL in conjunction with Fujikura Japan, AFL's LZM­-100 LAZERMaster™ is the first commercially available glass processing and splicing system that uses a CO2 laser heat source to perform splicing, adiabatic tapering and other glass-shaping operations. The LZM possesses large diameter capabilities up to 2.3 mm and long tapering capabilities up to 150 mm.<br />
+        <br />
+        The LZM-100 utilizes proprietary (patent-pending) closed-loop power stabilization techniques, resulting in power stability within 0.5 percent, enabling highly repeatable processes and very smooth taper profiles. In addition, by using the carbon dioxide heat source, repeatable performance is ensured and electrode/filament maintenance and instability is eliminated. The clean, deposit-free fiber surface and consistent results is essential in high power fiber lasers and power delivery systems, making the LZM-100 ideal for technically-advanced markets such as medical, military/defense, industrial and more.<br />
+        <br />
+        In addition to a CO2 laser, the LZM-100 high precision glass processing is enabled by onboard firmware. Operations may be performed automatically, manually or by PC control. Proprietary software is supplied with the LZM-100 and provides additional features, greater flexibility and finer control.<br />
+        <br />
+        The LZM-100 LAZERMaster provides four fundamental benefits to the market:<br />
+        <br />
+        CO2 laser heat source for splicing and glass shaping<br />
+        <br />
+        Tremendous capability for R&D and production applications<br />
+        <br />
+        Customizable to specific requirements<br />
+        <br />
+        Simple and easy operation<br />
+        <br />
+        <br />
+        AFL is the first to market a laser splicer, the LAZERMaster, with unique features such as the CO2 laser heat source, and advanced feedback control and stabilization techniques. Ancillary market segments such as bio-medical, military and defense, and industrial applications will benefit from the ball lensing, tapering, and large diameter fiber capabilities and functionality. With a significant trend in the industry toward the increased use of fiber lasers and high power delivery systems, the LZM-100 provides an innovation that solves a specific problem to support this industry growth.<br />
+        <br />
+        To learn more about AFL, its products and services, visit www.AFLglobal.com.<br />
+        <br />
+        <br />
+        About AFL<br />
+        AFL provides industry-leading products and services to the electric utility, broadband, communications, OEM, enterprise, wireless and transit rail markets as well as the emerging markets of oil and gas, mining, nuclear, avionics, medical, renewable and intelligent grid. The company's diverse product portfolio includes fiber optic cable, transmission and substation accessories, outside plant equipment, connectors, fusion splicers, test equipment and training. AFL's service portfolio includes market-leading positions with the foremost communications companies supporting inside plant central office, EF&I, outside plant, enterprise and wireless areas.<br />
+        <br />
+        Founded in 1984, AFL is proud to offer engineering expertise, exceptional products and reliable service that help our customers improve their critical and electrical infrastructure. AFL has operations in the U.S., Mexico, Europe and Asia. The company is headquartered in Spartanburg, SC, and is a wholly-owned subsidiary of Fujikura Ltd. of Japan. For more information, visit www.AFLglobal.com.<br />
+        <br />
+        <br />
+        Contact<br />
+        Mike Hetrick<br />
+        Commercial Manager<br />
+        410.937.8048<br />
+        Michael.Hetrick@AFLglobal.com<br />
+        <br />
+        Corie Culp<br />
+        PR Manager<br />
+        864.433.5409<br />
+        Corie.Culp@AFLglobal.com
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4c3792cf-8348-4d85-9cac-3f6086716488"
+      Hint: ContentCategory
+      Value: "{F78EA78A-E127-49A5-95B6-7DE64F85F319}"
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: AFL Announces the First Commercially Available Las
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\matt
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\matt
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: AFL Announces the First Commercially Available Las
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: AFL Announces the First Commercially Available Las
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2d432acb-a5af-4c36-8aad-32d9edeb62b9"
+    - ID: "a6eaffd5-fc3e-41b4-93b3-f1721fcf2300"
+      Hint: ContentPublishedDate
+      Value: 20121106T183000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T100325Z
+- Language: "fr-FR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "228f9517-e120-4014-b2c7-df0ac467a349"
+      Hint: ContentTitle
+      Value: AFL Announces the First Commercially Available Laser Splicer and Glass Processor
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211206T200433Z
+    - ID: "3688d7df-2feb-43a4-ab8d-410e5f70a676"
+      Hint: ContentDescription
+      Value: |
+        Developed and manufactured by AFL in conjunction with Fujikura Japan, AFL's LZM­-100 LAZERMaster™ is the first commercially available glass processing and splicing system that uses a CO2 laser heat source to perform splicing, adiabatic tapering and other glass-shaping operations. The LZM possesses large diameter capabilities up to 2.3 mm and long tapering capabilities up to 150 mm.<br />
+        <br />
+        The LZM-100 utilizes proprietary (patent-pending) closed-loop power stabilization techniques, resulting in power stability within 0.5 percent, enabling highly repeatable processes and very smooth taper profiles. In addition, by using the carbon dioxide heat source, repeatable performance is ensured and electrode/filament maintenance and instability is eliminated. The clean, deposit-free fiber surface and consistent results is essential in high power fiber lasers and power delivery systems, making the LZM-100 ideal for technically-advanced markets such as medical, military/defense, industrial and more.<br />
+        <br />
+        In addition to a CO2 laser, the LZM-100 high precision glass processing is enabled by onboard firmware. Operations may be performed automatically, manually or by PC control. Proprietary software is supplied with the LZM-100 and provides additional features, greater flexibility and finer control.<br />
+        <br />
+        The LZM-100 LAZERMaster provides four fundamental benefits to the market:<br />
+        <br />
+        CO2 laser heat source for splicing and glass shaping<br />
+        <br />
+        Tremendous capability for R&D and production applications<br />
+        <br />
+        Customizable to specific requirements<br />
+        <br />
+        Simple and easy operation<br />
+        <br />
+        <br />
+        AFL is the first to market a laser splicer, the LAZERMaster, with unique features such as the CO2 laser heat source, and advanced feedback control and stabilization techniques. Ancillary market segments such as bio-medical, military and defense, and industrial applications will benefit from the ball lensing, tapering, and large diameter fiber capabilities and functionality. With a significant trend in the industry toward the increased use of fiber lasers and high power delivery systems, the LZM-100 provides an innovation that solves a specific problem to support this industry growth.<br />
+        <br />
+        To learn more about AFL, its products and services, visit www.AFLglobal.com.<br />
+        <br />
+        <br />
+        About AFL<br />
+        AFL provides industry-leading products and services to the electric utility, broadband, communications, OEM, enterprise, wireless and transit rail markets as well as the emerging markets of oil and gas, mining, nuclear, avionics, medical, renewable and intelligent grid. The company's diverse product portfolio includes fiber optic cable, transmission and substation accessories, outside plant equipment, connectors, fusion splicers, test equipment and training. AFL's service portfolio includes market-leading positions with the foremost communications companies supporting inside plant central office, EF&I, outside plant, enterprise and wireless areas.<br />
+        <br />
+        Founded in 1984, AFL is proud to offer engineering expertise, exceptional products and reliable service that help our customers improve their critical and electrical infrastructure. AFL has operations in the U.S., Mexico, Europe and Asia. The company is headquartered in Spartanburg, SC, and is a wholly-owned subsidiary of Fujikura Ltd. of Japan. For more information, visit www.AFLglobal.com.<br />
+        <br />
+        <br />
+        Contact<br />
+        Mike Hetrick<br />
+        Commercial Manager<br />
+        410.937.8048<br />
+        Michael.Hetrick@AFLglobal.com<br />
+        <br />
+        Corie Culp<br />
+        PR Manager<br />
+        864.433.5409<br />
+        Corie.Culp@AFLglobal.com
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4c3792cf-8348-4d85-9cac-3f6086716488"
+      Hint: ContentCategory
+      Value: "{F78EA78A-E127-49A5-95B6-7DE64F85F319}"
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: AFL Announces the First Commercially Available Las
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\matt
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\matt
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: AFL Announces the First Commercially Available Las
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: AFL Announces the First Commercially Available Las
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "587405d7-86a6-482a-b9f8-e279985e680e"
+    - ID: "a6eaffd5-fc3e-41b4-93b3-f1721fcf2300"
+      Hint: ContentPublishedDate
+      Value: 20121106T183000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T100324Z

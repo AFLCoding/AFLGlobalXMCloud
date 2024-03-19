@@ -1,0 +1,440 @@
+﻿---
+ID: "30ef9d4a-179a-450c-a231-9155d6ab87d3"
+Parent: "2228916f-7768-4d7b-972f-69572c48777c"
+Template: "bf61de11-b78f-48ea-aaa4-1d17f0d83824"
+Path: "/sitecore/content/AFL-Global/AMERICAS/Home/Solutions/Energy"
+SharedFields:
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{274C9F86-81B9-4FFC-87CA-8B19AB3A526D}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{DAE7C21D-4D3B-4257-A95C-9104CD8AF409}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211122T083313Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Energy
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: "Energy Solutions - AFL offers complete end-to-end solutions designed to deliver a robust communications network that provide electric utilities and communications carriers with real-time information."
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <p>
+        Electric utilities have relied on AFL for over 30 years. From transmission and substation accessories to cable and fiber optic hardware, AFL’s solutions improve the reliability of critical electrical and optical infrastructure used for the transmission and distribution of electricity. AFL integrates the use of fiber optics with the ground wire of an electric utility’s transmission lines to provide communications capabilities for both utilities and communications carriers. </p>
+        <h2>
+        Transmission and Distribution Solutions</h2>
+        <div>
+        AFL offers a complete portfolio of fiber optic cable, supporting hardware and compression accessories that are designed to meet the most demanding <a href="/Solutions/Energy/Transmission-and-Distribution">transmission and distribution</a> environments. As the leading world manufacturer of fiber optic cable, AFL is uniquely positioned to provide a full line of all-dielectric self-supporting (<a href="~/link.aspx?_id=2A732800A2D54484B8EE559F19061970&_z=z">ADSS</a>) aerial cables and Optical Ground Wire (<a href="~/link.aspx?_id=06EE0A6FCD9D46348D864EB2C321F072&_z=z">OPGW</a>) as well as supporting <a href="/Products/Conductor-Accessories/Fiber-Optic-Cable-Hardware" target="_blank">hardware and accessories</a>.<br />
+         </div>
+        <div>
+        Additionally AFL offers the industry’s most comprehensive line of <a href="/Products/Conductor-Accessories/Compression-Accessories" target="_blank">compression accessories</a> that operate–regardless of the electrical load–at a temperature lower than that of the conductor. Our compression accessories are designed for various applications including high temperatures, voltages up to 765 kV and heat dissipation. Conductors supported include ACSR, AAC, AAAC, ACAR, ACCC, EHS ACSR, AWAC, Alumoweld® and steel ground wire conductors. <br />
+         </div>
+        <div>
+        To expand the reach of your network, AFL provides a robust solution that enables improved data capacity and transfer rates along the transmission and distribution systems. As the main communication path that controls utility systems, our optical cabling allows you to monitor power on the line, move power to avoid outages and brownouts, interact with substations and manage normal communications. That same infrastructure also supports FTTx networks for delivering new services to your customers. </div>
+        <h2>
+        Utility FTTx</h2>
+        <div>
+        Electric utilities, municipalities and co-ops are using the same power-generating infrastructure to deliver new services to their electric utility customers. Known in the industry as <a href="/Solutions/Energy/Utility-FTTx">Utility FTTx</a>, these state-of-the-art fiber optic networks operate on your existing electrical and optical infrastructure and bring high-speed broadband Internet access to rural areas or non-metropolitan locations.<br />
+         </div>
+        <div>
+        AFL is the only provider that offers a portfolio that includes end-to-end passive infrastructure which is comprised of Fiber Apparatus, Optical Connectivity, Fiber Optic Cabling, Fusion Splicing Systems, Test and Inspection Equipment, and Cleaning Supplies. We also have FTTx electronics solutions of PON Systems, Point-to-point and RF Video. Our customized FTTx modeling tool uses your input and our expertise to configure the solution that is right for your application.</div>
+        <h2>
+        Substation Solutions</h2>
+        <div>
+        With decades of design and manufacturing expertise, AFL offers a wide range of <a href="/Solutions/Energy/Substation">substation</a> accessories. Our substation products feature superior product performance designed to improve the reliability of the critical electrical and optical infrastructure used for the transmission and distribution of electricity.</div>
+        <div>
+        <br />
+        AFL’s substation accessories are made for low voltage up to 765 kV applications that involve cable, pipe, flat or tubular bus and integral web connections. Complementing the entire <a href="/Products/Conductor-Accessories/Substation-Accessories" target="_blank">substation</a> family, Swage grounding, <a href="/Products/Conductor-Accessories/Substation-Accessories/Swage-Bus-Accessories" target="_blank">bus</a> and <a href="/Products/Conductor-Accessories/Substation-Accessories/Swage-Cable-Accessories" target="_blank">cable</a> accessories use a compression technology process called "swaging" that enables installation of aluminum bus accessories without the need of a welder. These Swage products allow the electric utility to install the accessories faster and more efficiently with lower installation costs over the welding process.<br />
+         <br />
+        AFL is your full-line supplier for all types of substation accessories—welded, bolted and Swage applications—available in bronze or aluminum materials.</div>
+    - ID: "56611f02-691a-4096-b044-63aa83122916"
+      Hint: Content
+      Value: |
+        <p>Electric utilities have relied on AFL for over 30 years. From transmission and substation accessories to cable and fiber optic hardware, AFL&rsquo;s solutions improve the reliability of critical electrical and optical infrastructure used for the transmission and distribution of electricity. AFL integrates the use of fiber optics with the ground wire of an electric utility&rsquo;s transmission lines to provide communications capabilities for both utilities and communications carriers.&nbsp;</p>
+        <h2>Transmission and Distribution Solutions</h2>
+        <div>AFL offers a complete portfolio of fiber optic cable, supporting hardware and compression accessories that are designed to meet the most demanding&nbsp;<a href="~/link.aspx?_id=D234626C7C1241A491BB75889B982D89&amp;_z=z">transmission and distribution</a>&nbsp;environments. As the leading world manufacturer of fiber optic cable, AFL is uniquely positioned to provide a full line of all-dielectric self-supporting (<a href="https://www.aflglobal.com/en/Products/Fiber-Optic-Cable/Aerial/ADSS">ADSS</a>) aerial cables and Optical Ground Wire (<a href="/Products/Fiber-Optic-Cable/Aerial/OPGW">OPGW</a>) as well as supporting&nbsp;<a href="~/link.aspx?_id=55FE349D07664D979DB42FFAF9D903D5&amp;_z=z">hardware and accessories</a>.<br />
+        &nbsp;</div>
+        <div>Additionally AFL offers the industry&rsquo;s most comprehensive line of&nbsp;<a href="~/link.aspx?_id=B1C14BD30AA444288D4E21C7BCF361A1&amp;_z=z">compression accessories</a>&nbsp;that operate&ndash;regardless of the electrical load&ndash;at a temperature lower than that of the conductor. Our compression accessories are designed for various applications including high temperatures, voltages up to 765 kV and heat dissipation. Conductors supported include ACSR, AAC, AAAC, ACAR, ACCC, EHS ACSR, AWAC, Alumoweld&reg; and steel ground wire conductors.&nbsp;<br />
+        &nbsp;</div>
+        <div>To expand the reach of your network, AFL provides a robust solution that enables improved data capacity and transfer rates along the transmission and distribution systems. As the main communication path that controls utility systems, our optical cabling allows you to monitor power on the line, move power to avoid outages and brownouts, interact with substations and manage normal communications. That same infrastructure also supports FTTx networks for delivering new services to your customers.&nbsp;</div>
+        <h2>&nbsp;</h2>
+        <h2>Utility FTTx</h2>
+        <div>Electric utilities, municipalities and co-ops are using the same power-generating infrastructure to deliver new services to their electric utility customers. Known in the industry as&nbsp;<a href="~/link.aspx?_id=323F5091D444489283617DBD75EFC78D&amp;_z=z">Utility FTTx</a>, these state-of-the-art fiber optic networks operate on your existing electrical and optical infrastructure and bring high-speed broadband Internet access to rural areas or non-metropolitan locations.<br />
+        &nbsp;</div>
+        <div>AFL is the only provider that offers a portfolio that includes end-to-end passive infrastructure which is comprised of Fiber Apparatus, Optical Connectivity, Fiber Optic Cabling, Fusion Splicing Systems, Test and Inspection Equipment, and Cleaning Supplies. We also have FTTx electronics solutions of PON Systems, Point-to-point and RF Video. Our customized FTTx modeling tool uses your input and our expertise to configure the solution that is right for your application.</div>
+        <h2>&nbsp;</h2>
+        <h2>Substation Solutions</h2>
+        <div>With decades of design and manufacturing expertise, AFL offers a wide range of&nbsp;<a href="~/link.aspx?_id=431D3DE29E3C414FA1F550BEA1C90139&amp;_z=z">substation</a>&nbsp;accessories. Our substation products feature superior product performance designed to improve the reliability of the critical electrical and optical infrastructure used for the transmission and distribution of electricity.</div>
+        <div>AFL&rsquo;s substation accessories are made for low voltage up to 765 kV applications that involve cable, pipe, flat or tubular bus and integral web connections. Complementing the entire&nbsp;<a href="~/link.aspx?_id=431D3DE29E3C414FA1F550BEA1C90139&amp;_z=z">substation</a>&nbsp;family, Swage grounding,&nbsp;<a href="~/link.aspx?_id=1BCC2EC2C7D1476D92FD17B2FC5258BC&amp;_z=z">bus</a>&nbsp;and&nbsp;<a href="~/link.aspx?_id=513F4E540CAA4D03A9E569970E68E5A1&amp;_z=z">cable</a>&nbsp;accessories use a compression technology process called "swaging" that enables installation of aluminum bus accessories without the need of a welder. These Swage products allow the electric utility to install the accessories faster and more efficiently with lower installation costs over the welding process.<br />
+        &nbsp;<br />
+        AFL is your full-line supplier for all types of substation accessories&mdash;welded, bolted and Swage applications&mdash;available in bronze or aluminum materials.</div>
+        <p>&nbsp;</p>
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: energy AFL electric utility communication carriers markets industries solutions
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: Energy
+    - ID: "628db04b-29a2-483b-a88c-b8fd9a5f2086"
+      Hint: HeroLink
+      Value: |
+        <link id="{30EF9D4A-179A-450C-A231-9155D6AB87D3}" querystring="" linktype="internal" text="LEARN MORE" anchor="" url="/AFL-Global/AMERICAS/Home/Solutions/Energy" title="" class="" target="|Custom" />
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: Energy
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2cc31872-28da-4f0f-bdf2-2609dfb69e04"
+    - ID: "93dc88f3-05e5-482d-9b9a-c859c8258a73"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="167968" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/167968/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/energy?v=7082d25d" stylelabs-content-type="Image" alt="Energy.jpg" height="369" width="954" />
+    - ID: "a40ebd3d-2b41-41fb-90f7-753544ce77c5"
+      Hint: Hero Title1
+      Value: Energy Market Solutions
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T085258Z
+    - ID: "dd0b26a2-9ca3-4573-b501-3b33a6efbc65"
+      Hint: Hero Title2
+      Value: "AFL's end-to-end solutions deliver robust fiber optic networks for electric utilities and communications carriers"
+- Language: "es-MX"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211122T083313Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: ENERGÍA
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: "Energy Solutions - AFL offers complete end-to-end solutions designed to deliver a robust communications network that provide electric utilities and communications carriers with real-time information."
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <p>
+        Electric utilities have relied on AFL for over 30 years. From transmission and substation accessories to cable and fiber optic hardware, AFL’s solutions improve the reliability of critical electrical and optical infrastructure used for the transmission and distribution of electricity. AFL integrates the use of fiber optics with the ground wire of an electric utility’s transmission lines to provide communications capabilities for both utilities and communications carriers. </p>
+        <h2>
+        Transmission and Distribution Solutions</h2>
+        <div>
+        AFL offers a complete portfolio of fiber optic cable, supporting hardware and compression accessories that are designed to meet the most demanding <a href="/Solutions/Energy/Transmission-and-Distribution">transmission and distribution</a> environments. As the leading world manufacturer of fiber optic cable, AFL is uniquely positioned to provide a full line of all-dielectric self-supporting (<a href="/Products/Fiber-Optic-Cable/ADSS.aspx" target="_blank">ADSS</a>) aerial cables and Optical Ground Wire (<a href="/Products/Fiber-Optic-Cable/OPGW.aspx" target="_blank">OPGW</a>) as well as supporting <a href="/Products/Conductor-Accessories/Fiber-Optic-Cable-Hardware.aspx" target="_blank">hardware and accessories</a>.<br />
+         </div>
+        <div>
+        Additionally AFL offers the industry’s most comprehensive line of <a href="/Products/Conductor-Accessories/Compression-Accessories.aspx" target="_blank">compression accessories</a> that operate–regardless of the electrical load–at a temperature lower than that of the conductor. Our compression accessories are designed for various applications including high temperatures, voltages up to 765 kV and heat dissipation. Conductors supported include ACSR, AAC, AAAC, ACAR, ACCC, EHS ACSR, AWAC, Alumoweld® and steel ground wire conductors. <br />
+         </div>
+        <div>
+        To expand the reach of your network, AFL provides a robust solution that enables improved data capacity and transfer rates along the transmission and distribution systems. As the main communication path that controls utility systems, our optical cabling allows you to monitor power on the line, move power to avoid outages and brownouts, interact with substations and manage normal communications. That same infrastructure also supports FTTx networks for delivering new services to your customers. </div>
+        <h2>
+        Utility FTTx</h2>
+        <div>
+        Electric utilities, municipalities and co-ops are using the same power-generating infrastructure to deliver new services to their electric utility customers. Known in the industry as <a href="/Solutions/Energy/Utility-FTTx">Utility FTTx</a>, these state-of-the-art fiber optic networks operate on your existing electrical and optical infrastructure and bring high-speed broadband Internet access to rural areas or non-metropolitan locations.<br />
+         </div>
+        <div>
+        AFL is the only provider that offers a portfolio that includes end-to-end passive infrastructure which is comprised of Fiber Apparatus, Optical Connectivity, Fiber Optic Cabling, Fusion Splicing Systems, Test and Inspection Equipment, and Cleaning Supplies. We also have FTTx electronics solutions of PON Systems, Point-to-point and RF Video. Our customized FTTx modeling tool uses your input and our expertise to configure the solution that is right for your application.</div>
+        <h2>
+        Substation Solutions</h2>
+        <div>
+        With decades of design and manufacturing expertise, AFL offers a wide range of <a href="/Solutions/Energy/Substation">substation</a> accessories. Our substation products feature superior product performance designed to improve the reliability of the critical electrical and optical infrastructure used for the transmission and distribution of electricity.</div>
+        <div>
+        <br />
+        AFL’s substation accessories are made for low voltage up to 765 kV applications that involve cable, pipe, flat or tubular bus and integral web connections. Complementing the entire <a href="/Products/Conductor-Accessories/Substation-Accessories.aspx" target="_blank">substation</a> family, Swage grounding, <a href="/Products/Conductor-Accessories/Substation-Accessories/Swage-Bus-Accessories.aspx" target="_blank">bus</a> and <a href="/Products/Conductor-Accessories/Substation-Accessories/Swage-Cable-Accessories.aspx" target="_blank">cable</a> accessories use a compression technology process called "swaging" that enables installation of aluminum bus accessories without the need of a welder. These Swage products allow the electric utility to install the accessories faster and more efficiently with lower installation costs over the welding process.<br />
+         <br />
+        AFL is your full-line supplier for all types of substation accessories—welded, bolted and Swage applications—available in bronze or aluminum materials.</div>
+    - ID: "56611f02-691a-4096-b044-63aa83122916"
+      Hint: Content
+      Value: |
+        <p>Electric utilities have relied on AFL for over 30 years. From transmission and substation accessories to cable and fiber optic hardware, AFL&rsquo;s solutions improve the reliability of critical electrical and optical infrastructure used for the transmission and distribution of electricity. AFL integrates the use of fiber optics with the ground wire of an electric utility&rsquo;s transmission lines to provide communications capabilities for both utilities and communications carriers.&nbsp;</p>
+        <h2>Transmission and Distribution Solutions</h2>
+        <div>AFL offers a complete portfolio of fiber optic cable, supporting hardware and compression accessories that are designed to meet the most demanding&nbsp;<a href="/Markets/Energy/Transmission-and-Distribution">transmission and distribution</a>&nbsp;environments. As the leading world manufacturer of fiber optic cable, AFL is uniquely positioned to provide a full line of all-dielectric self-supporting (<a rel="noopener noreferrer" href="/Products/Fiber-Optic-Cable/ADSS" target="_blank">ADSS</a>) aerial cables and Optical Ground Wire (<a rel="noopener noreferrer" href="/Products/Fiber-Optic-Cable/OPGW" target="_blank">OPGW</a>) as well as supporting&nbsp;<a rel="noopener noreferrer" href="/Products/Conductor-Accessories/Fiber-Optic-Cable-Hardware" target="_blank">hardware and accessories</a>.<br />
+        &nbsp;</div>
+        <div>Additionally AFL offers the industry&rsquo;s most comprehensive line of&nbsp;<a rel="noopener noreferrer" href="/Products/Conductor-Accessories/Compression-Accessories" target="_blank">compression accessories</a>&nbsp;that operate&ndash;regardless of the electrical load&ndash;at a temperature lower than that of the conductor. Our compression accessories are designed for various applications including high temperatures, voltages up to 765 kV and heat dissipation. Conductors supported include ACSR, AAC, AAAC, ACAR, ACCC, EHS ACSR, AWAC, Alumoweld&reg; and steel ground wire conductors.&nbsp;<br />
+        &nbsp;</div>
+        <div>To expand the reach of your network, AFL provides a robust solution that enables improved data capacity and transfer rates along the transmission and distribution systems. As the main communication path that controls utility systems, our optical cabling allows you to monitor power on the line, move power to avoid outages and brownouts, interact with substations and manage normal communications. That same infrastructure also supports FTTx networks for delivering new services to your customers.&nbsp;</div>
+        <h2>&nbsp;</h2>
+        <h2>Utility FTTx</h2>
+        <div>Electric utilities, municipalities and co-ops are using the same power-generating infrastructure to deliver new services to their electric utility customers. Known in the industry as&nbsp;<a href="/Markets/Energy/Utility-FTTx">Utility FTTx</a>, these state-of-the-art fiber optic networks operate on your existing electrical and optical infrastructure and bring high-speed broadband Internet access to rural areas or non-metropolitan locations.<br />
+        &nbsp;</div>
+        <div>AFL is the only provider that offers a portfolio that includes end-to-end passive infrastructure which is comprised of Fiber Apparatus, Optical Connectivity, Fiber Optic Cabling, Fusion Splicing Systems, Test and Inspection Equipment, and Cleaning Supplies. We also have FTTx electronics solutions of PON Systems, Point-to-point and RF Video. Our customized FTTx modeling tool uses your input and our expertise to configure the solution that is right for your application.</div>
+        <h2>&nbsp;</h2>
+        <h2>Substation Solutions</h2>
+        <div>With decades of design and manufacturing expertise, AFL offers a wide range of&nbsp;<a href="/Markets/Energy/Substation">substation</a>&nbsp;accessories. Our substation products feature superior product performance designed to improve the reliability of the critical electrical and optical infrastructure used for the transmission and distribution of electricity.</div>
+        <div>AFL&rsquo;s substation accessories are made for low voltage up to 765 kV applications that involve cable, pipe, flat or tubular bus and integral web connections. Complementing the entire&nbsp;<a rel="noopener noreferrer" href="/Products/Conductor-Accessories/Substation-Accessories" target="_blank">substation</a>&nbsp;family, Swage grounding,&nbsp;<a rel="noopener noreferrer" href="/Products/Conductor-Accessories/Substation-Accessories/Swage-Bus-Accessories" target="_blank">bus</a>&nbsp;and&nbsp;<a rel="noopener noreferrer" href="/Products/Conductor-Accessories/Substation-Accessories/Swage-Cable-Accessories" target="_blank">cable</a>&nbsp;accessories use a compression technology process called "swaging" that enables installation of aluminum bus accessories without the need of a welder. These Swage products allow the electric utility to install the accessories faster and more efficiently with lower installation costs over the welding process.<br />
+        &nbsp;<br />
+        AFL is your full-line supplier for all types of substation accessories&mdash;welded, bolted and Swage applications&mdash;available in bronze or aluminum materials.</div>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mahesh
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: energy AFL electric utility communication carriers markets industries solutions
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: ENERGÍA
+    - ID: "628db04b-29a2-483b-a88c-b8fd9a5f2086"
+      Hint: HeroLink
+      Value: |
+        <link id="{30EF9D4A-179A-450C-A231-9155D6AB87D3}" querystring="" linktype="internal" text="LEARN MORE" anchor="" url="/AFL-Global/AMERICAS/Home/Solutions/Energy" title="" class="" target="|Custom" />
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: ENERGÍA
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4c105714-056a-4ffd-8f49-c486c9f40d1e"
+    - ID: "93dc88f3-05e5-482d-9b9a-c859c8258a73"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="167968" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/167968/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/energy?v=7082d25d" stylelabs-content-type="Image" alt="Energy.jpg" height="369" width="954" />
+    - ID: "a40ebd3d-2b41-41fb-90f7-753544ce77c5"
+      Hint: Hero Title1
+      Value: Energy Market Solutions
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T085258Z
+    - ID: "dd0b26a2-9ca3-4573-b501-3b33a6efbc65"
+      Hint: Hero Title2
+      Value: "AFL's end-to-end solutions deliver robust fiber optic networks for electric utilities and communications carriers"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211122T083313Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Energy
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: "Energy Solutions - AFL offers complete end-to-end solutions designed to deliver a robust communications network that provide electric utilities and communications carriers with real-time information."
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <p>
+        Electric utilities have relied on AFL for over 30 years. From transmission and substation accessories to cable and fiber optic hardware, AFL&rsquo;s solutions improve the reliability of critical electrical and optical infrastructure used for the transmission and distribution of electricity. AFL integrates the use of fiber optics with the ground wire of an electric utility&rsquo;s transmission lines to provide communications capabilities for both utilities and communications carriers.&nbsp;</p>
+        <h2>
+        Transmission and Distribution Solutions</h2>
+        <div>
+        AFL offers a complete portfolio of fiber optic cable, supporting hardware and compression accessories that are designed to meet the most demanding <a href="/Markets/Energy/Transmission-and-Distribution.aspx">transmission and distribution</a> environments. As the leading world manufacturer of fiber optic cable, AFL is uniquely positioned to provide a full line of all-dielectric self-supporting (<a href="/Products/Fiber-Optic-Cable/ADSS.aspx" target="_blank">ADSS</a>) aerial cables and Optical Ground Wire (<a href="/Products/Fiber-Optic-Cable/OPGW.aspx" target="_blank">OPGW</a>) as well as supporting <a href="/Products/Conductor-Accessories/Fiber-Optic-Cable-Hardware.aspx" target="_blank">hardware and accessories</a>.<br />
+        &nbsp;</div>
+        <div>
+        Additionally AFL offers the industry&rsquo;s most comprehensive line of <a href="/Products/Conductor-Accessories/Compression-Accessories.aspx" target="_blank">compression accessories</a> that operate&ndash;regardless of the electrical load&ndash;at a temperature lower than that of the conductor. Our compression accessories are designed for various applications including high temperatures, voltages up to 765 kV and heat dissipation. Conductors supported include ACSR, AAC, AAAC, ACAR, ACCC, EHS ACSR, AWAC, Alumoweld&reg; and steel ground wire conductors.&nbsp;<br />
+        &nbsp;</div>
+        <div>
+        To expand the reach of your network, AFL provides a robust solution that enables improved data capacity and transfer rates along the transmission and distribution systems. As the main communication path that controls utility systems, our optical cabling allows you to monitor power on the line, move power to avoid outages and brownouts, interact with substations and manage normal communications. That same infrastructure also supports FTTx networks for delivering new services to your customers.&nbsp;</div>
+        <h2>
+        Utility FTTx</h2>
+        <div>
+        Electric utilities, municipalities and co-ops are using the same power-generating infrastructure to deliver new services to their electric utility customers. Known in the industry as <a href="/Markets/Energy/Utility-FTTx.aspx">Utility FTTx</a>, these state-of-the-art fiber optic networks operate on your existing electrical and optical infrastructure and bring high-speed broadband Internet access to rural areas or non-metropolitan locations.<br />
+        &nbsp;</div>
+        <div>
+        AFL is the only provider that offers a portfolio that includes end-to-end passive infrastructure which is comprised of Fiber Apparatus, Optical Connectivity, Fiber Optic Cabling, Fusion Splicing Systems, Test and Inspection Equipment, and Cleaning Supplies. We also have FTTx electronics solutions of PON Systems, Point-to-point and RF Video. Our customized FTTx modeling tool uses your input and our expertise to configure the solution that is right for your application.</div>
+        <h2>
+        Substation Solutions</h2>
+        <div>
+        With decades of design and manufacturing expertise, AFL offers a wide range of <a href="/Markets/Energy/Substation.aspx">substation</a> accessories. Our substation products feature superior product performance designed to improve the reliability of the critical electrical and optical infrastructure used for the transmission and distribution of electricity.</div>
+        <div>
+        <br />
+        AFL&rsquo;s substation accessories are made for low voltage up to 765 kV applications that involve cable, pipe, flat or tubular bus and integral web connections. Complementing the entire <a href="/Products/Conductor-Accessories/Substation-Accessories.aspx" target="_blank">substation</a> family, Swage grounding, <a href="/Products/Conductor-Accessories/Substation-Accessories/Swage-Bus-Accessories.aspx" target="_blank">bus</a> and <a href="/Products/Conductor-Accessories/Substation-Accessories/Swage-Cable-Accessories.aspx" target="_blank">cable</a> accessories use a compression technology process called "swaging" that enables installation of aluminum bus accessories without the need of a welder. These Swage products allow the electric utility to install the accessories faster and more efficiently with lower installation costs over the welding process.<br />
+        &nbsp;<br />
+        AFL is your full-line supplier for all types of substation accessories&mdash;welded, bolted and Swage applications&mdash;available in bronze or aluminum materials.</div>
+    - ID: "56611f02-691a-4096-b044-63aa83122916"
+      Hint: Content
+      Value: |
+        <p>Electric utilities have relied on AFL for over 30 years. From transmission and substation accessories to cable and fiber optic hardware, AFL&rsquo;s solutions improve the reliability of critical electrical and optical infrastructure used for the transmission and distribution of electricity. AFL integrates the use of fiber optics with the ground wire of an electric utility&rsquo;s transmission lines to provide communications capabilities for both utilities and communications carriers.&nbsp;</p>
+        <h2>Transmission and Distribution Solutions</h2>
+        <div>AFL offers a complete portfolio of fiber optic cable, supporting hardware and compression accessories that are designed to meet the most demanding&nbsp;<a href="/Markets/Energy/Transmission-and-Distribution">transmission and distribution</a>&nbsp;environments. As the leading world manufacturer of fiber optic cable, AFL is uniquely positioned to provide a full line of all-dielectric self-supporting (<a rel="noopener noreferrer" href="/Products/Fiber-Optic-Cable/ADSS" target="_blank">ADSS</a>) aerial cables and Optical Ground Wire (<a rel="noopener noreferrer" href="/Products/Fiber-Optic-Cable/OPGW" target="_blank">OPGW</a>) as well as supporting&nbsp;<a rel="noopener noreferrer" href="/Products/Conductor-Accessories/Fiber-Optic-Cable-Hardware" target="_blank">hardware and accessories</a>.<br />
+        &nbsp;</div>
+        <div>Additionally AFL offers the industry&rsquo;s most comprehensive line of&nbsp;<a rel="noopener noreferrer" href="/Products/Conductor-Accessories/Compression-Accessories" target="_blank">compression accessories</a>&nbsp;that operate&ndash;regardless of the electrical load&ndash;at a temperature lower than that of the conductor. Our compression accessories are designed for various applications including high temperatures, voltages up to 765 kV and heat dissipation. Conductors supported include ACSR, AAC, AAAC, ACAR, ACCC, EHS ACSR, AWAC, Alumoweld&reg; and steel ground wire conductors.&nbsp;<br />
+        &nbsp;</div>
+        <div>To expand the reach of your network, AFL provides a robust solution that enables improved data capacity and transfer rates along the transmission and distribution systems. As the main communication path that controls utility systems, our optical cabling allows you to monitor power on the line, move power to avoid outages and brownouts, interact with substations and manage normal communications. That same infrastructure also supports FTTx networks for delivering new services to your customers.&nbsp;</div>
+        <h2>&nbsp;</h2>
+        <h2>Utility FTTx</h2>
+        <div>Electric utilities, municipalities and co-ops are using the same power-generating infrastructure to deliver new services to their electric utility customers. Known in the industry as&nbsp;<a href="/Markets/Energy/Utility-FTTx">Utility FTTx</a>, these state-of-the-art fiber optic networks operate on your existing electrical and optical infrastructure and bring high-speed broadband Internet access to rural areas or non-metropolitan locations.<br />
+        &nbsp;</div>
+        <div>AFL is the only provider that offers a portfolio that includes end-to-end passive infrastructure which is comprised of Fiber Apparatus, Optical Connectivity, Fiber Optic Cabling, Fusion Splicing Systems, Test and Inspection Equipment, and Cleaning Supplies. We also have FTTx electronics solutions of PON Systems, Point-to-point and RF Video. Our customized FTTx modeling tool uses your input and our expertise to configure the solution that is right for your application.</div>
+        <h2>&nbsp;</h2>
+        <h2>Substation Solutions</h2>
+        <div>With decades of design and manufacturing expertise, AFL offers a wide range of&nbsp;<a href="/Markets/Energy/Substation">substation</a>&nbsp;accessories. Our substation products feature superior product performance designed to improve the reliability of the critical electrical and optical infrastructure used for the transmission and distribution of electricity.</div>
+        <div>AFL&rsquo;s substation accessories are made for low voltage up to 765 kV applications that involve cable, pipe, flat or tubular bus and integral web connections. Complementing the entire&nbsp;<a rel="noopener noreferrer" href="/Products/Conductor-Accessories/Substation-Accessories" target="_blank">substation</a>&nbsp;family, Swage grounding,&nbsp;<a rel="noopener noreferrer" href="/Products/Conductor-Accessories/Substation-Accessories/Swage-Bus-Accessories" target="_blank">bus</a>&nbsp;and&nbsp;<a rel="noopener noreferrer" href="/Products/Conductor-Accessories/Substation-Accessories/Swage-Cable-Accessories" target="_blank">cable</a>&nbsp;accessories use a compression technology process called "swaging" that enables installation of aluminum bus accessories without the need of a welder. These Swage products allow the electric utility to install the accessories faster and more efficiently with lower installation costs over the welding process.<br />
+        &nbsp;<br />
+        AFL is your full-line supplier for all types of substation accessories&mdash;welded, bolted and Swage applications&mdash;available in bronze or aluminum materials.</div>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mahesh
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: energy AFL electric utility communication carriers markets industries solutions
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: Energy
+    - ID: "628db04b-29a2-483b-a88c-b8fd9a5f2086"
+      Hint: HeroLink
+      Value: |
+        <link id="{30EF9D4A-179A-450C-A231-9155D6AB87D3}" querystring="" linktype="internal" text="LEARN MORE" anchor="" url="/AFL-Global/AMERICAS/Home/Solutions/Energy" title="" class="" target="|Custom" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3257d355-5d87-4ead-b18d-b2b8e0854031"
+    - ID: "93dc88f3-05e5-482d-9b9a-c859c8258a73"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image mediaid="{E5C24FCC-13C3-49B7-835B-CDB5FF9C0C7C}" />
+    - ID: "a40ebd3d-2b41-41fb-90f7-753544ce77c5"
+      Hint: Hero Title1
+      Value: Energy Market Solutions
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sripada
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231206T080348Z
+    - ID: "dd0b26a2-9ca3-4573-b501-3b33a6efbc65"
+      Hint: Hero Title2
+      Value: "AFL's end-to-end solutions deliver robust fiber optic networks for electric utilities and communications carriers"
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211122T083313Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: ÉNERGIE
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: "Energy Solutions - AFL offers complete end-to-end solutions designed to deliver a robust communications network that provide electric utilities and communications carriers with real-time information."
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <p>
+        Electric utilities have relied on AFL for over 30 years. From transmission and substation accessories to cable and fiber optic hardware, AFL’s solutions improve the reliability of critical electrical and optical infrastructure used for the transmission and distribution of electricity. AFL integrates the use of fiber optics with the ground wire of an electric utility’s transmission lines to provide communications capabilities for both utilities and communications carriers. </p>
+        <h2>
+        Transmission and Distribution Solutions</h2>
+        <div>
+        AFL offers a complete portfolio of fiber optic cable, supporting hardware and compression accessories that are designed to meet the most demanding <a href="/Solutions/Energy/Transmission-and-Distribution">transmission and distribution</a> environments. As the leading world manufacturer of fiber optic cable, AFL is uniquely positioned to provide a full line of all-dielectric self-supporting (<a href="/Products/Fiber-Optic-Cable/ADSS.aspx" target="_blank">ADSS</a>) aerial cables and Optical Ground Wire (<a href="/Products/Fiber-Optic-Cable/OPGW" target="_blank">OPGW</a>) as well as supporting <a href="/Products/Conductor-Accessories/Fiber-Optic-Cable-Hardware" target="_blank">hardware and accessories</a>.<br />
+         </div>
+        <div>
+        Additionally AFL offers the industry’s most comprehensive line of <a href="/Products/Conductor-Accessories/Compression-Accessories" target="_blank">compression accessories</a> that operate–regardless of the electrical load–at a temperature lower than that of the conductor. Our compression accessories are designed for various applications including high temperatures, voltages up to 765 kV and heat dissipation. Conductors supported include ACSR, AAC, AAAC, ACAR, ACCC, EHS ACSR, AWAC, Alumoweld® and steel ground wire conductors. <br />
+         </div>
+        <div>
+        To expand the reach of your network, AFL provides a robust solution that enables improved data capacity and transfer rates along the transmission and distribution systems. As the main communication path that controls utility systems, our optical cabling allows you to monitor power on the line, move power to avoid outages and brownouts, interact with substations and manage normal communications. That same infrastructure also supports FTTx networks for delivering new services to your customers. </div>
+        <h2>
+        Utility FTTx</h2>
+        <div>
+        Electric utilities, municipalities and co-ops are using the same power-generating infrastructure to deliver new services to their electric utility customers. Known in the industry as <a href="/Solutions/Energy/Utility-FTTx">Utility FTTx</a>, these state-of-the-art fiber optic networks operate on your existing electrical and optical infrastructure and bring high-speed broadband Internet access to rural areas or non-metropolitan locations.<br />
+         </div>
+        <div>
+        AFL is the only provider that offers a portfolio that includes end-to-end passive infrastructure which is comprised of Fiber Apparatus, Optical Connectivity, Fiber Optic Cabling, Fusion Splicing Systems, Test and Inspection Equipment, and Cleaning Supplies. We also have FTTx electronics solutions of PON Systems, Point-to-point and RF Video. Our customized FTTx modeling tool uses your input and our expertise to configure the solution that is right for your application.</div>
+        <h2>
+        Substation Solutions</h2>
+        <div>
+        With decades of design and manufacturing expertise, AFL offers a wide range of <a href="/Solutions/Energy/Substation">substation</a> accessories. Our substation products feature superior product performance designed to improve the reliability of the critical electrical and optical infrastructure used for the transmission and distribution of electricity.</div>
+        <div>
+        <br />
+        AFL’s substation accessories are made for low voltage up to 765 kV applications that involve cable, pipe, flat or tubular bus and integral web connections. Complementing the entire <a href="/Products/Conductor-Accessories/Substation-Accessories" target="_blank">substation</a> family, Swage grounding, <a href="/Products/Conductor-Accessories/Substation-Accessories/Swage-Bus-Accessories" target="_blank">bus</a> and <a href="/Products/Conductor-Accessories/Substation-Accessories/Swage-Cable-Accessories" target="_blank">cable</a> accessories use a compression technology process called "swaging" that enables installation of aluminum bus accessories without the need of a welder. These Swage products allow the electric utility to install the accessories faster and more efficiently with lower installation costs over the welding process.<br />
+         <br />
+        AFL is your full-line supplier for all types of substation accessories—welded, bolted and Swage applications—available in bronze or aluminum materials.</div>
+    - ID: "56611f02-691a-4096-b044-63aa83122916"
+      Hint: Content
+      Value: |
+        <p>Electric utilities have relied on AFL for over 30 years. From transmission and substation accessories to cable and fiber optic hardware, AFL&rsquo;s solutions improve the reliability of critical electrical and optical infrastructure used for the transmission and distribution of electricity. AFL integrates the use of fiber optics with the ground wire of an electric utility&rsquo;s transmission lines to provide communications capabilities for both utilities and communications carriers.&nbsp;</p>
+        <h2>Transmission and Distribution Solutions</h2>
+        <div>AFL offers a complete portfolio of fiber optic cable, supporting hardware and compression accessories that are designed to meet the most demanding&nbsp;<a href="/Markets/Energy/Transmission-and-Distribution">transmission and distribution</a>&nbsp;environments. As the leading world manufacturer of fiber optic cable, AFL is uniquely positioned to provide a full line of all-dielectric self-supporting (<a rel="noopener noreferrer" href="/Products/Fiber-Optic-Cable/ADSS" target="_blank">ADSS</a>) aerial cables and Optical Ground Wire (<a rel="noopener noreferrer" href="/Products/Fiber-Optic-Cable/OPGW" target="_blank">OPGW</a>) as well as supporting&nbsp;<a rel="noopener noreferrer" href="/Products/Conductor-Accessories/Fiber-Optic-Cable-Hardware" target="_blank">hardware and accessories</a>.<br />
+        &nbsp;</div>
+        <div>Additionally AFL offers the industry&rsquo;s most comprehensive line of&nbsp;<a rel="noopener noreferrer" href="/Products/Conductor-Accessories/Compression-Accessories" target="_blank">compression accessories</a>&nbsp;that operate&ndash;regardless of the electrical load&ndash;at a temperature lower than that of the conductor. Our compression accessories are designed for various applications including high temperatures, voltages up to 765 kV and heat dissipation. Conductors supported include ACSR, AAC, AAAC, ACAR, ACCC, EHS ACSR, AWAC, Alumoweld&reg; and steel ground wire conductors.&nbsp;<br />
+        &nbsp;</div>
+        <div>To expand the reach of your network, AFL provides a robust solution that enables improved data capacity and transfer rates along the transmission and distribution systems. As the main communication path that controls utility systems, our optical cabling allows you to monitor power on the line, move power to avoid outages and brownouts, interact with substations and manage normal communications. That same infrastructure also supports FTTx networks for delivering new services to your customers.&nbsp;</div>
+        <h2>&nbsp;</h2>
+        <h2>Utility FTTx</h2>
+        <div>Electric utilities, municipalities and co-ops are using the same power-generating infrastructure to deliver new services to their electric utility customers. Known in the industry as&nbsp;<a href="/Markets/Energy/Utility-FTTx">Utility FTTx</a>, these state-of-the-art fiber optic networks operate on your existing electrical and optical infrastructure and bring high-speed broadband Internet access to rural areas or non-metropolitan locations.<br />
+        &nbsp;</div>
+        <div>AFL is the only provider that offers a portfolio that includes end-to-end passive infrastructure which is comprised of Fiber Apparatus, Optical Connectivity, Fiber Optic Cabling, Fusion Splicing Systems, Test and Inspection Equipment, and Cleaning Supplies. We also have FTTx electronics solutions of PON Systems, Point-to-point and RF Video. Our customized FTTx modeling tool uses your input and our expertise to configure the solution that is right for your application.</div>
+        <h2>&nbsp;</h2>
+        <h2>Substation Solutions</h2>
+        <div>With decades of design and manufacturing expertise, AFL offers a wide range of&nbsp;<a href="/Markets/Energy/Substation">substation</a>&nbsp;accessories. Our substation products feature superior product performance designed to improve the reliability of the critical electrical and optical infrastructure used for the transmission and distribution of electricity.</div>
+        <div>AFL&rsquo;s substation accessories are made for low voltage up to 765 kV applications that involve cable, pipe, flat or tubular bus and integral web connections. Complementing the entire&nbsp;<a rel="noopener noreferrer" href="/Products/Conductor-Accessories/Substation-Accessories" target="_blank">substation</a>&nbsp;family, Swage grounding,&nbsp;<a rel="noopener noreferrer" href="/Products/Conductor-Accessories/Substation-Accessories/Swage-Bus-Accessories" target="_blank">bus</a>&nbsp;and&nbsp;<a rel="noopener noreferrer" href="/Products/Conductor-Accessories/Substation-Accessories/Swage-Cable-Accessories" target="_blank">cable</a>&nbsp;accessories use a compression technology process called "swaging" that enables installation of aluminum bus accessories without the need of a welder. These Swage products allow the electric utility to install the accessories faster and more efficiently with lower installation costs over the welding process.<br />
+        &nbsp;<br />
+        AFL is your full-line supplier for all types of substation accessories&mdash;welded, bolted and Swage applications&mdash;available in bronze or aluminum materials.</div>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mahesh
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: energy AFL electric utility communication carriers markets industries solutions
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: ÉNERGIE
+    - ID: "628db04b-29a2-483b-a88c-b8fd9a5f2086"
+      Hint: HeroLink
+      Value: |
+        <link id="{30EF9D4A-179A-450C-A231-9155D6AB87D3}" querystring="" linktype="internal" text="LEARN MORE" anchor="" url="/AFL-Global/AMERICAS/Home/Solutions/Energy" title="" class="" target="|Custom" />
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: ÉNERGIE
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4a71fc6f-0cc3-439f-8532-52ccf66481bd"
+    - ID: "93dc88f3-05e5-482d-9b9a-c859c8258a73"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="167968" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/167968/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/energy?v=7082d25d" stylelabs-content-type="Image" alt="Energy.jpg" height="369" width="954" />
+    - ID: "a40ebd3d-2b41-41fb-90f7-753544ce77c5"
+      Hint: Hero Title1
+      Value: Energy Market Solutions
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T085258Z
+    - ID: "dd0b26a2-9ca3-4573-b501-3b33a6efbc65"
+      Hint: Hero Title2
+      Value: "AFL's end-to-end solutions deliver robust fiber optic networks for electric utilities and communications carriers"

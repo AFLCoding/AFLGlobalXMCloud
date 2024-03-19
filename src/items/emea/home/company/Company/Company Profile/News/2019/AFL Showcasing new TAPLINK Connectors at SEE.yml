@@ -1,0 +1,290 @@
+﻿---
+ID: "844c33e7-a63e-4b3d-81db-a0bcd0c7aa45"
+Parent: "5a54194e-f462-429e-874d-34bfe14f9989"
+Template: "f36e821e-bb98-44dc-966d-e92a0e033cc7"
+Path: "/sitecore/content/AFL-Global/EMEA/Home/Company/Company Profile/News/2019/AFL Showcasing new TAPLINK Connectors at SEE"
+SharedFields:
+- ID: "1fbc6a49-6281-48ee-87e9-a3970b145adb"
+  Hint: NavigationFilter
+  Value: |
+    {E0A2A027-0932-4878-A7D6-0416D5263EFB}
+    {61BD64D6-809E-40AE-9297-2724A19329B3}
+    {D063E9D1-C7B5-4B1E-B31E-69886C9C59F5}
+    {500AE4C0-FA7B-463F-8149-EFFF7F044101}
+    {A0E7FF57-6994-4B09-AA21-104239628D5A}
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{3A84BAC9-C1BD-4809-A12C-28EB44E25329}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{DAE7C21D-4D3B-4257-A95C-9104CD8AF409}"
+Languages:
+- Language: "de-DE"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "228f9517-e120-4014-b2c7-df0ac467a349"
+      Hint: ContentTitle
+      Value: AFL Showcasing new TAPLINK™ Connectors at SEE Trade Show
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211208T104041Z
+    - ID: "3688d7df-2feb-43a4-ab8d-410e5f70a676"
+      Hint: ContentDescription
+      Value: |
+        <div>Spartanburg, SC – June 19, 2019 – <a href="~/link.aspx?_id=110D559FDEA542EA9C1C8A5DF7E70EF9&_z=z">AFL</a>, an industry-leading manufacturer of fiber optic cable, equipment and accessories, is exhibiting at the <a href="https://www.theexchange.org/conferencehome.html">SEE 2019 Annual Conference</a> being held June 26-28 and showcasing its new <a href="~/link.aspx?_id=6CD173DCC58345FB96AB18FA89D7A0A8&_z=z">TAPLINK Wedge Connectors</a> along with <a href="~/link.aspx?_id=EECCEAB84D074950B1DD0ABAF536634C&_z=z">Swage Grounding Accessories</a>, and <a href="~/link.aspx?_id=1BCC2EC2C7D1476D92FD17B2FC5258BC&_z=z">Swage Bus Accessories</a>. Visit AFL at booth #1107 to view these accessories and more.
+        AFL’s TAPLINK Wedge Connectors are used to make aluminum-to-aluminum and aluminum-to-copper electrical connections on AAC, ACSR and AAAC conductors. These connectors tap a conductor to a main line distribution power line and hold continuous pressure on the conductors during thermal cycling. The product line includes Wedge Tap Connectors, Wedge Pad Tap Connectors, Wedge Stirrup Connectors and Hotline Connectors.<br />
+        <br />
+        Swage Grounding Accessories are installed in an underground grid layout before a substation is constructed and are designed to discharge the over-voltages from overhead ground wires or the lightning masts into the ground. These accessories can be installed in inclement weather preventing costly installation shutdowns. This product line includes grounding couplers, cross, elbows, terminals and more.<br />
+        <br />
+        The Swage Bus Accessories use a compression technology process called "swaging" that enables installation of aluminum bus accessories without the need of a welder. Swage products allow the electric utility to install the accessories faster and more efficiently with lower installation costs over the welding process. Installation is three times faster than traditional welding process.<br />
+        <br />
+        To learn more about AFL, its products and services, visit <a href="http://www.aflglobal.com/">www.AFLglobal.com</a>.<br />
+        <br />
+        About AFL<br />
+        Founded in 1984, AFL is an international manufacturer providing end-to-end solutions to the energy, service provider, enterprise and industrial markets as well several emerging markets. The company’s products are in use in over 130 countries and include fiber optic cable and hardware, transmission and substation accessories, outside plant equipment, connectivity, test and inspection equipment, fusion splicers and training. AFL also offers a wide variety of services supporting data center, enterprise, wireless and outside plant applications.<br />
+        <br />
+        Headquartered in Spartanburg, SC, AFL has operations in the U.S., Mexico, Canada, Europe, Asia and Australia, and is a wholly-owned subsidiary of Fujikura Ltd. of Japan. For more information, visit <a href="http://www.aflglobal.com/">www.AFLglobal.com</a>. Follow us on <a href="https://www.linkedin.com/company/afl-2">LinkedIn</a>, <a href="https://twitter.com/AFLglobal">Twitter</a>, and “like us” on <a href="https://www.facebook.com/AFLcorp">Facebook</a>. Review our <a href="https://www.aflglobal.com/AFL-Blog/">blog</a> or subscribe to our bi-monthly e-newsletter.<br />
+         <br />
+        Contact<br />
+        Corie Culp<br />
+        Public Relations Manager<br />
+        AFL<br />
+        864.433.5409<br />
+        <a href="mailto:Corie.Culp@AFLglobal.com">Corie.Culp@AFLglobal.com</a></div>
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: AFL Showcasing new TAPLINK Connectors at SEE
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\matt
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\matt
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: AFL Showcasing new TAPLINK™ Connectors at SEE Trade Show
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: AFL Showcasing new TAPLINK™ Connectors at SEE Trade Show
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "cdb6f207-7ac5-42e8-9195-6466fd3848f2"
+    - ID: "9dd4f0d9-c123-47a8-8cef-2c85cea172f6"
+      Hint: ContentImage
+      Value: |
+        <image mediaid="{4DF4D973-281C-409B-97B0-31B4C89A4682}" />
+    - ID: "a6eaffd5-fc3e-41b4-93b3-f1721fcf2300"
+      Hint: ContentPublishedDate
+      Value: 20190618T183000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T100017Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "228f9517-e120-4014-b2c7-df0ac467a349"
+      Hint: ContentTitle
+      Value: AFL Showcasing new TAPLINK™ Connectors at SEE Trade Show
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211208T104041Z
+    - ID: "3688d7df-2feb-43a4-ab8d-410e5f70a676"
+      Hint: ContentDescription
+      Value: |
+        <div>Spartanburg, SC &ndash; June 19, 2019 &ndash;&nbsp;<a href="~/link.aspx?_id=110D559FDEA542EA9C1C8A5DF7E70EF9&amp;_z=z">AFL</a>, an industry-leading manufacturer of fiber optic cable, equipment and accessories, is exhibiting at the&nbsp;<a href="https://www.theexchange.org/conferencehome.html">SEE 2019 Annual Conference</a>&nbsp;being held June 26-28 and showcasing its new&nbsp;<a href="~/link.aspx?_id=6CD173DCC58345FB96AB18FA89D7A0A8&amp;_z=z">TAPLINK Wedge Connectors</a>&nbsp;along with&nbsp;<a href="~/link.aspx?_id=EECCEAB84D074950B1DD0ABAF536634C&amp;_z=z">Swage Grounding Accessories</a>, and&nbsp;<a href="~/link.aspx?_id=1BCC2EC2C7D1476D92FD17B2FC5258BC&amp;_z=z">Swage Bus Accessories</a>. Visit AFL at booth #1107 to view these accessories and more.
+        AFL&rsquo;s&nbsp;TAPLINK Wedge Connectors&nbsp;are used to make aluminum-to-aluminum and aluminum-to-copper electrical connections on AAC, ACSR and AAAC conductors. These connectors tap a conductor to a main line distribution power line and hold continuous pressure on the conductors during thermal cycling. The product line includes&nbsp;Wedge Tap Connectors,&nbsp;Wedge Pad Tap Connectors,&nbsp;Wedge Stirrup Connectors&nbsp;and&nbsp;Hotline Connectors.<br />
+        <br />
+        Swage Grounding Accessories&nbsp;are installed in an underground grid layout before a substation is constructed and are designed to discharge the over-voltages from overhead ground wires or the lightning masts into the ground. These accessories can be installed in inclement weather preventing costly installation shutdowns. This product line includes grounding&nbsp;couplers,&nbsp;cross,&nbsp;elbows,&nbsp;terminals&nbsp;and more.<br />
+        <br />
+        The&nbsp;Swage Bus Accessories&nbsp;use a compression technology process called "swaging" that enables installation of aluminum bus accessories without the need of a welder. Swage products allow the electric utility to install the accessories faster and more efficiently with lower installation costs over the welding process. Installation is three times faster than traditional welding process.<br />
+        <br />
+        To learn more about AFL, its products and services, visit&nbsp;<a href="http://www.aflglobal.com/">www.AFLglobal.com</a>.<br />
+        <br />
+        About AFL<br />
+        Founded in 1984, AFL is an international manufacturer providing end-to-end solutions to the energy, service provider, enterprise and industrial markets as well several emerging markets. The company&rsquo;s products are in use in over 130 countries and include fiber optic cable and hardware, transmission and substation accessories, outside plant equipment, connectivity, test and inspection equipment, fusion splicers and training. AFL also offers a wide variety of services supporting data center, enterprise, wireless and outside plant applications.<br />
+        <br />
+        Headquartered in Spartanburg, SC, AFL has operations in the U.S., Mexico, Canada, Europe, Asia and Australia, and is a wholly-owned subsidiary of Fujikura Ltd. of Japan. For more information, visit&nbsp;<a href="http://www.aflglobal.com/">www.AFLglobal.com</a>. Follow us on&nbsp;<a href="https://www.linkedin.com/company/afl-2">LinkedIn</a>,&nbsp;<a href="https://twitter.com/AFLglobal">Twitter</a>, and &ldquo;like us&rdquo; on&nbsp;<a href="https://www.facebook.com/AFLcorp">Facebook</a>. Review our&nbsp;<a href="https://www.aflglobal.com/AFL-Blog/">blog</a>&nbsp;or&nbsp;subscribe&nbsp;to our bi-monthly e-newsletter.<br />
+        &nbsp;<br />
+        Contact<br />
+        Corie Culp<br />
+        Public Relations Manager<br />
+        AFL<br />
+        864.433.5409<br />
+        <a href="mailto:Corie.Culp@AFLglobal.com">Corie.Culp@AFLglobal.com</a></div>
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: AFL Showcasing new TAPLINK Connectors at SEE
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: AFL Showcasing new TAPLINK™ Connectors at SEE Trade Show
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: AFL Showcasing new TAPLINK™ Connectors at SEE Trade Show
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0fc5c686-e16e-44a1-9880-342abc95c2a4"
+    - ID: "9dd4f0d9-c123-47a8-8cef-2c85cea172f6"
+      Hint: ContentImage
+      Value: |
+        <image mediaid="{4DF4D973-281C-409B-97B0-31B4C89A4682}" />
+    - ID: "a6eaffd5-fc3e-41b4-93b3-f1721fcf2300"
+      Hint: ContentPublishedDate
+      Value: 20190618T183000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T100017Z
+- Language: "es-ES"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "228f9517-e120-4014-b2c7-df0ac467a349"
+      Hint: ContentTitle
+      Value: AFL Showcasing new TAPLINK™ Connectors at SEE Trade Show
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211208T104041Z
+    - ID: "3688d7df-2feb-43a4-ab8d-410e5f70a676"
+      Hint: ContentDescription
+      Value: |
+        <div>Spartanburg, SC – June 19, 2019 – <a href="~/link.aspx?_id=110D559FDEA542EA9C1C8A5DF7E70EF9&_z=z">AFL</a>, an industry-leading manufacturer of fiber optic cable, equipment and accessories, is exhibiting at the <a href="https://www.theexchange.org/conferencehome.html">SEE 2019 Annual Conference</a> being held June 26-28 and showcasing its new <a href="~/link.aspx?_id=6CD173DCC58345FB96AB18FA89D7A0A8&_z=z">TAPLINK Wedge Connectors</a> along with <a href="~/link.aspx?_id=EECCEAB84D074950B1DD0ABAF536634C&_z=z">Swage Grounding Accessories</a>, and <a href="~/link.aspx?_id=1BCC2EC2C7D1476D92FD17B2FC5258BC&_z=z">Swage Bus Accessories</a>. Visit AFL at booth #1107 to view these accessories and more.
+        AFL’s TAPLINK Wedge Connectors are used to make aluminum-to-aluminum and aluminum-to-copper electrical connections on AAC, ACSR and AAAC conductors. These connectors tap a conductor to a main line distribution power line and hold continuous pressure on the conductors during thermal cycling. The product line includes Wedge Tap Connectors, Wedge Pad Tap Connectors, Wedge Stirrup Connectors and Hotline Connectors.<br />
+        <br />
+        Swage Grounding Accessories are installed in an underground grid layout before a substation is constructed and are designed to discharge the over-voltages from overhead ground wires or the lightning masts into the ground. These accessories can be installed in inclement weather preventing costly installation shutdowns. This product line includes grounding couplers, cross, elbows, terminals and more.<br />
+        <br />
+        The Swage Bus Accessories use a compression technology process called "swaging" that enables installation of aluminum bus accessories without the need of a welder. Swage products allow the electric utility to install the accessories faster and more efficiently with lower installation costs over the welding process. Installation is three times faster than traditional welding process.<br />
+        <br />
+        To learn more about AFL, its products and services, visit <a href="http://www.aflglobal.com/">www.AFLglobal.com</a>.<br />
+        <br />
+        About AFL<br />
+        Founded in 1984, AFL is an international manufacturer providing end-to-end solutions to the energy, service provider, enterprise and industrial markets as well several emerging markets. The company’s products are in use in over 130 countries and include fiber optic cable and hardware, transmission and substation accessories, outside plant equipment, connectivity, test and inspection equipment, fusion splicers and training. AFL also offers a wide variety of services supporting data center, enterprise, wireless and outside plant applications.<br />
+        <br />
+        Headquartered in Spartanburg, SC, AFL has operations in the U.S., Mexico, Canada, Europe, Asia and Australia, and is a wholly-owned subsidiary of Fujikura Ltd. of Japan. For more information, visit <a href="http://www.aflglobal.com/">www.AFLglobal.com</a>. Follow us on <a href="https://www.linkedin.com/company/afl-2">LinkedIn</a>, <a href="https://twitter.com/AFLglobal">Twitter</a>, and “like us” on <a href="https://www.facebook.com/AFLcorp">Facebook</a>. Review our <a href="https://www.aflglobal.com/AFL-Blog/">blog</a> or subscribe to our bi-monthly e-newsletter.<br />
+         <br />
+        Contact<br />
+        Corie Culp<br />
+        Public Relations Manager<br />
+        AFL<br />
+        864.433.5409<br />
+        <a href="mailto:Corie.Culp@AFLglobal.com">Corie.Culp@AFLglobal.com</a></div>
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: AFL Showcasing new TAPLINK Connectors at SEE
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\matt
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\matt
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: AFL Showcasing new TAPLINK™ Connectors at SEE Trade Show
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: AFL Showcasing new TAPLINK™ Connectors at SEE Trade Show
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "df765db8-1846-408f-a0fa-c11599199de6"
+    - ID: "9dd4f0d9-c123-47a8-8cef-2c85cea172f6"
+      Hint: ContentImage
+      Value: |
+        <image mediaid="{4DF4D973-281C-409B-97B0-31B4C89A4682}" />
+    - ID: "a6eaffd5-fc3e-41b4-93b3-f1721fcf2300"
+      Hint: ContentPublishedDate
+      Value: 20190618T183000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T100017Z
+- Language: "fr-FR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "228f9517-e120-4014-b2c7-df0ac467a349"
+      Hint: ContentTitle
+      Value: AFL Showcasing new TAPLINK™ Connectors at SEE Trade Show
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211208T104041Z
+    - ID: "3688d7df-2feb-43a4-ab8d-410e5f70a676"
+      Hint: ContentDescription
+      Value: |
+        <div>Spartanburg, SC – June 19, 2019 – <a href="~/link.aspx?_id=110D559FDEA542EA9C1C8A5DF7E70EF9&_z=z">AFL</a>, an industry-leading manufacturer of fiber optic cable, equipment and accessories, is exhibiting at the <a href="https://www.theexchange.org/conferencehome.html">SEE 2019 Annual Conference</a> being held June 26-28 and showcasing its new <a href="~/link.aspx?_id=6CD173DCC58345FB96AB18FA89D7A0A8&_z=z">TAPLINK Wedge Connectors</a> along with <a href="~/link.aspx?_id=EECCEAB84D074950B1DD0ABAF536634C&_z=z">Swage Grounding Accessories</a>, and <a href="~/link.aspx?_id=1BCC2EC2C7D1476D92FD17B2FC5258BC&_z=z">Swage Bus Accessories</a>. Visit AFL at booth #1107 to view these accessories and more.
+        AFL’s TAPLINK Wedge Connectors are used to make aluminum-to-aluminum and aluminum-to-copper electrical connections on AAC, ACSR and AAAC conductors. These connectors tap a conductor to a main line distribution power line and hold continuous pressure on the conductors during thermal cycling. The product line includes Wedge Tap Connectors, Wedge Pad Tap Connectors, Wedge Stirrup Connectors and Hotline Connectors.<br />
+        <br />
+        Swage Grounding Accessories are installed in an underground grid layout before a substation is constructed and are designed to discharge the over-voltages from overhead ground wires or the lightning masts into the ground. These accessories can be installed in inclement weather preventing costly installation shutdowns. This product line includes grounding couplers, cross, elbows, terminals and more.<br />
+        <br />
+        The Swage Bus Accessories use a compression technology process called "swaging" that enables installation of aluminum bus accessories without the need of a welder. Swage products allow the electric utility to install the accessories faster and more efficiently with lower installation costs over the welding process. Installation is three times faster than traditional welding process.<br />
+        <br />
+        To learn more about AFL, its products and services, visit <a href="http://www.aflglobal.com/">www.AFLglobal.com</a>.<br />
+        <br />
+        About AFL<br />
+        Founded in 1984, AFL is an international manufacturer providing end-to-end solutions to the energy, service provider, enterprise and industrial markets as well several emerging markets. The company’s products are in use in over 130 countries and include fiber optic cable and hardware, transmission and substation accessories, outside plant equipment, connectivity, test and inspection equipment, fusion splicers and training. AFL also offers a wide variety of services supporting data center, enterprise, wireless and outside plant applications.<br />
+        <br />
+        Headquartered in Spartanburg, SC, AFL has operations in the U.S., Mexico, Canada, Europe, Asia and Australia, and is a wholly-owned subsidiary of Fujikura Ltd. of Japan. For more information, visit <a href="http://www.aflglobal.com/">www.AFLglobal.com</a>. Follow us on <a href="https://www.linkedin.com/company/afl-2">LinkedIn</a>, <a href="https://twitter.com/AFLglobal">Twitter</a>, and “like us” on <a href="https://www.facebook.com/AFLcorp">Facebook</a>. Review our <a href="https://www.aflglobal.com/AFL-Blog/">blog</a> or subscribe to our bi-monthly e-newsletter.<br />
+         <br />
+        Contact<br />
+        Corie Culp<br />
+        Public Relations Manager<br />
+        AFL<br />
+        864.433.5409<br />
+        <a href="mailto:Corie.Culp@AFLglobal.com">Corie.Culp@AFLglobal.com</a></div>
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: AFL Showcasing new TAPLINK Connectors at SEE
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\matt
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\matt
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: AFL Showcasing new TAPLINK™ Connectors at SEE Trade Show
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: AFL Showcasing new TAPLINK™ Connectors at SEE Trade Show
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8442b6eb-09da-48ee-aa59-c99e70c36b31"
+    - ID: "9dd4f0d9-c123-47a8-8cef-2c85cea172f6"
+      Hint: ContentImage
+      Value: |
+        <image mediaid="{4DF4D973-281C-409B-97B0-31B4C89A4682}" />
+    - ID: "a6eaffd5-fc3e-41b4-93b3-f1721fcf2300"
+      Hint: ContentPublishedDate
+      Value: 20190618T183000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T100017Z

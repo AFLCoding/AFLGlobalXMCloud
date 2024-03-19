@@ -1,0 +1,191 @@
+﻿---
+ID: "3cf4e61c-f25c-464a-afad-7a94233b581d"
+Parent: "bf27cca3-cb4b-4a41-a391-d79492c20e9d"
+Template: "58f6f985-9278-4625-b289-f5e86e840b79"
+Path: "/sitecore/content/AFL-Global/EMEA/Data/AFL-Hero Folder/Hero Items/Service Items/Service1"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 50
+Languages:
+- Language: "de-DE"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "01221109-d467-43e1-b8a8-0730663a2139"
+      Hint: HeroLink
+      Value: |
+        <link id="{F8360217-C012-42EA-882B-D0C3D2255F1B}" querystring="" target="" text="MEHR ERFAHREN" anchor="" title="" class="btn" url="/AFL-Global/EMEA/Home/Solutions/Hyperscale" linktype="internal" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211101T140630Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "aad49d10-ffce-4540-8c04-be3c641b257e"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sripada
+    - ID: "bdc73b13-efa2-4084-a5be-a2d46aa0a74c"
+      Hint: Hero Title
+      Value: Hyperscale
+    - ID: "c87bc2e3-f30b-4991-972b-a811e360ed64"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="73518" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/73518/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/Hyperscalebanner?v=40f57271" stylelabs-content-type="Image" alt="MicrosoftTeams-image (4).png" height="277" width="553" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231206T080617Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "01221109-d467-43e1-b8a8-0730663a2139"
+      Hint: HeroLink
+      Value: |
+        <link id="{F8360217-C012-42EA-882B-D0C3D2255F1B}" querystring="" target="" text="LEARN MORE" anchor="" title="" class="btn" url="/AFL-Global/EMEA/Home/Solutions/Hyperscale" linktype="internal" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211101T140630Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "11a5188a-c760-4551-9d5f-ae956ea0afe8"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sripada
+    - ID: "bdc73b13-efa2-4084-a5be-a2d46aa0a74c"
+      Hint: Hero Title
+      Value: Hyperscale
+    - ID: "c87bc2e3-f30b-4991-972b-a811e360ed64"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="73518" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/73518/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/Hyperscalebanner?v=40f57271" stylelabs-content-type="Image" alt="MicrosoftTeams-image (4).png" height="277" width="553" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231206T080617Z
+- Language: "es-ES"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "01221109-d467-43e1-b8a8-0730663a2139"
+      Hint: HeroLink
+      Value: |
+        <link id="{E2BF9E86-774E-40CD-9566-F885B1563A18}" querystring="" linktype="internal" text="LEARN MORE" anchor="" url="/AFL-Global/AMERICAS/Home/Solutions/Service Provider/Converged Access Network/FTTx" title="" class="btn" target="|Custom" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211101T140630Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c3a98a02-4683-4335-8bdd-c4b021797be4"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sripada
+    - ID: "bdc73b13-efa2-4084-a5be-a2d46aa0a74c"
+      Hint: Hero Title
+      Value: FTTx Solutions
+    - ID: "c87bc2e3-f30b-4991-972b-a811e360ed64"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image mediaid="{8F3ECE5D-512F-403E-91B6-12FBD9C4BFED}" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231206T080329Z
+  - Version: 2
+    Fields:
+    - ID: "01221109-d467-43e1-b8a8-0730663a2139"
+      Hint: HeroLink
+      Value: |
+        <link id="{F8360217-C012-42EA-882B-D0C3D2255F1B}" querystring="" target="" text="MÁS INFORMACIÓN" anchor="" title="" class="btn" url="/AFL-Global/EMEA/Home/Solutions/Hyperscale" linktype="internal" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211101T140630Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0a4cf056-ae52-4ca8-8d43-fdb8960504d2"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sripada
+    - ID: "bdc73b13-efa2-4084-a5be-a2d46aa0a74c"
+      Hint: Hero Title
+      Value: Hyperscale
+    - ID: "c87bc2e3-f30b-4991-972b-a811e360ed64"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="73518" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/73518/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/Hyperscalebanner?v=40f57271" stylelabs-content-type="Image" alt="MicrosoftTeams-image (4).png" height="277" width="553" />
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231206T080617Z
+- Language: "fr-FR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "01221109-d467-43e1-b8a8-0730663a2139"
+      Hint: HeroLink
+      Value: |
+        <link id="{F8360217-C012-42EA-882B-D0C3D2255F1B}" querystring="" target="" text="EN SAVOIR PLUS" anchor="" title="" class="btn" url="/AFL-Global/EMEA/Home/Solutions/Hyperscale" linktype="internal" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211101T140630Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e6401a0b-53f2-4bf0-bfd0-023ca1599afd"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sripada
+    - ID: "bdc73b13-efa2-4084-a5be-a2d46aa0a74c"
+      Hint: Hero Title
+      Value: Hyperscale
+    - ID: "c87bc2e3-f30b-4991-972b-a811e360ed64"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="73518" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/73518/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/Hyperscalebanner?v=40f57271" stylelabs-content-type="Image" alt="MicrosoftTeams-image (4).png" height="277" width="553" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231206T080617Z

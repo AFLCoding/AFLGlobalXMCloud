@@ -1,0 +1,1056 @@
+﻿---
+ID: "d5f3ae0e-0117-4bb2-ad2e-f443243fdd3d"
+Parent: "9dc066ff-25eb-4c4b-ac49-9f2f53389ace"
+Template: "bf61de11-b78f-48ea-aaa4-1d17f0d83824"
+Path: "/sitecore/content/AFL-Global/EMEA/Home/Solutions/Industrial/Medical"
+SharedFields:
+- ID: "1fbc6a49-6281-48ee-87e9-a3970b145adb"
+  Hint: NavigationFilter
+  Value: "{D063E9D1-C7B5-4B1E-B31E-69886C9C59F5}"
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{9B9150CA-F788-45F7-B378-77F936EC878B}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 300
+Languages:
+- Language: "de-DE"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{F0599A62-EBD5-4DB7-B60F-27A0DAC0AD1C}"
+              s:ds="{50726EC2-E2CA-4DD6-84A7-7B3F6D9562A2}"
+              s:id="{B429E1DD-6F98-4971-886B-55E26339CFB2}"
+              s:par="Reset Caching Options&amp;GridParameters&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;DynamicPlaceholderId=1"
+              s:ph="main"
+              s:ccb="Clear on publish" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211122T093110Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Medizin
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: "Medical Industry - Medical device manufacturers rely on AFL for enabling photonic technologies, early-stage product development and high-volume manufacturing."
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <p>
+        Minimally-invasive surgical and diagnostic procedures have been enabled by the advance of various medical technologies. One of these technologies is the use of thin, flexible fiber optics to visualize, measure, ablate or cauterize.</p>
+        <p>
+        AFL has developed a broad range of medical optical fibers and assemblies to address the needs of the minimally-invasive probe and equipment manufacturers in the medical marketplace:</p>
+        <ul>
+            <li>
+            <strong>Precision and custom waveguides to deliver low and high power optical signals</strong>
+            <ul>
+                <li>
+                Polarization control for interferometric requirements</li>
+                <li>
+                Synthetic fused silica for 200nm to 2100nm transmission windows</li>
+                <li>
+                Step or graded refractive index profiles to achieve desired beam characteristics</li>
+                <li>
+                Photosensitive designs for cost effective fiber bragg grattings</li>
+            </ul>
+            </li>
+        </ul>
+        <ul>
+            <li>
+            <strong>Coatings and buffers to achieve handling, mechanical and delivery needs</strong>
+            <ul>
+                <li>
+                Carbon coatings for enhanced reliability through autoclave sterilization</li>
+                <li>
+                Thin polyimide coatings provide geometric advantages</li>
+                <li>
+                Acrylate coating for improved handling</li>
+                <li>
+                Silicone/PFA coatings to provide lubricity during introduction</li>
+                <li>
+                Metal coatings for visualization</li>
+            </ul>
+            </li>
+        </ul>
+        <ul>
+            <li>
+            <strong>Cabling and jacketing to provide additional mechanical protection</strong>
+            <ul>
+                <li>
+                Polyurethane for flexibility</li>
+                <li>
+                PVC for cost-effectiveness</li>
+                <li>
+                Kevlar for strength and connector attachment</li>
+                <li>
+                Other medical grade jacketing</li>
+            </ul>
+            </li>
+        </ul>
+        <ul>
+            <li>
+            <strong>End preparation and attachment and testing tools</strong>
+            <ul>
+                <li>
+                Fiber stripping and cleaving tools for high-speed/cost-effective assembly</li>
+                <li>
+                Fiber splicing tools for joining and attachment of fibers and optical components</li>
+                <li>
+                Optical testing tools to rapidly measure the as-built performance</li>
+            </ul>
+            </li>
+        </ul>
+        <ul>
+            <li>
+            <strong>Assemblies and sub-assemblies supplied to specification</strong>
+            <ul>
+                <li>
+                Stripped/Cleaved/Tested fiber subassemblies</li>
+                <li>
+                Attachment and test of proximal connectors and distal optical components</li>
+            </ul>
+            </li>
+        </ul>
+    - ID: "56611f02-691a-4096-b044-63aa83122916"
+      Hint: Content
+      Value: |
+        <p>Minimally-invasive surgical and diagnostic procedures have been enabled by the advance of various medical technologies. One of these technologies is the use of thin, flexible fiber optics to visualize, measure, ablate or cauterize.</p>
+        <p>AFL has developed a broad range of medical optical fibers and assemblies to address the needs of the minimally-invasive probe and equipment manufacturers in the medical marketplace:</p>
+        <ul style="color: #333333; background-color: #ffffff; list-style-image: url('https://www.aflglobal.com/productionFiles/images/bulletRound.aspx');">
+            <li><strong>Precision and custom waveguides to deliver low and high power optical signals</strong>
+            <ul style="list-style-image: url('https://www.aflglobal.com/productionFiles/images/bulletSquare.aspx');">
+                <li>Polarization control for interferometric requirements</li>
+                <li>Synthetic fused silica for 200nm to 2100nm transmission windows</li>
+                <li>Step or graded refractive index profiles to achieve desired beam characteristics</li>
+                <li>Photosensitive designs for cost effective fiber bragg grattings</li>
+            </ul>
+            </li>
+        </ul>
+        <ul style="color: #333333; background-color: #ffffff; list-style-image: url('https://www.aflglobal.com/productionFiles/images/bulletRound.aspx');">
+            <li><strong>Coatings and buffers to achieve handling, mechanical and delivery needs</strong>
+            <ul style="list-style-image: url('https://www.aflglobal.com/productionFiles/images/bulletSquare.aspx');">
+                <li>Carbon coatings for enhanced reliability through autoclave sterilization</li>
+                <li>Thin polyimide coatings provide geometric advantages</li>
+                <li>Acrylate coating for improved handling</li>
+                <li>Silicone/PFA coatings to provide lubricity during introduction</li>
+                <li>Metal coatings for visualization</li>
+            </ul>
+            </li>
+        </ul>
+        <ul style="color: #333333; background-color: #ffffff; list-style-image: url('https://www.aflglobal.com/productionFiles/images/bulletRound.aspx');">
+            <li><strong>Cabling and jacketing to provide additional mechanical protection</strong>
+            <ul style="list-style-image: url('https://www.aflglobal.com/productionFiles/images/bulletSquare.aspx');">
+                <li>Polyurethane for flexibility</li>
+                <li>PVC for cost-effectiveness</li>
+                <li>Kevlar for strength and connector attachment</li>
+                <li>Other medical grade jacketing</li>
+            </ul>
+            </li>
+        </ul>
+        <ul style="color: #333333; background-color: #ffffff; list-style-image: url('https://www.aflglobal.com/productionFiles/images/bulletRound.aspx');">
+            <li><strong>End preparation and attachment and testing tools</strong>
+            <ul style="list-style-image: url('https://www.aflglobal.com/productionFiles/images/bulletSquare.aspx');">
+                <li>Fiber stripping and cleaving tools for high-speed/cost-effective assembly</li>
+                <li>Fiber splicing tools for joining and attachment of fibers and optical components</li>
+                <li>Optical testing tools to rapidly measure the as-built performance</li>
+            </ul>
+            </li>
+        </ul>
+        <ul style="color: #333333; background-color: #ffffff; list-style-image: url('https://www.aflglobal.com/productionFiles/images/bulletRound.aspx');">
+            <li><strong>Assemblies and sub-assemblies supplied to specification</strong>
+            <ul style="list-style-image: url('https://www.aflglobal.com/productionFiles/images/bulletSquare.aspx');">
+                <li>Stripped/Cleaved/Tested fiber subassemblies</li>
+                <li>Attachment and test of proximal connectors and distal optical components</li>
+            </ul>
+            </li>
+        </ul>
+        <p style="color: #333333; background-color: #ffffff; margin: 0px 0px 15px;">&nbsp;</p>
+        <div style="color: #333333; background-color: #efefef; padding: 10px; line-height: 20px;">
+        <h2>Download Brochure</h2>
+        <ul style="list-style-image: url('https://www.aflglobal.com/productionFiles/images/bulletRound.aspx');">
+            <li><a rel="noopener noreferrer" href="/productionFiles/resources/QRGs/AFL-Medical-Fiber-Optics-Brochure" target="_blank" style="color: #0091ea; background-color: transparent;">Medical Fiber Optics</a></li>
+        </ul>
+        </div>
+        <p>&nbsp;</p>
+        <div>&nbsp;</div>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mahesh
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: medical afl fiber optic components cable equipment fujikura image cmos scope device lasers imaging
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: Medizin
+    - ID: "628db04b-29a2-483b-a88c-b8fd9a5f2086"
+      Hint: HeroLink
+      Value: |
+        <link id="{D5F3AE0E-0117-4BB2-AD2E-F443243FDD3D}" querystring="" linktype="internal" text="LEARN MORE" anchor="" url="/AFL-Global/EMEA/Home/Solutions/Industrial/Medical" title="" class="" target="|Custom" />
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: Medizin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3cf77581-23ba-4b60-bd9c-eaaee9f08b14"
+    - ID: "93dc88f3-05e5-482d-9b9a-c859c8258a73"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="71166" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/71166/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/75a4f387d5d1488fb0829bbc0f6e7864?v=0066290d" stylelabs-content-type="Image" alt="Slide-Medical.aspx;;" height="383" width="954" />
+    - ID: "a40ebd3d-2b41-41fb-90f7-753544ce77c5"
+      Hint: Hero Title1
+      Value: Medical
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T094458Z
+    - ID: "dd0b26a2-9ca3-4573-b501-3b33a6efbc65"
+      Hint: Hero Title2
+      Value: Specialty fiber, components and assemblies for medical applications
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{F0599A62-EBD5-4DB7-B60F-27A0DAC0AD1C}"
+              s:ds="{50726EC2-E2CA-4DD6-84A7-7B3F6D9562A2}"
+              s:id="{B429E1DD-6F98-4971-886B-55E26339CFB2}"
+              s:par="Reset Caching Options&amp;GridParameters&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;DynamicPlaceholderId=1"
+              s:ph="main"
+              s:ccb="Clear on publish" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211122T093110Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Medical
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: "Medical Industry - Medical device manufacturers rely on AFL for enabling photonic technologies, early-stage product development and high-volume manufacturing."
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <p>
+        Minimally-invasive surgical and diagnostic procedures have been enabled by the advance of various medical technologies. One of these technologies is the use of thin, flexible fiber optics to visualize, measure, ablate or cauterize.</p>
+        <p>
+        AFL has developed a broad range of medical optical fibers and assemblies to address the needs of the minimally-invasive probe and equipment manufacturers in the medical marketplace:</p>
+        <ul>
+            <li>
+            <strong>Precision and custom waveguides to deliver low and high power optical signals</strong>
+            <ul>
+                <li>
+                Polarization control for interferometric requirements</li>
+                <li>
+                Synthetic fused silica for 200nm to 2100nm transmission windows</li>
+                <li>
+                Step or graded refractive index profiles to achieve desired beam characteristics</li>
+                <li>
+                Photosensitive designs for cost effective fiber bragg grattings</li>
+            </ul>
+            </li>
+        </ul>
+        <ul>
+            <li>
+            <strong>Coatings and buffers to achieve handling, mechanical and delivery needs</strong>
+            <ul>
+                <li>
+                Carbon coatings for enhanced reliability through autoclave sterilization</li>
+                <li>
+                Thin polyimide coatings provide geometric advantages</li>
+                <li>
+                Acrylate coating for improved handling</li>
+                <li>
+                Silicone/PFA coatings to provide lubricity during introduction</li>
+                <li>
+                Metal coatings for visualization</li>
+            </ul>
+            </li>
+        </ul>
+        <ul>
+            <li>
+            <strong>Cabling and jacketing to provide additional mechanical protection</strong>
+            <ul>
+                <li>
+                Polyurethane for flexibility</li>
+                <li>
+                PVC for cost-effectiveness</li>
+                <li>
+                Kevlar for strength and connector attachment</li>
+                <li>
+                Other medical grade jacketing</li>
+            </ul>
+            </li>
+        </ul>
+        <ul>
+            <li>
+            <strong>End preparation and attachment and testing tools</strong>
+            <ul>
+                <li>
+                Fiber stripping and cleaving tools for high-speed/cost-effective assembly</li>
+                <li>
+                Fiber splicing tools for joining and attachment of fibers and optical components</li>
+                <li>
+                Optical testing tools to rapidly measure the as-built performance</li>
+            </ul>
+            </li>
+        </ul>
+        <ul>
+            <li>
+            <strong>Assemblies and sub-assemblies supplied to specification</strong>
+            <ul>
+                <li>
+                Stripped/Cleaved/Tested fiber subassemblies</li>
+                <li>
+                Attachment and test of proximal connectors and distal optical components</li>
+            </ul>
+            </li>
+        </ul>
+    - ID: "56611f02-691a-4096-b044-63aa83122916"
+      Hint: Content
+      Value: |
+        <p>Minimally-invasive surgical and diagnostic procedures have been enabled by the advance of various medical technologies. One of these technologies is the use of thin, flexible fiber optics to visualize, measure, ablate or cauterize.</p>
+        <p>AFL has developed a broad range of medical optical fibers and assemblies to address the needs of the minimally-invasive probe and equipment manufacturers in the medical marketplace:</p>
+        <ul style="color: #333333; background-color: #ffffff; list-style-image: url('https://www.aflglobal.com/productionFiles/images/bulletRound.aspx');">
+            <li><strong>Precision and custom waveguides to deliver low and high power optical signals</strong>
+            <ul style="list-style-image: url('https://www.aflglobal.com/productionFiles/images/bulletSquare.aspx');">
+                <li>Polarization control for interferometric requirements</li>
+                <li>Synthetic fused silica for 200nm to 2100nm transmission windows</li>
+                <li>Step or graded refractive index profiles to achieve desired beam characteristics</li>
+                <li>Photosensitive designs for cost effective fiber bragg grattings</li>
+            </ul>
+            </li>
+        </ul>
+        <ul style="color: #333333; background-color: #ffffff; list-style-image: url('https://www.aflglobal.com/productionFiles/images/bulletRound.aspx');">
+            <li><strong>Coatings and buffers to achieve handling, mechanical and delivery needs</strong>
+            <ul style="list-style-image: url('https://www.aflglobal.com/productionFiles/images/bulletSquare.aspx');">
+                <li>Carbon coatings for enhanced reliability through autoclave sterilization</li>
+                <li>Thin polyimide coatings provide geometric advantages</li>
+                <li>Acrylate coating for improved handling</li>
+                <li>Silicone/PFA coatings to provide lubricity during introduction</li>
+                <li>Metal coatings for visualization</li>
+            </ul>
+            </li>
+        </ul>
+        <ul style="color: #333333; background-color: #ffffff; list-style-image: url('https://www.aflglobal.com/productionFiles/images/bulletRound.aspx');">
+            <li><strong>Cabling and jacketing to provide additional mechanical protection</strong>
+            <ul style="list-style-image: url('https://www.aflglobal.com/productionFiles/images/bulletSquare.aspx');">
+                <li>Polyurethane for flexibility</li>
+                <li>PVC for cost-effectiveness</li>
+                <li>Kevlar for strength and connector attachment</li>
+                <li>Other medical grade jacketing</li>
+            </ul>
+            </li>
+        </ul>
+        <ul style="color: #333333; background-color: #ffffff; list-style-image: url('https://www.aflglobal.com/productionFiles/images/bulletRound.aspx');">
+            <li><strong>End preparation and attachment and testing tools</strong>
+            <ul style="list-style-image: url('https://www.aflglobal.com/productionFiles/images/bulletSquare.aspx');">
+                <li>Fiber stripping and cleaving tools for high-speed/cost-effective assembly</li>
+                <li>Fiber splicing tools for joining and attachment of fibers and optical components</li>
+                <li>Optical testing tools to rapidly measure the as-built performance</li>
+            </ul>
+            </li>
+        </ul>
+        <ul style="color: #333333; background-color: #ffffff; list-style-image: url('https://www.aflglobal.com/productionFiles/images/bulletRound.aspx');">
+            <li><strong>Assemblies and sub-assemblies supplied to specification</strong>
+            <ul style="list-style-image: url('https://www.aflglobal.com/productionFiles/images/bulletSquare.aspx');">
+                <li>Stripped/Cleaved/Tested fiber subassemblies</li>
+                <li>Attachment and test of proximal connectors and distal optical components</li>
+            </ul>
+            </li>
+        </ul>
+        <p style="color: #333333; background-color: #ffffff; margin: 0px 0px 15px;">&nbsp;</p>
+        <div style="color: #333333; background-color: #efefef; padding: 10px; line-height: 20px;">
+        <h2>Download Brochure</h2>
+        <ul style="list-style-image: url('https://www.aflglobal.com/productionFiles/images/bulletRound.aspx');">
+            <li><a rel="noopener noreferrer" href="/productionFiles/resources/QRGs/AFL-Medical-Fiber-Optics-Brochure" target="_blank" style="color: #0091ea; background-color: transparent;">Medical Fiber Optics</a></li>
+        </ul>
+        </div>
+        <p>&nbsp;</p>
+        <div>&nbsp;</div>
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: medical afl fiber optic components cable equipment fujikura image cmos scope device lasers imaging
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: Medical
+    - ID: "628db04b-29a2-483b-a88c-b8fd9a5f2086"
+      Hint: HeroLink
+      Value: |
+        <link id="{D5F3AE0E-0117-4BB2-AD2E-F443243FDD3D}" querystring="" linktype="internal" text="LEARN MORE" anchor="" url="/AFL-Global/EMEA/Home/Solutions/Industrial/Medical" title="" class="" target="|Custom" />
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: Medical
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ef21d6c4-83e6-4887-814d-e92f960280b9"
+    - ID: "93dc88f3-05e5-482d-9b9a-c859c8258a73"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="71166" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/71166/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/75a4f387d5d1488fb0829bbc0f6e7864?v=0066290d" stylelabs-content-type="Image" alt="Slide-Medical.aspx;;" height="383" width="954" />
+    - ID: "a40ebd3d-2b41-41fb-90f7-753544ce77c5"
+      Hint: Hero Title1
+      Value: Medical
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T094458Z
+    - ID: "dd0b26a2-9ca3-4573-b501-3b33a6efbc65"
+      Hint: Hero Title2
+      Value: Specialty fiber, components and assemblies for medical applications
+- Language: "es-ES"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{F0599A62-EBD5-4DB7-B60F-27A0DAC0AD1C}"
+              s:ds="{50726EC2-E2CA-4DD6-84A7-7B3F6D9562A2}"
+              s:id="{B429E1DD-6F98-4971-886B-55E26339CFB2}"
+              s:par="Reset Caching Options&amp;GridParameters&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;DynamicPlaceholderId=1"
+              s:ph="main"
+              s:ccb="Clear on publish" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211122T093110Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Medical
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: "Medical Industry - Medical device manufacturers rely on AFL for enabling photonic technologies, early-stage product development and high-volume manufacturing."
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <p>
+        Minimally-invasive surgical and diagnostic procedures have been enabled by the advance of various medical technologies. One of these technologies is the use of thin, flexible fiber optics to visualize, measure, ablate or cauterize.</p>
+        <p>
+        AFL has developed a broad range of medical optical fibers and assemblies to address the needs of the minimally-invasive probe and equipment manufacturers in the medical marketplace:</p>
+        <ul>
+            <li>
+            <strong>Precision and custom waveguides to deliver low and high power optical signals</strong>
+            <ul>
+                <li>
+                Polarization control for interferometric requirements</li>
+                <li>
+                Synthetic fused silica for 200nm to 2100nm transmission windows</li>
+                <li>
+                Step or graded refractive index profiles to achieve desired beam characteristics</li>
+                <li>
+                Photosensitive designs for cost effective fiber bragg grattings</li>
+            </ul>
+            </li>
+        </ul>
+        <ul>
+            <li>
+            <strong>Coatings and buffers to achieve handling, mechanical and delivery needs</strong>
+            <ul>
+                <li>
+                Carbon coatings for enhanced reliability through autoclave sterilization</li>
+                <li>
+                Thin polyimide coatings provide geometric advantages</li>
+                <li>
+                Acrylate coating for improved handling</li>
+                <li>
+                Silicone/PFA coatings to provide lubricity during introduction</li>
+                <li>
+                Metal coatings for visualization</li>
+            </ul>
+            </li>
+        </ul>
+        <ul>
+            <li>
+            <strong>Cabling and jacketing to provide additional mechanical protection</strong>
+            <ul>
+                <li>
+                Polyurethane for flexibility</li>
+                <li>
+                PVC for cost-effectiveness</li>
+                <li>
+                Kevlar for strength and connector attachment</li>
+                <li>
+                Other medical grade jacketing</li>
+            </ul>
+            </li>
+        </ul>
+        <ul>
+            <li>
+            <strong>End preparation and attachment and testing tools</strong>
+            <ul>
+                <li>
+                Fiber stripping and cleaving tools for high-speed/cost-effective assembly</li>
+                <li>
+                Fiber splicing tools for joining and attachment of fibers and optical components</li>
+                <li>
+                Optical testing tools to rapidly measure the as-built performance</li>
+            </ul>
+            </li>
+        </ul>
+        <ul>
+            <li>
+            <strong>Assemblies and sub-assemblies supplied to specification</strong>
+            <ul>
+                <li>
+                Stripped/Cleaved/Tested fiber subassemblies</li>
+                <li>
+                Attachment and test of proximal connectors and distal optical components</li>
+            </ul>
+            </li>
+        </ul>
+    - ID: "56611f02-691a-4096-b044-63aa83122916"
+      Hint: Content
+      Value: |
+        <p>Minimally-invasive surgical and diagnostic procedures have been enabled by the advance of various medical technologies. One of these technologies is the use of thin, flexible fiber optics to visualize, measure, ablate or cauterize.</p>
+        <p>AFL has developed a broad range of medical optical fibers and assemblies to address the needs of the minimally-invasive probe and equipment manufacturers in the medical marketplace:</p>
+        <ul style="color: #333333; background-color: #ffffff; list-style-image: url('https://www.aflglobal.com/productionFiles/images/bulletRound.aspx');">
+            <li><strong>Precision and custom waveguides to deliver low and high power optical signals</strong>
+            <ul style="list-style-image: url('https://www.aflglobal.com/productionFiles/images/bulletSquare.aspx');">
+                <li>Polarization control for interferometric requirements</li>
+                <li>Synthetic fused silica for 200nm to 2100nm transmission windows</li>
+                <li>Step or graded refractive index profiles to achieve desired beam characteristics</li>
+                <li>Photosensitive designs for cost effective fiber bragg grattings</li>
+            </ul>
+            </li>
+        </ul>
+        <ul style="color: #333333; background-color: #ffffff; list-style-image: url('https://www.aflglobal.com/productionFiles/images/bulletRound.aspx');">
+            <li><strong>Coatings and buffers to achieve handling, mechanical and delivery needs</strong>
+            <ul style="list-style-image: url('https://www.aflglobal.com/productionFiles/images/bulletSquare.aspx');">
+                <li>Carbon coatings for enhanced reliability through autoclave sterilization</li>
+                <li>Thin polyimide coatings provide geometric advantages</li>
+                <li>Acrylate coating for improved handling</li>
+                <li>Silicone/PFA coatings to provide lubricity during introduction</li>
+                <li>Metal coatings for visualization</li>
+            </ul>
+            </li>
+        </ul>
+        <ul style="color: #333333; background-color: #ffffff; list-style-image: url('https://www.aflglobal.com/productionFiles/images/bulletRound.aspx');">
+            <li><strong>Cabling and jacketing to provide additional mechanical protection</strong>
+            <ul style="list-style-image: url('https://www.aflglobal.com/productionFiles/images/bulletSquare.aspx');">
+                <li>Polyurethane for flexibility</li>
+                <li>PVC for cost-effectiveness</li>
+                <li>Kevlar for strength and connector attachment</li>
+                <li>Other medical grade jacketing</li>
+            </ul>
+            </li>
+        </ul>
+        <ul style="color: #333333; background-color: #ffffff; list-style-image: url('https://www.aflglobal.com/productionFiles/images/bulletRound.aspx');">
+            <li><strong>End preparation and attachment and testing tools</strong>
+            <ul style="list-style-image: url('https://www.aflglobal.com/productionFiles/images/bulletSquare.aspx');">
+                <li>Fiber stripping and cleaving tools for high-speed/cost-effective assembly</li>
+                <li>Fiber splicing tools for joining and attachment of fibers and optical components</li>
+                <li>Optical testing tools to rapidly measure the as-built performance</li>
+            </ul>
+            </li>
+        </ul>
+        <ul style="color: #333333; background-color: #ffffff; list-style-image: url('https://www.aflglobal.com/productionFiles/images/bulletRound.aspx');">
+            <li><strong>Assemblies and sub-assemblies supplied to specification</strong>
+            <ul style="list-style-image: url('https://www.aflglobal.com/productionFiles/images/bulletSquare.aspx');">
+                <li>Stripped/Cleaved/Tested fiber subassemblies</li>
+                <li>Attachment and test of proximal connectors and distal optical components</li>
+            </ul>
+            </li>
+        </ul>
+        <p style="color: #333333; background-color: #ffffff; margin: 0px 0px 15px;">&nbsp;</p>
+        <div style="color: #333333; background-color: #efefef; padding: 10px; line-height: 20px;">
+        <h2>Download Brochure</h2>
+        <ul style="list-style-image: url('https://www.aflglobal.com/productionFiles/images/bulletRound.aspx');">
+            <li><a rel="noopener noreferrer" href="/productionFiles/resources/QRGs/AFL-Medical-Fiber-Optics-Brochure" target="_blank" style="color: #0091ea; background-color: transparent;">Medical Fiber Optics</a></li>
+        </ul>
+        </div>
+        <p>&nbsp;</p>
+        <div>&nbsp;</div>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mahesh
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: medical afl fiber optic components cable equipment fujikura image cmos scope device lasers imaging
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: Medical
+    - ID: "628db04b-29a2-483b-a88c-b8fd9a5f2086"
+      Hint: HeroLink
+      Value: |
+        <link id="{D5F3AE0E-0117-4BB2-AD2E-F443243FDD3D}" querystring="" linktype="internal" text="LEARN MORE" anchor="" url="/AFL-Global/EMEA/Home/Solutions/Industrial/Medical" title="" class="" target="|Custom" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "453b95a6-03ab-4129-8678-4117a5210f3e"
+    - ID: "93dc88f3-05e5-482d-9b9a-c859c8258a73"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image mediaid="{18C60454-AA4B-44CF-9B04-719EA9794CE9}" />
+    - ID: "a40ebd3d-2b41-41fb-90f7-753544ce77c5"
+      Hint: Hero Title1
+      Value: Medical
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sripada
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231206T080607Z
+    - ID: "dd0b26a2-9ca3-4573-b501-3b33a6efbc65"
+      Hint: Hero Title2
+      Value: Specialty fiber, components and assemblies for medical applications
+  - Version: 2
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{F0599A62-EBD5-4DB7-B60F-27A0DAC0AD1C}"
+              s:ds="{50726EC2-E2CA-4DD6-84A7-7B3F6D9562A2}"
+              s:id="{B429E1DD-6F98-4971-886B-55E26339CFB2}"
+              s:par="Reset Caching Options&amp;GridParameters&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;DynamicPlaceholderId=1"
+              s:ph="main"
+              s:ccb="Clear on publish" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211122T093110Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Médico
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: "Medical Industry - Medical device manufacturers rely on AFL for enabling photonic technologies, early-stage product development and high-volume manufacturing."
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <p>
+        Minimally-invasive surgical and diagnostic procedures have been enabled by the advance of various medical technologies. One of these technologies is the use of thin, flexible fiber optics to visualize, measure, ablate or cauterize.</p>
+        <p>
+        AFL has developed a broad range of medical optical fibers and assemblies to address the needs of the minimally-invasive probe and equipment manufacturers in the medical marketplace:</p>
+        <ul>
+            <li>
+            <strong>Precision and custom waveguides to deliver low and high power optical signals</strong>
+            <ul>
+                <li>
+                Polarization control for interferometric requirements</li>
+                <li>
+                Synthetic fused silica for 200nm to 2100nm transmission windows</li>
+                <li>
+                Step or graded refractive index profiles to achieve desired beam characteristics</li>
+                <li>
+                Photosensitive designs for cost effective fiber bragg grattings</li>
+            </ul>
+            </li>
+        </ul>
+        <ul>
+            <li>
+            <strong>Coatings and buffers to achieve handling, mechanical and delivery needs</strong>
+            <ul>
+                <li>
+                Carbon coatings for enhanced reliability through autoclave sterilization</li>
+                <li>
+                Thin polyimide coatings provide geometric advantages</li>
+                <li>
+                Acrylate coating for improved handling</li>
+                <li>
+                Silicone/PFA coatings to provide lubricity during introduction</li>
+                <li>
+                Metal coatings for visualization</li>
+            </ul>
+            </li>
+        </ul>
+        <ul>
+            <li>
+            <strong>Cabling and jacketing to provide additional mechanical protection</strong>
+            <ul>
+                <li>
+                Polyurethane for flexibility</li>
+                <li>
+                PVC for cost-effectiveness</li>
+                <li>
+                Kevlar for strength and connector attachment</li>
+                <li>
+                Other medical grade jacketing</li>
+            </ul>
+            </li>
+        </ul>
+        <ul>
+            <li>
+            <strong>End preparation and attachment and testing tools</strong>
+            <ul>
+                <li>
+                Fiber stripping and cleaving tools for high-speed/cost-effective assembly</li>
+                <li>
+                Fiber splicing tools for joining and attachment of fibers and optical components</li>
+                <li>
+                Optical testing tools to rapidly measure the as-built performance</li>
+            </ul>
+            </li>
+        </ul>
+        <ul>
+            <li>
+            <strong>Assemblies and sub-assemblies supplied to specification</strong>
+            <ul>
+                <li>
+                Stripped/Cleaved/Tested fiber subassemblies</li>
+                <li>
+                Attachment and test of proximal connectors and distal optical components</li>
+            </ul>
+            </li>
+        </ul>
+    - ID: "56611f02-691a-4096-b044-63aa83122916"
+      Hint: Content
+      Value: |
+        <p>Minimally-invasive surgical and diagnostic procedures have been enabled by the advance of various medical technologies. One of these technologies is the use of thin, flexible fiber optics to visualize, measure, ablate or cauterize.</p>
+        <p>AFL has developed a broad range of medical optical fibers and assemblies to address the needs of the minimally-invasive probe and equipment manufacturers in the medical marketplace:</p>
+        <ul style="color: #333333; background-color: #ffffff; list-style-image: url('https://www.aflglobal.com/productionFiles/images/bulletRound.aspx');">
+            <li><strong>Precision and custom waveguides to deliver low and high power optical signals</strong>
+            <ul style="list-style-image: url('https://www.aflglobal.com/productionFiles/images/bulletSquare.aspx');">
+                <li>Polarization control for interferometric requirements</li>
+                <li>Synthetic fused silica for 200nm to 2100nm transmission windows</li>
+                <li>Step or graded refractive index profiles to achieve desired beam characteristics</li>
+                <li>Photosensitive designs for cost effective fiber bragg grattings</li>
+            </ul>
+            </li>
+        </ul>
+        <ul style="color: #333333; background-color: #ffffff; list-style-image: url('https://www.aflglobal.com/productionFiles/images/bulletRound.aspx');">
+            <li><strong>Coatings and buffers to achieve handling, mechanical and delivery needs</strong>
+            <ul style="list-style-image: url('https://www.aflglobal.com/productionFiles/images/bulletSquare.aspx');">
+                <li>Carbon coatings for enhanced reliability through autoclave sterilization</li>
+                <li>Thin polyimide coatings provide geometric advantages</li>
+                <li>Acrylate coating for improved handling</li>
+                <li>Silicone/PFA coatings to provide lubricity during introduction</li>
+                <li>Metal coatings for visualization</li>
+            </ul>
+            </li>
+        </ul>
+        <ul style="color: #333333; background-color: #ffffff; list-style-image: url('https://www.aflglobal.com/productionFiles/images/bulletRound.aspx');">
+            <li><strong>Cabling and jacketing to provide additional mechanical protection</strong>
+            <ul style="list-style-image: url('https://www.aflglobal.com/productionFiles/images/bulletSquare.aspx');">
+                <li>Polyurethane for flexibility</li>
+                <li>PVC for cost-effectiveness</li>
+                <li>Kevlar for strength and connector attachment</li>
+                <li>Other medical grade jacketing</li>
+            </ul>
+            </li>
+        </ul>
+        <ul style="color: #333333; background-color: #ffffff; list-style-image: url('https://www.aflglobal.com/productionFiles/images/bulletRound.aspx');">
+            <li><strong>End preparation and attachment and testing tools</strong>
+            <ul style="list-style-image: url('https://www.aflglobal.com/productionFiles/images/bulletSquare.aspx');">
+                <li>Fiber stripping and cleaving tools for high-speed/cost-effective assembly</li>
+                <li>Fiber splicing tools for joining and attachment of fibers and optical components</li>
+                <li>Optical testing tools to rapidly measure the as-built performance</li>
+            </ul>
+            </li>
+        </ul>
+        <ul style="color: #333333; background-color: #ffffff; list-style-image: url('https://www.aflglobal.com/productionFiles/images/bulletRound.aspx');">
+            <li><strong>Assemblies and sub-assemblies supplied to specification</strong>
+            <ul style="list-style-image: url('https://www.aflglobal.com/productionFiles/images/bulletSquare.aspx');">
+                <li>Stripped/Cleaved/Tested fiber subassemblies</li>
+                <li>Attachment and test of proximal connectors and distal optical components</li>
+            </ul>
+            </li>
+        </ul>
+        <p style="color: #333333; background-color: #ffffff; margin: 0px 0px 15px;">&nbsp;</p>
+        <div style="color: #333333; background-color: #efefef; padding: 10px; line-height: 20px;">
+        <h2>Download Brochure</h2>
+        <ul style="list-style-image: url('https://www.aflglobal.com/productionFiles/images/bulletRound.aspx');">
+            <li><a rel="noopener noreferrer" href="/productionFiles/resources/QRGs/AFL-Medical-Fiber-Optics-Brochure" target="_blank" style="color: #0091ea; background-color: transparent;">Medical Fiber Optics</a></li>
+        </ul>
+        </div>
+        <p>&nbsp;</p>
+        <div>&nbsp;</div>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mahesh
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: medical afl fiber optic components cable equipment fujikura image cmos scope device lasers imaging
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: Médico
+    - ID: "628db04b-29a2-483b-a88c-b8fd9a5f2086"
+      Hint: HeroLink
+      Value: |
+        <link id="{D5F3AE0E-0117-4BB2-AD2E-F443243FDD3D}" querystring="" linktype="internal" text="LEARN MORE" anchor="" url="/AFL-Global/EMEA/Home/Solutions/Industrial/Medical" title="" class="" target="|Custom" />
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: Médico
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "294b864d-169f-4bc6-86e1-c81a03d85201"
+    - ID: "93dc88f3-05e5-482d-9b9a-c859c8258a73"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="71166" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/71166/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/75a4f387d5d1488fb0829bbc0f6e7864?v=0066290d" stylelabs-content-type="Image" alt="Slide-Medical.aspx;;" height="383" width="954" />
+    - ID: "a40ebd3d-2b41-41fb-90f7-753544ce77c5"
+      Hint: Hero Title1
+      Value: Medical
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T094458Z
+    - ID: "dd0b26a2-9ca3-4573-b501-3b33a6efbc65"
+      Hint: Hero Title2
+      Value: Specialty fiber, components and assemblies for medical applications
+- Language: "fr-FR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{F0599A62-EBD5-4DB7-B60F-27A0DAC0AD1C}"
+              s:ds="{50726EC2-E2CA-4DD6-84A7-7B3F6D9562A2}"
+              s:id="{B429E1DD-6F98-4971-886B-55E26339CFB2}"
+              s:par="Reset Caching Options&amp;GridParameters&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;DynamicPlaceholderId=1"
+              s:ph="main"
+              s:ccb="Clear on publish" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211122T093110Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Médical
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: "Medical Industry - Medical device manufacturers rely on AFL for enabling photonic technologies, early-stage product development and high-volume manufacturing."
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <p>
+        Minimally-invasive surgical and diagnostic procedures have been enabled by the advance of various medical technologies. One of these technologies is the use of thin, flexible fiber optics to visualize, measure, ablate or cauterize.</p>
+        <p>
+        AFL has developed a broad range of medical optical fibers and assemblies to address the needs of the minimally-invasive probe and equipment manufacturers in the medical marketplace:</p>
+        <ul>
+            <li>
+            <strong>Precision and custom waveguides to deliver low and high power optical signals</strong>
+            <ul>
+                <li>
+                Polarization control for interferometric requirements</li>
+                <li>
+                Synthetic fused silica for 200nm to 2100nm transmission windows</li>
+                <li>
+                Step or graded refractive index profiles to achieve desired beam characteristics</li>
+                <li>
+                Photosensitive designs for cost effective fiber bragg grattings</li>
+            </ul>
+            </li>
+        </ul>
+        <ul>
+            <li>
+            <strong>Coatings and buffers to achieve handling, mechanical and delivery needs</strong>
+            <ul>
+                <li>
+                Carbon coatings for enhanced reliability through autoclave sterilization</li>
+                <li>
+                Thin polyimide coatings provide geometric advantages</li>
+                <li>
+                Acrylate coating for improved handling</li>
+                <li>
+                Silicone/PFA coatings to provide lubricity during introduction</li>
+                <li>
+                Metal coatings for visualization</li>
+            </ul>
+            </li>
+        </ul>
+        <ul>
+            <li>
+            <strong>Cabling and jacketing to provide additional mechanical protection</strong>
+            <ul>
+                <li>
+                Polyurethane for flexibility</li>
+                <li>
+                PVC for cost-effectiveness</li>
+                <li>
+                Kevlar for strength and connector attachment</li>
+                <li>
+                Other medical grade jacketing</li>
+            </ul>
+            </li>
+        </ul>
+        <ul>
+            <li>
+            <strong>End preparation and attachment and testing tools</strong>
+            <ul>
+                <li>
+                Fiber stripping and cleaving tools for high-speed/cost-effective assembly</li>
+                <li>
+                Fiber splicing tools for joining and attachment of fibers and optical components</li>
+                <li>
+                Optical testing tools to rapidly measure the as-built performance</li>
+            </ul>
+            </li>
+        </ul>
+        <ul>
+            <li>
+            <strong>Assemblies and sub-assemblies supplied to specification</strong>
+            <ul>
+                <li>
+                Stripped/Cleaved/Tested fiber subassemblies</li>
+                <li>
+                Attachment and test of proximal connectors and distal optical components</li>
+            </ul>
+            </li>
+        </ul>
+    - ID: "56611f02-691a-4096-b044-63aa83122916"
+      Hint: Content
+      Value: |
+        <p>Minimally-invasive surgical and diagnostic procedures have been enabled by the advance of various medical technologies. One of these technologies is the use of thin, flexible fiber optics to visualize, measure, ablate or cauterize.</p>
+        <p>AFL has developed a broad range of medical optical fibers and assemblies to address the needs of the minimally-invasive probe and equipment manufacturers in the medical marketplace:</p>
+        <ul style="color: #333333; background-color: #ffffff; list-style-image: url('https://www.aflglobal.com/productionFiles/images/bulletRound.aspx');">
+            <li><strong>Precision and custom waveguides to deliver low and high power optical signals</strong>
+            <ul style="list-style-image: url('https://www.aflglobal.com/productionFiles/images/bulletSquare.aspx');">
+                <li>Polarization control for interferometric requirements</li>
+                <li>Synthetic fused silica for 200nm to 2100nm transmission windows</li>
+                <li>Step or graded refractive index profiles to achieve desired beam characteristics</li>
+                <li>Photosensitive designs for cost effective fiber bragg grattings</li>
+            </ul>
+            </li>
+        </ul>
+        <ul style="color: #333333; background-color: #ffffff; list-style-image: url('https://www.aflglobal.com/productionFiles/images/bulletRound.aspx');">
+            <li><strong>Coatings and buffers to achieve handling, mechanical and delivery needs</strong>
+            <ul style="list-style-image: url('https://www.aflglobal.com/productionFiles/images/bulletSquare.aspx');">
+                <li>Carbon coatings for enhanced reliability through autoclave sterilization</li>
+                <li>Thin polyimide coatings provide geometric advantages</li>
+                <li>Acrylate coating for improved handling</li>
+                <li>Silicone/PFA coatings to provide lubricity during introduction</li>
+                <li>Metal coatings for visualization</li>
+            </ul>
+            </li>
+        </ul>
+        <ul style="color: #333333; background-color: #ffffff; list-style-image: url('https://www.aflglobal.com/productionFiles/images/bulletRound.aspx');">
+            <li><strong>Cabling and jacketing to provide additional mechanical protection</strong>
+            <ul style="list-style-image: url('https://www.aflglobal.com/productionFiles/images/bulletSquare.aspx');">
+                <li>Polyurethane for flexibility</li>
+                <li>PVC for cost-effectiveness</li>
+                <li>Kevlar for strength and connector attachment</li>
+                <li>Other medical grade jacketing</li>
+            </ul>
+            </li>
+        </ul>
+        <ul style="color: #333333; background-color: #ffffff; list-style-image: url('https://www.aflglobal.com/productionFiles/images/bulletRound.aspx');">
+            <li><strong>End preparation and attachment and testing tools</strong>
+            <ul style="list-style-image: url('https://www.aflglobal.com/productionFiles/images/bulletSquare.aspx');">
+                <li>Fiber stripping and cleaving tools for high-speed/cost-effective assembly</li>
+                <li>Fiber splicing tools for joining and attachment of fibers and optical components</li>
+                <li>Optical testing tools to rapidly measure the as-built performance</li>
+            </ul>
+            </li>
+        </ul>
+        <ul style="color: #333333; background-color: #ffffff; list-style-image: url('https://www.aflglobal.com/productionFiles/images/bulletRound.aspx');">
+            <li><strong>Assemblies and sub-assemblies supplied to specification</strong>
+            <ul style="list-style-image: url('https://www.aflglobal.com/productionFiles/images/bulletSquare.aspx');">
+                <li>Stripped/Cleaved/Tested fiber subassemblies</li>
+                <li>Attachment and test of proximal connectors and distal optical components</li>
+            </ul>
+            </li>
+        </ul>
+        <p style="color: #333333; background-color: #ffffff; margin: 0px 0px 15px;">&nbsp;</p>
+        <div style="color: #333333; background-color: #efefef; padding: 10px; line-height: 20px;">
+        <h2>Download Brochure</h2>
+        <ul style="list-style-image: url('https://www.aflglobal.com/productionFiles/images/bulletRound.aspx');">
+            <li><a rel="noopener noreferrer" href="/productionFiles/resources/QRGs/AFL-Medical-Fiber-Optics-Brochure" target="_blank" style="color: #0091ea; background-color: transparent;">Medical Fiber Optics</a></li>
+        </ul>
+        </div>
+        <p>&nbsp;</p>
+        <div>&nbsp;</div>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mahesh
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: medical afl fiber optic components cable equipment fujikura image cmos scope device lasers imaging
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: Médical
+    - ID: "628db04b-29a2-483b-a88c-b8fd9a5f2086"
+      Hint: HeroLink
+      Value: |
+        <link id="{D5F3AE0E-0117-4BB2-AD2E-F443243FDD3D}" querystring="" linktype="internal" text="LEARN MORE" anchor="" url="/AFL-Global/EMEA/Home/Solutions/Industrial/Medical" title="" class="" target="|Custom" />
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: Médical
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "baf01937-3493-4ea1-b728-4bcb41a772b7"
+    - ID: "93dc88f3-05e5-482d-9b9a-c859c8258a73"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="71166" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/71166/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/75a4f387d5d1488fb0829bbc0f6e7864?v=0066290d" stylelabs-content-type="Image" alt="Slide-Medical.aspx;;" height="383" width="954" />
+    - ID: "a40ebd3d-2b41-41fb-90f7-753544ce77c5"
+      Hint: Hero Title1
+      Value: Medical
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T094458Z
+    - ID: "dd0b26a2-9ca3-4573-b501-3b33a6efbc65"
+      Hint: Hero Title2
+      Value: Specialty fiber, components and assemblies for medical applications
