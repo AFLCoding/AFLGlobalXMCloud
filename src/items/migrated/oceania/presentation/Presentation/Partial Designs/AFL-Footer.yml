@@ -1,0 +1,23 @@
+﻿---
+ID: "955a1562-c0f5-46fc-a5f3-c74cc48490be"
+Parent: "5ea68b35-36d2-45ff-8157-bb2b7762cf49"
+Template: "5a2a1f93-f62d-4883-aa79-6fe6b157fc60"
+Path: "/sitecore/content/AFL-Global/OCEANIA/Presentation/Partial Designs/AFL-Footer"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211019T071022Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "93439317-cbae-4a02-bde9-56f8e5129bf6"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20211019T071022Z

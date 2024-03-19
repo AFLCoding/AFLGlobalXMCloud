@@ -1,0 +1,92 @@
+﻿---
+ID: "75f5c9ec-3936-40cf-8ab5-b4812a5914a1"
+Parent: "b11e3ef3-26fd-43e8-9bdc-581a2bfebe27"
+Template: "bf61de11-b78f-48ea-aaa4-1d17f0d83824"
+Path: "/sitecore/content/AFL-Global/OCEANIA/Home/Solutions/Industrial/Oil and Gas"
+SharedFields:
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{EDC9686A-85F3-466E-8E7E-3D28540B77AB}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 50
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220201T121136Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Oil & Gas
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\tanishka
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: Oil and gas fiber optic solutions from AFL offer improved communications and safety. Sensing and withstanding heat, pressure, moisture, corrosion and vibration.
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <h2>
+        AFL provides optimized fiber optic cables for the oil and gas industry</h2>
+        <p>
+        The global demand for oil and gas has caused rapid expansion and investment to replace an infrastructure that has not changed significantly over the last few decades. The industry as a whole recognizes the need for improved monitoring systems. Fibre optic installation is a key component of the expansion, allowing companies to leverage the advantages offered by fiber while improving operational performance and accuracy.</p>
+        <p>
+        The oil and gas industry requires very specific cabling and connectivity requirements to ensure safety, productivity and durability in harsh environments. Downhole equipment must be reliable and able to withstand heat, pressure, moisture, corrosion and vibration.</p>
+        <p>
+        Fibre optics for oil and gas serve as links for data, control and for sensing of various attributes. Since fibre optics offer large bandwidth in a compact cable, size, weight and installation time are reduced. With sensor applications, fibre optic solutions provide a wide range of data about environmental conditions such as temperature, oil reserve levels and equipment performance or status.</p>
+        <p>
+        As drilling moves further offshore, traditional copper wire will not handle the distance due to limitations in bandwidth. It will become imperative to employ fibre optic technologies that allow increased and improved data generation and analysis. AFL is already assisting customers deploying acoustic and distributed temperature monitoring.<br />
+         </p>
+        <h3>
+        Splicing and Optimization Services</h3>
+        <div>
+        AFL can also provide custom engineering services for special splicing or fibre preparation applications. These services may include custom hardware or software design, and process improvement consultation. Services may also include advanced splicer training and maintenance service agreements. <br />
+        <br />
+        Additionally, if your company is developing a new optical component and/or requires a critical splice, AFL may be able to fabricate spliced components, such as dissimilar fibre splicing, ball lens, tapers, TEC, combiners and MFAs to help accelerate your time to market.<br />
+        <br />
+        As the need for more sophisticated fibre optics develops, AFL remains on the leading edge in the customization of cables using different alloys and outer encapsulations. Through relationships with equipment manufacturers and a thorough understanding of customer needs in the market, AFL is able to serve this high-tech industry with a <a href="~/link.aspx?_id=CA8CB03B5B7F424CBE151A94FDB17968&_z=z">cable portfolio</a> no other company can offer. Our new <a href="~/link.aspx?_id=267B981AA87D4E89AF4FF247F4A1CFD2&_z=z">Sidewinder™ Rapid Cable Deployment System </a>allows for fast deployment and retrieval of tactical fibre optic cables used in field deployable applications.<br />
+        <br />
+        By producing the optical fibre, steel tubing and other key components in house, AFL can serve customers from any location worldwide. Let AFL custom design and deliver fibre optic cable and connectivity products for your precise application.<br />
+        <br />
+         </div>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\tanishka
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: oil gas fiber optic cable communication sensing harsh environments safety Australia New Zealand
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: Oil & Gas
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: Oil & Gas
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6da1fa4d-cb5c-45a3-8704-5f79c5d9d533"
+    - ID: "93dc88f3-05e5-482d-9b9a-c859c8258a73"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image stylelabs-content-id="176188" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/176188/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/Homepage-Markets-Industrial2?v=f743fadf" mediaid="" stylelabs-content-type="Image" alt="OilGas_Market.jpg" height="250" width="570" />
+    - ID: "a40ebd3d-2b41-41fb-90f7-753544ce77c5"
+      Hint: Hero Title1
+      Value: Oil & Gas
+    - ID: "ab91d39b-30ad-4050-acef-07c741146fcc"
+      Hint: Heading
+      Value: Oil & Gas
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T093605Z
+    - ID: "dd0b26a2-9ca3-4573-b501-3b33a6efbc65"
+      Hint: Hero Title2
+      Value: "High-tech cabling ensures safety, productivity and durability in harsh environments"

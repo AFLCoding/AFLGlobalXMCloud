@@ -1,0 +1,86 @@
+﻿---
+ID: "2af28b99-33d4-4fdc-be17-605b960ed58e"
+Parent: "270282d8-4f69-44b2-aa25-83b8deb7b109"
+Template: "f36e821e-bb98-44dc-966d-e92a0e033cc7"
+Path: "/sitecore/content/AFL-Global/OCEANIA/Home/Company/Company Profile/NewsArchive/2016/AFL Associates Volunteer at Greer Reliefs Christm"
+SharedFields:
+- ID: "1fbc6a49-6281-48ee-87e9-a3970b145adb"
+  Hint: NavigationFilter
+  Value: |
+    {E0A2A027-0932-4878-A7D6-0416D5263EFB}
+    {61BD64D6-809E-40AE-9297-2724A19329B3}
+    {D063E9D1-C7B5-4B1E-B31E-69886C9C59F5}
+    {500AE4C0-FA7B-463F-8149-EFFF7F044101}
+    {A0E7FF57-6994-4B09-AA21-104239628D5A}
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{3A84BAC9-C1BD-4809-A12C-28EB44E25329}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{DAE7C21D-4D3B-4257-A95C-9104CD8AF409}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "228f9517-e120-4014-b2c7-df0ac467a349"
+      Hint: ContentTitle
+      Value: AFL Associates Volunteer at Greer Relief’s Christmas Shoppe
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220109T185641Z
+    - ID: "3688d7df-2feb-43a4-ab8d-410e5f70a676"
+      Hint: ContentDescription
+      Value: |
+        <p>Spartanburg, SC – <a href="http://www.afl/">AFL</a> associates volunteered at <a href="http://greerrelief.org/">Greer Relief</a> to begin the process of preparing for this year’s Christmas Morning Shoppe, a program that provides an opportunity for parents to shop for gifts for their children. Descending on the old Greer Citizen building on Victoria Street, more than 30 volunteers cleaned, painted, sorted and stocked the building so that “shoppers” can easily find gifts. Additionally, volunteers decorated for Christmas leaving the building ready for the program to begin.</p>
+        <p>“Greer Relief is so integral to the community that we wanted to do something that would make a huge difference for them,” commented Steve Polidan, general manager for AFL. “Spending time helping them prepare for one of their busiest seasons helped ease a burden. What might have taken them several days to complete, we were able to complete within one full day.”<br />
+        <br />
+        AFL supplemented the volunteer efforts with a $1,500 grant made possible by <a href="https://www.aflglobal.com/Company/Community.aspx">AFL’s Community Outreach Program</a>. Greer Relief Executive Director, Caroline Robertson, provided tours for the volunteers so they had a better understanding on how their operations work and what a person might go through when they come to them for help. <br />
+        <br />
+        “We sincerely appreciate the time and financial support from AFL. They truly believe in this community and making a big impact in their own back yard,” said Robertson.<br />
+        <br />
+        Greer Relief exists to transform neighbors in need to neighbors who thrive by providing services to eliminate poverty and help neighbors overcome barriers for success. Greer Relief is making a change in how gifts are distributed. With its Christmas Morning Shoppe, parents will be able to shop for gifts, making selections themselves for a more personal touch, and then wrapping them onsite. <br />
+        <br />
+        AFL has an extensive <a href="https://www.aflglobal.com/Company/Community.aspx">Community Outreach Program </a>that provides grants, sponsorships, associate engagement projects, disaster relief and more. For additional information on AFL and its community initiatives, visit <a href="http://www.aflglobal.com/">www.AFLglobal.com</a>.<br />
+         <br />
+        <strong>About AFL</strong><br />
+        Founded in 1984, AFL is an international manufacturer providing end-to-end solutions to the energy, service provider, enterprise and industrial markets as well as several emerging markets. The company’s products are in use in over 130 countries and include fiber optic cable and hardware, transmission and substation accessories, outside plant equipment, connectivity, test and inspection equipment, fusion splicers and training. AFL also offers a wide variety of services supporting data center, enterprise, wireless, and outside plant applications.<br />
+        <br />
+        Headquartered in Spartanburg, SC, AFL has operations in the U.S., Mexico, Canada, Europe, Asia and Australia, and is a wholly-owned subsidiary of Fujikura Ltd. of Japan. For more information, visit <a href="http://www.aflglobal.com/">www.AFLglobal.com</a>. <br />
+        <br />
+        <strong>Contacts</strong><br />
+        Corie Culp<br />
+        Community Relations Manager<br />
+        AFL<br />
+        864.433.5409<br />
+        <a href="mailto:Corie.Culp@AFLglobal.com">Corie.Culp@AFLglobal.com</a></p>
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: AFL Associates Volunteer at Greer Reliefs Christm
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kushagra
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kushagra
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: AFL Associates Volunteer at Greer Reliefs Christm
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: AFL Associates Volunteer at Greer Reliefs Christm
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "80e3f124-0b78-4826-99e2-b387f1656a70"
+    - ID: "a6eaffd5-fc3e-41b4-93b3-f1721fcf2300"
+      Hint: ContentPublishedDate
+      Value: 20161031T183000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T093940Z
