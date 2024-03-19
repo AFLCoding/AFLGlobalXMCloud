@@ -10,7 +10,7 @@ SharedFields:
 - ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
   Value: |
-    <image mediaid="{3A6C1BB4-A33E-43B1-9E13-8CC75FD6BCED}" />
+    <image mediaid="{0CDD97B2-FE30-439D-AFAB-6DD2E6AEEEBB}" />
 - ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
   Hint: __Renderings
   Value: |
@@ -21,10 +21,10 @@ SharedFields:
         <r
           uid="{E6D36B4F-A45D-4FE0-AFED-F8682F08F8E0}"
           p:before="*"
-          s:ds="{2D5EA765-5DDD-4512-9E67-DA6EEF55BC10}"
+          s:ds="{58A00F9A-1DB0-4777-A765-F7BCAEA468A2}"
           s:id="{E41EDD07-FAA6-4679-91E5-74DD15EE695E}"
           s:par="CSSStyles"
-          s:ph="headless-main-test"
+          s:ph="headless-footer"
           s:ccb="Clear on publish" />
         <r
           uid="{4EE19D9E-E6C1-4198-91B3-64AF03438F90}"
@@ -54,11 +54,11 @@ Languages:
         sitecore\asmita.parkar@altudo.co
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "c5e6899a-fc65-4861-92d3-4d31ba4b6cb7"
+      Value: "5e8808c1-8c6a-4e10-b26a-d18ac72d9b92"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\pawan.tyagi@altudo.co
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240315T083222Z
+      Value: 20240315T164056Z

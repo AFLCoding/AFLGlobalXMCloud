@@ -3,10 +3,6 @@ ID: "d5f7742a-1dab-4eac-956b-94569758808f"
 Parent: "6bcfb531-2d3a-412f-9572-c10940bfce77"
 Template: "6bcfb531-2d3a-412f-9572-c10940bfce77"
 Path: /sitecore/templates/Feature/AFL/Rendering Parameters/AFL Product Detail/__Standard Values
-SharedFields:
-- ID: "3094d236-5985-4c4f-ae6a-e30740885532"
-  Hint: Caching
-  Value: 0|0|0|0|0|0|0|0
 Languages:
 - Language: en
   Versions:

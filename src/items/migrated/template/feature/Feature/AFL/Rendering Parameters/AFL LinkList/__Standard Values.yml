@@ -4,9 +4,6 @@ Parent: "44dd46c5-f53b-40f6-ac87-db0a5798154e"
 Template: "44dd46c5-f53b-40f6-ac87-db0a5798154e"
 Path: /sitecore/templates/Feature/AFL/Rendering Parameters/AFL LinkList/__Standard Values
 SharedFields:
-- ID: "3094d236-5985-4c4f-ae6a-e30740885532"
-  Hint: Caching
-  Value: 0|0|0|0|0|0|0|0
 - ID: "c72335af-d2de-4371-9d17-455671f94af0"
   Hint: TitleHeadingLevel
   Value: "{6A44D9C6-61F0-4B69-8E1A-FDC27F96BA0F}"
