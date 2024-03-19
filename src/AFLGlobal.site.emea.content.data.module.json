@@ -4,7 +4,7 @@
   "items": {
     "includes": [
       {
-        "name": "migrated/emea/data",
+        "name": "emea/data",
         "path": "/sitecore/content/AFL-Global/EMEA/Data",
         "rules": [
           {
