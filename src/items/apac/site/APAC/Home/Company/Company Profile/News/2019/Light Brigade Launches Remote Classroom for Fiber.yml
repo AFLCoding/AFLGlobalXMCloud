@@ -1,0 +1,92 @@
+﻿---
+ID: "92f2af31-8922-410a-b5c3-8b2a3b2b1e46"
+Parent: "c3270b71-0f5a-43c7-8cf9-b6ecdc375395"
+Template: "f36e821e-bb98-44dc-966d-e92a0e033cc7"
+Path: /sitecore/content/AFLGlobal/APAC/Home/Company/Company Profile/News/2019/Light Brigade Launches Remote Classroom for Fiber
+SharedFields:
+- ID: "1fbc6a49-6281-48ee-87e9-a3970b145adb"
+  Hint: NavigationFilter
+  Value: |
+    {E0A2A027-0932-4878-A7D6-0416D5263EFB}
+    {61BD64D6-809E-40AE-9297-2724A19329B3}
+    {D063E9D1-C7B5-4B1E-B31E-69886C9C59F5}
+    {500AE4C0-FA7B-463F-8149-EFFF7F044101}
+    {A0E7FF57-6994-4B09-AA21-104239628D5A}
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{3A84BAC9-C1BD-4809-A12C-28EB44E25329}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{DAE7C21D-4D3B-4257-A95C-9104CD8AF409}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "228f9517-e120-4014-b2c7-df0ac467a349"
+      Hint: ContentTitle
+      Value: "Light Brigade® Launches Remote Classroom for Fiber Optics 1-2-3 Course"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211208T133805Z
+    - ID: "3688d7df-2feb-43a4-ab8d-410e5f70a676"
+      Hint: ContentDescription
+      Value: |
+        <div>Kent, WA and Spartanburg, SC –  Light Brigade, AFL’s training and education division, launched a remote classroom format of its popular Fiber Optics 1-2-3 (FO 123) course. The remote classroom format is designed for the fiber optic professional who does not need the additional hands-on training provided in Light Brigade’s four-day classroom course.
+        Without the inconvenience and expense of travel, FO 123 remote classroom students will gain a solid understanding of fiber technology and network components. In addition to receiving valuable insights from our senior instructor, students will have access to our technologists who will answer questions in real-time.<br />
+        <br />
+        “We have held trial runs of various remote training formats to determine the best way to offer this convenient learning option,” explained Lee Kellett, General Manager for Light Brigade. “I think this format, with four half days and one of our senior instructors at the helm, will provide a great experience for our students.”<br />
+        <br />
+        FO 123 remote classroom students login from anywhere for four hours a day for four days to gain a comprehensive background in fiber optics. Upon completion of the course, students have the option of enrolling in Light Brigade’s two-day hands-on FO 123 to advance their fiber skills or prepare for the ETA FOI Certification.<br />
+        <br />
+        The next remote FO 123 classroom is on May 28-31 from 8:00 a.m. PST to 12:00 p.m. PST. For additional information on this course of study, fill out this contact form.<br />
+        To learn more about Light Brigade, visit www.lightbrigade.com. To learn more about AFL, its products and services, visit <a href="http://www.aflglobal.com/">www.AFLglobal.com</a>.<br />
+        <br />
+        About Light Brigade<br />
+        Founded in 1987, Light Brigade has trained over 60,000 technicians, installers, engineers, designers and other support staff worldwide in a variety of industries. Light Brigade’s instructor-led and custom classes focus on fiber optic installation, testing and troubleshooting as well engineering design including specialized applications for FTTx, utilities, industrial, broadcast and others. All courses are designed to improve efficiencies, reduce costly errors and lower operating costs by focusing on technology and providing relevant course materials. To learn more visit lightbrigade.com or learn.lightbrigade.com or call (800) 451-7128.  <br />
+        <br />
+        About AFL<br />
+        Founded in 1984, AFL is an international manufacturer providing end-to-end solutions to the energy, service provider, enterprise and industrial markets as well as several emerging markets. The company’s products are in use in over 130 countries and include fiber optic cable and hardware, transmission and substation accessories, outside plant equipment, connectivity, test and inspection equipment, fusion splicers and training. AFL also offers a wide variety of services supporting data center, enterprise, wireless and outside plant applications.<br />
+         <br />
+        Headquartered in Spartanburg, SC, AFL has operations in the U.S., Mexico, Canada, Europe, Asia and Australia, and is a wholly-owned subsidiary of Fujikura Ltd. of Japan. For more information, visit <a rel="noopener noreferrer" href="http://www.aflglobal.com/" target="_blank">www.AFLglobal.com</a>.<br />
+        <br />
+        Follow us on <a rel="noopener noreferrer" href="https://www.linkedin.com/company/afl-2" target="_blank">LinkedIn</a>, <a rel="noopener noreferrer" href="https://twitter.com/AFLglobal" target="_blank">Twitter</a>, and “like us” on <a rel="noopener noreferrer" href="https://www.facebook.com/AFLcorp" target="_blank">Facebook</a>. Review our <a rel="noopener noreferrer" href="https://www.aflglobal.com/AFL-Blog/" target="_blank">blog</a> or subscribe to our bi-monthly e-newsletter.<br />
+        <br />
+        Contacts<br />
+        Carole DeGruchy<br />
+        Marketing Specialist<br />
+        Light Brigade<br />
+        425.291.4254<br />
+        <a href="mailto:carole@lightbrigade.com">carole@lightbrigade.com</a><br />
+        <br />
+        Corie Culp<br />
+        Public Relations Manager<br />
+        AFL<br />
+        864.433.5409<br />
+        <a href="mailto:Corie.Culp@AFLglobal.com">Corie.Culp@AFLglobal.com</a></div>
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Light Brigade Launches Remote Classroom for Fiber
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: "Light Brigade® Launches Remote Classroom for Fiber Optics 1-2-3 Course"
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: "Light Brigade® Launches Remote Classroom for Fiber Optics 1-2-3 Course"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "aba9560c-0748-4c5c-a7e2-fb27b2162121"
+    - ID: "9dd4f0d9-c123-47a8-8cef-2c85cea172f6"
+      Hint: ContentImage
+      Value: |
+        <image mediaid="{BE9E3452-AFDA-4FA3-B908-DE5BDFA3C97F}" />
+    - ID: "a6eaffd5-fc3e-41b4-93b3-f1721fcf2300"
+      Hint: ContentPublishedDate
+      Value: 20190423T183000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\pawan.tyagi@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240316T041435Z

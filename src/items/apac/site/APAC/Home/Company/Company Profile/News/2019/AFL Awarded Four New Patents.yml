@@ -1,0 +1,99 @@
+﻿---
+ID: "f2de7eec-8f1f-400e-90f5-e0b8b730e446"
+Parent: "c3270b71-0f5a-43c7-8cf9-b6ecdc375395"
+Template: "f36e821e-bb98-44dc-966d-e92a0e033cc7"
+Path: /sitecore/content/AFLGlobal/APAC/Home/Company/Company Profile/News/2019/AFL Awarded Four New Patents
+SharedFields:
+- ID: "1fbc6a49-6281-48ee-87e9-a3970b145adb"
+  Hint: NavigationFilter
+  Value: |
+    {E0A2A027-0932-4878-A7D6-0416D5263EFB}
+    {61BD64D6-809E-40AE-9297-2724A19329B3}
+    {D063E9D1-C7B5-4B1E-B31E-69886C9C59F5}
+    {500AE4C0-FA7B-463F-8149-EFFF7F044101}
+    {A0E7FF57-6994-4B09-AA21-104239628D5A}
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{3A84BAC9-C1BD-4809-A12C-28EB44E25329}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{DAE7C21D-4D3B-4257-A95C-9104CD8AF409}"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{48D826CA-7AE6-4387-AE67-E7070B242906}">
+          <p:d />
+        </r>
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "228f9517-e120-4014-b2c7-df0ac467a349"
+      Hint: ContentTitle
+      Value: AFL Awarded Four New Patents
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211208T135254Z
+    - ID: "3688d7df-2feb-43a4-ab8d-410e5f70a676"
+      Hint: ContentDescription
+      Value: |
+        <div>Spartanburg, SC – <a href="~/link.aspx?_id=CB5A0B73F40540109C53688EDA61E0F7&_z=z">AFL</a>, an international manufacturer of fiber optic cable, equipment and accessories, was awarded four new patents over the past quarter for technology and product developments in <a href="~/link.aspx?_id=5A5DF654AF794D1EBAEEE22522AC6EB7&_z=z">Optical Connectivity and Apparatus (OCA)</a> and <a href="~/link.aspx?_id=55E85DE502FD4DF7A029245253934A91&_z=z">Fusion Splicing</a> technologies.<br />
+        AFL’s OCA division received two patents. Developed by a team of five AFL associates, the first patent was for a network interface device with two different base configurations that accepts several different types of connectors and allows eight splices. The second patent was developed by a team of three AFL associates for the IDEAA® Mini Interior Distribution Cabinet (Mini IDC). The Mini IDC provides a convenient and extremely compact modular approach to centralized fiber distribution in small MDUs.<br />
+        <br />
+        AFL’s fusion splicing division also received two patents. The first patent was for a method to utilize specialty splicers to manufacture different types of fiber lens structures. These lenses are used in many applications including medical, diode laser and detector coupling—generally any time light needs to be coupled to or from a fiber this may be useful. The second patent was for a method and apparatus for performing interrelation profile analysis (IPA). This method rotates an optical fiber that has an internal structure such as PM fiber. Images are taken as the fiber rotates and these images will have unique events that are typically 90° or 180° apart. By finding these unique images it is possible to align the fibers using a profile view of the fiber to a very high level of accuracy. The major advantage is that customers are able to align very exotic fibers with a high level of consistency. <br />
+        <br />
+        For more information about AFL, its products and services, visit <a rel="noopener noreferrer" href="http://www.aflglobal.com/" target="_blank">www.AFLglobal.com</a>.<br />
+         <br />
+        About AFL<br />
+        Founded in 1984, AFL is an international manufacturer providing end-to-end solutions to the energy, service provider, enterprise and industrial markets as well as several emerging markets. The company’s products are in use in over 130 countries and include fiber optic cable and hardware, transmission and substation accessories, outside plant equipment, connectivity, test and inspection equipment, fusion splicers and training. AFL also offers a wide variety of services supporting data center, enterprise, wireless and outside plant applications.<br />
+         <br />
+        Headquartered in Spartanburg, SC, AFL has operations in the U.S., Mexico, Canada, Europe, Asia and Australia, and is a wholly-owned subsidiary of Fujikura Ltd. of Japan. For more information, visit <a rel="noopener noreferrer" href="http://www.aflglobal.com/" target="_blank">www.AFLglobal.com</a>.<br />
+        <br />
+        Follow us on <a rel="noopener noreferrer" href="https://www.linkedin.com/company/afl-2" target="_blank">LinkedIn</a>, <a rel="noopener noreferrer" href="https://twitter.com/AFLglobal" target="_blank">Twitter</a>, and “like us” on <a rel="noopener noreferrer" href="https://www.facebook.com/AFLcorp" target="_blank">Facebook</a>. Review our <a rel="noopener noreferrer" href="https://www.aflglobal.com/AFL-Blog/" target="_blank">blog</a> or subscribe to our bi-monthly e-newsletter.<br />
+         <br />
+        Contact<br />
+        Corie Culp<br />
+        Public Relations Manager<br />
+        AFL<br />
+        864.433.5409<br />
+        <a rel="noopener noreferrer" href="mailto:Corie.Culp@AFLglobal.com" target="_blank">Corie.Culp@AFLglobal.com</a> </div>
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: AFL Awarded Four New Patents
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: Four new patents were received for technology and product developments in Optical Connectivity and Apparatus (OCA) and Fusion Splicing technologies.
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: patents, awards, OCA, fusion splicing, IDEAA, IDC, NID, lensing, IPA
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: AFL Awarded Four New Patents
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: AFL Awarded Four New Patents
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "89f69bbc-a9af-4dc7-9360-81e49d66392c"
+    - ID: "9dd4f0d9-c123-47a8-8cef-2c85cea172f6"
+      Hint: ContentImage
+      Value: |
+        <image mediaid="{1493A64B-2155-494A-9403-EB3203599A60}" />
+    - ID: "a6eaffd5-fc3e-41b4-93b3-f1721fcf2300"
+      Hint: ContentPublishedDate
+      Value: 20190408T183000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\pawan.tyagi@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240316T041423Z

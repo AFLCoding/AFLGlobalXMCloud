@@ -1,0 +1,99 @@
+﻿---
+ID: "51058768-8ea4-40d5-9d82-a7cc7c2f12f2"
+Parent: "808507f5-5fb4-46a8-a92d-761fdff53988"
+Template: "f36e821e-bb98-44dc-966d-e92a0e033cc7"
+Path: /sitecore/content/AFLGlobal/APAC/Home/Company/Company Profile/NewsArchive/2012/AFL Expands MicroCore Data Center Product Line
+SharedFields:
+- ID: "1fbc6a49-6281-48ee-87e9-a3970b145adb"
+  Hint: NavigationFilter
+  Value: |
+    {E0A2A027-0932-4878-A7D6-0416D5263EFB}
+    {61BD64D6-809E-40AE-9297-2724A19329B3}
+    {D063E9D1-C7B5-4B1E-B31E-69886C9C59F5}
+    {500AE4C0-FA7B-463F-8149-EFFF7F044101}
+    {A0E7FF57-6994-4B09-AA21-104239628D5A}
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{3A84BAC9-C1BD-4809-A12C-28EB44E25329}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{DAE7C21D-4D3B-4257-A95C-9104CD8AF409}"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{48D826CA-7AE6-4387-AE67-E7070B242906}">
+          <p:d />
+        </r>
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "228f9517-e120-4014-b2c7-df0ac467a349"
+      Hint: ContentTitle
+      Value: AFL Expands MicroCore® Data Center Product Line
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211206T200644Z
+    - ID: "3688d7df-2feb-43a4-ab8d-410e5f70a676"
+      Hint: ContentDescription
+      Value: |
+        AFL has expanded its Sub-unitized MicroCore Data Center Cable portfolio through the addition of trunk cabling suitable for true vertically-oriented installation needs. Suitable for pre-terminated MTP-MTP trunk schemes, AFL's riser-rated cabling provides a solution that meets the demands of challenging fiber routing scenarios often encountered in multistory installations.<br />
+        <br />
+        "With floor space management an ever-increasing challenge for central office and data center operators in high-density population centers, applications are now extending beyond single-story constructions," stated Doug Baker, commercial manager for AFL's premise and enterprise cable division. "In many cases, networks necessitate the use of multiple floors within a building to accommodate all of the data storage and management requirements."<br />
+        <br />
+        AFL sub-unitized MicroCore data center cable is qualified to the vertical trunk cabling standards of Telcordia GR-409-CORE Issue II. Available up to 144 fibers, the cable supports easy application of multiple termination schemes through the application of sub-cable technologies that are also suitable for routing through well-defined fiber management systems. When combined with the latest technologies available in both single-mode and multimode laser-optimized optical fiber, AFL's cable solutions enhance network performance.<br />
+        <br />
+        With a small diameter and superior bend performance, the MicroCore cable family is engineered to provide a high level of performance in a small package whatever the installation condition. AFL offers a full line of data center cabling compliant with stringent industry standards. The addition of UL 1666 Riser qualified cables to this family provides the ultimate flexibility when designing network architectures. NFPA 262 Plenum as well as IEC Low-Smoke Zero Halogen (LSZH) performance levels are also available.<br />
+        <br />
+        To learn more about AFL, its products and services, visit www.AFLglobal.com.<br />
+        <br />
+        <br />
+        About AFL<br />
+        AFL provides industry-leading products and services to the electric utility, broadband, communications, OEM, enterprise, wireless and transit rail markets as well as the emerging markets of oil and gas, mining, nuclear, avionics, medical, renewable and intelligent grid. The company's diverse product portfolio includes fiber optic cable, transmission and substation accessories, outside plant equipment, connectors, fusion splicers, test equipment and training. AFL's service portfolio includes market-leading positions with the foremost communications companies supporting inside plant central office, EF&I, outside plant, enterprise and wireless areas.<br />
+        <br />
+        Founded in 1984, AFL is proud to offer engineering expertise, exceptional products and reliable service that help our customers improve their critical and electrical infrastructure. AFL has operations in the U.S., Mexico, Europe and Asia. The company is headquartered in Spartanburg, SC, and is a wholly-owned subsidiary of Fujikura Ltd. of Japan. For more information, visit www.AFLglobal.com.<br />
+        <br />
+        <br />
+        Contact<br />
+        Doug Baker<br />
+        Commercial Manager, Premise and Enterprise<br />
+        864.486.7213<br />
+        Doug.Baker@AFLglobal.com<br />
+        <br />
+        Corie Culp<br />
+        PR Manager<br />
+        864.433.5409<br />
+        Corie.Culp@AFLglobal.com
+    - ID: "4c3792cf-8348-4d85-9cac-3f6086716488"
+      Hint: ContentCategory
+      Value: "{F78EA78A-E127-49A5-95B6-7DE64F85F319}"
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: AFL Expands MicroCore Data Center Product Line
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: AFL Expands MicroCore Data Center Product Line
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: AFL Expands MicroCore Data Center Product Line
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1ce624a7-5210-468e-acad-06053a4ef2f2"
+    - ID: "a6eaffd5-fc3e-41b4-93b3-f1721fcf2300"
+      Hint: ContentPublishedDate
+      Value: 20121104T183000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\pawan.tyagi@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240316T041520Z

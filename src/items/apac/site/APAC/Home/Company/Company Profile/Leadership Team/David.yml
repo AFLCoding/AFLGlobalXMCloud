@@ -1,0 +1,97 @@
+﻿---
+ID: "e1abbc7d-939a-4c85-97d3-620496a75934"
+Parent: "74757c65-68ad-4966-9977-85354a7ca746"
+Template: "bf61de11-b78f-48ea-aaa4-1d17f0d83824"
+Path: /sitecore/content/AFLGlobal/APAC/Home/Company/Company Profile/Leadership Team/David
+SharedFields:
+- ID: "1fbc6a49-6281-48ee-87e9-a3970b145adb"
+  Hint: NavigationFilter
+  Value: "{D063E9D1-C7B5-4B1E-B31E-69886C9C59F5}"
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{87CE798E-CDA3-4363-A47F-74DF3E2D88BE}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{DAE7C21D-4D3B-4257-A95C-9104CD8AF409}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: David Kozicz
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230329T201809Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{EE9BAFE9-A55E-406B-8BBF-45ADF7FF9068}"
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: David Kozicz
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rafael
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: "As president of AFL’s Network Services business, David Kozicz leads a team responsible for delivering end-to-end solutions for customers’ fiber-based, fixed and wireless broadband networks."
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <p>
+        As president of AFL’s Network Services business, David Kozicz leads a team responsible for delivering end-to-end solutions for customers’ fiber-based, fixed and wireless broadband networks. As a trusted partner of clients, the team engineers, procures materials, builds and provides in-home connection support for customers. These solutions enable customers to grow service offerings, adopt new technologies, scale operations with lower risk and improve operating flexibility and performance.
+        </p>
+        <p>
+        With over 25 years of global leadership experience in the telecom and service industry, David delivers through innovation and collaboration, generating tremendous customer outcomes, and fostering creativity to bring all the strengths of AFL Network Services to the fore.
+        </p>
+        <p>
+        David began his career at Kearney, a global management consulting firm, advising Fortune 100 Companies on Global Supply Chain and Products Management strategies across various industries, including:  Consumer Products, Telecommunications, and Automotive. He then spent more than 15 years at TELUS in executive roles spanning Enterprise Customer Implementation, Technology Strategy and Product Development.
+        </p>
+        <p>
+        David is a graduate of Dartmouth College, earning a Bachelor of Arts degree in Economics, and is also a graduate of the DeGroote School of Business at McMaster University, earning an MBA with a concentration in Finance. He has served on several community-based boards and advisory committees, including Chair of the Juvenile Diabetes Research Foundation (JDRF) Corporate Cabinet in British Columbia.
+        </p>
+        <p> </p>
+        <p>
+        <a href="~/link.aspx?_id=EAAB1B6BBFAB4287B123DFB809321001&_z=z">< Back to Leadership Page</a></p>
+    - ID: "5d336bce-e421-4fe8-ad55-214f80d841ad"
+      Hint: "Sub-Heading"
+      Value: President – AFL Network Services
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rafael
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: David Kozicz, President – AFL Network Services
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: David Kozicz
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: David Kozicz
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "59adc36a-d9c3-46a0-a6f3-ec4d2654b67c"
+    - ID: "93dc88f3-05e5-482d-9b9a-c859c8258a73"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image stylelabs-content-id="316158" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/316158/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/008f76188a644ab58b7449c0bf9f9bb2?v=f0f6e9ee" mediaid="" stylelabs-content-type="Image" alt="Kozicz_David_large.webp" height="430" width="1210" />
+    - ID: "ab91d39b-30ad-4050-acef-07c741146fcc"
+      Hint: Heading
+      Value: David Kozicz
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\pawan.tyagi@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240316T041706Z

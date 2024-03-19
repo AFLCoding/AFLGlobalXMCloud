@@ -1,0 +1,170 @@
+﻿---
+ID: "f0e52bc2-e873-485b-b242-68c83f13860d"
+Parent: "986a620e-0709-4968-bdc7-311921753c64"
+Template: "bf61de11-b78f-48ea-aaa4-1d17f0d83824"
+Path: /sitecore/content/AFLGlobal/APAC/Home/Solutions/Industrial/Military
+SharedFields:
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{274C9F86-81B9-4FFC-87CA-8B19AB3A526D}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211122T093041Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Military
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: "Military Industry - Aerospace and defense companies rely on AFL for high reliability fiber optic products and versatile equipment for photonics manufacturing."
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <h2>
+        The military industry, including the aerospace and defense industries rely on AFL for high reliability fiber optic products and versatile equipment for photonics manufacturing</h2>
+        <p>
+        <br />
+        Fiber optic technology is increasingly used in avionics, communications and in-flight entertainment systems associated with air and space platforms because of its bandwidth, light weight and resistance to electromagnetic interference. Gyroscopes, strain sensors and other fiber optic sensing systems are being deployed on these platforms for similar reasons. AFL provides aerospace and defense OEMs with:</p>
+        <ul>
+            <li>
+            Specialty fiber products
+            <ul>
+                <li>
+                Polyimide, fluoropolymer and carbon coated fibers which are highly resistant to radiation and extreme temperatures and offer superior resistance to fatigue failure</li>
+                <li>
+                Polarization maintaining (PM) fibers</li>
+                <li>
+                Specialty fiber assemblies</li>
+            </ul>
+            </li>
+            <li>
+            <a href="/Products/Fusion-Splicing/Specialty-Fusion-Splicing-Equipment.aspx">Factory fusion splicers</a> with an industry-leading level of versatility and built-in splice inspection algorithms which help ensure high reliability and repeatability</li>
+            <li>
+            Tools for <a href="/Products/Cleaning.aspx">cleaning</a>, inspecting and testing fiber optic connections</li>
+            <li>
+            Fiber bundles and fiberscopes for remote imaging and sensing in ultra-high vacuum, high-radiation or high-temperatures environments</li>
+        </ul>
+        <p>
+        AFL can also provide custom engineering services for special splicing or fiber preparation applications. These services may include custom hardware or software design, and process improvement consultation. Services may also include advanced splicer training and maintenance service agreements. <br />
+        <br />
+        Additionally, if you are developing a new optical component and/or need a critical splice, AFL may be able to fabricate spliced components, such as dissimilar fiber splicing, ball lens, tapers, TEC, combiners, and MFAs to help accelerate your time to market.   <br />
+        <br />
+        Military and defense technology companies provide governments with advanced systems and services for command, control, communications, intelligence and surveillance. AFL offers these companies a complete line of robust, reliable components and tools for installing fiber optic networks for voice, video and data communications including:</p>
+        <ul>
+            <li>
+            <a href="/Products/Fiber-Optic-Cable.aspx">Fiber optic cables</a>, including many specialty designs for <a href="/Products/Fiber-Optic-Cable/Harsh-Environment.aspx">harsh environments</a>
+            <ul>
+                <li>
+                <a href="/Products/Fiber-Optic-Cable/Harsh-Environment/Industrial/Sidewinder-Rapid-Cable-Deployment-System.aspx">Sidewinder™ Rapid Cable Deployment System</a> for fast deployment and retrieval of tactical fiber optic cables used in field deployable applications.</li>
+            </ul>
+            </li>
+            <li>
+            <a href="/Products/Fiber-Optic-Connectivity/Field-Installable-Connectors.aspx">Field Installable Connectors</a>
+            <ul>
+                <li>
+                FASTConnect® Connectors for easy and reliabile connectivity</li>
+                <li>
+                FUSEConnect® for the highest reliability connections</li>
+            </ul>
+            </li>
+            <li>
+            Fiber management tools
+            <ul>
+                <li>
+                Enclosures and connector housings</li>
+                <li>
+                Sealed splice closures</li>
+            </ul>
+            </li>
+            <li>
+            <a href="/Products/Fusion-Splicing.aspx">Fusion splicers</a></li>
+            <li>
+            <a href="/Products/Test-and-Inspection.aspx">Test and inspection equipment</a></li>
+        </ul>
+        <p>
+        AFL’s highly knowledgeable engineers develop expertise through involvement with key customers, industry conferences and standards committees. Close relationships with OEMs and a reputation for custom development enable AFL to serve the aerospace industry with specialized products and services designed and optimized for specific customer needs.<br />
+         </p>
+    - ID: "56611f02-691a-4096-b044-63aa83122916"
+      Hint: Content
+      Value: |
+        <h2>The military industry, including the aerospace and defense industries rely on AFL for high reliability fiber optic products and versatile equipment for photonics manufacturing</h2>
+        <p>Fiber optic technology is increasingly used in avionics, communications and in-flight entertainment systems associated with air and space platforms because of its bandwidth, light weight and resistance to electromagnetic interference. Gyroscopes, strain sensors and other fiber optic sensing systems are being deployed on these platforms for similar reasons. AFL provides aerospace and defense OEMs with:</p>
+        <ul>
+            <li>Specialty fiber products
+            <ul>
+                <li>Polyimide, fluoropolymer and carbon coated fibers which are highly resistant to radiation and extreme temperatures and offer superior resistance to fatigue failure</li>
+                <li>Polarization maintaining (PM) fibers</li>
+                <li>Specialty fiber assemblies</li>
+            </ul>
+            </li>
+            <li><a href="/Products/Fusion-Splicing/Specialty-Fusion-Splicing-Equipment">Factory fusion splicers</a>with an industry-leading level of versatility and built-in splice inspection algorithms which help ensure high reliability and repeatability</li>
+            <li>Tools for<a href="/Products/Cleaning">cleaning</a>, inspecting and testing fiber optic connections</li>
+            <li>Fiber bundles and fiberscopes for remote imaging and sensing in ultra-high vacuum, high-radiation or high-temperatures environments</li>
+        </ul>
+        <p>AFL can also provide custom engineering services for special splicing or fiber preparation applications. These services may include custom hardware or software design, and process improvement consultation. Services may also include advanced splicer training and maintenance service agreements.<br />
+        <br />
+        Additionally, if you are developing a new optical component and/or need a critical splice, AFL may be able to fabricate spliced components, such as dissimilar fiber splicing, ball lens, tapers, TEC, combiners, and MFAs to help accelerate your time to market<br />
+        <br />
+        Military and defense technology companies provide governments with advanced systems and services for command, control, communications, intelligence and surveillance. AFL offers these companies a complete line of robust, reliable components and tools for installing fiber optic networks for voice, video and data communications including:</p>
+        <ul>
+            <li><a href="/Products/Fiber-Optic-Cable">Fiber optic cables</a>, including many specialty designs for<a href="/Products/Fiber-Optic-Cable/Harsh-Environment">harsh environments</a>
+            <ul>
+                <li><a href="/Products/Fiber-Optic-Cable/Harsh-Environment/Industrial/Sidewinder-Rapid-Cable-Deployment-System">Sidewinder&trade; Rapid Cable Deployment System</a>for fast deployment and retrieval of tactical fiber optic cables used in field deployable applications.</li>
+            </ul>
+            </li>
+            <li><a href="/Products/Fiber-Optic-Connectivity/Field-Installable-Connectors">Field Installable Connectors</a>
+            <ul>
+                <li>FASTConnect&reg; Connectors for easy and reliabile connectivity</li>
+                <li>FUSEConnect&reg; for the highest reliability connections</li>
+            </ul>
+            </li>
+            <li>Fiber management tools
+            <ul>
+                <li>Enclosures and connector housings</li>
+                <li>Sealed splice closures</li>
+            </ul>
+            </li>
+            <li><a href="/Products/Fusion-Splicing">Fusion splicers</a></li>
+            <li><a href="/Products/Test-and-Inspection">Test and inspection equipment</a></li>
+        </ul>
+        <p>AFL&rsquo;s highly knowledgeable engineers develop expertise through involvement with key customers, industry conferences and standards committees. Close relationships with OEMs and a reputation for custom development enable AFL to serve the aerospace industry with specialized products and services designed and optimized for specific customer needs.</p>
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: military aerospace defense avionics communication air space military technology specialty fiber optic cable
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: Military
+    - ID: "628db04b-29a2-483b-a88c-b8fd9a5f2086"
+      Hint: HeroLink
+      Value: |
+        <link id="{4EAB4882-EB2F-463E-9373-48BAFE3D8C91}" querystring="" linktype="internal" text="LEARN MORE" anchor="" url="/AFL-Global/APAC/Home/Solutions/Industrial/Military" title="" class="" target="|Custom" />
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: Military
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "024ad8cd-3528-4ba7-9619-5c4b8373f92d"
+    - ID: "93dc88f3-05e5-482d-9b9a-c859c8258a73"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image mediaid="{E61A43FE-DB9B-40C4-A6FF-0679AA730352}" />
+    - ID: "a40ebd3d-2b41-41fb-90f7-753544ce77c5"
+      Hint: Hero Title1
+      Value: Military
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\pawan.tyagi@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240316T041240Z
+    - ID: "dd0b26a2-9ca3-4573-b501-3b33a6efbc65"
+      Hint: Hero Title2
+      Value: "Rely on AFL, an experienced, award-winning federal contractor"

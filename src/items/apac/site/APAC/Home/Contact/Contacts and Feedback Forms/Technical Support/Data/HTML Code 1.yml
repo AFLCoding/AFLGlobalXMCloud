@@ -1,0 +1,38 @@
+﻿---
+ID: "bcd1cba2-d7d4-43f0-867a-7b84a996d823"
+Parent: "86b77909-267d-4546-9da6-98359b087580"
+Template: "2ad23d55-aecd-43dd-ae0d-72d2ebcba60f"
+Path: /sitecore/content/AFLGlobal/APAC/Home/Contact/Contacts and Feedback Forms/Technical Support/Data/HTML Code 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "24cce27c-05db-4473-a1ed-e69b1725ff1c"
+      Hint: HtmlCode
+      Value: |
+        <script src="https://app-ab08.marketo.com/js/forms2/js/forms2.min.js"></script>
+        <form id="mktoForm_1147">
+        	&nbsp;</form>
+        <script>MktoForms2.loadForm("https://app-ab08.marketo.com", "287-IEW-969", 1147);</script><br/>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220311T210355Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rafael
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rafael
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "24917f84-9f94-4b11-b56a-31ed8c08bb89"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\pawan.tyagi@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240316T041346Z

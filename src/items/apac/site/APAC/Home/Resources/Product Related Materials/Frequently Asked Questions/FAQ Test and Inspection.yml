@@ -1,0 +1,76 @@
+﻿---
+ID: "7f8f2740-e0b9-4ded-9ffd-97660b0d0df6"
+Parent: "ffc48f9e-7756-4a9c-abe4-68b4d0710c62"
+Template: "bf61de11-b78f-48ea-aaa4-1d17f0d83824"
+Path: /sitecore/content/AFLGlobal/APAC/Home/Resources/Product Related Materials/Frequently Asked Questions/FAQ Test and Inspection
+SharedFields:
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{87CE798E-CDA3-4363-A47F-74DF3E2D88BE}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220125T100154Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: FAQ Test and Inspection
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kushagra
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: AFL product frequently asked questions submitted by customers regarding AFL product lines in Test and Inspection.
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <h1>FAQ: Test and Inspection</h1>
+        Inspection
+        <ul>
+            <li><a href="~/link.aspx?_id=57E4AF2EF0C4484F82E826965D1A3D87&_z=z">General</a></li>
+            <li><a href="/apac/Resources/Product-Related-Materials/Frequently-Asked-Questions/FAQ-Test-and-Inspection/Inspection-Product-Specific-Questions/#FOCIS">FOCIS</a></li>
+            <li><a href="~/link.aspx?_id=6D451A4B7BF645B0A8EDD7EDC05C20DB&_z=z">FOCIS WiFi</a></li>
+        </ul>
+        Optical Fiber Identifiers (OFI) and Optical Fault Identifiers (OFI)
+        <ul>
+            <li><a href="~/link.aspx?_id=17E9726BB65B49978D137DF6589C9AB5&_z=z">General</a></li>
+            <li><a href="/apac/Resources/Product-Related-Materials/Frequently-Asked-Questions/FAQ-Test-and-Inspection/OFI-and-VFI-Product-Specific-Questions/#OFI">OFI</a></li>
+        </ul>
+        Optical Power Meters (OPM) and Optical Light Sources (OLS)
+        <ul>
+            <li><a href="~/link.aspx?_id=355D7A8B83B24B2E8C2ACD566ABD9B2C&_z=z">General</a></li>
+            <li><a href="/apac/Resources/Product-Related-Materials/Frequently-Asked-Questions/FAQ-Test-and-Inspection/OPM-and-OLS-Product-Specific-Questions/#CSM">CSM - CSS</a></li>
+            <li><a href="/apac/Resources/Product-Related-Materials/Frequently-Asked-Questions/FAQ-Test-and-Inspection/OPM-and-OLS-Product-Specific-Questions/#OLTK">Optical Loss Test Kits</a></li>
+        </ul>
+        Optical Time Domain Reflectometers (OTDR)
+        <ul>
+            <li><a href="~/link.aspx?_id=7604CFF7F292480B8E511C1C0E7135E7&_z=z">General</a></li>
+            <li><a href="/apac/Resources/Product-Related-Materials/Frequently-Asked-Questions/FAQ-Test-and-Inspection/OTDR-Product-Specific-Questions/#FIBERRING">Fiber Ring</a></li>
+        </ul>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kushagra
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: test and inspection, AFL, products, frequently asked questions, FAQ
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: FAQ Test and Inspection
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: FAQ Test and Inspection
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b70abd38-c926-44e0-adc6-66296e4422f8"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\pawan.tyagi@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240316T041301Z

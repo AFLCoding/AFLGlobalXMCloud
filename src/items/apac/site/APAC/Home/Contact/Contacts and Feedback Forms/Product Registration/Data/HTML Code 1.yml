@@ -1,0 +1,38 @@
+﻿---
+ID: "0ea6926a-0d7a-449e-9abd-746fe20dccc7"
+Parent: "b9faf7c7-8c04-43d0-bd86-7e203b985496"
+Template: "2ad23d55-aecd-43dd-ae0d-72d2ebcba60f"
+Path: /sitecore/content/AFLGlobal/APAC/Home/Contact/Contacts and Feedback Forms/Product Registration/Data/HTML Code 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "24cce27c-05db-4473-a1ed-e69b1725ff1c"
+      Hint: HtmlCode
+      Value: |
+        <script src="//287-IEW-969.mktoweb.com/js/forms2/js/forms2.min.js"></script>
+        <form id="mktoForm_1114"></form>
+        <script>MktoForms2.loadForm("//287-IEW-969.mktoweb.com", "287-IEW-969", 1114);</script>
+        <p>&nbsp;</p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220315T131950Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rafael
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rafael
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ca830bf9-bdc8-493b-b078-d7440bc2c7e0"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\pawan.tyagi@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240316T041345Z

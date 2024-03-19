@@ -1,0 +1,89 @@
+﻿---
+ID: "4e8119dd-ecbf-4308-9ab8-fbdbda8ef065"
+Parent: "93a113cb-7ee4-4818-976d-2203960b96c3"
+Template: "f36e821e-bb98-44dc-966d-e92a0e033cc7"
+Path: /sitecore/content/AFLGlobal/APAC/Home/Company/Company Profile/NewsArchive/2008/AFL s California Warehouse Increases Stock on Fibe
+SharedFields:
+- ID: "1fbc6a49-6281-48ee-87e9-a3970b145adb"
+  Hint: NavigationFilter
+  Value: |
+    {E0A2A027-0932-4878-A7D6-0416D5263EFB}
+    {61BD64D6-809E-40AE-9297-2724A19329B3}
+    {D063E9D1-C7B5-4B1E-B31E-69886C9C59F5}
+    {500AE4C0-FA7B-463F-8149-EFFF7F044101}
+    {A0E7FF57-6994-4B09-AA21-104239628D5A}
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{3A84BAC9-C1BD-4809-A12C-28EB44E25329}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{DAE7C21D-4D3B-4257-A95C-9104CD8AF409}"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{48D826CA-7AE6-4387-AE67-E7070B242906}">
+          <p:d />
+        </r>
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "228f9517-e120-4014-b2c7-df0ac467a349"
+      Hint: ContentTitle
+      Value: AFL’s California Warehouse Increases Stock on Fiber Optic Cable
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211130T141050Z
+    - ID: "3688d7df-2feb-43a4-ab8d-410e5f70a676"
+      Hint: ContentDescription
+      Value: |
+        Spartanburg, SC - AFL Telecommunications is increasing the number of fiber optic cable configurations stocked at its Southern California warehouse.  In order to better serve the needs of those clients in the West, bulk indoor fiber optic cables with aluminum interlocking armor have been added to the current inventory of multimode and single-mode fiber optic cables.<br />
+        <br />
+        With this addition, customers will now be able to receive same day or next day service on AFL’s 6- and 12-fiber multimode (62.5/125) distribution cables with aluminum interlocking armor. These cables:<br />
+        <br />
+        Protect vital system infrastructure<br />
+        Eliminate a need for inner duct, reducing installation time and cost<br />
+        Better utilize pathway space<br />
+        AFL is dedicated to customer satisfaction and considers this additional inventory another step towards delivering its customers the best service possible.<br />
+        <br />
+        About AFL<br />
+        AFL is an industry leader in providing fiber optic products, engineering expertise and integrated services to the Electric Utility, Broadband, Telco, OEM, Private Network and Wireless markets. It has operations in the U.S., Mexico and the U.K. AFL is a division of Fujikura Ltd. of Japan.<br />
+        <br />
+        Contact <br />
+        Jon Potter, Associate Product Manager<br />
+        AFL<br />
+        864.433.5930<br />
+        jon.potter@aflglobal.com
+    - ID: "4c3792cf-8348-4d85-9cac-3f6086716488"
+      Hint: ContentCategory
+      Value: "{F78EA78A-E127-49A5-95B6-7DE64F85F319}"
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: AFL s California Warehouse Increases Stock on Fibe
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: AFL s California Warehouse Increases Stock on Fibe
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: AFL s California Warehouse Increases Stock on Fibe
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "455197ac-ade2-44fe-b076-54d1457b812c"
+    - ID: "a6eaffd5-fc3e-41b4-93b3-f1721fcf2300"
+      Hint: ContentPublishedDate
+      Value: 20080204T183000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\pawan.tyagi@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240316T041502Z

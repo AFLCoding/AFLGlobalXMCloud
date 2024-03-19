@@ -1,0 +1,92 @@
+﻿---
+ID: "7d86db14-8bfe-4a5d-8df4-0778a0634faf"
+Parent: "c3270b71-0f5a-43c7-8cf9-b6ecdc375395"
+Template: "f36e821e-bb98-44dc-966d-e92a0e033cc7"
+Path: "/sitecore/content/AFLGlobal/APAC/Home/Company/Company Profile/News/2019/AFL Introduces Family of 500C Metal-Coated Optica"
+SharedFields:
+- ID: "1fbc6a49-6281-48ee-87e9-a3970b145adb"
+  Hint: NavigationFilter
+  Value: |
+    {E0A2A027-0932-4878-A7D6-0416D5263EFB}
+    {61BD64D6-809E-40AE-9297-2724A19329B3}
+    {D063E9D1-C7B5-4B1E-B31E-69886C9C59F5}
+    {500AE4C0-FA7B-463F-8149-EFFF7F044101}
+    {A0E7FF57-6994-4B09-AA21-104239628D5A}
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{3A84BAC9-C1BD-4809-A12C-28EB44E25329}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{DAE7C21D-4D3B-4257-A95C-9104CD8AF409}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "228f9517-e120-4014-b2c7-df0ac467a349"
+      Hint: ContentTitle
+      Value: "AFL Introduces Family of 500⁰C Metal-Coated Optical Fibers at OTC"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211208T131025Z
+    - ID: "3688d7df-2feb-43a4-ab8d-410e5f70a676"
+      Hint: ContentDescription
+      Value: |
+        <div>Spartanburg, SC –  <a rel="noopener noreferrer" href="https://www.aflglobal.com/Home.aspx" target="_blank">AFL</a>, an industry-leading manufacturer of fiber optic cable, equipment, and accessories, is exhibiting at the <a href="http://2019.otcnet.org/">Offshore Technology Conference (OTC)</a> in Houston, Texas. Visit AFL in booth #4808 to see the newest low-loss, metal-coated VHT Series of optical fibers rated for temperatures up to 500⁰C.<br />
+        Historically, commercial, metal-coated fibers exhibited poor optical performance in applications that require high temperature thermal treatment and cycling. In addition to excessive optical loss in high temperature applications, existing metal-coated fibers have only been offered in short, continuous lengths, which has limited use in a variety of long-range sensing systems.<br />
+        <br />
+        “To overcome all these limitations and to serve the ultra-harsh environment markets, AFL has developed a unique set of optical fibers compatible with standard multimode and single-mode designs that withstand temperatures up to 500⁰C with low optical loss, no adhesion to other metals, and are highly manufacturable in multi-kilometers of continuous lengths,” said Dr. Abdel Soufiane, general manager and CTO of AFL’s Specialty Fiber division.<br />
+        <br />
+        The new 500⁰C VHT500 single-mode and VHT5000 multimode fibers feature advanced glass chemistries for improved performance in hydrogen-rich environments and excellent optical performance in permanent, long-term exposure to temperatures up to 500⁰C. Maximum attenuation of the VHT Series is 5dB/km for all typical operating wavelengths.<br />
+        <br />
+        AFL has also developed a patent-pending process that prevents the VHT fiber family from “cold bonding” to metal tubes or other metallically-coated fibers. The new fibers are available in multi-kilometer continuous lengths with industry standard 125 µm cladding diameter. They are also available in a 500⁰C metal cable configuration with three fiber channels for multi-measurement sensing applications.<br />
+        <br />
+        In addition to the VHT fiber family, AFL will also be launching a carbon silicone mid-temp acrylate (CSMTA) coating combination that is rated to 175⁰C, and available with all AFL waveguide designs. The unique benefits of CSMTA coating will be available at OTC.<br />
+        <br />
+        Discover all these solutions and more with AFL in booth #4808 at OTC, May 6-9 at NRG Park in Houston, Texas. To learn more about AFL, its products and services, visit <a href="https://www.aflglobal.com/Home.aspx">www.AFLglobal.com</a>.<br />
+        <br />
+        About AFL<br />
+        Founded in 1984, AFL is an international manufacturer providing end-to-end solutions to the energy, service provider, enterprise and industrial markets as well several emerging markets. The company’s products are in use in over 130 countries and include fiber optic cable and hardware, transmission and substation accessories, outside plant equipment, connectivity, test and inspection equipment, fusion splicers and training. AFL also offers a wide variety of services supporting data center, enterprise, wireless and outside plant applications.<br />
+        <br />
+        Headquartered in Spartanburg, SC, AFL has operations in the U.S., Mexico, Canada, Europe, Asia and Australia, and is a wholly-owned subsidiary of Fujikura Ltd. of Japan. For more information, visit <a href="http://www.aflglobal.com/">www.AFLglobal.com</a>.<br />
+        <br />
+        Follow us on <a href="https://www.linkedin.com/company/afl-2">LinkedIn</a>, <a href="https://twitter.com/AFLglobal">Twitter</a>, and “like us” on <a href="https://www.facebook.com/AFLcorp">Facebook</a>. Review our <a href="https://www.aflglobal.com/AFL-Blog/">blog</a> or subscribe to our bi-monthly e-newsletter.<br />
+         <br />
+        Contacts<br />
+        Dr. Abdel Soufiane<br />
+        General Manager, CTO, Specialty Fibers<br />
+        AFL<br />
+        508.890.7111<br />
+        <a href="mailto:Abdel.Soufiane@AFLglobal.com">Abdel.Soufiane@AFLglobal.com</a><br />
+        <br />
+        Corie Culp<br />
+        Public Relations Manager<br />
+        AFL<br />
+        864.433.5409<br />
+        <a href="mailto:Corie.Culp@AFLglobal.com">Corie.Culp@AFLglobal.com</a></div>
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: "AFL Introduces Family of 500C Metal-Coated Optica"
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: "AFL Introduces Family of 500⁰C Metal-Coated Optical Fibers at OTC"
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: "AFL Introduces Family of 500⁰C Metal-Coated Optical Fibers at OTC"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6b5421b3-f677-4b17-b4f6-aa4bdc643dde"
+    - ID: "9dd4f0d9-c123-47a8-8cef-2c85cea172f6"
+      Hint: ContentImage
+      Value: |
+        <image mediaid="{84F9D713-8416-4572-842F-B9261EB23073}" />
+    - ID: "a6eaffd5-fc3e-41b4-93b3-f1721fcf2300"
+      Hint: ContentPublishedDate
+      Value: 20190501T183000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\pawan.tyagi@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240316T041427Z
