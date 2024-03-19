@@ -1,0 +1,56 @@
+﻿---
+ID: "455ef0c4-f5b1-4a03-927c-9745bf9e6e99"
+Parent: "7fe528de-7bc7-447c-bbee-1cc266e11ea8"
+Template: "c43374e1-6d89-4709-ac69-cd62a94e259e"
+Path: /sitecore/content/AFLGlobal/APAC/Data/AFL Career Banner Folder/AFL Career Banner Item
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211029T140857Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "58d47758-922c-4daa-95ae-3cb9c3fee186"
+      Hint: HeroLink3
+      Value: |
+        <link text="Premise MicroCore" linktype="anchor" url="marketServices" anchor="#marketServices" title="" class="" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8c08a77a-c90c-46db-9399-c29a789bb436"
+    - ID: "93dc88f3-05e5-482d-9b9a-c859c8258a73"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image mediaid="{34559DE6-7CDC-4890-948E-34B5557C73FA}" ></image>
+    - ID: "a40ebd3d-2b41-41fb-90f7-753544ce77c5"
+      Hint: Hero Title1
+      Value: CAREERS
+    - ID: "b0b3b4da-e924-4a2d-be19-ec90a4e96f16"
+      Hint: HeroLink2
+      Value: |
+        <link id="{AE1FA2E2-0563-4F6B-8157-DBD3C3B20C9B}" querystring="" target="|Custom" text="WHY WORK AT AFL" anchor="" url="/AFL-Global/APAC/Home/Company/Careers/Why Work With AFL" title="" class="btn" linktype="internal" />
+    - ID: "b9f9f593-7299-41ca-94d0-cb5fcdbd6fba"
+      Hint: HeroLink1
+      Value: |
+        <link text="SEE JOB LISTING" linktype="external" url="https://careers.aflglobal.com/" anchor="" class="btn" target="|Custom" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\pawan.tyagi@altudo.co
+    - ID: "d7e3caf0-3a38-449f-b261-a9a0e799fb7d"
+      Hint: Hero Description
+      Value: <p>AFL’s success over the past 30+ years is due to the commitment of our greatest asset—our associates. We hire and train talented individuals, investing in them to ensure their success as they embark on a career path with AFL. As competition is fierce, we understand the importance of offering a total package that exceeds that of our competition. Continue reading to fully grasp what sets AFL apart.</p>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240319T115945Z
+    - ID: "dd0b26a2-9ca3-4573-b501-3b33a6efbc65"
+      Hint: Hero Title2
+      Value: Start Your Path at AFL Career
