@@ -1,0 +1,266 @@
+﻿---
+ID: "95915c9a-44f2-4afe-8809-c1a0bc062b98"
+Parent: "b21ece9f-86e0-480a-b6bc-fb3b026a5066"
+Template: "bf61de11-b78f-48ea-aaa4-1d17f0d83824"
+Path: "/sitecore/content/AFL-Global/AMERICAS/Home/Resources/Product Related Materials/Frequently Asked Questions/Fusion Splicing Systems"
+SharedFields:
+- ID: "1fbc6a49-6281-48ee-87e9-a3970b145adb"
+  Hint: NavigationFilter
+  Value: "{D063E9D1-C7B5-4B1E-B31E-69886C9C59F5}"
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{274C9F86-81B9-4FFC-87CA-8B19AB3A526D}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{DAE7C21D-4D3B-4257-A95C-9104CD8AF409}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220125T100119Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Fusion Splicing Systems
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kushagra
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: "Fusion Splicing Systems - AFL product frequently asked questions submitted by customers regarding AFL product lines."
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <h1>FAQ: Fusion Splicing Systems</h1>
+        <p>Below are the FAQs submitted by customers regarding the Fusion Splicing Systems product line.</p>
+        <p>Q:  If I buy a new fusion splicer from an unauthorized reseller in North America, can I still get maintenance and technical support from AFL?<br />
+        A:  No. We do not offer maintenance services and technical support to splicers that were purchased new from <a href=" /Contact/Splicers/Authorized-Splicer-Distributors ">unauthorized resellers</a> in North America. AFL and AFL's <a href="~/link.aspx?_id=59070E43B3444D77A28A2402C94C0DC3&_z=z">authorized distributors</a> are the only authorized resellers of Fujikura splicers in North America.<br />
+        <br />
+        Q:  Why do I get “offset” errors on my fixed v-groove splicer?<br />
+        A:  Offsets are usually caused by debris on the v-grooves or on the fiber.  AFL recommends a <a href="~/link.aspx?_id=87931442A10146DCB5F258F21247CE2A&_z=z">splicer v-groove cleaning kit</a>.<br />
+        <br />
+        Q:  I get “Large Dust Burn” error messages when I am splicing.  Is there something wrong with my splicer?<br />
+        A:  No. Large dust burns are contamination or excessive alcohol igniting during the splicing process. This is feedback to the operator to check his fiber preparation procedures. Multiple “Large Dust Burn” errors can lead to problems with arc power.<br />
+         <br />
+        Q:  When I perform an arc calibration, I get the message “Power Inadequate”. Why does that happen?<br />
+        A:  It may take several iterations to get the arc power to its optimal value. Continue performing the arc calibration tests until it passes.<br />
+        <br />
+        Q:  What is the difference between the sheath clamp and fiber holder?<br />
+        A:  The sheath clamp is a hinged magnetic clamp that is attached to the splicer. The fiber is placed in position and then clamped in place with the hinged mechanism. The sheath clamp can be removed on the single fiber splicers such as the 70S and 19S to allow the use of fiber holders. The fiber holders also have a hinged magnetic clamp, but are used for handling the fiber for the cleaving process. The fiber holder is then positioned in the splicer. Inexperienced persons have an easier time with fiber holders. All ribbon splicers require the use of fiber holders.</p>
+        <div> </div>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kushagra
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: Fusion Splicing Systems AFL products frequently asked questions FAQ
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: Fusion Splicing Systems
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: Fusion Splicing Systems
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "61c14e03-1c65-483a-b718-6ce44927aa69"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T090816Z
+- Language: "es-MX"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220125T100119Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Sistemas de empalme por fusión
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: "Fusion Splicing Systems - AFL product frequently asked questions submitted by customers regarding AFL product lines."
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <h1>FAQ: Fusion Splicing Systems</h1>
+        <p>Below are the FAQs submitted by customers regarding the Fusion Splicing Systems product line.</p>
+        <p>Q:  If I buy a new fusion splicer from an unauthorized reseller in North America, can I still get maintenance and technical support from AFL?<br />
+        A:  No. We do not offer maintenance services and technical support to splicers that were purchased new from <a href=" /Contact/Splicers/Authorized-Splicer-Distributors ">unauthorized resellers</a> in North America. AFL and AFL's <a href=" /Contact/AFL-Distributors ">authorized distributors</a> are the only authorized resellers of Fujikura splicers in North America.<br />
+        <br />
+        Q:  Why do I get “offset” errors on my fixed v-groove splicer?<br />
+        A:  Offsets are usually caused by debris on the v-grooves or on the fiber.  AFL recommends a <a href="/Products/Test-and-Inspection/Fiber-Optic-Cleaning/Splicer_V-Groove_Cleaning_Kit ">splicer v-groove cleaning kit</a>.<br />
+        <br />
+        Q:  I get “Large Dust Burn” error messages when I am splicing.  Is there something wrong with my splicer?<br />
+        A:  No. Large dust burns are contamination or excessive alcohol igniting during the splicing process. This is feedback to the operator to check his fiber preparation procedures. Multiple “Large Dust Burn” errors can lead to problems with arc power.<br />
+         <br />
+        Q:  When I perform an arc calibration, I get the message “Power Inadequate”. Why does that happen?<br />
+        A:  It may take several iterations to get the arc power to its optimal value. Continue performing the arc calibration tests until it passes.<br />
+        <br />
+        Q:  What is the difference between the sheath clamp and fiber holder?<br />
+        A:  The sheath clamp is a hinged magnetic clamp that is attached to the splicer. The fiber is placed in position and then clamped in place with the hinged mechanism. The sheath clamp can be removed on the single fiber splicers such as the 70S and 19S to allow the use of fiber holders. The fiber holders also have a hinged magnetic clamp, but are used for handling the fiber for the cleaving process. The fiber holder is then positioned in the splicer. Inexperienced persons have an easier time with fiber holders. All ribbon splicers require the use of fiber holders.</p>
+        <div> </div>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kushagra
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: Fusion Splicing Systems AFL products frequently asked questions FAQ
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: Sistemas de empalme por fusión
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: Sistemas de empalme por fusión
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c661d5ec-6d4f-4ce3-bf61-d78a406d2457"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T090816Z
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220125T100119Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Fusion Splicing Systems
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: "Fusion Splicing Systems - AFL product frequently asked questions submitted by customers regarding AFL product lines."
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <h1>FAQ: Fusion Splicing Systems</h1>
+        <p>Below are the FAQs submitted by customers regarding the Fusion Splicing Systems product line.</p>
+        <p>Q:&nbsp; If I buy a new fusion splicer from an unauthorized reseller in North America, can I still get maintenance and technical support from AFL?<br />
+        A:&nbsp;&nbsp;No. We do not offer maintenance services and technical support to splicers that were purchased new from&nbsp;<a href=" /Contact/Splicers/Authorized-Splicer-Distributors ">unauthorized resellers</a>&nbsp;in North America. AFL and AFL's&nbsp;<a href=" /Contact/AFL-Distributors ">authorized distributors</a>&nbsp;are the only authorized resellers of Fujikura splicers in North America.<br />
+        <br />
+        Q: &nbsp;Why do I get &ldquo;offset&rdquo; errors on my fixed v-groove splicer?<br />
+        A:&nbsp;&nbsp;Offsets are usually caused by debris on the v-grooves or on the fiber. &nbsp;AFL recommends a&nbsp;<a href="/Products/Test-and-Inspection/Fiber-Optic-Cleaning/Splicer_V-Groove_Cleaning_Kit ">splicer v-groove cleaning kit</a>.<br />
+        <br />
+        Q: &nbsp;I get &ldquo;Large Dust Burn&rdquo; error messages when I am splicing. &nbsp;Is there something wrong with my splicer?<br />
+        A:&nbsp;&nbsp;No. Large dust burns are contamination or excessive alcohol igniting during the splicing process. This is feedback to the operator to check his fiber preparation procedures. Multiple &ldquo;Large Dust Burn&rdquo; errors can lead to problems with arc power.<br />
+        &nbsp;<br />
+        Q: &nbsp;When I perform an arc calibration, I get the message &ldquo;Power Inadequate&rdquo;. Why does that happen?<br />
+        A:&nbsp;&nbsp;It may take several iterations to get the arc power to its optimal value. Continue performing the arc calibration tests until it passes.<br />
+        <br />
+        Q:&nbsp;&nbsp;What is the difference between the sheath clamp and fiber holder?<br />
+        A:&nbsp;&nbsp;The sheath clamp is a hinged magnetic clamp that is attached to the splicer. The fiber is placed in position and then clamped in place with the hinged mechanism. The sheath clamp can be removed on the single fiber splicers such as the 70S and 19S to allow the use of fiber holders. The fiber holders also have a hinged magnetic clamp, but are used for handling the fiber for the cleaving process. The fiber holder is then positioned in the splicer. Inexperienced persons have an easier time with fiber holders. All ribbon splicers require the use of fiber holders.</p>
+        <div>&nbsp;</div>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kushagra
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: Fusion Splicing Systems AFL products frequently asked questions FAQ
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: Fusion Splicing Systems
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "28a39896-88e3-47d8-a948-cd1528f737a2"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahesh
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220224T113413Z
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220125T100119Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Systèmes d'épissage par fusion
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: "Fusion Splicing Systems - AFL product frequently asked questions submitted by customers regarding AFL product lines."
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <h1>FAQ: Fusion Splicing Systems</h1>
+        <p>Below are the FAQs submitted by customers regarding the Fusion Splicing Systems product line.</p>
+        <p>Q:  If I buy a new fusion splicer from an unauthorized reseller in North America, can I still get maintenance and technical support from AFL?<br />
+        A:  No. We do not offer maintenance services and technical support to splicers that were purchased new from <a href=" /Contact/Splicers/Authorized-Splicer-Distributors ">unauthorized resellers</a> in North America. AFL and AFL's <a href=" /Contact/AFL-Distributors ">authorized distributors</a> are the only authorized resellers of Fujikura splicers in North America.<br />
+        <br />
+        Q:  Why do I get “offset” errors on my fixed v-groove splicer?<br />
+        A:  Offsets are usually caused by debris on the v-grooves or on the fiber.  AFL recommends a <a href="/Products/Test-and-Inspection/Fiber-Optic-Cleaning/Splicer_V-Groove_Cleaning_Kit ">splicer v-groove cleaning kit</a>.<br />
+        <br />
+        Q:  I get “Large Dust Burn” error messages when I am splicing.  Is there something wrong with my splicer?<br />
+        A:  No. Large dust burns are contamination or excessive alcohol igniting during the splicing process. This is feedback to the operator to check his fiber preparation procedures. Multiple “Large Dust Burn” errors can lead to problems with arc power.<br />
+         <br />
+        Q:  When I perform an arc calibration, I get the message “Power Inadequate”. Why does that happen?<br />
+        A:  It may take several iterations to get the arc power to its optimal value. Continue performing the arc calibration tests until it passes.<br />
+        <br />
+        Q:  What is the difference between the sheath clamp and fiber holder?<br />
+        A:  The sheath clamp is a hinged magnetic clamp that is attached to the splicer. The fiber is placed in position and then clamped in place with the hinged mechanism. The sheath clamp can be removed on the single fiber splicers such as the 70S and 19S to allow the use of fiber holders. The fiber holders also have a hinged magnetic clamp, but are used for handling the fiber for the cleaving process. The fiber holder is then positioned in the splicer. Inexperienced persons have an easier time with fiber holders. All ribbon splicers require the use of fiber holders.</p>
+        <div> </div>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kushagra
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: Fusion Splicing Systems AFL products frequently asked questions FAQ
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: Systèmes d'épissage par fusion
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: Systèmes d'épissage par fusion
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f7e2ab07-3783-4a67-9555-6cae95c84f8a"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T090816Z

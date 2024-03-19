@@ -1,0 +1,31 @@
+﻿---
+ID: "868f765e-086d-4259-ba82-ff4c8738f248"
+Parent: "12667bec-526d-4986-8a76-b174d8a7bc0c"
+Template: "d93b4361-133e-4858-bb3e-7583d896d04a"
+Path: "/sitecore/content/AFL-Global/APAC/Data/AFL LinkList Folder"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220202T145436Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\archana
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\archana
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a98b512c-078c-424f-b633-4a091b6d3ddb"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\archana
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220202T145436Z

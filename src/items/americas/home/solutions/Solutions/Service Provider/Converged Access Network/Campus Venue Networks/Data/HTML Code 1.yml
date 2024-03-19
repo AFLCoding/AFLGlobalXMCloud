@@ -1,0 +1,948 @@
+﻿---
+ID: "28251c5f-72be-4018-9745-007dab518f91"
+Parent: "2fe1da4a-5386-4b21-827a-abeb209f1474"
+Template: "2ad23d55-aecd-43dd-ae0d-72d2ebcba60f"
+Path: "/sitecore/content/AFL-Global/AMERICAS/Home/Solutions/Service Provider/Converged Access Network/Campus Venue Networks/Data/HTML Code 1"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "24cce27c-05db-4473-a1ed-e69b1725ff1c"
+      Hint: HtmlCode
+      Value: |
+          <!--Pulling interactive map content-->
+          <link rel="stylesheet" type="text/css" href="https://webapps.aflglobal.com/InteractiveMaps/Edge_Solutions/css/webmap_10-14.css">
+        
+        
+          <script src="https://code.createjs.com/1.0.0/createjs.min.js"></script>
+          <script src="https://webapps.aflglobal.com/InteractiveMaps/5G_campus_venues_2023/5Gcampus.js"></script>
+          <script src="https://webapps.aflglobal.com/InteractiveMaps/web_map_links.js"></script>
+          
+          <body>
+          
+          
+            
+          <div class="container">
+              <div class="row">
+                  
+                  <!--start-new-->
+          
+                  <!--end-new-->
+                  
+                </div>
+            
+           
+            <!--adding row-->
+            <div class="row">
+              
+              <div class="col-12">
+                  <!--Adding HTML Code-->
+                  <script>
+        // Global Scripts
+        	var iconArray = [""];
+        var holder = "";
+        var holderSet = "nothing";
+        function zoomClick()
+        {
+        	linksVis(0);
+        	exportRoot.main_mc.visible = true;
+        	eval("this.gotoAndStop('start')");	
+        	eval("exportRoot."+holder+"_mc.visible = false");
+        	filterResetClick(1);
+        	holderSet = "nothing";
+        	//removes event listeners from icons
+        	for(x=0; x < iconArray.length; x++)
+        	{ eval('this.'+iconArray[x]+'_mc._listeners.click.splice(0,1)'); }
+        	//removes event listener from zoom out button
+        	this.zoomOut._listeners.click.splice(0,1);
+        	bgChange("main"); //NEW
+        }
+        function addListenersFunction()
+        {
+        	var shortCut = "exportRoot."+holder+"_mc";
+        	//add event listeners to icons
+        	for(y=0; y < iconArray.length; y++)
+        	{		
+        		eval(shortCut+'.'+iconArray[y]+'_mc.addEventListener("click", iconClick.bind(shortCut, "'+iconArray[y]+'"))');
+        	}
+        	//add event listener to zoom out button
+        	eval(shortCut+'.zoomOut.addEventListener("click", zoomClick.bind('+shortCut+'))');
+        }
+        function cursorSet()
+        {
+        	for(y=0; y < iconArray.length; y++)
+        	{
+        		eval('exportRoot.'+holder+'_mc.'+iconArray[y]+'_mc.cursor = "pointer"');
+        	}
+        }
+        function iconClick(icon)
+        {	
+        	var shortCut = "exportRoot."+holder+"_mc";	
+        	eval(shortCut+"."+icon+"_mc.gotoAndPlay('start')");
+        	if((icon == "titanA") || (icon == "titanB") || (icon == "titanPo") || (icon == "titanPe")) {icon = "titan";}
+        	if((icon == "wall1") || (icon == "wall2")) {icon = "wall";}
+        //code for dom overlay container		
+        
+        	var m = "";
+        	var n = "";
+        	var r = "";
+        	var linkLength = "";
+        	var linkTitle = "";
+        	var linkWeb = "";
+        	m = "links."+icon+".length";
+        	linkLength = eval(m);
+        	for(p = 0; p < linkLength; p++)
+        		{
+        			r = "links."+icon+"["+p+"].title";
+        			linkTitle = eval(r);
+        			r = "links."+icon+"["+p+"].web";
+        			linkWeb = eval(r);
+        			n += '<p class="link"><a href="'+linkWeb+'" target="_blank">'+linkTitle+'</a></p>';
+        		}
+        	document.getElementById("dom_overlay_container").innerHTML = n;		
+        
+        	if(holderSet == "nothing")
+        		{ eval("exportRoot."+holder+"_mc.gotoAndPlay('blueBox')"); holderSet = "something"; }
+        }
+        function linksVis(value)
+        {
+        	if(value == 1){ document.getElementById("dom_overlay_container").style.visibility = "visible"; }
+        	if(value == 0){ document.getElementById("dom_overlay_container").style.visibility = "hidden"; }
+        }
+        function bgChange(bg)//NEW
+        {
+        	var replacement = "https://webapps.aflglobal.com/InteractiveMaps/5G_campus_venues_2023/images/"+bg+".jpg";
+        	document.getElementById("canvas").style.backgroundImage = "url("+replacement+")";
+        }
+        function filterClick(filter)
+        {
+        	showLength = filter.length;
+        	filterResetClick(0);	
+        	for (x = 0; x < showLength; x++)
+        		{
+        			eval('exportRoot.'+holder+'_mc.'+filter[x]+'_mc.visible = true');
+        		}
+        }
+        function filterResetClick(see)
+        {
+        	var allLength = 0;
+        	allLength = iconArray.length;
+        	for(x = 0; x < allLength; x++)
+        		{ 
+        			if(see == 1){eval('exportRoot.'+holder+'_mc.'+iconArray[x]+'_mc.visible = true');}
+        			if(see == 0){eval('exportRoot.'+holder+'_mc.'+iconArray[x]+'_mc.visible = false');}
+        		}
+        }</script>
+        <script>
+        var canvas, stage, exportRoot, anim_container, dom_overlay_container, fnStartAnimation;
+        function init() {
+        	canvas = document.getElementById("canvas");
+        	anim_container = document.getElementById("animation_container");
+        	dom_overlay_container = document.getElementById("dom_overlay_container");
+        	var comp=AdobeAn.getComposition("F3574088C2052747A142ABBF8232AD94");
+        	var lib=comp.getLibrary();
+        	handleComplete({},comp);
+        }
+        function handleComplete(evt,comp) {
+        	//This function is always called, irrespective of the content. You can use the variable "stage" after it is created in token create_stage.
+        	var lib=comp.getLibrary();
+        	var ss=comp.getSpriteSheet();
+        	exportRoot = new lib._5Gcampus_web_2();
+        	stage = new lib.Stage(canvas);
+        	stage.enableMouseOver();	
+        	//Registers the "tick" event listener.
+        	fnStartAnimation = function() {
+        		stage.addChild(exportRoot);
+        		createjs.Ticker.framerate = lib.properties.fps;
+        		createjs.Ticker.addEventListener("tick", stage);
+        	}	    
+        	//Code to support hidpi screens and responsive scaling.
+        	AdobeAn.makeResponsive(false,'both',false,1,[canvas,anim_container,dom_overlay_container]);	
+        	AdobeAn.compositionLoaded(lib.properties.id);
+        	fnStartAnimation();
+        }
+        </script>
+                      
+                      <script> 
+                      $(document).ready(function () {
+                      init();
+                      });
+                      </script>
+                      <!--StartNew-->
+                      
+                      
+                       
+                     
+                      <!--EndNew-->
+                     
+        
+        
+        <body onload="init();" style="margin:0px;">
+        <div id="animation_container" style="width:100%;">
+                            <canvas id="canvas" style="background-image: url('https://webapps.aflglobal.com/InteractiveMaps/5G_campus_venues_2023/images/main.jpg');"></canvas>
+                            <!--ADD--><div id="dom_overlay_container" class="newLinks"></div>
+                        </div>
+        
+                      <p></p>
+                      
+                      
+                      <!--start table container-->
+                      <div class="container top">
+                      <div class="row">
+                      <div class="col-md-12">
+                      <!--Start Table-->
+                      <h2 style="font-size: 2.3rem; color: #00c0f3; letter-spacing: 1.2px; line-height: 36px; font-family: 'Hind',sans-serif !important; margin: 0.67em 0;">Campus and Venue Networks</h2>
+        <p>24/7 connectivity is one of the key characteristics of modern society. In locations where people gather in large numbers, the expectation is to have seamless connectivity and bandwidth. Meaning, higher-density wireless access points are needed plus a higher-density fiber infrastructure to support them. AFL has the right solutions for this type of network.</p>
+        <p>AFL offers several key benefits for the campus and venue network:</p>
+        <p><strong>Expandability</strong>. AFL&rsquo;s <a href="https://www.aflglobal.com/en/Products/Fiber-Optic-Cable/High-Density/Premise-MicroCore">Premise MicroCore®</a> and <a href="https://www.aflglobal.com/en/Products/Fiber-Optic-Cable/High-Density/Wrapping-Tube-Cable">Wrapping Tube Cable (WTC) with SpiderWeb Ribbon® (SWR®)</a> provide an ultra-high density of fiber within a given pathway. With space often at a premium in campus/venue environments, network designers and installers benefit from these cable options when designing a robust network that consists of enough fiber for current and future generations. Modular components like AFL&rsquo;s <a href="https://www.aflglobal.com/en/Products/Fiber-Optic-Connectivity/Rack-Mount-Patch-Panels/ASCEND-High-Density-Platform">ASCEND® panel</a> also allow for upgrades to higher fiber counts, different wavelengths and more. This maximizes the amount that a network can grow before it needs to be replaced and the chance that critical hard-to-install components (e.g. cable runs) can remain in place through upgrades.</p>
+        <p><strong>Flexibility</strong>. AFL offers several points of flexibility for network designers, installers and operators. Modular products like the ASCEND fiber panel and WME enclosures allow many options to reconfigure networks by changing splice trays, connectorized modules and more. AFL&rsquo;s FASTConnect® and FUSEConnect® <a href="https://www.aflglobal.com/en/Products/Fiber-Optic-Connectivity/Field-Installable-Connectors">field-installed connectors</a> also provide flexible termination options.</p>
+        <p><strong>Accessibility</strong>. From SpiderWeb Ribbon&rsquo;s remarkable design to make 200 μm fiber backwards compatible with 250 μm for <a href="https://www.aflglobal.com/en/Products/Fusion-Splicing/Field-Fusion-Splicing-Equipment/Splicers-Ribbon-Fiber">ribbon splicing</a>, to our industry-leading core alignment Fujikura 90-series splicers, to the craft-friendly and modular design of ASCEND panels and WME enclosures, AFL makes it straightforward and simple for technicians to install and maintain fiber networks.</p>
+        <a href="https://afl-delivery.stylelabs.cloud/api/public/content/campusvenuepdf?v=183b4205" target="_blank">Click for larger image.<br>
+        <img alt="" height="243" width="630" src="https://afl-delivery.stylelabs.cloud/api/public/content/campusvenue?v=c43878c0"></a>
+          
+                  
+                     
+                  
+              
+           
+                      
+                      <p>&nbsp;</p>
+                      
+                      </div>
+                      </div>
+                      </div>
+                      <style>
+                      .animation_container {
+                      background-color: none !important;
+                      }
+                      
+                      #animation_container {
+                          
+                          height: none !important;
+                          
+                      }
+                      p {
+          font-size: 15px;
+          line-height: 22px;
+          letter-spacing: .2px;
+          margin: 0 0 0.95rem !important;
+          }
+          ul {
+          font-size: 16px;
+          }
+          body {
+          line-height: normal;
+          }
+          a {
+              text-decoration: none;
+              color: #00c0f3;
+          }
+          
+          .afl-subPages ul {
+              padding-left: 2.5rem;
+              list-style-type: disc;
+              margin: 1.5rem;
+              line-height: 20px;
+          }
+                      </style>
+        <style>
+        #animation_container {
+            width: 100% !important;
+            }
+        #canvas {
+        background-repeat: round;
+        }
+            .top {
+            }
+            #animation_container {
+                
+                height: auto !important;
+                
+            }
+             h1 {
+        font-size: 3rem;
+        letter-spacing: 1.2px;
+        line-height: 36px;
+        font-weight: bold;
+        margin: 0.67em 0;
+        color: #00c0f3 !important;
+        }
+        h2 {
+        font-size: 2rem;
+        color: #004282;
+        font-weight: bold;
+        line-height: 18px;
+        margin: 0.67em 0;
+        }
+        p {
+        padding: 0 !important;
+        margin: 0 0 0.95rem !important;
+        line-height: 22px;
+        letter-spacing: normal;
+        font-size: 1.5rem !important;
+        color: #333;
+        }
+        .link {
+        padding: 0 !important;
+        margin: 0 !important;
+        line-height: normal !important;
+        font-size: 1.1rem !important;
+        }
+        </style>
+              </div>
+            </div>
+          </div>
+          
+          </body>
+          
+          
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230330T135814Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rafael
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rafael
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0e99cb78-951f-4352-bf28-ac9d312f92a1"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rafael
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231011T133525Z
+- Language: "es-MX"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "24cce27c-05db-4473-a1ed-e69b1725ff1c"
+      Hint: HtmlCode
+      Value: |
+          <!--Pulling interactive map content-->
+          <link rel="stylesheet" type="text/css" href="https://webapps.aflglobal.com/InteractiveMaps/Edge_Solutions/css/webmap_10-14.css">
+        
+        
+          <script src="https://code.createjs.com/1.0.0/createjs.min.js"></script>
+          <script src="https://webapps.aflglobal.com/InteractiveMaps/5G_campus_venues_2023/5Gcampus.js"></script>
+          <script src="https://webapps.aflglobal.com/InteractiveMaps/web_map_links.js"></script>
+          
+          <body>
+          
+          
+            
+          <div class="container">
+              <div class="row">
+                  
+                  <!--start-new-->
+          
+                  <!--end-new-->
+                  
+                </div>
+            
+           
+            <!--adding row-->
+            <div class="row">
+              
+              <div class="col-12">
+                  <!--Adding HTML Code-->
+                  <script>
+        // Global Scripts
+        	var iconArray = [""];
+        var holder = "";
+        var holderSet = "nothing";
+        function zoomClick()
+        {
+        	linksVis(0);
+        	exportRoot.main_mc.visible = true;
+        	eval("this.gotoAndStop('start')");	
+        	eval("exportRoot."+holder+"_mc.visible = false");
+        	filterResetClick(1);
+        	holderSet = "nothing";
+        	//removes event listeners from icons
+        	for(x=0; x < iconArray.length; x++)
+        	{ eval('this.'+iconArray[x]+'_mc._listeners.click.splice(0,1)'); }
+        	//removes event listener from zoom out button
+        	this.zoomOut._listeners.click.splice(0,1);
+        	bgChange("main"); //NEW
+        }
+        function addListenersFunction()
+        {
+        	var shortCut = "exportRoot."+holder+"_mc";
+        	//add event listeners to icons
+        	for(y=0; y < iconArray.length; y++)
+        	{		
+        		eval(shortCut+'.'+iconArray[y]+'_mc.addEventListener("click", iconClick.bind(shortCut, "'+iconArray[y]+'"))');
+        	}
+        	//add event listener to zoom out button
+        	eval(shortCut+'.zoomOut.addEventListener("click", zoomClick.bind('+shortCut+'))');
+        }
+        function cursorSet()
+        {
+        	for(y=0; y < iconArray.length; y++)
+        	{
+        		eval('exportRoot.'+holder+'_mc.'+iconArray[y]+'_mc.cursor = "pointer"');
+        	}
+        }
+        function iconClick(icon)
+        {	
+        	var shortCut = "exportRoot."+holder+"_mc";	
+        	eval(shortCut+"."+icon+"_mc.gotoAndPlay('start')");
+        	if((icon == "titanA") || (icon == "titanB") || (icon == "titanPo") || (icon == "titanPe")) {icon = "titan";}
+        	if((icon == "wall1") || (icon == "wall2")) {icon = "wall";}
+        //code for dom overlay container		
+        
+        	var m = "";
+        	var n = "";
+        	var r = "";
+        	var linkLength = "";
+        	var linkTitle = "";
+        	var linkWeb = "";
+        	m = "links."+icon+".length";
+        	linkLength = eval(m);
+        	for(p = 0; p < linkLength; p++)
+        		{
+        			r = "links."+icon+"["+p+"].title";
+        			linkTitle = eval(r);
+        			r = "links."+icon+"["+p+"].web";
+        			linkWeb = eval(r);
+        			n += '<p class="link"><a href="'+linkWeb+'" target="_blank">'+linkTitle+'</a></p>';
+        		}
+        	document.getElementById("dom_overlay_container").innerHTML = n;		
+        
+        	if(holderSet == "nothing")
+        		{ eval("exportRoot."+holder+"_mc.gotoAndPlay('blueBox')"); holderSet = "something"; }
+        }
+        function linksVis(value)
+        {
+        	if(value == 1){ document.getElementById("dom_overlay_container").style.visibility = "visible"; }
+        	if(value == 0){ document.getElementById("dom_overlay_container").style.visibility = "hidden"; }
+        }
+        function bgChange(bg)//NEW
+        {
+        	var replacement = "https://webapps.aflglobal.com/InteractiveMaps/5G_campus_venues_2023/images/"+bg+".jpg";
+        	document.getElementById("canvas").style.backgroundImage = "url("+replacement+")";
+        }
+        function filterClick(filter)
+        {
+        	showLength = filter.length;
+        	filterResetClick(0);	
+        	for (x = 0; x < showLength; x++)
+        		{
+        			eval('exportRoot.'+holder+'_mc.'+filter[x]+'_mc.visible = true');
+        		}
+        }
+        function filterResetClick(see)
+        {
+        	var allLength = 0;
+        	allLength = iconArray.length;
+        	for(x = 0; x < allLength; x++)
+        		{ 
+        			if(see == 1){eval('exportRoot.'+holder+'_mc.'+iconArray[x]+'_mc.visible = true');}
+        			if(see == 0){eval('exportRoot.'+holder+'_mc.'+iconArray[x]+'_mc.visible = false');}
+        		}
+        }</script>
+        <script>
+        var canvas, stage, exportRoot, anim_container, dom_overlay_container, fnStartAnimation;
+        function init() {
+        	canvas = document.getElementById("canvas");
+        	anim_container = document.getElementById("animation_container");
+        	dom_overlay_container = document.getElementById("dom_overlay_container");
+        	var comp=AdobeAn.getComposition("F3574088C2052747A142ABBF8232AD94");
+        	var lib=comp.getLibrary();
+        	handleComplete({},comp);
+        }
+        function handleComplete(evt,comp) {
+        	//This function is always called, irrespective of the content. You can use the variable "stage" after it is created in token create_stage.
+        	var lib=comp.getLibrary();
+        	var ss=comp.getSpriteSheet();
+        	exportRoot = new lib._5Gcampus_web_2();
+        	stage = new lib.Stage(canvas);
+        	stage.enableMouseOver();	
+        	//Registers the "tick" event listener.
+        	fnStartAnimation = function() {
+        		stage.addChild(exportRoot);
+        		createjs.Ticker.framerate = lib.properties.fps;
+        		createjs.Ticker.addEventListener("tick", stage);
+        	}	    
+        	//Code to support hidpi screens and responsive scaling.
+        	AdobeAn.makeResponsive(false,'both',false,1,[canvas,anim_container,dom_overlay_container]);	
+        	AdobeAn.compositionLoaded(lib.properties.id);
+        	fnStartAnimation();
+        }
+        </script>
+                      
+                      <script> 
+                      $(document).ready(function () {
+                      init();
+                      });
+                      </script>
+                      <!--StartNew-->
+                      
+                      
+                       
+                     
+                      <!--EndNew-->
+                     
+        
+        
+        <body onload="init();" style="margin:0px;">
+        <div id="animation_container" style="width:100%;">
+                            <canvas id="canvas" style="background-image: url('https://webapps.aflglobal.com/InteractiveMaps/5G_campus_venues_2023/images/main.jpg');"></canvas>
+                            <!--ADD--><div id="dom_overlay_container" class="newLinks"></div>
+                        </div>
+        
+                      <p></p>
+                      
+                      
+                      <!--start table container-->
+                      <div class="container top">
+                      <div class="row">
+                      <div class="col-md-12">
+                      <!--Start Table-->
+                      <h2 style="font-size: 2.3rem; color: #00c0f3; letter-spacing: 1.2px; line-height: 36px; font-family: 'Hind',sans-serif !important; margin: 0.67em 0;">Campus and Venue Networks</h2>
+        <p>24/7 connectivity is one of the key characteristics of modern society. In locations where people gather in large numbers, the expectation is to have seamless connectivity and bandwidth. Meaning, higher-density wireless access points are needed plus a higher-density fiber infrastructure to support them. AFL has the right solutions for this type of network.</p>
+        <p>AFL offers several key benefits for the campus and venue network:</p>
+        <p><strong>Expandability</strong>. AFL&rsquo;s <a href="https://www.aflglobal.com/en/Products/Fiber-Optic-Cable/High-Density/Premise-MicroCore">Premise MicroCore®</a> and <a href="https://www.aflglobal.com/en/Products/Fiber-Optic-Cable/High-Density/Wrapping-Tube-Cable">Wrapping Tube Cable (WTC) with SpiderWeb Ribbon® (SWR®)</a> provide an ultra-high density of fiber within a given pathway. With space often at a premium in campus/venue environments, network designers and installers benefit from these cable options when designing a robust network that consists of enough fiber for current and future generations. Modular components like AFL&rsquo;s <a href="https://www.aflglobal.com/en/Products/Fiber-Optic-Connectivity/Rack-Mount-Patch-Panels/ASCEND-High-Density-Platform">ASCEND® panel</a> also allow for upgrades to higher fiber counts, different wavelengths and more. This maximizes the amount that a network can grow before it needs to be replaced and the chance that critical hard-to-install components (e.g. cable runs) can remain in place through upgrades.</p>
+        <p><strong>Flexibility</strong>. AFL offers several points of flexibility for network designers, installers and operators. Modular products like the ASCEND fiber panel and WME enclosures allow many options to reconfigure networks by changing splice trays, connectorized modules and more. AFL&rsquo;s FASTConnect® and FUSEConnect® <a href="https://www.aflglobal.com/en/Products/Fiber-Optic-Connectivity/Field-Installable-Connectors">field-installed connectors</a> also provide flexible termination options.</p>
+        <p><strong>Accessibility</strong>. From SpiderWeb Ribbon&rsquo;s remarkable design to make 200 μm fiber backwards compatible with 250 μm for <a href="https://www.aflglobal.com/en/Products/Fusion-Splicing/Field-Fusion-Splicing-Equipment/Splicers-Ribbon-Fiber">ribbon splicing</a>, to our industry-leading core alignment Fujikura 90-series splicers, to the craft-friendly and modular design of ASCEND panels and WME enclosures, AFL makes it straightforward and simple for technicians to install and maintain fiber networks.</p>
+        <a href="https://afl-delivery.stylelabs.cloud/api/public/content/campusvenuepdf?v=183b4205" target="_blank">Click for larger image.<br>
+        <img alt="" height="243" width="630" src="https://afl-delivery.stylelabs.cloud/api/public/content/campusvenue?v=c43878c0"></a>
+          
+                  
+                     
+                  
+              
+           
+                      
+                      <p>&nbsp;</p>
+                      
+                      </div>
+                      </div>
+                      </div>
+                      <style>
+                      .animation_container {
+                      background-color: none !important;
+                      }
+                      
+                      #animation_container {
+                          
+                          height: none !important;
+                          
+                      }
+                      p {
+          font-size: 15px;
+          line-height: 22px;
+          letter-spacing: .2px;
+          margin: 0 0 0.95rem !important;
+          }
+          ul {
+          font-size: 16px;
+          }
+          body {
+          line-height: normal;
+          }
+          a {
+              text-decoration: none;
+              color: #00c0f3;
+          }
+          
+          .afl-subPages ul {
+              padding-left: 2.5rem;
+              list-style-type: disc;
+              margin: 1.5rem;
+              line-height: 20px;
+          }
+                      </style>
+        <style>
+        #animation_container {
+            width: 100% !important;
+            }
+        #canvas {
+        background-repeat: round;
+        }
+            .top {
+            }
+            #animation_container {
+                
+                height: auto !important;
+                
+            }
+             h1 {
+        font-size: 3rem;
+        letter-spacing: 1.2px;
+        line-height: 36px;
+        font-weight: bold;
+        margin: 0.67em 0;
+        color: #00c0f3 !important;
+        }
+        h2 {
+        font-size: 2rem;
+        color: #004282;
+        font-weight: bold;
+        line-height: 18px;
+        margin: 0.67em 0;
+        }
+        p {
+        padding: 0 !important;
+        margin: 0 0 0.95rem !important;
+        line-height: 22px;
+        letter-spacing: normal;
+        font-size: 1.5rem !important;
+        color: #333;
+        }
+        .link {
+        padding: 0 !important;
+        margin: 0 !important;
+        line-height: normal !important;
+        font-size: 1.1rem !important;
+        }
+        </style>
+              </div>
+            </div>
+          </div>
+          
+          </body>
+          
+          
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230504T132920Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rafael
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rafael
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "383581c6-d09a-4e59-82d3-f3c9558a8056"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rafael
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231011T133557Z
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "24cce27c-05db-4473-a1ed-e69b1725ff1c"
+      Hint: HtmlCode
+      Value: |
+          <!--Pulling interactive map content-->
+          <link rel="stylesheet" type="text/css" href="https://webapps.aflglobal.com/InteractiveMaps/Edge_Solutions/css/webmap_10-14.css">
+        
+        
+          <script src="https://code.createjs.com/1.0.0/createjs.min.js"></script>
+          <script src="https://webapps.aflglobal.com/InteractiveMaps/5G_campus_venues_2023/5Gcampus.js"></script>
+          <script src="https://webapps.aflglobal.com/InteractiveMaps/web_map_links.js"></script>
+          
+          <body>
+          
+          
+            
+          <div class="container">
+              <div class="row">
+                  
+                  <!--start-new-->
+          
+                  <!--end-new-->
+                  
+                </div>
+            
+           
+            <!--adding row-->
+            <div class="row">
+              
+              <div class="col-12">
+                  <!--Adding HTML Code-->
+                  <script>
+        // Global Scripts
+        	var iconArray = [""];
+        var holder = "";
+        var holderSet = "nothing";
+        function zoomClick()
+        {
+        	linksVis(0);
+        	exportRoot.main_mc.visible = true;
+        	eval("this.gotoAndStop('start')");	
+        	eval("exportRoot."+holder+"_mc.visible = false");
+        	filterResetClick(1);
+        	holderSet = "nothing";
+        	//removes event listeners from icons
+        	for(x=0; x < iconArray.length; x++)
+        	{ eval('this.'+iconArray[x]+'_mc._listeners.click.splice(0,1)'); }
+        	//removes event listener from zoom out button
+        	this.zoomOut._listeners.click.splice(0,1);
+        	bgChange("main"); //NEW
+        }
+        function addListenersFunction()
+        {
+        	var shortCut = "exportRoot."+holder+"_mc";
+        	//add event listeners to icons
+        	for(y=0; y < iconArray.length; y++)
+        	{		
+        		eval(shortCut+'.'+iconArray[y]+'_mc.addEventListener("click", iconClick.bind(shortCut, "'+iconArray[y]+'"))');
+        	}
+        	//add event listener to zoom out button
+        	eval(shortCut+'.zoomOut.addEventListener("click", zoomClick.bind('+shortCut+'))');
+        }
+        function cursorSet()
+        {
+        	for(y=0; y < iconArray.length; y++)
+        	{
+        		eval('exportRoot.'+holder+'_mc.'+iconArray[y]+'_mc.cursor = "pointer"');
+        	}
+        }
+        function iconClick(icon)
+        {	
+        	var shortCut = "exportRoot."+holder+"_mc";	
+        	eval(shortCut+"."+icon+"_mc.gotoAndPlay('start')");
+        	if((icon == "titanA") || (icon == "titanB") || (icon == "titanPo") || (icon == "titanPe")) {icon = "titan";}
+        	if((icon == "wall1") || (icon == "wall2")) {icon = "wall";}
+        //code for dom overlay container		
+        
+        	var m = "";
+        	var n = "";
+        	var r = "";
+        	var linkLength = "";
+        	var linkTitle = "";
+        	var linkWeb = "";
+        	m = "links."+icon+".length";
+        	linkLength = eval(m);
+        	for(p = 0; p < linkLength; p++)
+        		{
+        			r = "links."+icon+"["+p+"].title";
+        			linkTitle = eval(r);
+        			r = "links."+icon+"["+p+"].web";
+        			linkWeb = eval(r);
+        			n += '<p class="link"><a href="'+linkWeb+'" target="_blank">'+linkTitle+'</a></p>';
+        		}
+        	document.getElementById("dom_overlay_container").innerHTML = n;		
+        
+        	if(holderSet == "nothing")
+        		{ eval("exportRoot."+holder+"_mc.gotoAndPlay('blueBox')"); holderSet = "something"; }
+        }
+        function linksVis(value)
+        {
+        	if(value == 1){ document.getElementById("dom_overlay_container").style.visibility = "visible"; }
+        	if(value == 0){ document.getElementById("dom_overlay_container").style.visibility = "hidden"; }
+        }
+        function bgChange(bg)//NEW
+        {
+        	var replacement = "https://webapps.aflglobal.com/InteractiveMaps/5G_campus_venues_2023/images/"+bg+".jpg";
+        	document.getElementById("canvas").style.backgroundImage = "url("+replacement+")";
+        }
+        function filterClick(filter)
+        {
+        	showLength = filter.length;
+        	filterResetClick(0);	
+        	for (x = 0; x < showLength; x++)
+        		{
+        			eval('exportRoot.'+holder+'_mc.'+filter[x]+'_mc.visible = true');
+        		}
+        }
+        function filterResetClick(see)
+        {
+        	var allLength = 0;
+        	allLength = iconArray.length;
+        	for(x = 0; x < allLength; x++)
+        		{ 
+        			if(see == 1){eval('exportRoot.'+holder+'_mc.'+iconArray[x]+'_mc.visible = true');}
+        			if(see == 0){eval('exportRoot.'+holder+'_mc.'+iconArray[x]+'_mc.visible = false');}
+        		}
+        }</script>
+        <script>
+        var canvas, stage, exportRoot, anim_container, dom_overlay_container, fnStartAnimation;
+        function init() {
+        	canvas = document.getElementById("canvas");
+        	anim_container = document.getElementById("animation_container");
+        	dom_overlay_container = document.getElementById("dom_overlay_container");
+        	var comp=AdobeAn.getComposition("F3574088C2052747A142ABBF8232AD94");
+        	var lib=comp.getLibrary();
+        	handleComplete({},comp);
+        }
+        function handleComplete(evt,comp) {
+        	//This function is always called, irrespective of the content. You can use the variable "stage" after it is created in token create_stage.
+        	var lib=comp.getLibrary();
+        	var ss=comp.getSpriteSheet();
+        	exportRoot = new lib._5Gcampus_web_2();
+        	stage = new lib.Stage(canvas);
+        	stage.enableMouseOver();	
+        	//Registers the "tick" event listener.
+        	fnStartAnimation = function() {
+        		stage.addChild(exportRoot);
+        		createjs.Ticker.framerate = lib.properties.fps;
+        		createjs.Ticker.addEventListener("tick", stage);
+        	}	    
+        	//Code to support hidpi screens and responsive scaling.
+        	AdobeAn.makeResponsive(false,'both',false,1,[canvas,anim_container,dom_overlay_container]);	
+        	AdobeAn.compositionLoaded(lib.properties.id);
+        	fnStartAnimation();
+        }
+        </script>
+                      
+                      <script> 
+                      $(document).ready(function () {
+                      init();
+                      });
+                      </script>
+                      <!--StartNew-->
+                      
+                      
+                       
+                     
+                      <!--EndNew-->
+                     
+        
+        
+        <body onload="init();" style="margin:0px;">
+        <div id="animation_container" style="width:100%;">
+                            <canvas id="canvas" style="background-image: url('https://webapps.aflglobal.com/InteractiveMaps/5G_campus_venues_2023/images/main.jpg');"></canvas>
+                            <!--ADD--><div id="dom_overlay_container" class="newLinks"></div>
+                        </div>
+        
+                      <p></p>
+                      
+                      
+                      <!--start table container-->
+                      <div class="container top">
+                      <div class="row">
+                      <div class="col-md-12">
+                      <!--Start Table-->
+                      <h2 style="font-size: 2.3rem; color: #00c0f3; letter-spacing: 1.2px; line-height: 36px; font-family: 'Hind',sans-serif !important; margin: 0.67em 0;">Campus and Venue Networks</h2>
+        <p>24/7 connectivity is one of the key characteristics of modern society. In locations where people gather in large numbers, the expectation is to have seamless connectivity and bandwidth. Meaning, higher-density wireless access points are needed plus a higher-density fiber infrastructure to support them. AFL has the right solutions for this type of network.</p>
+        <p>AFL offers several key benefits for the campus and venue network:</p>
+        <p><strong>Expandability</strong>. AFL&rsquo;s <a href="https://www.aflglobal.com/en/Products/Fiber-Optic-Cable/High-Density/Premise-MicroCore">Premise MicroCore®</a> and <a href="https://www.aflglobal.com/en/Products/Fiber-Optic-Cable/High-Density/Wrapping-Tube-Cable">Wrapping Tube Cable (WTC) with SpiderWeb Ribbon® (SWR®)</a> provide an ultra-high density of fiber within a given pathway. With space often at a premium in campus/venue environments, network designers and installers benefit from these cable options when designing a robust network that consists of enough fiber for current and future generations. Modular components like AFL&rsquo;s <a href="https://www.aflglobal.com/en/Products/Fiber-Optic-Connectivity/Rack-Mount-Patch-Panels/ASCEND-High-Density-Platform">ASCEND® panel</a> also allow for upgrades to higher fiber counts, different wavelengths and more. This maximizes the amount that a network can grow before it needs to be replaced and the chance that critical hard-to-install components (e.g. cable runs) can remain in place through upgrades.</p>
+        <p><strong>Flexibility</strong>. AFL offers several points of flexibility for network designers, installers and operators. Modular products like the ASCEND fiber panel and WME enclosures allow many options to reconfigure networks by changing splice trays, connectorized modules and more. AFL&rsquo;s FASTConnect® and FUSEConnect® <a href="https://www.aflglobal.com/en/Products/Fiber-Optic-Connectivity/Field-Installable-Connectors">field-installed connectors</a> also provide flexible termination options.</p>
+        <p><strong>Accessibility</strong>. From SpiderWeb Ribbon&rsquo;s remarkable design to make 200 μm fiber backwards compatible with 250 μm for <a href="https://www.aflglobal.com/en/Products/Fusion-Splicing/Field-Fusion-Splicing-Equipment/Splicers-Ribbon-Fiber">ribbon splicing</a>, to our industry-leading core alignment Fujikura 90-series splicers, to the craft-friendly and modular design of ASCEND panels and WME enclosures, AFL makes it straightforward and simple for technicians to install and maintain fiber networks.</p>
+        <a href="https://afl-delivery.stylelabs.cloud/api/public/content/campusvenuepdf?v=183b4205" target="_blank">Click for larger image.<br>
+        <img alt="" height="243" width="630" src="https://afl-delivery.stylelabs.cloud/api/public/content/campusvenue?v=c43878c0"></a>
+          
+                  
+                     
+                  
+              
+           
+                      
+                      <p>&nbsp;</p>
+                      
+                      </div>
+                      </div>
+                      </div>
+                      <style>
+                      .animation_container {
+                      background-color: none !important;
+                      }
+                      
+                      #animation_container {
+                          
+                          height: none !important;
+                          
+                      }
+                      p {
+          font-size: 15px;
+          line-height: 22px;
+          letter-spacing: .2px;
+          margin: 0 0 0.95rem !important;
+          }
+          ul {
+          font-size: 16px;
+          }
+          body {
+          line-height: normal;
+          }
+          a {
+              text-decoration: none;
+              color: #00c0f3;
+          }
+          
+          .afl-subPages ul {
+              padding-left: 2.5rem;
+              list-style-type: disc;
+              margin: 1.5rem;
+              line-height: 20px;
+          }
+                      </style>
+        <style>
+        #animation_container {
+            width: 100% !important;
+            }
+        #canvas {
+        background-repeat: round;
+        }
+            .top {
+            }
+            #animation_container {
+                
+                height: auto !important;
+                
+            }
+             h1 {
+        font-size: 3rem;
+        letter-spacing: 1.2px;
+        line-height: 36px;
+        font-weight: bold;
+        margin: 0.67em 0;
+        color: #00c0f3 !important;
+        }
+        h2 {
+        font-size: 2rem;
+        color: #004282;
+        font-weight: bold;
+        line-height: 18px;
+        margin: 0.67em 0;
+        }
+        p {
+        padding: 0 !important;
+        margin: 0 0 0.95rem !important;
+        line-height: 22px;
+        letter-spacing: normal;
+        font-size: 1.5rem !important;
+        color: #333;
+        }
+        .link {
+        padding: 0 !important;
+        margin: 0 !important;
+        line-height: normal !important;
+        font-size: 1.1rem !important;
+        }
+        </style>
+              </div>
+            </div>
+          </div>
+          
+          </body>
+          
+          
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230504T132909Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rafael
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rafael
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e93db52d-55cd-4aaf-a452-c71152332631"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rafael
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231011T133543Z

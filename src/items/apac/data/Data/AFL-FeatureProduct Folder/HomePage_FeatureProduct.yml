@@ -1,0 +1,45 @@
+﻿---
+ID: "000a45e9-279d-4bb3-84c6-f65760069e7e"
+Parent: "dc27248d-688e-455d-912d-8a02e404bb3d"
+Template: "10550108-9295-44d1-a3e9-9ea98786d2ea"
+Path: "/sitecore/content/AFL-Global/APAC/Data/AFL-FeatureProduct Folder/HomePage_FeatureProduct"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211105T113924Z
+    - ID: "437fb55b-dff2-44bc-898e-7b37502688de"
+      Hint: ProductLink
+      Value: |
+        <link id="{80AE80BE-E823-4C52-AFCB-6FB0CBD1A984}" querystring="" target="" text="View More" anchor="" url="/AFL-Global/APAC/Home/Products/Test and Inspection/OTDRs and Troubleshooters" title="" class="" linktype="internal" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "558ad533-11c5-40a9-ae0c-81c045f78faa"
+      Hint: ProductTitle
+      Value: FlexScan® FS200 SM OTDRs with SmartAuto® & LinkMap®
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "627fbd94-0279-4597-a3d0-fcb1058662b2"
+      Hint: ProductImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="37485" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/37485/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/8a5c7c6438d9424aaa40e4cee642d3a7?v=175a35aa" stylelabs-content-type="Image" alt="FlexScan FS200 OTDR shown in-use" height="2000" width="2000" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "157c8ace-ea1f-494c-a1f9-ced352dfa94b"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\matt
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20221228T151923Z
+    - ID: "e3bcfb9e-ac4a-4b80-9ad0-42cf5b48b078"
+      Hint: ProductDescription
+      Value: <p>AFL's FlexScan® OTDRs enable even novice technicians to quickly and reliably troubleshoot or completely characterize optical networks.</p>

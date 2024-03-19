@@ -1,6 +1,6 @@
 ﻿---
-ID: "11258209-883f-46b2-b600-07f536886b06"
-Parent: "5728ef6e-513f-4403-a620-cba23ce4c618"
+ID: "eb4c288c-f7e6-4649-b6f6-3cfc028e07e4"
+Parent: "2d5ea765-5ddd-4512-9e67-da6eef55bc10"
 Template: "60d25f33-2d41-47e5-b2f8-605ea5168daf"
 Path: /sitecore/content/AFLGlobal/APAC/Data/AFL LinkList Folder/Footer Navigation/Resources
 SharedFields:
@@ -32,11 +32,11 @@ Languages:
         <link id="{3DBEF6D5-C2D2-4847-90C7-33BC3052C541}" querystring="" target="" text="Resources" anchor="" title="" class="" url="/AFL-Global/APAC/Home/Resources" linktype="internal" />
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "27e936bf-08d4-434e-80cf-06b080959c65"
+      Value: "01789499-637e-4b32-9bd6-4164d73de016"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\pawan.tyagi@altudo.co
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240315T163909Z
+      Value: 20240315T083221Z

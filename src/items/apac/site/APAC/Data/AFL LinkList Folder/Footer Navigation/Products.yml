@@ -1,6 +1,6 @@
 ﻿---
-ID: "5698e4d0-0a47-419a-a2d7-7743e4efa976"
-Parent: "5728ef6e-513f-4403-a620-cba23ce4c618"
+ID: "e6ca3ab5-c748-4d51-a947-d107818e4c3d"
+Parent: "2d5ea765-5ddd-4512-9e67-da6eef55bc10"
 Template: "60d25f33-2d41-47e5-b2f8-605ea5168daf"
 Path: /sitecore/content/AFLGlobal/APAC/Data/AFL LinkList Folder/Footer Navigation/Products
 Languages:
@@ -10,7 +10,7 @@ Languages:
     Fields:
     - ID: "0b76a3cf-fb07-42d8-8b0c-8a3fcfd5d586"
       Hint: Title
-      Value: Products
+      Value: Products test pawan
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20220202T151916Z
@@ -28,11 +28,11 @@ Languages:
         <link id="{B36C2169-5EB0-4594-A5E9-1BF4F55E8169}" querystring="" target="" text="Products" anchor="" title="" class="" url="/AFL-Global/APAC/Home/Products" linktype="internal" />
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "41ebd6ed-c759-406c-8f11-8f635ed87c36"
+      Value: "4fd642ed-0bba-4377-92ad-61188822e2b5"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\pawan.tyagi@altudo.co
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240315T163909Z
+      Value: 20240315T083221Z

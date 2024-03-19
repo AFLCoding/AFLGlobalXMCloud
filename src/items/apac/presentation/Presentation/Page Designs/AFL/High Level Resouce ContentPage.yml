@@ -1,0 +1,35 @@
+﻿---
+ID: "3356d8f0-130a-417e-ac4f-3fd4855c59b2"
+Parent: "7e479b49-fe84-4209-af74-70619f48e0c8"
+Template: "6db5d952-edde-47d2-9694-3710dbfbd752"
+Path: "/sitecore/content/AFL-Global/APAC/Presentation/Page Designs/AFL/High Level Resouce ContentPage"
+SharedFields:
+- ID: "0966b999-0d0e-4278-acc9-9da69d461fe6"
+  Hint: PartialDesigns
+  Value: "{AEB0035B-A012-4170-8DDA-49D40F14C3D8}|{643437E3-51AE-4356-9F92-E8AC9945EF06}|{D47B6808-53CF-4E3F-8A85-D34BBFBDE08F}|{C150F682-9936-4890-B30A-2480EC7BF5F0}|{D6AB926B-DE1A-4B27-87BD-3D20C65664A7}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211210T103108Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\archana
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\archana
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "29de6dc1-a3a2-497a-bab4-a144f47cac71"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kushagra
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220308T062010Z

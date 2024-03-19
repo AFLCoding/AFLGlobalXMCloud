@@ -1,0 +1,876 @@
+﻿---
+ID: "cafc8c7e-d3f4-438d-a469-d52cb7b8dd74"
+Parent: "96a975fa-1462-4374-b5a2-16467d0918fa"
+Template: "2ad23d55-aecd-43dd-ae0d-72d2ebcba60f"
+Path: "/sitecore/content/AFL-Global/AMERICAS/Home/Solutions/Energy/Substation/Data/HTML Code 1"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "24cce27c-05db-4473-a1ed-e69b1725ff1c"
+      Hint: HtmlCode
+      Value: |
+        <!DOCTYPE html>
+        <html lang="en">
+        
+        <head>
+         <link rel="stylesheet" type="text/css" href="https://webapps.aflglobal.com/InteractiveMaps/Edge_Solutions/css/webmap_10-14.css">
+        
+        <script src="https://code.createjs.com/1.0.0/createjs.min.js"></script>
+        <script src="https://webapps.aflglobal.com/InteractiveMaps/substation_map/substation_web_1.js"></script>
+        <script src="https://webapps.aflglobal.com/InteractiveMaps/web_map_links.js"></script>
+        </head>
+        <body>
+          
+          
+            
+         <div class="container">
+                <!--startMap-->
+                <p>&nbsp;</p>
+        
+                <!--adding row-->
+                <div class="row">
+        
+                    <div class="col-12">
+                        <!--Adding HTML Code-->
+        	<script>
+        // Global Scripts
+        	var iconArray = [""];
+        var holder = "";
+        var holderSet = "nothing";
+        function zoomClick()
+        {
+        	linksVis(0);
+        	exportRoot.main_mc.visible = true;
+        	eval("this.gotoAndStop('start')");	
+        	eval("exportRoot."+holder+"_mc.visible = false");
+        	holderSet = "nothing";
+        	//removes event listeners from icons
+        	for(x=0; x < iconArray.length; x++)
+        	{ eval('this.'+iconArray[x]+'_mc._listeners.click.splice(0,1)'); }
+        	//removes event listener from zoom out button
+        	this.zoomOut._listeners.click.splice(0,1);
+        	bgChange("main"); //NEW
+        }
+        function addListenersFunction()
+        {
+        	var shortCut = "exportRoot."+holder+"_mc";
+        	//add event listeners to icons
+        	for(y=0; y < iconArray.length; y++)
+        	{		
+        		eval(shortCut+'.'+iconArray[y]+'_mc.addEventListener("click", iconClick.bind(shortCut, "'+iconArray[y]+'"))');
+        	}
+        	//add event listener to zoom out button
+        	eval(shortCut+'.zoomOut.addEventListener("click", zoomClick.bind('+shortCut+'))');
+        }
+        function cursorSet()
+        {
+        	for(y=0; y < iconArray.length; y++)
+        	{
+        		eval('exportRoot.'+holder+'_mc.'+iconArray[y]+'_mc.cursor = "pointer"');
+        	}
+        }
+        function iconClick(icon)
+        {	
+        	var shortCut = "exportRoot."+holder+"_mc";	
+        	eval(shortCut+"."+icon+"_mc.gotoAndPlay('start')");
+        	//alert(icon);
+        	if((icon == "titanA") || (icon == "titanB") || (icon == "titanPo") || (icon == "titanPe"))
+        		{icon = "titan";}
+        	if((icon == "wall1") || (icon == "wall2"))
+        		{icon = "wall";}
+        //code for dom overlay container		
+        
+        	var m = "";
+        	var n = "";
+        	var r = "";
+        	var linkLength = "";
+        	var linkTitle = "";
+        	var linkWeb = "";
+        	m = "links."+icon+".length";
+        	linkLength = eval(m);
+        	for(p = 0; p < linkLength; p++)
+        		{
+        			r = "links."+icon+"["+p+"].title";
+        			linkTitle = eval(r);
+        			r = "links."+icon+"["+p+"].web";
+        			linkWeb = eval(r);
+        			n += '<p class="link"><a href="'+linkWeb+'" target="_blank">'+linkTitle+'</a></p>';
+        		}
+        	document.getElementById("dom_overlay_container").innerHTML = n;		
+        
+        	if(holderSet == "nothing")
+        		{ eval("exportRoot."+holder+"_mc.gotoAndPlay('blueBox')"); holderSet = "something"; }
+        }
+        function linksVis(value)
+        {
+        	if(value == 1){ document.getElementById("dom_overlay_container").style.visibility = "visible"; }
+        	if(value == 0){ document.getElementById("dom_overlay_container").style.visibility = "hidden"; }
+        }
+        function bgChange(bg)//NEW
+        {
+        	var replacement = "https://webapps.aflglobal.com/InteractiveMaps/substation_map/images/"+bg+".jpg";
+        	document.getElementById("canvas").style.backgroundImage = "url("+replacement+")";
+        }</script>
+        <script>
+        var canvas, stage, exportRoot, anim_container, dom_overlay_container, fnStartAnimation;
+        function init() {
+        	canvas = document.getElementById("canvas");
+        	anim_container = document.getElementById("animation_container");
+        	dom_overlay_container = document.getElementById("dom_overlay_container");
+        	var comp=AdobeAn.getComposition("F3574088C2052747A142ABBF8232AD94");
+        	var lib=comp.getLibrary();
+        	handleComplete({},comp);
+        }
+        function handleComplete(evt,comp) {
+        	//This function is always called, irrespective of the content. You can use the variable "stage" after it is created in token create_stage.
+        	var lib=comp.getLibrary();
+        	var ss=comp.getSpriteSheet();
+        	exportRoot = new lib.substation_web_2();
+        	stage = new lib.Stage(canvas);
+        	stage.enableMouseOver();	
+        	//Registers the "tick" event listener.
+        	fnStartAnimation = function() {
+        		stage.addChild(exportRoot);
+        		createjs.Ticker.framerate = lib.properties.fps;
+        		createjs.Ticker.addEventListener("tick", stage);
+        	}	    
+        	//Code to support hidpi screens and responsive scaling.
+        	AdobeAn.makeResponsive(false,'both',false,1,[canvas,anim_container,dom_overlay_container]);	
+        	AdobeAn.compositionLoaded(lib.properties.id);
+        	fnStartAnimation();
+        }
+        </script>
+        	 <script> 
+                    $(document).ready(function () {
+                    init();
+                    });
+                    </script>
+        <!--StartNew-->
+                      
+                      
+                       
+                     
+                      <!--EndNew-->	
+        
+        
+        <div id="animation_container" style="width:100%;">
+                            <canvas id="canvas" style="background-image: url('https://webapps.aflglobal.com/InteractiveMaps/substation_map/images/main.jpg');"></canvas>
+                            <!--ADD--><div id="dom_overlay_container" class="newLinks"></div>
+                        </div>
+        <br/>
+        <p>With decades of design and manufacturing expertise, our Dossert® product line offers a wide range of <a href="/Products/Conductor-Accessories/Substation-Accessories">substation accessories</a> for deployment by electric power utilities. Our substation products feature superior product performance designed to improve the reliability of the critical electrical and optical infrastructure used for the transmission and distribution of electricity.</p>
+          <p>
+          AFL's substation accessories are made for low voltage up to 765 kV applications that involve cable, pipe, flat or tubular bus and integral web connections. Substation accessories cover everything inside the fence including supports, couplers, connectors, expansions, taps, terminals, reducers, bus vibration dampers, stud connectors, end plugs and hardware.</p>
+          <p>
+          Complementing the entire substation family, Swage grounding, <a href="/Products/Conductor-Accessories/Substation-Accessories/Swage-Bus-Accessories">bus</a> and <a href="/Products/Conductor-Accessories/Substation-Accessories/Swage-Cable-Accessories">cable</a> accessories use a compression technology process called "swaging" that enables installation of aluminum accessories without the need for a welder. These Swage products allow the electric utility to install accessories faster and more efficiently, lowering installation costs. Swaging is the ideal solution for areas with shortages on qualified welders or when inclement weather conditions prohibit installation.</p>
+          <p>
+          Swage <a href="/Products/Conductor-Accessories/Tools-and-Equipment">Tooling</a> is available for:</p>
+        <p>With decades of design and manufacturing expertise, our Dossert® product line offers a wide range of <a href="/Products/Conductor-Accessories/Substation-Accessories">substation accessories</a> for deployment by electric power utilities. Our substation products feature superior product performance designed to improve the reliability of the critical electrical and optical infrastructure used for the transmission and distribution of electricity.</p>
+          <p>
+          AFL's substation accessories are made for low voltage up to 765 kV applications that involve cable, pipe, flat or tubular bus and integral web connections. Substation accessories cover everything inside the fence including supports, couplers, connectors, expansions, taps, terminals, reducers, bus vibration dampers, stud connectors, end plugs and hardware.</p>
+          <p>
+          Complementing the entire substation family, Swage grounding, <a href="/Products/Conductor-Accessories/Substation-Accessories/Swage-Bus-Accessories">bus</a> and <a href="/Products/Conductor-Accessories/Substation-Accessories/Swage-Cable-Accessories">cable</a> accessories use a compression technology process called "swaging" that enables installation of aluminum accessories without the need for a welder. These Swage products allow the electric utility to install accessories faster and more efficiently, lowering installation costs. Swaging is the ideal solution for areas with shortages on qualified welders or when inclement weather conditions prohibit installation.</p>
+          <p>
+          Swage <a href="/Products/Conductor-Accessories/Tools-and-Equipment">Tooling</a> is available for:</p>
+        <h2>Testing Lab and Engineering Support</h2>
+        <p>AFL&rsquo;s accessories products are manufactured in Duncan, SC, in our facility that is certified to ISO 14001 and ISO 9001:2015 standards. With 10,000 sq. ft. of open testing space, our substation accessories are designed and tested to meet ANSI/NEMA CC-1 standards for performance, installation and operation. The test lab allows AFL engineers to perform testing for strength, vibration, fatigue, heat rise, current cycle, insulator and flashover.</p>
+        <p>For all of your substation needs, AFL provides engineering support including:</p>
+        <ul style="padding-left: 2.5rem;
+            list-style-type: disc;
+            margin: 1.5rem;
+            line-height: 20px;">
+          <li>Direct line to Engineering for any technical inquiries +1 (800) 890-8878</li>
+          <li>Custom parts for any voltage, welded, bolted, Swage or standard compression</li>
+          <li>Ability to 3D print tooling for quick lead times and reduced costs</li>
+          <li>Free on-site training regardless of type of power connector used</li>
+        </ul><br/>
+        <style>
+                      #animation_container {
+                      width: 100% !important;
+                      }
+                      
+                      #animation_container {
+                          
+                          height: none !important;
+                          
+                      }
+                      p {
+          font-size: 15px;
+          line-height: 22px;
+          letter-spacing: .2px;
+          margin: 0 0 0.95rem !important;
+          }
+          ul {
+          font-size: 16px;
+          }
+          body {
+          line-height: normal;
+          }
+          a {
+              text-decoration: none;
+              color: #00c0f3;
+          }
+          
+           .afl-subPages ul  {
+              padding-left: 2.5rem;
+              list-style-type: disc;
+              margin: 1.5rem;
+              line-height: 20px;
+          }
+        	</style>
+        <style>
+        #animation_container {
+            width: 100% !important;
+            }
+        #canvas {
+        background-repeat: round;
+        }
+           
+            #animation_container {
+                
+                height: auto !important;
+                
+            }
+             h1 {
+        font-size: 3rem;
+        letter-spacing: 1.2px;
+        line-height: 36px;
+        font-weight: bold;
+        margin: 0.67em 0;
+        color: #00c0f3 !important;
+        }
+        h2 {
+        font-size: 2rem;
+        color: #004282;
+        font-weight: bold;
+        line-height: 18px;
+        margin: 0.67em 0;
+        }
+        p {
+        padding: 0 !important;
+        margin: 0 0 0.95rem !important;
+        line-height: 22px;
+        letter-spacing: normal;
+        font-size: 1.5rem !important;
+        color: #333;
+        }
+        .link {
+        padding: 0 !important;
+        margin: 0 !important;
+        line-height: normal !important;
+        font-size: 1.1rem !important;
+        }
+        
+        </style>
+            
+        </div>
+            </div>
+          </div>
+          
+          </body>
+        </html>
+        
+        
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230502T150810Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rafael
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rafael
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a17c713b-2fb6-446d-a85f-380a271783c6"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rafael
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231207T142609Z
+- Language: "es-MX"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "24cce27c-05db-4473-a1ed-e69b1725ff1c"
+      Hint: HtmlCode
+      Value: |
+        <!DOCTYPE html>
+        <html lang="en">
+        
+        <head>
+         <link rel="stylesheet" type="text/css" href="https://webapps.aflglobal.com/InteractiveMaps/Edge_Solutions/css/webmap_10-14.css">
+        
+        <script src="https://code.createjs.com/1.0.0/createjs.min.js"></script>
+        <script src="https://webapps.aflglobal.com/InteractiveMaps/substation_map/substation_web_1.js"></script>
+        <script src="https://webapps.aflglobal.com/InteractiveMaps/web_map_links.js"></script>
+        </head>
+        <body>
+          
+          
+            
+         <div class="container">
+                <!--startMap-->
+                <p>&nbsp;</p>
+        
+                <!--adding row-->
+                <div class="row">
+        
+                    <div class="col-12">
+                        <!--Adding HTML Code-->
+        	<script>
+        // Global Scripts
+        	var iconArray = [""];
+        var holder = "";
+        var holderSet = "nothing";
+        function zoomClick()
+        {
+        	linksVis(0);
+        	exportRoot.main_mc.visible = true;
+        	eval("this.gotoAndStop('start')");	
+        	eval("exportRoot."+holder+"_mc.visible = false");
+        	holderSet = "nothing";
+        	//removes event listeners from icons
+        	for(x=0; x < iconArray.length; x++)
+        	{ eval('this.'+iconArray[x]+'_mc._listeners.click.splice(0,1)'); }
+        	//removes event listener from zoom out button
+        	this.zoomOut._listeners.click.splice(0,1);
+        	bgChange("main"); //NEW
+        }
+        function addListenersFunction()
+        {
+        	var shortCut = "exportRoot."+holder+"_mc";
+        	//add event listeners to icons
+        	for(y=0; y < iconArray.length; y++)
+        	{		
+        		eval(shortCut+'.'+iconArray[y]+'_mc.addEventListener("click", iconClick.bind(shortCut, "'+iconArray[y]+'"))');
+        	}
+        	//add event listener to zoom out button
+        	eval(shortCut+'.zoomOut.addEventListener("click", zoomClick.bind('+shortCut+'))');
+        }
+        function cursorSet()
+        {
+        	for(y=0; y < iconArray.length; y++)
+        	{
+        		eval('exportRoot.'+holder+'_mc.'+iconArray[y]+'_mc.cursor = "pointer"');
+        	}
+        }
+        function iconClick(icon)
+        {	
+        	var shortCut = "exportRoot."+holder+"_mc";	
+        	eval(shortCut+"."+icon+"_mc.gotoAndPlay('start')");
+        	//alert(icon);
+        	if((icon == "titanA") || (icon == "titanB") || (icon == "titanPo") || (icon == "titanPe"))
+        		{icon = "titan";}
+        	if((icon == "wall1") || (icon == "wall2"))
+        		{icon = "wall";}
+        //code for dom overlay container		
+        
+        	var m = "";
+        	var n = "";
+        	var r = "";
+        	var linkLength = "";
+        	var linkTitle = "";
+        	var linkWeb = "";
+        	m = "links."+icon+".length";
+        	linkLength = eval(m);
+        	for(p = 0; p < linkLength; p++)
+        		{
+        			r = "links."+icon+"["+p+"].title";
+        			linkTitle = eval(r);
+        			r = "links."+icon+"["+p+"].web";
+        			linkWeb = eval(r);
+        			n += '<p class="link"><a href="'+linkWeb+'" target="_blank">'+linkTitle+'</a></p>';
+        		}
+        	document.getElementById("dom_overlay_container").innerHTML = n;		
+        
+        	if(holderSet == "nothing")
+        		{ eval("exportRoot."+holder+"_mc.gotoAndPlay('blueBox')"); holderSet = "something"; }
+        }
+        function linksVis(value)
+        {
+        	if(value == 1){ document.getElementById("dom_overlay_container").style.visibility = "visible"; }
+        	if(value == 0){ document.getElementById("dom_overlay_container").style.visibility = "hidden"; }
+        }
+        function bgChange(bg)//NEW
+        {
+        	var replacement = "https://webapps.aflglobal.com/InteractiveMaps/substation_map/images/"+bg+".jpg";
+        	document.getElementById("canvas").style.backgroundImage = "url("+replacement+")";
+        }</script>
+        <script>
+        var canvas, stage, exportRoot, anim_container, dom_overlay_container, fnStartAnimation;
+        function init() {
+        	canvas = document.getElementById("canvas");
+        	anim_container = document.getElementById("animation_container");
+        	dom_overlay_container = document.getElementById("dom_overlay_container");
+        	var comp=AdobeAn.getComposition("F3574088C2052747A142ABBF8232AD94");
+        	var lib=comp.getLibrary();
+        	handleComplete({},comp);
+        }
+        function handleComplete(evt,comp) {
+        	//This function is always called, irrespective of the content. You can use the variable "stage" after it is created in token create_stage.
+        	var lib=comp.getLibrary();
+        	var ss=comp.getSpriteSheet();
+        	exportRoot = new lib.substation_web_2();
+        	stage = new lib.Stage(canvas);
+        	stage.enableMouseOver();	
+        	//Registers the "tick" event listener.
+        	fnStartAnimation = function() {
+        		stage.addChild(exportRoot);
+        		createjs.Ticker.framerate = lib.properties.fps;
+        		createjs.Ticker.addEventListener("tick", stage);
+        	}	    
+        	//Code to support hidpi screens and responsive scaling.
+        	AdobeAn.makeResponsive(false,'both',false,1,[canvas,anim_container,dom_overlay_container]);	
+        	AdobeAn.compositionLoaded(lib.properties.id);
+        	fnStartAnimation();
+        }
+        </script>
+        	 <script> 
+                    $(document).ready(function () {
+                    init();
+                    });
+                    </script>
+        <!--StartNew-->
+                      
+                      
+                       
+                     
+                      <!--EndNew-->	
+        
+        
+        <div id="animation_container" style="width:100%;">
+                            <canvas id="canvas" style="background-image: url('https://webapps.aflglobal.com/InteractiveMaps/substation_map/images/main.jpg');"></canvas>
+                            <!--ADD--><div id="dom_overlay_container" class="newLinks"></div>
+                        </div>
+        <br/>
+        <p>With decades of design and manufacturing expertise, our Dossert® product line offers a wide range of <a href="/Products/Conductor-Accessories/Substation-Accessories">substation accessories</a> for deployment by electric power utilities. Our substation products feature superior product performance designed to improve the reliability of the critical electrical and optical infrastructure used for the transmission and distribution of electricity.</p>
+          <p>
+          AFL's substation accessories are made for low voltage up to 765 kV applications that involve cable, pipe, flat or tubular bus and integral web connections. Substation accessories cover everything inside the fence including supports, couplers, connectors, expansions, taps, terminals, reducers, bus vibration dampers, stud connectors, end plugs and hardware.</p>
+          <p>
+          Complementing the entire substation family, Swage grounding, <a href="/Products/Conductor-Accessories/Substation-Accessories/Swage-Bus-Accessories">bus</a> and <a href="/Products/Conductor-Accessories/Substation-Accessories/Swage-Cable-Accessories">cable</a> accessories use a compression technology process called "swaging" that enables installation of aluminum accessories without the need for a welder. These Swage products allow the electric utility to install accessories faster and more efficiently, lowering installation costs. Swaging is the ideal solution for areas with shortages on qualified welders or when inclement weather conditions prohibit installation.</p>
+          <p>
+          Swage <a href="/Products/Conductor-Accessories/Tools-and-Equipment">Tooling</a> is available for:</p>
+        <p>With decades of design and manufacturing expertise, our Dossert® product line offers a wide range of <a href="/Products/Conductor-Accessories/Substation-Accessories">substation accessories</a> for deployment by electric power utilities. Our substation products feature superior product performance designed to improve the reliability of the critical electrical and optical infrastructure used for the transmission and distribution of electricity.</p>
+          <p>
+          AFL's substation accessories are made for low voltage up to 765 kV applications that involve cable, pipe, flat or tubular bus and integral web connections. Substation accessories cover everything inside the fence including supports, couplers, connectors, expansions, taps, terminals, reducers, bus vibration dampers, stud connectors, end plugs and hardware.</p>
+          <p>
+          Complementing the entire substation family, Swage grounding, <a href="/Products/Conductor-Accessories/Substation-Accessories/Swage-Bus-Accessories">bus</a> and <a href="/Products/Conductor-Accessories/Substation-Accessories/Swage-Cable-Accessories">cable</a> accessories use a compression technology process called "swaging" that enables installation of aluminum accessories without the need for a welder. These Swage products allow the electric utility to install accessories faster and more efficiently, lowering installation costs. Swaging is the ideal solution for areas with shortages on qualified welders or when inclement weather conditions prohibit installation.</p>
+          <p>
+          Swage <a href="/Products/Conductor-Accessories/Tools-and-Equipment">Tooling</a> is available for:</p>
+        <h2>Testing Lab and Engineering Support</h2>
+        <p>AFL&rsquo;s accessories products are manufactured in Duncan, SC, in our facility that is certified to ISO 14001 and ISO 9001:2015 standards. With 10,000 sq. ft. of open testing space, our substation accessories are designed and tested to meet ANSI/NEMA CC-1 standards for performance, installation and operation. The test lab allows AFL engineers to perform testing for strength, vibration, fatigue, heat rise, current cycle, insulator and flashover.</p>
+        <p>For all of your substation needs, AFL provides engineering support including:</p>
+        <ul style="padding-left: 2.5rem;
+            list-style-type: disc;
+            margin: 1.5rem;
+            line-height: 20px;">
+          <li>Direct line to Engineering for any technical inquiries +1 (800) 890-8878</li>
+          <li>Custom parts for any voltage, welded, bolted, Swage or standard compression</li>
+          <li>Ability to 3D print tooling for quick lead times and reduced costs</li>
+          <li>Free on-site training regardless of type of power connector used</li>
+        </ul><br/>
+        <style>
+                      #animation_container {
+                      width: 100% !important;
+                      }
+                      
+                      #animation_container {
+                          
+                          height: none !important;
+                          
+                      }
+                      p {
+          font-size: 15px;
+          line-height: 22px;
+          letter-spacing: .2px;
+          margin: 0 0 0.95rem !important;
+          }
+          ul {
+          font-size: 16px;
+          }
+          body {
+          line-height: normal;
+          }
+          a {
+              text-decoration: none;
+              color: #00c0f3;
+          }
+          
+           .afl-subPages ul  {
+              padding-left: 2.5rem;
+              list-style-type: disc;
+              margin: 1.5rem;
+              line-height: 20px;
+          }
+        	</style>
+        <style>
+        #animation_container {
+            width: 100% !important;
+            }
+        #canvas {
+        background-repeat: round;
+        }
+           
+            #animation_container {
+                
+                height: auto !important;
+                
+            }
+             h1 {
+        font-size: 3rem;
+        letter-spacing: 1.2px;
+        line-height: 36px;
+        font-weight: bold;
+        margin: 0.67em 0;
+        color: #00c0f3 !important;
+        }
+        h2 {
+        font-size: 2rem;
+        color: #004282;
+        font-weight: bold;
+        line-height: 18px;
+        margin: 0.67em 0;
+        }
+        p {
+        padding: 0 !important;
+        margin: 0 0 0.95rem !important;
+        line-height: 22px;
+        letter-spacing: normal;
+        font-size: 1.5rem !important;
+        color: #333;
+        }
+        .link {
+        padding: 0 !important;
+        margin: 0 !important;
+        line-height: normal !important;
+        font-size: 1.1rem !important;
+        }
+        
+        </style>
+            
+        </div>
+            </div>
+          </div>
+          
+          </body>
+        </html>
+        
+        
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230504T133334Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rafael
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rafael
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f044177c-3423-4cdd-b360-3d00ab808850"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rafael
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231207T142755Z
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "24cce27c-05db-4473-a1ed-e69b1725ff1c"
+      Hint: HtmlCode
+      Value: |
+        <!DOCTYPE html>
+        <html lang="en">
+        
+        <head>
+         <link rel="stylesheet" type="text/css" href="https://webapps.aflglobal.com/InteractiveMaps/Edge_Solutions/css/webmap_10-14.css">
+        
+        <script src="https://code.createjs.com/1.0.0/createjs.min.js"></script>
+        <script src="https://webapps.aflglobal.com/InteractiveMaps/substation_map/substation_web_1.js"></script>
+        <script src="https://webapps.aflglobal.com/InteractiveMaps/web_map_links.js"></script>
+        </head>
+        <body>
+          
+          
+            
+         <div class="container">
+                <!--startMap-->
+                <p>&nbsp;</p>
+        
+                <!--adding row-->
+                <div class="row">
+        
+                    <div class="col-12">
+                        <!--Adding HTML Code-->
+        	<script>
+        // Global Scripts
+        	var iconArray = [""];
+        var holder = "";
+        var holderSet = "nothing";
+        function zoomClick()
+        {
+        	linksVis(0);
+        	exportRoot.main_mc.visible = true;
+        	eval("this.gotoAndStop('start')");	
+        	eval("exportRoot."+holder+"_mc.visible = false");
+        	holderSet = "nothing";
+        	//removes event listeners from icons
+        	for(x=0; x < iconArray.length; x++)
+        	{ eval('this.'+iconArray[x]+'_mc._listeners.click.splice(0,1)'); }
+        	//removes event listener from zoom out button
+        	this.zoomOut._listeners.click.splice(0,1);
+        	bgChange("main"); //NEW
+        }
+        function addListenersFunction()
+        {
+        	var shortCut = "exportRoot."+holder+"_mc";
+        	//add event listeners to icons
+        	for(y=0; y < iconArray.length; y++)
+        	{		
+        		eval(shortCut+'.'+iconArray[y]+'_mc.addEventListener("click", iconClick.bind(shortCut, "'+iconArray[y]+'"))');
+        	}
+        	//add event listener to zoom out button
+        	eval(shortCut+'.zoomOut.addEventListener("click", zoomClick.bind('+shortCut+'))');
+        }
+        function cursorSet()
+        {
+        	for(y=0; y < iconArray.length; y++)
+        	{
+        		eval('exportRoot.'+holder+'_mc.'+iconArray[y]+'_mc.cursor = "pointer"');
+        	}
+        }
+        function iconClick(icon)
+        {	
+        	var shortCut = "exportRoot."+holder+"_mc";	
+        	eval(shortCut+"."+icon+"_mc.gotoAndPlay('start')");
+        	//alert(icon);
+        	if((icon == "titanA") || (icon == "titanB") || (icon == "titanPo") || (icon == "titanPe"))
+        		{icon = "titan";}
+        	if((icon == "wall1") || (icon == "wall2"))
+        		{icon = "wall";}
+        //code for dom overlay container		
+        
+        	var m = "";
+        	var n = "";
+        	var r = "";
+        	var linkLength = "";
+        	var linkTitle = "";
+        	var linkWeb = "";
+        	m = "links."+icon+".length";
+        	linkLength = eval(m);
+        	for(p = 0; p < linkLength; p++)
+        		{
+        			r = "links."+icon+"["+p+"].title";
+        			linkTitle = eval(r);
+        			r = "links."+icon+"["+p+"].web";
+        			linkWeb = eval(r);
+        			n += '<p class="link"><a href="'+linkWeb+'" target="_blank">'+linkTitle+'</a></p>';
+        		}
+        	document.getElementById("dom_overlay_container").innerHTML = n;		
+        
+        	if(holderSet == "nothing")
+        		{ eval("exportRoot."+holder+"_mc.gotoAndPlay('blueBox')"); holderSet = "something"; }
+        }
+        function linksVis(value)
+        {
+        	if(value == 1){ document.getElementById("dom_overlay_container").style.visibility = "visible"; }
+        	if(value == 0){ document.getElementById("dom_overlay_container").style.visibility = "hidden"; }
+        }
+        function bgChange(bg)//NEW
+        {
+        	var replacement = "https://webapps.aflglobal.com/InteractiveMaps/substation_map/images/"+bg+".jpg";
+        	document.getElementById("canvas").style.backgroundImage = "url("+replacement+")";
+        }</script>
+        <script>
+        var canvas, stage, exportRoot, anim_container, dom_overlay_container, fnStartAnimation;
+        function init() {
+        	canvas = document.getElementById("canvas");
+        	anim_container = document.getElementById("animation_container");
+        	dom_overlay_container = document.getElementById("dom_overlay_container");
+        	var comp=AdobeAn.getComposition("F3574088C2052747A142ABBF8232AD94");
+        	var lib=comp.getLibrary();
+        	handleComplete({},comp);
+        }
+        function handleComplete(evt,comp) {
+        	//This function is always called, irrespective of the content. You can use the variable "stage" after it is created in token create_stage.
+        	var lib=comp.getLibrary();
+        	var ss=comp.getSpriteSheet();
+        	exportRoot = new lib.substation_web_2();
+        	stage = new lib.Stage(canvas);
+        	stage.enableMouseOver();	
+        	//Registers the "tick" event listener.
+        	fnStartAnimation = function() {
+        		stage.addChild(exportRoot);
+        		createjs.Ticker.framerate = lib.properties.fps;
+        		createjs.Ticker.addEventListener("tick", stage);
+        	}	    
+        	//Code to support hidpi screens and responsive scaling.
+        	AdobeAn.makeResponsive(false,'both',false,1,[canvas,anim_container,dom_overlay_container]);	
+        	AdobeAn.compositionLoaded(lib.properties.id);
+        	fnStartAnimation();
+        }
+        </script>
+        	 <script> 
+                    $(document).ready(function () {
+                    init();
+                    });
+                    </script>
+        <!--StartNew-->
+                      
+                      
+                       
+                     
+                      <!--EndNew-->	
+        
+        
+        <div id="animation_container" style="width:100%;">
+                            <canvas id="canvas" style="background-image: url('https://webapps.aflglobal.com/InteractiveMaps/substation_map/images/main.jpg');"></canvas>
+                            <!--ADD--><div id="dom_overlay_container" class="newLinks"></div>
+                        </div>
+        <br/>
+        <p>With decades of design and manufacturing expertise, our Dossert® product line offers a wide range of <a href="/Products/Conductor-Accessories/Substation-Accessories">substation accessories</a> for deployment by electric power utilities. Our substation products feature superior product performance designed to improve the reliability of the critical electrical and optical infrastructure used for the transmission and distribution of electricity.</p>
+          <p>
+          AFL's substation accessories are made for low voltage up to 765 kV applications that involve cable, pipe, flat or tubular bus and integral web connections. Substation accessories cover everything inside the fence including supports, couplers, connectors, expansions, taps, terminals, reducers, bus vibration dampers, stud connectors, end plugs and hardware.</p>
+          <p>
+          Complementing the entire substation family, Swage grounding, <a href="/Products/Conductor-Accessories/Substation-Accessories/Swage-Bus-Accessories">bus</a> and <a href="/Products/Conductor-Accessories/Substation-Accessories/Swage-Cable-Accessories">cable</a> accessories use a compression technology process called "swaging" that enables installation of aluminum accessories without the need for a welder. These Swage products allow the electric utility to install accessories faster and more efficiently, lowering installation costs. Swaging is the ideal solution for areas with shortages on qualified welders or when inclement weather conditions prohibit installation.</p>
+          <p>
+          Swage <a href="/Products/Conductor-Accessories/Tools-and-Equipment">Tooling</a> is available for:</p>
+        <p>With decades of design and manufacturing expertise, our Dossert® product line offers a wide range of <a href="/Products/Conductor-Accessories/Substation-Accessories">substation accessories</a> for deployment by electric power utilities. Our substation products feature superior product performance designed to improve the reliability of the critical electrical and optical infrastructure used for the transmission and distribution of electricity.</p>
+          <p>
+          AFL's substation accessories are made for low voltage up to 765 kV applications that involve cable, pipe, flat or tubular bus and integral web connections. Substation accessories cover everything inside the fence including supports, couplers, connectors, expansions, taps, terminals, reducers, bus vibration dampers, stud connectors, end plugs and hardware.</p>
+          <p>
+          Complementing the entire substation family, Swage grounding, <a href="/Products/Conductor-Accessories/Substation-Accessories/Swage-Bus-Accessories">bus</a> and <a href="/Products/Conductor-Accessories/Substation-Accessories/Swage-Cable-Accessories">cable</a> accessories use a compression technology process called "swaging" that enables installation of aluminum accessories without the need for a welder. These Swage products allow the electric utility to install accessories faster and more efficiently, lowering installation costs. Swaging is the ideal solution for areas with shortages on qualified welders or when inclement weather conditions prohibit installation.</p>
+          <p>
+          Swage <a href="/Products/Conductor-Accessories/Tools-and-Equipment">Tooling</a> is available for:</p>
+        <h2>Testing Lab and Engineering Support</h2>
+        <p>AFL&rsquo;s accessories products are manufactured in Duncan, SC, in our facility that is certified to ISO 14001 and ISO 9001:2015 standards. With 10,000 sq. ft. of open testing space, our substation accessories are designed and tested to meet ANSI/NEMA CC-1 standards for performance, installation and operation. The test lab allows AFL engineers to perform testing for strength, vibration, fatigue, heat rise, current cycle, insulator and flashover.</p>
+        <p>For all of your substation needs, AFL provides engineering support including:</p>
+        <ul style="padding-left: 2.5rem;
+            list-style-type: disc;
+            margin: 1.5rem;
+            line-height: 20px;">
+          <li>Direct line to Engineering for any technical inquiries +1 (800) 890-8878</li>
+          <li>Custom parts for any voltage, welded, bolted, Swage or standard compression</li>
+          <li>Ability to 3D print tooling for quick lead times and reduced costs</li>
+          <li>Free on-site training regardless of type of power connector used</li>
+        </ul><br/>
+        <style>
+                      #animation_container {
+                      width: 100% !important;
+                      }
+                      
+                      #animation_container {
+                          
+                          height: none !important;
+                          
+                      }
+                      p {
+          font-size: 15px;
+          line-height: 22px;
+          letter-spacing: .2px;
+          margin: 0 0 0.95rem !important;
+          }
+          ul {
+          font-size: 16px;
+          }
+          body {
+          line-height: normal;
+          }
+          a {
+              text-decoration: none;
+              color: #00c0f3;
+          }
+          
+           .afl-subPages ul  {
+              padding-left: 2.5rem;
+              list-style-type: disc;
+              margin: 1.5rem;
+              line-height: 20px;
+          }
+        	</style>
+        <style>
+        #animation_container {
+            width: 100% !important;
+            }
+        #canvas {
+        background-repeat: round;
+        }
+           
+            #animation_container {
+                
+                height: auto !important;
+                
+            }
+             h1 {
+        font-size: 3rem;
+        letter-spacing: 1.2px;
+        line-height: 36px;
+        font-weight: bold;
+        margin: 0.67em 0;
+        color: #00c0f3 !important;
+        }
+        h2 {
+        font-size: 2rem;
+        color: #004282;
+        font-weight: bold;
+        line-height: 18px;
+        margin: 0.67em 0;
+        }
+        p {
+        padding: 0 !important;
+        margin: 0 0 0.95rem !important;
+        line-height: 22px;
+        letter-spacing: normal;
+        font-size: 1.5rem !important;
+        color: #333;
+        }
+        .link {
+        padding: 0 !important;
+        margin: 0 !important;
+        line-height: normal !important;
+        font-size: 1.1rem !important;
+        }
+        
+        </style>
+            
+        </div>
+            </div>
+          </div>
+          
+          </body>
+        </html>
+        
+        
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230504T133322Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rafael
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rafael
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2b743ddf-b27f-41da-be5f-ec49f1aa87d7"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rafael
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231207T142742Z

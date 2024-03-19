@@ -1,0 +1,90 @@
+﻿---
+ID: "2243078c-764f-4c56-8d48-1db44cb7d940"
+Parent: "03ab9520-0fbb-463b-b1a3-85a1dd2eef46"
+Template: "f36e821e-bb98-44dc-966d-e92a0e033cc7"
+Path: "/sitecore/content/AFL-Global/APAC/Home/Company/Company Profile/News/2021/Webinar Network Convergence for Everyone"
+SharedFields:
+- ID: "1fbc6a49-6281-48ee-87e9-a3970b145adb"
+  Hint: NavigationFilter
+  Value: |
+    {E0A2A027-0932-4878-A7D6-0416D5263EFB}
+    {61BD64D6-809E-40AE-9297-2724A19329B3}
+    {D063E9D1-C7B5-4B1E-B31E-69886C9C59F5}
+    {500AE4C0-FA7B-463F-8149-EFFF7F044101}
+    {A0E7FF57-6994-4B09-AA21-104239628D5A}
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{3A84BAC9-C1BD-4809-A12C-28EB44E25329}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{DAE7C21D-4D3B-4257-A95C-9104CD8AF409}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "228f9517-e120-4014-b2c7-df0ac467a349"
+      Hint: ContentTitle
+      Value: "Webinar: Network Convergence for Everyone"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211202T112756Z
+    - ID: "3688d7df-2feb-43a4-ab8d-410e5f70a676"
+      Hint: ContentDescription
+      Value: |
+        <div>Webinar: Network Convergence for Everyone &nbsp;<br />
+        <br />
+        Spartanburg, SC &ndash;&nbsp;<a href="http://www.aflglobal.com/">AFL</a>, an international manufacturer of fiber optic cable, connectivity and accessories, is presenting a webinar titled&nbsp;<a href="https://register.gotowebinar.com/register/7159752952114494989?mkt_tok=Mjg3LUlFVy05NjkAAAF7vGCn7ZjVMs9IvPr1cfj6h635FbMFxqj0EORm6j9TBAkO2oH2lNWJHhFDJeLJf6K8InXquGmZvYMcnm7SdWNyn0bsGXcjv9ki00CnSKQ4tg">Network Convergence for Everyone</a>. The webinar will explore why network convergence is a critically important concept for network operators and what these networks consist of from technological characteristics to business opportunities to designs of an optical network and more.<br />
+        <br />
+        The webinar is ideal for Tier 2 and Tier 3 service providers and MSOs, utilities, co-ops and anyone who operates or is considering operating a fiber network, plus engineering managers, CTOs, network planners and anyone involved in the decision of whether/how to build or expand a fiber network.<br />
+        &nbsp;<br />
+        When: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Tuesday, March 23,&nbsp;2:00 p.m. Eastern<br />
+        Who: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Josh Simer, Market Manager, Service Providers and MSOs<br />
+        Fees: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Registration is free to all attendees<br />
+        How: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://register.gotowebinar.com/register/7159752952114494989?mkt_tok=Mjg3LUlFVy05NjkAAAF7vGCn7ZjVMs9IvPr1cfj6h635FbMFxqj0EORm6j9TBAkO2oH2lNWJHhFDJeLJf6K8InXquGmZvYMcnm7SdWNyn0bsGXcjv9ki00CnSKQ4tg">Online here</a><br />
+        About the speaker<br />
+        Josh Simer is AFL&rsquo;s Market Manager for Service Providers and MSOs. With 13 years of experience in the fiber optics industry, Josh has served in a variety of roles including product, solution, and program management with a full range of customers comprised of Service Providers, MSOs, Utilities, Co-ops, Enterprises and Data Center Operators. Prior to his industry experience, Josh was a U.S. Army Infantry Officer.<br />
+        <br />
+        About AFL<br />
+        Founded in 1984, AFL is an international manufacturer providing end-to-end solutions to the energy, service provider, enterprise, hyperscale and industrial markets. The company&rsquo;s products are in use in over 130 countries and include fibre optic cable and hardware, transmission and substation accessories, outside plant equipment, connectivity, test and inspection equipment, fusion splicers and training. AFL also offers a wide variety of services supporting data centre, enterprise, wireless and outside plant applications.<br />
+        <p>
+        Headquartered in Spartanburg, SC, AFL has  operations in the U.S., Mexico, Canada, Europe, Asia and Australia, and is a  wholly owned subsidiary of Fujikura Ltd. of Japan. For more information,  visit&nbsp;<a href="http://www.aflglobal.com/">www.AFLglobal.com</a>.  Follow us on&nbsp;<a href="https://www.linkedin.com/company/aflglobal">LinkedIn</a>,&nbsp;<a href="https://twitter.com/AFLglobal">X</a>,&nbsp;<a href="https://www.facebook.com/AFLglobal">Facebook</a>, and read our&nbsp;<a href="https://www.aflglobal.com/AFL-Blog/">blog</a>.</p>
+        Contacts<br />
+        Josh Simer, Service Provider/MSO Market Manager<br />
+        AFL<br />
+        612. 283.4471<br />
+        <a href="mailto:Josh.Simer@AFLglobal.com">Josh.Simer@AFLglobal.com</a>&nbsp;&nbsp;<br />
+        &nbsp;<br />
+        Corie Culp, Public Relations Manager<br />
+        AFL<br />
+        864.433.5409<br />
+        <a href="mailto:Corie.Culp@AFLglobal.com">Corie.Culp@AFLglobal.com</a></div>
+    - ID: "4c3792cf-8348-4d85-9cac-3f6086716488"
+      Hint: ContentCategory
+      Value: "{F78EA78A-E127-49A5-95B6-7DE64F85F319}"
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Webinar Network Convergence for Everyone
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: Webinar Network Convergence for Everyone
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: Webinar Network Convergence for Everyone
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b59fc2c9-d12c-48b9-a25c-d902d37bdc71"
+    - ID: "9dd4f0d9-c123-47a8-8cef-2c85cea172f6"
+      Hint: ContentImage
+      Value: |
+        <image mediaid="{F6529005-B2B4-4BDF-8858-F9A8C7F1C6C6}" />
+    - ID: "a6eaffd5-fc3e-41b4-93b3-f1721fcf2300"
+      Hint: ContentPublishedDate
+      Value: 20210316T183000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T101715Z
