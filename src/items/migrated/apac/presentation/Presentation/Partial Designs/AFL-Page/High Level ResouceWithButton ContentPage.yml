@@ -1,0 +1,64 @@
+﻿---
+ID: "8cfd5256-305e-47c5-be2f-890f7759991f"
+Parent: "52e2792c-01ba-49c9-895f-b96dd0989243"
+Template: "8136f903-5eea-4289-9b44-67b469a969ea"
+Path: "/sitecore/content/AFL-Global/APAC/Presentation/Partial Designs/AFL-Page/High Level ResouceWithButton ContentPage"
+SharedFields:
+- ID: "55faae90-3bba-4f7f-96fe-13c3f40055ff"
+  Hint: Signature
+  Value: "high-level-page"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{C4E820E0-6DC5-4816-AA4A-7B8EE986FCA3}"
+          p:before="*"
+          s:ds="query:self::"
+          s:id="{6F646C2F-8611-4D9A-ACCC-847F6A2F2520}"
+          s:par="Reset Caching Options&amp;GridParameters&amp;FieldNames=%7BD0FF4E28-667F-4324-9226-28D636A0BD6B%7D&amp;Styles&amp;RenderingIdentifier&amp;DynamicPlaceholderId=1"
+          s:ph="main"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{2C9FABFD-B52B-4A35-B6CA-60BEC1FA8B07}"
+          p:after="r[@uid='{C4E820E0-6DC5-4816-AA4A-7B8EE986FCA3}']"
+          s:ds="query:self::"
+          s:id="{0A45D795-D8C1-4111-B485-1C25541424B3}"
+          s:par="Reset Caching Options&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames=%7B04A8F9FE-A9C6-48A3-AEB1-EEB5FBF3EF06%7D&amp;Styles=%7B97AA508A-1055-49DC-AF11-AB8153C3919F%7D%7C%7B1A3163C3-C552-4BFA-ADC9-C7B3A0DC5BF4%7D&amp;RenderingIdentifier&amp;DynamicPlaceholderId=5"
+          s:ph="main"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{9F141706-F8F4-44F9-A9EF-AF181A5DB4BD}"
+          p:after="*[1=2]"
+          s:ds="query:self::"
+          s:id="{13D7D189-4AE0-405E-BA41-27D9571590FA}"
+          s:par="Reset Caching Options&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames=%7B74FC65A7-8B4A-4372-AE4D-3189A4C771F6%7D&amp;Styles=%7B1A3163C3-C552-4BFA-ADC9-C7B3A0DC5BF4%7D&amp;RenderingIdentifier&amp;DynamicPlaceholderId=6"
+          s:ph="main"
+          s:ccb="Clear on publish" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211111T064545Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "57a7357a-3d95-46e4-aa11-d7c004862213"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240229T094041Z

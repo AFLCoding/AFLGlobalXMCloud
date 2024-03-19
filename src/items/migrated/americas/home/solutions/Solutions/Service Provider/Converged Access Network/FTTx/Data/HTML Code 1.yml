@@ -1,0 +1,282 @@
+﻿---
+ID: "af8623c8-f046-456c-bf62-9668be425763"
+Parent: "ff2e0d47-5224-41d4-af2c-75c535812028"
+Template: "2ad23d55-aecd-43dd-ae0d-72d2ebcba60f"
+Path: "/sitecore/content/AFL-Global/AMERICAS/Home/Solutions/Service Provider/Converged Access Network/FTTx/Data/HTML Code 1"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "24cce27c-05db-4473-a1ed-e69b1725ff1c"
+      Hint: HtmlCode
+      Value: |
+          <!--Pulling interactive map content-->
+          <link rel="stylesheet" type="text/css" href="https://webapps.aflglobal.com/interactivemaps/5g/css/5g-1-24.css">
+        
+        
+          <script src="https://code.createjs.com/1.0.0/createjs.min.js"></script>
+          <script src="https://webapps.aflglobal.com/InteractiveMaps/FTTx/ftta_fwa_small_cell_updated.js"></script>
+          <script src="https://webapps.aflglobal.com/interactivemaps/web_map_links.js"></script>
+          
+          
+          
+            
+          <div class="container">
+              <div class="row">
+                  
+                  <!--start-new-->
+          
+                  <!--end-new-->
+                  
+                </div>
+            
+           
+            <!--adding row-->
+            <div class="row">
+              
+              <div class="col-12">
+                  <!--Adding HTML Code-->
+                  <script>
+                    // Global Scripts
+                        var iconArray = [""];
+                    var holder = "";
+                    var holderSet = "nothing";
+                    function zoomClick()
+                    {
+                        linksVis(0);
+                        exportRoot.main_mc.visible = true;
+                        eval("this.gotoAndStop('start')");	
+                        eval("exportRoot."+holder+"_mc.visible = false");
+                        holderSet = "nothing";
+                        //removes event listeners from icons
+                        for(x=0; x < iconArray.length; x++)
+                        { eval('this.'+iconArray[x]+'_mc._listeners.click.splice(0,1)'); }
+                        //removes event listener from zoom out button
+                        this.zoomOut._listeners.click.splice(0,1);
+                    }
+                    function addListenersFunction()
+                    {
+                        var shortCut = "exportRoot."+holder+"_mc";
+                        //add event listeners to icons
+                        for(y=0; y < iconArray.length; y++)
+                        {		
+                            eval(shortCut+'.'+iconArray[y]+'_mc.addEventListener("click", iconClick.bind(shortCut, "'+iconArray[y]+'"))');
+                        }
+                        //add event listener to zoom out button
+                        eval(shortCut+'.zoomOut.addEventListener("click", zoomClick.bind('+shortCut+'))');
+                    }
+                    function cursorSet()
+                    {
+                        for(y=0; y < iconArray.length; y++)
+                        {
+                            eval('exportRoot.'+holder+'_mc.'+iconArray[y]+'_mc.cursor = "pointer"');
+                        }
+                    }
+                    function iconClick(icon)
+                    {	
+                        var shortCut = "exportRoot."+holder+"_mc";	
+                        eval(shortCut+"."+icon+"_mc.gotoAndPlay('start')");
+                        if((icon == "titanA") || (icon == "titanB") || (icon == "titanPo") || (icon == "titanPe"))
+                            {icon = "titan";}
+                    //code for dom overlay container		
+                        var m = "";
+                        var n = "";
+                        var r = "";
+                        var linkLength = "";
+                        var linkTitle = "";
+                        var linkWeb = "";
+                        m = "links."+icon+".length";
+                        linkLength = eval(m);
+                        for(p = 0; p < linkLength; p++)
+                            {
+                                r = "links."+icon+"["+p+"].title";
+                                linkTitle = eval(r);
+                                r = "links."+icon+"["+p+"].web";
+                                linkWeb = eval(r);
+                                n += '<p class="link"><a href="'+linkWeb+'" target="_blank">'+linkTitle+'</a></p>';
+                            }
+                        document.getElementById("dom_overlay_container").innerHTML = n;		
+                    
+                        if(holderSet == "nothing")
+                            { eval("exportRoot."+holder+"_mc.gotoAndPlay('blueBox')"); holderSet = "something"; }
+                    }
+                    function linksVis(value)
+                    {
+                        if(value == 1){ document.getElementById("dom_overlay_container").style.visibility = "visible"; }
+                        if(value == 0){ document.getElementById("dom_overlay_container").style.visibility = "hidden"; }
+                    }</script>
+                    <script>
+                    var canvas, stage, exportRoot, anim_container, dom_overlay_container, fnStartAnimation;
+                    function init() {
+                        canvas = document.getElementById("canvas");
+                        anim_container = document.getElementById("animation_container");
+                        dom_overlay_container = document.getElementById("dom_overlay_container");
+                        var comp=AdobeAn.getComposition("F3574088C2052747A142ABBF8232AD94");
+                        var lib=comp.getLibrary();
+                        var loader = new createjs.LoadQueue(false);
+                        loader.addEventListener("fileload", function(evt){handleFileLoad(evt,comp)});
+                        loader.addEventListener("complete", function(evt){handleComplete(evt,comp)});
+                        var lib=comp.getLibrary();
+                        loader.loadManifest(lib.properties.manifest);
+                    }
+                    function handleFileLoad(evt, comp) {
+                        var images=comp.getImages();	
+                        if (evt && (evt.item.type == "image")) { images[evt.item.id] = evt.result; }	
+                    }
+                    function handleComplete(evt,comp) {
+                        //This function is always called, irrespective of the content. You can use the variable "stage" after it is created in token create_stage.
+                        var lib=comp.getLibrary();
+                        var ss=comp.getSpriteSheet();
+                        var queue = evt.target;
+                        var ssMetadata = lib.ssMetadata;
+                        for(i=0; i<ssMetadata.length; i++) {
+                            ss[ssMetadata[i].name] = new createjs.SpriteSheet( {"images": [queue.getResult(ssMetadata[i].name)], "frames": ssMetadata[i].frames} )
+                        }
+                        exportRoot = new lib.FTTx_web_2e();
+                        stage = new lib.Stage(canvas);
+                        stage.enableMouseOver();	
+                        //Registers the "tick" event listener.
+                        fnStartAnimation = function() {
+                            stage.addChild(exportRoot);
+                            createjs.Ticker.framerate = lib.properties.fps;
+                            createjs.Ticker.addEventListener("tick", stage);
+                        }	    
+                        //Code to support hidpi screens and responsive scaling.
+                        AdobeAn.makeResponsive(false,'both',false,1,[canvas,anim_container,dom_overlay_container]);	
+                        AdobeAn.compositionLoaded(lib.properties.id);
+                        fnStartAnimation();
+                    }
+                    </script>
+                      
+                      <script> 
+                      $(document).ready(function () {
+                      init();
+                      });
+                      </script>
+                      <!--StartNew-->
+                      
+                      <a id="map"></a>
+                       
+                     
+                      <!--EndNew-->
+                      <div id="animation_container" style="width:100%;">
+                              <canvas id="canvas"></canvas>
+                              <!--ADD--><div id="dom_overlay_container" class="newLinks"></div>
+                          </div>
+                      <p></p>
+                      
+                      
+                      <!--start table container-->
+                      <div class="container top">
+                      <div class="row">
+                      <div class="col-md-12">
+                      <!--Start Table-->
+                      <h2 class="titulo">FTTx solutions</h2>
+        <h2 class="afl-subPages">Choose AFL as your one-source provider for optical FTTx solutions</h2>
+        <p><br>
+          Increasing demand for high-speed broadband internet access, Over-the-Top (OTT) video or TV and telephone/wireless services is driving service providers to invest in or expand upon state-of-the-art fiber optic or &ldquo;FTTx&rdquo; networks. FTTx brings signal and bandwidth from service providers to subscribers, whether it is a single-family residence or home (FTTH), a multi-dwelling commercial or residential unit (MDU), warehouse or other building (FTTB), node (FTTN) or desk (FTTD).</p>
+        <p>Across a neighborhood, campus or city, AFL makes FTTx easy. We are the only provider whose portfolio includes end-to-end passive infrastructure.</p>
+        <h2 class="afl-subPages">AFL FTTx Product Solutions:</h2>
+        <ul class="afl-subPagess">
+          <li><a href="https://www.aflglobal.com/en/Services/AFL-Network-Services/Construct">Outside Plant Construction</a></li>
+          <li>Passive Infrastructure</li>
+          <li><a href="https://www.aflglobal.com/en/Products/Fiber-Optic-Connectivity">Fiber Optic Connectivity</a> (Distribution Enclosures, Aerial or Sealed Closures, Multi-Port Terminals, Rack/Wall Mount Panels, Field Installable Connectors, Passive Optical Components)</li>
+          <li><a href="https://www.aflglobal.com/en/Products/Fiber-Optic-Cable">Fiber Optic Cable</a></li>
+          <li><a href="https://www.aflglobal.com/en/Products/Conductor-Accessories/Fiber-Optic-Cable-Hardware">Fiber Optic Cable Hardware</a></li>
+          <li><a href="https://www.aflglobal.com/en/Products/Fusion-Splicing">Fusion Splicing Systems</a></li>
+          <li><a href="https://www.aflglobal.com/en/Products/Test-and-Inspection">Test and Inspection Equipment</a></li>
+          <li><a href="https://www.aflglobal.com/en/Products/Fiber-Optic-Cleaning">Fiber Optic Cleaning Supplies</a></li>
+        </ul>
+        <p>As the world migrates toward a fiber optic infrastructure, AFL is uniquely poised for the growth of FTTx markets. With an unsurpassed knowledge of end-to-end, cost-effective solutions, AFL can help you bring fiber to the last mile—your subscriber.</p>
+        <h2 class="afl-subPages">AFL FTTx Services and Training Solutions:</h2>
+        <ul>
+          <li>Integrated FTTx</li>
+        </ul>
+        <p>At AFL, we offer a fully integrated FTTx solution: we initiate, design, supply, build, connect and service to meet our customers&rsquo; needs.</p>
+        <p>Whether you need an end-to-end solution, expertise on parts of the project, or aren&rsquo;t quite sure where to start, we have you covered. Our post implementation support and long-term warranty insure the longevity of our FTTx networks.</p>
+           
+                      
+                      <p>&nbsp;</p>
+                      
+                      </div>
+                      </div>
+                      </div>
+                      <style>
+                      .animation_container {
+                      background-color: none !important;
+                      }
+                      
+                      #animation_container {
+                          
+                          height: none !important;
+                          
+                      }
+                      p {
+          font-size: 15px;
+          line-height: 22px;
+          letter-spacing: .2px;
+          margin: 0 0 0.95rem !important;
+          }
+          ul {
+          font-size: 16px;
+          }
+          body {
+          line-height: normal;
+          }
+          a {
+              text-decoration: none;
+              color: #00c0f3;
+          }
+          
+          .afl-subPagess {
+              padding-left: 2.5rem;
+              list-style-type: disc;
+              margin: 1.5rem;
+              line-height: 20px;
+          }
+        .afl-subPages {
+        font-size: 2rem;
+            color: #004282;
+            font-weight: bold;
+            line-height: 18px;
+            margin: 0.67em 0;
+        }
+        .titulo {
+        font-size: 23px;
+            color: #0089c2;
+            font-weight: 500;
+            letter-spacing: 1.2px;
+            line-height: 30px;
+          margin-top: 20px;
+            font-family: 'Hind',sans-serif !important;
+        }
+                      </style>
+              </div>
+            </div>
+          </div>
+          
+        
+          
+          
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230330T145225Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rafael
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rafael
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5fa740ee-eb37-4502-95af-6a7c3732c826"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\matt
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231010T140641Z

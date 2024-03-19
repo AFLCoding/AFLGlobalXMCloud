@@ -1,0 +1,156 @@
+﻿---
+ID: "a2173681-b911-41e2-9baa-62503e85da69"
+Parent: "6ce957d7-7e56-44fb-a3fa-e44cb6ec1ad2"
+Template: "bf61de11-b78f-48ea-aaa4-1d17f0d83824"
+Path: "/sitecore/content/AFL-Global/APAC/Home/Company/Community/Imagine That"
+SharedFields:
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{87CE798E-CDA3-4363-A47F-74DF3E2D88BE}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{DAE7C21D-4D3B-4257-A95C-9104CD8AF409}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 500
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211124T172831Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Imagine That
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: "United Way - AFL partners with local United Way organizations to extend the outreach in our communities."
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <h2><strong>Imagine individual giving coupled with corporate social responsibility</strong></h2>
+        <p>AFL’s annual Imagine That! Giving Campaign engages and educates associates around the world about the needs in our communities. Each year, we ask our associates to thoughtfully consider making a personal financial contribution that stays within their area.<br />
+        <br />
+        In the United States, AFL supports local United Way chapters. Internationally, associates support organizations vital to a healthy community. AFL supplements all contributions with matching programs that increase the impact of their donation. We commit to make a difference together. <br />
+        <br />
+        <a href="~/link.aspx?_id=230AF44666264285AB8B34966ED64138&_z=z">AFL Associates Donate $506K to Communities Worldwide</a><br />
+        <a href="~/link.aspx?_id=F63E75071651438A90C6DDF8C7D7B9C5&_z=z">AFL Swindon Raises £5,000 for Imagine That! Fundraising Campaign</a><br />
+        <a href="~/link.aspx?_id=1927EEACC9C84509BC6D02F299BD6744&_z=z">AFL Northeast Division Presents $23K to United Way</a> <br />
+        <a href="~/link.aspx?_id=1F17A9C2E8FE48EBAAA984E203717E9B&_z=z">AFL Associates Reveal $397K to United Way of the Piedmont</a></p>
+        <hr />
+        <h2>2019 United Way of the Piedmont Awards</h2>
+        <p>Game Changer Award<br />
+        Awarded for increasing employee donations by 42 percent over the previous year</p>
+        <p>Outstanding Employee Giving ($200K+)<br />
+        Awarded based on increase in employee and employee per capita giving</p>
+        <p>Outstanding Campaign Committee<br />
+        Awarded for demonstrating exceptional teamwork resulting in increased associate per capita giving</p>
+        <h2>2018 United Way of the Piedmont Awards</h2>
+        <p>Outstanding Employee Giving ($200K+)<br />
+        Awarded based on increase in employee and employee per capita giving</p>
+        <p>Campaign Creativity Award<br />
+        Awarded for having a creative and innovative campaign theme and involving associates</p>
+        <p>Outstanding Campaign Committee<br />
+        Awarded for demonstrating exceptional teamwork resulting in increased associate per capita giving</p>
+        <p>Outstanding Campaign Coordinator<br />
+        Awarded for demonstrating exceptional leadership throughout their involvement in United Way activities</p>
+        <h2>2017 United Way of the Piedmont Awards</h2>
+        <p>Outstanding Employee Giving ($150K-200K)<br />
+        Awarded based on increase in employee and employee per capita giving</p>
+        <p>Outstanding Spirit Award<br />
+        Awarded to companies whose associates exemplify the highest level of team spirit during the campaign</p>
+        <p>Outstanding Campaign Committee<br />
+        Awarded for demonstrating exceptional teamwork resulting in increased associate per capita giving</p>
+        <br />
+        <h2>2016 United Way of the Piedmont Awards</h2>
+        <p>Outstanding Employee Giving ($150K-200K)<br />
+        Awarded based on increase in employee and employee per capita giving</p>
+        <p>Campaign Creativity Award<br />
+        Awarded for having a creative and innovative campaign theme and involving associates</p>
+        <p>Outstanding Campaign Committee<br />
+        Awarded for demonstrating exceptional teamwork resulting in increased associate per capita giving<br />
+        <br />
+        </p>
+        <h2>Visit our <a href="~/link.aspx?_id=F5E14B660F224CD79DB21F673AE9DB95&_z=z">community homepage</a> for more information.</h2>
+        <p> </p>
+    - ID: "56611f02-691a-4096-b044-63aa83122916"
+      Hint: Content
+      Value: |
+        <p>AFL&rsquo;s annual Imagine That! Giving Campaign engages and educates associates around the world about the needs in our communities. Each year, we ask our associates to thoughtfully consider making a personal financial contribution that stays within their area.<br />
+        <br />
+        In the United States, AFL supports local United Way chapters. Internationally, associates support organizations vital to a healthy community. AFL supplements all contributions with matching programs that increase the impact of their donation. We commit to make a difference together. <br />
+        <br />
+        <a href="/Company/Company-Profile/News/2019/AFL-Associates-Donate-$506K-to-Communities-Worldwi">AFL Associates Donate $506K to Communities Worldwide</a><br />
+        <a href="/Company/Company-Profile/News/2019/AFL-Swindon-Raises-%C2%A35,000-For-Imagine-That!-Fundra">AFL Swindon Raises &pound;5,000 for Imagine That! Fundraising Campaign</a><br />
+        <a href="/Company/Company-Profile/News/2019/AFL-Northeast-Division-Presents-$23K-to-United-Way">AFL Northeast Division Presents $23K to United Way</a> <br />
+        <a href="/Company/Company-Profile/News/2019/AFL-Associates-Reveal-$397,000-Donation-to-United">AFL Associates Reveal $397K to United Way of the Piedmont</a></p>
+        <hr />
+        <h2>2019 United Way of the Piedmont Awards</h2>
+        <p>Game Changer Award<br />
+        Awarded for increasing employee donations by 42 percent over the previous year</p>
+        <p>Outstanding Employee Giving ($200K+)<br />
+        Awarded based on increase in employee and employee per capita giving</p>
+        <p>Outstanding Campaign Committee<br />
+        Awarded for demonstrating exceptional teamwork resulting in increased associate per capita giving</p>
+        <h2>2018 United Way of the Piedmont Awards</h2>
+        <p>Outstanding Employee Giving ($200K+)<br />
+        Awarded based on increase in employee and employee per capita giving</p>
+        <p>Campaign Creativity Award<br />
+        Awarded for having a creative and innovative campaign theme and involving associates</p>
+        <p>Outstanding Campaign Committee<br />
+        Awarded for demonstrating exceptional teamwork resulting in increased associate per capita giving</p>
+        <p>Outstanding Campaign Coordinator<br />
+        Awarded for demonstrating exceptional leadership throughout their involvement in United Way activities</p>
+        <h2>2017 United Way of the Piedmont Awards</h2>
+        <p>Outstanding Employee Giving ($150K-200K)<br />
+        Awarded based on increase in employee and employee per capita giving</p>
+        <p>Outstanding Spirit Award<br />
+        Awarded to companies whose associates exemplify the highest level of team spirit during the campaign</p>
+        <p>Outstanding Campaign Committee<br />
+        Awarded for demonstrating exceptional teamwork resulting in increased associate per capita giving</p>
+        <br />
+        <h2>2016 United Way of the Piedmont Awards</h2>
+        <p>Outstanding Employee Giving ($150K-200K)<br />
+        Awarded based on increase in employee and employee per capita giving</p>
+        <p>Campaign Creativity Award<br />
+        Awarded for having a creative and innovative campaign theme and involving associates</p>
+        <p>Outstanding Campaign Committee<br />
+        Awarded for demonstrating exceptional teamwork resulting in increased associate per capita giving<br />
+        <br />
+        </p>
+        <h2>Visit our <a>community homepage</a>&nbsp;for more information.</h2>
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: AFL united way community outreach partnership communities
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: Imagine That
+    - ID: "628db04b-29a2-483b-a88c-b8fd9a5f2086"
+      Hint: HeroLink
+      Value: |
+        <link id="{E4E28038-81E7-472E-8F43-A3451FDD6B90}" querystring="" target="|Custom" text="LEARN MORE" anchor="" title="" class="" url="/AFL-Global/AMERICAS/Home/Company/Community/Imagine That" linktype="internal" />
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: Imagine That
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0472ec22-32be-49a7-b317-b83eabb3e011"
+    - ID: "93dc88f3-05e5-482d-9b9a-c859c8258a73"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="168684" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/168684/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/58a2d4dcc8914290a4ea72e844ae7edd?v=dcb01f4f" stylelabs-content-type="Image" alt="community-headers-ImagineThat.jpg" height="770" width="1991" />
+    - ID: "a40ebd3d-2b41-41fb-90f7-753544ce77c5"
+      Hint: Hero Title1
+      Value: "Imagine That! "
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T101902Z
+    - ID: "dd0b26a2-9ca3-4573-b501-3b33a6efbc65"
+      Hint: Hero Title2
+      Value: Imagine a donation that makes a difference

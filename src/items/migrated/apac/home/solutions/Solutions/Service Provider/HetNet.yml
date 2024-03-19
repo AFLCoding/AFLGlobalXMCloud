@@ -1,0 +1,110 @@
+﻿---
+ID: "b9a1093d-6e7c-4468-813b-691331640e99"
+Parent: "671992fe-4d54-464b-a5be-f0d915de5b6a"
+Template: "bf61de11-b78f-48ea-aaa4-1d17f0d83824"
+Path: "/sitecore/content/AFL-Global/APAC/Home/Solutions/Service Provider/HetNet"
+SharedFields:
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{274C9F86-81B9-4FFC-87CA-8B19AB3A526D}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211122T091147Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: HetNet
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: "AFL offers better cellular coverage through our wireless Heterogeneous Network (HetNet) solutions and services, using distributed antenna system (DAS), small cell and wi-fi applications."
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <h1>HetNet</h1>
+        <div class="d-flex w-100">
+        <div class="mainBox" id="mainBoxOne">
+        <img alt="" height="160" width="188" src="https://afl-delivery.stylelabs.cloud/api/public/content/tennant?v=32da8e79" />
+        <div style="text-align: center;">
+        <strong>Property Owner<br />
+        or Tenant</strong></div>
+        <div style="text-align: center;">
+        </div>
+        </div>
+        <div class="mainBox" id="mainBoxTwo">
+        <img alt="" height="160" width="188" src="https://afl-delivery.stylelabs.cloud/api/public/content/wireless?v=4ae6804b" />
+        <div style="text-align: center;">
+        <strong>Wireless Carrier</strong></div>
+        </div>
+        <div class="mainBox" id="mainBoxThree">
+        <img alt="" height="160" width="188" src="https://afl-delivery.stylelabs.cloud/api/public/content/neutralhost?v=6f86ca75" />
+        <div style="text-align: center;">
+        <strong>Neutral Host</strong></div>
+        </div>
+        </div>
+        <h2>Serving your industry with full coverage through wireless solutions</h2>
+        <p>
+        Data demand is driving the expansion of the wireless world. Operators around the world need to increase their capacity as rapidly as possible to meet the increasing demands of their customers and provide the quality of service that is expected.<br />
+        <br />
+        How do you meet these expectations? HetNet applications are often the right answer and AFL has the expertise to build a customize solution for you. You may also desire a specific wireless technologies that can help:</p>
+        <ul>
+            <li>
+            DAS&nbsp;(Distributed Antenna Systems)</li>
+            <li>
+            Small Cells</li>
+            <li>
+            Wi-Fi</li>
+        </ul>
+        <p>
+        The macro wireless infrastructure of towers, rooftops and masts, as deployed by operators for much of the incumbent 2G, 2.5G, 3G and even 4G technologies does not provide enough capacity where it is most critical &ndash; crowded public places, congested street levels and in-building environments where the data demand is continuous and relentlessly expanding.<br />
+        <br />
+        Wireless services do not operate without a transport medium for transmit and receive. Over the last several years that infrastructure has increasingly adopted optical fiber. AFL has helped End Users manage the transition from an installed base of copper products &ndash; like twisted pair or coaxial cable &ndash; to optical fiber in many demanding, harsh environments where timing is paramount to the success of the installation.&nbsp; Providing a high level of service and the right products has been a hallmark of AFL success within Long Haul Applications, Central Offices, Data Centers and now in Wireless &ndash; Macro-Network, DAS (Distributed Antenna Systems), Small Cells and Wi-Fi. HetNet is another area whereby AFL can differentiate ourselves based upon our history, experience, products, application knowledge and innovative approach.</p>
+    - ID: "56611f02-691a-4096-b044-63aa83122916"
+      Hint: Content
+      Value: |
+        <h2>Serving your industry with full coverage through wireless solutions</h2>
+        <p>Data demand is driving the expansion of the wireless world. Operators around the world need to increase their capacity as rapidly as possible to meet the increasing demands of their customers and provide the quality of service that is expected.<br />
+        <br />
+        How do you meet these expectations? HetNet applications are often the right answer and AFL has the expertise to build a customize solution for you. You may also desire a specific wireless technologies that can help:</p>
+        <ul>
+            <li>DAS(Distributed Antenna Systems)</li>
+            <li>Small Cells</li>
+            <li>Wi-Fi</li>
+        </ul>
+        <p>The macro wireless infrastructure of towers, rooftops and masts, as deployed by operators for much of the incumbent 2G, 2.5G, 3G and even 4G technologies does not provide enough capacity where it is most critical &ndash; crowded public places, congested street levels and in-building environments where the data demand is continuous and relentlessly expanding.<br />
+        <br />
+        Wireless services do not operate without a transport medium for transmit and receive. Over the last several years that infrastructure has increasingly adopted optical fiber. AFL has helped End Users manage the transition from an installed base of copper products &ndash; like twisted pair or coaxial cable &ndash; to optical fiber in many demanding, harsh environments where timing is paramount to the success of the installation. Providing a high level of service and the right products has been a hallmark of AFL success within Long Haul Applications,Central Offices,Data Centersand now in Wireless &ndash; Macro-Network,&nbsp;DAS(Distributed Antenna Systems),&nbsp;Small CellsWi-Fi. HetNet is another area whereby AFL can differentiate ourselves based upon our history, experience, products, application knowledge and innovative approach.</p>
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: "AFL, HetNet, Het net, heterogeneous network, distributed antenna system, DAS, indoor DAS, in-building DAS, outdoor DAS, DAS installation, small cell, wi-fi, boost cellular coverage"
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: HetNet
+    - ID: "628db04b-29a2-483b-a88c-b8fd9a5f2086"
+      Hint: HeroLink
+      Value: |
+        <link id="{B9A1093D-6E7C-4468-813B-691331640E99}" querystring="" linktype="internal" text="LEARN MORE" anchor="" url="/AFL-Global/APAC/Home/Solutions/Service Provider/HetNet" title="" class="" target="|Custom" />
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: HetNet
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a06b0eff-8100-4cbb-8a0f-083076fb2a40"
+    - ID: "93dc88f3-05e5-482d-9b9a-c859c8258a73"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image mediaid="{B63794A4-A536-4770-BB9E-E07462830EA0}" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d8b38dd7-e9a0-4410-9f17-d436b0c8635a"
+      Hint: OpenGraphImageUrl
+      Value: |
+        <image mediaid="{D5ECAB3F-7DF0-4E5E-9EF4-58BB9E8B0CED}" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T101446Z

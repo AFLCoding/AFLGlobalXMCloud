@@ -1,0 +1,91 @@
+﻿---
+ID: "6dc8f3a0-d652-44c6-b736-4c0e848b20e4"
+Parent: "c191bcce-5fdc-413a-bd01-7add2ca82298"
+Template: "bf61de11-b78f-48ea-aaa4-1d17f0d83824"
+Path: "/sitecore/content/AFL-Global/APAC/Home/Resources/Miscellaneous/Privacy Policy"
+SharedFields:
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{274C9F86-81B9-4FFC-87CA-8B19AB3A526D}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 500
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211224T092705Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Privacy Policy
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\tanishka
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: "Privacy Policy - Information collection and security"
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <h1>Privacy Policy</h1>
+        <ul>
+            <li>
+            <a rel="noopener noreferrer" href="https://afl-delivery.stylelabs.cloud/api/public/content/1777142bfc394ebcae5ae7decbae00cb?v=2e1e045c" target="_blank">America Fujikura Ltd. Privacy Notice</a>
+            </li>
+            <li>
+            <a rel="noopener noreferrer" href="https://afl-delivery.stylelabs.cloud/api/public/content/db98bc701bb545d8a92a46618a87b73a?v=dfa5ffe7" target="_blank">AFL Telecommunications GmbH Privacy Notice (English) </a>
+            </li>
+            <li>
+            <a rel="noopener noreferrer" href="https://afl-delivery.stylelabs.cloud/api/public/content/5e8344bbb1bd4822a07a4412563dfa2f?v=11b6a61f" target="_blank">AFL Telecommunications GmbH Privacy Notice (German) </a>
+            </li>
+        </ul>
+        <p>At AFL, our top priority is customer satisfaction, and we can’t do that without maintaining your trust. Therefore, one of our primary concerns is keeping your private information well-protected. In the transparent world of the internet, it is very important to us that your personal information remain secure and that your right to confidentiality is treated with the respect it deserves.  We hope that by taking the time to read our policy, you will gain a better understanding of what we do with the information you provide us and how we keep it safe.<br />
+         <br />
+        I. What kinds of information do we collect?<br />
+        Whenever you fill out a form on our website—whether you are requesting a quote, asking for technical support, signing up for our newsletter, etc.—it may require you to volunteer personal information, such as your e-mail address, phone number, or other information relevant to our customer surveys.<br />
+         <br />
+        II. How do we use your information?<br />
+        The information you provide us may be used in one or more of the following ways:</p>
+        <ul>
+            <li>To personalize your experience with our company and help us respond to you individually</li>
+            <li>To improve overall customer service by implementing any feedback you may choose to give us</li>
+            <li>To send you periodic e-mails or newsletters (if you choose to sign up for eConnect)</li>
+            <li>To assist us in processing your service requests</li>
+            <li>To provide you with custom technical support</li>
+        </ul>
+        <p> <br />
+        III. What security measures have been implemented?<br />
+        We promise to never sell your information or disclose data from our clients or former clients to anyone, other than as necessary fulfill your request and except as required by law.<br />
+        <br />
+        Any changes to this policy will be noted here. Please check back as often as you like. </p>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\tanishka
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: AFL resources Privacy policy information
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: Privacy Policy
+    - ID: "628db04b-29a2-483b-a88c-b8fd9a5f2086"
+      Hint: HeroLink
+      Value: |
+        <link id="{6DC8F3A0-D652-44C6-B736-4C0E848B20E4}" querystring="" target="|Custom" text="LEARN MORE" anchor="" title="" class="" url="/AFL-Global/APAC/Home/Resources/Miscellaneous/Privacy Policy" linktype="internal" />
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: Privacy Policy
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f1ef3c7c-06b5-4fae-81df-a338828f4f1b"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T101602Z

@@ -1,0 +1,1065 @@
+﻿---
+ID: "6bad8772-08d6-495f-b2f5-8a5e151bd7f7"
+Parent: "4acf4c19-241e-4128-9ead-d1e912f36d6f"
+Template: "2ad23d55-aecd-43dd-ae0d-72d2ebcba60f"
+Path: "/sitecore/content/AFL-Global/AMERICAS/Home/Solutions/Service Provider/Converged Access Network/5G Wireless Access Network/Data/HTML Code 1"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "24cce27c-05db-4473-a1ed-e69b1725ff1c"
+      Hint: HtmlCode
+      Value: |
+         <!--Pulling interactive map content-->
+          <link rel="stylesheet" type="text/css" href="https://webapps.aflglobal.com/InteractiveMaps/Edge_Solutions/css/webmap_10-14.css">
+        
+        
+        <script src="https://code.createjs.com/1.0.0/createjs.min.js"></script>
+        <script src="https://webapps.aflglobal.com/video/maps/can/CAN_web.js"></script>
+        <script src="https://webapps.aflglobal.com/InteractiveMaps/web_map_links.js"></script>
+        
+        <body>
+          
+          
+            
+          <div class="container">
+              <div class="row">
+                  
+                  <!--start-new-->
+          
+                  <!--end-new-->
+                  
+                </div>
+            
+           
+            <!--adding row-->
+            <div class="row">
+              
+              <div class="col-12">
+                  <!--Adding HTML Code-->
+        <script>
+        // Global Scripts
+        	var iconArray = [""];
+        var holder = "";
+        var holderSet = "nothing";
+        function zoomClick()
+        {
+        	linksVis(0);
+        	exportRoot.main_mc.visible = true;
+        	eval("this.gotoAndStop('start')");	
+        	eval("exportRoot."+holder+"_mc.visible = false");
+        	filterResetClick(1);
+        	holderSet = "nothing";
+        	//removes event listeners from icons
+        	for(x=0; x < iconArray.length; x++)
+        	{ eval('this.'+iconArray[x]+'_mc._listeners.click.splice(0,1)'); }
+        	//removes event listener from zoom out button
+        	this.zoomOut._listeners.click.splice(0,1);
+        	bgChange("main"); //NEW
+        }
+        function addListenersFunction()
+        {
+        	var shortCut = "exportRoot."+holder+"_mc";
+        	//add event listeners to icons
+        	for(y=0; y < iconArray.length; y++)
+        	{		
+        		eval(shortCut+'.'+iconArray[y]+'_mc.addEventListener("click", iconClick.bind(shortCut, "'+iconArray[y]+'"))');
+        	}
+        	//add event listener to zoom out button
+        	eval(shortCut+'.zoomOut.addEventListener("click", zoomClick.bind('+shortCut+'))');
+        }
+        function cursorSet()
+        {
+        	for(y=0; y < iconArray.length; y++)
+        	{
+        		eval('exportRoot.'+holder+'_mc.'+iconArray[y]+'_mc.cursor = "pointer"');
+        	}
+        }
+        function iconClick(icon)
+        {	
+        	var shortCut = "exportRoot."+holder+"_mc";	
+        	eval(shortCut+"."+icon+"_mc.gotoAndPlay('start')");
+        	if((icon == "titanA") || (icon == "titanB") || (icon == "titanPo") || (icon == "titanPe")) {icon = "titan";}
+        	if((icon == "wall1") || (icon == "wall2")) {icon = "wall";}
+        //code for dom overlay container		
+        
+        	var m = "";
+        	var n = "";
+        	var r = "";
+        	var linkLength = "";
+        	var linkTitle = "";
+        	var linkWeb = "";
+        	m = "links."+icon+".length";
+        	linkLength = eval(m);
+        	for(p = 0; p < linkLength; p++)
+        		{
+        			r = "links."+icon+"["+p+"].title";
+        			linkTitle = eval(r);
+        			r = "links."+icon+"["+p+"].web";
+        			linkWeb = eval(r);
+        			n += '<p class="link"><a href="'+linkWeb+'" target="_blank">'+linkTitle+'</a></p>';
+        		}
+        	document.getElementById("dom_overlay_container").innerHTML = n;		
+        
+        	if(holderSet == "nothing")
+        		{ eval("exportRoot."+holder+"_mc.gotoAndPlay('blueBox')"); holderSet = "something"; }
+        }
+        function linksVis(value)
+        {
+        	if(value == 1){ document.getElementById("dom_overlay_container").style.visibility = "visible"; }
+        	if(value == 0){ document.getElementById("dom_overlay_container").style.visibility = "hidden"; }
+        }
+        function bgChange(bg)//NEW
+        {
+        	var replacement = "https://webapps.aflglobal.com/video/maps/can/images/"+bg+".jpg";
+        	document.getElementById("canvas").style.backgroundImage = "url("+replacement+")";
+        }
+        function filterClick(filter)
+        {
+        	showLength = filter.length;
+        	filterResetClick(0);	
+        	for (x = 0; x < showLength; x++)
+        		{
+        			eval('exportRoot.'+holder+'_mc.'+filter[x]+'_mc.visible = true');
+        		}
+        }
+        function filterResetClick(see)
+        {
+        	var allLength = 0;
+        	allLength = iconArray.length;
+        	for(x = 0; x < allLength; x++)
+        		{ 
+        			if(see == 1){eval('exportRoot.'+holder+'_mc.'+iconArray[x]+'_mc.visible = true');}
+        			if(see == 0){eval('exportRoot.'+holder+'_mc.'+iconArray[x]+'_mc.visible = false');}
+        		}
+        }</script>
+        <script>
+        var canvas, stage, exportRoot, anim_container, dom_overlay_container, fnStartAnimation;
+        function init() {
+        	canvas = document.getElementById("canvas");
+        	anim_container = document.getElementById("animation_container");
+        	dom_overlay_container = document.getElementById("dom_overlay_container");
+        	var comp=AdobeAn.getComposition("F3574088C2052747A142ABBF8232AD94");
+        	var lib=comp.getLibrary();
+        	handleComplete({},comp);
+        }
+        function handleComplete(evt,comp) {
+        	//This function is always called, irrespective of the content. You can use the variable "stage" after it is created in token create_stage.
+        	var lib=comp.getLibrary();
+        	var ss=comp.getSpriteSheet();
+        	exportRoot = new lib.CAN_web_2();
+        	stage = new lib.Stage(canvas);
+        	stage.enableMouseOver();	
+        	//Registers the "tick" event listener.
+        	fnStartAnimation = function() {
+        		stage.addChild(exportRoot);
+        		createjs.Ticker.framerate = lib.properties.fps;
+        		createjs.Ticker.addEventListener("tick", stage);
+        	}	    
+        	//Code to support hidpi screens and responsive scaling.
+        	AdobeAn.makeResponsive(false,'both',false,1,[canvas,anim_container,dom_overlay_container]);	
+        	AdobeAn.compositionLoaded(lib.properties.id);
+        	fnStartAnimation();
+        }
+        </script>
+                    
+                    <script> 
+                    $(document).ready(function () {
+                    init();
+                    });
+                    </script>
+                    <!--StartNew-->
+                    
+                    <a id="map"></a>
+                     
+                   
+                    <!--EndNew-->
+                    <body onload="init();" style="margin:0px;">
+        <div id="animation_container" style="width:100%;">
+                            <canvas id="canvas" style="background-image: url('https://webapps.aflglobal.com/video/maps/can/images/main.jpg');"></canvas>
+                            <!--ADD--><div id="dom_overlay_container" class="newLinks"></div>
+                        </div>
+                    <p></p>
+                    
+                    
+                    <!--start table container-->
+                    <div class="container top">
+                    <div class="row">
+                    <div class="col-md-12">
+                    <!--Start Table-->
+        <h2 style="font-size: 23; color: #0089c2; font-weight: 500; letter-spacing: 1.2px; line-height: 30px; margin: 0.67em 0;">Converged Access Network</h2>
+                    <p class="afl-subPages">The access network of today and tomorrow is not an FTTH network. It is not a 5G Backhaul and Fronthaul network. And it is not a set of point-to-point connections for business services. It is all these things at once and more. It is a platform&mdash;a highway of the future connecting service providers to their customers. It is a highway that must carry all the traffic of today, and all the traffic that will be there tomorrow.</p>
+        <p class="afl-subPages">However, we don&rsquo;t know what the traffic of tomorrow will look like. How much will home data traffic grow compared to others? What will future versions of PON (Passive Optical Networks) require for wavelengths and split ratios? How dense will 5G, or someday 6G, small cells be? What will be their bandwidth requirements? How will enterprise connectivity demands change over 20 years? These questions are impossible to answer definitively. But we can still build the access network today which will be able to handle the answers&mdash;the&nbsp;AFL Converged Access Network.</p>
+        <p class="afl-subPages">AFL&rsquo;s fiber and equipment solutions can help you build an expandable, flexible, and accessible network in a range of application areas including:</p>
+        <ul class="afl-subPages" style="padding-left: 2.5rem; list-style-type: disc; margin: 1.5rem; line-height: 20px;">
+            <li><a href="~/link.aspx?_id=4B99FE07BC584510BD052431D2DFE5B9&amp;_z=z">5G/Wireless Fronthaul/Backhaul</a></li>
+            <li><a href="~/link.aspx?_id=E2BF9E86774E40CD9566F885B1563A18&amp;_z=z">Fiber to the Home/Business (FTTX)</a></li>
+            <li><a href="~/link.aspx?_id=5F0F2D1785634950992C1C71A092F42A&amp;_z=z">Multiple Dwelling Unit/Multiple Tenant Units (MXU)</a></li>
+            <li><a href="~/link.aspx?_id=D2AD649AF7494372BD4A1F140D5C5FB4&amp;_z=z">Campuses and Venues</a></li>
+            <li><a href="~/link.aspx?_id=F183CD9C13F14070A9AF15408992FCAC&amp;_z=z">Enterprise</a></li>
+            <li><a href="~/link.aspx?_id=EA68E536836E4673B4397F0C9E44A1A9&amp;_z=z">Small Cell</a></li>
+        </ul>
+        
+        <p class="afl-subPages">
+        The AFL Converged Access Network meets the demands of the present and the future through three key characteristics: <strong>Expandability</strong>, <strong>Flexibility</strong> and <strong>Accessibility</strong>.</p>
+        <p class="afl-subPages">
+        <strong>Expandability</strong> refers to the ability of a network to handle increased traffic in the future. The simplest way to do this is to deploy more fiber, but there is an expense to this. AFL solves this problem in several ways. One of the most dramatic ways is by providing the most compact ribbon cables available&mdash;AFL&rsquo;s Wrapping Tube Cable (WTC) using SpiderWeb Ribbon&reg; (SWR&reg;) technology. This cable allows more fiber to be deployed in the same pathways so that network operators can deploy far more fiber with only an incremental increase in cost. These higher density fiber cables allow operators to use a portion of the fibers to support current needs while allowing for further growth with the remaining dark fibers. AFL also accomplishes expandability through modular solutions such as <a href="~/link.aspx?_id=9AC63218727E4DB0AE818611E9007A64&amp;_z=z">IDEAA&reg; distribution cabinets</a>&nbsp;and <a href="~/link.aspx?_id=DB44898475AB4B0B9D36E60964EFD850&amp;_z=z">ASCEND&reg; fiber panels</a>.</p>
+        <p class="afl-subPages">
+        <strong>Flexibility</strong> refers to the ability of a network to adapt to changes. The specific nature of network demands is hard to predict. What if a disruptive wireless service provider installs 5G nodes at certain locations, and needs fronthaul and backhaul services? Merely having fibers near the locations is not enough. Fortunately, AFL splice closures, terminals, hubs and other components provide modular and highly flexible solutions which allow the network to adapt. Need to make a new fiber connection somewhere? 12 fibers? 24? Change the wavelengths used in the network? With AFL solutions, the network can be redesigned to accommodate these scenarios.</p>
+        <p class="afl-subPages">
+        <strong>Accessibility</strong> refers to the ability of technicians to go into the field and make network changes. It is one thing to make design changes on a computer image; however, making those changes in the field can be a challenge. Here, too, AFL provides solutions including highly modular, craft-friendly connections, industry-leading fusion splicers and test equipment which also make documentation simple, and even the design of <a href="~/link.aspx?_id=740F36E4074A417CBAB68839104B5517&amp;_z=z">SpiderWeb Ribbon (SWR</a>) makes craft interaction easier.</p>
+        <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" src="https://www.youtube.com/embed/Ac0V33629Ms" title="YouTube video player" width="625" height="352" id="yt-293b8b72-4e3b-4047-8d71-f89655e5efbd"></iframe>
+         
+                    
+                    <p>&nbsp;</p>
+                    
+                    </div>
+                    </div>
+                    </div>
+           
+        <style>
+                      .animation_container {
+                      background-color: none !important;
+                      }
+                      
+                      #animation_container {
+                          
+                          height: none !important;
+                          
+                      }
+                      p {
+          font-size: 15px;
+          line-height: 22px;
+          letter-spacing: .2px;
+          margin: 0 0 0.95rem !important;
+          }
+          ul {
+          font-size: 16px;
+          }
+          body {
+          line-height: normal;
+          }
+          a {
+              text-decoration: none;
+              color: #00c0f3;
+          }
+          
+           .afl-subPages ul  {
+              padding-left: 2.5rem;
+              list-style-type: disc;
+              margin: 1.5rem;
+              line-height: 20px;
+          }
+        	</style>
+        <style>
+        #animation_container {
+            width: 100% !important;
+            }
+        #canvas {
+        background-repeat: round;
+        }
+            .top {
+            }
+            #animation_container {
+                
+                height: none !important;
+                
+            }
+             h1 {
+        font-size: 3rem;
+        letter-spacing: 1.2px;
+        line-height: 36px;
+        font-weight: bold;
+        margin: 0.67em 0;
+        color: #00c0f3 !important;
+        }
+        
+        p {
+        padding: 0 !important;
+        margin: 0 0 0.95rem !important;
+        line-height: 22px;
+        letter-spacing: normal;
+        font-size: 1.5rem !important;
+        color: #333;
+        }
+        .link {
+        padding: 0 !important;
+        margin: 0 !important;
+        line-height: normal !important;
+        font-size: 1.1rem !important;
+        }
+        
+        </style>
+        
+              
+        
+        <style>
+                    .animation_container {
+                    background-color: none !important;
+                    }
+                    
+                    #animation_container {
+                        
+                        height: auto !important;
+                        
+                    }
+        #canvas {
+        background-repeat: round;
+        }
+                    
+        .afl-subPages p {
+            padding: 0 !important;
+            margin: 0 0 0.95rem !important;
+        }
+        
+        
+        body {
+        line-height: normal;
+        }
+        a {
+            text-decoration: none;
+            color: #00c0f3;
+        }
+        .afl-subPages ul li a {
+            font-size: 1.4rem;
+            line-height: 23px;
+        }
+        .link {
+        margin: 0 !important;
+        }
+                    </style>
+            </div>
+          </div>
+        </div>
+        
+        </body>
+        
+        
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230125T201602Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rafael
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rafael
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "59f06400-502a-4655-8ceb-d20acf088edc"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rafael
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231011T133013Z
+- Language: "es-MX"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "24cce27c-05db-4473-a1ed-e69b1725ff1c"
+      Hint: HtmlCode
+      Value: |
+         <!--Pulling interactive map content-->
+          <link rel="stylesheet" type="text/css" href="https://webapps.aflglobal.com/InteractiveMaps/Edge_Solutions/css/webmap_10-14.css">
+        
+        
+        <script src="https://code.createjs.com/1.0.0/createjs.min.js"></script>
+        <script src="https://webapps.aflglobal.com/video/maps/can/CAN_web.js"></script>
+        <script src="https://webapps.aflglobal.com/InteractiveMaps/web_map_links.js"></script>
+        
+        <body>
+          
+          
+            
+          <div class="container">
+              <div class="row">
+                  
+                  <!--start-new-->
+          
+                  <!--end-new-->
+                  
+                </div>
+            
+           
+            <!--adding row-->
+            <div class="row">
+              
+              <div class="col-12">
+                  <!--Adding HTML Code-->
+        <script>
+        // Global Scripts
+        	var iconArray = [""];
+        var holder = "";
+        var holderSet = "nothing";
+        function zoomClick()
+        {
+        	linksVis(0);
+        	exportRoot.main_mc.visible = true;
+        	eval("this.gotoAndStop('start')");	
+        	eval("exportRoot."+holder+"_mc.visible = false");
+        	filterResetClick(1);
+        	holderSet = "nothing";
+        	//removes event listeners from icons
+        	for(x=0; x < iconArray.length; x++)
+        	{ eval('this.'+iconArray[x]+'_mc._listeners.click.splice(0,1)'); }
+        	//removes event listener from zoom out button
+        	this.zoomOut._listeners.click.splice(0,1);
+        	bgChange("main"); //NEW
+        }
+        function addListenersFunction()
+        {
+        	var shortCut = "exportRoot."+holder+"_mc";
+        	//add event listeners to icons
+        	for(y=0; y < iconArray.length; y++)
+        	{		
+        		eval(shortCut+'.'+iconArray[y]+'_mc.addEventListener("click", iconClick.bind(shortCut, "'+iconArray[y]+'"))');
+        	}
+        	//add event listener to zoom out button
+        	eval(shortCut+'.zoomOut.addEventListener("click", zoomClick.bind('+shortCut+'))');
+        }
+        function cursorSet()
+        {
+        	for(y=0; y < iconArray.length; y++)
+        	{
+        		eval('exportRoot.'+holder+'_mc.'+iconArray[y]+'_mc.cursor = "pointer"');
+        	}
+        }
+        function iconClick(icon)
+        {	
+        	var shortCut = "exportRoot."+holder+"_mc";	
+        	eval(shortCut+"."+icon+"_mc.gotoAndPlay('start')");
+        	if((icon == "titanA") || (icon == "titanB") || (icon == "titanPo") || (icon == "titanPe")) {icon = "titan";}
+        	if((icon == "wall1") || (icon == "wall2")) {icon = "wall";}
+        //code for dom overlay container		
+        
+        	var m = "";
+        	var n = "";
+        	var r = "";
+        	var linkLength = "";
+        	var linkTitle = "";
+        	var linkWeb = "";
+        	m = "links."+icon+".length";
+        	linkLength = eval(m);
+        	for(p = 0; p < linkLength; p++)
+        		{
+        			r = "links."+icon+"["+p+"].title";
+        			linkTitle = eval(r);
+        			r = "links."+icon+"["+p+"].web";
+        			linkWeb = eval(r);
+        			n += '<p class="link"><a href="'+linkWeb+'" target="_blank">'+linkTitle+'</a></p>';
+        		}
+        	document.getElementById("dom_overlay_container").innerHTML = n;		
+        
+        	if(holderSet == "nothing")
+        		{ eval("exportRoot."+holder+"_mc.gotoAndPlay('blueBox')"); holderSet = "something"; }
+        }
+        function linksVis(value)
+        {
+        	if(value == 1){ document.getElementById("dom_overlay_container").style.visibility = "visible"; }
+        	if(value == 0){ document.getElementById("dom_overlay_container").style.visibility = "hidden"; }
+        }
+        function bgChange(bg)//NEW
+        {
+        	var replacement = "https://webapps.aflglobal.com/video/maps/can/images/"+bg+".jpg";
+        	document.getElementById("canvas").style.backgroundImage = "url("+replacement+")";
+        }
+        function filterClick(filter)
+        {
+        	showLength = filter.length;
+        	filterResetClick(0);	
+        	for (x = 0; x < showLength; x++)
+        		{
+        			eval('exportRoot.'+holder+'_mc.'+filter[x]+'_mc.visible = true');
+        		}
+        }
+        function filterResetClick(see)
+        {
+        	var allLength = 0;
+        	allLength = iconArray.length;
+        	for(x = 0; x < allLength; x++)
+        		{ 
+        			if(see == 1){eval('exportRoot.'+holder+'_mc.'+iconArray[x]+'_mc.visible = true');}
+        			if(see == 0){eval('exportRoot.'+holder+'_mc.'+iconArray[x]+'_mc.visible = false');}
+        		}
+        }</script>
+        <script>
+        var canvas, stage, exportRoot, anim_container, dom_overlay_container, fnStartAnimation;
+        function init() {
+        	canvas = document.getElementById("canvas");
+        	anim_container = document.getElementById("animation_container");
+        	dom_overlay_container = document.getElementById("dom_overlay_container");
+        	var comp=AdobeAn.getComposition("F3574088C2052747A142ABBF8232AD94");
+        	var lib=comp.getLibrary();
+        	handleComplete({},comp);
+        }
+        function handleComplete(evt,comp) {
+        	//This function is always called, irrespective of the content. You can use the variable "stage" after it is created in token create_stage.
+        	var lib=comp.getLibrary();
+        	var ss=comp.getSpriteSheet();
+        	exportRoot = new lib.CAN_web_2();
+        	stage = new lib.Stage(canvas);
+        	stage.enableMouseOver();	
+        	//Registers the "tick" event listener.
+        	fnStartAnimation = function() {
+        		stage.addChild(exportRoot);
+        		createjs.Ticker.framerate = lib.properties.fps;
+        		createjs.Ticker.addEventListener("tick", stage);
+        	}	    
+        	//Code to support hidpi screens and responsive scaling.
+        	AdobeAn.makeResponsive(false,'both',false,1,[canvas,anim_container,dom_overlay_container]);	
+        	AdobeAn.compositionLoaded(lib.properties.id);
+        	fnStartAnimation();
+        }
+        </script>
+                    
+                    <script> 
+                    $(document).ready(function () {
+                    init();
+                    });
+                    </script>
+                    <!--StartNew-->
+                    
+                    <a id="map"></a>
+                     
+                   
+                    <!--EndNew-->
+                    <body onload="init();" style="margin:0px;">
+        <div id="animation_container" style="width:100%;">
+                            <canvas id="canvas" style="background-image: url('https://webapps.aflglobal.com/video/maps/can/images/main.jpg');"></canvas>
+                            <!--ADD--><div id="dom_overlay_container" class="newLinks"></div>
+                        </div>
+                    <p></p>
+                    
+                    
+                    <!--start table container-->
+                    <div class="container top">
+                    <div class="row">
+                    <div class="col-md-12">
+                    <!--Start Table-->
+        <h2 style="font-size: 23; color: #0089c2; font-weight: 500; letter-spacing: 1.2px; line-height: 30px; margin: 0.67em 0;">Converged Access Network</h2>
+                    <p class="afl-subPages">The access network of today and tomorrow is not an FTTH network. It is not a 5G Backhaul and Fronthaul network. And it is not a set of point-to-point connections for business services. It is all these things at once and more. It is a platform&mdash;a highway of the future connecting service providers to their customers. It is a highway that must carry all the traffic of today, and all the traffic that will be there tomorrow.</p>
+        <p class="afl-subPages">However, we don&rsquo;t know what the traffic of tomorrow will look like. How much will home data traffic grow compared to others? What will future versions of PON (Passive Optical Networks) require for wavelengths and split ratios? How dense will 5G, or someday 6G, small cells be? What will be their bandwidth requirements? How will enterprise connectivity demands change over 20 years? These questions are impossible to answer definitively. But we can still build the access network today which will be able to handle the answers&mdash;the&nbsp;AFL Converged Access Network.</p>
+        <p class="afl-subPages">AFL&rsquo;s fiber and equipment solutions can help you build an expandable, flexible, and accessible network in a range of application areas including:</p>
+        <ul class="afl-subPages" style="padding-left: 2.5rem; list-style-type: disc; margin: 1.5rem; line-height: 20px;">
+            <li><a href="~/link.aspx?_id=4B99FE07BC584510BD052431D2DFE5B9&amp;_z=z">5G/Wireless Fronthaul/Backhaul</a></li>
+            <li><a href="~/link.aspx?_id=E2BF9E86774E40CD9566F885B1563A18&amp;_z=z">Fiber to the Home/Business (FTTX)</a></li>
+            <li><a href="~/link.aspx?_id=5F0F2D1785634950992C1C71A092F42A&amp;_z=z">Multiple Dwelling Unit/Multiple Tenant Units (MXU)</a></li>
+            <li><a href="~/link.aspx?_id=D2AD649AF7494372BD4A1F140D5C5FB4&amp;_z=z">Campuses and Venues</a></li>
+            <li><a href="~/link.aspx?_id=F183CD9C13F14070A9AF15408992FCAC&amp;_z=z">Enterprise</a></li>
+            <li><a href="~/link.aspx?_id=EA68E536836E4673B4397F0C9E44A1A9&amp;_z=z">Small Cell</a></li>
+        </ul>
+        
+        <p class="afl-subPages">
+        The AFL Converged Access Network meets the demands of the present and the future through three key characteristics: <strong>Expandability</strong>, <strong>Flexibility</strong> and <strong>Accessibility</strong>.</p>
+        <p class="afl-subPages">
+        <strong>Expandability</strong> refers to the ability of a network to handle increased traffic in the future. The simplest way to do this is to deploy more fiber, but there is an expense to this. AFL solves this problem in several ways. One of the most dramatic ways is by providing the most compact ribbon cables available&mdash;AFL&rsquo;s Wrapping Tube Cable (WTC) using SpiderWeb Ribbon&reg; (SWR&reg;) technology. This cable allows more fiber to be deployed in the same pathways so that network operators can deploy far more fiber with only an incremental increase in cost. These higher density fiber cables allow operators to use a portion of the fibers to support current needs while allowing for further growth with the remaining dark fibers. AFL also accomplishes expandability through modular solutions such as <a href="~/link.aspx?_id=9AC63218727E4DB0AE818611E9007A64&amp;_z=z">IDEAA&reg; distribution cabinets</a>&nbsp;and <a href="~/link.aspx?_id=DB44898475AB4B0B9D36E60964EFD850&amp;_z=z">ASCEND&reg; fiber panels</a>.</p>
+        <p class="afl-subPages">
+        <strong>Flexibility</strong> refers to the ability of a network to adapt to changes. The specific nature of network demands is hard to predict. What if a disruptive wireless service provider installs 5G nodes at certain locations, and needs fronthaul and backhaul services? Merely having fibers near the locations is not enough. Fortunately, AFL splice closures, terminals, hubs and other components provide modular and highly flexible solutions which allow the network to adapt. Need to make a new fiber connection somewhere? 12 fibers? 24? Change the wavelengths used in the network? With AFL solutions, the network can be redesigned to accommodate these scenarios.</p>
+        <p class="afl-subPages">
+        <strong>Accessibility</strong> refers to the ability of technicians to go into the field and make network changes. It is one thing to make design changes on a computer image; however, making those changes in the field can be a challenge. Here, too, AFL provides solutions including highly modular, craft-friendly connections, industry-leading fusion splicers and test equipment which also make documentation simple, and even the design of <a href="~/link.aspx?_id=740F36E4074A417CBAB68839104B5517&amp;_z=z">SpiderWeb Ribbon (SWR</a>) makes craft interaction easier.</p>
+        <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" src="https://www.youtube.com/embed/Ac0V33629Ms" title="YouTube video player" width="625" height="352" id="yt-293b8b72-4e3b-4047-8d71-f89655e5efbd"></iframe>
+         
+                    
+                    <p>&nbsp;</p>
+                    
+                    </div>
+                    </div>
+                    </div>
+           
+        <style>
+                      .animation_container {
+                      background-color: none !important;
+                      }
+                      
+                      #animation_container {
+                          
+                          height: none !important;
+                          
+                      }
+                      p {
+          font-size: 15px;
+          line-height: 22px;
+          letter-spacing: .2px;
+          margin: 0 0 0.95rem !important;
+          }
+          ul {
+          font-size: 16px;
+          }
+          body {
+          line-height: normal;
+          }
+          a {
+              text-decoration: none;
+              color: #00c0f3;
+          }
+          
+           .afl-subPages ul  {
+              padding-left: 2.5rem;
+              list-style-type: disc;
+              margin: 1.5rem;
+              line-height: 20px;
+          }
+        	</style>
+        <style>
+        #animation_container {
+            width: 100% !important;
+            }
+        #canvas {
+        background-repeat: round;
+        }
+            .top {
+            }
+            #animation_container {
+                
+                height: none !important;
+                
+            }
+             h1 {
+        font-size: 3rem;
+        letter-spacing: 1.2px;
+        line-height: 36px;
+        font-weight: bold;
+        margin: 0.67em 0;
+        color: #00c0f3 !important;
+        }
+        
+        p {
+        padding: 0 !important;
+        margin: 0 0 0.95rem !important;
+        line-height: 22px;
+        letter-spacing: normal;
+        font-size: 1.5rem !important;
+        color: #333;
+        }
+        .link {
+        padding: 0 !important;
+        margin: 0 !important;
+        line-height: normal !important;
+        font-size: 1.1rem !important;
+        }
+        
+        </style>
+        
+              
+        
+        <style>
+                    .animation_container {
+                    background-color: none !important;
+                    }
+                    
+                    #animation_container {
+                        
+                        height: auto !important;
+                        
+                    }
+        #canvas {
+        background-repeat: round;
+        }
+                    
+        .afl-subPages p {
+            padding: 0 !important;
+            margin: 0 0 0.95rem !important;
+        }
+        
+        
+        body {
+        line-height: normal;
+        }
+        a {
+            text-decoration: none;
+            color: #00c0f3;
+        }
+        .afl-subPages ul li a {
+            font-size: 1.4rem;
+            line-height: 23px;
+        }
+        .link {
+        margin: 0 !important;
+        }
+                    </style>
+            </div>
+          </div>
+        </div>
+        
+        </body>
+        
+        
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230426T152607Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rafael
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rafael
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "52d2e564-a974-4e8e-bf9e-2a3dd928659f"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rafael
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231011T133050Z
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "24cce27c-05db-4473-a1ed-e69b1725ff1c"
+      Hint: HtmlCode
+      Value: |
+         <!--Pulling interactive map content-->
+          <link rel="stylesheet" type="text/css" href="https://webapps.aflglobal.com/InteractiveMaps/Edge_Solutions/css/webmap_10-14.css">
+        
+        
+        <script src="https://code.createjs.com/1.0.0/createjs.min.js"></script>
+        <script src="https://webapps.aflglobal.com/video/maps/can/CAN_web.js"></script>
+        <script src="https://webapps.aflglobal.com/InteractiveMaps/web_map_links.js"></script>
+        
+        <body>
+          
+          
+            
+          <div class="container">
+              <div class="row">
+                  
+                  <!--start-new-->
+          
+                  <!--end-new-->
+                  
+                </div>
+            
+           
+            <!--adding row-->
+            <div class="row">
+              
+              <div class="col-12">
+                  <!--Adding HTML Code-->
+        <script>
+        // Global Scripts
+        	var iconArray = [""];
+        var holder = "";
+        var holderSet = "nothing";
+        function zoomClick()
+        {
+        	linksVis(0);
+        	exportRoot.main_mc.visible = true;
+        	eval("this.gotoAndStop('start')");	
+        	eval("exportRoot."+holder+"_mc.visible = false");
+        	filterResetClick(1);
+        	holderSet = "nothing";
+        	//removes event listeners from icons
+        	for(x=0; x < iconArray.length; x++)
+        	{ eval('this.'+iconArray[x]+'_mc._listeners.click.splice(0,1)'); }
+        	//removes event listener from zoom out button
+        	this.zoomOut._listeners.click.splice(0,1);
+        	bgChange("main"); //NEW
+        }
+        function addListenersFunction()
+        {
+        	var shortCut = "exportRoot."+holder+"_mc";
+        	//add event listeners to icons
+        	for(y=0; y < iconArray.length; y++)
+        	{		
+        		eval(shortCut+'.'+iconArray[y]+'_mc.addEventListener("click", iconClick.bind(shortCut, "'+iconArray[y]+'"))');
+        	}
+        	//add event listener to zoom out button
+        	eval(shortCut+'.zoomOut.addEventListener("click", zoomClick.bind('+shortCut+'))');
+        }
+        function cursorSet()
+        {
+        	for(y=0; y < iconArray.length; y++)
+        	{
+        		eval('exportRoot.'+holder+'_mc.'+iconArray[y]+'_mc.cursor = "pointer"');
+        	}
+        }
+        function iconClick(icon)
+        {	
+        	var shortCut = "exportRoot."+holder+"_mc";	
+        	eval(shortCut+"."+icon+"_mc.gotoAndPlay('start')");
+        	if((icon == "titanA") || (icon == "titanB") || (icon == "titanPo") || (icon == "titanPe")) {icon = "titan";}
+        	if((icon == "wall1") || (icon == "wall2")) {icon = "wall";}
+        //code for dom overlay container		
+        
+        	var m = "";
+        	var n = "";
+        	var r = "";
+        	var linkLength = "";
+        	var linkTitle = "";
+        	var linkWeb = "";
+        	m = "links."+icon+".length";
+        	linkLength = eval(m);
+        	for(p = 0; p < linkLength; p++)
+        		{
+        			r = "links."+icon+"["+p+"].title";
+        			linkTitle = eval(r);
+        			r = "links."+icon+"["+p+"].web";
+        			linkWeb = eval(r);
+        			n += '<p class="link"><a href="'+linkWeb+'" target="_blank">'+linkTitle+'</a></p>';
+        		}
+        	document.getElementById("dom_overlay_container").innerHTML = n;		
+        
+        	if(holderSet == "nothing")
+        		{ eval("exportRoot."+holder+"_mc.gotoAndPlay('blueBox')"); holderSet = "something"; }
+        }
+        function linksVis(value)
+        {
+        	if(value == 1){ document.getElementById("dom_overlay_container").style.visibility = "visible"; }
+        	if(value == 0){ document.getElementById("dom_overlay_container").style.visibility = "hidden"; }
+        }
+        function bgChange(bg)//NEW
+        {
+        	var replacement = "https://webapps.aflglobal.com/video/maps/can/images/"+bg+".jpg";
+        	document.getElementById("canvas").style.backgroundImage = "url("+replacement+")";
+        }
+        function filterClick(filter)
+        {
+        	showLength = filter.length;
+        	filterResetClick(0);	
+        	for (x = 0; x < showLength; x++)
+        		{
+        			eval('exportRoot.'+holder+'_mc.'+filter[x]+'_mc.visible = true');
+        		}
+        }
+        function filterResetClick(see)
+        {
+        	var allLength = 0;
+        	allLength = iconArray.length;
+        	for(x = 0; x < allLength; x++)
+        		{ 
+        			if(see == 1){eval('exportRoot.'+holder+'_mc.'+iconArray[x]+'_mc.visible = true');}
+        			if(see == 0){eval('exportRoot.'+holder+'_mc.'+iconArray[x]+'_mc.visible = false');}
+        		}
+        }</script>
+        <script>
+        var canvas, stage, exportRoot, anim_container, dom_overlay_container, fnStartAnimation;
+        function init() {
+        	canvas = document.getElementById("canvas");
+        	anim_container = document.getElementById("animation_container");
+        	dom_overlay_container = document.getElementById("dom_overlay_container");
+        	var comp=AdobeAn.getComposition("F3574088C2052747A142ABBF8232AD94");
+        	var lib=comp.getLibrary();
+        	handleComplete({},comp);
+        }
+        function handleComplete(evt,comp) {
+        	//This function is always called, irrespective of the content. You can use the variable "stage" after it is created in token create_stage.
+        	var lib=comp.getLibrary();
+        	var ss=comp.getSpriteSheet();
+        	exportRoot = new lib.CAN_web_2();
+        	stage = new lib.Stage(canvas);
+        	stage.enableMouseOver();	
+        	//Registers the "tick" event listener.
+        	fnStartAnimation = function() {
+        		stage.addChild(exportRoot);
+        		createjs.Ticker.framerate = lib.properties.fps;
+        		createjs.Ticker.addEventListener("tick", stage);
+        	}	    
+        	//Code to support hidpi screens and responsive scaling.
+        	AdobeAn.makeResponsive(false,'both',false,1,[canvas,anim_container,dom_overlay_container]);	
+        	AdobeAn.compositionLoaded(lib.properties.id);
+        	fnStartAnimation();
+        }
+        </script>
+                    
+                    <script> 
+                    $(document).ready(function () {
+                    init();
+                    });
+                    </script>
+                    <!--StartNew-->
+                    
+                    <a id="map"></a>
+                     
+                   
+                    <!--EndNew-->
+                    <body onload="init();" style="margin:0px;">
+        <div id="animation_container" style="width:100%;">
+                            <canvas id="canvas" style="background-image: url('https://webapps.aflglobal.com/video/maps/can/images/main.jpg');"></canvas>
+                            <!--ADD--><div id="dom_overlay_container" class="newLinks"></div>
+                        </div>
+                    <p></p>
+                    
+                    
+                    <!--start table container-->
+                    <div class="container top">
+                    <div class="row">
+                    <div class="col-md-12">
+                    <!--Start Table-->
+        <h2 style="font-size: 23; color: #0089c2; font-weight: 500; letter-spacing: 1.2px; line-height: 30px; margin: 0.67em 0;">Converged Access Network</h2>
+                    <p class="afl-subPages">The access network of today and tomorrow is not an FTTH network. It is not a 5G Backhaul and Fronthaul network. And it is not a set of point-to-point connections for business services. It is all these things at once and more. It is a platform&mdash;a highway of the future connecting service providers to their customers. It is a highway that must carry all the traffic of today, and all the traffic that will be there tomorrow.</p>
+        <p class="afl-subPages">However, we don&rsquo;t know what the traffic of tomorrow will look like. How much will home data traffic grow compared to others? What will future versions of PON (Passive Optical Networks) require for wavelengths and split ratios? How dense will 5G, or someday 6G, small cells be? What will be their bandwidth requirements? How will enterprise connectivity demands change over 20 years? These questions are impossible to answer definitively. But we can still build the access network today which will be able to handle the answers&mdash;the&nbsp;AFL Converged Access Network.</p>
+        <p class="afl-subPages">AFL&rsquo;s fiber and equipment solutions can help you build an expandable, flexible, and accessible network in a range of application areas including:</p>
+        <ul class="afl-subPages" style="padding-left: 2.5rem; list-style-type: disc; margin: 1.5rem; line-height: 20px;">
+            <li><a href="~/link.aspx?_id=4B99FE07BC584510BD052431D2DFE5B9&amp;_z=z">5G/Wireless Fronthaul/Backhaul</a></li>
+            <li><a href="~/link.aspx?_id=E2BF9E86774E40CD9566F885B1563A18&amp;_z=z">Fiber to the Home/Business (FTTX)</a></li>
+            <li><a href="~/link.aspx?_id=5F0F2D1785634950992C1C71A092F42A&amp;_z=z">Multiple Dwelling Unit/Multiple Tenant Units (MXU)</a></li>
+            <li><a href="~/link.aspx?_id=D2AD649AF7494372BD4A1F140D5C5FB4&amp;_z=z">Campuses and Venues</a></li>
+            <li><a href="~/link.aspx?_id=F183CD9C13F14070A9AF15408992FCAC&amp;_z=z">Enterprise</a></li>
+            <li><a href="~/link.aspx?_id=EA68E536836E4673B4397F0C9E44A1A9&amp;_z=z">Small Cell</a></li>
+        </ul>
+        
+        <p class="afl-subPages">
+        The AFL Converged Access Network meets the demands of the present and the future through three key characteristics: <strong>Expandability</strong>, <strong>Flexibility</strong> and <strong>Accessibility</strong>.</p>
+        <p class="afl-subPages">
+        <strong>Expandability</strong> refers to the ability of a network to handle increased traffic in the future. The simplest way to do this is to deploy more fiber, but there is an expense to this. AFL solves this problem in several ways. One of the most dramatic ways is by providing the most compact ribbon cables available&mdash;AFL&rsquo;s Wrapping Tube Cable (WTC) using SpiderWeb Ribbon&reg; (SWR&reg;) technology. This cable allows more fiber to be deployed in the same pathways so that network operators can deploy far more fiber with only an incremental increase in cost. These higher density fiber cables allow operators to use a portion of the fibers to support current needs while allowing for further growth with the remaining dark fibers. AFL also accomplishes expandability through modular solutions such as <a href="~/link.aspx?_id=9AC63218727E4DB0AE818611E9007A64&amp;_z=z">IDEAA&reg; distribution cabinets</a>&nbsp;and <a href="~/link.aspx?_id=DB44898475AB4B0B9D36E60964EFD850&amp;_z=z">ASCEND&reg; fiber panels</a>.</p>
+        <p class="afl-subPages">
+        <strong>Flexibility</strong> refers to the ability of a network to adapt to changes. The specific nature of network demands is hard to predict. What if a disruptive wireless service provider installs 5G nodes at certain locations, and needs fronthaul and backhaul services? Merely having fibers near the locations is not enough. Fortunately, AFL splice closures, terminals, hubs and other components provide modular and highly flexible solutions which allow the network to adapt. Need to make a new fiber connection somewhere? 12 fibers? 24? Change the wavelengths used in the network? With AFL solutions, the network can be redesigned to accommodate these scenarios.</p>
+        <p class="afl-subPages">
+        <strong>Accessibility</strong> refers to the ability of technicians to go into the field and make network changes. It is one thing to make design changes on a computer image; however, making those changes in the field can be a challenge. Here, too, AFL provides solutions including highly modular, craft-friendly connections, industry-leading fusion splicers and test equipment which also make documentation simple, and even the design of <a href="~/link.aspx?_id=740F36E4074A417CBAB68839104B5517&amp;_z=z">SpiderWeb Ribbon (SWR</a>) makes craft interaction easier.</p>
+        <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" src="https://www.youtube.com/embed/Ac0V33629Ms" title="YouTube video player" width="625" height="352" id="yt-293b8b72-4e3b-4047-8d71-f89655e5efbd"></iframe>
+         
+                    
+                    <p>&nbsp;</p>
+                    
+                    </div>
+                    </div>
+                    </div>
+           
+        <style>
+                      .animation_container {
+                      background-color: none !important;
+                      }
+                      
+                      #animation_container {
+                          
+                          height: none !important;
+                          
+                      }
+                      p {
+          font-size: 15px;
+          line-height: 22px;
+          letter-spacing: .2px;
+          margin: 0 0 0.95rem !important;
+          }
+          ul {
+          font-size: 16px;
+          }
+          body {
+          line-height: normal;
+          }
+          a {
+              text-decoration: none;
+              color: #00c0f3;
+          }
+          
+           .afl-subPages ul  {
+              padding-left: 2.5rem;
+              list-style-type: disc;
+              margin: 1.5rem;
+              line-height: 20px;
+          }
+        	</style>
+        <style>
+        #animation_container {
+            width: 100% !important;
+            }
+        #canvas {
+        background-repeat: round;
+        }
+            .top {
+            }
+            #animation_container {
+                
+                height: none !important;
+                
+            }
+             h1 {
+        font-size: 3rem;
+        letter-spacing: 1.2px;
+        line-height: 36px;
+        font-weight: bold;
+        margin: 0.67em 0;
+        color: #00c0f3 !important;
+        }
+        
+        p {
+        padding: 0 !important;
+        margin: 0 0 0.95rem !important;
+        line-height: 22px;
+        letter-spacing: normal;
+        font-size: 1.5rem !important;
+        color: #333;
+        }
+        .link {
+        padding: 0 !important;
+        margin: 0 !important;
+        line-height: normal !important;
+        font-size: 1.1rem !important;
+        }
+        
+        </style>
+        
+              
+        
+        <style>
+                    .animation_container {
+                    background-color: none !important;
+                    }
+                    
+                    #animation_container {
+                        
+                        height: auto !important;
+                        
+                    }
+        #canvas {
+        background-repeat: round;
+        }
+                    
+        .afl-subPages p {
+            padding: 0 !important;
+            margin: 0 0 0.95rem !important;
+        }
+        
+        
+        body {
+        line-height: normal;
+        }
+        a {
+            text-decoration: none;
+            color: #00c0f3;
+        }
+        .afl-subPages ul li a {
+            font-size: 1.4rem;
+            line-height: 23px;
+        }
+        .link {
+        margin: 0 !important;
+        }
+                    </style>
+            </div>
+          </div>
+        </div>
+        
+        </body>
+        
+        
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230426T152555Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rafael
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rafael
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e9a69b8c-86c8-4d50-803a-e185f4424c26"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rafael
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231011T133030Z

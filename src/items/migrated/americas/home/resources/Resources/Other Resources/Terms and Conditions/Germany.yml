@@ -1,0 +1,217 @@
+﻿---
+ID: "c0bd5896-8f64-4534-be47-fa1e1d8ba5a6"
+Parent: "d56b1331-be8e-45c3-a642-6a06e0f45040"
+Template: "bf61de11-b78f-48ea-aaa4-1d17f0d83824"
+Path: "/sitecore/content/AFL-Global/AMERICAS/Home/Resources/Other Resources/Terms and Conditions/Germany"
+SharedFields:
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{274C9F86-81B9-4FFC-87CA-8B19AB3A526D}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{DAE7C21D-4D3B-4257-A95C-9104CD8AF409}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 0
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220210T124530Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Germany Terms and Conditions
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\harry
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: "AFL Telecommunications GmbH - Terms and Conditions for Germany Deutschland."
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <h1>Germany Terms and Conditions</h1>
+        <p>
+        Terms and conditions for AFL Telecommunications GmbH.</p>
+        <ul>
+            <li>
+            <h2>
+            <a rel="noopener noreferrer" href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-Einkaufsbedingungen-EU-2011-01-DE?v=d14ffeea" target="_blank">AFL Einkaufsbedingungen EU 2011 01 DE</a></h2>
+            </li>
+            <li>
+            <h2>
+            <a rel="noopener noreferrer" href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-Einkaufsbedingungen-EU-2011-01-EN?v=173f9fd4" target="_blank">AFL Einkaufsbedingungen EU 2011 01 EN</a></h2>
+            </li>
+            <li>
+            <h2>
+            <a rel="noopener noreferrer" href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-Einkaufsbedingungen-NON-EU-2011-01-DE?v=f3c8de2c" target="_blank">AFL Einkaufsbedingungen NON-EU 2011 01 DE</a></h2>
+            </li>
+            <li>
+            <h2>
+            <a rel="noopener noreferrer" href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-Einkaufsbedingungen-NON-EU-2011-01-EN?v=16528dfd" target="_blank">AFL Einkaufsbedingungen NON-EU 2011 01 EN</a></h2>
+            </li>
+            <li>
+            <h2>
+            <a rel="noopener noreferrer" href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-Lieferbedingungen-EU-2011-01-DE?v=564da21f" target="_blank">AFL Lieferbedingungen EU 2011 01 DE</a></h2>
+            </li>
+            <li>
+            <h2>
+            <a rel="noopener noreferrer" href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-Lieferbedingungen-EU-2011-01-EN?v=7e2c2999" target="_blank">AFL Lieferbedingungen EU 2011 01 EN</a></h2>
+            </li>
+            <li>
+            <h2>
+            <a rel="noopener noreferrer" href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-Lieferbedingungen-EU-2011-01-FR?v=809ca8be" target="_blank">AFL Lieferbedingungen EU 2011 01 FR</a></h2>
+            </li>
+            <li>
+            <h2>
+            <a rel="noopener noreferrer" href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-Lieferbedingungen-NON-EU-2011-01-DE?v=6d4f6ea7" target="_blank">AFL Lieferbedingungen NON-EU 2011 01 DE</a></h2>
+            </li>
+            <li>
+            <h2>
+            <a rel="noopener noreferrer" href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-Lieferbedingungen-NON-EU-2011-01-EN?v=7a579e11" target="_blank">AFL Lieferbedingungen NON-EU 2011 01 EN</a></h2>
+            </li>
+            <li>
+            <h2>
+            <a rel="noopener noreferrer" href="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-Lieferbedingungen-NON-EU-2011-01-FR?v=88e74bbe" target="_blank">AFL Lieferbedingungen NON-EU 2011 01 FR</a></h2>
+            </li>
+        </ul>
+        <p> </p>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\harry
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: AFL Telecommunications GmbH Terms Conditions Germany Deutschland
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: AFL Telecommunications GmbH Terms and Conditions for Germany Deutschland
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: AFL Telecommunications GmbH Terms and Conditions for Germany Deutschland
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ce33050c-16d4-4ca2-9b2e-6c43f0f67b13"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T090827Z
+- Language: "es-MX"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220210T124530Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Germany
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\harry
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: Germany
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: Germany
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "433b83e0-8789-49eb-8c3b-1b1c02fdd8f3"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T090828Z
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220210T124530Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Germany
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\harry
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: Germany
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8d165d25-9c22-48d4-bd6a-33d917519a66"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahesh
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220224T113429Z
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220210T124530Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Germany
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\harry
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: Germany
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: Germany
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a41dad4e-5770-4fef-86ac-f101200ffa27"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T090827Z

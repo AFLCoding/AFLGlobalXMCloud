@@ -1,0 +1,430 @@
+﻿---
+ID: "366c8820-badd-41dd-a243-cc32938d3ff8"
+Parent: "85fb5fb2-58cc-49ab-93be-464d5798628c"
+Template: "bf61de11-b78f-48ea-aaa4-1d17f0d83824"
+Path: "/sitecore/content/AFL-Global/AMERICAS/Home/Contact/AFL Certified Expert ACE Program"
+SharedFields:
+- ID: "1fbc6a49-6281-48ee-87e9-a3970b145adb"
+  Hint: NavigationFilter
+  Value: |
+    {E0A2A027-0932-4878-A7D6-0416D5263EFB}
+    {500AE4C0-FA7B-463F-8149-EFFF7F044101}
+    {A0E7FF57-6994-4B09-AA21-104239628D5A}
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{274C9F86-81B9-4FFC-87CA-8B19AB3A526D}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{DAE7C21D-4D3B-4257-A95C-9104CD8AF409}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 700
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{4A0E4C96-B682-430A-BB40-8EF0196502E3}"
+              s:ds="{FEDF2C34-2472-4863-AEAC-2F1734A9133F}"
+              s:id="{6162223D-9EAA-490C-A628-DA2A76933DD4}"
+              s:par="Reset Caching Options&amp;GridParameters&amp;FieldNames&amp;Styles=%7B1A3163C3-C552-4BFA-ADC9-C7B3A0DC5BF4%7D&amp;RenderingIdentifier&amp;DynamicPlaceholderId=2&amp;CacheClearingBehavior=Clear%20on%20publish"
+              s:ph="main"
+              s:ccb="Clear on publish" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211122T084153Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: AFL Certified Expert (ACE) Program
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: "AFL Certified Expert (ACE) Installers Program - ACE Installers can design and install an AFL end-to-end system with a limited lifetime warranty. "
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <p>As the first telecommunications company to offer a lifetime warranty* on end-to-end fiber optic systems, AFL partners with system integrators that possess the same quality of workmanship as we do. We carefully select partners that are as stringent about quality workmanship as we are at AFL. Plus, we are continually building our network of <a href="~/link.aspx?_id=60AD78E4D32F4C22A6CF9D82BEC0BD77&_z=z">AFL Certified Expert (ACE) Installers</a> that design and install AFL systems.</p>
+        <p>As an ACE Installer, you will be confident in designing and installing an AFL system that will fit the needs of your customers, as well as give them the peace of mind that a lifetime warranty offers. This, coupled with AFL’s excellent technical support and the best products and solutions in the industry, will truly differentiate you from your competition.</p>
+        <p>AFL offers each ACE Installer extensive hands-on training that will help you understand the products we manufacture better, as well as develop your fiber optic knowledge and installation practices. After the training is complete, you will have all the necessary tools to design and install a completely warranted AFL system. </p>
+        <p>ACE Program Highlights</p>
+        <ul>
+            <li>Cutting-edge technology – develop a better understanding of fiber technology ensuring you remain ahead of your competition</li>
+            <li>Single-source fiber supplier – one company to go to for all of your fiber and technical support needs</li>
+            <li>Standards-based 25-year performance warranty written around performance standards to give your customers peace of mind for the 25-year design life of their fiber installation</li>
+            <li>Fiber training, design and support – become more proficient in designing, installing and testing a fiber system</li>
+            <!--    <li>BICSI credits – AFL’s ACE training programs are BICSI-certified and qualify for BICSI continuing education credits (CEC)</li> -->
+            <li>Engineering support – an engineer on call to help you better understand any technical issues so you can find the solution that best fits your customers needs and applications</li>
+            <li>Marketing incentives – gain access to the power behind the AFL brand, including links on our website promoting you as an ACE Installer</li>
+            <li>Rebate program – Earn rebates based on AFL product purchases from an authorized distributor</li>
+        </ul>
+        <h3>More information on the ACE Program</h3>
+        <ul>
+            <li><a rel="noopener noreferrer" href="https://afl-delivery.stylelabs.cloud/api/public/content/ace-program-brochure-web?v=3237f09b" target="_blank">Download ACE Program Brochure</a></li>
+        </ul>
+        <p> </p>
+        <p><a class="btn btn-primary" href="~/link.aspx?_id=60AD78E4D32F4C22A6CF9D82BEC0BD77&_z=z">Find an ACE Partner</a> <a class="btn btn-primary" href="~/link.aspx?_id=E6538BA3FAA349EBBBAF0DBA91B50114&_z=z">Become an ACE Partner</a></p>
+        <p>
+        <br />
+        *Lifetime is defined as the System Design Lifetime which is 25 years.</p>
+    - ID: "56611f02-691a-4096-b044-63aa83122916"
+      Hint: Content
+      Value: 
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: AFL Certified Expert (ACE) Installers n Program AFL certified link warranty
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: AFL Certified Expert ACE Program
+    - ID: "628db04b-29a2-483b-a88c-b8fd9a5f2086"
+      Hint: HeroLink
+      Value: |
+        <link id="{366C8820-BADD-41DD-A243-CC32938D3FF8}" querystring="" linktype="internal" text="LEARN MORE" anchor="" url="/AFL-Global/AMERICAS/Home/Contact/AFL Certified Expert ACE Program" title="" class="" target="|Custom" />
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: AFL Certified Expert ACE Program
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "95c3a327-0d54-41f6-ac3c-201c16264e3c"
+    - ID: "93dc88f3-05e5-482d-9b9a-c859c8258a73"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="167242" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/167242/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/ACEprogrambanner?v=aa70fdf8" stylelabs-content-type="Image" alt="ACE-Program.jpg" height="369" width="954" />
+    - ID: "a40ebd3d-2b41-41fb-90f7-753544ce77c5"
+      Hint: Hero Title1
+      Value: AFL Certified Expert (ACE) Program
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240229T090314Z
+- Language: "es-MX"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{4A0E4C96-B682-430A-BB40-8EF0196502E3}"
+              s:ds="{FEDF2C34-2472-4863-AEAC-2F1734A9133F}"
+              s:id="{6162223D-9EAA-490C-A628-DA2A76933DD4}"
+              s:par="Reset Caching Options&amp;GridParameters&amp;FieldNames&amp;Styles=%7B1A3163C3-C552-4BFA-ADC9-C7B3A0DC5BF4%7D&amp;RenderingIdentifier&amp;DynamicPlaceholderId=2&amp;CacheClearingBehavior=Clear%20on%20publish"
+              s:ph="main"
+              s:ccb="Clear on publish" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211122T084153Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: AFL Certified Expert (ACE) Program
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: "AFL Certified Expert (ACE) Installers Program - ACE Installers can design and install an AFL end-to-end system with a limited lifetime warranty. "
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <p>As the first telecommunications company to offer a lifetime warranty* on end-to-end fiber optic systems, AFL partners with system integrators that possess the same quality of workmanship as we do. We carefully select partners that are as stringent about quality workmanship as we are at AFL. Plus, we are continually building our network of <a href="~/link.aspx?_id=60AD78E4D32F4C22A6CF9D82BEC0BD77&_z=z">AFL Certified Expert (ACE) Installers</a> that design and install AFL systems.</p>
+        <p>As an ACE Installer, you will be confident in designing and installing an AFL system that will fit the needs of your customers, as well as give them the peace of mind that a lifetime warranty offers. This, coupled with AFL’s excellent technical support and the best products and solutions in the industry, will truly differentiate you from your competition.</p>
+        <p>AFL offers each ACE Installer extensive hands-on training that will help you understand the products we manufacture better, as well as develop your fiber optic knowledge and installation practices. After the training is complete, you will have all the necessary tools to design and install a completely warranted AFL system. </p>
+        <p>ACE Program Highlights</p>
+        <ul>
+            <li>Cutting-edge technology – develop a better understanding of fiber technology ensuring you remain ahead of your competition</li>
+            <li>Single-source fiber supplier – one company to go to for all of your fiber and technical support needs</li>
+            <li>Standards-based 25-year performance warranty written around performance standards to give your customers peace of mind for the 25-year design life of their fiber installation</li>
+            <li>Fiber training, design and support – become more proficient in designing, installing and testing a fiber system</li>
+            <li>Engineering support – an engineer on call to help you better understand any technical issues so you can find the solution that best fits your customers needs and applications</li>
+            <li>Marketing incentives – gain access to the power behind the AFL brand, including links on our website promoting you as an ACE Installer</li>
+            <li>Rebate program – Earn rebates based on AFL product purchases from an authorized distributor</li>
+        </ul>
+        <h3>More information on the ACE Program</h3>
+        <ul>
+            <li><a rel="noopener noreferrer" href="https://afl-delivery.stylelabs.cloud/api/public/content/ace-program-brochure-web?v=3237f09b" target="_blank">Download ACE Program Brochure</a></li>
+        </ul>
+        <p> </p>
+        <p><a class="btn btn-primary" href="~/link.aspx?_id=60AD78E4D32F4C22A6CF9D82BEC0BD77&_z=z">Find an ACE Partner</a> <a class="btn btn-primary" href="~/link.aspx?_id=E6538BA3FAA349EBBBAF0DBA91B50114&_z=z">Become an ACE Partner</a></p>
+        <p>
+        <br />
+        *Lifetime is defined as the System Design Lifetime which is 25 years.</p>
+    - ID: "56611f02-691a-4096-b044-63aa83122916"
+      Hint: Content
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mahesh
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: AFL Certified Expert (ACE) Installers n Program AFL certified link warranty
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: AFL Certified Expert ACE Program
+    - ID: "628db04b-29a2-483b-a88c-b8fd9a5f2086"
+      Hint: HeroLink
+      Value: |
+        <link id="{366C8820-BADD-41DD-A243-CC32938D3FF8}" querystring="" linktype="internal" text="LEARN MORE" anchor="" url="/AFL-Global/AMERICAS/Home/Contact/AFL Certified Expert ACE Program" title="" class="" target="|Custom" />
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: AFL Certified Expert ACE Program
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "dcc1f460-a503-4710-ab80-9a9caac34957"
+    - ID: "93dc88f3-05e5-482d-9b9a-c859c8258a73"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="167242" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/167242/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/ACEprogrambanner?v=aa70fdf8" stylelabs-content-type="Image" alt="ACE-Program.jpg" height="369" width="954" />
+    - ID: "a40ebd3d-2b41-41fb-90f7-753544ce77c5"
+      Hint: Hero Title1
+      Value: AFL Certified Expert (ACE) Program
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240229T090313Z
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{4A0E4C96-B682-430A-BB40-8EF0196502E3}"
+              s:ds="{FEDF2C34-2472-4863-AEAC-2F1734A9133F}"
+              s:id="{6162223D-9EAA-490C-A628-DA2A76933DD4}"
+              s:par="Reset Caching Options&amp;GridParameters&amp;FieldNames&amp;Styles=%7B1A3163C3-C552-4BFA-ADC9-C7B3A0DC5BF4%7D&amp;RenderingIdentifier&amp;DynamicPlaceholderId=2&amp;CacheClearingBehavior=Clear%20on%20publish"
+              s:ph="main"
+              s:ccb="Clear on publish" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211122T084153Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: AFL Certified Expert ACE Program
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: "AFL Certified Expert (ACE) Installers Program - ACE Installers can design and install an AFL end-to-end system with a limited lifetime warranty. "
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <p>As the first telecommunications company to offer a lifetime warranty* on end-to-end fiber optic systems, AFL partners with system integrators that possess the same quality of workmanship as we do. We carefully select partners that are as stringent about quality workmanship as we are at AFL. Plus, we are continually building our network of&nbsp;<a href="http://www.aflglobal.com/Contact/AFL-ACE-Partners.aspx">AFL Certified Expert (ACE) Installers</a>&nbsp;that design and install AFL systems.</p>
+        <p>As an ACE Installer, you will be confident in designing and installing an AFL system that will fit the needs of your customers, as well as give them the peace of mind that a lifetime warranty offers. This, coupled with AFL&rsquo;s excellent technical support and the best products and solutions in the industry, will truly differentiate you from your competition.</p>
+        <p>AFL offers each ACE Installer extensive hands-on training that will help you understand the products we manufacture better, as well as develop your fiber optic knowledge and installation practices. After the training is complete, you will have all the necessary tools to design and install a completely warranted AFL system.&nbsp;</p>
+        <p>ACE Program Highlights</p>
+        <ul>
+            <li>Cutting-edge technology &ndash; develop a better understanding of fiber technology ensuring you remain ahead of your competition</li>
+            <li>Single-source fiber supplier &ndash; one company to go to for all of your fiber and technical support needs</li>
+            <li>Standards-based 25-year performance warranty written around performance standards to give your customers peace of mind for the 25-year design life of their fiber installation</li>
+            <li>Fiber training, design and support&nbsp;&ndash; become more proficient in designing, installing and testing a fiber system</li>
+            <li>BICSI credits &ndash; AFL&rsquo;s ACE training programs are BICSI-certified and qualify for BICSI continuing education credits (CEC)</li>
+            <li>Engineering support &ndash; an engineer on call to help you better understand any technical issues so you can find the solution that best fits your customers needs and applications</li>
+            <li>Marketing incentives &ndash; gain access to the power behind the AFL brand, including links on our website promoting you as an ACE Installer</li>
+            <li>Rebate program &ndash; Earn rebates based on AFL product purchases from an authorized distributor</li>
+        </ul>
+        <h3>More information on the ACE Program</h3>
+        <ul>
+            <li><a rel="noopener noreferrer" href="https://www.aflglobal.com/Resources/AFL-Certified-Expert-Installers-Program/ace-program-brochure-web.aspx" target="_blank" style="color: #0091ea; background-color: transparent;">Download ACE Program Brochure</a></li>
+        </ul>
+        <p>&nbsp;</p>
+        <p><a class="AFLbutton" href="https://www.aflglobal.com/Contact/AFL-ACE-Partners.aspx">Find an ACE Partner</a>&nbsp;<a class="AFLbutton" href="https://www.aflglobal.com/Resources/AFL-Certified-Expert-Installers-Program/Apply-for-ACE.aspx">Become an ACE Partner</a></p>
+        <p>
+        <br />
+        *Lifetime is defined as the System Design Lifetime which is 25 years.</p>
+    - ID: "56611f02-691a-4096-b044-63aa83122916"
+      Hint: Content
+      Value: |
+        <p>As the first telecommunications company to offer a lifetime warranty* on end-to-end fiber optic systems, AFL partners with system integrators that possess the same quality of workmanship as we do. We carefully select partners that are as stringent about quality workmanship as we are at AFL. Plus, we are continually building our network of&nbsp;&nbsp;<a href="http://www.aflglobal.com/Contact/AFL-ACE-Partners.aspx" style="color: #0091ea; background-color: transparent;"> AFL Certified Expert (ACE) Installers</a> that design and install AFL systems.</p>
+        <p>As an ACE Installer, you will be confident in designing and installing an AFL system that will fit the needs of your customers, as well as give them the peace of mind that a lifetime warranty offers. This, coupled with AFL&rsquo;s excellent technical support and the best products and solutions in the industry, will truly differentiate you from your competition.</p>
+        <p>AFL offers each ACE Installer extensive hands-on training that will help you understand the products we manufacture better, as well as develop your fiber optic knowledge and installation practices. After the training is complete, you will have all the necessary tools to design and install a completely warranted AFL system.</p>
+        <p><strong>ACE Program Highlights</strong></p>
+        <ul>
+            <li>Cutting-edge technology &ndash; develop a better understanding of fiber technology ensuring you remain ahead of your competition</li>
+            <li>Single-source fiber supplier &ndash; one company to go to for all of your fiber and technical support needs</li>
+            <li>Standards-based 25-year performance warranty written around performance standards to give your customers peace of mind for the 25-year design life of their fiber installation</li>
+            <li>Fiber training, design and support&ndash; become more proficient in designing, installing and testing a fiber system</li>
+            <li>BICSI credits &ndash; AFL&rsquo;s ACE training programs are BICSI-certified and qualify for BICSI continuing education credits (CEC)</li>
+            <li>Engineering support &ndash; an engineer on call to help you better understand any technical issues so you can find the solution that best fits your customers needs and applications</li>
+            <li>Marketing incentives &ndash; gain access to the power behind the AFL brand, including links on our website promoting you as an ACE Installer</li>
+            <li>Rebate program &ndash; Earn rebates based on AFL product purchases from an authorized distributor</li>
+        </ul>
+        <h3>More information on the ACE Program</h3>
+        <ul>
+            <li><strong><a rel="noopener noreferrer" href="https://www.aflglobal.com/Resources/AFL-Certified-Expert-Installers-Program/ace-program-brochure-web.aspx" target="_blank">Download ACE Program Brochure</a></strong></li>
+        </ul>
+        <p><a class="AFLbutton" href="https://www.aflglobal.com/Contact/AFL-ACE-Partners.aspx">Find an ACE Partner</a><a class="AFLbutton" href="https://www.aflglobal.com/Resources/AFL-Certified-Expert-Installers-Program/Apply-for-ACE.aspx">Become an ACE Partner</a></p>
+        <p>
+        <strong> <span>*Lifetime is defined as the System Design Lifetime which is 25 years.</span></strong></p>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mahesh
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: AFL Certified Expert (ACE) Installers n Program AFL certified link warranty
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: AFL Certified Expert ACE Program
+    - ID: "628db04b-29a2-483b-a88c-b8fd9a5f2086"
+      Hint: HeroLink
+      Value: |
+        <link id="{366C8820-BADD-41DD-A243-CC32938D3FF8}" querystring="" linktype="internal" text="LEARN MORE" anchor="" url="/AFL-Global/AMERICAS/Home/Contact/AFL Certified Expert ACE Program" title="" class="" target="|Custom" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3f1e75d8-5345-4618-bb5c-184a5703a3ab"
+    - ID: "93dc88f3-05e5-482d-9b9a-c859c8258a73"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image mediaid="{B4C70921-5CEB-4F94-AD4F-DC8A65157647}" />
+    - ID: "a40ebd3d-2b41-41fb-90f7-753544ce77c5"
+      Hint: Hero Title1
+      Value: AFL Certified Expert (ACE) Program
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rob
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220312T204954Z
+  - Version: 2
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{4A0E4C96-B682-430A-BB40-8EF0196502E3}"
+              s:ds="{FEDF2C34-2472-4863-AEAC-2F1734A9133F}"
+              s:id="{6162223D-9EAA-490C-A628-DA2A76933DD4}"
+              s:par="Reset Caching Options&amp;GridParameters&amp;FieldNames&amp;Styles=%7B1A3163C3-C552-4BFA-ADC9-C7B3A0DC5BF4%7D&amp;RenderingIdentifier&amp;DynamicPlaceholderId=2&amp;CacheClearingBehavior=Clear%20on%20publish"
+              s:ph="main"
+              s:ccb="Clear on publish" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211122T084153Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: AFL Certified Expert (ACE) Program
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: "AFL Certified Expert (ACE) Installers Program - ACE Installers can design and install an AFL end-to-end system with a limited lifetime warranty. "
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <p>As the first telecommunications company to offer a lifetime warranty* on end-to-end fiber optic systems, AFL partners with system integrators that possess the same quality of workmanship as we do. We carefully select partners that are as stringent about quality workmanship as we are at AFL. Plus, we are continually building our network of <a href="~/link.aspx?_id=60AD78E4D32F4C22A6CF9D82BEC0BD77&_z=z">AFL Certified Expert (ACE) Installers</a> that design and install AFL systems.</p>
+        <p>As an ACE Installer, you will be confident in designing and installing an AFL system that will fit the needs of your customers, as well as give them the peace of mind that a lifetime warranty offers. This, coupled with AFL’s excellent technical support and the best products and solutions in the industry, will truly differentiate you from your competition.</p>
+        <p>AFL offers each ACE Installer extensive hands-on training that will help you understand the products we manufacture better, as well as develop your fiber optic knowledge and installation practices. After the training is complete, you will have all the necessary tools to design and install a completely warranted AFL system. </p>
+        <p>ACE Program Highlights</p>
+        <ul>
+            <li>Cutting-edge technology – develop a better understanding of fiber technology ensuring you remain ahead of your competition</li>
+            <li>Single-source fiber supplier – one company to go to for all of your fiber and technical support needs</li>
+            <li>Standards-based 25-year performance warranty written around performance standards to give your customers peace of mind for the 25-year design life of their fiber installation</li>
+            <li>Fiber training, design and support – become more proficient in designing, installing and testing a fiber system</li>
+            <li>Engineering support – an engineer on call to help you better understand any technical issues so you can find the solution that best fits your customers needs and applications</li>
+            <li>Marketing incentives – gain access to the power behind the AFL brand, including links on our website promoting you as an ACE Installer</li>
+            <li>Rebate program – Earn rebates based on AFL product purchases from an authorized distributor</li>
+        </ul>
+        <h3>More information on the ACE Program</h3>
+        <ul>
+            <li><a rel="noopener noreferrer" href="https://afl-delivery.stylelabs.cloud/api/public/content/ace-program-brochure-web?v=3237f09b" target="_blank">Download ACE Program Brochure</a></li>
+        </ul>
+        <p> </p>
+        <p><a class="btn btn-primary" href="~/link.aspx?_id=60AD78E4D32F4C22A6CF9D82BEC0BD77&_z=z">Find an ACE Partner</a> <a class="btn btn-primary" href="~/link.aspx?_id=E6538BA3FAA349EBBBAF0DBA91B50114&_z=z">Become an ACE Partner</a></p>
+        <p>
+        <br />
+        *Lifetime is defined as the System Design Lifetime which is 25 years.</p>
+    - ID: "56611f02-691a-4096-b044-63aa83122916"
+      Hint: Content
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mahesh
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: AFL Certified Expert (ACE) Installers n Program AFL certified link warranty
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: AFL Certified Expert ACE Program
+    - ID: "628db04b-29a2-483b-a88c-b8fd9a5f2086"
+      Hint: HeroLink
+      Value: |
+        <link id="{366C8820-BADD-41DD-A243-CC32938D3FF8}" querystring="" linktype="internal" text="LEARN MORE" anchor="" url="/AFL-Global/AMERICAS/Home/Contact/AFL Certified Expert ACE Program" title="" class="" target="|Custom" />
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: AFL Certified Expert ACE Program
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ca32f61b-e4f6-415e-a20d-be7752fb5680"
+    - ID: "93dc88f3-05e5-482d-9b9a-c859c8258a73"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="167242" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/167242/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/ACEprogrambanner?v=aa70fdf8" stylelabs-content-type="Image" alt="ACE-Program.jpg" height="369" width="954" />
+    - ID: "a40ebd3d-2b41-41fb-90f7-753544ce77c5"
+      Hint: Hero Title1
+      Value: AFL Certified Expert (ACE) Program
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sharma.varun@altudo.co
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240229T090313Z
