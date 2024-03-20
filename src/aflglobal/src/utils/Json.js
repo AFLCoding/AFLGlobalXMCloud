@@ -1,4 +1,4 @@
-const jsonValue = {
+const jsonData = {
     "sitecore": {
     "context": {
     "pageEditing": false,
@@ -105,7 +105,7 @@ const jsonValue = {
     "results": [
     {
     "SlideImage": {
-    "jsonValue": {
+    "jsonData": {
     "value": {
     "height": "498",
     "stylelabs-content-type": "Image",
@@ -793,4 +793,4 @@ const jsonValue = {
     }
     }
 
-    export const jsonValue
+export default jsonData
