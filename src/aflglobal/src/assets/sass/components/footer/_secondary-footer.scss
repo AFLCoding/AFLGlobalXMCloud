@@ -11,7 +11,7 @@ $block: ".footer-secondary";
     &__content{
         padding: var(--size-70) var(--size-0) var(--size-168) var(--size-198);
 
-        &-link , &-p{
+        &-link , &-p , p ,a{
             font-size: var(--font-size-120);
             color:$text-white;
             margin-bottom: var(--size-0);

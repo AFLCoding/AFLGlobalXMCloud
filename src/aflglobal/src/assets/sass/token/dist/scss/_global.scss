@@ -1,4 +1,5 @@
 :root{
+	// From here,size variable begin
 	--size-auto: auto;
 	--size-0: 0;
 	--size-10: 4px;
@@ -29,6 +30,11 @@
 	--size-370: 224px;
 	--size-390: 290px;
 	--size-400: 400px;
+	--size-500: 480px;
+	--size-700: 620px;
+    --size-950: 95%;
+	// Here size variable end
+    // From here, spacing variable begin 
 	--space-0: 0;
 	--space-1:1px;
 	--space-5: 2px;
@@ -52,6 +58,8 @@
 	--space-250: 104px;
 	--space-300: 128px;
 	--space-350: 160px;
+	// spacing variables end here
+	// color codes start from here
 	--green-10: #EDF4F1;
 	--green-50: #D9E8E1;
 	--green-100: #BFD8CC;
@@ -121,6 +129,9 @@
 	--gray-800: #2E312E;
 	--gray-900: #191C1A;
 	--white-100: #FFFFFF;
+	--black-100: #000000;
+	// Here the color code ends.
+	// From here, opacity variables begin.
 	--opacity-0: 0;
 	--opacity-100: 0.1;
 	--opacity-200: 0.2;
@@ -132,7 +143,8 @@
 	--opacity-800: 0.8;
 	--opacity-900: 0.9;
 	--opacity-1000: 1;
-	--black-100: #000000;
+	// Here, opacity variables end.
+	// From here, radius variables begin.
 	--radius-0: 0;
 	--radius-100: 2px;
 	--radius-200: 4px;
@@ -144,18 +156,22 @@
 	--radius-600: 24px;
 	--radius-700: 32px;
 	--radius-1000: 50%;
+	// Here, radius variables end.
+	// From here,border width variable begin
 	--border-width-0: 0;
 	--border-width-100: 1px;
 	--border-width-200: 2px;
 	--border-width-300: 3px;
 	--border-width-400: 4px;
 	--width-50:50%;
+	// Here,border width variable end
 	--elevation-0: 0 0 0 0 rgba(0, 0, 0, 0.67);
 	--elevation-100: 0px 4px 6px -1px rgba(0, 0, 0, 0.1), 0px 2px 4px -1px rgba(0, 0, 0, 0.06);
 	--elevation-200: 0px 10px 15px -3px rgba(0, 0, 0, 0.1), 0px 4px 6px -2px rgba(0, 0, 0, 0.05);
 	--elevation-300: 0px 20px 25px -5px rgba(0, 0, 0, 0.1), 0px 10px 10px -5px rgba(0, 0, 0, 0.04);
 	--elevation-400: 0px 25px 50px -12px rgba(0, 0, 0, 0.25);
 	--elevation-1000: inset 0px 2px 4px 0px rgba(0, 0, 0, 0.1);
+	// From here font weight variable start
 	--font-family-100: 'Montserrat';
 	--font-weight-100: 400;
 	--font-weight-200: 500;
@@ -172,19 +188,27 @@
 	--line-height-400: 140%;
 	--line-height-500: 150%;
 	--line-height-800: 180%;
+	// Here font weight variable end
+	// From here text case begin
 	--text-case-0: none;
 	--text-case-100: uppercase;
 	--text-case-200: capitalize;
 	--text-case-300: lowercase;
+	// Here text case variable end
+	// From here text decorsation variable begin
 	--text-decoration-0: none;
 	--text-decoration-100: underline;
 	--text-decoration-200: line-through;
+    // Here text decoration variable end
+	// From here,letter spacing variable begin
 	--letter-spacing-0: 0;	
 	--letter-spacing-100: -0.1rem;
 	--letter-spacing-200: -0.2rem;
 	--letter-spacing-290: 0.29rem;
 	--letter-spacing-300: -0.3rem;
 	--letter-spacing-400: -0.4rem;
+	// Here letter spacing variable end
+	// From here,font size variable start
 	--font-size-120: 1.2rem;
 	--font-size-130: 1.3rem;
 	--font-size-140: 1.4rem;
@@ -202,9 +226,7 @@
 	--font-size-440: 4.4rem;
 	--font-size-550: 5.5rem;
 	--font-size-680: 6.8rem;
+	// Here font size variable end
 	--font-size-scale-100: 1.125;
 	--font-size-scale-200: 1.25;
-	--size-500: 480px;
-	--size-700: 620px;
-    --size-950: 95%;
 }
