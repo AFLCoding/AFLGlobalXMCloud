@@ -11,7 +11,7 @@ const HeroCarousel = () => {
   return (
     <div className={`container-large`}>
       <div className={`${block}`}>
-        <Carousel>
+        <Carousel touch={true} interval={100000000}>
           {heroCarouselData.map((items, index) => {
             const slideImg = items.SlideImage.jsonValue?.value;
             const slideText = items.SlideText.jsonValue;
@@ -29,9 +29,15 @@ const HeroCarousel = () => {
                 )}
 
                 <Carousel.Caption>
-                  <div className={`container max-auto d-relative ${block}__content`}>
-                    {slideText && <RichText field={slideText} />}
-                    <CTA label={slideLink.text} bg href={slideLink.href} />
+                  <div className={`container max-auto d-relative`}>
+                    <div className={`${block}__content`}>
+                      {slideText && (
+                        <div className={`${block}__richtext`}>
+                          <RichText field={slideText} />
+                        </div>
+                      )}
+                      <CTA label={slideLink.text} bg href={slideLink.href} />
+                    </div>
                   </div>
                 </Carousel.Caption>
               </Carousel.Item>

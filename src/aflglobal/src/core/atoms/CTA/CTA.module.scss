@@ -41,6 +41,8 @@
         cursor: pointer;
         text-align: center;
         vertical-align: middle;
+        display: block;
+        width: max-content;
 
         &:hover {
             color: $text-white;
