@@ -26,8 +26,12 @@ $carousel: ".carousel";
             }
             @include respond-to(tablet-horizontal){
                 font-size: var(--size-110);
+
             }
             @include respond-to(mobile-horizontal){
+                font-size: var(--size-96);
+            }
+            @include respond-to(mobile-large){
                 font-size: var(--size-120);
             }
             @include respond-to(mobile-medium){
@@ -37,6 +41,9 @@ $carousel: ".carousel";
 
         h5{
             font-size: var(--size-80);
+            @include respond-to(mobile-large){
+                font-size: var(--size-60);
+            }
         }
     }
     &__richtext{
@@ -53,9 +60,11 @@ $carousel: ".carousel";
            object-fit: cover;
            object-position: var(--width-85);
     
-           @include respond-to($break-mobile-horizontal){
+           @include respond-to(mobile-horizontal){
             object-position: var(--width-80);
+            block-size: var(--size-320);
            }
+
     
         }
         &-caption{
