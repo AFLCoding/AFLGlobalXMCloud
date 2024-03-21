@@ -9,7 +9,7 @@ const HeroCarousel = () => {
   const block = 'hero-carousel';
   const carousel = 'carousel';
   return (
-    <div className={`container-large`}>
+    <div className={`container-large mx-auto`}>
       <div className={`${block}`}>
         <Carousel touch={true}>
           {heroCarouselData.map((items, index) => {

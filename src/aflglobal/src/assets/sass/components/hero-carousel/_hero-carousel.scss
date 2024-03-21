@@ -71,6 +71,7 @@ $carousel: ".carousel";
     }
 
     &-indicators{
+        bottom: var(--size-122);      
         button{
             inline-size: var(--size-35) !important;
             block-size: var(--size-35) !important;
