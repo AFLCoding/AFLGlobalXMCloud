@@ -21,19 +21,18 @@ $carousel: ".carousel";
             text-shadow: var(--space-1) var(--space-1) var(--size-30) rgba(0,0,0,.5);
             font-weight: var(--font-weight-400);
 
-            @include respond-to($break-tablet-large) {
+            @include respond-to(tablet-large) {
                 font-size: var(--size-140);
             }
-            @include respond-to($break-tablet-horizontal){
+            @include respond-to(tablet-horizontal){
                 font-size: var(--size-110);
             }
-            @include respond-to($break-mobile-horizontal){
+            @include respond-to(mobile-horizontal){
                 font-size: var(--size-120);
             }
-            // @include respond-top($break-mobile-medium){
-            //     font-size: 26px;
-            // }
-
+            @include respond-to(mobile-medium){
+                font-size: var(--size-92);
+            }
         }
 
         h5{
