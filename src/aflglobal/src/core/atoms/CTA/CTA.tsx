@@ -1,38 +1,44 @@
 import React from 'react';
 import styles from './CTA.module.scss';
-import Link from 'next/link';
-import Image from 'next/image';
+import {
+  Link,
+  LinkField,
+  TextField,
+  Text,
+  ImageField,
+  Image,
+} from '@sitecore-jss/sitecore-jss-nextjs';
 
 type CTACustomProps = {
-  href?: string;
-  icon?: {
-    src: string;
-    alt: string;
-  };
-  label?: string;
+  link?: LinkField;
+  label?: TextField;
+  icon?: ImageField;
   bg?: boolean;
 };
 
-const CTA = ({ label, href, icon, bg }: CTACustomProps) => {
-  if (href) {
+const CTA = ({ label, link, icon, bg }: CTACustomProps) => {
+  if (link) {
     return (
       <Link
-        href={href}
-        title={label}
-        className={`${icon?.src ? styles.cta : styles.cta__icon} ${bg ? styles.background : ''}`}
+        field={link}
+        title={link.value.text}
+        className={`${icon?.value?.src ? styles.cta : styles.cta__icon} ${
+          bg ? styles.background : ''
+        }`}
       >
-        {label}
-        {icon?.src && <Image src={icon?.src} alt={icon?.alt} />}
+        {icon?.value?.src && <Image field={icon} />}
       </Link>
     );
   } else {
     return (
       <button
-        className={`${icon?.src ? styles.cta : styles.cta__icon} ${bg ? styles.background : ''}`}
-        title={label}
+        className={`${icon?.value?.src ? styles.cta : styles.cta__icon} ${
+          bg ? styles.background : ''
+        }`}
+        title={label?.value as string}
       >
-        {label}
-        {icon?.src && <Image src={icon?.src} alt={icon?.alt} />}
+        <Text field={label} />
+        {icon?.value?.src && <Image field={icon} />}
       </button>
     );
   }
