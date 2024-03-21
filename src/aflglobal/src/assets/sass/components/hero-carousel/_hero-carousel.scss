@@ -1,6 +1,101 @@
+@import "@sass/abstracts/vars";
+@import "@sass/abstracts/mixins";
+
 $block: ".hero-carousel";
+$carousel: ".carousel";
 
 #{$block}{
-    border-radius: var(--radius-610);
-    overflow: hidden;
+    padding-left: var(--space-58);
+    padding-right: var(--space-58);
+    &__content{
+        max-width:var(--width-70);        
+        width: var(--width-100);
+        padding: var(--space-0) var(--space-70);
+
+        @include respond-to($break-tablet-large){
+            padding: var(--space-0);
+        }
+
+        h1{
+            font-size: var(--size-154);
+            text-shadow: var(--space-1) var(--space-1) var(--size-30) rgba(0,0,0,.5);
+            font-weight: var(--font-weight-400);
+
+            @include respond-to($break-tablet-large) {
+                font-size: var(--size-140);
+            }
+            @include respond-to($break-tablet-horizontal){
+                font-size: var(--size-110);
+            }
+            @include respond-to($break-mobile-horizontal){
+                font-size: var(--size-120);
+            }
+            // @include respond-top($break-mobile-medium){
+            //     font-size: 26px;
+            // }
+
+        }
+
+        h5{
+            font-size: var(--size-80);
+        }
+    }
+}
+#{$carousel}{
+    &-item{
+        border-radius: var(--radius-610);
+        overflow: hidden;
+    }
+    &-img{
+       max-width:1338px !important;
+       width:100%;
+       object-fit: cover;
+       object-position: 85%;
+
+       @include respond-to($break-mobile-horizontal){
+        object-position: 80%;
+       }
+
+    }
+    &-caption{
+        text-align: left;
+        left: var(--space-0);
+        right: var(--space-0);
+        display: flex;
+        height: 100%;
+        align-items: center;
+        padding:0 var(--space-58);
+    }
+
+    &-inner{
+
+    }
+
+    &-indicators{
+        button{
+            width: var(--size-35) !important;
+            height: var(--size-35) !important;
+            margin: var(--size-28) !important;
+            border-radius: var(--border-width-5000);
+            background: var(--white-100);
+            color: var(--white-100);
+            padding: var(--size-28) !important;
+            font-size: var(--size-28) !important;
+            cursor: pointer !important;
+            border: var(--size-0) !important;
+            box-sizing: border-box !important;
+            opacity: var(--opacity-1000) !important;
+
+            &.active{
+                background: $text-blue;
+                color: $text-blue;
+            }
+        }
+    }
+    &-control-prev,&-control-next {
+        & , &:hover{
+            opacity: var(--opacity-0);
+        }
+
+    }
 }

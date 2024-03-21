@@ -105,9 +105,9 @@ const DummyJsonData = {
                           results: [
                             {
                               SlideImage: {
-                                jsonData: {
+                                jsonValue: {
                                   value: {
-                                    height: '498',
+                                    height: '488',
                                     'stylelabs-content-type': 'Image',
                                     alt: 'FlexScan FS200 Promo.png',
                                     'stylelabs-content-id': '324223',
@@ -166,7 +166,7 @@ const DummyJsonData = {
                               SlideImage: {
                                 jsonValue: {
                                   value: {
-                                    height: '498',
+                                    height: '488',
                                     'stylelabs-content-type': 'Image',
                                     alt: 'CAN_HomePage2.webp',
                                     'stylelabs-content-id': '187456',
@@ -229,7 +229,7 @@ const DummyJsonData = {
                               SlideImage: {
                                 jsonValue: {
                                   value: {
-                                    height: '498',
+                                    height: '488',
                                     'stylelabs-content-type': 'Image',
                                     alt: 'AFL-Desktop-Homepage-photos_2.webp',
                                     'stylelabs-content-id': '174638',
