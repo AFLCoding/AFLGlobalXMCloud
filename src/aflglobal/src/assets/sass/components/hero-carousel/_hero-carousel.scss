@@ -43,59 +43,59 @@ $carousel: ".carousel";
     &__richtext{
         margin-block-end: var(--size-35);
     }
-}
-#{$carousel}{
-    &-item{
-        border-radius: var(--radius-610);
-        overflow: hidden;
-    }
-    &-img{
-       max-inline-size:1338px !important;
-       inline-size: var(--width-100);
-       object-fit: cover;
-       object-position: var(--width-85);
-
-       @include respond-to($break-mobile-horizontal){
-        object-position: var(--width-80);
-       }
-
-    }
-    &-caption{
-        text-align: left;
-        left: var(--space-0);
-        right: var(--space-0);
-        display: flex;
-        block-size: var(--width-100);
-        align-items: center;
-        padding:var(--space-0) var(--space-58);
-    }
-
-    &-indicators{
-        bottom: var(--size-122);      
-        button{
-            inline-size: var(--size-35) !important;
-            block-size: var(--size-35) !important;
-            margin: var(--size-28) !important;
-            border-radius: var(--border-width-5000);
-            background: var(--white-100);
-            color: var(--white-100);
-            padding: var(--size-28) !important;
-            font-size: var(--size-28) !important;
-            cursor: pointer !important;
-            border: var(--size-0) !important;
-            box-sizing: border-box !important;
-            opacity: var(--opacity-1000) !important;
-
-            &.active{
-                background: $text-blue;
-                color: $text-blue;
+    #{$carousel}{
+        &-item{
+            border-radius: var(--radius-610);
+            overflow: hidden;
+        }
+        &-img{
+           max-inline-size:1338px !important;
+           inline-size: var(--width-100);
+           object-fit: cover;
+           object-position: var(--width-85);
+    
+           @include respond-to($break-mobile-horizontal){
+            object-position: var(--width-80);
+           }
+    
+        }
+        &-caption{
+            text-align: left;
+            left: var(--space-0);
+            right: var(--space-0);
+            display: flex;
+            block-size: var(--width-100);
+            align-items: center;
+            padding:var(--space-0) var(--space-58);
+        }
+    
+        &-indicators{
+            bottom: var(--size-122);      
+            button{
+                inline-size: var(--size-35);
+                block-size: var(--size-35);
+                margin: var(--size-28);
+                border-radius: var(--border-width-5000);
+                background: var(--white-100);
+                color: var(--white-100);
+                padding: var(--size-28);
+                font-size: var(--size-28);
+                cursor: pointer;
+                border: var(--size-0);
+                box-sizing: border-box ;
+                opacity: var(--opacity-1000);
+    
+                &.active{
+                    background: $text-blue;
+                    color: $text-blue;
+                }
             }
         }
-    }
-    &-control-prev,&-control-next {
-        & , &:hover{
-            opacity: var(--opacity-0);
+        &-control-prev,&-control-next {
+            & , &:hover{
+                opacity: var(--opacity-0);
+            }
+    
         }
-
     }
 }
