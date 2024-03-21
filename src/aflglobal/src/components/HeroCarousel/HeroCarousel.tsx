@@ -11,7 +11,7 @@ const HeroCarousel = () => {
   return (
     <div className={`container-large`}>
       <div className={`${block}`}>
-        <Carousel touch={true} interval={100000000}>
+        <Carousel touch={true}>
           {heroCarouselData.map((items, index) => {
             const slideImg = items.SlideImage.jsonValue?.value;
             const slideText = items.SlideText.jsonValue;
