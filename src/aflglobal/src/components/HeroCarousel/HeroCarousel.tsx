@@ -36,7 +36,11 @@ const HeroCarousel = () => {
                           <RichText field={slideText} />
                         </div>
                       )}
-                      <CTA label={slideLink.text} bg href={slideLink.href} />
+                      <CTA
+                        bg
+                        label={{ value: slideLink.text }}
+                        link={{ value: { href: slideLink.href } }}
+                      />
                     </div>
                   </div>
                 </Carousel.Caption>
