@@ -14,6 +14,7 @@ type CTACustomProps = {
   label?: TextField;
   icon?: ImageField;
   bg?: boolean;
+  className?: string;
 };
 
 const CTA = ({ label, link, icon, bg }: CTACustomProps) => {

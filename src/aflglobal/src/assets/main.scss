@@ -3,15 +3,120 @@
 @import "sass/main.scss";
 @import "basic/main.scss";
 
-.container-large{
+.container-large {
     max-width: $container-large;
 }
 
 .container {
     max-width: $container;
+    padding-left: $medium-padding;
+    padding-right: $medium-padding;
 }
 
 a {
     text-decoration: none;
     color: $text-blue;
+}
+
+.product-carousel {
+    .slick-arrow {
+        position: absolute;
+        overflow: hidden;
+        background: $text-blue;
+        color: $text-blue;
+        height: $text-size-30;
+        width: $text-size-30;
+        border: var(--space-5) solid #fff;
+        padding: var(--size-18);
+        border-radius: var(--size-20);
+        opacity: 1;
+        z-index: 20;
+        cursor: pointer;
+        top: $text-size-30;
+
+        @include respond-to(426) {
+            height: var(--size-120);
+            width: var(--size-120);
+        }
+        
+        @include respond-to(md){
+            top: var(--size-120);
+        }
+
+        @include respond-to(lg){
+            top: var(--size-165);
+        }
+
+        @include respond-to(lg){
+            top: var(--size-170);
+        }
+
+        &::before {
+            content: '';
+            display: block;
+            position: absolute;
+            top: calc(-1 * var(--space-5));
+            right: 0;
+            bottom: 0;
+            left: 0;
+            margin: auto;
+            width: 0;
+            height: 0;
+            opacity: 1;
+            border-top: var(--space-15) solid transparent;
+            border-right: var(--size-18) solid #fff;
+            border-bottom: var(--space-15) solid transparent;
+            border-left: 0 solid transparent;
+        }
+
+        &:hover {
+            background: $text-blue;
+            color: $text-blue;
+        }
+
+        &.slick-disabled {
+            &::before {
+                opacity: 1;
+            }
+        }
+
+        &.slick-prev {
+            left: calc(-1 * var(--size-100));
+
+            @include respond-to(426){
+                left: calc(-1 * var(--size-108));
+            }
+
+            @include respond-to(lg){
+                left: calc(-1 * var(--size-122));
+            }
+
+            &.slick-disabled {
+                background: #ccc;
+                color: transparent;
+            }
+        }
+
+        &.slick-next {
+            right: calc(-1 * var(--size-96));
+
+            @include respond-to(lg){
+                right: calc(-1 * var(--size-120));
+            }
+
+            &::before {
+                border-right: 0 solid transparent;
+                border-left: var(--size-18) solid #fff;
+            }
+
+            &.slick-disabled {
+                background: #ccc;
+                color: transparent;
+            }
+
+            @include respond-to(426) {
+                right: calc(-1 * var(--size-122));
+            }
+        }
+    }
 }
