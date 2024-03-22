@@ -1,7 +1,7 @@
 import React, { useEffect, useRef } from 'react';
 import shave from 'shave';
 import Image from 'next/image';
-import Cta from 'src/core/atoms/CTA/CTA';
+import CTA from 'src/core/atoms/CTA/CTA';
 
 const CareersBanner = () => {
   const block = 'banner';
@@ -45,7 +45,7 @@ const CareersBanner = () => {
           </div>
           <div className="cta-wrapper">
             <div className="cta">
-              <Cta bg label="See Job Listing" className="btn" />
+              <CTA bg label={{ value: 'See Job Listing' }} className="btn" />
             </div>
           </div>
         </div>
