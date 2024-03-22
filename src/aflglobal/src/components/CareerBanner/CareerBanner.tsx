@@ -3,7 +3,7 @@ import shave from 'shave';
 import Image from 'next/image';
 import CTA from 'src/core/atoms/CTA/CTA';
 
-const CareersBanner = () => {
+const CareerBanner = () => {
   const block = 'banner';
   const textRef = useRef<HTMLParagraphElement>(null);
   const readMoreHref = '/test';
@@ -54,4 +54,4 @@ const CareersBanner = () => {
   );
 };
 
-export default CareersBanner;
+export default CareerBanner;
