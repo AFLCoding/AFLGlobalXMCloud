@@ -12,6 +12,13 @@ $break-tablet: 900px;
 $break-tablet-horizontal: 991px;
 $break-tablet-large: 1199px;
 $break-mobile-small: 251px;
+$break-426: 426px;
+$break-sm: 479px;
+$break-md: 768px;
+$break-lg: 992px;
+$break-xlg: 1024px;
+$break-xl: 1200px;
+$break-2xl: 1440px;
 $max-width: 960px;
 
 @mixin wrapper() {
@@ -61,55 +68,50 @@ $max-width: 960px;
 }
 
 @mixin respond-to($media) {
-    @if $media==mobile {
-        @media only screen and (max-width: $break-mobile) {
+    @if $media==426 {
+        @media only screen and (min-width: $break-426) {
             @content;
         }
     }
+
     @else if $media==mobile-medium {
         @media only screen and (max-width: $break-mobile-medium) {
             @content;
         }
     }
 
-    @else if $media==mobile-large {
-        @media only screen and (max-width: $break-mobile-large) {
+    @if $media==sm {
+        @media only screen and (min-width: $break-sm) {
             @content;
         }
     }
 
-    @else if $media==mobile-horizontal {
-        @media only screen and (max-width: $break-mobile-horizontal) {
+    @else if $media==md {
+        @media only screen and (min-width: $break-md) {
             @content;
         }
     }
 
-    @else if $media==tablet {
-        @media only screen and (max-width: $break-tablet) {
+    @else if $media==lg {
+        @media only screen and (min-width: $break-lg) {
             @content;
         }
     }
 
-    @else if $media==tablet-horizontal {
-        @media only screen and (max-width: $break-tablet-horizontal) {
+    @else if $media==xlg {
+        @media only screen and (min-width: $break-xlg) {
             @content;
         }
     }
 
-    @else if $media==tablet-large {
-        @media only screen and (max-width: $break-tablet-large) {
+    @else if $media==xl {
+        @media only screen and (min-width: $break-xl) {
             @content;
         }
     }
 
-    @else if $media==all-mobile {
-        @media only screen and (max-width: $break-tablet-large) {
-            @content;
-        }
-    }
-
-    @else if $media==desktop {
-        @media only screen and (min-width: $break-tablet-large + 1) {
+    @else if $media==2xl {
+        @media only screen and (min-width: $break-2xl) {
             @content;
         }
     }
@@ -166,13 +168,17 @@ $max-width: 960px;
     }
 }
 
-@mixin font($font-family, $font-file) {
+@mixin font($font-family, $font-file, $font-weight: 400) {
     @font-face {
         font-family: $font-family;
         src: url($font-file+'.ttf') format('truetype');
-        font-weight: normal;
+        font-weight: $font-weight;
         font-style: normal;
     }
 }
 
-@include font('Hind', '/Font/Hind-Bold');
+@include font('Hind', '/Font/Hind-Light', 300);
+@include font('Hind', '/Font/Hind-Regular', 400);
+@include font('Hind', '/Font/Hind-Medium', 500);
+@include font('Hind', '/Font/Hind-SemiBold', 600);
+@include font('Hind', '/Font/Hind-Bold', 700);

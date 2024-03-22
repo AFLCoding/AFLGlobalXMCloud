@@ -1,0 +1,22 @@
+@import '/src/assets/sass/abstracts/vars';
+
+.productImage {
+  block-size: 30rem;
+  max-inline-size: min-content;
+}
+
+.productDetails {
+  align-self: center;
+  margin-block-end: $middle-margin;
+  .productTitle {
+    color: $text-blue;
+    text-transform: uppercase;
+    font-size: $font-30;
+    margin-block-end: $middle-margin;
+    letter-spacing: 2.8px;
+  }
+  .productDescription {
+    letter-spacing: 0.5px;
+    margin-block-end: $large-margin;
+  }
+}
