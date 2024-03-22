@@ -11,15 +11,18 @@ type CTACustomProps = {
   };
   label?: string;
   bg?: boolean;
+  className?: string;
 };
 
-const CTA = ({ label, href, icon, bg }: CTACustomProps) => {
+const CTA = ({ label, href, icon, className, bg }: CTACustomProps) => {
   if (href) {
     return (
       <Link
         href={href}
         title={label}
-        className={`${icon?.src ? styles.cta : styles.cta__icon} ${bg ? styles.background : ''}`}
+        className={`${icon?.src ? styles.cta : styles.cta__icon} ${
+          bg ? styles.background : ''
+        } ${className}`}
       >
         {label}
         {icon?.src && <Image src={icon?.src} alt={icon?.alt} />}
@@ -28,7 +31,9 @@ const CTA = ({ label, href, icon, bg }: CTACustomProps) => {
   } else {
     return (
       <button
-        className={`${icon?.src ? styles.cta : styles.cta__icon} ${bg ? styles.background : ''}`}
+        className={`${icon?.src ? styles.cta : styles.cta__icon} ${
+          bg ? styles.background : ''
+        } ${className}`}
         title={label}
       >
         {label}
