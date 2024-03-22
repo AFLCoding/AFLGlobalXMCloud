@@ -1,0 +1,109 @@
+@import "@sass/abstracts/vars";
+@import "@sass/abstracts/mixins";
+
+$block: ".hero-carousel";
+$carousel: ".carousel";
+
+#{$block}{
+    padding-inline-start: var(--space-58);
+    padding-inline-end: var(--space-58);
+    &__content{
+        max-inline-size:var(--width-65);        
+        inline-size: var(--width-100);
+        padding: var(--space-0) var(--space-70);
+
+        @include respond-to($break-tablet-large){
+            padding: var(--space-0);
+        }
+
+        h1{
+            font-size: var(--size-154);
+            text-shadow: var(--space-1) var(--space-1) var(--size-30) rgba(0,0,0,.5);
+            font-weight: var(--font-weight-400);
+
+            @include respond-to(tablet-large) {
+                font-size: var(--size-140);
+            }
+            @include respond-to(tablet-horizontal){
+                font-size: var(--size-110);
+
+            }
+            @include respond-to(mobile-horizontal){
+                font-size: var(--size-96);
+            }
+            @include respond-to(mobile-large){
+                font-size: var(--size-120);
+            }
+            @include respond-to(mobile-medium){
+                font-size: var(--size-92);
+            }
+        }
+
+        h5{
+            font-size: var(--size-80);
+            @include respond-to(mobile-large){
+                font-size: var(--size-60);
+            }
+        }
+    }
+    &__richtext{
+        margin-block-end: var(--size-35);
+    }
+    #{$carousel}{
+        &-item{
+            border-radius: var(--radius-610);
+            overflow: hidden;
+        }
+        &-img{
+           max-inline-size:1338px !important;
+           inline-size: var(--width-100);
+           object-fit: cover;
+           object-position: var(--width-85);
+    
+           @include respond-to(mobile-horizontal){
+            object-position: var(--width-80);
+            block-size: var(--size-320);
+           }
+
+    
+        }
+        &-caption{
+            text-align: left;
+            left: var(--space-0);
+            right: var(--space-0);
+            display: flex;
+            block-size: var(--width-100);
+            align-items: center;
+            padding:var(--space-0) var(--space-58);
+        }
+    
+        &-indicators{
+            bottom: var(--size-122);      
+            button{
+                inline-size: var(--size-35);
+                block-size: var(--size-35);
+                margin: var(--size-28);
+                border-radius: var(--border-width-5000);
+                background: var(--white-100);
+                color: var(--white-100);
+                padding: var(--size-28);
+                font-size: var(--size-28);
+                cursor: pointer;
+                border: var(--size-0);
+                box-sizing: border-box ;
+                opacity: var(--opacity-1000);
+    
+                &.active{
+                    background: $text-blue;
+                    color: $text-blue;
+                }
+            }
+        }
+        &-control-prev,&-control-next {
+            & , &:hover{
+                opacity: var(--opacity-0);
+            }
+    
+        }
+    }
+}

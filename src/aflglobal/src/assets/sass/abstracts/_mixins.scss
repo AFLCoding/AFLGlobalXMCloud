@@ -4,6 +4,14 @@
 
 $container-large: 1366px;
 $container: 1126px;
+$break-mobile: 380px;
+$break-mobile-medium: 399px;
+$break-mobile-large: 478px;
+$break-mobile-horizontal: 767px;
+$break-tablet: 900px;
+$break-tablet-horizontal: 991px;
+$break-tablet-large: 1199px;
+$break-mobile-small: 251px;
 $break-426: 426px;
 $break-sm: 479px;
 $break-md: 768px;
@@ -62,6 +70,12 @@ $max-width: 960px;
 @mixin respond-to($media) {
     @if $media==426 {
         @media only screen and (min-width: $break-426) {
+            @content;
+        }
+    }
+
+    @else if $media==mobile-medium {
+        @media only screen and (max-width: $break-mobile-medium) {
             @content;
         }
     }

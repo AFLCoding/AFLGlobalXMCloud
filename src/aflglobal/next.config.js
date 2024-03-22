@@ -59,5 +59,19 @@ const nextConfig = {
 
 module.exports = () => {
   // Run the base config through any configured plugins
-  return Object.values(plugins).reduce((acc, plugin) => plugin(acc), nextConfig);
+  // Add the domain configuration for Next.js images
+  const configWithImages = Object.values(plugins).reduce(
+    (acc, plugin) => plugin(acc),
+    {
+      ...nextConfig,
+      images: {
+        domains: ['afl-delivery.stylelabs.cloud'],
+      },
+    }
+  );
+
+  return configWithImages;
+
+  // return Object.values(plugins).reduce((acc, plugin) => plugin(acc), nextConfig);
 };
+
