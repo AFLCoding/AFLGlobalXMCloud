@@ -9,8 +9,8 @@ import classes from './FeaturedProductDetail.module.scss';
 const FeaturedProductDetail = () => {
   const props: FeaturedProductDetailProps = mockPropsFeaturedProductDetail;
   return (
-    <div className="container p-4">
-      <div className="row col-md-12">
+    <div className="container px-4">
+      <div className="row col-md-12 gy-4">
         <div className="col-md-6 text-center">
           <Image field={props?.fields?.Image} className={classes.productImage} />
         </div>
