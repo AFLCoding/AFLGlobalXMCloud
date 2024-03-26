@@ -1,0 +1,257 @@
+﻿---
+ID: "7a18a80b-da64-4e25-b7a3-bff96a97f6a3"
+Parent: "a2c14618-5e32-4ad3-ac4c-07e00189a2a7"
+Template: "bf61de11-b78f-48ea-aaa4-1d17f0d83824"
+Path: "/sitecore/content/AFL-Global/AMERICAS/Home/Company/Company Profile/Leadership Team/Rob Crowder"
+SharedFields:
+- ID: "1fbc6a49-6281-48ee-87e9-a3970b145adb"
+  Hint: NavigationFilter
+  Value: "{D063E9D1-C7B5-4B1E-B31E-69886C9C59F5}"
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{274C9F86-81B9-4FFC-87CA-8B19AB3A526D}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{DAE7C21D-4D3B-4257-A95C-9104CD8AF409}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 400
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220308T154022Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{FCA998C5-0CC3-4F91-94D8-0A4E6CAECE88}"
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Rob Crowder
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Rob
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: Rob Crowder is Executive VP, Chief Administrative Officer and Secretary
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <p>Rob Crowder is Executive VP, Chief Administrative Officer and Secretary, responsible for the development of corporate policy and controls, accounting, risk management, tax and information technology at AFL. In addition, he is responsible for the overall internal control environment of all group companies comprising America Fujikura Ltd which include AFL, Fujikura Automotive America (FAA) and Fujikura America (FAI). He is also a Director of America Fujikura Ltd.</p>
+        <p>
+        Rob has played an important role in AFL’s strategic initiatives and corporate transactions, including 21 acquisitions – the most-recently acquired Longleaf, Beam Wireless, OTS and Spligitty Fiber. He also has been involved in acquiring interests in strategic investments including FiberRise and Vitruvi. He also has been involved in the AFL’s continuing efforts to evaluate its businesses and make appropriate adjustments. Finally, Rob has negotiated new finance agreements to ensure the Company has sufficient liquidity to fund its working capital and capital expenditures as it continues to experience rapid growth.
+        </p>
+        <p>
+        With almost 35 years of financial management experience gained in both domestic and international manufacturing environments, Rob previously held financial management positions with Celestica, a multinational electronics manufacturing services company, and Greif Corporation, a global provider of industrial packaging. Immediately prior to joining AFL, he served as corporate controller at KEMET Corporation, an electronic components manufacturer.
+        </p>
+        <p>
+        Rob is a graduate of the College of William and Mary where he earned a Bachelor of Business Administration. He is also a certified public accountant. Rob has served on the Board of Directors for Habitat for Humanity of Greenville, most recently as Chairman and Audit Committee Chairman.  Rob is also involved with the American Heart Association taking part annually in the AHA Beach Ride. Finally, Rob serves as a Service Usher at his church.
+        </p>
+        <p> </p>
+        <p>
+        <a href="/Company/Company-Profile/Leadership-Team/">< Back to Leadership Page</a></p>
+    - ID: "56611f02-691a-4096-b044-63aa83122916"
+      Hint: Content
+      Value: 
+    - ID: "5d336bce-e421-4fe8-ad55-214f80d841ad"
+      Hint: "Sub-Heading"
+      Value: Executive VP, Chief Administrative Officer and Secretary
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Rob
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: AFL Rob Crowder is Executive VP, Chief Administrative Officer and Secretary
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: Rob Crowder is AFL's Executive VP, Chief Administrative Officer and Secretary
+    - ID: "612fc437-a34e-408c-a80f-a3ce18887805"
+      Hint: SuggestionBoxRedirectIcon
+      Value: |
+        <image mediaid="{5A901871-5681-4DAD-ABC1-FB375934B088}" alt="Suggestion Box" height="" width="" hspace="" vspace="" />
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: Rob Crowder is AFL's Executive VP, Chief Administrative Officer and Secretary
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1623ce98-2059-4028-9bd4-b7686fb7847c"
+    - ID: "93dc88f3-05e5-482d-9b9a-c859c8258a73"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="315802" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/315802/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/0db10451fd60457b873099b1b1e80dae?v=3aa1e824" stylelabs-content-type="Image" alt="Crowder_Rob_large.webp" height="430" width="1210" />
+    - ID: "a40ebd3d-2b41-41fb-90f7-753544ce77c5"
+      Hint: Hero Title1
+      Value: Rob Crowder
+    - ID: "ab91d39b-30ad-4050-acef-07c741146fcc"
+      Hint: Heading
+      Value: Rob Crowder
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T091520Z
+- Language: "es-MX"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220308T154022Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{FCA998C5-0CC3-4F91-94D8-0A4E6CAECE88}"
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Rob Crowder
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\matt
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: Rob Crowder is Vice President of Finance and Secretary CFO.
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <p>
+        Rob Crowder is Executive VP, Chief Administrative Officer and Secretary, responsible for the development of corporate policy and controls, accounting, risk management, tax and information technology at AFL. In addition, he is responsible for the overall internal control environment of all group companies comprising America Fujikura Ltd which include AFL, Fujikura Automotive America (FAA) and Fujikura America (FAI). He is also a Director of America Fujikura Ltd.
+        </p>
+        <p>
+        Rob has played an important role in AFL’s strategic initiatives and corporate transactions, including 21 acquisitions – the most-recently acquired Longleaf, Beam Wireless, OTS and Spligitty Fiber. He also has been involved in acquiring interests in strategic investments including FiberRise and Vitruvi. He also has been involved in the AFL’s continuing efforts to evaluate its businesses and make appropriate adjustments. Finally, Rob has negotiated new finance agreements to ensure the Company has sufficient liquidity to fund its working capital and capital expenditures as it continues to experience rapid growth.
+        </p>
+        <p>
+        With almost 35 years of financial management experience gained in both domestic and international manufacturing environments, Rob previously held financial management positions with Celestica, a multinational electronics manufacturing services company, and Greif Corporation, a global provider of industrial packaging. Immediately prior to joining AFL, he served as corporate controller at KEMET Corporation, an electronic components manufacturer.
+        </p>
+        <p>
+        Rob is a graduate of the College of William and Mary where he earned a Bachelor of Business Administration. He is also a certified public accountant. Rob has served on the Board of Directors for Habitat for Humanity of Greenville, most recently as Chairman and Audit Committee Chairman.  Rob is also involved with the American Heart Association taking part annually in the AHA Beach Ride. Finally, Rob serves as a Service Usher at his church.
+        </p>
+        <p> </p>
+        <p>
+        <a href="/Company/Company-Profile/Leadership-Team/">< Back to Leadership Page</a></p>
+    - ID: "5d336bce-e421-4fe8-ad55-214f80d841ad"
+      Hint: "Sub-Heading"
+      Value: Executive VP, Chief Administrative Officer and Secretary
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Rob
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: AFL Rob Crowder is Vice President of Finance and Secretary CFO
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: Rob Crowder is AFL's Executive VP, Chief Administrative Officer and Secretary
+    - ID: "612fc437-a34e-408c-a80f-a3ce18887805"
+      Hint: SuggestionBoxRedirectIcon
+      Value: |
+        <image mediaid="{5A901871-5681-4DAD-ABC1-FB375934B088}" alt="Suggestion Box" height="" width="" hspace="" vspace="" />
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: Rob Crowder is AFL's Executive VP, Chief Administrative Officer and Secretary
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "bf2d2e91-4470-4938-acde-fdf07d7c8a8c"
+    - ID: "93dc88f3-05e5-482d-9b9a-c859c8258a73"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="315802" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/315802/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/0db10451fd60457b873099b1b1e80dae?v=3aa1e824" stylelabs-content-type="Image" alt="Crowder_Rob_large.webp" height="430" width="1210" />
+    - ID: "a40ebd3d-2b41-41fb-90f7-753544ce77c5"
+      Hint: Hero Title1
+      Value: Rob Crowder
+    - ID: "ab91d39b-30ad-4050-acef-07c741146fcc"
+      Hint: Heading
+      Value: Rob Crowder
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T091520Z
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220308T154022Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{FCA998C5-0CC3-4F91-94D8-0A4E6CAECE88}"
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Rob Crowder
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\matt
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: Rob Crowder is Vice President of Finance and Secretary CFO.
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <p>
+        Rob Crowder is Executive VP, Chief Administrative Officer and Secretary, responsible for the development of corporate policy and controls, accounting, risk management, tax and information technology at AFL. In addition, he is responsible for the overall internal control environment of all group companies comprising America Fujikura Ltd which include AFL, Fujikura Automotive America (FAA) and Fujikura America (FAI). He is also a Director of America Fujikura Ltd.
+        </p>
+        <p>
+        Rob has played an important role in AFL’s strategic initiatives and corporate transactions, including 21 acquisitions – the most-recently acquired Longleaf, Beam Wireless, OTS and Spligitty Fiber. He also has been involved in acquiring interests in strategic investments including FiberRise and Vitruvi. He also has been involved in the AFL’s continuing efforts to evaluate its businesses and make appropriate adjustments. Finally, Rob has negotiated new finance agreements to ensure the Company has sufficient liquidity to fund its working capital and capital expenditures as it continues to experience rapid growth.
+        </p>
+        <p>
+        With almost 35 years of financial management experience gained in both domestic and international manufacturing environments, Rob previously held financial management positions with Celestica, a multinational electronics manufacturing services company, and Greif Corporation, a global provider of industrial packaging. Immediately prior to joining AFL, he served as corporate controller at KEMET Corporation, an electronic components manufacturer.
+        </p>
+        <p>
+        Rob is a graduate of the College of William and Mary where he earned a Bachelor of Business Administration. He is also a certified public accountant. Rob has served on the Board of Directors for Habitat for Humanity of Greenville, most recently as Chairman and Audit Committee Chairman.  Rob is also involved with the American Heart Association taking part annually in the AHA Beach Ride. Finally, Rob serves as a Service Usher at his church.
+        </p>
+        <p> </p>
+        <p>
+        <a href="/Company/Company-Profile/Leadership-Team/">< Back to Leadership Page</a></p>
+    - ID: "5d336bce-e421-4fe8-ad55-214f80d841ad"
+      Hint: "Sub-Heading"
+      Value: Executive VP, Chief Administrative Officer and Secretary
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Rob
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: AFL Rob Crowder is Vice President of Finance and Secretary CFO
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: Rob Crowder is AFL's Executive VP, Chief Administrative Officer and Secretary
+    - ID: "612fc437-a34e-408c-a80f-a3ce18887805"
+      Hint: SuggestionBoxRedirectIcon
+      Value: |
+        <image mediaid="{5A901871-5681-4DAD-ABC1-FB375934B088}" alt="Suggestion Box" height="" width="" hspace="" vspace="" />
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: Rob Crowder is AFL's Executive VP, Chief Administrative Officer and Secretary
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "90188c9b-933b-4c0d-9948-5b918db1391e"
+    - ID: "93dc88f3-05e5-482d-9b9a-c859c8258a73"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="315802" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/315802/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/0db10451fd60457b873099b1b1e80dae?v=3aa1e824" stylelabs-content-type="Image" alt="Crowder_Rob_large.webp" height="430" width="1210" />
+    - ID: "a40ebd3d-2b41-41fb-90f7-753544ce77c5"
+      Hint: Hero Title1
+      Value: Rob Crowder
+    - ID: "ab91d39b-30ad-4050-acef-07c741146fcc"
+      Hint: Heading
+      Value: Rob Crowder
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T091520Z

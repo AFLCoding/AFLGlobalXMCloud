@@ -1,0 +1,135 @@
+@import "@sass/abstracts/vars";
+@import "@sass/abstracts/mixins";
+
+$productcard: ".product-carousel";
+
+#{$productcard} {
+    padding-left: $middle-padding;
+    padding-right: $middle-padding;
+    width: 100%;
+    border-bottom: $default-padding solid;
+    background: $text-light;
+    border-image-source: linear-gradient(to right, $text-blue-medium, $text-light-blue);
+    border-image-slice: 1;
+
+    @include respond-to(426) {
+        padding: 0 var(--size-97) 0 var(--size-97);
+    }
+
+    @include respond-to(md) {
+        border-bottom: var(--size-20) solid;
+    }
+
+    @include respond-to(lg){
+        padding: 0 var(--size-97) var(--size-200) var(--size-97);
+    }
+
+    @include respond-to(xl) {
+        padding: 0 0 var(--size-200) 0;
+    }
+
+    &__title {
+        font-size: var(--size-76);
+        font-weight: bold;
+        color: $text-blue-darker;
+        padding-top: $default-padding;
+        margin-bottom: $middle-margin;
+        letter-spacing: var(--space-7);
+    }
+
+    &__imagewrapper {
+        height: var(--size-165);
+        width: var(--size-165);
+        padding: $normal-padding;
+        border-radius: $font-middle;
+        background: #fff;
+        display: flex;
+        margin: 0;
+        justify-content: center;
+        position: relative;
+        border: var(--space-1) solid #ccc;
+
+        @include respond-to(426) {
+            margin: 0 var(--size-20) $medium-margin var(--size-20);
+        }
+
+        @include respond-to(md) {
+            height: var(--size-204);
+            width: var(--size-220);;
+        }
+
+        @include respond-to(lg) {
+            height: var(--size-285);
+            width: var(--size-300);
+            margin: 0;
+        }
+
+        @include respond-to(xl) {
+            margin: 0 var(--size-20) $medium-margin var(--size-20);
+            height: var(--size-328);
+            width: var(--size-332);;
+        }
+
+        .imagecontainer {
+            align-items: center;
+            display: flex;
+            justify-content: center;
+            width: 100%;
+            height: 100%;
+
+            .image {
+                display: flex;
+                width: 100%;
+                height: 100%;
+
+                img {
+                    display: block;
+                    width: 100%;
+                    object-fit: contain;
+                    object-position: center;
+                    height: auto;
+                }
+            }
+        }
+    }
+
+    &__textwrapper {
+        line-height: var(--size-120);
+        display: inline-block;
+
+        .text {
+            font-size: $font-extrasmall;
+            color: $text-blue;
+            text-transform: uppercase;
+            font-weight: var(--font-weight-300);
+            letter-spacing: var(--space-08);
+            position: relative;
+            margin: 0;
+            border-bottom: none;
+            text-decoration: none;
+            display: -webkit-box;
+            -webkit-line-clamp: 1;
+            -webkit-box-orient: vertical;
+            overflow: hidden;
+            width: var(--size-168);
+            text-overflow: ellipsis;
+
+            @include respond-to(426) {
+                font-size: $font-basic;
+                margin: 0 var(--size-20);
+            }
+
+            @include respond-to(md) {
+                font-size: $font-small;
+                margin: 0 $font-extrasmall;
+                width: var(--size-222);
+            }
+
+            @include respond-to(lg) {
+                font-size: $breadcrumb-font;
+                margin: 0 $middle-margin 0 $font-basic;
+                width: var(--size-335);
+            }
+        }
+    }
+}

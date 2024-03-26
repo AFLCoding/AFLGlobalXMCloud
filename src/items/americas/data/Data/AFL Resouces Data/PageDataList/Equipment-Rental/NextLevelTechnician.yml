@@ -1,0 +1,154 @@
+﻿---
+ID: "9f35108b-e336-4c21-b199-84a181fd3964"
+Parent: "0df046c3-a110-4eb9-99c4-6f890e6d8f6d"
+Template: "38f171ae-e199-410f-9a56-8e0e4433111e"
+Path: "/sitecore/content/AFL-Global/AMERICAS/Data/AFL Resouces Data/PageDataList/Equipment-Rental/NextLevelTechnician"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0b2c42c5-a801-4d58-99a7-94d53aa09d34"
+      Hint: PageItemUrl
+      Value: |
+        <link text="NLT" linktype="external" url="https://nextleveltechnician.myshopify.com/" anchor="" target="_blank" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211226T130534Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\archana
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\archana
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0c77209c-278d-46d6-abac-1bfd2734cba0"
+    - ID: "97cbee95-7bbc-42da-b0f5-3e15b4d914f0"
+      Hint: PageItemImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="322676" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/322676/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/NextLevelTechnician?v=e8390d6c" stylelabs-content-type="Image" alt="NextLevelTechnician.jpg" height="100" width="200" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rafael
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230926T134119Z
+    - ID: "e3af6d69-bc0f-4746-94f6-a8d42f3f4a48"
+      Hint: PageItemTitle
+      Value: "+1 (704) 405-7433"
+- Language: "es-MX"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0b2c42c5-a801-4d58-99a7-94d53aa09d34"
+      Hint: PageItemUrl
+      Value: |
+        <link text="NLT" linktype="external" url="https://nextleveltechnician.myshopify.com/" anchor="" target="_blank" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211226T130534Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\archana
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "257e14f3-62ac-4e2a-aac5-fe6f6619ed1c"
+    - ID: "97cbee95-7bbc-42da-b0f5-3e15b4d914f0"
+      Hint: PageItemImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="322676" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/322676/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/NextLevelTechnician?v=dd6cdeb2" stylelabs-content-type="Image" alt="NextLevelTechnician.jpg" height="100" width="200" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rob
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230926T125654Z
+    - ID: "e3af6d69-bc0f-4746-94f6-a8d42f3f4a48"
+      Hint: PageItemTitle
+      Value: "+1 (704) 405-7433"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0b2c42c5-a801-4d58-99a7-94d53aa09d34"
+      Hint: PageItemUrl
+      Value: |
+        <link text="RenTelco" linktype="external" url="https://www.trsrentelco.com/" anchor="" target="_blank" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211226T130534Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\archana
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "45c2e349-df32-4734-a564-ad6ca2e27be9"
+    - ID: "97cbee95-7bbc-42da-b0f5-3e15b4d914f0"
+      Hint: PageItemImage
+      Value: |
+        <image mediaid="{41DB85F3-382C-4DBD-8579-6AF4FC938EE4}" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahesh
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220215T094932Z
+    - ID: "e3af6d69-bc0f-4746-94f6-a8d42f3f4a48"
+      Hint: PageItemTitle
+      Value: "+1 (800) 874-7123"
+  - Version: 2
+    Fields:
+    - ID: "0b2c42c5-a801-4d58-99a7-94d53aa09d34"
+      Hint: PageItemUrl
+      Value: |
+        <link text="NLT" linktype="external" url="https://nextleveltechnician.myshopify.com/" anchor="" target="_blank" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211226T130534Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\archana
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "01c5f032-b4be-4ea8-b984-4e8f55e37a5b"
+    - ID: "97cbee95-7bbc-42da-b0f5-3e15b4d914f0"
+      Hint: PageItemImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="322676" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/322676/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/NextLevelTechnician?v=60819074" stylelabs-content-type="Image" alt="NextLevelTechnician.jpg" height="100" width="200" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rob
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230926T125614Z
+    - ID: "e3af6d69-bc0f-4746-94f6-a8d42f3f4a48"
+      Hint: PageItemTitle
+      Value: "+1 (704) 405-7433"

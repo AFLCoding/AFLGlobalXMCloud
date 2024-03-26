@@ -1,0 +1,269 @@
+﻿---
+ID: "1f686940-cb4b-402d-ac11-c109d46d1128"
+Parent: "43bb2b16-b4b1-4f66-a9ae-85faa3e7605f"
+Template: "2893fa48-e32b-4a62-be28-2389643c09bc"
+Path: "/sitecore/content/AFL-Global/AMERICAS/Data/AFL Resouces Data/AFL VideoList Data/AFL SkyWrap Attached Fiber Optic Cable System for Aerial Powerlines-French Version"
+Languages:
+- Language: "de-DE"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211230T134759Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Abhishek
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\tanishka
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4b0b4ab9-f1ea-4280-ba76-70d1f1c2d695"
+    - ID: "a6703c78-a7f9-43e5-bda1-4319c53ca485"
+      Hint: VideoImage
+      Value: |
+        <image stylelabs-content-id="237955" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/237955/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/101b82f0b7914f9aab64710637751357?v=34014394" mediaid="" stylelabs-content-type="Image" alt="Video_Icon.png" height="287" width="339" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "c7606be7-7b4d-4b10-beb1-37105934e9c2"
+      Hint: VideoName
+      Value: "French - SkyWrap Attached Fiber Optic Cable System for Aerial Powerlines"
+    - ID: "cc39e4d4-9c1a-446c-940c-fae85c60a139"
+      Hint: VideoUrl
+      Value: |
+        <link linktype="external" url="https://youtu.be/KCqdN0Lacwo" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231212T090152Z
+    - ID: "f049ad62-07b5-434b-95c2-056171420f06"
+      Hint: VideoCategory
+      Value: Video
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211230T134759Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\tanishka
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\tanishka
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7c14e820-60ec-4474-a40f-98fda699734b"
+    - ID: "a6703c78-a7f9-43e5-bda1-4319c53ca485"
+      Hint: VideoImage
+      Value: |
+        <image stylelabs-content-id="237955" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/237955/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/101b82f0b7914f9aab64710637751357?v=34014394" mediaid="" stylelabs-content-type="Image" alt="Video_Icon.png" height="287" width="339" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rob
+    - ID: "c7606be7-7b4d-4b10-beb1-37105934e9c2"
+      Hint: VideoName
+      Value: "French - SkyWrap Attached Fiber Optic Cable System for Aerial Powerlines"
+    - ID: "cc39e4d4-9c1a-446c-940c-fae85c60a139"
+      Hint: VideoUrl
+      Value: |
+        <link linktype="external" url="https://youtu.be/KCqdN0Lacwo" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220510T142651Z
+    - ID: "f049ad62-07b5-434b-95c2-056171420f06"
+      Hint: VideoCategory
+      Value: Video
+- Language: "es-ES"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211230T134759Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Abhishek
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\tanishka
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "bc4d2abf-3f71-45d9-9057-f673cc233d53"
+    - ID: "a6703c78-a7f9-43e5-bda1-4319c53ca485"
+      Hint: VideoImage
+      Value: |
+        <image stylelabs-content-id="237955" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/237955/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/101b82f0b7914f9aab64710637751357?v=34014394" mediaid="" stylelabs-content-type="Image" alt="Video_Icon.png" height="287" width="339" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "c7606be7-7b4d-4b10-beb1-37105934e9c2"
+      Hint: VideoName
+      Value: "French - SkyWrap Attached Fiber Optic Cable System for Aerial Powerlines"
+    - ID: "cc39e4d4-9c1a-446c-940c-fae85c60a139"
+      Hint: VideoUrl
+      Value: |
+        <link linktype="external" url="https://youtu.be/KCqdN0Lacwo" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231212T090113Z
+    - ID: "f049ad62-07b5-434b-95c2-056171420f06"
+      Hint: VideoCategory
+      Value: Video
+- Language: "es-MX"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211230T134759Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\tanishka
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "94b8468b-0888-41b6-a878-5c00251bbe99"
+    - ID: "a6703c78-a7f9-43e5-bda1-4319c53ca485"
+      Hint: VideoImage
+      Value: |
+        <image stylelabs-content-id="237955" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/237955/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/101b82f0b7914f9aab64710637751357?v=34014394" mediaid="" stylelabs-content-type="Image" alt="Video_Icon.png" height="287" width="339" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "c7606be7-7b4d-4b10-beb1-37105934e9c2"
+      Hint: VideoName
+      Value: "French - SkyWrap Attached Fiber Optic Cable System for Aerial Powerlines"
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "cc39e4d4-9c1a-446c-940c-fae85c60a139"
+      Hint: VideoUrl
+      Value: |
+        <link linktype="external" url="https://youtu.be/KCqdN0Lacwo" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231212T085837Z
+    - ID: "f049ad62-07b5-434b-95c2-056171420f06"
+      Hint: VideoCategory
+      Value: Video
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211230T134759Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\tanishka
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f543ba8c-dd4d-429c-a3d4-a6d6164371e9"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahesh
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220215T094829Z
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211230T134759Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\tanishka
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "88a75777-cb14-4d8e-a792-635de1ab337e"
+    - ID: "a6703c78-a7f9-43e5-bda1-4319c53ca485"
+      Hint: VideoImage
+      Value: |
+        <image stylelabs-content-id="237955" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/237955/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/101b82f0b7914f9aab64710637751357?v=34014394" mediaid="" stylelabs-content-type="Image" alt="Video_Icon.png" height="287" width="339" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "c7606be7-7b4d-4b10-beb1-37105934e9c2"
+      Hint: VideoName
+      Value: "French - SkyWrap Attached Fiber Optic Cable System for Aerial Powerlines"
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "cc39e4d4-9c1a-446c-940c-fae85c60a139"
+      Hint: VideoUrl
+      Value: |
+        <link linktype="external" url="https://youtu.be/KCqdN0Lacwo" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231212T085837Z
+    - ID: "f049ad62-07b5-434b-95c2-056171420f06"
+      Hint: VideoCategory
+      Value: Video
+- Language: "fr-FR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211230T134759Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Abhishek
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\tanishka
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5e8953e8-e2ef-4e5a-b2ed-9f2864eea207"
+    - ID: "a6703c78-a7f9-43e5-bda1-4319c53ca485"
+      Hint: VideoImage
+      Value: |
+        <image stylelabs-content-id="237955" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/237955/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/101b82f0b7914f9aab64710637751357?v=34014394" mediaid="" stylelabs-content-type="Image" alt="Video_Icon.png" height="287" width="339" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "c7606be7-7b4d-4b10-beb1-37105934e9c2"
+      Hint: VideoName
+      Value: "French - SkyWrap Attached Fiber Optic Cable System for Aerial Powerlines"
+    - ID: "cc39e4d4-9c1a-446c-940c-fae85c60a139"
+      Hint: VideoUrl
+      Value: |
+        <link linktype="external" url="https://youtu.be/KCqdN0Lacwo" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231212T090031Z
+    - ID: "f049ad62-07b5-434b-95c2-056171420f06"
+      Hint: VideoCategory
+      Value: Video

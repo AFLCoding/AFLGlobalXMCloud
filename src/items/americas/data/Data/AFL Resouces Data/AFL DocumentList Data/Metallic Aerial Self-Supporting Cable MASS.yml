@@ -1,0 +1,166 @@
+﻿---
+ID: "1c1009e9-8b56-42d4-b165-d4367b5a9824"
+Parent: "27824172-4f4e-4db4-940f-93b6bc7ae597"
+Template: "8ad683ef-9f7b-4e70-9889-f7de776efcd1"
+Path: "/sitecore/content/AFL-Global/AMERICAS/Data/AFL Resouces Data/AFL DocumentList Data/Metallic Aerial Self-Supporting Cable MASS"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211229T230146Z
+    - ID: "2a77143b-5f39-4484-aa64-809bb2437a2d"
+      Hint: DocumentImage
+      Value: |
+        <image mediaid="{2B373149-5355-4809-BABE-840005D8E6D9}" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\tanishka
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\tanishka
+    - ID: "753787de-69ba-48a5-bcf3-7cf5ff76dbe3"
+      Hint: DocumentCategory
+      Value: Document
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5ebbdcbd-d0c7-4a84-afe0-9ac5ef1a88be"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "bb05fc15-c7f5-46f0-8d9d-7b2e1daa5ac2"
+      Hint: DocumentUrl
+      Value: |
+        <link text="VIEW" linktype="external" url="https://afl-delivery.stylelabs.cloud/api/public/content/931da9af73444d4a964f211309ae3d4a?v=86bd46a4" anchor="" target="_blank" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230918T210034Z
+    - ID: "fcf19fc4-51cd-4751-9cda-9c4be675800d"
+      Hint: DocumentName
+      Value: "Metallic Aerial Self-Supporting Cable (MASS)"
+- Language: "es-MX"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211229T230146Z
+    - ID: "2a77143b-5f39-4484-aa64-809bb2437a2d"
+      Hint: DocumentImage
+      Value: |
+        <image mediaid="{2B373149-5355-4809-BABE-840005D8E6D9}" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\tanishka
+    - ID: "753787de-69ba-48a5-bcf3-7cf5ff76dbe3"
+      Hint: DocumentCategory
+      Value: Document
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7e994eb4-a2d1-415e-bc1d-578de07c5619"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "bb05fc15-c7f5-46f0-8d9d-7b2e1daa5ac2"
+      Hint: DocumentUrl
+      Value: |
+        <link text="VIEW" linktype="external" url="https://afl-delivery.stylelabs.cloud/api/public/content/931da9af73444d4a964f211309ae3d4a?v=86bd46a4" anchor="" target="_blank" />
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230921T084216Z
+    - ID: "fcf19fc4-51cd-4751-9cda-9c4be675800d"
+      Hint: DocumentName
+      Value: "Metallic Aerial Self-Supporting Cable (MASS)"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211229T230146Z
+    - ID: "2a77143b-5f39-4484-aa64-809bb2437a2d"
+      Hint: DocumentImage
+      Value: |
+        <image mediaid="{2B373149-5355-4809-BABE-840005D8E6D9}" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\tanishka
+    - ID: "753787de-69ba-48a5-bcf3-7cf5ff76dbe3"
+      Hint: DocumentCategory
+      Value: Document
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b7025abd-8831-4f52-9587-27b10c38e412"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahesh
+    - ID: "bb05fc15-c7f5-46f0-8d9d-7b2e1daa5ac2"
+      Hint: DocumentUrl
+      Value: |
+        <link text="VIEW" linktype="external" url="https://www.aflglobal.com/productlist/Product-Lines/Fiber-Optic-Cable/Metallic-Aerial-Self-Supporting-(MASS)-Cable/doc/Metallic-Aerial-Self-Supporting-Cable-(MASS).aspx" anchor="" target="_blank" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220215T094733Z
+    - ID: "fcf19fc4-51cd-4751-9cda-9c4be675800d"
+      Hint: DocumentName
+      Value: "Metallic Aerial Self-Supporting Cable (MASS)"
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211229T230146Z
+    - ID: "2a77143b-5f39-4484-aa64-809bb2437a2d"
+      Hint: DocumentImage
+      Value: |
+        <image mediaid="{2B373149-5355-4809-BABE-840005D8E6D9}" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\tanishka
+    - ID: "753787de-69ba-48a5-bcf3-7cf5ff76dbe3"
+      Hint: DocumentCategory
+      Value: Document
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d8952fc5-b47b-4653-8c63-f2003f1c6e73"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "bb05fc15-c7f5-46f0-8d9d-7b2e1daa5ac2"
+      Hint: DocumentUrl
+      Value: |
+        <link text="VIEW" linktype="external" url="https://afl-delivery.stylelabs.cloud/api/public/content/931da9af73444d4a964f211309ae3d4a?v=86bd46a4" anchor="" target="_blank" />
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230921T084215Z
+    - ID: "fcf19fc4-51cd-4751-9cda-9c4be675800d"
+      Hint: DocumentName
+      Value: "Metallic Aerial Self-Supporting Cable (MASS)"

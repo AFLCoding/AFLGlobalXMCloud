@@ -1,0 +1,188 @@
+﻿---
+ID: "5feafab0-560d-489e-aba0-0156dbf3d126"
+Parent: "231b4589-f8fc-498f-b0f6-64fabecbc7b9"
+Template: "231b4589-f8fc-498f-b0f6-64fabecbc7b9"
+Path: /sitecore/templates/Feature/AFL Page Templates/PDP Page/__Standard Values
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Network/32x32/node.png
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {506098A9-F48F-4041-B144-E47BFB31A67A}
+    {C14B6289-8AC2-439C-9E5B-40DE9F820C3F}
+    {412D3E0A-CF85-4B54-9A5D-384B8516E342}
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{0A9C6A26-4C19-46FF-A510-A43BF69D1246}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 300
+- ID: "ca9b9f52-4fb0-4f87-a79f-24dea62cda65"
+  Hint: __Default workflow
+  Value: "{0A9C6A26-4C19-46FF-A510-A43BF69D1246}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211202T162336Z
+    - ID: "41226286-5d9e-4f56-b67e-a86305f63ef2"
+      Hint: HeroLink4
+      Value: |
+        <link text="Get a Quote" linktype="anchor" url="alf-Form-section" anchor="alf-Form-section" title="" class="" />
+    - ID: "58d47758-922c-4daa-95ae-3cb9c3fee186"
+      Hint: HeroLink3
+      Value: |
+        <link text="Resources" linktype="anchor" url="alf-Resources-section" anchor="alf-Resources-section" title="" class="" />
+    - ID: "59ec008e-95ec-4c06-9189-09d4acaf1d7e"
+      Hint: ProductCategory
+      Value: $parentname
+    - ID: "72653cc9-973c-4682-b5c7-26d926959f8f"
+      Hint: ProductImage
+      Value: |
+        <image stylelabs-content-id="71602" stylelabs-content-type="Image" alt="AFL_Logo" src="https://afl-delivery.stylelabs.cloud/api/public/content/AFL_Logo?v=4fe8dfe5" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/71602/thumbnail" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7360af11-43a7-4703-a7d6-76358d0d0ea8"
+    - ID: "b0b3b4da-e924-4a2d-be19-ec90a4e96f16"
+      Hint: HeroLink2
+      Value: |
+        <link text="Description" linktype="anchor" url="alf-description-section" anchor="alf-description-section" title="" class="" />
+    - ID: "b9f9f593-7299-41ca-94d0-cb5fcdbd6fba"
+      Hint: HeroLink1
+      Value: |
+        <link text="Features" linktype="anchor" url="alf-feature-section" anchor="alf-feature-section" title="" class="" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sripada
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230424T132254Z
+- Language: "es-MX"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220610T122016Z
+    - ID: "41226286-5d9e-4f56-b67e-a86305f63ef2"
+      Hint: HeroLink4
+      Value: |
+        <link text="Get a Quote" linktype="anchor" url="alf-Form-section" anchor="alf-Form-section" title="" class="" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rgiri
+    - ID: "58d47758-922c-4daa-95ae-3cb9c3fee186"
+      Hint: HeroLink3
+      Value: |
+        <link text="Resources" linktype="anchor" url="alf-Resources-section" anchor="alf-Resources-section" title="" class="" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rgiri
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5efac610-727c-4f07-97f0-943cccfebd19"
+    - ID: "b0b3b4da-e924-4a2d-be19-ec90a4e96f16"
+      Hint: HeroLink2
+      Value: |
+        <link text="Description" linktype="anchor" url="alf-description-section" anchor="alf-description-section" title="" class="" />
+    - ID: "b9f9f593-7299-41ca-94d0-cb5fcdbd6fba"
+      Hint: HeroLink1
+      Value: |
+        <link text="Features" linktype="anchor" url="alf-feature-section" anchor="alf-feature-section" title="" class="" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rgiri
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220610T122219Z
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220610T121055Z
+    - ID: "41226286-5d9e-4f56-b67e-a86305f63ef2"
+      Hint: HeroLink4
+      Value: |
+        <link text="Get a Quote" linktype="anchor" url="alf-Form-section" anchor="alf-Form-section" title="" class="" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rgiri
+    - ID: "58d47758-922c-4daa-95ae-3cb9c3fee186"
+      Hint: HeroLink3
+      Value: |
+        <link text="Resources" linktype="anchor" url="alf-Resources-section" anchor="alf-Resources-section" title="" class="" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rgiri
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "cab5f021-3eaf-4643-9d2a-4ca82994eefa"
+    - ID: "b0b3b4da-e924-4a2d-be19-ec90a4e96f16"
+      Hint: HeroLink2
+      Value: |
+        <link text="Description" linktype="anchor" url="alf-description-section" anchor="alf-description-section" title="" class="" />
+    - ID: "b9f9f593-7299-41ca-94d0-cb5fcdbd6fba"
+      Hint: HeroLink1
+      Value: |
+        <link text="Features" linktype="anchor" url="alf-feature-section" anchor="alf-feature-section" title="" class="" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rgiri
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220610T121747Z
+- Language: "fr-FR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220610T122256Z
+    - ID: "41226286-5d9e-4f56-b67e-a86305f63ef2"
+      Hint: HeroLink4
+      Value: |
+        <link text="Get a Quote" linktype="anchor" url="alf-Form-section" anchor="alf-Form-section" title="" class="" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rgiri
+    - ID: "58d47758-922c-4daa-95ae-3cb9c3fee186"
+      Hint: HeroLink3
+      Value: |
+        <link text="Resources" linktype="anchor" url="alf-Resources-section" anchor="alf-Resources-section" title="" class="" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rgiri
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "588c67fe-29c5-40fd-b6df-1a0a7d4658cb"
+    - ID: "b0b3b4da-e924-4a2d-be19-ec90a4e96f16"
+      Hint: HeroLink2
+      Value: |
+        <link text="Description" linktype="anchor" url="alf-description-section" anchor="alf-description-section" title="" class="" />
+    - ID: "b9f9f593-7299-41ca-94d0-cb5fcdbd6fba"
+      Hint: HeroLink1
+      Value: |
+        <link text="Features" linktype="anchor" url="alf-feature-section" anchor="alf-feature-section" title="" class="" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rgiri
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220610T122448Z

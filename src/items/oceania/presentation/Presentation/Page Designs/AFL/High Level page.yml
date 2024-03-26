@@ -1,0 +1,27 @@
+﻿---
+ID: "a997d8f2-abac-4814-8847-131700150f48"
+Parent: "f4abac50-ad10-429b-970c-7d59dc826bcf"
+Template: "6db5d952-edde-47d2-9694-3710dbfbd752"
+Path: "/sitecore/content/AFL-Global/OCEANIA/Presentation/Page Designs/AFL/High Level page"
+SharedFields:
+- ID: "0966b999-0d0e-4278-acc9-9da69d461fe6"
+  Hint: PartialDesigns
+  Value: "{685ECA8E-9441-401F-BF60-E8C394F24DAD}|{6DD0682E-8BCC-4597-B19E-9FBD9055A85B}|{4DDC85D5-3811-4115-8442-65E1F527A151}|{FD77758E-34AD-42FF-9CBE-935F3C87ABED}|{08301DCA-0A1E-4196-A8B0-FAD2B21561D6}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211111T065146Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "dd3adf64-1e2d-426c-acd0-592da5933546"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\archana
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220204T164940Z

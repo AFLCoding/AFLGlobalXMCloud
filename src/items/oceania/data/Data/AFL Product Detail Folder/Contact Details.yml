@@ -1,0 +1,75 @@
+﻿---
+ID: "2672ac21-bbca-4ed5-9353-52a84c619bf4"
+Parent: "df31d0b3-2381-4189-a1ad-cdc02b37c41b"
+Template: "011c02ab-49e7-41f0-8719-03034390bc25"
+Path: "/sitecore/content/AFL-Global/OCEANIA/Data/AFL Product Detail Folder/Contact Details"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 650
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211124T135101Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <p style="color: #333333; background-color: #ffffff; margin-right: 0px; margin-bottom: 15px; margin-left: 0px;">We would love to hear from you. Whether you need a&nbsp;<a href="https://www.aflglobal.com/Contact/Request-Quote.aspx" style="color: #0091ea; background-color: transparent;">quote</a>,&nbsp;<a href="https://www.aflglobal.com/Contact/Technical-Support.aspx" style="color: #0091ea; background-color: transparent;">technical support</a>&nbsp;or have an idea to improve our&nbsp;<a href="https://www.aflglobal.com/Contact/Website-Support.aspx" style="color: #0091ea; background-color: transparent;">website</a>, we are here to help. Planning a visit to one of our facilities? Check out our&nbsp;<a href="https://www.aflglobal.com/Contact/Locations.aspx" style="color: #0091ea; background-color: transparent;">locations</a>&nbsp;page.</p>
+        <br style="color: #333333; background-color: #ffffff;" />
+        <p style="color: #333333; background-color: #ffffff; margin: 0px 0px 15px; text-align: center;"><a class="AFLbutton" href="https://www.aflglobal.com/Contact/Request-Quote.aspx" style="color: #ffffff; background-color: #00c0f3; width: 200px; padding: 6px 24px; border: 0px;">Request a Quote&gt;</a></p>
+        <p style="color: #333333; background-color: #ffffff; margin: 0px 0px 15px; text-align: center;"><a class="AFLbutton" href="https://www.aflglobal.com/Contact/AFL-Distributors.aspx" style="color: #ffffff; background-color: #00c0f3; width: 200px; padding: 6px 24px; border: 0px;">Find a Distributor&gt;</a></p>
+        <p style="color: #333333; background-color: #ffffff; margin: 0px 0px 15px; text-align: center;"><a class="AFLbutton" href="https://www.aflglobal.com/Contact/AFL-Sales-Team.aspx" style="color: #ffffff; background-color: #00c0f3; width: 200px; padding: 6px 24px; border: 0px;">Find a Sales Rep&gt;</a></p>
+        <p style="color: #333333; background-color: #ffffff; margin: 0px 0px 15px; text-align: center;"><a class="AFLbutton" href="https://www.aflglobal.com/Contact/Locations.aspx" title="AFL Locations" style="color: #ffffff; background-color: #00c0f3; width: 200px; padding: 6px 24px; border: 0px;">Find a Location&gt;</a></p>
+        <p style="color: #333333; background-color: #ffffff; margin: 0px 0px 15px; text-align: center;"><a class="AFLbutton" href="https://www.aflglobal.com/Contact/Technical-Support.aspx" title="Technical Support Request Form" style="color: #ffffff; background-color: #00c0f3; width: 200px; padding: 6px 24px; border: 0px;">Technical Support&gt;</a></p>
+        <p style="color: #333333; background-color: #ffffff; margin: 0px 0px 15px; text-align: center;"><a class="AFLbutton" href="https://www.aflglobal.com/Contact/Website-Support.aspx" title="Website Support Request Form" style="color: #ffffff; background-color: #00c0f3; width: 200px; padding: 6px 24px; border: 0px;">Website Support&gt;</a></p>
+        <span style="background-color: #ffffff; color: #333333;"></span>
+        <p style="color: #333333; background-color: #ffffff; margin: 0px 0px 15px;">&nbsp;</p>
+        <p style="color: #333333; background-color: #ffffff; margin: 0px 0px 15px;">&nbsp;</p>
+        <div style="color: #333333; background-color: #ffffff; margin-right: auto; margin-left: auto; padding-left: 50px;">
+        <p style="margin-right: 0px; margin-bottom: 15px; margin-left: 0px;">You can also connect with us on:</p>
+        <div style="width: 600px; padding-left: 120px;">
+        <div style="width: 190px;">
+        <h3 style="color: #282828; margin: 0px; padding: 3px;"><a rel="noopener noreferrer" href="https://www.linkedin.com/company/afl-2" target="_blank" style="color: #0091ea; background-color: transparent;"><img alt="" class="socialIcon" id="iconLinkedIn" src="https://www.aflglobal.com/productionFiles/images/iconLinkedIn.aspx" style="margin: 0px 2px 0px 0px; border: 0px;" />LinkedIn</a></h3>
+        <h3 style="color: #282828; margin: 0px; padding: 3px;"><a rel="noopener noreferrer" href="https://www.facebook.com/AFLcorp" target="_blank" style="color: #0091ea; background-color: transparent;"><img alt="" class="socialIcon" id="iconFacebook" src="https://www.aflglobal.com/productionFiles/images/iconFacebook.aspx" style="margin: 0px 2px 0px 0px; border: 0px;" />Facebook</a></h3>
+        <h3 style="color: #282828; margin: 0px; padding: 3px;"><a rel="noopener noreferrer" href="https://twitter.com/AFLglobal" target="_blank" style="color: #0091ea; background-color: transparent;"><img alt="" class="socialIcon" id="iconTwitter" src="https://www.aflglobal.com/productionFiles/images/iconTwitter.aspx" style="margin: 0px 2px 0px 0px; border: 0px;" />Twitter</a></h3>
+        <h3 style="color: #282828; margin: 0px; padding: 3px;"><a rel="noopener noreferrer" href="https://www.instagram.com/photos.afl/" target="_blank" style="color: #0091ea; background-color: transparent;"><img alt="" class="socialIcon" id="iconTwitter" src="https://www.aflglobal.com/productionFiles/images/icon-instagram.aspx" style="margin: 0px 2px 0px 0px; border: 0px;" />Instagram</a></h3>
+        </div>
+        <div style="width: 190px;">
+        <h3 style="color: #282828; margin: 0px; padding: 3px;"><a rel="noopener noreferrer" href="https://www.youtube.com/user/AFLGlobal" target="_blank" style="color: #0091ea; background-color: transparent;"><img alt="" class="socialIcon" id="iconYouTube" src="https://www.aflglobal.com/productionFiles/images/iconYouTube.aspx" style="margin: 0px 2px 0px 0px; border: 0px;" />YouTube</a></h3>
+        <h3 style="color: #282828; margin: 0px; padding: 3px;"><a rel="noopener noreferrer" href="https://www.flickr.com/photos/aflglobal/" target="_blank" style="color: #0091ea; background-color: transparent;"><img alt="" class="socialIcon" id="iconFlickr" src="https://www.aflglobal.com/productionFiles/images/iconFlickr.aspx" style="margin: 0px 2px 0px 0px; border: 0px;" />Flickr</a></h3>
+        <h3 style="color: #282828; margin: 0px; padding: 3px;"><a rel="noopener noreferrer" href="https://www.pinterest.com/aflglobal/" target="_blank" style="color: #0091ea; background-color: transparent;"><img alt="" class="socialIcon" id="iconPinterest" src="https://www.aflglobal.com/productionFiles/images/icons/icon-pinterest.aspx" style="margin: 0px 2px 0px 0px; border: 0px;" />Pinterest</a></h3>
+        </div>
+        <p style="margin: 0px 0px 15px;">&nbsp;</p>
+        </div>
+        </div>
+        <div style="color: #333333; background-color: #ffffff;">
+        <p style="margin-right: 0px; margin-bottom: 15px; margin-left: 0px;">&nbsp;</p>
+        </div>
+    - ID: "5d336bce-e421-4fe8-ad55-214f80d841ad"
+      Hint: "Sub-Heading"
+      Value: "Contact Sub-heading"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d775f5d6-4896-46f8-b5bc-ca6c05d2bce0"
+    - ID: "ab91d39b-30ad-4050-acef-07c741146fcc"
+      Hint: Heading
+      Value: Contact Heading
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20211124T152123Z

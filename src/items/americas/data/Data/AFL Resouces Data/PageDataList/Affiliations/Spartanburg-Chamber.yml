@@ -1,0 +1,150 @@
+﻿---
+ID: "c1e9ea35-2ac2-4da8-a1bb-fb35088fa0d7"
+Parent: "4ad5fe1b-c73a-493d-bb41-e70bc49de7e3"
+Template: "38f171ae-e199-410f-9a56-8e0e4433111e"
+Path: "/sitecore/content/AFL-Global/AMERICAS/Data/AFL Resouces Data/PageDataList/Affiliations/Spartanburg-Chamber"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0b2c42c5-a801-4d58-99a7-94d53aa09d34"
+      Hint: PageItemUrl
+      Value: |
+        <link text="Spartanburg Chamber" linktype="external" url="http://www.spartanburgchamber.com/" anchor="" target="_blank" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211229T122855Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\harry
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\harry
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5997a7d7-1fef-40a8-bf1a-9bddf0526309"
+    - ID: "97cbee95-7bbc-42da-b0f5-3e15b4d914f0"
+      Hint: PageItemImage
+      Value: |
+        <image stylelabs-content-id="168667" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/168667/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/spartanburg?v=3c8171ab" mediaid="" stylelabs-content-type="Image" alt="Spartanburg-Chamber.png" height="100" width="100" />
+    - ID: "a2b5de22-5ad8-4740-a215-0b022607eb8a"
+      Hint: PageItemName
+      Value: Spartanburg Chamber
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rob
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220824T174923Z
+- Language: "es-MX"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0b2c42c5-a801-4d58-99a7-94d53aa09d34"
+      Hint: PageItemUrl
+      Value: |
+        <link linktype="external" url="http://www.spartanburgchamber.com/" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211229T122855Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\harry
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f63695f0-494e-432c-8790-c2d91a247dd1"
+    - ID: "97cbee95-7bbc-42da-b0f5-3e15b4d914f0"
+      Hint: PageItemImage
+      Value: |
+        <image stylelabs-content-id="168667" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/168667/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/spartanburg?v=2ddbfa3b" mediaid="" stylelabs-content-type="Image" alt="Spartanburg-Chamber.png" height="100" width="100" />
+    - ID: "a2b5de22-5ad8-4740-a215-0b022607eb8a"
+      Hint: PageItemName
+      Value: Spartanburg Chamber
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rob
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220824T174910Z
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0b2c42c5-a801-4d58-99a7-94d53aa09d34"
+      Hint: PageItemUrl
+      Value: |
+        <link linktype="external" url="http://www.spartanburgchamber.com/" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211229T122855Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\harry
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d0201bde-ac54-4e8c-bc44-b71dc827687c"
+    - ID: "a2b5de22-5ad8-4740-a215-0b022607eb8a"
+      Hint: PageItemName
+      Value: "Spartanburg-Chamber"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahesh
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220215T094913Z
+  - Version: 2
+    Fields:
+    - ID: "0b2c42c5-a801-4d58-99a7-94d53aa09d34"
+      Hint: PageItemUrl
+      Value: |
+        <link linktype="external" url="http://www.spartanburgchamber.com/" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211229T122855Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\harry
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "94ac23c5-87ae-4bbc-b9fd-0ae6bd825cd9"
+    - ID: "97cbee95-7bbc-42da-b0f5-3e15b4d914f0"
+      Hint: PageItemImage
+      Value: |
+        <image stylelabs-content-id="168667" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/168667/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/spartanburg?v=3c8171ab" mediaid="" stylelabs-content-type="Image" alt="Spartanburg-Chamber.png" height="100" width="100" />
+    - ID: "a2b5de22-5ad8-4740-a215-0b022607eb8a"
+      Hint: PageItemName
+      Value: "Spartanburg-Chamber"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahesh
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220310T075443Z

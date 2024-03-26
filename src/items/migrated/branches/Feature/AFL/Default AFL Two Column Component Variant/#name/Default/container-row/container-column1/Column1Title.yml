@@ -1,0 +1,41 @@
+﻿---
+ID: "1b7ecc13-fe5d-4031-ba6c-5473ed4a470d"
+Parent: "44f59624-c4da-4f92-9e25-7ea8711caad6"
+Template: "fcd285da-9ab2-4c8d-b185-5a7487a9ba1b"
+Path: "/sitecore/templates/Branches/Feature/AFL/Default AFL Two Column Component Variant/$name/Default/container-row/container-column1/Column1Title"
+SharedFields:
+- ID: "4753764c-c05a-4623-841b-97f85135241c"
+  Hint: FieldName
+  Value: Column1Title
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+- ID: "db805bdc-8eec-4238-b174-2427b6f1f077"
+  Hint: Tag
+  Value: "{AD7A95FD-05D0-484E-8AFB-FB1DDD5F44AB}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220124T105634Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mahesh
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9a4a11b1-44e3-4571-ba98-46c9b9a3b83f"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahesh
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220124T111545Z

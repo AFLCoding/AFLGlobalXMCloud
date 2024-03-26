@@ -1,0 +1,132 @@
+﻿---
+ID: "64156296-5af6-4ce3-a537-00c03a6ba450"
+Parent: "27824172-4f4e-4db4-940f-93b6bc7ae597"
+Template: "8ad683ef-9f7b-4e70-9889-f7de776efcd1"
+Path: "/sitecore/content/AFL-Global/AMERICAS/Data/AFL Resouces Data/AFL DocumentList Data/PC-SERIES"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220628T094436Z
+    - ID: "2a77143b-5f39-4484-aa64-809bb2437a2d"
+      Hint: DocumentImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="237947" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/237947/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/974efb3940c9413a861d50d1d9a22979?v=5fccfb5e" stylelabs-content-type="Image" alt="Brochure_Icon.png" height="287" width="339" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "59ab1107-67cc-4227-9c61-0ede68d10b57"
+      Hint: DocumentViewTitle
+      Value: 277
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mahesh
+    - ID: "753787de-69ba-48a5-bcf3-7cf5ff76dbe3"
+      Hint: DocumentCategory
+      Value: Document
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0b4077c9-5829-41a7-ada6-969874caa653"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "bb05fc15-c7f5-46f0-8d9d-7b2e1daa5ac2"
+      Hint: DocumentUrl
+      Value: |
+        <link text="VIEW" linktype="external" url="https://afl-delivery.stylelabs.cloud/api/public/content/b8b0f5d291564105bac2d93854730144?v=bef1bc7f" anchor="" target="_blank" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230918T210043Z
+    - ID: "fcf19fc4-51cd-4751-9cda-9c4be675800d"
+      Hint: DocumentName
+      Value: "PC-SERIES"
+- Language: "es-MX"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220628T094436Z
+    - ID: "2a77143b-5f39-4484-aa64-809bb2437a2d"
+      Hint: DocumentImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="237947" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/237947/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/974efb3940c9413a861d50d1d9a22979?v=5fccfb5e" stylelabs-content-type="Image" alt="Brochure_Icon.png" height="287" width="339" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Abhishek
+    - ID: "59ab1107-67cc-4227-9c61-0ede68d10b57"
+      Hint: DocumentViewTitle
+      Value: 277
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mahesh
+    - ID: "753787de-69ba-48a5-bcf3-7cf5ff76dbe3"
+      Hint: DocumentCategory
+      Value: Document
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9b2e79ed-2023-4e30-8061-c2f7f152e44d"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "bb05fc15-c7f5-46f0-8d9d-7b2e1daa5ac2"
+      Hint: DocumentUrl
+      Value: |
+        <link text="VIEW" linktype="external" url="https://afl-delivery.stylelabs.cloud/api/public/content/b8b0f5d291564105bac2d93854730144?v=bef1bc7f" anchor="" target="_blank" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231009T200520Z
+    - ID: "fcf19fc4-51cd-4751-9cda-9c4be675800d"
+      Hint: DocumentName
+      Value: "PC-SERIES"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220628T094436Z
+    - ID: "2a77143b-5f39-4484-aa64-809bb2437a2d"
+      Hint: DocumentImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="237947" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/237947/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/974efb3940c9413a861d50d1d9a22979?v=5fccfb5e" stylelabs-content-type="Image" alt="Brochure_Icon.png" height="287" width="339" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Abhishek
+    - ID: "59ab1107-67cc-4227-9c61-0ede68d10b57"
+      Hint: DocumentViewTitle
+      Value: 277
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mahesh
+    - ID: "753787de-69ba-48a5-bcf3-7cf5ff76dbe3"
+      Hint: DocumentCategory
+      Value: Document
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d2a2e00f-0090-4054-b952-80f6077dd87f"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "bb05fc15-c7f5-46f0-8d9d-7b2e1daa5ac2"
+      Hint: DocumentUrl
+      Value: |
+        <link text="VIEW" linktype="external" url="https://afl-delivery.stylelabs.cloud/api/public/content/b8b0f5d291564105bac2d93854730144?v=bef1bc7f" anchor="" target="_blank" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231009T200519Z
+    - ID: "fcf19fc4-51cd-4751-9cda-9c4be675800d"
+      Hint: DocumentName
+      Value: "PC-SERIES"

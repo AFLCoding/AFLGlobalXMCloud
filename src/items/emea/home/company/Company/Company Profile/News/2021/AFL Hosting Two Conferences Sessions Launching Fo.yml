@@ -1,0 +1,359 @@
+﻿---
+ID: "5ca7d746-70d8-4934-965d-80580647b040"
+Parent: "c2f3d879-de39-4aac-a49a-5d561ede40de"
+Template: "f36e821e-bb98-44dc-966d-e92a0e033cc7"
+Path: "/sitecore/content/AFL-Global/EMEA/Home/Company/Company Profile/News/2021/AFL Hosting Two Conferences Sessions Launching Fo"
+SharedFields:
+- ID: "1fbc6a49-6281-48ee-87e9-a3970b145adb"
+  Hint: NavigationFilter
+  Value: |
+    {E0A2A027-0932-4878-A7D6-0416D5263EFB}
+    {61BD64D6-809E-40AE-9297-2724A19329B3}
+    {D063E9D1-C7B5-4B1E-B31E-69886C9C59F5}
+    {500AE4C0-FA7B-463F-8149-EFFF7F044101}
+    {A0E7FF57-6994-4B09-AA21-104239628D5A}
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{3A84BAC9-C1BD-4809-A12C-28EB44E25329}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{DAE7C21D-4D3B-4257-A95C-9104CD8AF409}"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{48D826CA-7AE6-4387-AE67-E7070B242906}">
+          <p:d />
+        </r>
+      </d>
+    </r>
+Languages:
+- Language: "de-DE"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "228f9517-e120-4014-b2c7-df0ac467a349"
+      Hint: ContentTitle
+      Value: AFL Hosting Two Conferences Sessions, Launching Four New Products at BICSI Winter 2021
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211203T091804Z
+    - ID: "3688d7df-2feb-43a4-ab8d-410e5f70a676"
+      Hint: ContentDescription
+      Value: |
+        <div>Spartanburg, SC – <a rel="noopener noreferrer" href="https://www.aflglobal.com/Home.aspx" target="_blank">AFL</a>, an industry-leading manufacturer of fiber optic cable, equipment, and accessories, is virtually exhibiting at the <a href="https://www.bicsi.org/conferences-and-events/bicsi-events/conferences-exhibitions/2021-winter-conference-exhibition/attendee-registration">BICSI Winter Conference and Exhibition</a>, plus leading one masterclass and one conference session. AFL will showcase four new products including: <a href="https://learn.aflglobal.com/apex">the Apex™ splice closure</a>, <a href="https://learn.aflglobal.com/product-connectivity-ascend">ASCEND® tap and conversion cassettes</a>, <a href="https://learn.aflglobal.com/test-inspection/afl-introduces-compact-long-range-visual-fault-identifier">VFI4 fault identifier</a>, and the <a href="https://learn.aflglobal.com/news/afl-introduces-next-gen-fuseconnect-mpo-splice-on-connector">FUSEConnect® MPO splice-on connectors</a>.<br />
+        <br />
+        Earn 3 BICSI CECs by attending “High-Density Optical Infrastructure Challenges of Tomorrow’s Modern Data Center” being held Monday, March 1 from 2:00 p.m. – 5:30 p.m. Eastern. This masterclass will provide an in-depth look at the key challenges to designing and deploying optical infrastructure within today’s data center environment. <a href="https://www.bicsi.org/conferences-and-events/bicsi-events/conferences-exhibitions/2021-winter-conference-exhibition/attendee-registration">Register here</a>.<br />
+        <br />
+        On Wednesday, March 3, from 12:00 p.m. – 1:00 p.m. Eastern, learn more about how ribbon fiber is used in today’s advanced infrastructure, making installations and repairs quicker and less costly. The conference session titled, “If You Thought Ribbon Was for Data Centers Only—Think Again!” is free to BICSI attendees. <a href="https://www.bicsi.org/conferences-and-events/bicsi-events/conferences-exhibitions/2021-winter-conference-exhibition/attendee-registration">Register here</a>.<br />
+        <br />
+        AFL will be introducing four new products during the show. Launched December 2020, the <a href="https://www.aflglobal.com/Products/Fiber-Optic-Connectivity/Splice-Closures/Apex-Fiber-Optic-Splice-Closures.aspx">Apex™ family of fiber optic splice closures</a> is designed to lower overall installation time with easier to use sealing and cable retention methods, along with industry-leading density, especially when coupled with AFL’s <a href="https://www.aflglobal.com/Products/Fiber-Optic-Cable/High-Density/OSP-MicroCore/LM-Series-OSP-MicroCore-Blown-Fiber-Cables.aspx">LM-series MicroCore®</a> cable or <a href="https://www.aflglobal.com/Products/Fiber-Optic-Cable/High-Density/Wrapping-Tube-Cable.aspx">Wrapping Tube Cable powered by SpiderWeb Ribbon®</a>. The initial launch of Apex splice closures includes the <a href="https://www.aflglobal.com/Products/Fiber-Optic-Connectivity/Splice-Closures/Apex-Fiber-Optic-Splice-Closures/Apex-X-2-Sealed-Splice-Closure.aspx">X-2</a> and <a href="https://www.aflglobal.com/Products/Fiber-Optic-Connectivity/Splice-Closures/Apex-Fiber-Optic-Splice-Closures/Apex-X-2S-Sealed-Splice-Closure.aspx">X-2S</a> models which have maximum capacities of 1,728 and 3,456 fibers, respectively, when using 200 µm SpiderWeb Ribbon.<br />
+        <br />
+        AFL expanded its ASCEND modular platform, adding <a href="https://www.aflglobal.com/Products/Fiber-Optic-Connectivity/Rack-Mount-Patch-Panels/ASCEND-High-Density-Platform/ASCEND-Conversion-Cassettes.aspx">conversion</a> and <a href="https://www.aflglobal.com/Products/Fiber-Optic-Connectivity/Rack-Mount-Patch-Panels/ASCEND-High-Density-Platform/ASCEND-Tap-Cassettes.aspx">tap cassettes</a> to its high-density solution. The <a href="https://learn.aflglobal.com/product-connectivity-ascend">ASCEND high density solution</a> meets the growing demand for bandwidth and features fiber housings, high-density optical cassettes, custom trunk cable assemblies and field-reversible patch cords. AFL’s <a href="https://www.aflglobal.com/Products/Fiber-Optic-Connectivity/Rack-Mount-Patch-Panels/ASCEND-High-Density-Platform/ASCEND-Conversion-Cassettes.aspx">Conversion Cassettes</a> provide a seamless transition from one BASE platform to another while the <a href="https://www.aflglobal.com/Products/Fiber-Optic-Connectivity/Rack-Mount-Patch-Panels/ASCEND-High-Density-Platform/ASCEND-Tap-Cassettes.aspx">Tap Cassettes</a> enable access points for monitoring live traffic signals.<br />
+        <br />
+        The third new product introduction is AFL’s <a href="https://www.aflglobal.com/Products/Test-and-Inspection/Fiber-Identification/Visual-Fault-Identifiers/vfis.aspx">VFI4 Visual Fault Locator</a>, an essential troubleshooting tool for fiber installation and maintenance technicians. This compact unit injects a high-powered visible laser light that provides exceptional brightness and range for locating defects in single-mode and multimode fibers.<br />
+         <br />
+        Lastly, AFL will introduce the next-gen <a href="https://learn.aflglobal.com/news/afl-introduces-next-gen-fuseconnect-mpo-splice-on-connector">FUSEConnect MPO</a>. This connector features an updated design that migrates from a mechanical splice protection clamp to a heat-shrink splice protection sleeve that is applied with the standard on-board splicer heater oven, eliminating the need for a separate mechanical clamp tool. Designed to utilize standard ribbon, <a href="https://www.aflglobal.com/Products/Fiber-Optic-Cable/SpiderWeb-Ribbon-(SWR-).aspx">SpiderWeb Ribbon®</a>, or loose tube cable, this connector helps minimize the complexity involved in the termination of multi-fiber connectors.<br />
+        <br />
+        Visit AFL in its virtual booth at the BICSI Winter Conference to see our complete enterprise high-density solution. To learn more about AFL, its products and services, visit <a href="https://www.aflglobal.com/Home.aspx">www.AFLglobal.com</a>.<br />
+        <br />
+        About AFL<br />
+        Founded in 1984, AFL is an international manufacturer providing end-to-end solutions to the energy, service provider, enterprise and industrial markets as well several emerging markets. The company’s products are in use in over 130 countries and include fiber optic cable and hardware, transmission and substation accessories, outside plant equipment, connectivity, test and inspection equipment, fusion splicers and training. AFL also offers a wide variety of services supporting data center, enterprise, wireless and outside plant applications.<br />
+        <br />
+        Headquartered in Spartanburg, SC, AFL has operations in the U.S., Mexico, Canada, Europe, Asia and Australia, and is a wholly owned subsidiary of Fujikura Ltd. of Japan. For more information, visit <a href="http://www.aflglobal.com/">www.AFLglobal.com</a>. Follow us on <a href="https://www.linkedin.com/company/afl-2">LinkedIn</a>, <a href="https://twitter.com/AFLglobal">Twitter</a>, and “like us” on <a href="https://www.facebook.com/AFLcorp">Facebook</a>. Review our <a href="https://www.aflglobal.com/AFL-Blog/">blog</a> or <a href="http://content.aflglobal.com/SubscribePage.html">subscribe</a> to our bi-monthly e-newsletter.<br />
+         <br />
+        Contacts<br />
+        Chuck Turner<br />
+        Sales Director, AFL<br />
+        804.240.7456<br />
+        <a href="mailto:Chuck.Turner@AFLglobal.com">Chuck.Turner@AFLglobal.com</a>  <br />
+        <br />
+        Corie Culp<br />
+        Public Relations Manager, AFL<br />
+        864.433.5409<br />
+        <a href="mailto:Corie.Culp@AFLglobal.com">Corie.Culp@AFLglobal.com</a></div>
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4c3792cf-8348-4d85-9cac-3f6086716488"
+      Hint: ContentCategory
+      Value: "{F78EA78A-E127-49A5-95B6-7DE64F85F319}"
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: AFL Hosting Two Conferences Sessions Launching Fo
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\matt
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\matt
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: AFL Hosting Two Conferences Sessions Launching Fo
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: AFL Hosting Two Conferences Sessions Launching Fo
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "91c29672-d218-457c-99b9-2851bac2cc45"
+    - ID: "9dd4f0d9-c123-47a8-8cef-2c85cea172f6"
+      Hint: ContentImage
+      Value: |
+        <image mediaid="{831264E3-8746-4755-A3E0-7DEA65FD49DB}" />
+    - ID: "a6eaffd5-fc3e-41b4-93b3-f1721fcf2300"
+      Hint: ContentPublishedDate
+      Value: 20210223T183000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T100122Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: 
+    - ID: "228f9517-e120-4014-b2c7-df0ac467a349"
+      Hint: ContentTitle
+      Value: AFL Hosting Two Conferences Sessions, Launching Four New Products at BICSI Winter 2021
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211203T091804Z
+    - ID: "3688d7df-2feb-43a4-ab8d-410e5f70a676"
+      Hint: ContentDescription
+      Value: |
+        <div>Spartanburg, SC &ndash;&nbsp;<a rel="noopener noreferrer" href="https://www.aflglobal.com/Home.aspx" target="_blank">AFL</a>, an industry-leading manufacturer of fiber optic cable, equipment, and accessories, is virtually exhibiting at the&nbsp;<a href="https://www.bicsi.org/conferences-and-events/bicsi-events/conferences-exhibitions/2021-winter-conference-exhibition/attendee-registration">BICSI Winter Conference and Exhibition</a>, plus leading one masterclass and one conference session. AFL will showcase four new products including:&nbsp;<a href="https://learn.aflglobal.com/apex">the Apex&trade; splice closure</a>,&nbsp;<a href="https://learn.aflglobal.com/product-connectivity-ascend">ASCEND&reg; tap and conversion cassettes</a>,&nbsp;<a href="https://learn.aflglobal.com/test-inspection/afl-introduces-compact-long-range-visual-fault-identifier">VFI4 fault identifier</a>, and the&nbsp;<a href="https://learn.aflglobal.com/news/afl-introduces-next-gen-fuseconnect-mpo-splice-on-connector">FUSEConnect&reg; MPO splice-on connectors</a>.<br />
+        <br />
+        Earn 3 BICSI CECs by attending &ldquo;High-Density Optical Infrastructure Challenges of Tomorrow&rsquo;s Modern Data Center&rdquo; being held Monday, March 1 from 2:00 p.m. &ndash; 5:30 p.m. Eastern. This masterclass will provide an in-depth look at the key challenges to designing and deploying optical infrastructure within today&rsquo;s data center environment.&nbsp;<a href="https://www.bicsi.org/conferences-and-events/bicsi-events/conferences-exhibitions/2021-winter-conference-exhibition/attendee-registration">Register here</a>.<br />
+        <br />
+        On Wednesday, March 3, from 12:00 p.m. &ndash; 1:00 p.m. Eastern, learn more about how ribbon fiber is used in today&rsquo;s advanced infrastructure, making installations and repairs quicker and less costly. The conference session titled, &ldquo;If You Thought Ribbon Was for Data Centers Only&mdash;Think Again!&rdquo; is free to BICSI attendees.&nbsp;<a href="https://www.bicsi.org/conferences-and-events/bicsi-events/conferences-exhibitions/2021-winter-conference-exhibition/attendee-registration">Register here</a>.<br />
+        <br />
+        AFL will be introducing four new products during the show. Launched December 2020, the&nbsp;<a href="https://www.aflglobal.com/Products/Fiber-Optic-Connectivity/Splice-Closures/Apex-Fiber-Optic-Splice-Closures.aspx">Apex&trade; family of fiber optic splice closures</a>&nbsp;is designed to lower overall installation time with easier to use sealing and cable retention methods, along with industry-leading density, especially when coupled with AFL&rsquo;s&nbsp;<a href="https://www.aflglobal.com/Products/Fiber-Optic-Cable/High-Density/OSP-MicroCore/LM-Series-OSP-MicroCore-Blown-Fiber-Cables.aspx">LM-series MicroCore&reg;</a>&nbsp;cable or&nbsp;<a href="https://www.aflglobal.com/Products/Fiber-Optic-Cable/High-Density/Wrapping-Tube-Cable.aspx">Wrapping Tube Cable powered by SpiderWeb Ribbon&reg;</a>. The initial launch of Apex splice closures includes the&nbsp;<a href="https://www.aflglobal.com/Products/Fiber-Optic-Connectivity/Splice-Closures/Apex-Fiber-Optic-Splice-Closures/Apex-X-2-Sealed-Splice-Closure.aspx">X-2</a>&nbsp;and&nbsp;<a href="https://www.aflglobal.com/Products/Fiber-Optic-Connectivity/Splice-Closures/Apex-Fiber-Optic-Splice-Closures/Apex-X-2S-Sealed-Splice-Closure.aspx">X-2S</a>&nbsp;models which have maximum capacities of 1,728 and 3,456 fibers, respectively, when using 200 &micro;m SpiderWeb Ribbon.<br />
+        <br />
+        AFL expanded its ASCEND modular platform, adding&nbsp;<a href="https://www.aflglobal.com/Products/Fiber-Optic-Connectivity/Rack-Mount-Patch-Panels/ASCEND-High-Density-Platform/ASCEND-Conversion-Cassettes.aspx">conversion</a>&nbsp;and&nbsp;<a href="https://www.aflglobal.com/Products/Fiber-Optic-Connectivity/Rack-Mount-Patch-Panels/ASCEND-High-Density-Platform/ASCEND-Tap-Cassettes.aspx">tap cassettes</a>&nbsp;to its high-density solution. The&nbsp;<a href="https://learn.aflglobal.com/product-connectivity-ascend">ASCEND high density solution</a>&nbsp;meets the growing demand for bandwidth and features fiber housings, high-density optical cassettes, custom trunk cable assemblies and field-reversible patch cords. AFL&rsquo;s&nbsp;<a href="https://www.aflglobal.com/Products/Fiber-Optic-Connectivity/Rack-Mount-Patch-Panels/ASCEND-High-Density-Platform/ASCEND-Conversion-Cassettes.aspx">Conversion Cassettes</a>&nbsp;provide a seamless transition from one BASE platform to another while the&nbsp;<a href="https://www.aflglobal.com/Products/Fiber-Optic-Connectivity/Rack-Mount-Patch-Panels/ASCEND-High-Density-Platform/ASCEND-Tap-Cassettes.aspx">Tap Cassettes</a>&nbsp;enable access points for monitoring live traffic signals.<br />
+        <br />
+        The third new product introduction is AFL&rsquo;s&nbsp;<a href="https://www.aflglobal.com/Products/Test-and-Inspection/Fiber-Identification/Visual-Fault-Identifiers/vfis.aspx">VFI4 Visual Fault Locator</a>, an essential troubleshooting tool for fiber installation and maintenance technicians. This compact unit injects a high-powered visible laser light that provides exceptional brightness and range for locating defects in single-mode and multimode fibers.<br />
+        &nbsp;<br />
+        Lastly, AFL will introduce the next-gen&nbsp;<a href="https://learn.aflglobal.com/news/afl-introduces-next-gen-fuseconnect-mpo-splice-on-connector">FUSEConnect MPO</a>. This connector features an updated design that migrates from a mechanical splice protection clamp to a heat-shrink splice protection sleeve that is applied with the standard on-board splicer heater oven, eliminating the need for a separate mechanical clamp tool. Designed to utilize standard ribbon,&nbsp;<a href="https://www.aflglobal.com/Products/Fiber-Optic-Cable/SpiderWeb-Ribbon-(SWR-).aspx">SpiderWeb Ribbon&reg;</a>, or loose tube cable, this connector helps minimize the complexity involved in the termination of multi-fiber connectors.<br />
+        <br />
+        Visit AFL in its virtual booth at the BICSI Winter Conference to see our complete enterprise high-density solution. To learn more about AFL, its products and services, visit&nbsp;<a href="https://www.aflglobal.com/Home.aspx">www.AFLglobal.com</a>.<br />
+        <br />
+        About AFL<br />
+        Founded in 1984, AFL is an international manufacturer providing end-to-end solutions to the energy, service provider, enterprise and industrial markets as well several emerging markets. The company&rsquo;s products are in use in over 130 countries and include fiber optic cable and hardware, transmission and substation accessories, outside plant equipment, connectivity, test and inspection equipment, fusion splicers and training. AFL also offers a wide variety of services supporting data center, enterprise, wireless and outside plant applications.<br />
+        <p>
+        Headquartered in Spartanburg, SC, AFL has  operations in the U.S., Mexico, Canada, Europe, Asia and Australia, and is a  wholly owned subsidiary of Fujikura Ltd. of Japan. For more information,  visit&nbsp;<a href="http://www.aflglobal.com/">www.AFLglobal.com</a>.  Follow us on&nbsp;<a href="https://www.linkedin.com/company/aflglobal">LinkedIn</a>,&nbsp;<a href="https://twitter.com/AFLglobal">X</a>,&nbsp;<a href="https://www.facebook.com/AFLglobal">Facebook</a>, and read our&nbsp;<a href="https://www.aflglobal.com/AFL-Blog/">blog</a>.</p>
+        Contacts<br />
+        Chuck Turner<br />
+        Sales Director, AFL<br />
+        804.240.7456<br />
+        <a href="mailto:Chuck.Turner@AFLglobal.com">Chuck.Turner@AFLglobal.com</a>&nbsp;&nbsp;<br />
+        <br />
+        Corie Culp<br />
+        Public Relations Manager, AFL<br />
+        864.433.5409<br />
+        <a href="mailto:Corie.Culp@AFLglobal.com">Corie.Culp@AFLglobal.com</a></div>
+    - ID: "4c3792cf-8348-4d85-9cac-3f6086716488"
+      Hint: ContentCategory
+      Value: "{F78EA78A-E127-49A5-95B6-7DE64F85F319}"
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: AFL Hosting Two Conferences Sessions Launching Fo
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: AFL Hosting Two Conferences Sessions Launching Fo
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: AFL Hosting Two Conferences Sessions Launching Fo
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "eb7e41c7-bf7d-4639-9394-f7e12a72d77d"
+    - ID: "9dd4f0d9-c123-47a8-8cef-2c85cea172f6"
+      Hint: ContentImage
+      Value: |
+        <image mediaid="{831264E3-8746-4755-A3E0-7DEA65FD49DB}" />
+    - ID: "a6eaffd5-fc3e-41b4-93b3-f1721fcf2300"
+      Hint: ContentPublishedDate
+      Value: 20210223T183000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T100121Z
+- Language: "es-ES"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "228f9517-e120-4014-b2c7-df0ac467a349"
+      Hint: ContentTitle
+      Value: AFL Hosting Two Conferences Sessions, Launching Four New Products at BICSI Winter 2021
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211203T091804Z
+    - ID: "3688d7df-2feb-43a4-ab8d-410e5f70a676"
+      Hint: ContentDescription
+      Value: |
+        <div>Spartanburg, SC &ndash;&nbsp;<a rel="noopener noreferrer" href="https://www.aflglobal.com/Home.aspx" target="_blank">AFL</a>, an industry-leading manufacturer of fiber optic cable, equipment, and accessories, is virtually exhibiting at the&nbsp;<a href="https://www.bicsi.org/conferences-and-events/bicsi-events/conferences-exhibitions/2021-winter-conference-exhibition/attendee-registration">BICSI Winter Conference and Exhibition</a>, plus leading one masterclass and one conference session. AFL will showcase four new products including:&nbsp;<a href="https://learn.aflglobal.com/apex">the Apex&trade; splice closure</a>,&nbsp;<a href="https://learn.aflglobal.com/product-connectivity-ascend">ASCEND&reg; tap and conversion cassettes</a>,&nbsp;<a href="https://learn.aflglobal.com/test-inspection/afl-introduces-compact-long-range-visual-fault-identifier">VFI4 fault identifier</a>, and the&nbsp;<a href="https://learn.aflglobal.com/news/afl-introduces-next-gen-fuseconnect-mpo-splice-on-connector">FUSEConnect&reg; MPO splice-on connectors</a>.<br />
+        <br />
+        Earn 3 BICSI CECs by attending &ldquo;High-Density Optical Infrastructure Challenges of Tomorrow&rsquo;s Modern Data Center&rdquo; being held Monday, March 1 from 2:00 p.m. &ndash; 5:30 p.m. Eastern. This masterclass will provide an in-depth look at the key challenges to designing and deploying optical infrastructure within today&rsquo;s data center environment.&nbsp;<a href="https://www.bicsi.org/conferences-and-events/bicsi-events/conferences-exhibitions/2021-winter-conference-exhibition/attendee-registration">Register here</a>.<br />
+        <br />
+        On Wednesday, March 3, from 12:00 p.m. &ndash; 1:00 p.m. Eastern, learn more about how ribbon fiber is used in today&rsquo;s advanced infrastructure, making installations and repairs quicker and less costly. The conference session titled, &ldquo;If You Thought Ribbon Was for Data Centers Only&mdash;Think Again!&rdquo; is free to BICSI attendees.&nbsp;<a href="https://www.bicsi.org/conferences-and-events/bicsi-events/conferences-exhibitions/2021-winter-conference-exhibition/attendee-registration">Register here</a>.<br />
+        <br />
+        AFL will be introducing four new products during the show. Launched December 2020, the&nbsp;<a href="https://www.aflglobal.com/Products/Fiber-Optic-Connectivity/Splice-Closures/Apex-Fiber-Optic-Splice-Closures.aspx">Apex&trade; family of fiber optic splice closures</a>&nbsp;is designed to lower overall installation time with easier to use sealing and cable retention methods, along with industry-leading density, especially when coupled with AFL&rsquo;s&nbsp;<a href="https://www.aflglobal.com/Products/Fiber-Optic-Cable/High-Density/OSP-MicroCore/LM-Series-OSP-MicroCore-Blown-Fiber-Cables.aspx">LM-series MicroCore&reg;</a>&nbsp;cable or&nbsp;<a href="https://www.aflglobal.com/Products/Fiber-Optic-Cable/High-Density/Wrapping-Tube-Cable.aspx">Wrapping Tube Cable powered by SpiderWeb Ribbon&reg;</a>. The initial launch of Apex splice closures includes the&nbsp;<a href="https://www.aflglobal.com/Products/Fiber-Optic-Connectivity/Splice-Closures/Apex-Fiber-Optic-Splice-Closures/Apex-X-2-Sealed-Splice-Closure.aspx">X-2</a>&nbsp;and&nbsp;<a href="https://www.aflglobal.com/Products/Fiber-Optic-Connectivity/Splice-Closures/Apex-Fiber-Optic-Splice-Closures/Apex-X-2S-Sealed-Splice-Closure.aspx">X-2S</a>&nbsp;models which have maximum capacities of 1,728 and 3,456 fibers, respectively, when using 200 &micro;m SpiderWeb Ribbon.<br />
+        <br />
+        AFL expanded its ASCEND modular platform, adding&nbsp;<a href="https://www.aflglobal.com/Products/Fiber-Optic-Connectivity/Rack-Mount-Patch-Panels/ASCEND-High-Density-Platform/ASCEND-Conversion-Cassettes.aspx">conversion</a>&nbsp;and&nbsp;<a href="https://www.aflglobal.com/Products/Fiber-Optic-Connectivity/Rack-Mount-Patch-Panels/ASCEND-High-Density-Platform/ASCEND-Tap-Cassettes.aspx">tap cassettes</a>&nbsp;to its high-density solution. The&nbsp;<a href="https://learn.aflglobal.com/product-connectivity-ascend">ASCEND high density solution</a>&nbsp;meets the growing demand for bandwidth and features fiber housings, high-density optical cassettes, custom trunk cable assemblies and field-reversible patch cords. AFL&rsquo;s&nbsp;<a href="https://www.aflglobal.com/Products/Fiber-Optic-Connectivity/Rack-Mount-Patch-Panels/ASCEND-High-Density-Platform/ASCEND-Conversion-Cassettes.aspx">Conversion Cassettes</a>&nbsp;provide a seamless transition from one BASE platform to another while the&nbsp;<a href="https://www.aflglobal.com/Products/Fiber-Optic-Connectivity/Rack-Mount-Patch-Panels/ASCEND-High-Density-Platform/ASCEND-Tap-Cassettes.aspx">Tap Cassettes</a>&nbsp;enable access points for monitoring live traffic signals.<br />
+        <br />
+        The third new product introduction is AFL&rsquo;s&nbsp;<a href="https://www.aflglobal.com/Products/Test-and-Inspection/Fiber-Identification/Visual-Fault-Identifiers/vfis.aspx">VFI4 Visual Fault Locator</a>, an essential troubleshooting tool for fiber installation and maintenance technicians. This compact unit injects a high-powered visible laser light that provides exceptional brightness and range for locating defects in single-mode and multimode fibers.<br />
+        &nbsp;<br />
+        Lastly, AFL will introduce the next-gen&nbsp;<a href="https://learn.aflglobal.com/news/afl-introduces-next-gen-fuseconnect-mpo-splice-on-connector">FUSEConnect MPO</a>. This connector features an updated design that migrates from a mechanical splice protection clamp to a heat-shrink splice protection sleeve that is applied with the standard on-board splicer heater oven, eliminating the need for a separate mechanical clamp tool. Designed to utilize standard ribbon,&nbsp;<a href="https://www.aflglobal.com/Products/Fiber-Optic-Cable/SpiderWeb-Ribbon-(SWR-).aspx">SpiderWeb Ribbon&reg;</a>, or loose tube cable, this connector helps minimize the complexity involved in the termination of multi-fiber connectors.<br />
+        <br />
+        Visit AFL in its virtual booth at the BICSI Winter Conference to see our complete enterprise high-density solution. To learn more about AFL, its products and services, visit&nbsp;<a href="https://www.aflglobal.com/Home.aspx">www.AFLglobal.com</a>.<br />
+        <br />
+        About AFL<br />
+        Founded in 1984, AFL is an international manufacturer providing end-to-end solutions to the energy, service provider, enterprise and industrial markets as well several emerging markets. The company&rsquo;s products are in use in over 130 countries and include fiber optic cable and hardware, transmission and substation accessories, outside plant equipment, connectivity, test and inspection equipment, fusion splicers and training. AFL also offers a wide variety of services supporting data center, enterprise, wireless and outside plant applications.<br />
+        <p>
+        Headquartered in Spartanburg, SC, AFL has  operations in the U.S., Mexico, Canada, Europe, Asia and Australia, and is a  wholly owned subsidiary of Fujikura Ltd. of Japan. For more information,  visit&nbsp;<a href="http://www.aflglobal.com/">www.AFLglobal.com</a>.  Follow us on&nbsp;<a href="https://www.linkedin.com/company/aflglobal">LinkedIn</a>,&nbsp;<a href="https://twitter.com/AFLglobal">X</a>,&nbsp;<a href="https://www.facebook.com/AFLglobal">Facebook</a>, and read our&nbsp;<a href="https://www.aflglobal.com/AFL-Blog/">blog</a>.</p>
+        Contacts<br />
+        Chuck Turner<br />
+        Sales Director, AFL<br />
+        804.240.7456<br />
+        <a href="mailto:Chuck.Turner@AFLglobal.com">Chuck.Turner@AFLglobal.com</a>&nbsp;&nbsp;<br />
+        <br />
+        Corie Culp<br />
+        Public Relations Manager, AFL<br />
+        864.433.5409<br />
+        <a href="mailto:Corie.Culp@AFLglobal.com">Corie.Culp@AFLglobal.com</a></div>
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4c3792cf-8348-4d85-9cac-3f6086716488"
+      Hint: ContentCategory
+      Value: "{F78EA78A-E127-49A5-95B6-7DE64F85F319}"
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: AFL Hosting Two Conferences Sessions Launching Fo
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\matt
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\matt
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: AFL Hosting Two Conferences Sessions Launching Fo
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: AFL Hosting Two Conferences Sessions Launching Fo
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7431a4c4-7991-496d-a2b7-469de58da80f"
+    - ID: "9dd4f0d9-c123-47a8-8cef-2c85cea172f6"
+      Hint: ContentImage
+      Value: |
+        <image mediaid="{831264E3-8746-4755-A3E0-7DEA65FD49DB}" />
+    - ID: "a6eaffd5-fc3e-41b4-93b3-f1721fcf2300"
+      Hint: ContentPublishedDate
+      Value: 20210223T183000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T100122Z
+- Language: "fr-FR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "228f9517-e120-4014-b2c7-df0ac467a349"
+      Hint: ContentTitle
+      Value: AFL Hosting Two Conferences Sessions, Launching Four New Products at BICSI Winter 2021
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211203T091804Z
+    - ID: "3688d7df-2feb-43a4-ab8d-410e5f70a676"
+      Hint: ContentDescription
+      Value: |
+        <div>Spartanburg, SC &ndash;&nbsp;<a rel="noopener noreferrer" href="https://www.aflglobal.com/Home.aspx" target="_blank">AFL</a>, an industry-leading manufacturer of fiber optic cable, equipment, and accessories, is virtually exhibiting at the&nbsp;<a href="https://www.bicsi.org/conferences-and-events/bicsi-events/conferences-exhibitions/2021-winter-conference-exhibition/attendee-registration">BICSI Winter Conference and Exhibition</a>, plus leading one masterclass and one conference session. AFL will showcase four new products including:&nbsp;<a href="https://learn.aflglobal.com/apex">the Apex&trade; splice closure</a>,&nbsp;<a href="https://learn.aflglobal.com/product-connectivity-ascend">ASCEND&reg; tap and conversion cassettes</a>,&nbsp;<a href="https://learn.aflglobal.com/test-inspection/afl-introduces-compact-long-range-visual-fault-identifier">VFI4 fault identifier</a>, and the&nbsp;<a href="https://learn.aflglobal.com/news/afl-introduces-next-gen-fuseconnect-mpo-splice-on-connector">FUSEConnect&reg; MPO splice-on connectors</a>.<br />
+        <br />
+        Earn 3 BICSI CECs by attending &ldquo;High-Density Optical Infrastructure Challenges of Tomorrow&rsquo;s Modern Data Center&rdquo; being held Monday, March 1 from 2:00 p.m. &ndash; 5:30 p.m. Eastern. This masterclass will provide an in-depth look at the key challenges to designing and deploying optical infrastructure within today&rsquo;s data center environment.&nbsp;<a href="https://www.bicsi.org/conferences-and-events/bicsi-events/conferences-exhibitions/2021-winter-conference-exhibition/attendee-registration">Register here</a>.<br />
+        <br />
+        On Wednesday, March 3, from 12:00 p.m. &ndash; 1:00 p.m. Eastern, learn more about how ribbon fiber is used in today&rsquo;s advanced infrastructure, making installations and repairs quicker and less costly. The conference session titled, &ldquo;If You Thought Ribbon Was for Data Centers Only&mdash;Think Again!&rdquo; is free to BICSI attendees.&nbsp;<a href="https://www.bicsi.org/conferences-and-events/bicsi-events/conferences-exhibitions/2021-winter-conference-exhibition/attendee-registration">Register here</a>.<br />
+        <br />
+        AFL will be introducing four new products during the show. Launched December 2020, the&nbsp;<a href="https://www.aflglobal.com/Products/Fiber-Optic-Connectivity/Splice-Closures/Apex-Fiber-Optic-Splice-Closures.aspx">Apex&trade; family of fiber optic splice closures</a>&nbsp;is designed to lower overall installation time with easier to use sealing and cable retention methods, along with industry-leading density, especially when coupled with AFL&rsquo;s&nbsp;<a href="https://www.aflglobal.com/Products/Fiber-Optic-Cable/High-Density/OSP-MicroCore/LM-Series-OSP-MicroCore-Blown-Fiber-Cables.aspx">LM-series MicroCore&reg;</a>&nbsp;cable or&nbsp;<a href="https://www.aflglobal.com/Products/Fiber-Optic-Cable/High-Density/Wrapping-Tube-Cable.aspx">Wrapping Tube Cable powered by SpiderWeb Ribbon&reg;</a>. The initial launch of Apex splice closures includes the&nbsp;<a href="https://www.aflglobal.com/Products/Fiber-Optic-Connectivity/Splice-Closures/Apex-Fiber-Optic-Splice-Closures/Apex-X-2-Sealed-Splice-Closure.aspx">X-2</a>&nbsp;and&nbsp;<a href="https://www.aflglobal.com/Products/Fiber-Optic-Connectivity/Splice-Closures/Apex-Fiber-Optic-Splice-Closures/Apex-X-2S-Sealed-Splice-Closure.aspx">X-2S</a>&nbsp;models which have maximum capacities of 1,728 and 3,456 fibers, respectively, when using 200 &micro;m SpiderWeb Ribbon.<br />
+        <br />
+        AFL expanded its ASCEND modular platform, adding&nbsp;<a href="https://www.aflglobal.com/Products/Fiber-Optic-Connectivity/Rack-Mount-Patch-Panels/ASCEND-High-Density-Platform/ASCEND-Conversion-Cassettes.aspx">conversion</a>&nbsp;and&nbsp;<a href="https://www.aflglobal.com/Products/Fiber-Optic-Connectivity/Rack-Mount-Patch-Panels/ASCEND-High-Density-Platform/ASCEND-Tap-Cassettes.aspx">tap cassettes</a>&nbsp;to its high-density solution. The&nbsp;<a href="https://learn.aflglobal.com/product-connectivity-ascend">ASCEND high density solution</a>&nbsp;meets the growing demand for bandwidth and features fiber housings, high-density optical cassettes, custom trunk cable assemblies and field-reversible patch cords. AFL&rsquo;s&nbsp;<a href="https://www.aflglobal.com/Products/Fiber-Optic-Connectivity/Rack-Mount-Patch-Panels/ASCEND-High-Density-Platform/ASCEND-Conversion-Cassettes.aspx">Conversion Cassettes</a>&nbsp;provide a seamless transition from one BASE platform to another while the&nbsp;<a href="https://www.aflglobal.com/Products/Fiber-Optic-Connectivity/Rack-Mount-Patch-Panels/ASCEND-High-Density-Platform/ASCEND-Tap-Cassettes.aspx">Tap Cassettes</a>&nbsp;enable access points for monitoring live traffic signals.<br />
+        <br />
+        The third new product introduction is AFL&rsquo;s&nbsp;<a href="https://www.aflglobal.com/Products/Test-and-Inspection/Fiber-Identification/Visual-Fault-Identifiers/vfis.aspx">VFI4 Visual Fault Locator</a>, an essential troubleshooting tool for fiber installation and maintenance technicians. This compact unit injects a high-powered visible laser light that provides exceptional brightness and range for locating defects in single-mode and multimode fibers.<br />
+        &nbsp;<br />
+        Lastly, AFL will introduce the next-gen&nbsp;<a href="https://learn.aflglobal.com/news/afl-introduces-next-gen-fuseconnect-mpo-splice-on-connector">FUSEConnect MPO</a>. This connector features an updated design that migrates from a mechanical splice protection clamp to a heat-shrink splice protection sleeve that is applied with the standard on-board splicer heater oven, eliminating the need for a separate mechanical clamp tool. Designed to utilize standard ribbon,&nbsp;<a href="https://www.aflglobal.com/Products/Fiber-Optic-Cable/SpiderWeb-Ribbon-(SWR-).aspx">SpiderWeb Ribbon&reg;</a>, or loose tube cable, this connector helps minimize the complexity involved in the termination of multi-fiber connectors.<br />
+        <br />
+        Visit AFL in its virtual booth at the BICSI Winter Conference to see our complete enterprise high-density solution. To learn more about AFL, its products and services, visit&nbsp;<a href="https://www.aflglobal.com/Home.aspx">www.AFLglobal.com</a>.<br />
+        <br />
+        About AFL<br />
+        Founded in 1984, AFL is an international manufacturer providing end-to-end solutions to the energy, service provider, enterprise and industrial markets as well several emerging markets. The company&rsquo;s products are in use in over 130 countries and include fiber optic cable and hardware, transmission and substation accessories, outside plant equipment, connectivity, test and inspection equipment, fusion splicers and training. AFL also offers a wide variety of services supporting data center, enterprise, wireless and outside plant applications.<br />
+        <p>
+        Headquartered in Spartanburg, SC, AFL has  operations in the U.S., Mexico, Canada, Europe, Asia and Australia, and is a  wholly owned subsidiary of Fujikura Ltd. of Japan. For more information,  visit&nbsp;<a href="http://www.aflglobal.com/">www.AFLglobal.com</a>.  Follow us on&nbsp;<a href="https://www.linkedin.com/company/aflglobal">LinkedIn</a>,&nbsp;<a href="https://twitter.com/AFLglobal">X</a>,&nbsp;<a href="https://www.facebook.com/AFLglobal">Facebook</a>, and read our&nbsp;<a href="https://www.aflglobal.com/AFL-Blog/">blog</a>.</p>
+        Contacts<br />
+        Chuck Turner<br />
+        Sales Director, AFL<br />
+        804.240.7456<br />
+        <a href="mailto:Chuck.Turner@AFLglobal.com">Chuck.Turner@AFLglobal.com</a>&nbsp;&nbsp;<br />
+        <br />
+        Corie Culp<br />
+        Public Relations Manager, AFL<br />
+        864.433.5409<br />
+        <a href="mailto:Corie.Culp@AFLglobal.com">Corie.Culp@AFLglobal.com</a></div>
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4c3792cf-8348-4d85-9cac-3f6086716488"
+      Hint: ContentCategory
+      Value: "{F78EA78A-E127-49A5-95B6-7DE64F85F319}"
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: AFL Hosting Two Conferences Sessions Launching Fo
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\matt
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\matt
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: AFL Hosting Two Conferences Sessions Launching Fo
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: AFL Hosting Two Conferences Sessions Launching Fo
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "51d6b274-7045-4adb-abaf-adef9d9958a8"
+    - ID: "9dd4f0d9-c123-47a8-8cef-2c85cea172f6"
+      Hint: ContentImage
+      Value: |
+        <image mediaid="{831264E3-8746-4755-A3E0-7DEA65FD49DB}" />
+    - ID: "a6eaffd5-fc3e-41b4-93b3-f1721fcf2300"
+      Hint: ContentPublishedDate
+      Value: 20210223T183000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T100121Z

@@ -1,0 +1,568 @@
+﻿---
+ID: "ea9eac28-866e-4234-aa46-125f0bb886cc"
+Parent: "ae5e517b-969a-4c42-bbe0-3b612b139ce3"
+Template: "bf61de11-b78f-48ea-aaa4-1d17f0d83824"
+Path: "/sitecore/content/AFL-Global/EMEA/Home/Solutions/Service Provider/Converged Access Network/MxUs"
+SharedFields:
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{274C9F86-81B9-4FFC-87CA-8B19AB3A526D}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 300
+Languages:
+- Language: "de-DE"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211122T092302Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: MxUs
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: |
+        MDUs - Multiple dwelling units  bring private network technology to each unit of the dwelling using AFL fiber optic products.
+        
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <h2>AFL fiber optic products enable delivery of quad-play services in multiple dwelling / tenant units</h2>
+        <p>AFL has decades of experience connecting multiple dwelling / tenant units (MDUs / MTUs) into Fiber-to-the-Premises (FTTP) networks. That expertise crosses a wide assortment of structures and conditions in all parts of the U.S. With a complete portfolio of MxU solutions, AFL delivers optimal fiber optic connectivity from a central point in the MxU to individual premises. We have a thorough understanding of fiber optics, coax/copper cable, network, design and how it all fits together.</p>
+        <p>Whether you have a new or existing structure, need active or passive fiber optic networks or require vertical or horizontal installation, AFL has the products to ensure FTTP networks reliably scale heights across multiple floors in residential, commercial and industrial buildings.</p>
+        <p>With a reputation as a problem solver in the MxU space, AFL solutions enable you to offer technology as a premium service in your facility. As a division of Fujikura, one of the world's leading manufacturers of <a href="/Products/Fiber-Optic-Cable">fiber optic cable</a>, AFL has the know-how to solve your quad play (video, voice, data and security) requirements. And, as fiber experts, we have designed and developed supporting products and services all intended to solve any or all of your MxU challenges.</p>
+        <p>AFL provides components for passive infrastructure.</p>
+        <h2>AFL MxU Product Solutions:</h2>
+        <ul>
+            <li><a href="/Products/Fiber-Optic-Connectivity/FTTx-Splitter-Cabinets-and-Accessories">MDU Product Solutions</a></li>
+            <li>Custom Cabling</li>
+            <li><a href="/Products/Fiber-Optic-Connectivity/Rack-Mount-Patch-Panels.aspx">Panels</a></li>
+            <li><a href="/Products/Fiber-Optic-Connectivity/Connectivity-Accessories.">Connectors</a></li>
+            <li><a href="/Products/Fiber-Optic-Connectivity/Preterminated-Cable-Assemblies">Assemblies</a></li>
+            <li><a href="/Products/Fiber-Optic-Connectivity/Wall-Mounted-Enclosures-and-Panels/Indoor">Enclosures</a></li>
+            <li><a href="/Products/Test-and-Inspection">Test and Inspection Equipment</a></li>
+            <li><a href="/Products/Fusion-Splicing">Fusion Splicers</a></li>
+        </ul>
+        <p>With a broad spectrum of products and solutions, it is no surprise that key industry leaders rely on AFL to design, develop and deliver end-to-end solutions for the MDU market.</p>
+        <h2>AFL MxU Services and Training Solutions:</h2>
+        <ul>
+            <li><a href="https://www.aflglobal.com/Services/Solutions/Integrated-FTTx.aspx">M</a><a href="/Services/Solutions/Multi-Dwelling-Units-MDU">ulti Dwelling / Tenant Units (MxU)</a></li>
+        </ul>
+        <p>At AFL, we offer a fully integrated MxU services solution: we do pre-field, quoting, pre-build, construction, completion and submission as well as aceptance and billing to meet our customers’ needs.</p>
+        <p>Whether you need an end-to-end solution, expertise on parts of the project, or aren’t quite sure where to start, we have you covered. We can plan, design and build from the ground up, add to existing infrastructure, or upgrade outdated solutions.</p>
+    - ID: "56611f02-691a-4096-b044-63aa83122916"
+      Hint: Content
+      Value: |
+        <p>AFL has decades of experience connecting multiple dwelling / tenant units (MDUs / MTUs) into Fiber-to-the-Premises (FTTP) networks. That expertise crosses a wide assortment of structures and conditions in all parts of the U.S. With a complete portfolio of MxU solutions, AFL delivers optimal fiber optic connectivity from a central point in the MxU to individual premises. We have a thorough understanding of fiber optics, coax/copper cable, network, design and how it all fits together.</p>
+        <p>Whether you have a new or existing structure, need active or passive fiber optic networks or require vertical or horizontal installation, AFL has the products to ensure FTTP networks reliably scale heights across multiple floors in residential, commercial and industrial buildings.</p>
+        <p>With a reputation as a problem solver in the MxU space, AFL solutions enable you to offer technology as a premium service in your facility. As a division of Fujikura, one of the world's leading manufacturers of&nbsp;<a href="/Products/Fiber-Optic-Cable">fiber optic cable</a>, AFL has the know-how to solve your quad play (video, voice, data and security) requirements. And, as fiber experts, we have designed and developed supporting products and services all intended to solve any or all of your MxU challenges.</p>
+        <p>AFL provides components for passive infrastructure.</p>
+        <h2>AFL MxU Product Solutions:</h2>
+        <ul>
+            <li><a href="/Products/Fiber-Optic-Connectivity/FTTx-Splitter-Cabinets-and-Accessories">MDU Product Solutions</a></li>
+            <li><a href="/Services/What-We-Do/Structured-Cabling">Custom Cabling</a></li>
+            <li><a href="/Products/Fiber-Optic-Connectivity/Rack-Mount-Patch-Panels">Panels</a></li>
+            <li><a href="/Products/Fiber-Optic-Connectivity/Connectivity-Accessories">Connectors</a></li>
+            <li><a href="/Fiber-Optic-Connectivity/Preterminated-Cable-Assemblies">Assemblies</a></li>
+            <li><a href="/Products/Fiber-Optic-Connectivity/Wall-Mounted-Enclosures-and-Panels/Indoor">Enclosures</a></li>
+            <li><a href="/Products/Test-and-Inspection">Test and Inspection Equipment</a></li>
+            <li><a href="/Products/Fusion-Splicing">Fusion Splicers</a></li>
+        </ul>
+        <p>With a broad spectrum of products and solutions, it is no surprise that key industry leaders rely on AFL to design, develop and deliver end-to-end solutions for the MDU market.</p>
+        <h2>AFL MxU Services and Training Solutions:</h2>
+        <ul>
+            <li><a href="/Services/Solutions/Integrated-FTTx">M</a><a href="/Services/Solutions/Multi-Dwelling-Units-MDU">ulti Dwelling / Tenant Units (MxU)</a></li>
+        </ul>
+        <p>At AFL, we offer a fully integrated MxU services solution: we do pre-field, quoting, pre-build, construction, completion and submission as well as aceptance and billing to meet our customers&rsquo; needs.</p>
+        <p>Whether you need an end-to-end solution, expertise on parts of the project, or aren&rsquo;t quite sure where to start, we have you covered. We can plan, design and build from the ground up, add to existing infrastructure, or upgrade outdated solutions.</p>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mahesh
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: |
+        MDUs multiple dwelling units private network technology AFL fiber optic
+        
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: MxUs
+    - ID: "628db04b-29a2-483b-a88c-b8fd9a5f2086"
+      Hint: HeroLink
+      Value: |
+        <link id="{EA9EAC28-866E-4234-AA46-125F0BB886CC}" querystring="" linktype="internal" text="LEARN MORE" anchor="" url="/AFL-Global/EMEA/Home/Solutions/Service Provider/Converged Access Network/MxUs" title="" class="" target="|Custom" />
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: MxUs
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0e8444de-4122-4393-a25e-faa36cbf7f4a"
+    - ID: "93dc88f3-05e5-482d-9b9a-c859c8258a73"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="167947" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/167947/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/mxusbanner?v=115bac7d" stylelabs-content-type="Image" alt="solutions-mdu.jpg" height="369" width="954" />
+    - ID: "a40ebd3d-2b41-41fb-90f7-753544ce77c5"
+      Hint: Hero Title1
+      Value: Multiple Dwelling/Tenant Units
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d8b38dd7-e9a0-4410-9f17-d436b0c8635a"
+      Hint: OpenGraphImageUrl
+      Value: |
+        <image mediaid="{064748B7-7D07-473A-B7C8-76CF966F6FB7}" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T094442Z
+    - ID: "dd0b26a2-9ca3-4573-b501-3b33a6efbc65"
+      Hint: Hero Title2
+      Value: "Rely on AFL to design, develop and deliver end-to-end MxU solutions"
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211122T092302Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: MxUs
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: |
+        MDUs - Multiple dwelling units  bring private network technology to each unit of the dwelling using AFL fiber optic products.
+        
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <h2>AFL fiber optic products enable delivery of quad-play services in multiple dwelling / tenant units</h2>
+        <p>AFL has decades of experience connecting multiple dwelling / tenant units (MDUs / MTUs) into Fiber-to-the-Premises (FTTP) networks. That expertise crosses a wide assortment of structures and conditions in all parts of the U.S. With a complete portfolio of MxU solutions, AFL delivers optimal fiber optic connectivity from a central point in the MxU to individual premises. We have a thorough understanding of fiber optics, coax/copper cable, network, design and how it all fits together.</p>
+        <p>Whether you have a new or existing structure, need active or passive fiber optic networks or require vertical or horizontal installation, AFL has the products to ensure FTTP networks reliably scale heights across multiple floors in residential, commercial and industrial buildings.</p>
+        <p>With a reputation as a problem solver in the MxU space, AFL solutions enable you to offer technology as a premium service in your facility. As a division of Fujikura, one of the world's leading manufacturers of <a href="/Products/Fiber-Optic-Cable">fiber optic cable</a>, AFL has the know-how to solve your quad play (video, voice, data and security) requirements. And, as fiber experts, we have designed and developed supporting products and services all intended to solve any or all of your MxU challenges.</p>
+        <p>AFL provides components for passive infrastructure.</p>
+        <h2>AFL MxU Product Solutions:</h2>
+        <ul>
+            <li><a href="/Products/Fiber-Optic-Connectivity/FTTx-Splitter-Cabinets-and-Accessories">MDU Product Solutions</a></li>
+            <li>Custom Cabling</li>
+            <li><a href="/Products/Fiber-Optic-Connectivity/Rack-Mount-Patch-Panels.aspx">Panels</a></li>
+            <li><a href="/Products/Fiber-Optic-Connectivity/Connectivity-Accessories.">Connectors</a></li>
+            <li><a href="/Products/Fiber-Optic-Connectivity/Preterminated-Cable-Assemblies">Assemblies</a></li>
+            <li><a href="/Products/Fiber-Optic-Connectivity/Wall-Mounted-Enclosures-and-Panels/Indoor">Enclosures</a></li>
+            <li><a href="/Products/Test-and-Inspection">Test and Inspection Equipment</a></li>
+            <li><a href="/Products/Fusion-Splicing">Fusion Splicers</a></li>
+        </ul>
+        <p>With a broad spectrum of products and solutions, it is no surprise that key industry leaders rely on AFL to design, develop and deliver end-to-end solutions for the MDU market.</p>
+        <h2>AFL MxU Services and Training Solutions:</h2>
+        <ul>
+            <li><a href="https://www.aflglobal.com/Services/Solutions/Integrated-FTTx.aspx">M</a><a href="/Services/Solutions/Multi-Dwelling-Units-MDU">ulti Dwelling / Tenant Units (MxU)</a></li>
+        </ul>
+        <p>At AFL, we offer a fully integrated MxU services solution: we do pre-field, quoting, pre-build, construction, completion and submission as well as aceptance and billing to meet our customers’ needs.</p>
+        <p>Whether you need an end-to-end solution, expertise on parts of the project, or aren’t quite sure where to start, we have you covered. We can plan, design and build from the ground up, add to existing infrastructure, or upgrade outdated solutions.</p>
+    - ID: "56611f02-691a-4096-b044-63aa83122916"
+      Hint: Content
+      Value: |
+        <p>AFL has decades of experience connecting multiple dwelling / tenant units (MDUs / MTUs) into Fiber-to-the-Premises (FTTP) networks. That expertise crosses a wide assortment of structures and conditions in all parts of the U.S. With a complete portfolio of MxU solutions, AFL delivers optimal fiber optic connectivity from a central point in the MxU to individual premises. We have a thorough understanding of fiber optics, coax/copper cable, network, design and how it all fits together.</p>
+        <p>Whether you have a new or existing structure, need active or passive fiber optic networks or require vertical or horizontal installation, AFL has the products to ensure FTTP networks reliably scale heights across multiple floors in residential, commercial and industrial buildings.</p>
+        <p>With a reputation as a problem solver in the MxU space, AFL solutions enable you to offer technology as a premium service in your facility. As a division of Fujikura, one of the world's leading manufacturers of&nbsp;<a href="/Products/Fiber-Optic-Cable">fiber optic cable</a>, AFL has the know-how to solve your quad play (video, voice, data and security) requirements. And, as fiber experts, we have designed and developed supporting products and services all intended to solve any or all of your MxU challenges.</p>
+        <p>AFL provides components for passive infrastructure.</p>
+        <h2>AFL MxU Product Solutions:</h2>
+        <ul>
+            <li><a href="/Products/Fiber-Optic-Connectivity/FTTx-Splitter-Cabinets-and-Accessories">MDU Product Solutions</a></li>
+            <li><a href="/Services/What-We-Do/Structured-Cabling">Custom Cabling</a></li>
+            <li><a href="/Products/Fiber-Optic-Connectivity/Rack-Mount-Patch-Panels">Panels</a></li>
+            <li><a href="/Products/Fiber-Optic-Connectivity/Connectivity-Accessories">Connectors</a></li>
+            <li><a href="/Fiber-Optic-Connectivity/Preterminated-Cable-Assemblies">Assemblies</a></li>
+            <li><a href="/Products/Fiber-Optic-Connectivity/Wall-Mounted-Enclosures-and-Panels/Indoor">Enclosures</a></li>
+            <li><a href="/Products/Test-and-Inspection">Test and Inspection Equipment</a></li>
+            <li><a href="/Products/Fusion-Splicing">Fusion Splicers</a></li>
+        </ul>
+        <p>With a broad spectrum of products and solutions, it is no surprise that key industry leaders rely on AFL to design, develop and deliver end-to-end solutions for the MDU market.</p>
+        <h2>AFL MxU Services and Training Solutions:</h2>
+        <ul>
+            <li><a href="/Services/Solutions/Integrated-FTTx">M</a><a href="/Services/Solutions/Multi-Dwelling-Units-MDU">ulti Dwelling / Tenant Units (MxU)</a></li>
+        </ul>
+        <p>At AFL, we offer a fully integrated MxU services solution: we do pre-field, quoting, pre-build, construction, completion and submission as well as aceptance and billing to meet our customers&rsquo; needs.</p>
+        <p>Whether you need an end-to-end solution, expertise on parts of the project, or aren&rsquo;t quite sure where to start, we have you covered. We can plan, design and build from the ground up, add to existing infrastructure, or upgrade outdated solutions.</p>
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: |
+        MDUs multiple dwelling units private network technology AFL fiber optic
+        
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: MxUs
+    - ID: "628db04b-29a2-483b-a88c-b8fd9a5f2086"
+      Hint: HeroLink
+      Value: |
+        <link id="{EA9EAC28-866E-4234-AA46-125F0BB886CC}" querystring="" linktype="internal" text="LEARN MORE" anchor="" url="/AFL-Global/EMEA/Home/Solutions/Service Provider/Converged Access Network/MxUs" title="" class="" target="|Custom" />
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: MxUs
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "84d82aac-b0a0-4532-81f3-6642c980fd62"
+    - ID: "93dc88f3-05e5-482d-9b9a-c859c8258a73"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="167947" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/167947/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/mxusbanner?v=115bac7d" stylelabs-content-type="Image" alt="solutions-mdu.jpg" height="369" width="954" />
+    - ID: "a40ebd3d-2b41-41fb-90f7-753544ce77c5"
+      Hint: Hero Title1
+      Value: Multiple Dwelling/Tenant Units
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d8b38dd7-e9a0-4410-9f17-d436b0c8635a"
+      Hint: OpenGraphImageUrl
+      Value: |
+        <image mediaid="{064748B7-7D07-473A-B7C8-76CF966F6FB7}" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T094441Z
+    - ID: "dd0b26a2-9ca3-4573-b501-3b33a6efbc65"
+      Hint: Hero Title2
+      Value: "Rely on AFL to design, develop and deliver end-to-end MxU solutions"
+- Language: "es-ES"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211122T092302Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: MxUs
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: |
+        MDUs - Multiple dwelling units  bring private network technology to each unit of the dwelling using AFL fiber optic products.
+        
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <h2>AFL fiber optic products enable delivery of quad-play services in multiple dwelling / tenant units</h2>
+        <p>AFL has decades of experience connecting multiple dwelling / tenant units (MDUs / MTUs) into Fiber-to-the-Premises (FTTP) networks. That expertise crosses a wide assortment of structures and conditions in all parts of the U.S. With a complete portfolio of MxU solutions, AFL delivers optimal fiber optic connectivity from a central point in the MxU to individual premises. We have a thorough understanding of fiber optics, coax/copper cable, network, design and how it all fits together.</p>
+        <p>Whether you have a new or existing structure, need active or passive fiber optic networks or require vertical or horizontal installation, AFL has the products to ensure FTTP networks reliably scale heights across multiple floors in residential, commercial and industrial buildings.</p>
+        <p>With a reputation as a problem solver in the MxU space, AFL solutions enable you to offer technology as a premium service in your facility. As a division of Fujikura, one of the world's leading manufacturers of&nbsp;<a href="/Products/Fiber-Optic-Cable">fiber optic cable</a>, AFL has the know-how to solve your quad play (video, voice, data and security) requirements. And, as fiber experts, we have designed and developed supporting products and services all intended to solve any or all of your MxU challenges.</p>
+        <p>AFL provides components for passive infrastructure.</p>
+        <h2>AFL MxU Product Solutions:</h2>
+        <ul>
+            <li><a href="/Products/Fiber-Optic-Connectivity/FTTx-Splitter-Cabinets-and-Accessories">MDU Product Solutions</a></li>
+            <li>Custom Cabling</li>
+            <li><a href="/Products/Fiber-Optic-Connectivity/Rack-Mount-Patch-Panels.aspx">Panels</a></li>
+            <li><a href="/Products/Fiber-Optic-Connectivity/Connectivity-Accessories.">Connectors</a></li>
+            <li><a href="/Products/Fiber-Optic-Connectivity/Preterminated-Cable-Assemblies">Assemblies</a></li>
+            <li><a href="/Products/Fiber-Optic-Connectivity/Wall-Mounted-Enclosures-and-Panels/Indoor">Enclosures</a></li>
+            <li><a href="/Products/Test-and-Inspection">Test and Inspection Equipment</a></li>
+            <li><a href="/Products/Fusion-Splicing">Fusion Splicers</a></li>
+        </ul>
+        <p>With a broad spectrum of products and solutions, it is no surprise that key industry leaders rely on AFL to design, develop and deliver end-to-end solutions for the MDU market.</p>
+        <h2>AFL MxU Services and Training Solutions:</h2>
+        <ul>
+            <li><a href="https://www.aflglobal.com/Services/Solutions/Integrated-FTTx.aspx">M</a><a href="/Services/Solutions/Multi-Dwelling-Units-MDU">ulti Dwelling / Tenant Units (MxU)</a></li>
+        </ul>
+        <p>At AFL, we offer a fully integrated MxU services solution: we do pre-field, quoting, pre-build, construction, completion and submission as well as aceptance and billing to meet our customers&rsquo; needs.</p>
+        <p>Whether you need an end-to-end solution, expertise on parts of the project, or aren&rsquo;t quite sure where to start, we have you covered. We can plan, design and build from the ground up, add to existing infrastructure, or upgrade outdated solutions.</p>
+    - ID: "56611f02-691a-4096-b044-63aa83122916"
+      Hint: Content
+      Value: |
+        <p>AFL has decades of experience connecting multiple dwelling / tenant units (MDUs / MTUs) into Fiber-to-the-Premises (FTTP) networks. That expertise crosses a wide assortment of structures and conditions in all parts of the U.S. With a complete portfolio of MxU solutions, AFL delivers optimal fiber optic connectivity from a central point in the MxU to individual premises. We have a thorough understanding of fiber optics, coax/copper cable, network, design and how it all fits together.</p>
+        <p>Whether you have a new or existing structure, need active or passive fiber optic networks or require vertical or horizontal installation, AFL has the products to ensure FTTP networks reliably scale heights across multiple floors in residential, commercial and industrial buildings.</p>
+        <p>With a reputation as a problem solver in the MxU space, AFL solutions enable you to offer technology as a premium service in your facility. As a division of Fujikura, one of the world's leading manufacturers of&nbsp;<a href="/Products/Fiber-Optic-Cable">fiber optic cable</a>, AFL has the know-how to solve your quad play (video, voice, data and security) requirements. And, as fiber experts, we have designed and developed supporting products and services all intended to solve any or all of your MxU challenges.</p>
+        <p>AFL provides components for passive infrastructure.</p>
+        <h2>AFL MxU Product Solutions:</h2>
+        <ul>
+            <li><a href="/Products/Fiber-Optic-Connectivity/FTTx-Splitter-Cabinets-and-Accessories">MDU Product Solutions</a></li>
+            <li><a href="/Services/What-We-Do/Structured-Cabling">Custom Cabling</a></li>
+            <li><a href="/Products/Fiber-Optic-Connectivity/Rack-Mount-Patch-Panels">Panels</a></li>
+            <li><a href="/Products/Fiber-Optic-Connectivity/Connectivity-Accessories">Connectors</a></li>
+            <li><a href="/Fiber-Optic-Connectivity/Preterminated-Cable-Assemblies">Assemblies</a></li>
+            <li><a href="/Products/Fiber-Optic-Connectivity/Wall-Mounted-Enclosures-and-Panels/Indoor">Enclosures</a></li>
+            <li><a href="/Products/Test-and-Inspection">Test and Inspection Equipment</a></li>
+            <li><a href="/Products/Fusion-Splicing">Fusion Splicers</a></li>
+        </ul>
+        <p>With a broad spectrum of products and solutions, it is no surprise that key industry leaders rely on AFL to design, develop and deliver end-to-end solutions for the MDU market.</p>
+        <h2>AFL MxU Services and Training Solutions:</h2>
+        <ul>
+            <li><a href="/Services/Solutions/Integrated-FTTx">M</a><a href="/Services/Solutions/Multi-Dwelling-Units-MDU">ulti Dwelling / Tenant Units (MxU)</a></li>
+        </ul>
+        <p>At AFL, we offer a fully integrated MxU services solution: we do pre-field, quoting, pre-build, construction, completion and submission as well as aceptance and billing to meet our customers&rsquo; needs.</p>
+        <p>Whether you need an end-to-end solution, expertise on parts of the project, or aren&rsquo;t quite sure where to start, we have you covered. We can plan, design and build from the ground up, add to existing infrastructure, or upgrade outdated solutions.</p>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mahesh
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: |
+        MDUs multiple dwelling units private network technology AFL fiber optic
+        
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: MxUs
+    - ID: "628db04b-29a2-483b-a88c-b8fd9a5f2086"
+      Hint: HeroLink
+      Value: |
+        <link id="{EA9EAC28-866E-4234-AA46-125F0BB886CC}" querystring="" linktype="internal" text="LEARN MORE" anchor="" url="/AFL-Global/EMEA/Home/Solutions/Service Provider/Converged Access Network/MxUs" title="" class="" target="|Custom" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0f308f66-2e2f-4423-b653-0e37a7bc90e7"
+    - ID: "93dc88f3-05e5-482d-9b9a-c859c8258a73"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image mediaid="{E16F6436-B626-47E9-8339-4655CEFCF4C5}" />
+    - ID: "a40ebd3d-2b41-41fb-90f7-753544ce77c5"
+      Hint: Hero Title1
+      Value: Multiple Dwelling/Tenant Units
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sripada
+    - ID: "d8b38dd7-e9a0-4410-9f17-d436b0c8635a"
+      Hint: OpenGraphImageUrl
+      Value: |
+        <image mediaid="{064748B7-7D07-473A-B7C8-76CF966F6FB7}" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231206T080542Z
+    - ID: "dd0b26a2-9ca3-4573-b501-3b33a6efbc65"
+      Hint: Hero Title2
+      Value: "Rely on AFL to design, develop and deliver end-to-end MxU solutions"
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211122T092302Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Edificios de apartamentos
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: |
+        MDUs - Multiple dwelling units  bring private network technology to each unit of the dwelling using AFL fiber optic products.
+        
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <h2>AFL fiber optic products enable delivery of quad-play services in multiple dwelling / tenant units</h2>
+        <p>AFL has decades of experience connecting multiple dwelling / tenant units (MDUs / MTUs) into Fiber-to-the-Premises (FTTP) networks. That expertise crosses a wide assortment of structures and conditions in all parts of the U.S. With a complete portfolio of MxU solutions, AFL delivers optimal fiber optic connectivity from a central point in the MxU to individual premises. We have a thorough understanding of fiber optics, coax/copper cable, network, design and how it all fits together.</p>
+        <p>Whether you have a new or existing structure, need active or passive fiber optic networks or require vertical or horizontal installation, AFL has the products to ensure FTTP networks reliably scale heights across multiple floors in residential, commercial and industrial buildings.</p>
+        <p>With a reputation as a problem solver in the MxU space, AFL solutions enable you to offer technology as a premium service in your facility. As a division of Fujikura, one of the world's leading manufacturers of <a href="/Products/Fiber-Optic-Cable">fiber optic cable</a>, AFL has the know-how to solve your quad play (video, voice, data and security) requirements. And, as fiber experts, we have designed and developed supporting products and services all intended to solve any or all of your MxU challenges.</p>
+        <p>AFL provides components for passive infrastructure.</p>
+        <h2>AFL MxU Product Solutions:</h2>
+        <ul>
+            <li><a href="/Products/Fiber-Optic-Connectivity/FTTx-Splitter-Cabinets-and-Accessories">MDU Product Solutions</a></li>
+            <li>Custom Cabling</li>
+            <li><a href="/Products/Fiber-Optic-Connectivity/Rack-Mount-Patch-Panels.aspx">Panels</a></li>
+            <li><a href="/Products/Fiber-Optic-Connectivity/Connectivity-Accessories.">Connectors</a></li>
+            <li><a href="/Products/Fiber-Optic-Connectivity/Preterminated-Cable-Assemblies">Assemblies</a></li>
+            <li><a href="/Products/Fiber-Optic-Connectivity/Wall-Mounted-Enclosures-and-Panels/Indoor">Enclosures</a></li>
+            <li><a href="/Products/Test-and-Inspection">Test and Inspection Equipment</a></li>
+            <li><a href="/Products/Fusion-Splicing">Fusion Splicers</a></li>
+        </ul>
+        <p>With a broad spectrum of products and solutions, it is no surprise that key industry leaders rely on AFL to design, develop and deliver end-to-end solutions for the MDU market.</p>
+        <h2>AFL MxU Services and Training Solutions:</h2>
+        <ul>
+            <li><a href="https://www.aflglobal.com/Services/Solutions/Integrated-FTTx.aspx">M</a><a href="/Services/Solutions/Multi-Dwelling-Units-MDU">ulti Dwelling / Tenant Units (MxU)</a></li>
+        </ul>
+        <p>At AFL, we offer a fully integrated MxU services solution: we do pre-field, quoting, pre-build, construction, completion and submission as well as aceptance and billing to meet our customers’ needs.</p>
+        <p>Whether you need an end-to-end solution, expertise on parts of the project, or aren’t quite sure where to start, we have you covered. We can plan, design and build from the ground up, add to existing infrastructure, or upgrade outdated solutions.</p>
+    - ID: "56611f02-691a-4096-b044-63aa83122916"
+      Hint: Content
+      Value: |
+        <p>AFL has decades of experience connecting multiple dwelling / tenant units (MDUs / MTUs) into Fiber-to-the-Premises (FTTP) networks. That expertise crosses a wide assortment of structures and conditions in all parts of the U.S. With a complete portfolio of MxU solutions, AFL delivers optimal fiber optic connectivity from a central point in the MxU to individual premises. We have a thorough understanding of fiber optics, coax/copper cable, network, design and how it all fits together.</p>
+        <p>Whether you have a new or existing structure, need active or passive fiber optic networks or require vertical or horizontal installation, AFL has the products to ensure FTTP networks reliably scale heights across multiple floors in residential, commercial and industrial buildings.</p>
+        <p>With a reputation as a problem solver in the MxU space, AFL solutions enable you to offer technology as a premium service in your facility. As a division of Fujikura, one of the world's leading manufacturers of&nbsp;<a href="/Products/Fiber-Optic-Cable">fiber optic cable</a>, AFL has the know-how to solve your quad play (video, voice, data and security) requirements. And, as fiber experts, we have designed and developed supporting products and services all intended to solve any or all of your MxU challenges.</p>
+        <p>AFL provides components for passive infrastructure.</p>
+        <h2>AFL MxU Product Solutions:</h2>
+        <ul>
+            <li><a href="/Products/Fiber-Optic-Connectivity/FTTx-Splitter-Cabinets-and-Accessories">MDU Product Solutions</a></li>
+            <li><a href="/Services/What-We-Do/Structured-Cabling">Custom Cabling</a></li>
+            <li><a href="/Products/Fiber-Optic-Connectivity/Rack-Mount-Patch-Panels">Panels</a></li>
+            <li><a href="/Products/Fiber-Optic-Connectivity/Connectivity-Accessories">Connectors</a></li>
+            <li><a href="/Fiber-Optic-Connectivity/Preterminated-Cable-Assemblies">Assemblies</a></li>
+            <li><a href="/Products/Fiber-Optic-Connectivity/Wall-Mounted-Enclosures-and-Panels/Indoor">Enclosures</a></li>
+            <li><a href="/Products/Test-and-Inspection">Test and Inspection Equipment</a></li>
+            <li><a href="/Products/Fusion-Splicing">Fusion Splicers</a></li>
+        </ul>
+        <p>With a broad spectrum of products and solutions, it is no surprise that key industry leaders rely on AFL to design, develop and deliver end-to-end solutions for the MDU market.</p>
+        <h2>AFL MxU Services and Training Solutions:</h2>
+        <ul>
+            <li><a href="/Services/Solutions/Integrated-FTTx">M</a><a href="/Services/Solutions/Multi-Dwelling-Units-MDU">ulti Dwelling / Tenant Units (MxU)</a></li>
+        </ul>
+        <p>At AFL, we offer a fully integrated MxU services solution: we do pre-field, quoting, pre-build, construction, completion and submission as well as aceptance and billing to meet our customers&rsquo; needs.</p>
+        <p>Whether you need an end-to-end solution, expertise on parts of the project, or aren&rsquo;t quite sure where to start, we have you covered. We can plan, design and build from the ground up, add to existing infrastructure, or upgrade outdated solutions.</p>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mahesh
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: |
+        MDUs multiple dwelling units private network technology AFL fiber optic
+        
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: Edificios de apartamentos
+    - ID: "628db04b-29a2-483b-a88c-b8fd9a5f2086"
+      Hint: HeroLink
+      Value: |
+        <link id="{EA9EAC28-866E-4234-AA46-125F0BB886CC}" querystring="" linktype="internal" text="LEARN MORE" anchor="" url="/AFL-Global/EMEA/Home/Solutions/Service Provider/Converged Access Network/MxUs" title="" class="" target="|Custom" />
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: Edificios de apartamentos
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3c8e38d7-34c5-450a-9cd3-c8362e63ca03"
+    - ID: "93dc88f3-05e5-482d-9b9a-c859c8258a73"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="167947" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/167947/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/mxusbanner?v=115bac7d" stylelabs-content-type="Image" alt="solutions-mdu.jpg" height="369" width="954" />
+    - ID: "a40ebd3d-2b41-41fb-90f7-753544ce77c5"
+      Hint: Hero Title1
+      Value: Multiple Dwelling/Tenant Units
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "d8b38dd7-e9a0-4410-9f17-d436b0c8635a"
+      Hint: OpenGraphImageUrl
+      Value: |
+        <image mediaid="{064748B7-7D07-473A-B7C8-76CF966F6FB7}" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T094441Z
+    - ID: "dd0b26a2-9ca3-4573-b501-3b33a6efbc65"
+      Hint: Hero Title2
+      Value: "Rely on AFL to design, develop and deliver end-to-end MxU solutions"
+- Language: "fr-FR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211122T092302Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: MxUs
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: |
+        MDUs - Multiple dwelling units  bring private network technology to each unit of the dwelling using AFL fiber optic products.
+        
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <h2>AFL fiber optic products enable delivery of quad-play services in multiple dwelling / tenant units</h2>
+        <p>AFL has decades of experience connecting multiple dwelling / tenant units (MDUs / MTUs) into Fiber-to-the-Premises (FTTP) networks. That expertise crosses a wide assortment of structures and conditions in all parts of the U.S. With a complete portfolio of MxU solutions, AFL delivers optimal fiber optic connectivity from a central point in the MxU to individual premises. We have a thorough understanding of fiber optics, coax/copper cable, network, design and how it all fits together.</p>
+        <p>Whether you have a new or existing structure, need active or passive fiber optic networks or require vertical or horizontal installation, AFL has the products to ensure FTTP networks reliably scale heights across multiple floors in residential, commercial and industrial buildings.</p>
+        <p>With a reputation as a problem solver in the MxU space, AFL solutions enable you to offer technology as a premium service in your facility. As a division of Fujikura, one of the world's leading manufacturers of <a href="/Products/Fiber-Optic-Cable">fiber optic cable</a>, AFL has the know-how to solve your quad play (video, voice, data and security) requirements. And, as fiber experts, we have designed and developed supporting products and services all intended to solve any or all of your MxU challenges.</p>
+        <p>AFL provides components for passive infrastructure.</p>
+        <h2>AFL MxU Product Solutions:</h2>
+        <ul>
+            <li><a href="/Products/Fiber-Optic-Connectivity/FTTx-Splitter-Cabinets-and-Accessories">MDU Product Solutions</a></li>
+            <li>Custom Cabling</li>
+            <li><a href="/Products/Fiber-Optic-Connectivity/Rack-Mount-Patch-Panels.aspx">Panels</a></li>
+            <li><a href="/Products/Fiber-Optic-Connectivity/Connectivity-Accessories.">Connectors</a></li>
+            <li><a href="/Products/Fiber-Optic-Connectivity/Preterminated-Cable-Assemblies">Assemblies</a></li>
+            <li><a href="/Products/Fiber-Optic-Connectivity/Wall-Mounted-Enclosures-and-Panels/Indoor">Enclosures</a></li>
+            <li><a href="/Products/Test-and-Inspection">Test and Inspection Equipment</a></li>
+            <li><a href="/Products/Fusion-Splicing">Fusion Splicers</a></li>
+        </ul>
+        <p>With a broad spectrum of products and solutions, it is no surprise that key industry leaders rely on AFL to design, develop and deliver end-to-end solutions for the MDU market.</p>
+        <h2>AFL MxU Services and Training Solutions:</h2>
+        <ul>
+            <li><a href="https://www.aflglobal.com/Services/Solutions/Integrated-FTTx.aspx">M</a><a href="/Services/Solutions/Multi-Dwelling-Units-MDU">ulti Dwelling / Tenant Units (MxU)</a></li>
+        </ul>
+        <p>At AFL, we offer a fully integrated MxU services solution: we do pre-field, quoting, pre-build, construction, completion and submission as well as aceptance and billing to meet our customers’ needs.</p>
+        <p>Whether you need an end-to-end solution, expertise on parts of the project, or aren’t quite sure where to start, we have you covered. We can plan, design and build from the ground up, add to existing infrastructure, or upgrade outdated solutions.</p>
+    - ID: "56611f02-691a-4096-b044-63aa83122916"
+      Hint: Content
+      Value: |
+        <p>AFL has decades of experience connecting multiple dwelling / tenant units (MDUs / MTUs) into Fiber-to-the-Premises (FTTP) networks. That expertise crosses a wide assortment of structures and conditions in all parts of the U.S. With a complete portfolio of MxU solutions, AFL delivers optimal fiber optic connectivity from a central point in the MxU to individual premises. We have a thorough understanding of fiber optics, coax/copper cable, network, design and how it all fits together.</p>
+        <p>Whether you have a new or existing structure, need active or passive fiber optic networks or require vertical or horizontal installation, AFL has the products to ensure FTTP networks reliably scale heights across multiple floors in residential, commercial and industrial buildings.</p>
+        <p>With a reputation as a problem solver in the MxU space, AFL solutions enable you to offer technology as a premium service in your facility. As a division of Fujikura, one of the world's leading manufacturers of&nbsp;<a href="/Products/Fiber-Optic-Cable">fiber optic cable</a>, AFL has the know-how to solve your quad play (video, voice, data and security) requirements. And, as fiber experts, we have designed and developed supporting products and services all intended to solve any or all of your MxU challenges.</p>
+        <p>AFL provides components for passive infrastructure.</p>
+        <h2>AFL MxU Product Solutions:</h2>
+        <ul>
+            <li><a href="/Products/Fiber-Optic-Connectivity/FTTx-Splitter-Cabinets-and-Accessories">MDU Product Solutions</a></li>
+            <li><a href="/Services/What-We-Do/Structured-Cabling">Custom Cabling</a></li>
+            <li><a href="/Products/Fiber-Optic-Connectivity/Rack-Mount-Patch-Panels">Panels</a></li>
+            <li><a href="/Products/Fiber-Optic-Connectivity/Connectivity-Accessories">Connectors</a></li>
+            <li><a href="/Fiber-Optic-Connectivity/Preterminated-Cable-Assemblies">Assemblies</a></li>
+            <li><a href="/Products/Fiber-Optic-Connectivity/Wall-Mounted-Enclosures-and-Panels/Indoor">Enclosures</a></li>
+            <li><a href="/Products/Test-and-Inspection">Test and Inspection Equipment</a></li>
+            <li><a href="/Products/Fusion-Splicing">Fusion Splicers</a></li>
+        </ul>
+        <p>With a broad spectrum of products and solutions, it is no surprise that key industry leaders rely on AFL to design, develop and deliver end-to-end solutions for the MDU market.</p>
+        <h2>AFL MxU Services and Training Solutions:</h2>
+        <ul>
+            <li><a href="/Services/Solutions/Integrated-FTTx">M</a><a href="/Services/Solutions/Multi-Dwelling-Units-MDU">ulti Dwelling / Tenant Units (MxU)</a></li>
+        </ul>
+        <p>At AFL, we offer a fully integrated MxU services solution: we do pre-field, quoting, pre-build, construction, completion and submission as well as aceptance and billing to meet our customers&rsquo; needs.</p>
+        <p>Whether you need an end-to-end solution, expertise on parts of the project, or aren&rsquo;t quite sure where to start, we have you covered. We can plan, design and build from the ground up, add to existing infrastructure, or upgrade outdated solutions.</p>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mahesh
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: |
+        MDUs multiple dwelling units private network technology AFL fiber optic
+        
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: MxUs
+    - ID: "628db04b-29a2-483b-a88c-b8fd9a5f2086"
+      Hint: HeroLink
+      Value: |
+        <link id="{EA9EAC28-866E-4234-AA46-125F0BB886CC}" querystring="" linktype="internal" text="LEARN MORE" anchor="" url="/AFL-Global/EMEA/Home/Solutions/Service Provider/Converged Access Network/MxUs" title="" class="" target="|Custom" />
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: MxUs
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "824e0f1c-ff0a-4aab-b693-0298c1a35400"
+    - ID: "93dc88f3-05e5-482d-9b9a-c859c8258a73"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="167947" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/167947/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/mxusbanner?v=115bac7d" stylelabs-content-type="Image" alt="solutions-mdu.jpg" height="369" width="954" />
+    - ID: "a40ebd3d-2b41-41fb-90f7-753544ce77c5"
+      Hint: Hero Title1
+      Value: Multiple Dwelling/Tenant Units
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d8b38dd7-e9a0-4410-9f17-d436b0c8635a"
+      Hint: OpenGraphImageUrl
+      Value: |
+        <image mediaid="{064748B7-7D07-473A-B7C8-76CF966F6FB7}" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T094441Z
+    - ID: "dd0b26a2-9ca3-4573-b501-3b33a6efbc65"
+      Hint: Hero Title2
+      Value: "Rely on AFL to design, develop and deliver end-to-end MxU solutions"

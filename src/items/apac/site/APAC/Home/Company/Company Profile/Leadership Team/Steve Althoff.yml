@@ -1,0 +1,106 @@
+﻿---
+ID: "bc54f46f-b020-433c-9b87-cb4a3ef57aa7"
+Parent: "74757c65-68ad-4966-9977-85354a7ca746"
+Template: "bf61de11-b78f-48ea-aaa4-1d17f0d83824"
+Path: /sitecore/content/AFLGlobal/APAC/Home/Company/Company Profile/Leadership Team/Steve Althoff
+SharedFields:
+- ID: "1fbc6a49-6281-48ee-87e9-a3970b145adb"
+  Hint: NavigationFilter
+  Value: "{D063E9D1-C7B5-4B1E-B31E-69886C9C59F5}"
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{87CE798E-CDA3-4363-A47F-74DF3E2D88BE}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{DAE7C21D-4D3B-4257-A95C-9104CD8AF409}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 2100
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220308T154022Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{EE9BAFE9-A55E-406B-8BBF-45ADF7FF9068}"
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Steve Althoff
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Rob
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: Steve Althoff is president of the AFL Hyperscale division which focuses on serving AFL’s largest data center clients. Additionally, Steve also oversees Light Brigade®, AFL’s training and education division.
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <div style="font-size: 18px; color: rgb(51, 51, 51);">
+        	<div>
+        		 </div>
+        	<div style="background-color: rgb(0, 192, 243); font-style: italic; font-weight: bold; color: rgb(255, 255, 255); font-family: Hind, sans-serif; border-left: 0px solid; color:#ffffff;">
+        		<div style="padding: 30px; color:#ffffff;">
+        			"Our impressive bloodline of two strong reputable companies (Alcoa and Fujikura) has allowed AFL to build and nurture an excellent reputation in the marketplace. This, combined with our compassion for our customers, definitely sets AFL apart."</div>
+        	</div>
+        </div>
+        <br />
+        <p>
+        	Steve Althoff is president of the <a href="https://www.aflhyperscale.com/" target="_blank">AFL Hyperscale</a> division which focuses on serving AFL’s largest data center clients. Additionally, Steve also oversees Light Brigade®, AFL’s training and education division.</p>
+        <p>
+        	During Steve’s tenure as executive vice president, AFL has maintained a dominant market position for <a href="/Products/Fusion-Splicing.aspx">Fujikura splicers</a> and accessories in North America. He has worked hand-in-hand with Fujikura’s Research and Development team to launch new products that are true differentiators in the market. AFL’s <a href="/Products/Test-and-Inspection.aspx">Test and Inspection</a> division has also grown considerably both in terms of global sales and product development under Steve’s leadership.</p>
+        <p>
+        	In concert with AFL’s aggressive growth strategy, Steve was engaged in the purchase of the <a href="https://www.lightbrigade.com/" target="_blank">Light Brigade</a>, the world's leading fiber optic training company, which has positively contributed to AFL’s vision to offer our customers turnkey solutions. </p>
+        <p>
+        	Since joining the company in 1991, Steve rapidly progressed through a series of roles and has successfully worked directly with most of AFL’s diverse product lines. He began his career in sales, marketing Fujikura splicer and connectivity products first to the telecommunications and broadband industries, and then for the electric utility market. From sales, Steve moved into product management where he was responsible for product development and overall profitability for AFL’s splicer and connectivity product lines. Steve was promoted to director of North American sales where he was instrumental in driving strategic revenue growth across the business.</p>
+        <p>
+        	Steve is a graduate of the State University of New York at Geneseo where he earned a Bachelor of Science in Business Administration with a minor in Computer Science.</p>
+        <p>
+        	 </p>
+        <p>
+        	<a href="/Company/Company-Profile/Leadership-Team/">< Back to Leadership Page</a></p>
+        
+    - ID: "5d336bce-e421-4fe8-ad55-214f80d841ad"
+      Hint: "Sub-Heading"
+      Value: President, AFL Hyperscale
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Rob
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: Steve Althoff President General Manager AFL hyperscale
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: Steve Althoff is AFL's President, Hyperscale
+    - ID: "612fc437-a34e-408c-a80f-a3ce18887805"
+      Hint: SuggestionBoxRedirectIcon
+      Value: |
+        <image mediaid="{5A901871-5681-4DAD-ABC1-FB375934B088}" alt="Suggestion Box" height="" width="" hspace="" vspace="" />
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: Steve Althoff is AFL's President, Hyperscale
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a8c25157-783f-40df-b0fd-ac2249ff9688"
+    - ID: "93dc88f3-05e5-482d-9b9a-c859c8258a73"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="170706" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/170706/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/Steve-Althoff-Hero?v=3c679028" stylelabs-content-type="Image" alt="Steve_Althoff_955x369.jpg" height="369" width="955" />
+    - ID: "a40ebd3d-2b41-41fb-90f7-753544ce77c5"
+      Hint: Hero Title1
+      Value: Steve Althoff
+    - ID: "ab91d39b-30ad-4050-acef-07c741146fcc"
+      Hint: Heading
+      Value: Steve Althoff
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\pawan.tyagi@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240316T041631Z

@@ -1,0 +1,414 @@
+﻿---
+ID: "32bd6f65-aba8-4149-b2d6-64c02df15fea"
+Parent: "f5e14b66-0f22-4cd7-9db2-1f673ae9db95"
+Template: "bf61de11-b78f-48ea-aaa4-1d17f0d83824"
+Path: "/sitecore/content/AFL-Global/AMERICAS/Home/Company/Community/Unite"
+SharedFields:
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{274C9F86-81B9-4FFC-87CA-8B19AB3A526D}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{DAE7C21D-4D3B-4257-A95C-9104CD8AF409}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 600
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211124T172839Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Unite
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: AFL's annual Worldwide Month of Service engages in projects that support our communities and invest in their future.
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <h2>Imagine dedicating one month each year to help others</h2>
+        <p>Around the world, AFL associates take part in UNITE, our annual month of service held during September each year. UNITE connects us worldwide to organizations that need support and provides associates an opportunity to give back to their communities in a meaningful way. In September 2022, AFL associates volunteered more than 1,586 hours to various community organizations and charities.</p>
+        <p>Associates across the globe participated in a variety of programs including:</p>
+        <ul>
+            <li>Building homes and painting projects</li>
+            <li>Gardening, yard and grounds cleanup</li>
+            <li>Collecting food and sorting/boxing food at local food banks</li>
+            <li>Serving food at community shelters</li>
+            <li>Volunteering at a vaccination center</li>
+            <li>A charity ride to support Parkinson’s research – raising over $4,000</li>
+            <li>Building care kits for single mothers</li>
+            <li>Hurricane relief efforts</li>
+            <li>A charity walk to support a local food insecurity program</li>
+            <li>Video editing</li>
+            <li>Park cleanups</li>
+            <li>Blood donations</li>
+        </ul>
+        <p>Volunteering makes a positive impact on the lives of the less fortunate and strengthens our grip on our communities. It helps us understand the need and can make us more accepting by exposing us to different environments and walks of life.  By volunteering we are helping to create healthier communities and brighten the lives of those around us.</p>
+        <h2>Visit our <a href="~/link.aspx?_id=F5E14B660F224CD79DB21F673AE9DB95&_z=z">community homepage</a> for more information.</h2>
+        <p> </p>
+    - ID: "56611f02-691a-4096-b044-63aa83122916"
+      Hint: Content
+      Value: 
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: AFL community Month of service support invest
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: Unite
+    - ID: "628db04b-29a2-483b-a88c-b8fd9a5f2086"
+      Hint: HeroLink
+      Value: |
+        <link id="{32BD6F65-ABA8-4149-B2D6-64C02DF15FEA}" querystring="" target="|Custom" text="LEARN MORE" anchor="" title="" class="" url="/AFL-Global/AMERICAS/Home/Company/Community/Unite" linktype="internal" />
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: Unite
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ceb559ff-bf6a-4f2f-b0cc-fb5a4fa19508"
+    - ID: "93dc88f3-05e5-482d-9b9a-c859c8258a73"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="168680" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/168680/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/664c4345caf54c4ab04ebc87a5cc1c45?v=dabe1336" stylelabs-content-type="Image" alt="community-headers-Unite.jpg" height="769" width="1991" />
+    - ID: "a40ebd3d-2b41-41fb-90f7-753544ce77c5"
+      Hint: Hero Title1
+      Value: Unite
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T091542Z
+    - ID: "dd0b26a2-9ca3-4573-b501-3b33a6efbc65"
+      Hint: Hero Title2
+      Value: "Imagine a community that thrives on everyone's well-being"
+- Language: "es-MX"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211124T172839Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Unite
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: AFL's annual Worldwide Month of Service engages in projects that support our communities and invest in their future.
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <h2>Imagine dedicating one month each year to help others</h2>
+        <p>Around the world, AFL associates take part in UNITE, our annual month of service held during September each year. UNITE connects us worldwide to organizations that need support and provides associates an opportunity to give back to their communities in a meaningful way. In September 2022, AFL associates volunteered more than 1,586 hours to various community organizations and charities.</p>
+        <p>Associates across the globe participated in a variety of programs including:</p>
+        <ul>
+            <li>Building homes and painting projects</li>
+            <li>Gardening, yard and grounds cleanup</li>
+            <li>Collecting food and sorting/boxing food at local food banks</li>
+            <li>Serving food at community shelters</li>
+            <li>Volunteering at a vaccination center</li>
+            <li>A charity ride to support Parkinson’s research – raising over $4,000</li>
+            <li>Building care kits for single mothers</li>
+            <li>Hurricane relief efforts</li>
+            <li>A charity walk to support a local food insecurity program</li>
+            <li>Video editing</li>
+            <li>Park cleanups</li>
+            <li>Blood donations</li>
+        </ul>
+        <p>Volunteering makes a positive impact on the lives of the less fortunate and strengthens our grip on our communities. It helps us understand the need and can make us more accepting by exposing us to different environments and walks of life.  By volunteering we are helping to create healthier communities and brighten the lives of those around us.</p>
+        <h2>Visit our <a href="~/link.aspx?_id=F5E14B660F224CD79DB21F673AE9DB95&_z=z">community homepage</a> for more information.</h2>
+    - ID: "56611f02-691a-4096-b044-63aa83122916"
+      Hint: Content
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mahesh
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: AFL community Month of service support invest
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: Unite (Unidos)
+    - ID: "628db04b-29a2-483b-a88c-b8fd9a5f2086"
+      Hint: HeroLink
+      Value: |
+        <link id="{32BD6F65-ABA8-4149-B2D6-64C02DF15FEA}" querystring="" target="|Custom" text="LEARN MORE" anchor="" title="" class="" url="/AFL-Global/AMERICAS/Home/Company/Community/Unite" linktype="internal" />
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: Unite (Unidos)
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "dbb922ae-3648-47cd-a7ee-dce65e10d9bd"
+    - ID: "93dc88f3-05e5-482d-9b9a-c859c8258a73"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="168680" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/168680/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/664c4345caf54c4ab04ebc87a5cc1c45?v=dabe1336" stylelabs-content-type="Image" alt="community-headers-Unite.jpg" height="769" width="1991" />
+    - ID: "a40ebd3d-2b41-41fb-90f7-753544ce77c5"
+      Hint: Hero Title1
+      Value: Unite
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T091542Z
+    - ID: "dd0b26a2-9ca3-4573-b501-3b33a6efbc65"
+      Hint: Hero Title2
+      Value: "Imagine a community that thrives on everyone's well-being"
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211124T172839Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Unite
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: AFL's annual Worldwide Month of Service engages in projects that support our communities and invest in their future.
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <h2>Imagine dedicating one month each year to help others</h2>
+        <p>Around the world, AFL associates take part in Unite, a program held during September each year that connects us worldwide to organizations that need support. Volunteer teams serve the elderly, students, children, families and more. We build homes, serve meals, collect clothing and food&hellip;the possibilities are endless.<br />
+        <br />
+        Service to one another strengthens our grip on our communities, helps us understand the need and prompts us to share the stories of organizations and their clients. The need is constant, and we are ready to serve.</p>
+        <h2>Abbotsford and Victoria, Canada</h2>
+        <div>A host of volunteers collected 13 20L pails of garbage at Esquimalt Lagoon and Mill Lake Park.</div>
+        <h2>Belmont, New Hampshire</h2>
+        <div>Volunteers donated time to Granite United Way&rsquo;s Day of Caring volunteering for a variety of organizations with tasks from shampooing carpet to painting.</div>
+        <h2>Calgary, Canada</h2>
+        <div>Associates volunteered for a local food bank, collecting 800 bags of canned goods and packed them into crates to ready for distribution.</div>
+        <h2>Durham, North Carolina</h2>
+        <div>Associates conducted an &ldquo;Acts of Kindness&rdquo; campaign where funds collected went toward paying off small debts such as library late fees or unpaid cafeteria bills. A collection drive was also held for students to select from and included school supplies and clothing.</div>
+        <h2>Edmonton, Canada</h2>
+        <div>Team members served 125 hot breakfasts for a local community center.<br />
+        <br />
+        <h2>Haverhill, United Kingdom</h2>
+        <div>Associates baked and sold cakes, cookies and more in support of Macmillan Cancer Support, an organization that offers emotional, physical and financial support to those living with cancer.&nbsp;</div>
+        </div>
+        <h2>Kent, Washington</h2>
+        <div>Associates volunteered in a variety of capacities including a school supply drive, pancake feed fundraiser (for the after-school program with Kent Youth &amp; Family Services), a raffle fundraiser for the Regional Animal Shelter of King County; department fundraising competition and BBQ fundraiser for the Humane Society of King County; and an on-site blood drive.</div>
+        <h2>Milton Keynes, United Kingdom</h2>
+        <div>Associates took part in Willen Sports Day in aid of Willen Hospice and The Great AFL Hyperscale Bake Off in aid of Macmillan Cancer Support.</div>
+        <h2>M&ouml;nchengladbach, Germany</h2>
+        <div>Associates volunteered for Lebenshilfe, an organization that supports people with autism and special needs, by painting a summer house and patio. Volunteers also participated in a campaign to create and install barrier-free access to public buildings and shops in the city centre for people with disabilities. </div>
+        <div> </div>
+        <h2>Monroe, North Carolina</h2>
+        <div>Associates collected coats for clients of Turning Point, Inc. and medical supplies for the Council on Aging. </div>
+        <h2>Monterrey, Mexico</h2>
+        <div>Volunteers gathered to help Todos con Amor by painting various rooms, waterproofing the roof and organizing a book drive.</div>
+        <h2>Mt. Olive, North Carolina</h2>
+        <div>Associates donated knit collared shirts to Kitty Atkins Hospice Center patients so they could wear something new in lieu of a hospital garment, as well as snacks for families of patients. Team members also donated scarfs, toboggans and gloves to the United Way of Wayne County for its Share the Warmth campaign. </div>
+        <h2>North Grafton, Massachusetts</h2>
+        <div>Associates participated in a book drive for Girls Inc. of Worcester County. This organization helps low income girls in grades K-12 achieve academic and social success through a variety of STEM related programs.</div>
+        <h2>Sacramento, California</h2>
+        <div>Associates volunteered with Rise Against Hunger, an international hunger relief organization that distribute food and life-changing aid to the most vulnerable. Twenty-six volunteers unloaded supplies, packaged meals and loaded the truck, packaging 6,048 meals in 2 hours.</div>
+        <h2>Spartanburg, South Carolina</h2>
+        <div>Associates volunteered with several organizations throughout the month including Greer Relief, Habitat for Humanity of Greenville and Spartanburg, Harvest Hope Food Bank, Hope Center for Children, Hope Remains Ranch, Julie Valentine Center and Palmetto Conservation. Volunteers sorted food, landscaped, built, painted and more.</div>
+        <h2>Surrey, Canada</h2>
+        <div>Volunteers collected 10 bags of garbage at Royal Kwantlen Park; supported NightShift by supporting, listening and serving a hot meal to those in need. Lastly, associates supported the Paws for a Cause Drive for BSCPCA by collecting food and clothing for pets.</div>
+        <h2>Swindon, United Kingdom</h2>
+        <div>Associates participated in a wide range of activities including sorting supplies at Prospect Hospice; refurbishing and decorating a meeting room at Headway Swindon; and donating to a food drive supporting Swindon Food Collective.</div>
+        <h2>Tampa Bay, Florida</h2>
+        <div>Associates provided time and materials to complete the wiring of a special room at A Kid&rsquo;s Place.</div>
+        <h2>Westford, Massachusetts</h2>
+        <div>Volunteers participating with the United Way of Massachusetts Bay and Merrimack Valley assembling 200 Fine Motor Fun kits to help pre-school age children develop critical fine motor skills. The kits were distributed by United Way to local nonprofit organizations serving children ages 0 &ndash; 5.<br />
+        <br />
+        <br />
+        <h2>Visit our <a href="https://www.aflglobal.com/Company/Community.aspx">community homepage</a>&nbsp;for more information.</h2>
+        </div>
+    - ID: "56611f02-691a-4096-b044-63aa83122916"
+      Hint: Content
+      Value: |
+        <h2>Imagine dedicating one month each year to help others</h2>
+        <p>Around the world, AFL associates take part in Unite, a program held during September each year that connects us worldwide to organizations that need support. Volunteer teams serve the elderly, students, children, families and more. We build homes, serve meals, collect clothing and food&hellip;the possibilities are endless.<br />
+        <br />
+        Service to one another strengthens our grip on our communities, helps us understand the need and prompts us to share the stories of organizations and their clients. The need is constant, and we are ready to serve.</p>
+        <h2>Abbotsford and Victoria, Canada</h2>
+        <div>A host of volunteers collected 13 20L pails of garbage at Esquimalt Lagoon and Mill Lake Park.</div>
+        <h2>Belmont, New Hampshire</h2>
+        <div>Volunteers donated time to Granite United Way&rsquo;s Day of Caring volunteering for a variety of organizations with tasks from shampooing carpet to painting.</div>
+        <h2>Calgary, Canada</h2>
+        <div>Associates volunteered for a local food bank, collecting 800 bags of canned goods and packed them into crates to ready for distribution.</div>
+        <h2>Durham, North Carolina</h2>
+        <div>Associates conducted an &ldquo;Acts of Kindness&rdquo; campaign where funds collected went toward paying off small debts such as library late fees or unpaid cafeteria bills. A collection drive was also held for students to select from and included school supplies and clothing.</div>
+        <h2>Edmonton, Canada</h2>
+        <div>Team members served 125 hot breakfasts for a local community center.<br />
+        <br />
+        <h2>Haverhill, United Kingdom</h2>
+        <div>Associates baked and sold cakes, cookies and more in support of Macmillan Cancer Support, an organization that offers emotional, physical and financial support to those living with cancer.&nbsp;</div>
+        </div>
+        <h2>Kent, Washington</h2>
+        <div>Associates volunteered in a variety of capacities including a school supply drive, pancake feed fundraiser (for the after-school program with Kent Youth &amp; Family Services), a raffle fundraiser for the Regional Animal Shelter of King County; department fundraising competition and BBQ fundraiser for the Humane Society of King County; and an on-site blood drive.</div>
+        <h2>Milton Keynes, United Kingdom</h2>
+        <div>Associates took part in Willen Sports Day in aid of Willen Hospice and The Great AFL Hyperscale Bake Off in aid of Macmillan Cancer Support.</div>
+        <h2>M&ouml;nchengladbach, Germany</h2>
+        <div>Associates volunteered for Lebenshilfe, an organization that supports people with autism and special needs, by painting a summer house and patio. Volunteers also participated in a campaign to create and install barrier-free access to public buildings and shops in the city centre for people with disabilities. </div>
+        <div> </div>
+        <h2>Monroe, North Carolina</h2>
+        <div>Associates collected coats for clients of Turning Point, Inc. and medical supplies for the Council on Aging. </div>
+        <h2>Monterrey, Mexico</h2>
+        <div>Volunteers gathered to help Todos con Amor by painting various rooms, waterproofing the roof and organizing a book drive.</div>
+        <h2>Mt. Olive, North Carolina</h2>
+        <div>Associates donated knit collared shirts to Kitty Atkins Hospice Center patients so they could wear something new in lieu of a hospital garment, as well as snacks for families of patients. Team members also donated scarfs, toboggans and gloves to the United Way of Wayne County for its Share the Warmth campaign. </div>
+        <h2>North Grafton, Massachusetts</h2>
+        <div>Associates participated in a book drive for Girls Inc. of Worcester County. This organization helps low income girls in grades K-12 achieve academic and social success through a variety of STEM related programs.</div>
+        <h2>Sacramento, California</h2>
+        <div>Associates volunteered with Rise Against Hunger, an international hunger relief organization that distribute food and life-changing aid to the most vulnerable. Twenty-six volunteers unloaded supplies, packaged meals and loaded the truck, packaging 6,048 meals in 2 hours.</div>
+        <h2>Spartanburg, South Carolina</h2>
+        <div>Associates volunteered with several organizations throughout the month including Greer Relief, Habitat for Humanity of Greenville and Spartanburg, Harvest Hope Food Bank, Hope Center for Children, Hope Remains Ranch, Julie Valentine Center and Palmetto Conservation. Volunteers sorted food, landscaped, built, painted and more.</div>
+        <h2>Surrey, Canada</h2>
+        <div>Volunteers collected 10 bags of garbage at Royal Kwantlen Park; supported NightShift by supporting, listening and serving a hot meal to those in need. Lastly, associates supported the Paws for a Cause Drive for BSCPCA by collecting food and clothing for pets.</div>
+        <h2>Swindon, United Kingdom</h2>
+        <div>Associates participated in a wide range of activities including sorting supplies at Prospect Hospice; refurbishing and decorating a meeting room at Headway Swindon; and donating to a food drive supporting Swindon Food Collective.</div>
+        <h2>Tampa Bay, Florida</h2>
+        <div>Associates provided time and materials to complete the wiring of a special room at A Kid&rsquo;s Place.</div>
+        <h2>Westford, Massachusetts</h2>
+        <div>Volunteers participating with the United Way of Massachusetts Bay and Merrimack Valley assembling 200 Fine Motor Fun kits to help pre-school age children develop critical fine motor skills. The kits were distributed by United Way to local nonprofit organizations serving children ages 0 &ndash; 5.<br />
+        <br />
+        <br />
+        <h2>Visit our <a>community homepage</a>&nbsp;for more information.</h2>
+        </div>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mahesh
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: AFL community Month of service support invest
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: Unite
+    - ID: "628db04b-29a2-483b-a88c-b8fd9a5f2086"
+      Hint: HeroLink
+      Value: |
+        <link id="{32BD6F65-ABA8-4149-B2D6-64C02DF15FEA}" querystring="" target="|Custom" text="LEARN MORE" anchor="" title="" class="" url="/AFL-Global/AMERICAS/Home/Company/Community/Unite" linktype="internal" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c9c9f185-240e-4469-8446-6634fc4cd8d9"
+    - ID: "93dc88f3-05e5-482d-9b9a-c859c8258a73"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image mediaid="{4D41DC9A-570C-4CED-A200-7EA22D631B74}" />
+    - ID: "a40ebd3d-2b41-41fb-90f7-753544ce77c5"
+      Hint: Hero Title1
+      Value: Unite
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahesh
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220224T113536Z
+    - ID: "dd0b26a2-9ca3-4573-b501-3b33a6efbc65"
+      Hint: Hero Title2
+      Value: "Imagine a community that thrives on everyone's well-being"
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211124T172839Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Unite
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: AFL's annual Worldwide Month of Service engages in projects that support our communities and invest in their future.
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <h2>Imagine dedicating one month each year to help others</h2>
+        <p>Around the world, AFL associates take part in UNITE, our annual month of service held during September each year. UNITE connects us worldwide to organizations that need support and provides associates an opportunity to give back to their communities in a meaningful way. In September 2022, AFL associates volunteered more than 1,586 hours to various community organizations and charities.</p>
+        <p>Associates across the globe participated in a variety of programs including:</p>
+        <ul>
+            <li>Building homes and painting projects</li>
+            <li>Gardening, yard and grounds cleanup</li>
+            <li>Collecting food and sorting/boxing food at local food banks</li>
+            <li>Serving food at community shelters</li>
+            <li>Volunteering at a vaccination center</li>
+            <li>A charity ride to support Parkinson’s research – raising over $4,000</li>
+            <li>Building care kits for single mothers</li>
+            <li>Hurricane relief efforts</li>
+            <li>A charity walk to support a local food insecurity program</li>
+            <li>Video editing</li>
+            <li>Park cleanups</li>
+            <li>Blood donations</li>
+        </ul>
+        <p>Volunteering makes a positive impact on the lives of the less fortunate and strengthens our grip on our communities. It helps us understand the need and can make us more accepting by exposing us to different environments and walks of life.  By volunteering we are helping to create healthier communities and brighten the lives of those around us.</p>
+        <h2>Visit our <a href="~/link.aspx?_id=F5E14B660F224CD79DB21F673AE9DB95&_z=z">community homepage</a> for more information.</h2>
+    - ID: "56611f02-691a-4096-b044-63aa83122916"
+      Hint: Content
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mahesh
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: AFL community Month of service support invest
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: Unir
+    - ID: "628db04b-29a2-483b-a88c-b8fd9a5f2086"
+      Hint: HeroLink
+      Value: |
+        <link id="{32BD6F65-ABA8-4149-B2D6-64C02DF15FEA}" querystring="" target="|Custom" text="LEARN MORE" anchor="" title="" class="" url="/AFL-Global/AMERICAS/Home/Company/Community/Unite" linktype="internal" />
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: Unir
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7baf43a7-6361-4342-91c2-4b83f1a8c0a0"
+    - ID: "93dc88f3-05e5-482d-9b9a-c859c8258a73"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="168680" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/168680/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/664c4345caf54c4ab04ebc87a5cc1c45?v=dabe1336" stylelabs-content-type="Image" alt="community-headers-Unite.jpg" height="769" width="1991" />
+    - ID: "a40ebd3d-2b41-41fb-90f7-753544ce77c5"
+      Hint: Hero Title1
+      Value: Unite
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T091542Z
+    - ID: "dd0b26a2-9ca3-4573-b501-3b33a6efbc65"
+      Hint: Hero Title2
+      Value: "Imagine a community that thrives on everyone's well-being"

@@ -1,0 +1,81 @@
+﻿---
+ID: "6614a609-9a31-4054-8f87-484fe626e90a"
+Parent: "b11e3ef3-26fd-43e8-9bdc-581a2bfebe27"
+Template: "bf61de11-b78f-48ea-aaa4-1d17f0d83824"
+Path: "/sitecore/content/AFL-Global/OCEANIA/Home/Solutions/Industrial/Mining Capabilities"
+SharedFields:
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{EDC9686A-85F3-466E-8E7E-3D28540B77AB}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220201T121313Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Mining Capabilities
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\tanishka
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: Our capabilities in the Mining industry are built on many years of experience in understanding the requirements of key mining projects across all services and headquarters operations.
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <p>To improve safety, meet complex state and federal requirements and maximize profitability, the mining industry continues to upgrade its communications and monitoring infrastructure. Mining companies are looking to fibre optic systems as a highly capable network alternative that will provide world-class communications solutions as well as additional benefits, including greater bandwidth for real-time voice, data and video applications.</p>
+        <p>While investing in newer information technology infrastructures to meet the requirements of the various Environmental, Health and Safety (EHS) systems, mine owners are looking for ways to leverage the capacity, capability and cost of fibre optic systems to measure and monitor air exchange and communicate in real-time. Coupled with the need to measure and monitor is the need to implement improved production efficiencies and use new sensor technologies and IP cameras. AFL's solution provides solid connectivity that underpins gas monitoring, tracking and real-time communications for each miner.</p>
+        <p><strong>White Paper</strong></p>
+        <ul style="margin-top: 0in; list-style-type: disc;">
+            <li style="color: black; margin-left: -0.25in;"><a rel="noopener noreferrer" href="http://content.aflglobal.com/Fiber-Optics-for-Underground-Mines.html" target="_blank">Benefits of Fibre Optics for Underground Mine Communications</a></li>
+            <li style="color: black; margin-left: -0.25in;"><span><a href="~/link.aspx?_id=CA8CB03B5B7F424CBE151A94FDB17968&_z=z">Fibre optic cable</a></span></li>
+        </ul>
+        <ul style="margin-top: 0in; list-style-type: disc;">
+            <li style="color: black; margin-left: 0.25in;"><span>Deployable fibre optic cable </span></li>
+            <li style="color: black; margin-left: 0.25in;"><span>All-dielectric self-supporting (ADSS) cable</span></li>
+            <li style="color: black; margin-left: 0.25in;"><span>Loose tube cable</span></li>
+            <li style="color: black; margin-left: 0.25in;"><span>Direct bury optical cable</span></li>
+            <li style="color: black; margin-left: 0.25in;"><span>Rodent resistant optical cable</span></li>
+            <li style="color: black; margin-left: 0.25in;"><span>Low smoke zero halogen loose tube cable</span></li>
+            <li style="color: black; margin-left: 0.25in;"><span>Harsh environment cables</span></li>
+            <li style="color: black; margin-left: 0.25in;"><span>Fire-Rated optical cables</span></li>
+            <li style="color: black; margin-left: 0.25in;"><span><a href="~/link.aspx?_id=267B981AA87D4E89AF4FF247F4A1CFD2&_z=z">Sidewinder™ Rapid Cable Deployment System</a></span></li>
+        </ul>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\tanishka
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: Australia, New Zealand, solutions,  mining
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: Mining capabilities offered by AFL Australia / New Zealand
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: Mining capabilities offered by AFL Australia / New Zealand
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "80671f70-263a-411f-9be2-75c3b195b8c2"
+    - ID: "93dc88f3-05e5-482d-9b9a-c859c8258a73"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image stylelabs-content-id="71202" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/71202/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/0a56653f521c49e4b36c15131fae7f47?v=0ce835c1" mediaid="" stylelabs-content-type="Image" alt="Slide-Mining.aspx;;" height="379" width="954" />
+    - ID: "a40ebd3d-2b41-41fb-90f7-753544ce77c5"
+      Hint: Hero Title1
+      Value: Mining Capabilities
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T093606Z
+    - ID: "dd0b26a2-9ca3-4573-b501-3b33a6efbc65"
+      Hint: Hero Title2
+      Value: AFL offers a fully integrated portfolio of fiber optic solutions for the mining industry

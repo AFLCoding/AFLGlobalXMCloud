@@ -1,0 +1,60 @@
+﻿---
+ID: "84a5331a-852d-42ea-8168-61141ae48aeb"
+Parent: "10a2a873-38ec-45af-9e7e-e2ee8d587a4e"
+Template: "bf61de11-b78f-48ea-aaa4-1d17f0d83824"
+Path: /sitecore/content/AFLGlobal/APAC/Home/Company/Corporate Responsibility/Governance
+SharedFields:
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{87CE798E-CDA3-4363-A47F-74DF3E2D88BE}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{DAE7C21D-4D3B-4257-A95C-9104CD8AF409}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 275
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "22753447-be25-4035-a3c9-7f875afe8e57"
+      Hint: RedirectUrl
+      Value: |
+        <link linktype="external" url="https://www.aflglobal.com/apac/Company/Corporate-Responsibility?sc_site=AFL-Apac#scrollspyGovernance" anchor="" target="" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20231004T183115Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{EE9BAFE9-A55E-406B-8BBF-45ADF7FF9068}"
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Governance
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rafael
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rafael
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: Governance
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: Governance
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f2818f3e-4f42-449c-9fcd-4bfd64b6ac08"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\pawan.tyagi@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240316T041709Z

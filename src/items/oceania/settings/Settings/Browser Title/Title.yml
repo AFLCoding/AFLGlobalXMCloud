@@ -1,0 +1,37 @@
+﻿---
+ID: "ae814a56-bf72-49e4-b24c-dde1e40ff83b"
+Parent: "33503991-7591-4860-93e0-e6c0307c32c1"
+Template: "fcd285da-9ab2-4c8d-b185-5a7487a9ba1b"
+Path: "/sitecore/content/AFL-Global/OCEANIA/Settings/Browser Title/Title"
+SharedFields:
+- ID: "4753764c-c05a-4623-841b-97f85135241c"
+  Hint: FieldName
+  Value: Title
+- ID: "db805bdc-8eec-4238-b174-2427b6f1f077"
+  Hint: Tag
+  Value: 
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{3D758B49-6123-42B7-B9B8-C04A8A0C4413}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211027T075747Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "fb26549c-014b-4e5a-bf18-99f59431fa78"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\unicorn
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20211103T115724Z

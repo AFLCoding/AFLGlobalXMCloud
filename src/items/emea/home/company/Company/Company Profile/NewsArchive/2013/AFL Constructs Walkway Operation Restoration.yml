@@ -1,0 +1,365 @@
+﻿---
+ID: "a05e59bc-0603-4368-89e5-6779d9644c6e"
+Parent: "e7a3e27a-281f-437d-bd63-e8fa8783ee0a"
+Template: "f36e821e-bb98-44dc-966d-e92a0e033cc7"
+Path: "/sitecore/content/AFL-Global/EMEA/Home/Company/Company Profile/NewsArchive/2013/AFL Constructs Walkway Operation Restoration"
+SharedFields:
+- ID: "1fbc6a49-6281-48ee-87e9-a3970b145adb"
+  Hint: NavigationFilter
+  Value: |
+    {E0A2A027-0932-4878-A7D6-0416D5263EFB}
+    {61BD64D6-809E-40AE-9297-2724A19329B3}
+    {D063E9D1-C7B5-4B1E-B31E-69886C9C59F5}
+    {500AE4C0-FA7B-463F-8149-EFFF7F044101}
+    {A0E7FF57-6994-4B09-AA21-104239628D5A}
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{3A84BAC9-C1BD-4809-A12C-28EB44E25329}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{DAE7C21D-4D3B-4257-A95C-9104CD8AF409}"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: 
+Languages:
+- Language: "de-DE"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{71692D46-2A36-4315-B110-0AA13B49CFC9}"
+              p:after="*[1=2]"
+              s:ds="{792123D4-512B-4A96-939B-E12C2A8731AD}"
+              s:id="{43C5D426-A6F6-4716-BEAF-F82602D2277B}"
+              s:par="Reset Caching Options&amp;GridParameters&amp;FieldNames=%7BE4BC3964-5235-4FE7-A863-76777C39CFAE%7D&amp;Styles&amp;RenderingIdentifier&amp;DynamicPlaceholderId=1"
+              s:ph="main"
+              s:ccb="Clear on publish" />
+          </d>
+        </r>
+    - ID: "228f9517-e120-4014-b2c7-df0ac467a349"
+      Hint: ContentTitle
+      Value: AFL Constructs Walkway in Support of Operation Restoration CDC
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220111T135216Z
+    - ID: "3688d7df-2feb-43a4-ab8d-410e5f70a676"
+      Hint: ContentDescription
+      Value: |
+        Spartanburg, SC – <a href=" /">AFL</a> associates spent almost two days building a concrete walkway for Operation Restoration’s <a href="http://www.operationrestorationcdc.org/Veterans_Services.html">Welcome Home</a> house near downtown Spartanburg. <a href="http://www.operationrestorationcdc.org/Home.html">Operation Restoration</a> is a nonprofit organization that helps low-income families break free from financial hardships and develop self-sustaining, community-building lifestyles.<br />
+        <br />
+        In support of these veterans, AFL volunteers bought supplies to build a path to the recently constructed deck in the backyard and planted 14 azalea shrubs. The endeavor is part of the company’s <a href=" /Company/Community/ACT-Project ">ACT (AFL Community Team) project</a> which provides volunteer service to nonprofit organizations in the community.<br />
+        <br />
+        “Several of the veterans living in this home are confined to wheelchairs and can only enter the house from the front or if the backyard is dry enough,” said Corie Culp, community relations manager for AFL. “We are eager to help the community when and where we can, so we immediately jumped on the opportunity to help Operation Restoration’s Welcome Home program and provide access to the backyard and a nice retreat for veterans to enjoy.”<br />
+        <br />
+        Welcome Home offers shelter and case management for our nation’s veterans for a length of 24 months. During this time, veterans set life goals, seek and secure employment and prepare to rejoin society.<br />
+        <br />
+        AFL’s <a href=" /Company/Community ">Community Outreach Program</a> awards several grants each year in addition to planning volunteer projects for various nonprofits. The program also includes sponsorships, Take Root (a program to provide trees to communities), disaster relief, an annual United Way campaign and a yearly Week of Service.<br />
+        <br />
+        For more information about AFL and its Outreach Program, visit <a href=" /">www.AFLglobal.com</a>.<br />
+        <br />
+        <strong>About AFL</strong><br />
+        AFL provides industry-leading products and services to the electric utility, broadband, communications, enterprise and OEM markets as well as the emerging markets of oil and gas, mining, nuclear, avionics, renewables and transportation. The company’s diverse product portfolio includes fiber optic cable, transmission and substation accessories, outside plant equipment, connectors, fusion splicers, test equipment and training. AFL’s service portfolio includes market-leading positions with the foremost communications companies supporting inside plant central office, EF&I, outside plant, enterprise and wireless areas.<br />
+        <br />
+        Founded in 1984, AFL is proud to offer engineering expertise, exceptional products and reliable service that help our customers improve their critical and electrical infrastructure. AFL has operations in the U.S., Mexico, Canada, Europe, Asia and the South Pacific. The company is headquartered in Spartanburg, SC, and is a wholly-owned subsidiary of Fujikura Ltd. of Japan. For more information, visit <a href=" /">www.AFLglobal.com</a>.<br />
+        <br />
+        <strong>Contact</strong><br />
+        Corie Culp<br />
+        Community Relations Manager<br />
+        AFL<br />
+        864.433.5409<br />
+        <a href="mailto:Corie.Culp@AFLglobal.com">Corie.Culp@AFLglobal.com</a>
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: AFL Constructs Walkway Operation Restoration
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\matt
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kushagra
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: AFL Constructs Walkway Operation Restoration
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: AFL Constructs Walkway Operation Restoration
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0fc37607-2961-4c6a-852b-eb7353d44433"
+    - ID: "a6eaffd5-fc3e-41b4-93b3-f1721fcf2300"
+      Hint: ContentPublishedDate
+      Value: 20131027T183000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T100351Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{71692D46-2A36-4315-B110-0AA13B49CFC9}"
+              p:after="*[1=2]"
+              s:ds="{792123D4-512B-4A96-939B-E12C2A8731AD}"
+              s:id="{43C5D426-A6F6-4716-BEAF-F82602D2277B}"
+              s:par="Reset Caching Options&amp;GridParameters&amp;FieldNames=%7BE4BC3964-5235-4FE7-A863-76777C39CFAE%7D&amp;Styles&amp;RenderingIdentifier&amp;DynamicPlaceholderId=1"
+              s:ph="main"
+              s:ccb="Clear on publish" />
+          </d>
+        </r>
+    - ID: "228f9517-e120-4014-b2c7-df0ac467a349"
+      Hint: ContentTitle
+      Value: AFL Constructs Walkway in Support of Operation Restoration CDC
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220111T135216Z
+    - ID: "3688d7df-2feb-43a4-ab8d-410e5f70a676"
+      Hint: ContentDescription
+      Value: |
+        Spartanburg, SC &ndash;&nbsp;<a href=" /">AFL</a>&nbsp;associates spent almost two days building a concrete walkway for Operation Restoration&rsquo;s&nbsp;<a href="http://www.operationrestorationcdc.org/Veterans_Services.html">Welcome Home</a>&nbsp;house near downtown Spartanburg.&nbsp;<a href="http://www.operationrestorationcdc.org/Home.html">Operation Restoration</a>&nbsp;is a nonprofit organization that helps low-income families break free from financial hardships and develop self-sustaining, community-building lifestyles.<br />
+        <br />
+        In support of these veterans, AFL volunteers bought supplies to build a path to the recently constructed deck in the backyard and planted 14 azalea shrubs. The endeavor is part of the company&rsquo;s&nbsp;<a href=" /Company/Community/ACT-Project ">ACT (AFL Community Team) project</a>&nbsp;which provides volunteer service to nonprofit organizations in the community.<br />
+        <br />
+        &ldquo;Several of the veterans living in this home are confined to wheelchairs and can only enter the house from the front or if the backyard is dry enough,&rdquo; said Corie Culp, community relations manager for AFL. &ldquo;We are eager to help the community when and where we can, so we immediately jumped on the opportunity to help Operation Restoration&rsquo;s Welcome Home program and provide access to the backyard and a nice retreat for veterans to enjoy.&rdquo;<br />
+        <br />
+        Welcome Home offers shelter and case management for our nation&rsquo;s veterans for a length of 24 months. During this time, veterans set life goals, seek and secure employment and prepare to rejoin society.<br />
+        <br />
+        AFL&rsquo;s&nbsp;<a href=" /Company/Community ">Community Outreach Program</a>&nbsp;awards several grants each year in addition to planning volunteer projects for various nonprofits. The program also includes sponsorships, Take Root (a program to provide trees to communities), disaster relief, an annual United Way campaign and a yearly Week of Service.<br />
+        <br />
+        For more information about AFL and its Outreach Program, visit&nbsp;<a href=" /">www.AFLglobal.com</a>.<br />
+        <br />
+        <strong>About AFL</strong><br />
+        AFL provides industry-leading products and services to the electric utility, broadband, communications, enterprise and OEM markets as well as the emerging markets of oil and gas, mining, nuclear, avionics, renewables and transportation. The company&rsquo;s diverse product portfolio includes fiber optic cable, transmission and substation accessories, outside plant equipment, connectors, fusion splicers, test equipment and training. AFL&rsquo;s service portfolio includes market-leading positions with the foremost communications companies supporting inside plant central office, EF&amp;I, outside plant, enterprise and wireless areas.<br />
+        <br />
+        Founded in 1984, AFL is proud to offer engineering expertise, exceptional products and reliable service that help our customers improve their critical and electrical infrastructure. AFL has operations in the U.S., Mexico, Canada, Europe, Asia and the South Pacific. The company is headquartered in Spartanburg, SC, and is a wholly-owned subsidiary of Fujikura Ltd. of Japan. For more information, visit&nbsp;<a href=" /">www.AFLglobal.com</a>.<br />
+        <br />
+        <strong>Contact</strong><br />
+        Corie Culp<br />
+        Community Relations Manager<br />
+        AFL<br />
+        864.433.5409<br />
+        <a href="mailto:Corie.Culp@AFLglobal.com">Corie.Culp@AFLglobal.com</a>
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: AFL Constructs Walkway Operation Restoration
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kushagra
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kushagra
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: AFL Constructs Walkway Operation Restoration
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: AFL Constructs Walkway Operation Restoration
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "40cce929-7001-42bd-adac-be0b30ecabc0"
+    - ID: "a6eaffd5-fc3e-41b4-93b3-f1721fcf2300"
+      Hint: ContentPublishedDate
+      Value: 20131027T183000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T100351Z
+- Language: "es-ES"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{71692D46-2A36-4315-B110-0AA13B49CFC9}"
+              p:after="*[1=2]"
+              s:ds="{792123D4-512B-4A96-939B-E12C2A8731AD}"
+              s:id="{43C5D426-A6F6-4716-BEAF-F82602D2277B}"
+              s:par="Reset Caching Options&amp;GridParameters&amp;FieldNames=%7BE4BC3964-5235-4FE7-A863-76777C39CFAE%7D&amp;Styles&amp;RenderingIdentifier&amp;DynamicPlaceholderId=1"
+              s:ph="main"
+              s:ccb="Clear on publish" />
+          </d>
+        </r>
+    - ID: "228f9517-e120-4014-b2c7-df0ac467a349"
+      Hint: ContentTitle
+      Value: AFL Constructs Walkway in Support of Operation Restoration CDC
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220111T135216Z
+    - ID: "3688d7df-2feb-43a4-ab8d-410e5f70a676"
+      Hint: ContentDescription
+      Value: |
+        Spartanburg, SC – <a href=" /">AFL</a> associates spent almost two days building a concrete walkway for Operation Restoration’s <a href="http://www.operationrestorationcdc.org/Veterans_Services.html">Welcome Home</a> house near downtown Spartanburg. <a href="http://www.operationrestorationcdc.org/Home.html">Operation Restoration</a> is a nonprofit organization that helps low-income families break free from financial hardships and develop self-sustaining, community-building lifestyles.<br />
+        <br />
+        In support of these veterans, AFL volunteers bought supplies to build a path to the recently constructed deck in the backyard and planted 14 azalea shrubs. The endeavor is part of the company’s <a href=" /Company/Community/ACT-Project ">ACT (AFL Community Team) project</a> which provides volunteer service to nonprofit organizations in the community.<br />
+        <br />
+        “Several of the veterans living in this home are confined to wheelchairs and can only enter the house from the front or if the backyard is dry enough,” said Corie Culp, community relations manager for AFL. “We are eager to help the community when and where we can, so we immediately jumped on the opportunity to help Operation Restoration’s Welcome Home program and provide access to the backyard and a nice retreat for veterans to enjoy.”<br />
+        <br />
+        Welcome Home offers shelter and case management for our nation’s veterans for a length of 24 months. During this time, veterans set life goals, seek and secure employment and prepare to rejoin society.<br />
+        <br />
+        AFL’s <a href=" /Company/Community ">Community Outreach Program</a> awards several grants each year in addition to planning volunteer projects for various nonprofits. The program also includes sponsorships, Take Root (a program to provide trees to communities), disaster relief, an annual United Way campaign and a yearly Week of Service.<br />
+        <br />
+        For more information about AFL and its Outreach Program, visit <a href=" /">www.AFLglobal.com</a>.<br />
+        <br />
+        <strong>About AFL</strong><br />
+        AFL provides industry-leading products and services to the electric utility, broadband, communications, enterprise and OEM markets as well as the emerging markets of oil and gas, mining, nuclear, avionics, renewables and transportation. The company’s diverse product portfolio includes fiber optic cable, transmission and substation accessories, outside plant equipment, connectors, fusion splicers, test equipment and training. AFL’s service portfolio includes market-leading positions with the foremost communications companies supporting inside plant central office, EF&I, outside plant, enterprise and wireless areas.<br />
+        <br />
+        Founded in 1984, AFL is proud to offer engineering expertise, exceptional products and reliable service that help our customers improve their critical and electrical infrastructure. AFL has operations in the U.S., Mexico, Canada, Europe, Asia and the South Pacific. The company is headquartered in Spartanburg, SC, and is a wholly-owned subsidiary of Fujikura Ltd. of Japan. For more information, visit <a href=" /">www.AFLglobal.com</a>.<br />
+        <br />
+        <strong>Contact</strong><br />
+        Corie Culp<br />
+        Community Relations Manager<br />
+        AFL<br />
+        864.433.5409<br />
+        <a href="mailto:Corie.Culp@AFLglobal.com">Corie.Culp@AFLglobal.com</a>
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: AFL Constructs Walkway Operation Restoration
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\matt
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kushagra
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: AFL Constructs Walkway Operation Restoration
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: AFL Constructs Walkway Operation Restoration
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8d699072-71bf-45b2-83c7-2a19bc3807c0"
+    - ID: "a6eaffd5-fc3e-41b4-93b3-f1721fcf2300"
+      Hint: ContentPublishedDate
+      Value: 20131027T183000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T100351Z
+- Language: "fr-FR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{71692D46-2A36-4315-B110-0AA13B49CFC9}"
+              p:after="*[1=2]"
+              s:ds="{792123D4-512B-4A96-939B-E12C2A8731AD}"
+              s:id="{43C5D426-A6F6-4716-BEAF-F82602D2277B}"
+              s:par="Reset Caching Options&amp;GridParameters&amp;FieldNames=%7BE4BC3964-5235-4FE7-A863-76777C39CFAE%7D&amp;Styles&amp;RenderingIdentifier&amp;DynamicPlaceholderId=1"
+              s:ph="main"
+              s:ccb="Clear on publish" />
+          </d>
+        </r>
+    - ID: "228f9517-e120-4014-b2c7-df0ac467a349"
+      Hint: ContentTitle
+      Value: AFL Constructs Walkway in Support of Operation Restoration CDC
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220111T135216Z
+    - ID: "3688d7df-2feb-43a4-ab8d-410e5f70a676"
+      Hint: ContentDescription
+      Value: |
+        Spartanburg, SC – <a href=" /">AFL</a> associates spent almost two days building a concrete walkway for Operation Restoration’s <a href="http://www.operationrestorationcdc.org/Veterans_Services.html">Welcome Home</a> house near downtown Spartanburg. <a href="http://www.operationrestorationcdc.org/Home.html">Operation Restoration</a> is a nonprofit organization that helps low-income families break free from financial hardships and develop self-sustaining, community-building lifestyles.<br />
+        <br />
+        In support of these veterans, AFL volunteers bought supplies to build a path to the recently constructed deck in the backyard and planted 14 azalea shrubs. The endeavor is part of the company’s <a href=" /Company/Community/ACT-Project ">ACT (AFL Community Team) project</a> which provides volunteer service to nonprofit organizations in the community.<br />
+        <br />
+        “Several of the veterans living in this home are confined to wheelchairs and can only enter the house from the front or if the backyard is dry enough,” said Corie Culp, community relations manager for AFL. “We are eager to help the community when and where we can, so we immediately jumped on the opportunity to help Operation Restoration’s Welcome Home program and provide access to the backyard and a nice retreat for veterans to enjoy.”<br />
+        <br />
+        Welcome Home offers shelter and case management for our nation’s veterans for a length of 24 months. During this time, veterans set life goals, seek and secure employment and prepare to rejoin society.<br />
+        <br />
+        AFL’s <a href=" /Company/Community ">Community Outreach Program</a> awards several grants each year in addition to planning volunteer projects for various nonprofits. The program also includes sponsorships, Take Root (a program to provide trees to communities), disaster relief, an annual United Way campaign and a yearly Week of Service.<br />
+        <br />
+        For more information about AFL and its Outreach Program, visit <a href=" /">www.AFLglobal.com</a>.<br />
+        <br />
+        <strong>About AFL</strong><br />
+        AFL provides industry-leading products and services to the electric utility, broadband, communications, enterprise and OEM markets as well as the emerging markets of oil and gas, mining, nuclear, avionics, renewables and transportation. The company’s diverse product portfolio includes fiber optic cable, transmission and substation accessories, outside plant equipment, connectors, fusion splicers, test equipment and training. AFL’s service portfolio includes market-leading positions with the foremost communications companies supporting inside plant central office, EF&I, outside plant, enterprise and wireless areas.<br />
+        <br />
+        Founded in 1984, AFL is proud to offer engineering expertise, exceptional products and reliable service that help our customers improve their critical and electrical infrastructure. AFL has operations in the U.S., Mexico, Canada, Europe, Asia and the South Pacific. The company is headquartered in Spartanburg, SC, and is a wholly-owned subsidiary of Fujikura Ltd. of Japan. For more information, visit <a href=" /">www.AFLglobal.com</a>.<br />
+        <br />
+        <strong>Contact</strong><br />
+        Corie Culp<br />
+        Community Relations Manager<br />
+        AFL<br />
+        864.433.5409<br />
+        <a href="mailto:Corie.Culp@AFLglobal.com">Corie.Culp@AFLglobal.com</a>
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: AFL Constructs Walkway Operation Restoration
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\matt
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kushagra
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: AFL Constructs Walkway Operation Restoration
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: AFL Constructs Walkway Operation Restoration
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2a0ac4c2-f8d2-4205-a463-bdb361ac91f6"
+    - ID: "a6eaffd5-fc3e-41b4-93b3-f1721fcf2300"
+      Hint: ContentPublishedDate
+      Value: 20131027T183000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T100351Z

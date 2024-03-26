@@ -1,0 +1,283 @@
+﻿---
+ID: "9ac85de6-62ed-49f0-9565-cceb92b810b3"
+Parent: "43bb2b16-b4b1-4f66-a9ae-85faa3e7605f"
+Template: "2893fa48-e32b-4a62-be28-2389643c09bc"
+Path: "/sitecore/content/AFL-Global/AMERICAS/Data/AFL Resouces Data/AFL VideoList Data/LightLink LL-580 Optical Splicing and Distribution Enclosure"
+Languages:
+- Language: "de-DE"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220101T213011Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Abhishek
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kushagra
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1868ca54-8364-4221-8c98-319c9d470719"
+    - ID: "a6703c78-a7f9-43e5-bda1-4319c53ca485"
+      Hint: VideoImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="237955" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/237955/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/101b82f0b7914f9aab64710637751357?v=56926b84" stylelabs-content-type="Image" alt="Video_Icon.png" height="287" width="339" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "c7606be7-7b4d-4b10-beb1-37105934e9c2"
+      Hint: VideoName
+      Value: "LightLink LL-580 Optical Splicing and Distribution Enclosure"
+    - ID: "cc39e4d4-9c1a-446c-940c-fae85c60a139"
+      Hint: VideoUrl
+      Value: |
+        <link text="PLAY VIDEO" linktype="external" url="http://youtu.be/1_Qft8Qcpos" anchor="" target="_blank" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231212T090210Z
+    - ID: "f049ad62-07b5-434b-95c2-056171420f06"
+      Hint: VideoCategory
+      Value: Video
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220101T213011Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kushagra
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kushagra
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c3b0cd8f-db03-4c52-9e07-eb5dda28b520"
+    - ID: "a6703c78-a7f9-43e5-bda1-4319c53ca485"
+      Hint: VideoImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="237955" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/237955/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/101b82f0b7914f9aab64710637751357?v=56926b84" stylelabs-content-type="Image" alt="Video_Icon.png" height="287" width="339" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rob
+    - ID: "c7606be7-7b4d-4b10-beb1-37105934e9c2"
+      Hint: VideoName
+      Value: "LightLink LL-580 Optical Splicing and Distribution Enclosure"
+    - ID: "cc39e4d4-9c1a-446c-940c-fae85c60a139"
+      Hint: VideoUrl
+      Value: |
+        <link text="PLAY VIDEO" linktype="external" url="http://youtu.be/1_Qft8Qcpos" anchor="" target="_blank" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220513T212000Z
+    - ID: "f049ad62-07b5-434b-95c2-056171420f06"
+      Hint: VideoCategory
+      Value: Video
+- Language: "es-ES"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220101T213011Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Abhishek
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kushagra
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2e60fdc4-ccce-4d77-951e-443d98d4e92c"
+    - ID: "a6703c78-a7f9-43e5-bda1-4319c53ca485"
+      Hint: VideoImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="237955" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/237955/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/101b82f0b7914f9aab64710637751357?v=56926b84" stylelabs-content-type="Image" alt="Video_Icon.png" height="287" width="339" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "c7606be7-7b4d-4b10-beb1-37105934e9c2"
+      Hint: VideoName
+      Value: "LightLink LL-580 Optical Splicing and Distribution Enclosure"
+    - ID: "cc39e4d4-9c1a-446c-940c-fae85c60a139"
+      Hint: VideoUrl
+      Value: |
+        <link text="PLAY VIDEO" linktype="external" url="http://youtu.be/1_Qft8Qcpos" anchor="" target="_blank" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231212T090130Z
+    - ID: "f049ad62-07b5-434b-95c2-056171420f06"
+      Hint: VideoCategory
+      Value: Video
+- Language: "es-MX"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220101T213011Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kushagra
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7ec4fbb7-3fb8-4c18-aee7-843e0ecca547"
+    - ID: "a6703c78-a7f9-43e5-bda1-4319c53ca485"
+      Hint: VideoImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="237955" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/237955/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/101b82f0b7914f9aab64710637751357?v=56926b84" stylelabs-content-type="Image" alt="Video_Icon.png" height="287" width="339" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "c7606be7-7b4d-4b10-beb1-37105934e9c2"
+      Hint: VideoName
+      Value: "LightLink LL-580 Optical Splicing and Distribution Enclosure"
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "cc39e4d4-9c1a-446c-940c-fae85c60a139"
+      Hint: VideoUrl
+      Value: |
+        <link text="PLAY VIDEO" linktype="external" url="http://youtu.be/1_Qft8Qcpos" anchor="" target="_blank" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231212T085852Z
+    - ID: "f049ad62-07b5-434b-95c2-056171420f06"
+      Hint: VideoCategory
+      Value: Video
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220101T213011Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kushagra
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "46a45330-74c8-4d02-8d00-96530353df18"
+    - ID: "a6703c78-a7f9-43e5-bda1-4319c53ca485"
+      Hint: VideoImage
+      Value: |
+        <image mediaid="{D97C1456-FE0D-4A51-B2D3-41410A817124}" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahesh
+    - ID: "c7606be7-7b4d-4b10-beb1-37105934e9c2"
+      Hint: VideoName
+      Value: "Introduction to the AFL OFI-BIPM"
+    - ID: "cc39e4d4-9c1a-446c-940c-fae85c60a139"
+      Hint: VideoUrl
+      Value: |
+        <link text="PLAY VIDEO" linktype="external" url="https://www.youtube.com/watch?v=uoZtAkUUkU8" anchor="" target="_blank" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220215T094840Z
+    - ID: "f049ad62-07b5-434b-95c2-056171420f06"
+      Hint: VideoCategory
+      Value: Video
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220101T213011Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kushagra
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d55d17dc-1adf-4d35-aafe-ada4f6db3575"
+    - ID: "a6703c78-a7f9-43e5-bda1-4319c53ca485"
+      Hint: VideoImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="237955" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/237955/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/101b82f0b7914f9aab64710637751357?v=56926b84" stylelabs-content-type="Image" alt="Video_Icon.png" height="287" width="339" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "c7606be7-7b4d-4b10-beb1-37105934e9c2"
+      Hint: VideoName
+      Value: "LightLink LL-580 Optical Splicing and Distribution Enclosure"
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "cc39e4d4-9c1a-446c-940c-fae85c60a139"
+      Hint: VideoUrl
+      Value: |
+        <link text="PLAY VIDEO" linktype="external" url="http://youtu.be/1_Qft8Qcpos" anchor="" target="_blank" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231212T085852Z
+    - ID: "f049ad62-07b5-434b-95c2-056171420f06"
+      Hint: VideoCategory
+      Value: Video
+- Language: "fr-FR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220101T213011Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Abhishek
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kushagra
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b8221830-0a2a-481e-acf5-b239e1ce774e"
+    - ID: "a6703c78-a7f9-43e5-bda1-4319c53ca485"
+      Hint: VideoImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="237955" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/237955/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/101b82f0b7914f9aab64710637751357?v=56926b84" stylelabs-content-type="Image" alt="Video_Icon.png" height="287" width="339" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "c7606be7-7b4d-4b10-beb1-37105934e9c2"
+      Hint: VideoName
+      Value: "LightLink LL-580 Optical Splicing and Distribution Enclosure"
+    - ID: "cc39e4d4-9c1a-446c-940c-fae85c60a139"
+      Hint: VideoUrl
+      Value: |
+        <link text="PLAY VIDEO" linktype="external" url="http://youtu.be/1_Qft8Qcpos" anchor="" target="_blank" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231212T090047Z
+    - ID: "f049ad62-07b5-434b-95c2-056171420f06"
+      Hint: VideoCategory
+      Value: Video

@@ -1,0 +1,74 @@
+﻿---
+ID: "09d232bf-63fa-4c16-90ad-e9bfc9a5ab65"
+Parent: "08aadea5-3d6b-4281-b1ff-dac0ef7440fd"
+Template: "bf61de11-b78f-48ea-aaa4-1d17f0d83824"
+Path: "/sitecore/content/AFL-Global/OCEANIA/Home/Resources/Product Related Materials/Frequently Asked Questions/FAQ Test and Inspection/OFI and VFI General Questions"
+SharedFields:
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{EDC9686A-85F3-466E-8E7E-3D28540B77AB}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{DAE7C21D-4D3B-4257-A95C-9104CD8AF409}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220823T184327Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{1A24FC12-1F8E-4214-921E-D355AA3E4DC5}"
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: OFI and VFI General Questions
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rafael
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: OFI and VFI General Questions
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <h1 style="color: #000000; background-color: #ffffff; margin: 0.67em 0px; line-height: 24px;">OFI and VFI: General Questions</h1>
+        <span style="background-color: #ffffff; color: #333333;"><strong>Q: When I pull the trigger on my OFI without any fiber attached, I still read traffic, why?<br />
+        A:</strong> The foam plunger assembly may be in the wrong position or missing from the OFI.  Remove the sliding cover that hides the foam plunger.  Inspect the plunger for damage.  If the foam is torn, worn or missing, purchase a new plunger assembly.  When clamping on bare fiber or ribbon fiber, the flat side of the foam should be UP.  When clamping on 2mm or 3mm jacketed fibers, the jacket drops into the groove of the foam head while in the DOWN position.  Refer to the chart below for foam plunger part numbers.<br />
+         <br />
+        OFI200                     OFI1-00-0101<br />
+        OFI200B                  OFI1-10-0102<br />
+        OFI200C                  OFI1-00-0101<br />
+        OFI200D                  OFI1-11-0102PR<br />
+        OFI400                     OFI1-10-0102PR<br />
+        OFI400C                  OFI1-00-0101PR<br />
+        <br />
+        <strong>Q: Why does my OFI still measure traffic even though my foam plunger head is in new condition?</strong><br />
+        <strong>A:</strong> The set screw on the back of the trigger may need to be adjusted to allow the foam plunger to form a better seal around the photo detectors.  By screwing the set screw clock-wise, the foam plunger will compress more providing a better seal. <br />
+         <br />
+        <strong><em>Caution must be taken to insure that the insertion loss does not exceed the factory specifications for maximum insertion loss at 1310nm and 1550nm. Excessive insertion loss could cause the network being tested to fail.</em></strong></span>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rafael
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: OFI and VFI General Questions
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: OFI and VFI General Questions
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "bae2cf2b-d6ae-4c2b-88e4-82c96cbfdf51"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T093751Z

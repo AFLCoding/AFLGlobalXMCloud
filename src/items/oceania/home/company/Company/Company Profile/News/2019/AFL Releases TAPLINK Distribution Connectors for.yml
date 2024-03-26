@@ -1,0 +1,93 @@
+﻿---
+ID: "e4570369-383e-4500-b487-a6c7501163df"
+Parent: "3dc3b327-e4fe-44ed-9ce4-bfd8be445cd2"
+Template: "f36e821e-bb98-44dc-966d-e92a0e033cc7"
+Path: "/sitecore/content/AFL-Global/OCEANIA/Home/Company/Company Profile/News/2019/AFL Releases TAPLINK Distribution Connectors for"
+SharedFields:
+- ID: "1fbc6a49-6281-48ee-87e9-a3970b145adb"
+  Hint: NavigationFilter
+  Value: |
+    {E0A2A027-0932-4878-A7D6-0416D5263EFB}
+    {61BD64D6-809E-40AE-9297-2724A19329B3}
+    {D063E9D1-C7B5-4B1E-B31E-69886C9C59F5}
+    {500AE4C0-FA7B-463F-8149-EFFF7F044101}
+    {A0E7FF57-6994-4B09-AA21-104239628D5A}
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{3A84BAC9-C1BD-4809-A12C-28EB44E25329}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{DAE7C21D-4D3B-4257-A95C-9104CD8AF409}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "228f9517-e120-4014-b2c7-df0ac467a349"
+      Hint: ContentTitle
+      Value: AFL Releases TAPLINK™ Distribution Connectors for Conductors
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211208T105257Z
+    - ID: "3688d7df-2feb-43a4-ab8d-410e5f70a676"
+      Hint: ContentDescription
+      Value: |
+        <div>Spartanburg, SC – June 17, 2019 – <a href="http://www.aflglobal.com/">AFL</a>, a manufacturer of transmission, substation and distribution accessories, plus fiber optic cable, connectivity and equipment, is launching a new family of <a href="~/link.aspx?_id=6CD173DCC58345FB96AB18FA89D7A0A8&_z=z">TAPLINK wedge connectors</a>. Used to tap a conductor to a main line distribution power line, this product line is unique in that the clamps do not require special tools whereas other wedge-type products do. AFL’s TAPLINK product line consists of the following connectors:<br />
+        <ul>
+            <li><a href="~/link.aspx?_id=5F6B73495DF84E4B9F83392B6A5BA2E7&_z=z">Wedge tap connectors</a> – used to make complete aluminum-to-aluminum and aluminum-to-copper electrical connections.</li>
+            <li><a href="~/link.aspx?_id=1877ABEF8BE34E20AA4B355D2A4C4B43&_z=z">Wedge pad tap connectors</a> – used to connect various NEMA devices to aluminum and copper conductors.</li>
+            <li><a href="~/link.aspx?_id=273546F10AD74228AFC706600D7D85A7&_z=z">Wedge stirrup connectors</a> – designed to protect the conductor from damage caused by arcing in applications where hotline clamps are attached.</li>
+            <li><a href="~/link.aspx?_id=45E98207CA884940B9343192CFA0266D&_z=z">Hotline connectors</a> – designed for hotline applications, this connector can be removed and reused as desired as a temporary or permanent connection.
+            </li>
+        </ul>
+        “Wedge connectors are unique in their ability to hold continuous pressure on the conductors during thermal cycling,” explained Jon Potter, commercial manager for AFL's accessories division.<br />
+        <br />
+        The special wedge configuration leads to quicker installation times and provides superior performance as compared to standard bolted or compression type products. The connectors are easy to remove using a standard socket wrench without risking damage to the conductor. Additionally, the shearhead bolt concept provides installation consistency, taking human error out of the equation.<br />
+        <br />
+        AFL’s accessories division excels on the experience gained from over 80 years designing and manufacturing accessory products. For additional information on AFL, its products and services, visit <a href="http://www.aflglobal.com/">www.AFLglobal.com</a>.<br />
+        <br />
+        About AFL<br />
+        Founded in 1984, AFL is an international manufacturer providing end-to-end solutions to the energy, service provider, enterprise and industrial markets as well as several emerging markets. The company’s products are in use in over 130 countries and include fiber optic cable and hardware, transmission and substation accessories, outside plant equipment, connectivity, test and inspection equipment, fusion splicers and training. AFL also offers a wide variety of services supporting data center, enterprise, wireless and outside plant applications.<br />
+         <br />
+        Headquartered in Spartanburg, SC, AFL has operations in the U.S., Mexico, Canada, Europe, Asia and Australia, and is a wholly-owned subsidiary of Fujikura Ltd. of Japan. For more information, visit <a rel="noopener noreferrer" href="http://www.aflglobal.com/" target="_blank">www.AFLglobal.com</a>.<br />
+        <br />
+        Follow us on <a rel="noopener noreferrer" href="https://www.linkedin.com/company/afl-2" target="_blank">LinkedIn</a>, <a rel="noopener noreferrer" href="https://twitter.com/AFLglobal" target="_blank">Twitter</a>, and “like us” on <a rel="noopener noreferrer" href="https://www.facebook.com/AFLcorp" target="_blank">Facebook</a>. Review our <a rel="noopener noreferrer" href="https://www.aflglobal.com/AFL-Blog/" target="_blank">blog</a> or subscribe to our bimonthly e-newsletter.<br />
+        <br />
+        Contacts<br />
+        Jon Potter<br />
+        Commercial Manager, Accessories<br />
+        AFL<br />
+        864.433.5930<br />
+        Jon.Potter@AFLglobal.com<br />
+        <br />
+        Corie Culp<br />
+        Public Relations Manager<br />
+        AFL<br />
+        864.433.5409<br />
+        <a href="mailto:Corie.Culp@AFLglobal.com">Corie.Culp@AFLglobal.com</a> </div>
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: AFL Releases TAPLINK Distribution Connectors for
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: AFL Releases TAPLINK™ Distribution Connectors for Conductors
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: AFL Releases TAPLINK™ Distribution Connectors for Conductors
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1200fd72-0cac-4810-ab6f-4ee4dc599de1"
+    - ID: "9dd4f0d9-c123-47a8-8cef-2c85cea172f6"
+      Hint: ContentImage
+      Value: |
+        <image mediaid="{4DF4D973-281C-409B-97B0-31B4C89A4682}" />
+    - ID: "a6eaffd5-fc3e-41b4-93b3-f1721fcf2300"
+      Hint: ContentPublishedDate
+      Value: 20190616T183000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T093829Z

@@ -1,0 +1,351 @@
+﻿---
+ID: "3ead5e9b-2055-4cae-bdcc-1db237d72076"
+Parent: "1213527d-d595-4c4d-82f6-06f0a9cef979"
+Template: "f36e821e-bb98-44dc-966d-e92a0e033cc7"
+Path: "/sitecore/content/AFL-Global/AMERICAS/Home/Company/Company Profile/NewsArchive/2012/AFL Introduces New NOYES Contractor Series OTDRs"
+SharedFields:
+- ID: "1fbc6a49-6281-48ee-87e9-a3970b145adb"
+  Hint: NavigationFilter
+  Value: |
+    {E0A2A027-0932-4878-A7D6-0416D5263EFB}
+    {61BD64D6-809E-40AE-9297-2724A19329B3}
+    {D063E9D1-C7B5-4B1E-B31E-69886C9C59F5}
+    {500AE4C0-FA7B-463F-8149-EFFF7F044101}
+    {A0E7FF57-6994-4B09-AA21-104239628D5A}
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{3A84BAC9-C1BD-4809-A12C-28EB44E25329}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{DAE7C21D-4D3B-4257-A95C-9104CD8AF409}"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{48D826CA-7AE6-4387-AE67-E7070B242906}">
+          <p:d />
+        </r>
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: 
+    - ID: "228f9517-e120-4014-b2c7-df0ac467a349"
+      Hint: ContentTitle
+      Value: AFL Introduces New NOYES® Contractor Series OTDRs
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211208T145058Z
+    - ID: "3688d7df-2feb-43a4-ab8d-410e5f70a676"
+      Hint: ContentDescription
+      Value: |
+        AFL is introducing a new family of Contractor Series handheld OTDRs enabling cost-effective troubleshooting of FTTx PONs and point-to-point metro/access networks. The new CS260 OTDR family offers two models:<br />
+        <br />
+        CS260-10 FTTx PON Activation and Troubleshooting OTDR: 1625 nm Live PON OTDR providing 35 dB dynamic range, best-in-class 0.8 m event and 3.5 m attenuation dead zones, integrated PON power meter and Visual Fault Locator (VFL).<br />
+        <br />
+        CS260-20 Metro/Access Troubleshooting OTDR: 1310/1550 OTDR with 28 dB dynamic range, 0.8 m event and 3.5 m attenuation dead zones plus integrated Visual Fault Locator.<br />
+        <br />
+        "A large number of network operators utilize contractors to install and verify new metro and broadband access networks, including Fiber-to-the-Home PONs," explains Michael Scholten, senior product marketing manager for AFL's NOYES Test and Inspection division. "Those same network operators often don't want to subcontract customer-facing network activation and maintenance tasks. These operators must equip their direct staff to verify signal levels at the subscriber, install and activate premise equipment, and troubleshoot any problems."<br />
+        <br />
+        The CS260-10 and CS260-20 are purpose-built for optical network activation and troubleshooting tasks. With its integrated PON power meter, the CS260-10 enables technicians to verify PON power levels at an FTTx PON ONU or ONT. If downstream signals are absent or power is too low, the CS260-10's 1625 nm Live PON OTDR allows a technician to scan the network from the ONU/ONT or a network access point to locate fiber faults such as macro-bends, breaks, poor splices and dirty or damaged connectors. The live PON OTDR utilizes an out-of-band 1625 nm wavelength to prevent disruption to the 1310, 1490 and 1550 nm signals present on an in-service PON.<br />
+        <br />
+        The CS260-20 is designed to troubleshoot point-to-point metro/access networks operating in the 1310 and/or 1550 nm wavelength regions. Its short dead zones enable precise location of fiber faults. With 28 dB dynamic range, the CS260-20 can locate faults in networks up to 60 km (40 miles) in length.<br />
+        <br />
+        CS260s are derivatives of AFL's popular OFL280 and FLX380 FlexTester families and offer the same ease-of-use, high-contrast indoor/outdoor display and over 12 hours of continuous battery operation. Both models also include an integrated VFL (visible red laser) designed to visually pinpoint the location of macro-bends or breaks in splice closures, access terminals and splitter cabinets.<br />
+        <br />
+        CS260 OTDR results may be saved in industry-standard .SOR files and uploaded to PC via the built-in USB interface. Windows-compatible TRM® Test Results Manager software is supplied with the CS260s to support trace review, batch editing and professional test report generation.<br />
+        <br />
+        To learn more, visit www.AFLglobal.com.<br />
+        <br />
+        <br />
+        About AFL<br />
+        AFL provides industry-leading products and services to the electric utility, broadband, communications, OEM, enterprise, wireless and transit rail markets as well as the emerging markets of oil and gas, mining, nuclear, avionics, medical, renewable and intelligent grid. The company's diverse product portfolio includes fiber optic cable, transmission and substation accessories, outside plant equipment, connectors, fusion splicers, test equipment and training. AFL's service portfolio includes market-leading positions with the foremost communications companies supporting inside plant central office, EF&I, outside plant, enterprise and wireless areas.<br />
+        <br />
+        Founded in 1984, AFL is proud to offer engineering expertise, exceptional products and reliable service that help our customers improve their critical and electrical infrastructure. AFL has operations in the U.S., Mexico, Europe and Asia. The company is headquartered in Spartanburg, SC, and is a wholly-owned subsidiary of Fujikura Ltd. of Japan. For more information, visit www.AFLglobal.com.<br />
+        <br />
+        <br />
+        Contact<br />
+        Mike Scholten<br />
+        Sr. Product Marketing Manager<br />
+        978.455.9213<br />
+        Michael.Scholten@AFLglobal.com<br />
+        <br />
+        Corie Culp<br />
+        PR Manager<br />
+        864.433.5409<br />
+        Corie.Culp@AFLglobal.com
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: AFL Introduces New NOYES Contractor Series OTDRs
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: AFL Introduces New NOYES Contractor Series OTDRs
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: AFL Introduces New NOYES Contractor Series OTDRs
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "83496549-69ed-445b-9ef1-9cbeb29a317f"
+    - ID: "a6eaffd5-fc3e-41b4-93b3-f1721fcf2300"
+      Hint: ContentPublishedDate
+      Value: 20120828T183000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T091215Z
+- Language: "es-MX"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "228f9517-e120-4014-b2c7-df0ac467a349"
+      Hint: ContentTitle
+      Value: AFL Introduces New NOYES® Contractor Series OTDRs
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211208T145058Z
+    - ID: "3688d7df-2feb-43a4-ab8d-410e5f70a676"
+      Hint: ContentDescription
+      Value: |
+        AFL is introducing a new family of Contractor Series handheld OTDRs enabling cost-effective troubleshooting of FTTx PONs and point-to-point metro/access networks. The new CS260 OTDR family offers two models:<br />
+        <br />
+        CS260-10 FTTx PON Activation and Troubleshooting OTDR: 1625 nm Live PON OTDR providing 35 dB dynamic range, best-in-class 0.8 m event and 3.5 m attenuation dead zones, integrated PON power meter and Visual Fault Locator (VFL).<br />
+        <br />
+        CS260-20 Metro/Access Troubleshooting OTDR: 1310/1550 OTDR with 28 dB dynamic range, 0.8 m event and 3.5 m attenuation dead zones plus integrated Visual Fault Locator.<br />
+        <br />
+        "A large number of network operators utilize contractors to install and verify new metro and broadband access networks, including Fiber-to-the-Home PONs," explains Michael Scholten, senior product marketing manager for AFL's NOYES Test and Inspection division. "Those same network operators often don't want to subcontract customer-facing network activation and maintenance tasks. These operators must equip their direct staff to verify signal levels at the subscriber, install and activate premise equipment, and troubleshoot any problems."<br />
+        <br />
+        The CS260-10 and CS260-20 are purpose-built for optical network activation and troubleshooting tasks. With its integrated PON power meter, the CS260-10 enables technicians to verify PON power levels at an FTTx PON ONU or ONT. If downstream signals are absent or power is too low, the CS260-10's 1625 nm Live PON OTDR allows a technician to scan the network from the ONU/ONT or a network access point to locate fiber faults such as macro-bends, breaks, poor splices and dirty or damaged connectors. The live PON OTDR utilizes an out-of-band 1625 nm wavelength to prevent disruption to the 1310, 1490 and 1550 nm signals present on an in-service PON.<br />
+        <br />
+        The CS260-20 is designed to troubleshoot point-to-point metro/access networks operating in the 1310 and/or 1550 nm wavelength regions. Its short dead zones enable precise location of fiber faults. With 28 dB dynamic range, the CS260-20 can locate faults in networks up to 60 km (40 miles) in length.<br />
+        <br />
+        CS260s are derivatives of AFL's popular OFL280 and FLX380 FlexTester families and offer the same ease-of-use, high-contrast indoor/outdoor display and over 12 hours of continuous battery operation. Both models also include an integrated VFL (visible red laser) designed to visually pinpoint the location of macro-bends or breaks in splice closures, access terminals and splitter cabinets.<br />
+        <br />
+        CS260 OTDR results may be saved in industry-standard .SOR files and uploaded to PC via the built-in USB interface. Windows-compatible TRM® Test Results Manager software is supplied with the CS260s to support trace review, batch editing and professional test report generation.<br />
+        <br />
+        To learn more, visit www.AFLglobal.com.<br />
+        <br />
+        <br />
+        About AFL<br />
+        AFL provides industry-leading products and services to the electric utility, broadband, communications, OEM, enterprise, wireless and transit rail markets as well as the emerging markets of oil and gas, mining, nuclear, avionics, medical, renewable and intelligent grid. The company's diverse product portfolio includes fiber optic cable, transmission and substation accessories, outside plant equipment, connectors, fusion splicers, test equipment and training. AFL's service portfolio includes market-leading positions with the foremost communications companies supporting inside plant central office, EF&I, outside plant, enterprise and wireless areas.<br />
+        <br />
+        Founded in 1984, AFL is proud to offer engineering expertise, exceptional products and reliable service that help our customers improve their critical and electrical infrastructure. AFL has operations in the U.S., Mexico, Europe and Asia. The company is headquartered in Spartanburg, SC, and is a wholly-owned subsidiary of Fujikura Ltd. of Japan. For more information, visit www.AFLglobal.com.<br />
+        <br />
+        <br />
+        Contact<br />
+        Mike Scholten<br />
+        Sr. Product Marketing Manager<br />
+        978.455.9213<br />
+        Michael.Scholten@AFLglobal.com<br />
+        <br />
+        Corie Culp<br />
+        PR Manager<br />
+        864.433.5409<br />
+        Corie.Culp@AFLglobal.com
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: AFL Introduces New NOYES Contractor Series OTDRs
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mahesh
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: AFL Introduces New NOYES Contractor Series OTDRs
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: AFL Introduces New NOYES Contractor Series OTDRs
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1deb9ce3-e2e0-4156-a7fe-915cda6eee92"
+    - ID: "a6eaffd5-fc3e-41b4-93b3-f1721fcf2300"
+      Hint: ContentPublishedDate
+      Value: 20120828T183000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T091215Z
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "228f9517-e120-4014-b2c7-df0ac467a349"
+      Hint: ContentTitle
+      Value: AFL Introduces New NOYES® Contractor Series OTDRs
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211208T145058Z
+    - ID: "3688d7df-2feb-43a4-ab8d-410e5f70a676"
+      Hint: ContentDescription
+      Value: |
+        AFL is introducing a new family of Contractor Series handheld OTDRs enabling cost-effective troubleshooting of FTTx PONs and point-to-point metro/access networks. The new CS260 OTDR family offers two models:<br />
+        <br />
+        CS260-10 FTTx PON Activation and Troubleshooting OTDR: 1625 nm Live PON OTDR providing 35 dB dynamic range, best-in-class 0.8 m event and 3.5 m attenuation dead zones, integrated PON power meter and Visual Fault Locator (VFL).<br />
+        <br />
+        CS260-20 Metro/Access Troubleshooting OTDR: 1310/1550 OTDR with 28 dB dynamic range, 0.8 m event and 3.5 m attenuation dead zones plus integrated Visual Fault Locator.<br />
+        <br />
+        "A large number of network operators utilize contractors to install and verify new metro and broadband access networks, including Fiber-to-the-Home PONs," explains Michael Scholten, senior product marketing manager for AFL's NOYES Test and Inspection division. "Those same network operators often don't want to subcontract customer-facing network activation and maintenance tasks. These operators must equip their direct staff to verify signal levels at the subscriber, install and activate premise equipment, and troubleshoot any problems."<br />
+        <br />
+        The CS260-10 and CS260-20 are purpose-built for optical network activation and troubleshooting tasks. With its integrated PON power meter, the CS260-10 enables technicians to verify PON power levels at an FTTx PON ONU or ONT. If downstream signals are absent or power is too low, the CS260-10's 1625 nm Live PON OTDR allows a technician to scan the network from the ONU/ONT or a network access point to locate fiber faults such as macro-bends, breaks, poor splices and dirty or damaged connectors. The live PON OTDR utilizes an out-of-band 1625 nm wavelength to prevent disruption to the 1310, 1490 and 1550 nm signals present on an in-service PON.<br />
+        <br />
+        The CS260-20 is designed to troubleshoot point-to-point metro/access networks operating in the 1310 and/or 1550 nm wavelength regions. Its short dead zones enable precise location of fiber faults. With 28 dB dynamic range, the CS260-20 can locate faults in networks up to 60 km (40 miles) in length.<br />
+        <br />
+        CS260s are derivatives of AFL's popular OFL280 and FLX380 FlexTester families and offer the same ease-of-use, high-contrast indoor/outdoor display and over 12 hours of continuous battery operation. Both models also include an integrated VFL (visible red laser) designed to visually pinpoint the location of macro-bends or breaks in splice closures, access terminals and splitter cabinets.<br />
+        <br />
+        CS260 OTDR results may be saved in industry-standard .SOR files and uploaded to PC via the built-in USB interface. Windows-compatible TRM&reg; Test Results Manager software is supplied with the CS260s to support trace review, batch editing and professional test report generation.<br />
+        <br />
+        To learn more, visit www.AFLglobal.com.<br />
+        <br />
+        <br />
+        About AFL<br />
+        AFL provides industry-leading products and services to the electric utility, broadband, communications, OEM, enterprise, wireless and transit rail markets as well as the emerging markets of oil and gas, mining, nuclear, avionics, medical, renewable and intelligent grid. The company's diverse product portfolio includes fiber optic cable, transmission and substation accessories, outside plant equipment, connectors, fusion splicers, test equipment and training. AFL's service portfolio includes market-leading positions with the foremost communications companies supporting inside plant central office, EF&amp;I, outside plant, enterprise and wireless areas.<br />
+        <br />
+        Founded in 1984, AFL is proud to offer engineering expertise, exceptional products and reliable service that help our customers improve their critical and electrical infrastructure. AFL has operations in the U.S., Mexico, Europe and Asia. The company is headquartered in Spartanburg, SC, and is a wholly-owned subsidiary of Fujikura Ltd. of Japan. For more information, visit www.AFLglobal.com.<br />
+        <br />
+        <br />
+        Contact<br />
+        Mike Scholten<br />
+        Sr. Product Marketing Manager<br />
+        978.455.9213<br />
+        Michael.Scholten@AFLglobal.com<br />
+        <br />
+        Corie Culp<br />
+        PR Manager<br />
+        864.433.5409<br />
+        Corie.Culp@AFLglobal.com
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: AFL Introduces New NOYES Contractor Series OTDRs
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mahesh
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: AFL Introduces New NOYES Contractor Series OTDRs
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1f835459-6886-4c34-ba1d-8ac5f33205f5"
+    - ID: "a6eaffd5-fc3e-41b4-93b3-f1721fcf2300"
+      Hint: ContentPublishedDate
+      Value: 20120828T183000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahesh
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220215T092603Z
+  - Version: 2
+    Fields:
+    - ID: "228f9517-e120-4014-b2c7-df0ac467a349"
+      Hint: ContentTitle
+      Value: AFL Introduces New NOYES® Contractor Series OTDRs
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211208T145058Z
+    - ID: "3688d7df-2feb-43a4-ab8d-410e5f70a676"
+      Hint: ContentDescription
+      Value: |
+        AFL is introducing a new family of Contractor Series handheld OTDRs enabling cost-effective troubleshooting of FTTx PONs and point-to-point metro/access networks. The new CS260 OTDR family offers two models:<br />
+        <br />
+        CS260-10 FTTx PON Activation and Troubleshooting OTDR: 1625 nm Live PON OTDR providing 35 dB dynamic range, best-in-class 0.8 m event and 3.5 m attenuation dead zones, integrated PON power meter and Visual Fault Locator (VFL).<br />
+        <br />
+        CS260-20 Metro/Access Troubleshooting OTDR: 1310/1550 OTDR with 28 dB dynamic range, 0.8 m event and 3.5 m attenuation dead zones plus integrated Visual Fault Locator.<br />
+        <br />
+        "A large number of network operators utilize contractors to install and verify new metro and broadband access networks, including Fiber-to-the-Home PONs," explains Michael Scholten, senior product marketing manager for AFL's NOYES Test and Inspection division. "Those same network operators often don't want to subcontract customer-facing network activation and maintenance tasks. These operators must equip their direct staff to verify signal levels at the subscriber, install and activate premise equipment, and troubleshoot any problems."<br />
+        <br />
+        The CS260-10 and CS260-20 are purpose-built for optical network activation and troubleshooting tasks. With its integrated PON power meter, the CS260-10 enables technicians to verify PON power levels at an FTTx PON ONU or ONT. If downstream signals are absent or power is too low, the CS260-10's 1625 nm Live PON OTDR allows a technician to scan the network from the ONU/ONT or a network access point to locate fiber faults such as macro-bends, breaks, poor splices and dirty or damaged connectors. The live PON OTDR utilizes an out-of-band 1625 nm wavelength to prevent disruption to the 1310, 1490 and 1550 nm signals present on an in-service PON.<br />
+        <br />
+        The CS260-20 is designed to troubleshoot point-to-point metro/access networks operating in the 1310 and/or 1550 nm wavelength regions. Its short dead zones enable precise location of fiber faults. With 28 dB dynamic range, the CS260-20 can locate faults in networks up to 60 km (40 miles) in length.<br />
+        <br />
+        CS260s are derivatives of AFL's popular OFL280 and FLX380 FlexTester families and offer the same ease-of-use, high-contrast indoor/outdoor display and over 12 hours of continuous battery operation. Both models also include an integrated VFL (visible red laser) designed to visually pinpoint the location of macro-bends or breaks in splice closures, access terminals and splitter cabinets.<br />
+        <br />
+        CS260 OTDR results may be saved in industry-standard .SOR files and uploaded to PC via the built-in USB interface. Windows-compatible TRM® Test Results Manager software is supplied with the CS260s to support trace review, batch editing and professional test report generation.<br />
+        <br />
+        To learn more, visit www.AFLglobal.com.<br />
+        <br />
+        <br />
+        About AFL<br />
+        AFL provides industry-leading products and services to the electric utility, broadband, communications, OEM, enterprise, wireless and transit rail markets as well as the emerging markets of oil and gas, mining, nuclear, avionics, medical, renewable and intelligent grid. The company's diverse product portfolio includes fiber optic cable, transmission and substation accessories, outside plant equipment, connectors, fusion splicers, test equipment and training. AFL's service portfolio includes market-leading positions with the foremost communications companies supporting inside plant central office, EF&I, outside plant, enterprise and wireless areas.<br />
+        <br />
+        Founded in 1984, AFL is proud to offer engineering expertise, exceptional products and reliable service that help our customers improve their critical and electrical infrastructure. AFL has operations in the U.S., Mexico, Europe and Asia. The company is headquartered in Spartanburg, SC, and is a wholly-owned subsidiary of Fujikura Ltd. of Japan. For more information, visit www.AFLglobal.com.<br />
+        <br />
+        <br />
+        Contact<br />
+        Mike Scholten<br />
+        Sr. Product Marketing Manager<br />
+        978.455.9213<br />
+        Michael.Scholten@AFLglobal.com<br />
+        <br />
+        Corie Culp<br />
+        PR Manager<br />
+        864.433.5409<br />
+        Corie.Culp@AFLglobal.com
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: AFL Introduces New NOYES Contractor Series OTDRs
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mahesh
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: AFL Introduces New NOYES Contractor Series OTDRs
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: AFL Introduces New NOYES Contractor Series OTDRs
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7cfb8c13-e38c-4494-a089-599b63c56aa7"
+    - ID: "a6eaffd5-fc3e-41b4-93b3-f1721fcf2300"
+      Hint: ContentPublishedDate
+      Value: 20120828T183000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T091215Z

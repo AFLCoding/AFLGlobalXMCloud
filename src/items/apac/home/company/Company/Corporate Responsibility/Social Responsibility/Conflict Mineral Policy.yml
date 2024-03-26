@@ -1,0 +1,69 @@
+﻿---
+ID: "19f8770d-877e-462c-a150-c8b3d6acf811"
+Parent: "ab58ed95-c2d2-4dce-8b09-fab8d5bd327d"
+Template: "bf61de11-b78f-48ea-aaa4-1d17f0d83824"
+Path: "/sitecore/content/AFL-Global/APAC/Home/Company/Corporate Responsibility/Social Responsibility/Conflict Mineral Policy"
+SharedFields:
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{87CE798E-CDA3-4363-A47F-74DF3E2D88BE}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{DAE7C21D-4D3B-4257-A95C-9104CD8AF409}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 900
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211223T150132Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Conflict Mineral Policy
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\harry
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: In response to the ongoing conflict in the Democratic Republic of the Congo and its neighboring countries, AFL pledges to work with our customers and suppliers to ensure that minerals used in our products are not sourced from conflict zones. 
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <h1>Conflict Mineral Policy</h1>
+        <p>AFL’s environment, health and safety policy is to operate worldwide in a safe, responsible manner which respects the environment and the health of our associates, our customers and the communities where we operate. A guiding principle of this policy is to value human life above all else. In response to the ongoing conflict in the Democratic Republic of the Congo and its neighboring countries, AFL pledges to work with our customers and suppliers to ensure that minerals used in our products are not sourced from conflict zones.</p>
+        <h2>Conflict Mineral Background</h2>
+        <p>The International Rescue Committee estimates that 5.4 million people died from conflict-related causes in the Democratic Republic of Congo between 1998 and 2007. In response to the continued use of mining operations to fund the conflict, Congress included a provision in the Dodd-Frank Wall Street Reform and Consumer Protection Act of 2010 that requires certain public companies to disclose the use of conflict minerals, specifically tin, tantalum, tungsten and gold. Under the law, the Securities and Exchange Commission has authority to request further transparency in the supply chain of companies using tin, tantalum, tungsten, and gold in their businesses. As a private company, AFL is not required to meet the new disclosure requirements, however, many of our customers must comply with the new law. Therefore, AFL will commit its best efforts to ensure that minerals used in our products are not sourced from conflict zones.</p>
+         <br />
+         
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\harry
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: "AFL, Conflict Mineral Policy, CSR, Corporate Social Responsibility,  Democratic Republic of the Congo, Dodd-Frank Wall Street Reform and Consumer Protection Act, Securities and Exchange Commission, tin, tantalum, tungsten, gold "
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: Conflict Mineral Policy
+    - ID: "628db04b-29a2-483b-a88c-b8fd9a5f2086"
+      Hint: HeroLink
+      Value: |
+        <link id="{1C373F2C-CD6C-4B3C-B5E3-3FCCFD22A534}" querystring="" linktype="internal" text="LEARN MORE" anchor="" url="/AFL-Global/AMERICAS/Home/Company/Corporate Responsibility/Social Responsibility/Conflict Mineral Policy" title="" class="" target="|Custom" />
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: Conflict Mineral Policy
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2064e226-c511-4821-bcb3-61a1ccce3964"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T101908Z

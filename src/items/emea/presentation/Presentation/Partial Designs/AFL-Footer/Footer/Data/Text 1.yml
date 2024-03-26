@@ -1,0 +1,323 @@
+﻿---
+ID: "a5d5d1a5-897e-447b-82b5-22c983c1b488"
+Parent: "5628cf71-450e-42a8-a5b4-973d84888f4f"
+Template: "b8f5894c-b493-4016-bf78-4090b0a2fd16"
+Path: "/sitecore/content/AFL-Global/EMEA/Presentation/Partial Designs/AFL-Footer/Footer/Data/Text 1"
+Languages:
+- Language: "de-DE"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211025T144049Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c98ba433-d01c-4a07-8768-715a2845e6f2"
+    - ID: "b3635965-6786-457c-9dee-28de73c0a331"
+      Hint: Text
+      Value: |
+        <div class="footer-logo" tabindex="0">
+        <a href="/emea">
+        <img alt="footer-logo" src="https://afl-delivery.stylelabs.cloud/api/public/content/f4a05b9b3b1e4dbc886f9d88af382375?v=6496b6f7?h=35&amp;w=109" style="height: 35px!important; width: 109px!important;" />
+        </a></div>
+        <div class="mediaIcons">
+        <h6 tabindex="0">Kontaktieren sie uns
+        :</h6>
+        <div>
+        <a tabindex="0" href="https://www.linkedin.com/company/aflglobal" target="_blank">
+        <img tabindex="0" alt="linkedin" height="26" width="26" src="https://afl-delivery.stylelabs.cloud/api/public/content/339b41460e3745f384cb5f87c82a3747?v=5eb5adc8?h=26&amp;w=26" style="height: 26px; width: 26px;" />
+        </a>
+        <a href="https://www.facebook.com/AFLglobal" target="_blank">
+        <img tabindex="0" alt="network_icon" src="https://afl-delivery.stylelabs.cloud/api/public/content/d0c692fad7654f15bf47fbcd37c304fa?v=b18d8470;w=12" style="height: 24px; width: 12px;" />
+        </a>
+        <a href="https://twitter.com/AFLglobal" target="_blank">
+        <img tabindex="0" alt="twitter" height="20" width="24" src="https://afl-delivery.stylelabs.cloud/api/public/content/f3f72ad1b8804d2fad3a6f6558c7e314?v=f5aa20f6?h=20&amp;w=24" style="height: 20px; width: 24px;" />
+        </a>
+        <a href="https://www.youtube.com/user/AFLglobal" target="_blank">
+        <img tabindex="0" alt="youtube" height="18" width="26" src="https://afl-delivery.stylelabs.cloud/api/public/content/5b20be5d32eb45089f464f7d878463c7?v=5515bf0a?h=18&amp;w=26" style="height: 18px; width: 26px;" />
+        </a>
+        <a href="https://www.flickr.com/photos/aflglobal/" target="_blank">
+        <img tabindex="0" alt="flickr_icon" height="29" width="29" src="https://afl-delivery.stylelabs.cloud/api/public/content/6c81d47d3a6d4adab8bda43fd5568c87?v=42f4ad8b?h=29&amp;w=29" style="height: 29px; width: 29px;" />
+        </a>
+        <a href="https://www.instagram.com/afl.global/" target="_blank">
+        <img tabindex="0" alt="instagram" height="27" width="27" src="https://afl-delivery.stylelabs.cloud/api/public/content/99fd50081e8648c0ad1d71eae8eaca15?v=3ada2ede?h=27&amp;w=27" style="height: 27px; width: 27px;" />
+        </a>
+        </div>
+        </div>
+        <div class="contactNumber">
+        <h6 tabindex="0">Rufen Sie uns an
+        :</h6>
+        <img tabindex="0" alt="Vector Smart Object" height="14" width="14" src="https://afl-delivery.stylelabs.cloud/api/public/content/106a630d60f8410786994bacf09e97e1?v=50e6cb25?h=14&amp;w=14" style="height: 14px; width: 14px;" /><a href="tel:44 1793 647200" tabindex="0">+44 1793 647200</a>
+        </div>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rob
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220801T152803Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211025T144049Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9e6e1c95-0f5c-4b8e-9f33-438028632405"
+    - ID: "b3635965-6786-457c-9dee-28de73c0a331"
+      Hint: Text
+      Value: |
+        <div class="footer-logo" tabindex="0">
+        <a href="/emea">
+        <img alt="footer-logo" src="https://afl-delivery.stylelabs.cloud/api/public/content/f4a05b9b3b1e4dbc886f9d88af382375?v=6496b6f7?h=35&amp;w=109" style="height: 35px!important; width: 109px!important;" />
+        </a></div>
+        <div class="mediaIcons">
+        <h6 tabindex="0" class="focus-click">Connect with us:</h6>
+        <div>
+        <a tabindex="0" href="https://www.linkedin.com/company/aflglobal" target="_blank">
+        <img tabindex="0" alt="linkedin" height="26" width="26" src="https://afl-delivery.stylelabs.cloud/api/public/content/339b41460e3745f384cb5f87c82a3747?v=5eb5adc8?h=26&amp;w=26" style="height: 26px; width: 26px;" />
+        </a>
+        <a href="https://www.facebook.com/AFLglobal" target="_blank">
+        <img tabindex="0" alt="network_icon" src="https://afl-delivery.stylelabs.cloud/api/public/content/d0c692fad7654f15bf47fbcd37c304fa?v=b18d8470;w=12" style="height: 24px; width: 12px;" />
+        </a>
+        <a href="https://twitter.com/AFLglobal" target="_blank">
+        <img tabindex="0" alt="twitter" height="20" width="24" src="https://afl-delivery.stylelabs.cloud/api/public/content/f3f72ad1b8804d2fad3a6f6558c7e314?v=f5aa20f6?h=20&amp;w=24" style="height: 20px; width: 24px;" />
+        </a>
+        <a href="https://www.youtube.com/user/AFLglobal" target="_blank">
+        <img tabindex="0" alt="youtube" height="18" width="26" src="https://afl-delivery.stylelabs.cloud/api/public/content/5b20be5d32eb45089f464f7d878463c7?v=5515bf0a?h=18&amp;w=26" style="height: 18px; width: 26px;" />
+        </a>
+        <a href="https://www.flickr.com/photos/aflglobal/" target="_blank">
+        <img tabindex="0" alt="flickr_icon" height="29" width="29" src="https://afl-delivery.stylelabs.cloud/api/public/content/6c81d47d3a6d4adab8bda43fd5568c87?v=42f4ad8b?h=29&amp;w=29" style="height: 29px; width: 29px;" />
+        </a>
+        <a href="https://www.instagram.com/afl.global/" target="_blank">
+        <img tabindex="0" alt="instagram" height="27" width="27" src="https://afl-delivery.stylelabs.cloud/api/public/content/99fd50081e8648c0ad1d71eae8eaca15?v=3ada2ede?h=27&amp;w=27" style="height: 27px; width: 27px;" />
+        </a>
+        </div>
+        </div>
+        <div class="contactNumber">
+        <h6 tabindex="0">Give us a call:</h6>
+        <img tabindex="0" alt="Vector Smart Object" height="14" width="14" src="https://afl-delivery.stylelabs.cloud/api/public/content/106a630d60f8410786994bacf09e97e1?v=50e6cb25?h=14&amp;w=14" style="height: 14px; width: 14px;" /><a href="tel:44 1793 647200" tabindex="0">+44 1793 647200</a>
+        </div>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rob
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220801T152626Z
+- Language: "es-ES"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211025T144049Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4bda798a-3a1e-4d3d-a046-5fcf8bee8d54"
+    - ID: "b3635965-6786-457c-9dee-28de73c0a331"
+      Hint: Text
+      Value: |
+        <div class="footer-logo">
+        <a href="/">
+        <img alt="footer-logo" src="-/media/309EA4FDE3B44A80B3533F4923E6A007.ashx?h=35&amp;w=109" style="height: 35px!important; width: 109px!important;" />
+        </a></div>
+        <div class="mediaIcons">
+        <h6>Connect With us:</h6>
+        <div>
+        <a href="https://www.linkedin.com/company/afl-2" target="_blank">
+        <img alt="linkedin" height="26" width="26" src="-/media/6B7520D82E3D40B1870B544BBC50CE36.ashx?h=26&amp;w=26" style="height: 26px; width: 26px;" />
+        </a>
+        <a href="https://www.facebook.com/AFLcorp" target="_blank">
+        <img alt="network_icon" src="-/media/B94E89D6433048EC8547A7071830DBAF.ashx?h=24&amp;w=12" style="height: 24px; width: 12px;" />
+        </a>
+        <a href="https://twitter.com/AFLglobal" target="_blank">
+        <img alt="twitter" height="20" width="24" src="-/media/83FC607FCEA74581828ECDA6877B0E1C.ashx?h=20&amp;w=24" style="height: 20px; width: 24px;" />
+        </a>
+        <a href="https://www.youtube.com/user/AFLglobal" target="_blank">
+        <img alt="youtube" height="18" width="26" src="-/media/0163CD80BDC64B52AD66A7EE02698870.ashx?h=18&amp;w=26" style="height: 18px; width: 26px;" />
+        </a>
+        <a href="https://www.flickr.com/photos/aflglobal/" target="_blank">
+        <img alt="flickr_icon" height="29" width="29" src="-/media/6F2F399DF8CA4F238956890D26922BA7.ashx?h=29&amp;w=29" style="height: 29px; width: 29px;" />
+        </a>
+        <a href="https://www.instagram.com/photos.afl/" target="_blank">
+        <img alt="instagram" height="27" width="27" src="-/media/6D3259390FAE4373B12078E42F23639E.ashx?h=27&amp;w=27" style="height: 27px; width: 27px;" />
+        </a>
+        <a href="https://www.pinterest.com/aflglobal/" target="_blank">
+        <img alt="pinterest" height="29" width="29" src="-/media/D44879341640498C8E1F3608490A41E6.ashx?h=29&amp;w=29" style="height: 29px; width: 29px;" />
+        </a>
+        </div>
+        </div>
+        <div class="contactNumber">
+        <h6>Give us a call:</h6>
+        <img alt="Vector Smart Object" height="14" width="14" src="-/media/25B241D29C974121A2F6B87D7786F9EA.ashx?h=14&amp;w=14" style="height: 14px; width: 14px;" /><a href="tel:123-456-7890">+1 (800) 235-3424</a>
+        </div>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahesh
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220207T114038Z
+  - Version: 2
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211025T144049Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "30a61f46-40e2-4ced-a17c-258b9f450f13"
+    - ID: "b3635965-6786-457c-9dee-28de73c0a331"
+      Hint: Text
+      Value: |
+        <div class="footer-logo" tabindex="0">
+        <a href="/emea">
+        <img alt="footer-logo" src="https://afl-delivery.stylelabs.cloud/api/public/content/f4a05b9b3b1e4dbc886f9d88af382375?v=6496b6f7?h=35&amp;w=109" style="height: 35px!important; width: 109px!important;" />
+        </a></div>
+        <div class="mediaIcons">
+        <h6 tabindex="0">P&oacute;ngase en contacto con nosotros
+        :</h6>
+        <div>
+        <a tabindex="0" href="https://www.linkedin.com/company/aflglobal" target="_blank">
+        <img tabindex="0" alt="linkedin" height="26" width="26" src="https://afl-delivery.stylelabs.cloud/api/public/content/339b41460e3745f384cb5f87c82a3747?v=5eb5adc8?h=26&amp;w=26" style="height: 26px; width: 26px;" />
+        </a>
+        <a href="https://www.facebook.com/AFLglobal" target="_blank">
+        <img tabindex="0" alt="network_icon" src="https://afl-delivery.stylelabs.cloud/api/public/content/d0c692fad7654f15bf47fbcd37c304fa?v=b18d8470;w=12" style="height: 24px; width: 12px;" />
+        </a>
+        <a href="https://twitter.com/AFLglobal" target="_blank">
+        <img tabindex="0" alt="twitter" height="20" width="24" src="https://afl-delivery.stylelabs.cloud/api/public/content/f3f72ad1b8804d2fad3a6f6558c7e314?v=f5aa20f6?h=20&amp;w=24" style="height: 20px; width: 24px;" />
+        </a>
+        <a href="https://www.youtube.com/user/AFLglobal" target="_blank">
+        <img tabindex="0" alt="youtube" height="18" width="26" src="https://afl-delivery.stylelabs.cloud/api/public/content/5b20be5d32eb45089f464f7d878463c7?v=5515bf0a?h=18&amp;w=26" style="height: 18px; width: 26px;" />
+        </a>
+        <a href="https://www.flickr.com/photos/aflglobal/" target="_blank">
+        <img tabindex="0" alt="flickr_icon" height="29" width="29" src="https://afl-delivery.stylelabs.cloud/api/public/content/6c81d47d3a6d4adab8bda43fd5568c87?v=42f4ad8b?h=29&amp;w=29" style="height: 29px; width: 29px;" />
+        </a>
+        <a href="https://www.instagram.com/afl.global/" target="_blank">
+        <img tabindex="0" alt="instagram" height="27" width="27" src="https://afl-delivery.stylelabs.cloud/api/public/content/99fd50081e8648c0ad1d71eae8eaca15?v=3ada2ede?h=27&amp;w=27" style="height: 27px; width: 27px;" />
+        </a>
+        </div>
+        </div>
+        <div class="contactNumber">
+        <h6 tabindex="0">Ll&aacute;menos
+        :</h6>
+        <img tabindex="0" alt="Vector Smart Object" height="14" width="14" src="https://afl-delivery.stylelabs.cloud/api/public/content/106a630d60f8410786994bacf09e97e1?v=50e6cb25?h=14&amp;w=14" style="height: 14px; width: 14px;" /><a href="tel:44 1793 647200" tabindex="0">+44 1793 647200</a>
+        </div>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rob
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220801T152730Z
+- Language: "fr-FR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211025T144049Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "de269910-80d6-4438-b1ee-c67e8527cb04"
+    - ID: "b3635965-6786-457c-9dee-28de73c0a331"
+      Hint: Text
+      Value: |
+        <div class="footer-logo focus-click" tabindex="0">
+        <a href="/emea">
+        <img alt="footer-logo" src="https://afl-delivery.stylelabs.cloud/api/public/content/f4a05b9b3b1e4dbc886f9d88af382375?v=6496b6f7?h=35&amp;w=109" style="height: 35px!important; width: 109px!important;" />
+        </a></div>
+        <div class="mediaIcons">
+        <h6 tabindex="0">Entrez en contact avec nous
+        :</h6>
+        <div>
+        <a tabindex="0" href="https://www.linkedin.com/company/aflglobal" target="_blank">
+        <img tabindex="0" alt="linkedin" height="26" width="26" src="https://afl-delivery.stylelabs.cloud/api/public/content/339b41460e3745f384cb5f87c82a3747?v=5eb5adc8?h=26&amp;w=26" style="height: 26px; width: 26px;" />
+        </a>
+        <a href="https://www.facebook.com/AFLglobal" target="_blank">
+        <img tabindex="0" alt="network_icon" src="https://afl-delivery.stylelabs.cloud/api/public/content/d0c692fad7654f15bf47fbcd37c304fa?v=b18d8470;w=12" style="height: 24px; width: 12px;" />
+        </a>
+        <a href="https://twitter.com/AFLglobal" target="_blank">
+        <img tabindex="0" alt="twitter" height="20" width="24" src="https://afl-delivery.stylelabs.cloud/api/public/content/f3f72ad1b8804d2fad3a6f6558c7e314?v=f5aa20f6?h=20&amp;w=24" style="height: 20px; width: 24px;" />
+        </a>
+        <a href="https://www.youtube.com/user/AFLglobal" target="_blank">
+        <img tabindex="0" alt="youtube" height="18" width="26" src="https://afl-delivery.stylelabs.cloud/api/public/content/5b20be5d32eb45089f464f7d878463c7?v=5515bf0a?h=18&amp;w=26" style="height: 18px; width: 26px;" />
+        </a>
+        <a href="https://www.flickr.com/photos/aflglobal/" target="_blank">
+        <img tabindex="0" alt="flickr_icon" height="29" width="29" src="https://afl-delivery.stylelabs.cloud/api/public/content/6c81d47d3a6d4adab8bda43fd5568c87?v=42f4ad8b?h=29&amp;w=29" style="height: 29px; width: 29px;" />
+        </a>
+        <a href="https://www.instagram.com/afl.global/" target="_blank">
+        <img tabindex="0" alt="instagram" height="27" width="27" src="https://afl-delivery.stylelabs.cloud/api/public/content/99fd50081e8648c0ad1d71eae8eaca15?v=3ada2ede?h=27&amp;w=27" style="height: 27px; width: 27px;" />
+        </a>
+        </div>
+        </div>
+        <div class="contactNumber">
+        <h6 tabindex="0">Appelez-nous
+        :</h6>
+        <img tabindex="0" alt="Vector Smart Object" height="14" width="14" src="https://afl-delivery.stylelabs.cloud/api/public/content/106a630d60f8410786994bacf09e97e1?v=50e6cb25?h=14&amp;w=14" style="height: 14px; width: 14px;" /><a href="tel:+44 1793 647200" tabindex="0">+44 1793 647200</a>
+        </div>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rob
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220801T152659Z

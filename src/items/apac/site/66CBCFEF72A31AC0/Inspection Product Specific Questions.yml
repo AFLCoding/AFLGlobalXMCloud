@@ -1,0 +1,168 @@
+﻿---
+ID: "99f4b145-e169-4d7f-a565-ad3a812ea183"
+Parent: "7f8f2740-e0b9-4ded-9ffd-97660b0d0df6"
+Template: "bf61de11-b78f-48ea-aaa4-1d17f0d83824"
+Path: /sitecore/content/AFLGlobal/APAC/Home/Resources/Product Related Materials/Frequently Asked Questions/FAQ Test and Inspection/Inspection Product Specific Questions
+SharedFields:
+- ID: "1fbc6a49-6281-48ee-87e9-a3970b145adb"
+  Hint: NavigationFilter
+  Value: |
+    {61BD64D6-809E-40AE-9297-2724A19329B3}
+    {D063E9D1-C7B5-4B1E-B31E-69886C9C59F5}
+    {500AE4C0-FA7B-463F-8149-EFFF7F044101}
+    {A0E7FF57-6994-4B09-AA21-104239628D5A}
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{87CE798E-CDA3-4363-A47F-74DF3E2D88BE}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{DAE7C21D-4D3B-4257-A95C-9104CD8AF409}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220818T182957Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{1A24FC12-1F8E-4214-921E-D355AA3E4DC5}"
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Inspection Product Specific Questions
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rafael
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: Inspection Product Specific Questions
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <h1 style="color: #000000; background-color: #ffffff; margin: 0.67em 0px; line-height: 24px;">Inspection: Product-Specific Questions</h1>
+        <span style="background-color: #ffffff; color: #333333;"><strong><a name="OFS300" style="color: #0091ea; background-color: transparent;"></a>OFS300</strong></span><br style="color: #333333; background-color: #ffffff;" />
+        <span style="background-color: #ffffff; color: #333333;"></span><br style="color: #333333; background-color: #ffffff;" />
+        <span style="background-color: #ffffff; color: #333333;"><strong>Q: Is it a safe practice to view live fibers with the scope since it has a safety filter?</strong><br />
+        <strong>A:</strong> Intentionally viewing live fibers is not considered a safe practice. The Schott KG3 safety filter in the OFS 300 provides > 40 dB reduction of IR to greatly reduce the amount of transmitted light in the case of unintentional viewing of a live fiber.<br />
+         <br />
+        <strong>Q: If I change the eyepiece, would I remove the safety filter in the scope?<br />
+        A</strong>: No, the safety filter is located inside the scope tube and could not be easily removed.<br />
+         <br />
+        <strong>Q: If I need to view an angled connector (APC), which adapter cap do I use?<br />
+        A:</strong> In order to view an angled or APC connector, the adapter cap for that specific connector style must be used.<br />
+         <br />
+        <strong>Examples:</strong></span><br style="color: #333333; background-color: #ffffff;" />
+        <ul style="color: #333333; background-color: #ffffff; list-style-image: url('https://webapps.aflglobal.com/productionFiles/images/bulletRound.aspx');">
+            <li>Angled SC: use part number 8800-00-0220 ASC Adapter Cap</li>
+            <li>Angled FC: use part number 8800-00-0218 AFC Adapter Cap</li>
+        </ul>
+        <span style="background-color: #ffffff; color: #333333;"></span><br style="color: #333333; background-color: #ffffff;" />
+        <span style="background-color: #ffffff; color: #333333;"></span><br style="color: #333333; background-color: #ffffff;" />
+        <span style="background-color: #ffffff; color: #333333;"><strong><a name="VS300" style="color: #0091ea; background-color: transparent;"></a>VS300</strong></span><br style="color: #333333; background-color: #ffffff;" />
+        <span style="background-color: #ffffff; color: #333333;"></span><br style="color: #333333; background-color: #ffffff;" />
+        <span style="background-color: #ffffff; color: #333333;"><strong>Q: When I turn on the VS 300 all I see is a white screen.<br />
+        A:</strong> Change the batteries in the VS 300 scope.<br />
+        <br />
+        <strong>Q: Why can’t I see anything with my VS300?</strong><br />
+        <strong>A:</strong>  If VS300 will not focus, the batteries may be weak.  Weak batteries may be able to illuminate the screen, but not have enough power to run the CMOS camera, resulting in a uniform gray screen and no fiber image.  Correct by inserting new batteries.<br />
+         </span><br style="color: #333333; background-color: #ffffff;" />
+        <br style="color: #333333; background-color: #ffffff;" />
+        <br style="color: #333333; background-color: #ffffff;" />
+        <span style="background-color: #ffffff; color: #333333;"><strong><a name="FOCIS" style="color: #0091ea; background-color: transparent;"></a>FOCIS</strong></span><br style="color: #333333; background-color: #ffffff;" />
+        <span style="background-color: #ffffff; color: #333333;"></span><br style="color: #333333; background-color: #ffffff;" />
+        <span style="background-color: #ffffff; color: #333333;"><strong>Q: When naming a new folder, how do you add any numbers to the file name?</strong><br />
+        <strong>A:</strong> To select a number on the QWERTY software key board, press and hold the appropriate key until the number appears in a small pop up box at the top of the keyboard, then release the key.  The selected number will appear in the File Prefix box.<br />
+         <br />
+        <strong>Q: Is there a way to move files within the internal memory between folders?</strong><br />
+        <strong>A:</strong>  No. To move files, save the folder to a USB, then transfer to a PC and use Windows Explorer to move the files.<br />
+         <br />
+        <strong>Q: The fiber numbering sequence only seems to reset if you create a new folder; is this an operator error?</strong><br />
+        <strong>A:</strong> The fiber number increments each time you save an image.  If you are using before and after images, then it increments after both of those images are saved to a fiber.<br />
+         <br />
+        <strong>Q: Does the unit come with a stylus?</strong><br />
+        <strong>A:</strong> It does not come with a stylus.<br />
+         <br />
+        <strong>Q: Is there an option to save a test picture as a custom name verses the standard numbering sequence?</strong><br />
+        <strong>A:</strong>  If you are referring to having a name vs. a number for a particular fiber, no, that option does not exist.  All fibers are numbered.<br />
+         <br />
+        <strong>Q: I can’t see the images I saved in my folder. What happened?</strong><br />
+        <strong>A:</strong> Make sure the Filter is set to “Off” in the drop down box when trying to view saved images in folders.<br />
+         <br />
+        <strong>Q:  Why does my battery get run down after I shut off my FOCIS?</strong><br />
+        <strong>A:</strong>  FOCIS has 2 power-down states. The first is SLEEP. During sleep mode, FOCIS continues to draw power from its battery and it is common that if it sits overnight it can discharge completely. The second power-down state is OFF. Once placed in the OFF state, FOCIS draws no power from its battery and remains charged for long periods of time. One of the most common operator errors FOCIS users encounter is that instead of turning the product OFF, they place it in sleep mode. To put FOCIS in the OFF state, a user must press and hold the power button for a minimum of 7 seconds. To put FOCIS in the SLEEP state, a user must press and hold the power button for less than 7 seconds.<br />
+         </span><br style="color: #333333; background-color: #ffffff;" />
+        <span style="background-color: #ffffff; color: #333333;"><strong>Q: Can the FOCIS or FOCIS PRO be affected by a virus via a USB Flash Drive or SD Card since it is using Windows CE operating system?</strong><br />
+        <strong>A</strong>: There is no risk that the viruses that affect Windows personal computers can be transferred via a USB Flash Drive or SD Card to FOCIS or FOCIS PRO because viruses that run on the Windows  X86 processor architecture will not run on the ARM processor in FOCIS/FOCIS PRO.<br />
+        <br />
+        Windows CE viruses do exist and it is possible that such a virus could be introduced into a FOCIS or FOCIS PRO unit via a USB Flash Drive or SD Card. However, these viruses are extremely rare and, to our knowledge, this has never happened to a FOCIS or FOCIS PRO unit nor any other AFL Windows CE product.</span><br style="color: #333333; background-color: #ffffff;" />
+        <br style="color: #333333; background-color: #ffffff;" />
+        <strong style="color: #333333; background-color: #ffffff;">Q: Why can't I obtain a clear, sharp, focused image of my connector endface when I use a Universal 2.5mm PC probe tip adapter (AFL p/n DFS1-00-0002MR) with my DFS1 Digital Fiberscope?</strong><br style="color: #333333; background-color: #ffffff;" />
+        <strong style="color: #333333; background-color: #ffffff;">A:</strong><span style="background-color: #ffffff; color: #333333;"> The design of the Universal 2.5mm PC probe tip adapter incorporates a ferrule stop located inside the tip. The stop ensures that the fiber endface is located within the focus range of the inspection probe. When inserting a ferrule into the Universal 2.5mm PC probe tip, users must make sure to seat the ferrule against the ferrule stop. By design, the fit between the ferrule and the tip is snug, but users should have no difficulty positioning the ferrule properly.</span><br style="color: #333333; background-color: #ffffff;" />
+        <br style="color: #333333; background-color: #ffffff;" />
+        <strong style="color: #333333; background-color: #ffffff;">Q: I have an AFL FOCIS tablet that presents the following message: "A fatal system error occurred. Please press OK to reboot the system. The system will be automatically rebooted in 30 seconds." How can I clear this error message and restore proper operation?</strong><br style="color: #333333; background-color: #ffffff;" />
+        <strong style="color: #333333; background-color: #ffffff;">A:</strong><span style="background-color: #ffffff; color: #333333;"> Unfortunately, clearing the error message can only be accomplished in our factory. Please contact our customer service organization to facilitate the return of your FOCIS tablet for repair. </span><br style="color: #333333; background-color: #ffffff;" />
+        <br style="color: #333333; background-color: #ffffff;" />
+        <br style="color: #333333; background-color: #ffffff;" />
+        <br style="color: #333333; background-color: #ffffff;" />
+        <span style="background-color: #ffffff; color: #333333;"><strong><a name="FOCISPRO" style="color: #0091ea; background-color: transparent;"></a>FOCIS PRO</strong></span><br style="color: #333333; background-color: #ffffff;" />
+        <span style="background-color: #ffffff; color: #333333;"></span><br style="color: #333333; background-color: #ffffff;" />
+        <span style="background-color: #ffffff; color: #333333;"><strong>Q: How do you re-analyze a saved imaged?</strong><br />
+        <strong>A:</strong> You cannot re-analyze a saved or just saved image; you can only analyze an image during live view.<br />
+         <br />
+        <strong>Q: How do you edit a saved user-created pass fail parameter?</strong><br />
+        <strong>A:</strong> You cannot edit saved user-created pass/fail parameters. The user will need to create new pass/fail parameters.<br />
+         <br />
+        <strong>Q: Can the FOCIS PRO provide Pass/Fail analysis on MPO/MTP Connector end faces?</strong><br />
+        <strong>A:</strong> No, the FOCIS PRO cannot provide a pass/fail analysis on MPO/MTP connector end-faces.  The FOCIS PRO can do the IEC pass/fail analysis on UPC or APC single ferrules only.<br />
+         <br />
+        <strong>Q: Why does my battery get run down after I shut off my FOCIS-PRO?</strong><br />
+        <strong>A:</strong>  FOCIS PRO has 2 power-down states. The first is SLEEP. During sleep mode, FOCIS continues to draw power from its battery and it is common that if it sits overnight it can discharge completely. The second power-down state is OFF. Once placed in the OFF state, FOCIS draws no power from its battery and remains charged for long periods of time. One of the most common operator errors FOCIS users encounter is that instead of turning the product OFF, they place it in sleep mode. To put FOCIS in the OFF state, a user must press and hold the power button for a minimum of 7 seconds. To put FOCIS in the SLEEP state, a user must press and hold the power button for less than 7 seconds.<br />
+        <br />
+        <strong>Q: Is it possible to load the FOCIS PRO software onto another tablet or handheld device?</strong><br />
+        <strong>A:</strong> No. FOCIS PRO application software has been designed to work in FOCIS (DFD1 Touchscreen Tablet) only.<br />
+        <br />
+        <strong>Q: Is it possible to load the FOCIS PRO software onto a standard Windows laptop?</strong><br />
+        <strong>A</strong>: No, the FOCIS PRO software is designed for the FOCIS (DFD1 Touchscreen Tablet).<br />
+        <br />
+        <strong>Q: There appears to be an SD card slot on the FOCUS PRO Touchscreen Tablet. Can I use an SD card to transfer images to another computer?</strong><br />
+        <strong>A:</strong> The FOCIS PRO platform provides two mechanisms for sharing images. It incorporates a standard SD card slot and it also has the capability to write files out to an off-the-shelf USB memory stick. Yes, user can transfer saved images from the SD card to another computer.<br />
+         <br />
+        <strong>Q: Can I download other application software to the FOCIS PRO Touchscreen Tablet?</strong><br />
+        <strong>A</strong>: No, we do not guarantee that the FOCIS PRO Touchscreen Tablet will continue to function properly if users download additional applications.<br />
+        <br />
+        <strong>Q: Can the FOCIS or FOCIS PRO be affected by a virus via a USB Flash Drive or SD Card since it is using Windows CE operating system?</strong><br />
+        <strong>A</strong>: There is no risk that the viruses that affect Windows XP, Windows 7 or Windows 8 machines can be transferred via a USB Flash Drive or SD Card to FOCIS or FOCIS PRO because viruses that run on the Windows XP/7/8 X86 architecture will not run on the ARM processor in FOCIS/FOCIS PRO.<br />
+        <br />
+        Windows CE viruses do exist and it is possible that such a virus could be introduced into a FOCIS or FOCIS PRO unit via a USB Flash Drive or SD Card. However, these viruses are extremely rare and, to our knowledge, this has never happened to a FOCIS or FOCIS PRO unit nor any other AFL Windows CE product.</span><br style="color: #333333; background-color: #ffffff;" />
+        <br style="color: #333333; background-color: #ffffff;" />
+        <br style="color: #333333; background-color: #ffffff;" />
+        <strong style="color: #333333; background-color: #ffffff;">Q: Why can't I obtain a clear, sharp, focused image of my connector endface when I use a Universal 2.5mm PC probe tip adapter (AFL p/n DFS1-00-0002MR) with my DFS1 Digital Fiberscope?</strong><br style="color: #333333; background-color: #ffffff;" />
+        <strong style="color: #333333; background-color: #ffffff;">A:</strong><span style="background-color: #ffffff; color: #333333;"> The design of the Universal 2.5mm PC probe tip adapter incorporates a ferrule stop located inside the tip. The stop ensures that the fiber endface is located within the focus range of the inspection probe. When inserting a ferrule into the Universal 2.5mm PC probe tip, users must make sure to seat the ferrule against the ferrule stop. By design, the fit between the ferrule and the tip is snug, but users should have no difficulty positioning the ferrule properly.</span><br style="color: #333333; background-color: #ffffff;" />
+        <br style="color: #333333; background-color: #ffffff;" />
+        <strong style="color: #333333; background-color: #ffffff;">Q: I have an AFL FOCIS PRO tablet that presents the following message: "A fatal system error occurred. Please press OK to reboot the system. The system will be automatically rebooted in 30 seconds." How can I clear this error message and restore proper operation?</strong><br style="color: #333333; background-color: #ffffff;" />
+        <strong style="color: #333333; background-color: #ffffff;">A:</strong><span style="background-color: #ffffff; color: #333333;"> Unfortunately, clearing the error message can only be accomplished in our factory. Please contact our customer service organization to facilitate the return of your FOCIS PRO tablet for repair.</span>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rafael
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: Inspection Product Specific Questions
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: Inspection Product Specific Questions
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1c31b580-4e34-465a-a231-9e2f1d5f6893"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\pawan.tyagi@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240316T041302Z

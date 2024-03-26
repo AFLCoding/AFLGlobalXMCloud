@@ -1,0 +1,98 @@
+﻿---
+ID: "27e190aa-ea1e-4ea3-b221-9b3384578592"
+Parent: "df31d0b3-2381-4189-a1ad-cdc02b37c41b"
+Template: "011c02ab-49e7-41f0-8719-03034390bc25"
+Path: "/sitecore/content/AFL-Global/OCEANIA/Data/AFL Product Detail Folder/Resources Details"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 625
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211124T142406Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <h3 class="field-sub-heading">With customer-focused resources, AFL gives you the tools to implement solutions that positively impact your business</h3>
+        <p>With an end-to-end product portfolio as diverse as AFL&rsquo;s, it is critical for our customers to have access to the right support resources. That is what this section of our website is all about. With new products being released often, we will update
+        this information as needed to ensure you have the latest information literally at your fingertips.</p>
+        <p>Check out the related links on the right.</p>
+        <h3>Resources:</h3>
+        <ul style="list-style-image: url('https://www.aflglobal.com/productionFiles/images/bulletRound.aspx');">
+            <li><a class="CMSSiteMapLink" href="https://www.aflglobal.com/Resources.aspx">Resources</a>
+            <ul class="CMSSiteMapList" style="list-style-image: url('https://www.aflglobal.com/productionFiles/images/bulletSquare.aspx');">
+                <li class="CMSSiteMapListItem"><a class="CMSSiteMapLink" href="https://www.aflglobal.com/Resources/Catalogs.aspx">Catalogs</a></li>
+                <li class="CMSSiteMapListItem"><a class="CMSSiteMapLink" href="https://www.aflglobal.com/Resources/Quick-Reference-Guides.aspx">Quick Reference Guides</a></li>
+                <li class="CMSSiteMapListItem"><a class="CMSSiteMapLink" href="https://learn.aflglobal.com/white-papers">White Papers</a></li>
+                <li class="CMSSiteMapListItem"><a class="CMSSiteMapLink" href="https://learn.aflglobal.com/case-studies">Case Studies</a></li>
+                <li class="CMSSiteMapListItem"><a class="CMSSiteMapLink" href="https://www.aflglobal.com/Resources/Frequently-Asked-Questions.aspx">Frequently Asked Questions</a></li>
+            </ul>
+            </li>
+            <li class="CMSSiteMapListItem">
+            <ul class="CMSSiteMapList" style="list-style-image: url('https://www.aflglobal.com/productionFiles/images/bulletSquare.aspx');">
+                <li class="CMSSiteMapListItem"><a class="CMSSiteMapLink" href="https://www.aflglobal.com/Resources/Software.aspx">Software</a></li>
+                <li class="CMSSiteMapListItem"><a class="CMSSiteMapLink" href="https://www.aflglobal.com/Resources/The-Light-Brigade.aspx">Light Brigade&reg; Training</a></li>
+                <li class="CMSSiteMapListItem"><a class="CMSSiteMapLink" href="https://www.aflglobal.com/Resources/Surplus-Inventory.aspx">Surplus Inventory</a></li>
+                <li class="CMSSiteMapListItem"><a class="CMSSiteMapLink" href="https://direct.aflglobal.com/customer">AFL Direct</a></li>
+                <li class="CMSSiteMapListItem"><a class="CMSSiteMapLink" href="https://www.aflglobal.com/Contact/Trade-Show-Schedule.aspx">Trade Show Schedule</a></li>
+                <li class="CMSSiteMapListItem"><a class="CMSSiteMapLink" href="https://www.aflglobal.com/Resources/AFL-Certified-Expert-Installers-Program.aspx">AFL Certified Expert (ACE) Program</a></li>
+            </ul>
+            </li>
+            <li class="CMSSiteMapListItem">
+            <div class="CMSSiteMapListItem">&nbsp;</div>
+            <ul class="CMSSiteMapList" style="list-style-image: url('https://www.aflglobal.com/productionFiles/images/bulletSquare.aspx');">
+                <li class="CMSSiteMapListItem"><a class="CMSSiteMapLink" href="https://www.aflglobal.com/Resources/Other-Resources.aspx">Other Resources</a>
+                <ul class="CMSSiteMapList" style="list-style-image: url('https://www.aflglobal.com/productionFiles/images/bulletTriangle.aspx');">
+                    <li class="CMSSiteMapListItem"><a class="CMSSiteMapLink" href="https://www.aflglobal.com/AFL-Blog/">AFL Blog</a></li>
+                    <li class="CMSSiteMapListItem"><a class="CMSSiteMapLink" href="https://www.aflglobal.com/Resources/Other-Resources/Newsroom.aspx">Newsroom</a></li>
+                    <li class="CMSSiteMapListItem"><a class="CMSSiteMapLink" href="https://www.aflglobal.com/Resources/Other-Resources/Discontinued-Products.aspx">Discontinued Products</a></li>
+                    <li class="CMSSiteMapListItem"><a class="CMSSiteMapLink" href="https://www.aflglobal.com/Resources/Other-Resources/Product-and-Image-Resources.aspx">Product and Image Resources</a></li>
+                    <li class="CMSSiteMapListItem"><a class="CMSSiteMapLink" href="https://www.aflglobal.com/Resources/Other-Resources/Visitors-Guide.aspx">Visitor's Guide</a></li>
+                    <li class="CMSSiteMapListItem"><a class="CMSSiteMapLink" href="https://www.aflglobal.com/Resources/Other-Resources/Trade-Compliance.aspx">Trade Compliance</a>
+                    <ul class="CMSSiteMapList" style="list-style-image: url('https://www.aflglobal.com/productionFiles/images/bulletTriangle.aspx');">
+                        <li class="CMSSiteMapListItem"><a class="CMSSiteMapLink" href="https://www.aflglobal.com/Resources/Other-Resources/Trade-Compliance/US-Export-and-Trade-Compliance.aspx">US Export and Trade Compliance</a></li>
+                    </ul>
+                    </li>
+                    <li class="CMSSiteMapListItem"><a class="CMSSiteMapLink" href="https://www.aflglobal.com/Resources/Other-Resources/Terms-and-Conditions.aspx">Terms and Conditions</a>
+                    <ul class="CMSSiteMapList" style="list-style-image: url('https://www.aflglobal.com/productionFiles/images/bulletTriangle.aspx');">
+                        <li class="CMSSiteMapListItem"><a class="CMSSiteMapLink" href="https://www.aflglobal.com/Resources/Other-Resources/Terms-and-Conditions/Germany.aspx">Germany</a></li>
+                        <li class="CMSSiteMapListItem"><a class="CMSSiteMapLink" href="https://www.aflglobal.com/Resources/Other-Resources/Terms-and-Conditions/United-Kingdom.aspx">United Kingdom</a></li>
+                    </ul>
+                    </li>
+                    <li class="CMSSiteMapListItem"><a class="CMSSiteMapLink" href="https://www.aflglobal.com/Resources/Other-Resources/Shipping.aspx">Shipping</a></li>
+                    <li class="CMSSiteMapListItem"><a class="CMSSiteMapLink" href="https://www.aflglobal.com/Resources/Other-Resources/Privacy-Policy.aspx">Privacy Policy</a></li>
+                    <li class="CMSSiteMapListItem"><a class="CMSSiteMapLink" href="https://www.aflglobal.com/Resources/Other-Resources/UK-Tax-Strategy.aspx">UK Tax Strategy</a></li>
+                </ul>
+                </li>
+            </ul>
+            </li>
+        </ul>
+    - ID: "5d336bce-e421-4fe8-ad55-214f80d841ad"
+      Hint: "Sub-Heading"
+      Value: "Resources sub-heading"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "04ceb9a4-2c78-48fe-b115-7104f612bec2"
+    - ID: "ab91d39b-30ad-4050-acef-07c741146fcc"
+      Hint: Heading
+      Value: Resources heading
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kushagra
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20211222T085453Z

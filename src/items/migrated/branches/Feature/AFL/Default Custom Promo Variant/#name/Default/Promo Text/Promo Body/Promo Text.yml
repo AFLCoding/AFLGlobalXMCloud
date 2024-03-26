@@ -1,0 +1,27 @@
+﻿---
+ID: "9ad1c0b6-844e-4381-a501-cc61acfc9a62"
+Parent: "5e1cc176-63b8-451a-ba4a-3a1e4739750e"
+Template: "fcd285da-9ab2-4c8d-b185-5a7487a9ba1b"
+Path: /sitecore/templates/Branches/Feature/AFL/Default Custom Promo Variant/$name/Default/Promo Text/Promo Body/Promo Text
+SharedFields:
+- ID: "4753764c-c05a-4623-841b-97f85135241c"
+  Hint: FieldName
+  Value: PromoText
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160427T134859Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1e594875-6da8-455f-9edc-4b7fb81ae0c1"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20211103T115624Z

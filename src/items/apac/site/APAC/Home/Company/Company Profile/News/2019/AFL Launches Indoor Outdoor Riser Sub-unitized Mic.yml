@@ -1,0 +1,86 @@
+﻿---
+ID: "ae6dd1e4-fd8b-4b93-a88d-406b649466c6"
+Parent: "c3270b71-0f5a-43c7-8cf9-b6ecdc375395"
+Template: "f36e821e-bb98-44dc-966d-e92a0e033cc7"
+Path: "/sitecore/content/AFLGlobal/APAC/Home/Company/Company Profile/News/2019/AFL Launches Indoor Outdoor Riser Sub-unitized Mic"
+SharedFields:
+- ID: "1fbc6a49-6281-48ee-87e9-a3970b145adb"
+  Hint: NavigationFilter
+  Value: |
+    {E0A2A027-0932-4878-A7D6-0416D5263EFB}
+    {61BD64D6-809E-40AE-9297-2724A19329B3}
+    {D063E9D1-C7B5-4B1E-B31E-69886C9C59F5}
+    {500AE4C0-FA7B-463F-8149-EFFF7F044101}
+    {A0E7FF57-6994-4B09-AA21-104239628D5A}
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{3A84BAC9-C1BD-4809-A12C-28EB44E25329}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{DAE7C21D-4D3B-4257-A95C-9104CD8AF409}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "228f9517-e120-4014-b2c7-df0ac467a349"
+      Hint: ContentTitle
+      Value: "AFL Launches Indoor/Outdoor Riser Sub-unitized MicroCore® Fiber Optic Cable"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211208T160410Z
+    - ID: "3688d7df-2feb-43a4-ab8d-410e5f70a676"
+      Hint: ContentDescription
+      Value: |
+        <div>Spartanburg, SC – <a href="http://www.aflglobal.com/">AFL</a>, a leading manufacturer of fiber optic cable, accessories and equipment, is adding a new fiber optic cable to its current line-up of MicroCore cable products. The <a href="~/link.aspx?_id=8DAAD57751AC47FD81A93186D0BF75C4&_z=z">Indoor/Outdoor Riser Sub-unitized MicroCore</a> is a high fiber count cable, ideal for indoor and indoor/outdoor applications.<a>
+        “Indoor/Outdoor MicroCore is a great solution for inter-campus data center applications where transitioning between buildings is required,” explained Michael Houck, product manager for AFL’s Inside Plant Cable product line. “Indoor/Outdoor MicroCore utilizes constructions that allow for direct MTP/MPO terminations. Additionally, it is also available with AFL’s patented </a>SpiderWeb Ribbon® SWR® Technology which allows use of AFL field installable splice on <a href="~/link.aspx?_id=B216F09D2A9B453583CEF11753CEA116&_z=z">FUSEConnect® Ribbon Connectors</a>.”<br />
+        <br />
+        The Indoor/Outdoor MicroCore cable consists of water-blocked subunits helically stranded to provide sub-unitized cables ranging from 24 to 288 fiber counts. The water-blocked subunits help ensure that any damage to the cable is restricted to a repairable length of several meters. The outer jacket is moisture-resistant, fungus-resistant and UV-resistant for outdoor applications. With a riser rating, the Indoor/Outdoor MicroCore can be used in riser, general inside plant and limited outside plant applications.<br />
+        <br />
+        For additional information on AFL, its products and services, visit <a href="http://www.aflglobal.com/">www.AFLglobal.com</a>.<br />
+        <br />
+        About AFL<br />
+        Founded in 1984, AFL is an international manufacturer providing end-to-end solutions to the energy, service provider, enterprise and industrial markets as well several emerging markets. The company’s products are in use in over 130 countries and include fiber optic cable and hardware, transmission and substation accessories, outside plant equipment, connectivity, test and inspection equipment, fusion splicers and training. AFL also offers a wide variety of services supporting data center, enterprise, wireless and outside plant applications.<br />
+        <br />
+        Headquartered in Spartanburg, SC, AFL has operations in the U.S., Mexico, Canada, Europe, Asia and Australia, and is a wholly-owned subsidiary of Fujikura Ltd. of Japan. For more information, visit <a href="http://www.aflglobal.com/">www.AFLglobal.com</a>.<br />
+        <br />
+        Follow us on <a href="https://www.linkedin.com/company/afl-2">LinkedIn</a>, <a href="https://twitter.com/AFLglobal">Twitter</a>, and “like us” on <a href="https://www.facebook.com/AFLcorp">Facebook</a>. Review our <a href="https://www.aflglobal.com/AFL-Blog/">blog</a> or subscribe to our bi-monthly e-newsletter.<br />
+        <br />
+        Contacts<br />
+        Michael Houck<br />
+        Product Manager – Inside Plant Cables<br />
+        AFL<br />
+        864.486.7048<br />
+        <a href="mailto:Michael.Houck@AFLglobal.com">Michael.Houck@AFLglobal.com</a><br />
+         <br />
+        Corie Culp<br />
+        Public Relations Manager<br />
+        AFL<br />
+        864.433.5409<br />
+        <a href="mailto:Corie.Culp@AFLglobal.com">Corie.Culp@AFLglobal.com</a></div>
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: "AFL Launches Indoor Outdoor Riser Sub-unitized Mic"
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: "AFL Launches Indoor/Outdoor Riser Sub-unitized MicroCore® Fiber Optic Cable"
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: "AFL Launches Indoor/Outdoor Riser Sub-unitized MicroCore® Fiber Optic Cable"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ae480e68-6bc6-4de5-a1a7-98c7c3db3cf9"
+    - ID: "9dd4f0d9-c123-47a8-8cef-2c85cea172f6"
+      Hint: ContentImage
+      Value: |
+        <image mediaid="{F62C6E25-344B-41CF-B9E2-CB2DE953097F}" />
+    - ID: "a6eaffd5-fc3e-41b4-93b3-f1721fcf2300"
+      Hint: ContentPublishedDate
+      Value: 20190224T183000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\pawan.tyagi@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240316T041428Z

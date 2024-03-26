@@ -1,0 +1,23 @@
+﻿---
+ID: "4f2295f5-ec6c-4551-8353-eac7577a96a9"
+Parent: "d96a30f2-27aa-4e9d-82a3-40709628489e"
+Template: "d96a30f2-27aa-4e9d-82a3-40709628489e"
+Path: /sitecore/templates/Feature/AFL/Rendering Parameters/Testing/__Standard Values
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211118T121400Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e1e7cab4-0070-45ae-88ae-4f8a9bc09431"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        serialization\UnicornDataProvider
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240229T052234Z

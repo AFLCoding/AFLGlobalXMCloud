@@ -1,64 +1,54 @@
-// import Image from 'next/image';
+import Image from 'next/image';
 import React from 'react';
+import { heroCarouselData } from '../../utils/DummyJson';
+import Carousel from 'react-bootstrap/Carousel';
+import { RichText } from '@sitecore-jss/sitecore-jss-nextjs';
+import CTA from 'src/core/atoms/CTA/CTA';
 
 const HeroCarousel = () => {
+  const block = 'hero-carousel';
+  const carousel = 'carousel';
   return (
-    <div>
-      Hello
-      {/* <div id="carouselExampleIndicators" className="carousel slide" data-ride="carousel">
-        <ol className="carousel-indicators">
-          <li data-target="#carouselExampleIndicators" data-slide-to="0" className="active"></li>
-          <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
-          <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
-        </ol>
-        <div className="carousel-inner">
-          <div className="carousel-item active">
-            <Image
-              className="d-block w-100"
-              src="https://images.unsplash.com/photo-1419064642531-e575728395f2?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max&ixid=eyJhcHBfaWQiOjE0NTg5fQ&s=76d5c793e4f8d02d7a9be27bc71256f7"
-              alt="First slide"
-              width="100"
-              height="500"
-            />
-          </div>
-          <div className="carousel-item">
-            <Image
-              className="d-block w-100"
-              src="https://images.unsplash.com/photo-1419064642531-e575728395f2?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max&ixid=eyJhcHBfaWQiOjE0NTg5fQ&s=76d5c793e4f8d02d7a9be27bc71256f7"
-              alt="Second slide"
-              width="100"
-              height="500"
-            />
-          </div>
-          <div className="carousel-item">
-            <Image
-              className="d-block w-100"
-              src="https://images.unsplash.com/photo-1419064642531-e575728395f2?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max&ixid=eyJhcHBfaWQiOjE0NTg5fQ&s=76d5c793e4f8d02d7a9be27bc71256f7"
-              alt="Third slide"
-              width="100"
-              height="500"
-            />
-          </div>
-        </div>
-        <a
-          className="carousel-control-prev"
-          href="#carouselExampleIndicators"
-          role="button"
-          data-slide="prev"
-        >
-          <span className="carousel-control-prev-icon" aria-hidden="true"></span>
-          <span className="sr-only">Previous</span>
-        </a>
-        <a
-          className="carousel-control-next"
-          href="#carouselExampleIndicators"
-          role="button"
-          data-slide="next"
-        >
-          <span className="carousel-control-next-icon" aria-hidden="true"></span>
-          <span className="sr-only">Next</span>
-        </a>
-      </div> */}
+    <div className={`container-large mx-auto`}>
+      <div className={`${block}`}>
+        <Carousel touch={true}>
+          {heroCarouselData.map((items, index) => {
+            const slideImg = items.SlideImage.jsonValue?.value;
+            const slideText = items.SlideText.jsonValue;
+            const slideLink = items.SlideLink.jsonValue.value;
+            return (
+              <Carousel.Item key={index} className={`${block}__slide`}>
+                {slideImg?.src && (
+                  <Image
+                    src={slideImg?.src}
+                    alt={slideImg?.alt}
+                    className={`${carousel}-img`}
+                    width={parseInt(slideImg?.width || '0')}
+                    height={parseInt(slideImg?.height || '0')}
+                  />
+                )}
+
+                <Carousel.Caption>
+                  <div className={`container max-auto d-relative`}>
+                    <div className={`${block}__content`}>
+                      {slideText && (
+                        <div className={`${block}__richtext`}>
+                          <RichText field={slideText} />
+                        </div>
+                      )}
+                      <CTA
+                        bg
+                        label={{ value: slideLink.text }}
+                        link={{ value: { href: slideLink.href } }}
+                      />
+                    </div>
+                  </div>
+                </Carousel.Caption>
+              </Carousel.Item>
+            );
+          })}
+        </Carousel>
+      </div>
     </div>
   );
 };

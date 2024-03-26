@@ -1,0 +1,166 @@
+﻿---
+ID: "37e7a54d-7a63-4ccf-9490-17f0d18350b1"
+Parent: "27824172-4f4e-4db4-940f-93b6bc7ae597"
+Template: "8ad683ef-9f7b-4e70-9889-f7de776efcd1"
+Path: "/sitecore/content/AFL-Global/AMERICAS/Data/AFL Resouces Data/AFL DocumentList Data/Fiber Identification Charts 432-864 Fiber"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211231T115054Z
+    - ID: "2a77143b-5f39-4484-aa64-809bb2437a2d"
+      Hint: DocumentImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="237951" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/237951/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/04b6c45ca9d14b40ae9184be0e081b22?v=a0fb0593" stylelabs-content-type="Image" alt="QRG_Icon.png" height="287" width="339" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\tanishka
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\tanishka
+    - ID: "753787de-69ba-48a5-bcf3-7cf5ff76dbe3"
+      Hint: DocumentCategory
+      Value: Document
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "452dae9d-9486-4aa0-bdc2-36f0302f024f"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "bb05fc15-c7f5-46f0-8d9d-7b2e1daa5ac2"
+      Hint: DocumentUrl
+      Value: |
+        <link text="VIEW" linktype="external" url="https://afl-delivery.stylelabs.cloud/api/public/content/WTC-SWR-Fiber-Identification-Charts-432f-864f?v=1ffed9e0" anchor="" target="_blank" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230918T210012Z
+    - ID: "fcf19fc4-51cd-4751-9cda-9c4be675800d"
+      Hint: DocumentName
+      Value: "Fiber Identification Charts 432-864 Fiber"
+- Language: "es-MX"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211231T115054Z
+    - ID: "2a77143b-5f39-4484-aa64-809bb2437a2d"
+      Hint: DocumentImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="237951" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/237951/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/04b6c45ca9d14b40ae9184be0e081b22?v=a0fb0593" stylelabs-content-type="Image" alt="QRG_Icon.png" height="287" width="339" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\tanishka
+    - ID: "753787de-69ba-48a5-bcf3-7cf5ff76dbe3"
+      Hint: DocumentCategory
+      Value: Document
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4c2ddd6b-9512-4f8b-84f4-ff5364b6ce25"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "bb05fc15-c7f5-46f0-8d9d-7b2e1daa5ac2"
+      Hint: DocumentUrl
+      Value: |
+        <link text="VIEW" linktype="external" url="https://afl-delivery.stylelabs.cloud/api/public/content/WTC-SWR-Fiber-Identification-Charts-432f-864f?v=1ffed9e0" anchor="" target="_blank" />
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230921T084150Z
+    - ID: "fcf19fc4-51cd-4751-9cda-9c4be675800d"
+      Hint: DocumentName
+      Value: Fiber Identification Charts 144 Fiber
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211231T115054Z
+    - ID: "2a77143b-5f39-4484-aa64-809bb2437a2d"
+      Hint: DocumentImage
+      Value: |
+        <image mediaid="{2B373149-5355-4809-BABE-840005D8E6D9}" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\tanishka
+    - ID: "753787de-69ba-48a5-bcf3-7cf5ff76dbe3"
+      Hint: DocumentCategory
+      Value: Document
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "72fe7955-2b77-4c85-b38b-8e1276ed510e"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahesh
+    - ID: "bb05fc15-c7f5-46f0-8d9d-7b2e1daa5ac2"
+      Hint: DocumentUrl
+      Value: |
+        <link text="VIEW" linktype="external" url="https://www.aflglobal.com/productlist/Product-Lines/Fiber-Optic-Cable/Wrapping-Tube-Cable-(WTC)-with-SWR/doc/Fiber-Identification-Charts-144-Fiber.aspx" anchor="" target="_blank" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220215T094701Z
+    - ID: "fcf19fc4-51cd-4751-9cda-9c4be675800d"
+      Hint: DocumentName
+      Value: Fiber Identification Charts 144 Fiber
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211231T115054Z
+    - ID: "2a77143b-5f39-4484-aa64-809bb2437a2d"
+      Hint: DocumentImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="237951" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/237951/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/04b6c45ca9d14b40ae9184be0e081b22?v=a0fb0593" stylelabs-content-type="Image" alt="QRG_Icon.png" height="287" width="339" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\tanishka
+    - ID: "753787de-69ba-48a5-bcf3-7cf5ff76dbe3"
+      Hint: DocumentCategory
+      Value: Document
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "861bf8fc-9e3e-4e0d-9343-fb53afc3b6b8"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "bb05fc15-c7f5-46f0-8d9d-7b2e1daa5ac2"
+      Hint: DocumentUrl
+      Value: |
+        <link text="VIEW" linktype="external" url="https://afl-delivery.stylelabs.cloud/api/public/content/WTC-SWR-Fiber-Identification-Charts-432f-864f?v=1ffed9e0" anchor="" target="_blank" />
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230921T084150Z
+    - ID: "fcf19fc4-51cd-4751-9cda-9c4be675800d"
+      Hint: DocumentName
+      Value: Fiber Identification Charts 144 Fiber

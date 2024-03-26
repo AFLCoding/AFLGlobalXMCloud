@@ -1,0 +1,137 @@
+﻿---
+ID: "cc9e14e1-e59f-4867-adce-ae11c53cf891"
+Parent: "87ed6859-9c9f-4b42-9eb9-70c0d1825c6a"
+Template: "5bd107fd-e974-4e78-9ee0-27e5f6e46940"
+Path: /sitecore/content/AFLGlobal/APAC/Home/Resources/Other Resources/NewsRoom
+SharedFields:
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{00726E95-BCD9-482C-96E6-29CB9712B537}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 500
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{1E95EC3D-EC0F-4DCE-9593-3874DE1D774D}"
+              p:before="*"
+              s:ds=""
+              s:id="{BFBD9DE2-3ABF-4078-BBCB-C95C5B2D863F}"
+              s:par="BreadcrumbRoot=%7B46426BDB-E052-4EAC-BEE2-49E7454BFB67%7D&amp;Separator=%2F&amp;IsNavigation&amp;Filter&amp;Reset Caching Options&amp;GridParameters&amp;FieldNames&amp;Styles=%7B7CFA8C19-FDA6-42E5-A975-CE82518DE0E9%7D&amp;RenderingIdentifier&amp;DynamicPlaceholderId=1"
+              s:ph="main"
+              s:ccb="Clear on publish" />
+            <r
+              uid="{58FA28B6-AC08-413C-8D9C-FAADF1EB92B6}"
+              p:after="r[@uid='{1E95EC3D-EC0F-4DCE-9593-3874DE1D774D}']"
+              s:ds="query:self::"
+              s:id="{6162223D-9EAA-490C-A628-DA2A76933DD4}"
+              s:par="Reset Caching Options&amp;GridParameters&amp;FieldNames=%7BE4B82652-CCFD-4D32-9B7D-1E0EAD732B36%7D&amp;Styles=%7B27CAFFAB-D94E-4B2F-8A1C-51294F2D0665%7D&amp;RenderingIdentifier&amp;DynamicPlaceholderId=2"
+              s:ph="main"
+              s:ccb="Clear on publish" />
+            <r
+              uid="{390AE1FA-A4E6-49CE-87E5-92BADD4D9D19}"
+              p:after="*[1=2]"
+              s:ds="query:self::"
+              s:id="{01FB7310-ED58-421D-9C29-F6BBF785FB69}"
+              s:par="Reset Caching Options&amp;GridParameters&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;DynamicPlaceholderId=3"
+              s:ph="main"
+              s:ccb="Clear on publish" />
+          </d>
+        </r>
+    - ID: "12c94df6-9209-434f-acb5-04bf1b124736"
+      Hint: Column1Title
+      Value: Latest News
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220124T112720Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: NewsRoom
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "56611f02-691a-4096-b044-63aa83122916"
+      Hint: Content
+      Value: |
+        Welcome to AFL&rsquo;s Newsroom.
+        Each day, AFL takes another step forward! We're creating better products, improving outdated solutions and expanding to new locations across the world. Here, you can stay up to date with AFL&rsquo;s latest press releases, blogs, social media news and much more. At AFL, we keep you connected.
+        To access AFL&rsquo;s media resources, logo specifications, history and additional information, visit our Press Kit.
+        <br />
+        <div class="text-center"><a class="AFLbutton" href="~/link.aspx?_id=12F9B6BD8306453AAC289750649B2E16&amp;_z=z">Visit Our PressKit</a></div>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mahesh
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: NewsRoom
+    - ID: "719be048-160f-48e8-a314-0408dc932a12"
+      Hint: Column2Title
+      Value: Latest Blogs
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: NewsRoom
+    - ID: "7dc81aa9-0982-47be-a4b2-412b8e617db0"
+      Hint: Column1Link
+      Value: |
+        <p>&nbsp; View all &nbsp; <a href="~/link.aspx?_id=0FD638ADA9AF4A00A0B31A23DC716566&amp;_z=z">AFL News .</a></p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8f01ee9e-65a8-4639-930c-a71ed7b4b1dc"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\pawan.tyagi@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240316T041307Z
+    - ID: "ee1be0ea-8414-44a8-93ab-1ff8deb0eb45"
+      Hint: NewsRelatedContent
+      Value: |
+        <h2>Latest Videos</h2>
+        <br />
+        <iframe frameborder="0" height="315" src="https://www.youtube.com/embed/r4KHwRQKk3k?rel=0" width="560" id="yt-ba051f40-2fb0-40ee-90d8-2541c1b637d6"></iframe>
+        <p>
+        	<br />
+        	View all videos on&nbsp;<a href="https://www.youtube.com/user/AFLGlobal" target="_blank">YouTube</a>.</p>
+        <h2>
+        	Latest Photos</h2>
+        <style type="text/css">
+        #flickr_badge_source_txt {padding:0; font: 11px Arial, Helvetica, Sans serif; color:#000000;}
+        #flickr_badge_icon {display:block !important; margin:0 !important; border: 1px solid rgb(0, 0, 0) !important;}
+        #flickr_icon_td {padding:0 5px 0 0 !important;}
+        .flickr_badge_image {text-align:center !important;}
+        .flickr_badge_image img {border: 1px solid black !important;}
+        #flickr_www {display:block; padding:0 10px 0 10px !important; font: 11px Arial, Helvetica, Sans serif !important; color:#3993ff !important;}
+        #flickr_badge_uber_wrapper a:hover,
+        #flickr_badge_uber_wrapper a:link,
+        #flickr_badge_uber_wrapper a:active,
+        #flickr_badge_uber_wrapper a:visited {text-decoration:none !important; background:inherit !important;color:#00c0f3;}
+        #flickr_badge_wrapper {background-color:#ffffff;border: solid 1px #ffffff}
+        #flickr_badge_source {padding:0 !important; font: 11px Arial, Helvetica, Sans serif !important; color:#000000 !important;}</style>
+        
+        <table border="0" cellpadding="0" cellspacing="10" id="flickr_badge_wrapper">
+        	<tbody>
+        		<tr>
+        			
+        		</tr>
+        	</tbody>
+        </table>
+        
+        <p>
+        	View all photos on&nbsp;<a href="http://www.flickr.com/photos/aflglobal/" target="_blank">Flickr</a>.</p>
+    - ID: "f0b14946-5e5b-4ad7-9b1f-d35b4ac1c03d"
+      Hint: Column2Link
+      Value: |
+        <p>&nbsp; View all &nbsp;<a href="~/link.aspx?_id=088E591E6D354A23B6115B7B09AB90C5&amp;_z=z">&nbsp;AFL Blog</a></p>

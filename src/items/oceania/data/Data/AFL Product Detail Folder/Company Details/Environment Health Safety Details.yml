@@ -1,0 +1,64 @@
+﻿---
+ID: "61b56277-81a3-467d-98d4-4496191ab31f"
+Parent: "3728b588-a3d9-4df2-95e6-a3e7142bdfd6"
+Template: "011c02ab-49e7-41f0-8719-03034390bc25"
+Path: "/sitecore/content/AFL-Global/OCEANIA/Data/AFL Product Detail Folder/Company Details/Environment Health Safety Details"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211124T145608Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <p>AFL has a long and proven history of focusing on the health and safety of our workforce and the preservation of the environment for the benefit of communities today and future generations. Safety, health and environmental management is a priority area of accountability at AFL. In fact, it is one our<a href="https://www.aflglobal.com/Company/Company-Profile/AFL-Culture.aspx" style="color: #0091ea; background-color: transparent;">Core Values</a>.<br />
+        <br />
+        Our commitment includes specific short- and long-term goals at our manufacturing sites. Hallmarks of our program include:</p>
+        <ul style="color: #333333; background-color: #ffffff; list-style-image: url('https://www.aflglobal.com/productionFiles/images/bulletRound.aspx');">
+            <li>
+            <p>Providing a safe work environment for all associates</p>
+            </li>
+            <li>
+            <p>Regularly auditing operations at our manufacturing facilities to ensure conformance to our policies</p>
+            </li>
+            <li>
+            <p>Established global safety, health and environmental processes based on regulatory requirements and recognized best practices</p>
+            </li>
+            <li>
+            <p>A record of stewardship that includes careful conservation of the natural resources, including reduction of waste, promotion of recycling and efficiency in our energy and water use</p>
+            </li>
+            <li>
+            <p>Working with customers, suppliers and government agencies to meet our safety, health and environmental responsibilities</p>
+            </li>
+            <li>
+            <p style="margin-right: 0px; margin-bottom: 15px; margin-left: 0px;">A culture that focuses on continuous improvement</p>
+            </li>
+        </ul>
+        <p>At AFL, we take the time to ensure that each project is completed in a safe way that reflects our environmental commitment.</p>
+    - ID: "5d336bce-e421-4fe8-ad55-214f80d841ad"
+      Hint: "Sub-Heading"
+      Value: Environment Health Safety Sub Heading
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3418a928-039d-45a7-99a6-6a382db40012"
+    - ID: "ab91d39b-30ad-4050-acef-07c741146fcc"
+      Hint: Heading
+      Value: Environment Health Safety Heading
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20211124T150036Z

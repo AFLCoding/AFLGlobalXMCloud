@@ -1,0 +1,27 @@
+﻿---
+ID: "42f47900-7c44-4fff-92e3-5deeafe7f9b3"
+Parent: "505d552e-e7fe-4af5-bce9-418a0b73db3a"
+Template: "5203732f-9512-4ade-8e02-0cb085c10454"
+Path: "/sitecore/content/AFL-Global/OCEANIA/Settings/Site Grouping/AFL-Oceania/CORS/default"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{10670D11-AD0B-4E03-9118-872819CBA6B2}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211027T075736Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a5288807-4326-41c6-9ef4-0b48a2a2a108"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\unicorn
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20211103T115730Z

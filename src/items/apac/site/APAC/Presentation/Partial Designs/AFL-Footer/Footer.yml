@@ -1,0 +1,69 @@
+﻿---
+ID: "fc5f8dca-47a3-412b-9f1a-e09137f9687b"
+Parent: "1fa9eece-0abc-4013-ac31-3eb41af66b88"
+Template: "fd2059fd-6043-4dfe-8c04-e2437ce87634"
+Path: "/sitecore/content/AFLGlobal/APAC/Presentation/Partial Designs/AFL-Footer/Footer"
+SharedFields:
+- ID: "55faae90-3bba-4f7f-96fe-13c3f40055ff"
+  Hint: Signature
+  Value: footer
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{0CDD97B2-FE30-439D-AFAB-6DD2E6AEEEBB}" />
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{F69E813B-A820-4697-A542-73D027C55983}"
+          p:before="*"
+          s:ds="{5728EF6E-513F-4403-A620-CBA23CE4C618}"
+          s:id="{3C800296-902B-4C2C-B2BC-5BBA6CDEC086}"
+          s:par="CSSStyles"
+          s:ph="headless-footer" />
+        <r
+          uid="{4EE19D9E-E6C1-4198-91B3-64AF03438F90}"
+          p:after="r[@uid='{F69E813B-A820-4697-A542-73D027C55983}']"
+          s:ds="local:/Data/Text 1"
+          s:id="{9C6D53E3-FE57-4638-AF7B-6D68304C7A94}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+          s:ph="headless-footer" />
+        <r
+          uid="{8F66775E-0A97-4FA9-88B8-90E1F08EE243}"
+          p:after="*[1=2]"
+          s:ds="{23E8B72F-1956-489B-A144-63241DEBBEDD}"
+          s:id="{9C6D53E3-FE57-4638-AF7B-6D68304C7A94}"
+          s:par="GridParameters&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=3"
+          s:ph="headless-footer" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240313T102958Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\asmita.parkar@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\asmita.parkar@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e0acc0f1-ae7e-4ca7-aead-fbe3b38d910c"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\pawan.tyagi@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240319T105231Z

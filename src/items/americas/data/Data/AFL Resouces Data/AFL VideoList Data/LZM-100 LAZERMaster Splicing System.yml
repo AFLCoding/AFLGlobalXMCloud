@@ -1,0 +1,304 @@
+﻿---
+ID: "becd1cb2-c668-4a82-8981-d12e593751bc"
+Parent: "43bb2b16-b4b1-4f66-a9ae-85faa3e7605f"
+Template: "2893fa48-e32b-4a62-be28-2389643c09bc"
+Path: "/sitecore/content/AFL-Global/AMERICAS/Data/AFL Resouces Data/AFL VideoList Data/LZM-100 LAZERMaster Splicing System"
+Languages:
+- Language: "de-DE"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211215T112755Z
+    - ID: "2e1078b5-ccf0-489a-999a-3422326d1d50"
+      Hint: VideoPlayTitle
+      Value: Play Video
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Abhishek
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\archana
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "dc413399-eaec-4f84-a997-b5c24eb5ca64"
+    - ID: "a6703c78-a7f9-43e5-bda1-4319c53ca485"
+      Hint: VideoImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="237955" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/237955/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/101b82f0b7914f9aab64710637751357?v=79cb5030" stylelabs-content-type="Image" alt="Video_Icon.png" height="287" width="339" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "c7606be7-7b4d-4b10-beb1-37105934e9c2"
+      Hint: VideoName
+      Value: "LZM-100 LAZERMaster™ Splicing System"
+    - ID: "cc39e4d4-9c1a-446c-940c-fae85c60a139"
+      Hint: VideoUrl
+      Value: |
+        <link text="PLAY VIDEO" linktype="external" url="https://www.youtube.com/watch?v=fHoLkEJEL8A" anchor="" target="_blank" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231212T090211Z
+    - ID: "f049ad62-07b5-434b-95c2-056171420f06"
+      Hint: VideoCategory
+      Value: Video
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211215T112755Z
+    - ID: "2e1078b5-ccf0-489a-999a-3422326d1d50"
+      Hint: VideoPlayTitle
+      Value: Play Video
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\archana
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\archana
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6a1f61a3-761a-47bc-b5f2-ecf1abc7372a"
+    - ID: "a6703c78-a7f9-43e5-bda1-4319c53ca485"
+      Hint: VideoImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="237955" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/237955/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/101b82f0b7914f9aab64710637751357?v=79cb5030" stylelabs-content-type="Image" alt="Video_Icon.png" height="287" width="339" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rob
+    - ID: "c7606be7-7b4d-4b10-beb1-37105934e9c2"
+      Hint: VideoName
+      Value: "LZM-100 LAZERMaster™ Splicing System"
+    - ID: "cc39e4d4-9c1a-446c-940c-fae85c60a139"
+      Hint: VideoUrl
+      Value: |
+        <link text="PLAY VIDEO" linktype="external" url="https://www.youtube.com/watch?v=fHoLkEJEL8A" anchor="" target="_blank" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220509T200235Z
+    - ID: "f049ad62-07b5-434b-95c2-056171420f06"
+      Hint: VideoCategory
+      Value: Video
+- Language: "es-ES"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211215T112755Z
+    - ID: "2e1078b5-ccf0-489a-999a-3422326d1d50"
+      Hint: VideoPlayTitle
+      Value: Play Video
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Abhishek
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\archana
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f52f6631-4fe3-4ac5-a712-44626546e2c4"
+    - ID: "a6703c78-a7f9-43e5-bda1-4319c53ca485"
+      Hint: VideoImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="237955" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/237955/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/101b82f0b7914f9aab64710637751357?v=79cb5030" stylelabs-content-type="Image" alt="Video_Icon.png" height="287" width="339" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "c7606be7-7b4d-4b10-beb1-37105934e9c2"
+      Hint: VideoName
+      Value: "LZM-100 LAZERMaster™ Splicing System"
+    - ID: "cc39e4d4-9c1a-446c-940c-fae85c60a139"
+      Hint: VideoUrl
+      Value: |
+        <link text="PLAY VIDEO" linktype="external" url="https://www.youtube.com/watch?v=fHoLkEJEL8A" anchor="" target="_blank" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231212T090132Z
+    - ID: "f049ad62-07b5-434b-95c2-056171420f06"
+      Hint: VideoCategory
+      Value: Video
+- Language: "es-MX"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211215T112755Z
+    - ID: "2e1078b5-ccf0-489a-999a-3422326d1d50"
+      Hint: VideoPlayTitle
+      Value: Play Video
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\archana
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a25e49ec-12c6-4022-8e73-30ce2b4493a6"
+    - ID: "a6703c78-a7f9-43e5-bda1-4319c53ca485"
+      Hint: VideoImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="237955" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/237955/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/101b82f0b7914f9aab64710637751357?v=79cb5030" stylelabs-content-type="Image" alt="Video_Icon.png" height="287" width="339" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "c7606be7-7b4d-4b10-beb1-37105934e9c2"
+      Hint: VideoName
+      Value: "LZM-100 LAZERMaster™ Splicing System"
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "cc39e4d4-9c1a-446c-940c-fae85c60a139"
+      Hint: VideoUrl
+      Value: |
+        <link text="PLAY VIDEO" linktype="external" url="https://www.youtube.com/watch?v=fHoLkEJEL8A" anchor="" target="_blank" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231110T063632Z
+    - ID: "f049ad62-07b5-434b-95c2-056171420f06"
+      Hint: VideoCategory
+      Value: Video
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211215T112755Z
+    - ID: "2e1078b5-ccf0-489a-999a-3422326d1d50"
+      Hint: VideoPlayTitle
+      Value: Play Video
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\archana
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5a7751fc-c654-46fb-b64b-c3d36f6b6580"
+    - ID: "a6703c78-a7f9-43e5-bda1-4319c53ca485"
+      Hint: VideoImage
+      Value: |
+        <image mediaid="{D97C1456-FE0D-4A51-B2D3-41410A817124}"/>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahesh
+    - ID: "c7606be7-7b4d-4b10-beb1-37105934e9c2"
+      Hint: VideoName
+      Value: "LZM-100 LAZERMaster™ Splicing System"
+    - ID: "cc39e4d4-9c1a-446c-940c-fae85c60a139"
+      Hint: VideoUrl
+      Value: |
+        <link text="PLAY VIDEO" linktype="external" url="https://www.youtube.com/watch?v=fHoLkEJEL8A" anchor="" target="_blank" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220215T094840Z
+    - ID: "f049ad62-07b5-434b-95c2-056171420f06"
+      Hint: VideoCategory
+      Value: Video
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211215T112755Z
+    - ID: "2e1078b5-ccf0-489a-999a-3422326d1d50"
+      Hint: VideoPlayTitle
+      Value: Play Video
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\archana
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b7c0e3d8-b874-465f-8112-34bafb683594"
+    - ID: "a6703c78-a7f9-43e5-bda1-4319c53ca485"
+      Hint: VideoImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="237955" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/237955/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/101b82f0b7914f9aab64710637751357?v=79cb5030" stylelabs-content-type="Image" alt="Video_Icon.png" height="287" width="339" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "c7606be7-7b4d-4b10-beb1-37105934e9c2"
+      Hint: VideoName
+      Value: "LZM-100 LAZERMaster™ Splicing System"
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "cc39e4d4-9c1a-446c-940c-fae85c60a139"
+      Hint: VideoUrl
+      Value: |
+        <link text="PLAY VIDEO" linktype="external" url="https://www.youtube.com/watch?v=fHoLkEJEL8A" anchor="" target="_blank" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231110T063632Z
+    - ID: "f049ad62-07b5-434b-95c2-056171420f06"
+      Hint: VideoCategory
+      Value: Video
+- Language: "fr-FR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211215T112755Z
+    - ID: "2e1078b5-ccf0-489a-999a-3422326d1d50"
+      Hint: VideoPlayTitle
+      Value: Play Video
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Abhishek
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\archana
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1c76e847-58a6-4c78-b1a7-ac234b40ce90"
+    - ID: "a6703c78-a7f9-43e5-bda1-4319c53ca485"
+      Hint: VideoImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="237955" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/237955/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/101b82f0b7914f9aab64710637751357?v=79cb5030" stylelabs-content-type="Image" alt="Video_Icon.png" height="287" width="339" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "c7606be7-7b4d-4b10-beb1-37105934e9c2"
+      Hint: VideoName
+      Value: "LZM-100 LAZERMaster™ Splicing System"
+    - ID: "cc39e4d4-9c1a-446c-940c-fae85c60a139"
+      Hint: VideoUrl
+      Value: |
+        <link text="PLAY VIDEO" linktype="external" url="https://www.youtube.com/watch?v=fHoLkEJEL8A" anchor="" target="_blank" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231212T090048Z
+    - ID: "f049ad62-07b5-434b-95c2-056171420f06"
+      Hint: VideoCategory
+      Value: Video

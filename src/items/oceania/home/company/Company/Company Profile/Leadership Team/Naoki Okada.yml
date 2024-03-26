@@ -1,0 +1,92 @@
+﻿---
+ID: "a7df71d8-51a6-4b41-9c1e-8759ba96bbf7"
+Parent: "75d845da-834d-4c1e-be9a-58ae70a9ebbe"
+Template: "bf61de11-b78f-48ea-aaa4-1d17f0d83824"
+Path: "/sitecore/content/AFL-Global/OCEANIA/Home/Company/Company Profile/Leadership Team/Naoki Okada"
+SharedFields:
+- ID: "1fbc6a49-6281-48ee-87e9-a3970b145adb"
+  Hint: NavigationFilter
+  Value: "{D063E9D1-C7B5-4B1E-B31E-69886C9C59F5}"
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{EDC9686A-85F3-466E-8E7E-3D28540B77AB}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{DAE7C21D-4D3B-4257-A95C-9104CD8AF409}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 300
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220526T193504Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{1A24FC12-1F8E-4214-921E-D355AA3E4DC5}"
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Naoki Okada
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rafael
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: In April 2022, Naoki Okada was appointed Chairman of AFL and President & CEO of Fujikura Ltd. headquartered in Tokyo, Japan.
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <p>
+        In April 2022, Naoki Okada was appointed Chairman of AFL and President & CEO of Fujikura Ltd. headquartered in Tokyo, Japan.</p>
+        <p>
+        Naoki Okada joined Fujikura Ltd. in 1986, supporting the optical fiber cable-related business. Okada played a central role in the product development and strategy for the Company’s innovative strategic optical fiber products, SpiderWeb Ribbon® and Wrapping Tube Cable, and paved the way for a strategic pivot of the Company’s telecommunications business from optical fiber to a total solutions business centered on high-value-added optical cable. For this, he became known as "Spiderman."</p>
+        <p>
+        In 2020, he assumed the role of Managing Corporate Officer, and was instrumental in the 100-Day operational plan. He demonstrated aptitude as a leader for promoting new business, suggesting radical reforms of the management and business structures, and leading efforts to cultivate awareness of business structure reforms inside Fujikura. His transformation execution ability and strong leadership upheld the operational turnaround phase and subsequently, the transition to the sustainable growth phase.</p>
+        <p> </p>
+        <p>Naoki Okada received a Bachelor's Degree in Engineering from Chiba University in 1986.</p>
+        <p> </p>
+        <p>
+        <a href="/au/Company/Company-Profile/Leadership-Team/">< Back to Leadership Page</a></p>
+    - ID: "5d336bce-e421-4fe8-ad55-214f80d841ad"
+      Hint: "Sub-Heading"
+      Value: Chairman
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rafael
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: Naoki Okada, Chairman AFL leadership team management executives
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: Naoki Okada
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: Naoki Okada
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9ef9990c-ad6d-42d5-bf83-b32fe5c886b9"
+    - ID: "93dc88f3-05e5-482d-9b9a-c859c8258a73"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image stylelabs-content-id="316008" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/316008/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/ff71df75afbc4883876520403fc607ce?v=5a9c9ff8" mediaid="" stylelabs-content-type="Image" alt="Okada_N_large.webp" height="430" width="1210" />
+    - ID: "a40ebd3d-2b41-41fb-90f7-753544ce77c5"
+      Hint: Hero Title1
+      Value: Naoki Okada
+    - ID: "ab91d39b-30ad-4050-acef-07c741146fcc"
+      Hint: Heading
+      Value: Naoki Okada
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T093957Z

@@ -1,0 +1,314 @@
+﻿---
+ID: "f68448f7-d1a8-4cfe-82fe-f22b00515363"
+Parent: "e7a3e27a-281f-437d-bd63-e8fa8783ee0a"
+Template: "f36e821e-bb98-44dc-966d-e92a0e033cc7"
+Path: "/sitecore/content/AFL-Global/EMEA/Home/Company/Company Profile/NewsArchive/2013/AFL Partners with GCRD Plants Over 30 Trees"
+SharedFields:
+- ID: "1fbc6a49-6281-48ee-87e9-a3970b145adb"
+  Hint: NavigationFilter
+  Value: |
+    {E0A2A027-0932-4878-A7D6-0416D5263EFB}
+    {61BD64D6-809E-40AE-9297-2724A19329B3}
+    {D063E9D1-C7B5-4B1E-B31E-69886C9C59F5}
+    {500AE4C0-FA7B-463F-8149-EFFF7F044101}
+    {A0E7FF57-6994-4B09-AA21-104239628D5A}
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{3A84BAC9-C1BD-4809-A12C-28EB44E25329}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{DAE7C21D-4D3B-4257-A95C-9104CD8AF409}"
+Languages:
+- Language: "de-DE"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "228f9517-e120-4014-b2c7-df0ac467a349"
+      Hint: ContentTitle
+      Value: AFL Partners with GCRD, Plants Over 30 Trees to Commemorate SC Arbor Day
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211213T105114Z
+    - ID: "3688d7df-2feb-43a4-ab8d-410e5f70a676"
+      Hint: ContentDescription
+      Value: |
+        <p>Spartanburg, SC – <a href="http://www.aflglobal.com/">AFL</a>, a manufacturer of fiber optic cable and accessories, partnered with the <a href="http://greenvillerec.com/">Greenville County Recreation District</a> (GCRD) to plant over 30 trees along the <a href="http://greenvillerec.com/swamprabbit">Swamp Rabbit Trail</a> in Greenville County. This marks the seventh year in a row that AFL has partnered with GCRD to plant trees in celebration of Arbor Day in South Carolina.  <br />
+         <br />
+        Part of AFL’s <a href="http://www.aflglobal.com/Company/Community/Take-Root.aspx">Take Root program</a>, 27 AFL volunteers plus friends and family came out to plant trees, spread mulch and pull vines and debris along the Reedy River. Volunteers contributed over 80 hours to enhance the section of the trail near West Washington at mile marker SR316 and Republic Locomotive.<br />
+         <br />
+        “The Swamp Rabbit Trail is an integral part of Greenville, attracting thousands of walkers, runners and cyclists each year. We hope the beautiful landscape will encourage others in our community to use the trail and live active, healthy lifestyles,” stated Corie Culp, community relations manager for AFL. “We are honored to be a part of something that has made a positive impact in our community.”<br />
+        <br />
+        AFL has a goal to plant 12,000 trees by 2015 under the Take Root initiative. AFL’s extensive <a href="http://www.aflglobal.com/Company/Community.aspx">Community Outreach Program</a> provides many opportunities to connect with its local communities and encourages associates to volunteer for activities throughout the year. For additional information on AFL and its community initiatives, visit <a href="http://www.aflglobal.com/">www.AFLglobal.com</a>.<br />
+         <br />
+        <strong>About AFL</strong><br />
+        AFL provides industry-leading products and services to the electric utility, broadband, communications, OEM, enterprise, wireless and transit rail markets as well as the emerging markets of oil and gas, mining, nuclear, avionics, medical, renewable and intelligent grid. The company’s diverse product portfolio includes fiber optic cable, transmission and substation accessories, outside plant equipment, connectors, fusion splicers, test equipment and training. AFL’s service portfolio includes market-leading positions with the foremost communications companies supporting inside plant central office, EF&I, outside plant, enterprise and wireless areas.<br />
+        <br />
+        Founded in 1984, AFL is proud to offer engineering expertise, exceptional products and reliable service that help our customers improve their critical and electrical infrastructure. AFL has operations in the U.S., Mexico, Europe, Asia and the South Pacific. The company is headquartered in Spartanburg, SC, and is a wholly-owned subsidiary of Fujikura Ltd. of Japan. For more information, visit <a href="http://www.aflglobal.com/">www.AFLglobal.com</a>. </p>
+        <p><strong>Contact</strong><br />
+        Corie Culp<br />
+        Public Relations Manager<br />
+        AFL<br />
+        864.433.5409<br />
+        <a href="mailto:Corie.Culp@AFLglobal.com">Corie.Culp@AFLglobal.com</a></p>
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: AFL Partners with GCRD Plants Over 30 Trees
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\matt
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: AFL partnered with the Greenville County Recreation District (GCRD) to plant over 30 trees along the Swamp Rabbit Trail in Greenville County.
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kushagra
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: AFL, Greenville County Recreation District, GCRD, environmental awareness, planted trees, Swamp Rabbit Trail, Community Outreach, Take Root program
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: AFL Partners with GCRD Plants Over 30 Trees
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: AFL Partners with GCRD Plants Over 30 Trees
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "746dfe20-9b80-4f3c-ad31-3206e8a5f904"
+    - ID: "9dd4f0d9-c123-47a8-8cef-2c85cea172f6"
+      Hint: ContentImage
+      Value: |
+        <image mediaid="{0C6823AE-0783-4AC7-8F7F-38B8A66B6F93}" />
+    - ID: "a6eaffd5-fc3e-41b4-93b3-f1721fcf2300"
+      Hint: ContentPublishedDate
+      Value: 20131125T183000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T100411Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "228f9517-e120-4014-b2c7-df0ac467a349"
+      Hint: ContentTitle
+      Value: AFL Partners with GCRD, Plants Over 30 Trees to Commemorate SC Arbor Day
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211213T105114Z
+    - ID: "3688d7df-2feb-43a4-ab8d-410e5f70a676"
+      Hint: ContentDescription
+      Value: |
+        <p>Spartanburg, SC &ndash;&nbsp;<a href="http://www.aflglobal.com/">AFL</a>, a manufacturer of fiber optic cable and accessories, partnered with the&nbsp;<a href="http://greenvillerec.com/">Greenville County Recreation District</a>&nbsp;(GCRD) to plant over 30 trees along the&nbsp;<a href="http://greenvillerec.com/swamprabbit">Swamp Rabbit Trail</a>&nbsp;in Greenville County. This marks the seventh year in a row that AFL has partnered with GCRD to plant trees in celebration of Arbor Day in South Carolina. &nbsp;<br />
+        &nbsp;<br />
+        Part of AFL&rsquo;s&nbsp;<a href="http://www.aflglobal.com/Company/Community/Take-Root.aspx">Take Root program</a>, 27 AFL volunteers plus friends and family came out to plant trees, spread mulch and pull vines and debris along the Reedy River. Volunteers contributed over 80 hours to enhance the section of the trail near West Washington at mile marker SR316 and Republic Locomotive.<br />
+        &nbsp;<br />
+        &ldquo;The Swamp Rabbit Trail is an integral part of Greenville, attracting thousands of walkers, runners and cyclists each year. We hope the beautiful landscape will encourage others in our community to use the trail and live active, healthy lifestyles,&rdquo; stated Corie Culp, community relations manager for AFL. &ldquo;We are honored to be a part of something that has made a positive impact in our community.&rdquo;<br />
+        <br />
+        AFL has a goal to plant 12,000 trees by 2015 under the Take Root initiative. AFL&rsquo;s extensive&nbsp;<a href="http://www.aflglobal.com/Company/Community.aspx">Community Outreach Program</a>&nbsp;provides many opportunities to connect with its local communities and encourages associates to volunteer for activities throughout the year. For additional information on AFL and its community initiatives, visit&nbsp;<a href="http://www.aflglobal.com/">www.AFLglobal.com</a>.<br />
+        &nbsp;<br />
+        <strong>About AFL</strong><br />
+        AFL provides industry-leading products and services to the electric utility, broadband, communications, OEM, enterprise, wireless and transit rail markets as well as the emerging markets of oil and gas, mining, nuclear, avionics, medical, renewable and intelligent grid. The company&rsquo;s diverse product portfolio includes fiber optic cable, transmission and substation accessories, outside plant equipment, connectors, fusion splicers, test equipment and training. AFL&rsquo;s service portfolio includes market-leading positions with the foremost communications companies supporting inside plant central office, EF&amp;I, outside plant, enterprise and wireless areas.<br />
+        <br />
+        Founded in 1984, AFL is proud to offer engineering expertise, exceptional products and reliable service that help our customers improve their critical and electrical infrastructure. AFL has operations in the U.S., Mexico, Europe, Asia and the South Pacific. The company is headquartered in Spartanburg, SC, and is a wholly-owned subsidiary of Fujikura Ltd. of Japan. For more information, visit&nbsp;<a href="http://www.aflglobal.com/">www.AFLglobal.com</a>.&nbsp;</p>
+        <p><strong>Contact</strong><br />
+        Corie Culp<br />
+        Public Relations Manager<br />
+        AFL<br />
+        864.433.5409<br />
+        <a href="mailto:Corie.Culp@AFLglobal.com">Corie.Culp@AFLglobal.com</a></p>
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: AFL Partners with GCRD Plants Over 30 Trees
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kushagra
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: AFL partnered with the Greenville County Recreation District (GCRD) to plant over 30 trees along the Swamp Rabbit Trail in Greenville County.
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kushagra
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: AFL, Greenville County Recreation District, GCRD, environmental awareness, planted trees, Swamp Rabbit Trail, Community Outreach, Take Root program
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: AFL Partners with GCRD Plants Over 30 Trees
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: AFL Partners with GCRD Plants Over 30 Trees
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "00102af2-49c2-4fe5-bfb7-7f344740442f"
+    - ID: "9dd4f0d9-c123-47a8-8cef-2c85cea172f6"
+      Hint: ContentImage
+      Value: |
+        <image mediaid="{0C6823AE-0783-4AC7-8F7F-38B8A66B6F93}" />
+    - ID: "a6eaffd5-fc3e-41b4-93b3-f1721fcf2300"
+      Hint: ContentPublishedDate
+      Value: 20131125T183000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T100410Z
+- Language: "es-ES"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "228f9517-e120-4014-b2c7-df0ac467a349"
+      Hint: ContentTitle
+      Value: AFL Partners with GCRD, Plants Over 30 Trees to Commemorate SC Arbor Day
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211213T105114Z
+    - ID: "3688d7df-2feb-43a4-ab8d-410e5f70a676"
+      Hint: ContentDescription
+      Value: |
+        <p>Spartanburg, SC – <a href="http://www.aflglobal.com/">AFL</a>, a manufacturer of fiber optic cable and accessories, partnered with the <a href="http://greenvillerec.com/">Greenville County Recreation District</a> (GCRD) to plant over 30 trees along the <a href="http://greenvillerec.com/swamprabbit">Swamp Rabbit Trail</a> in Greenville County. This marks the seventh year in a row that AFL has partnered with GCRD to plant trees in celebration of Arbor Day in South Carolina.  <br />
+         <br />
+        Part of AFL’s <a href="http://www.aflglobal.com/Company/Community/Take-Root.aspx">Take Root program</a>, 27 AFL volunteers plus friends and family came out to plant trees, spread mulch and pull vines and debris along the Reedy River. Volunteers contributed over 80 hours to enhance the section of the trail near West Washington at mile marker SR316 and Republic Locomotive.<br />
+         <br />
+        “The Swamp Rabbit Trail is an integral part of Greenville, attracting thousands of walkers, runners and cyclists each year. We hope the beautiful landscape will encourage others in our community to use the trail and live active, healthy lifestyles,” stated Corie Culp, community relations manager for AFL. “We are honored to be a part of something that has made a positive impact in our community.”<br />
+        <br />
+        AFL has a goal to plant 12,000 trees by 2015 under the Take Root initiative. AFL’s extensive <a href="http://www.aflglobal.com/Company/Community.aspx">Community Outreach Program</a> provides many opportunities to connect with its local communities and encourages associates to volunteer for activities throughout the year. For additional information on AFL and its community initiatives, visit <a href="http://www.aflglobal.com/">www.AFLglobal.com</a>.<br />
+         <br />
+        <strong>About AFL</strong><br />
+        AFL provides industry-leading products and services to the electric utility, broadband, communications, OEM, enterprise, wireless and transit rail markets as well as the emerging markets of oil and gas, mining, nuclear, avionics, medical, renewable and intelligent grid. The company’s diverse product portfolio includes fiber optic cable, transmission and substation accessories, outside plant equipment, connectors, fusion splicers, test equipment and training. AFL’s service portfolio includes market-leading positions with the foremost communications companies supporting inside plant central office, EF&I, outside plant, enterprise and wireless areas.<br />
+        <br />
+        Founded in 1984, AFL is proud to offer engineering expertise, exceptional products and reliable service that help our customers improve their critical and electrical infrastructure. AFL has operations in the U.S., Mexico, Europe, Asia and the South Pacific. The company is headquartered in Spartanburg, SC, and is a wholly-owned subsidiary of Fujikura Ltd. of Japan. For more information, visit <a href="http://www.aflglobal.com/">www.AFLglobal.com</a>. </p>
+        <p><strong>Contact</strong><br />
+        Corie Culp<br />
+        Public Relations Manager<br />
+        AFL<br />
+        864.433.5409<br />
+        <a href="mailto:Corie.Culp@AFLglobal.com">Corie.Culp@AFLglobal.com</a></p>
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: AFL Partners with GCRD Plants Over 30 Trees
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\matt
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: AFL partnered with the Greenville County Recreation District (GCRD) to plant over 30 trees along the Swamp Rabbit Trail in Greenville County.
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kushagra
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: AFL, Greenville County Recreation District, GCRD, environmental awareness, planted trees, Swamp Rabbit Trail, Community Outreach, Take Root program
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: AFL Partners with GCRD Plants Over 30 Trees
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: AFL Partners with GCRD Plants Over 30 Trees
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d6c67a90-8c51-4568-a794-26cb02465eb6"
+    - ID: "9dd4f0d9-c123-47a8-8cef-2c85cea172f6"
+      Hint: ContentImage
+      Value: |
+        <image mediaid="{0C6823AE-0783-4AC7-8F7F-38B8A66B6F93}" />
+    - ID: "a6eaffd5-fc3e-41b4-93b3-f1721fcf2300"
+      Hint: ContentPublishedDate
+      Value: 20131125T183000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T100411Z
+- Language: "fr-FR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "228f9517-e120-4014-b2c7-df0ac467a349"
+      Hint: ContentTitle
+      Value: AFL Partners with GCRD, Plants Over 30 Trees to Commemorate SC Arbor Day
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211213T105114Z
+    - ID: "3688d7df-2feb-43a4-ab8d-410e5f70a676"
+      Hint: ContentDescription
+      Value: |
+        <p>Spartanburg, SC – <a href="http://www.aflglobal.com/">AFL</a>, a manufacturer of fiber optic cable and accessories, partnered with the <a href="http://greenvillerec.com/">Greenville County Recreation District</a> (GCRD) to plant over 30 trees along the <a href="http://greenvillerec.com/swamprabbit">Swamp Rabbit Trail</a> in Greenville County. This marks the seventh year in a row that AFL has partnered with GCRD to plant trees in celebration of Arbor Day in South Carolina.  <br />
+         <br />
+        Part of AFL’s <a href="http://www.aflglobal.com/Company/Community/Take-Root.aspx">Take Root program</a>, 27 AFL volunteers plus friends and family came out to plant trees, spread mulch and pull vines and debris along the Reedy River. Volunteers contributed over 80 hours to enhance the section of the trail near West Washington at mile marker SR316 and Republic Locomotive.<br />
+         <br />
+        “The Swamp Rabbit Trail is an integral part of Greenville, attracting thousands of walkers, runners and cyclists each year. We hope the beautiful landscape will encourage others in our community to use the trail and live active, healthy lifestyles,” stated Corie Culp, community relations manager for AFL. “We are honored to be a part of something that has made a positive impact in our community.”<br />
+        <br />
+        AFL has a goal to plant 12,000 trees by 2015 under the Take Root initiative. AFL’s extensive <a href="http://www.aflglobal.com/Company/Community.aspx">Community Outreach Program</a> provides many opportunities to connect with its local communities and encourages associates to volunteer for activities throughout the year. For additional information on AFL and its community initiatives, visit <a href="http://www.aflglobal.com/">www.AFLglobal.com</a>.<br />
+         <br />
+        <strong>About AFL</strong><br />
+        AFL provides industry-leading products and services to the electric utility, broadband, communications, OEM, enterprise, wireless and transit rail markets as well as the emerging markets of oil and gas, mining, nuclear, avionics, medical, renewable and intelligent grid. The company’s diverse product portfolio includes fiber optic cable, transmission and substation accessories, outside plant equipment, connectors, fusion splicers, test equipment and training. AFL’s service portfolio includes market-leading positions with the foremost communications companies supporting inside plant central office, EF&I, outside plant, enterprise and wireless areas.<br />
+        <br />
+        Founded in 1984, AFL is proud to offer engineering expertise, exceptional products and reliable service that help our customers improve their critical and electrical infrastructure. AFL has operations in the U.S., Mexico, Europe, Asia and the South Pacific. The company is headquartered in Spartanburg, SC, and is a wholly-owned subsidiary of Fujikura Ltd. of Japan. For more information, visit <a href="http://www.aflglobal.com/">www.AFLglobal.com</a>. </p>
+        <p><strong>Contact</strong><br />
+        Corie Culp<br />
+        Public Relations Manager<br />
+        AFL<br />
+        864.433.5409<br />
+        <a href="mailto:Corie.Culp@AFLglobal.com">Corie.Culp@AFLglobal.com</a></p>
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: AFL Partners with GCRD Plants Over 30 Trees
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\matt
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: AFL partnered with the Greenville County Recreation District (GCRD) to plant over 30 trees along the Swamp Rabbit Trail in Greenville County.
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kushagra
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: AFL, Greenville County Recreation District, GCRD, environmental awareness, planted trees, Swamp Rabbit Trail, Community Outreach, Take Root program
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: AFL Partners with GCRD Plants Over 30 Trees
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: AFL Partners with GCRD Plants Over 30 Trees
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b649a5c2-0911-4258-b8e8-29cbab1751d9"
+    - ID: "9dd4f0d9-c123-47a8-8cef-2c85cea172f6"
+      Hint: ContentImage
+      Value: |
+        <image mediaid="{0C6823AE-0783-4AC7-8F7F-38B8A66B6F93}" />
+    - ID: "a6eaffd5-fc3e-41b4-93b3-f1721fcf2300"
+      Hint: ContentPublishedDate
+      Value: 20131125T183000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T100411Z

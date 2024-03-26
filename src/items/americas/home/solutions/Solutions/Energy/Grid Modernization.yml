@@ -1,0 +1,282 @@
+﻿---
+ID: "811577a5-db4b-49d2-9b95-fce5f28248f2"
+Parent: "30ef9d4a-179a-450c-a231-9155d6ab87d3"
+Template: "bf61de11-b78f-48ea-aaa4-1d17f0d83824"
+Path: "/sitecore/content/AFL-Global/AMERICAS/Home/Solutions/Energy/Grid Modernization"
+SharedFields:
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{274C9F86-81B9-4FFC-87CA-8B19AB3A526D}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{DAE7C21D-4D3B-4257-A95C-9104CD8AF409}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230809T172646Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{1A24FC12-1F8E-4214-921E-D355AA3E4DC5}"
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Grid Modernization
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rafael
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: AFL' Grid Modernization Solution for electric utilities and energy markets. Improve operational performance, ensure grid reliability and enhance network resiliency by embracing the SAFER™ principles to enable grid modernization.
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <h2 style="font-size: 23px !important; color: #0089c2; letter-spacing: 1.2px; line-height: 30px; font-weight: 500;">Grid Modernization</h2>
+        <p>Improve operational performance, ensure grid reliability and enhance network resiliency by embracing the SAFER&trade; principles to enable grid modernization. To deploy new smart grid technologies, a broadband network is a key foundation. With nearly 40 years of actual experience in providing fiber optic solutions for electric utilities, AFL can show you how to deploy a fiber optic network that not only supports optimizing the grid&rsquo;s performance but also aligns with the SAFER methodology.</p>
+        <p>For AFL, grid modernization means having the ability to communicate deeper and connect with more end points and inline devices. To do that, we provide a full suite of solutions focused on enabling Utilities to drive fiber into their networks with a density supporting not only today's needs, but tomorrow's as well. Our solutions include a complete fiber optic cable portfolio for <a href="~/link.aspx?_id=4C9E5CF938164F3AB7E5C56E45922F4B&amp;_z=z">transmission and distribution</a>&nbsp;environments as well as <a href="~/link.aspx?_id=323F5091D444489283617DBD75EFC78D&amp;_z=z">Utility FTTx</a>&nbsp;networks.</p>
+        <p>Our investment in capacity and supply resiliency means that product availability will never be the gating item to achieving successful deployment.</p>
+        <p>Contact <a href="mailto:Paul.Thomspon@aflglobal.com?subject=AFL_Website_Grid_Mod">Paul.Thomspon@aflglobal.com</a> to start the discussion on your grid modernization project.</p>
+        <p>&nbsp;</p>
+        <h2 style="font-size: 23px !important; color: #0089c2; letter-spacing: 1.2px; line-height: 30px; font-weight: 500;">Follow the Power&reg;: Fiber-Thru-The-Grid (FTT-Grid&trade;)</h2>
+        <p>&nbsp;</p>
+        <p><img alt="FTTGrid" style="text-align: center; margin-bottom: 55px;" src="https://afl-delivery.stylelabs.cloud/api/public/content/gridMod_FTTG_web?v=ddf3302c" /></p>
+        <p>&nbsp;</p>
+        <div class="row one">
+        <div class="col">
+        <h2 style="text-align: middle;">FTT-Grid supports downstream connections.</h2>
+        <p>&nbsp;</p>
+        <p><img alt="FTTG Connections" style="text-align: center; width: 533px;" src="https://afl-delivery.stylelabs.cloud/api/public/content/grid_mod_PCT_web?v=20076261" /></p>
+        </div>
+        </div>
+        <p>&nbsp;</p>
+        <p>&nbsp;</p>
+        <p>&nbsp;</p>
+        <p>&nbsp;</p>
+        <div class="row two">
+        <div class="col">
+        <h2>The drivers and trends of Grid Modernizations and the AFL product and solutions that enable it. AFL has been supporting Grid Modernization since the first foot of OPGW was sold back in 1985.</h2>
+        <p>&nbsp;</p>
+        <p><img alt="GridModDrivers" style="text-align: center; width: 533px;" src="https://afl-delivery.stylelabs.cloud/api/public/content/grid_mod_with_icons_web?v=e00806ba" /></p>
+        </div>
+        </div>
+        <p>&nbsp;</p>
+        <div style="width:100%;background-color:#efefef;padding:10px;text-align:center;"><iframe src="https://podcasters.spotify.com/pod/show/line-life-podcast/embed/episodes/TD-Talk--Episode-3-Fiber-Through-the-Grid-Addressing-the-Challenges-of-the-Grid-Today-e28kgiq" height="130px" width="97%" frameborder="0" scrolling="no"></iframe></div>
+        <style>
+            .one {
+            text-align: center;
+            width: 80%;
+            margin-left: 10%;
+            }
+            .two {
+            text-align: center;
+            width: 80%;
+            margin-left: 10%;
+            }
+        </style>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rafael
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: AFL, Grid, Modernization, Mod fiber optic solution Energy electric utilities transmission distribution optimization broadband 
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: AFL's Grid Modernization solution for electric utilities and the energy market.
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: AFL's Grid Modernization solution for electric utilities and the energy market.
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2a575bcf-4a31-4f39-abd8-a061f191c8c5"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T085258Z
+- Language: "es-MX"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230822T121937Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{1A24FC12-1F8E-4214-921E-D355AA3E4DC5}"
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Grid Modernization
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rafael
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: AFL' Grid Modernization Solution for electric utilities and energy markets. Improve operational performance, ensure grid reliability and enhance network resiliency by embracing the SAFER™ principles to enable grid modernization.
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <h2 style="font-size: 23px !important; color: #0089c2; letter-spacing: 1.2px; line-height: 30px; font-weight: 500;">Grid Modernization</h2>
+        <p>Improve operational performance, ensure grid reliability and enhance network resiliency by embracing the SAFER™ principles to enable grid modernization. To deploy new smart grid technologies, a broadband network is a key foundation. With nearly 40 years of actual experience in providing fiber optic solutions for electric utilities, AFL can show you how to deploy a fiber optic network that not only supports optimizing the grid’s performance but also aligns with the SAFER methodology.</p>
+        <p>For AFL, grid modernization means having the ability to communicate deeper and connect with more end points and inline devices. To do that, we provide a full suite of solutions focused on enabling Utilities to drive fiber into their networks with a density supporting not only today's needs, but tomorrow's as well. Our solutions include a complete fiber optic cable portfolio for <a href="~/link.aspx?_id=4C9E5CF938164F3AB7E5C56E45922F4B&_z=z">transmission and distribution</a> environments as well as <a href="~/link.aspx?_id=323F5091D444489283617DBD75EFC78D&_z=z">Utility FTTx</a> networks.</p>
+        <p>Our investment in capacity and supply resiliency means that product availability will never be the gating item to achieving successful deployment.</p>
+        <p>Contact <a href="mailto:Paul.Thomspon@aflglobal.com?subject=AFL_Website_Grid_Mod">Paul.Thomspon@aflglobal.com</a> to start the discussion on your grid modernization project.</p>
+        <p> </p>
+        <h2 style="font-size: 23px !important; color: #0089c2; letter-spacing: 1.2px; line-height: 30px; font-weight: 500;">Follow the Power®: Fiber-Thru-The Grid (FTT-Grid™)</h2>
+        <p> </p>
+        <p><img alt="FTTGrid" style="text-align: center; margin-bottom: 55px;" src="https://afl-delivery.stylelabs.cloud/api/public/content/gridMod_FTTG_web?v=ddf3302c" /></p>
+        <p> </p>
+        <div class="row one">
+        <div class="col">
+        <h2 style="text-align: middle;">FTT-Grid supports downstream connections.</h2>
+        <p> </p>
+        <p><img alt="FTTG Connections" style="text-align: center; width: 533px;" src="https://afl-delivery.stylelabs.cloud/api/public/content/grid_mod_PCT_web?v=20076261" /></p>
+        </div>
+        </div>
+        <p> </p>
+        <p> </p>
+        <p> </p>
+        <p> </p>
+        <div class="row two">
+        <div class="col">
+        <h2>The drivers and trends of Grid Modernizations and the AFL product and solutions that enable it. AFL has been supporting Grid Modernization since the first foot of OPGW was sold back in 1985.</h2>
+        <p> </p>
+        <p><img alt="GridModDrivers" style="text-align: center; width: 533px;" src="https://afl-delivery.stylelabs.cloud/api/public/content/grid_mod_with_icons_web?v=e00806ba" /></p>
+        </div>
+        </div>
+        <style>
+            .one {
+            text-align: center;
+            width: 80%;
+            margin-left: 10%;
+            }
+            .two {
+            text-align: center;
+            width: 80%;
+            margin-left: 10%;
+            }
+        </style>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rafael
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: AFL, Grid, Modernization, Mod fiber optic solution Energy electric utilities transmission distribution optimization broadband 
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: Grid Modernization
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: Grid Modernization
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "87144811-1e30-4e59-993a-70952493d74c"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T085259Z
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230822T121858Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{1A24FC12-1F8E-4214-921E-D355AA3E4DC5}"
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Grid Modernization
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rafael
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: AFL' Grid Modernization Solution for electric utilities and energy markets. Improve operational performance, ensure grid reliability and enhance network resiliency by embracing the SAFER™ principles to enable grid modernization.
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <h2 style="font-size: 23px !important; color: #0089c2; letter-spacing: 1.2px; line-height: 30px; font-weight: 500;">Grid Modernization</h2>
+        <p>Improve operational performance, ensure grid reliability and enhance network resiliency by embracing the SAFER™ principles to enable grid modernization. To deploy new smart grid technologies, a broadband network is a key foundation. With nearly 40 years of actual experience in providing fiber optic solutions for electric utilities, AFL can show you how to deploy a fiber optic network that not only supports optimizing the grid’s performance but also aligns with the SAFER methodology.</p>
+        <p>For AFL, grid modernization means having the ability to communicate deeper and connect with more end points and inline devices. To do that, we provide a full suite of solutions focused on enabling Utilities to drive fiber into their networks with a density supporting not only today's needs, but tomorrow's as well. Our solutions include a complete fiber optic cable portfolio for <a href="~/link.aspx?_id=4C9E5CF938164F3AB7E5C56E45922F4B&_z=z">transmission and distribution</a> environments as well as <a href="~/link.aspx?_id=323F5091D444489283617DBD75EFC78D&_z=z">Utility FTTx</a> networks.</p>
+        <p>Our investment in capacity and supply resiliency means that product availability will never be the gating item to achieving successful deployment.</p>
+        <p>Contact <a href="mailto:Paul.Thomspon@aflglobal.com?subject=AFL_Website_Grid_Mod">Paul.Thomspon@aflglobal.com</a> to start the discussion on your grid modernization project.</p>
+        <p> </p>
+        <h2 style="font-size: 23px !important; color: #0089c2; letter-spacing: 1.2px; line-height: 30px; font-weight: 500;">Follow the Power®: Fiber-Thru-The Grid (FTT-Grid™)</h2>
+        <p> </p>
+        <p><img alt="FTTGrid" style="text-align: center; margin-bottom: 55px;" src="https://afl-delivery.stylelabs.cloud/api/public/content/gridMod_FTTG_web?v=ddf3302c" /></p>
+        <p> </p>
+        <div class="row one">
+        <div class="col">
+        <h2 style="text-align: middle;">FTT-Grid supports downstream connections.</h2>
+        <p> </p>
+        <p><img alt="FTTG Connections" style="text-align: center; width: 533px;" src="https://afl-delivery.stylelabs.cloud/api/public/content/grid_mod_PCT_web?v=20076261" /></p>
+        </div>
+        </div>
+        <p> </p>
+        <p> </p>
+        <p> </p>
+        <p> </p>
+        <div class="row two">
+        <div class="col">
+        <h2>The drivers and trends of Grid Modernizations and the AFL product and solutions that enable it. AFL has been supporting Grid Modernization since the first foot of OPGW was sold back in 1985.</h2>
+        <p> </p>
+        <p><img alt="GridModDrivers" style="text-align: center; width: 533px;" src="https://afl-delivery.stylelabs.cloud/api/public/content/grid_mod_with_icons_web?v=e00806ba" /></p>
+        </div>
+        </div>
+        <style>
+            .one {
+            text-align: center;
+            width: 80%;
+            margin-left: 10%;
+            }
+            .two {
+            text-align: center;
+            width: 80%;
+            margin-left: 10%;
+            }
+        </style>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rafael
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: AFL, Grid, Modernization, Mod fiber optic solution Energy electric utilities transmission distribution optimization broadband 
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: Grid Modernization
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: Grid Modernization
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b6d79a6e-9abf-4132-8d51-7539c1fd9419"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T085259Z

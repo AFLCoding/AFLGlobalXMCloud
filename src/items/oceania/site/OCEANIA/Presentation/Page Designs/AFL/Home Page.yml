@@ -1,0 +1,39 @@
+﻿---
+ID: "3bc768a8-6518-45c7-b4bb-e6af28b026f9"
+Parent: "9b4d23b9-f5fd-4896-bcfa-8f5bafb9f098"
+Template: "1105b8f8-1e00-426b-bf1f-c840742d827b"
+Path: /sitecore/content/AFLGlobal/OCEANIA/Presentation/Page Designs/AFL/Home Page
+SharedFields:
+- ID: "0966b999-0d0e-4278-acc9-9da69d461fe6"
+  Hint: PartialDesigns
+  Value: "{8A814A0A-853D-415B-ABC7-FD267DE7FF36}"
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{31A32AD9-53FC-49DD-B200-19805E857A2D}" />
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240313T103217Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\asmita.parkar@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\asmita.parkar@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "562c1e25-18f3-4651-961d-6d9e44ffcfcf"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\pawan.tyagi@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240315T083249Z

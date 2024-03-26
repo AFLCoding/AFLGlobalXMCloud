@@ -1,0 +1,117 @@
+﻿---
+ID: "fafcbe5f-f845-4116-99ed-869b9aad02c9"
+Parent: "f92fe798-184c-46d5-b8c7-f7958bdef126"
+Template: "f36e821e-bb98-44dc-966d-e92a0e033cc7"
+Path: "/sitecore/content/AFL-Global/APAC/Home/Company/Company Profile/News/2018/AFL Monroe NC Associates Present $5000 United Way"
+SharedFields:
+- ID: "1fbc6a49-6281-48ee-87e9-a3970b145adb"
+  Hint: NavigationFilter
+  Value: |
+    {E0A2A027-0932-4878-A7D6-0416D5263EFB}
+    {61BD64D6-809E-40AE-9297-2724A19329B3}
+    {D063E9D1-C7B5-4B1E-B31E-69886C9C59F5}
+    {500AE4C0-FA7B-463F-8149-EFFF7F044101}
+    {A0E7FF57-6994-4B09-AA21-104239628D5A}
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{3A84BAC9-C1BD-4809-A12C-28EB44E25329}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{DAE7C21D-4D3B-4257-A95C-9104CD8AF409}"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{48D826CA-7AE6-4387-AE67-E7070B242906}">
+          <p:d />
+        </r>
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: 
+    - ID: "228f9517-e120-4014-b2c7-df0ac467a349"
+      Hint: ContentTitle
+      Value: AFL Monroe NC Associates Present $5,000 United Way Campaign Donation
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211214T103630Z
+    - ID: "3688d7df-2feb-43a4-ab8d-410e5f70a676"
+      Hint: ContentDescription
+      Value: |
+        Spartanburg, SC – <a href="http://www.aflglobal.com/">AFL</a>, a manufacturer and provider of services, concluded its annual United Way campaign and presented a $5,000 donation to <a href="https://uwcentralcarolinas.org/">United Way of Central Carolinas</a>. Made possible by associates and AFL’s <a href="~/link.aspx?_id=F5E14B660F224CD79DB21F673AE9DB95&_z=z">Community Outreach Program</a>, this year’s donation doubled over last year’s.  <br />
+        <br />
+        “Our associates understand the need in our community and demonstrated their willingness to take action to help others,” commented Seneca Mullins, title here. “They were definitely engaged and it showed in this donation. We hope to continue this progress for years to come.”  <br />
+        <br />
+        This year’s United Way campaign theme was “Lights. Camera. Take Action.” Associates heard from a United Way representative and learned about the organizations United Way supports through its program. Through AFL’s Community Outreach Program, donations were matched dollar-for-dollar up to $100 and for those new to the United Way campaign, donations were matched dollar-for-dollar with no limit.  <br />
+        <br />
+        AFL locations in New Hampshire, Massachusetts, South Carolina and Washington participated in the campaign which generated $325,000 in the United States. AFL locations internationally also supported the annual campaign, culminating in a $352,000 donation to communities worldwide.<br />
+        <br />
+        AFL has an extensive <a href="~/link.aspx?_id=F5E14B660F224CD79DB21F673AE9DB95&_z=z">Community Outreach Program</a> that provides grants, sponsorships, associate engagement projects, disaster relief and more. For additional information on AFL and its community initiatives, visit <a href="http://www.aflglobal.com/">www.AFLglobal.com</a>.<br />
+        <br />
+        About AFL<br />
+        Founded in 1984, AFL is an international manufacturer providing end-to-end solutions to the energy, service provider, enterprise and industrial markets as well as several emerging markets. The company’s products are in use in over 130 countries and include fiber optic cable and hardware, transmission and substation accessories, outside plant equipment, connectivity, test and inspection equipment, fusion splicers and training. AFL also offers a wide variety of services supporting data center, enterprise, wireless and outside plant applications.<br />
+        <br />
+        Headquartered in Spartanburg, SC, AFL has operations in the U.S., Mexico, Canada, Europe, Asia and Australia, and is a wholly-owned subsidiary of Fujikura Ltd. of Japan. For more information, visit <a href="http://www.aflglobal.com/">www.AFLglobal.com</a>. <br />
+        <br />
+        Contacts<br />
+        Christina Blount<br />
+        Campaign Coordinator<br />
+        AFL<br />
+        704.926.5783<br />
+        <a href="mailto:Christina.Blount@AFLglobal.com">Christina.Blount@AFLglobal.com</a><br />
+        <br />
+        Corie Culp<br />
+        Community Relations Manager<br />
+        AFL<br />
+        864.433.5409<br />
+        <a href="mailto:Corie.Culp@AFLglobal.com">Corie.Culp@AFLglobal.com</a>
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: AFL Monroe NC Associates Present $5000 United Way
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\harry
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: "Made possible by associates and AFL?s Community Outreach Program, this year?s donation doubled over last year?s.  "
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\harry
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: community, United Way, Monroe, NC, outreach, donation, annual, campaign, associates, action
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: AFL Monroe NC Associates Present $5,000 United Way Campaign Donation
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: AFL Monroe NC Associates Present $5,000 United Way Campaign Donation
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "595a83b2-901a-437f-935d-08e3a6a6427e"
+    - ID: "9dd4f0d9-c123-47a8-8cef-2c85cea172f6"
+      Hint: ContentImage
+      Value: |
+        <image mediaid="{0B08EA00-E5BC-444E-AFC9-945D1B23CBCD}" />
+    - ID: "a6eaffd5-fc3e-41b4-93b3-f1721fcf2300"
+      Hint: ContentPublishedDate
+      Value: 20210626T183000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T101617Z

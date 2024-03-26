@@ -1,0 +1,27 @@
+﻿---
+ID: "03c4ba8c-eeb1-48d2-b120-e2024d099c59"
+Parent: "046fc9d9-4142-4785-880f-288e6fd3e5e4"
+Template: "a066d10c-85cf-4eaf-9508-49cb49707994"
+Path: /sitecore/templates/Feature/AFL/AFL LinkList Branch/$name/Link 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171019T090759Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4cab7151-f216-406b-9acd-e85ab7897c4a"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\archana
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220202T085142Z

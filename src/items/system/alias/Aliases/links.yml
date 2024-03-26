@@ -1,0 +1,36 @@
+﻿---
+ID: "69cdaf42-af58-4dd5-be79-d03a80e27b0b"
+Parent: "5f094fe4-cc4b-40fd-9377-9ab00e7f7ca5"
+Template: "54bcffb7-8f46-4948-ae74-da5b6b5afa86"
+Path: /sitecore/system/Aliases/links
+SharedFields:
+- ID: "8cbab1df-cf26-4c80-9002-62aa153d1e4c"
+  Hint: Linked item
+  Value: |
+    <link linktype="internal" url="/AFL-Global/AMERICAS/Home/Resources/Other Resources/Redirects/links" id="{AE3C7902-E614-483A-9111-45E7FD5E5D7B}" />
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230510T140446Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rafael
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rafael
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9ba31786-2acc-4af2-b508-e4ebd4ab8da3"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rafael
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230510T140446Z

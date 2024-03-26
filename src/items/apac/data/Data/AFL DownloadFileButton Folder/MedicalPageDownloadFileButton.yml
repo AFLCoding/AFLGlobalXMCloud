@@ -1,0 +1,35 @@
+﻿---
+ID: "860ac4c6-cb65-4138-a4c7-4f13b3d93bc9"
+Parent: "d7dd0b4f-0568-4c70-950c-a54c70029ee3"
+Template: "40e2e6db-4eaa-40c4-92c1-d42e4edb4fe5"
+Path: "/sitecore/content/AFL-Global/APAC/Data/AFL DownloadFileButton Folder/MedicalPageDownloadFileButton"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211206T110557Z
+    - ID: "365c059d-8c02-4773-aee9-6849d7c97720"
+      Hint: AFLButtonLink
+      Value: |
+        <link id="{4489DD45-576A-498B-87DC-1C1953396BD8}" target="" text="Download File" url="/Project/AFL-Global/AFL-NA/AFL_Files/AFL-Medical-Fiber-Optics-Brochure" linktype="media" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\archana
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\archana
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "cecc6be4-405f-4505-8e27-9d8c7acb41fe"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kesav
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20211229T111244Z

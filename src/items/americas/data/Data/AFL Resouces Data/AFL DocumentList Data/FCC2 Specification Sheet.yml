@@ -1,0 +1,283 @@
+﻿---
+ID: "a03d53fe-71b8-42f7-a9d5-6f00f804700b"
+Parent: "27824172-4f4e-4db4-940f-93b6bc7ae597"
+Template: "8ad683ef-9f7b-4e70-9889-f7de776efcd1"
+Path: "/sitecore/content/AFL-Global/AMERICAS/Data/AFL Resouces Data/AFL DocumentList Data/FCC2 Specification Sheet"
+Languages:
+- Language: "de-DE"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230117T192700Z
+    - ID: "2a77143b-5f39-4484-aa64-809bb2437a2d"
+      Hint: DocumentImage
+      Value: |
+        <image mediaid="{2B373149-5355-4809-BABE-840005D8E6D9}" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\matt
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\matt
+    - ID: "753787de-69ba-48a5-bcf3-7cf5ff76dbe3"
+      Hint: DocumentCategory
+      Value: Document
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b2351a66-7e9b-4e40-9280-00409278020a"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\matt
+    - ID: "bb05fc15-c7f5-46f0-8d9d-7b2e1daa5ac2"
+      Hint: DocumentUrl
+      Value: |
+        <link text="VIEW" linktype="external" url="https://afl-delivery.stylelabs.cloud/api/public/content/56a8b0afcdd047a3a32d83b548ea72eb?v=8b1ce1e0" anchor="" target="_blank" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230117T192724Z
+    - ID: "fcf19fc4-51cd-4751-9cda-9c4be675800d"
+      Hint: DocumentName
+      Value: FCC2 Specification Sheet
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220104T061330Z
+    - ID: "2a77143b-5f39-4484-aa64-809bb2437a2d"
+      Hint: DocumentImage
+      Value: |
+        <image mediaid="{2B373149-5355-4809-BABE-840005D8E6D9}" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kushagra
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kushagra
+    - ID: "753787de-69ba-48a5-bcf3-7cf5ff76dbe3"
+      Hint: DocumentCategory
+      Value: Document
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "fff4ee1e-eadf-4feb-8e81-b4db7fb627a2"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "bb05fc15-c7f5-46f0-8d9d-7b2e1daa5ac2"
+      Hint: DocumentUrl
+      Value: |
+        <link text="VIEW" linktype="external" url="https://afl-delivery.stylelabs.cloud/api/public/content/56a8b0afcdd047a3a32d83b548ea72eb?v=8b1ce1e0" anchor="" target="_blank" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230918T210011Z
+    - ID: "fcf19fc4-51cd-4751-9cda-9c4be675800d"
+      Hint: DocumentName
+      Value: FCC2 Specification Sheet
+- Language: "es-ES"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230117T192635Z
+    - ID: "2a77143b-5f39-4484-aa64-809bb2437a2d"
+      Hint: DocumentImage
+      Value: |
+        <image mediaid="{2B373149-5355-4809-BABE-840005D8E6D9}" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\matt
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\matt
+    - ID: "753787de-69ba-48a5-bcf3-7cf5ff76dbe3"
+      Hint: DocumentCategory
+      Value: Document
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a35be239-0d54-4be0-a4b2-7565693af686"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\matt
+    - ID: "bb05fc15-c7f5-46f0-8d9d-7b2e1daa5ac2"
+      Hint: DocumentUrl
+      Value: |
+        <link text="VIEW" linktype="external" url="https://afl-delivery.stylelabs.cloud/api/public/content/56a8b0afcdd047a3a32d83b548ea72eb?v=8b1ce1e0" anchor="" target="_blank" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230117T192655Z
+    - ID: "fcf19fc4-51cd-4751-9cda-9c4be675800d"
+      Hint: DocumentName
+      Value: FCC2 Specification Sheet
+- Language: "es-MX"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220104T061330Z
+    - ID: "2a77143b-5f39-4484-aa64-809bb2437a2d"
+      Hint: DocumentImage
+      Value: |
+        <image mediaid="{2B373149-5355-4809-BABE-840005D8E6D9}" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kushagra
+    - ID: "753787de-69ba-48a5-bcf3-7cf5ff76dbe3"
+      Hint: DocumentCategory
+      Value: Document
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "42614611-0213-4ceb-ba1d-94a479358bd0"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "bb05fc15-c7f5-46f0-8d9d-7b2e1daa5ac2"
+      Hint: DocumentUrl
+      Value: |
+        <link text="VIEW" linktype="external" url="https://afl-delivery.stylelabs.cloud/api/public/content/56a8b0afcdd047a3a32d83b548ea72eb?v=8b1ce1e0" anchor="" target="_blank" />
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230921T084148Z
+    - ID: "fcf19fc4-51cd-4751-9cda-9c4be675800d"
+      Hint: DocumentName
+      Value: FCC2 Specification Sheet
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220104T061330Z
+    - ID: "2a77143b-5f39-4484-aa64-809bb2437a2d"
+      Hint: DocumentImage
+      Value: |
+        <image mediaid="{2B373149-5355-4809-BABE-840005D8E6D9}" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kushagra
+    - ID: "753787de-69ba-48a5-bcf3-7cf5ff76dbe3"
+      Hint: DocumentCategory
+      Value: Document
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3c0f30a6-31d4-4d50-be8f-35ee08d29c9e"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahesh
+    - ID: "bb05fc15-c7f5-46f0-8d9d-7b2e1daa5ac2"
+      Hint: DocumentUrl
+      Value: |
+        <link text="VIEW" linktype="external" url="https://www.aflglobal.com/productlist/Product-Lines/Test-and-Inspection/FCC2-Enhanced-Fiber-Connector-Cleaner-and-Preparat/doc/FLWP-00-2000.aspx" anchor="" target="_blank" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220215T094658Z
+    - ID: "fcf19fc4-51cd-4751-9cda-9c4be675800d"
+      Hint: DocumentName
+      Value: FCC2 Specification Sheet
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220104T061330Z
+    - ID: "2a77143b-5f39-4484-aa64-809bb2437a2d"
+      Hint: DocumentImage
+      Value: |
+        <image mediaid="{2B373149-5355-4809-BABE-840005D8E6D9}" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kushagra
+    - ID: "753787de-69ba-48a5-bcf3-7cf5ff76dbe3"
+      Hint: DocumentCategory
+      Value: Document
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0404aef5-b5cf-47b0-8c94-2f799b337be9"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "bb05fc15-c7f5-46f0-8d9d-7b2e1daa5ac2"
+      Hint: DocumentUrl
+      Value: |
+        <link text="VIEW" linktype="external" url="https://afl-delivery.stylelabs.cloud/api/public/content/56a8b0afcdd047a3a32d83b548ea72eb?v=8b1ce1e0" anchor="" target="_blank" />
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230921T084148Z
+    - ID: "fcf19fc4-51cd-4751-9cda-9c4be675800d"
+      Hint: DocumentName
+      Value: FCC2 Specification Sheet
+- Language: "fr-FR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230117T192606Z
+    - ID: "2a77143b-5f39-4484-aa64-809bb2437a2d"
+      Hint: DocumentImage
+      Value: |
+        <image mediaid="{2B373149-5355-4809-BABE-840005D8E6D9}" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\matt
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\matt
+    - ID: "753787de-69ba-48a5-bcf3-7cf5ff76dbe3"
+      Hint: DocumentCategory
+      Value: Document
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b6b487b3-c692-4403-a2ab-c23089adb2b7"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\matt
+    - ID: "bb05fc15-c7f5-46f0-8d9d-7b2e1daa5ac2"
+      Hint: DocumentUrl
+      Value: |
+        <link text="VIEW" linktype="external" url="https://afl-delivery.stylelabs.cloud/api/public/content/56a8b0afcdd047a3a32d83b548ea72eb?v=8b1ce1e0" anchor="" target="_blank" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230117T192631Z
+    - ID: "fcf19fc4-51cd-4751-9cda-9c4be675800d"
+      Hint: DocumentName
+      Value: FCC2 Specification Sheet

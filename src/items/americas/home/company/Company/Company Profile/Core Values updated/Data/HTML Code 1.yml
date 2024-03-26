@@ -1,0 +1,234 @@
+﻿---
+ID: "3d48187d-16d3-4ceb-9fc3-b0d15ab99076"
+Parent: "82f80a55-d3e2-4b85-a0dc-f13c601adfaf"
+Template: "2ad23d55-aecd-43dd-ae0d-72d2ebcba60f"
+Path: "/sitecore/content/AFL-Global/AMERICAS/Home/Company/Company Profile/Core Values updated/Data/HTML Code 1"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "24cce27c-05db-4473-a1ed-e69b1725ff1c"
+      Hint: HtmlCode
+      Value: |
+        <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.12.1/css/all.css" crossorigin="anonymous">
+        
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.dropotron/1.4.3/jquery.dropotron.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/js/bootstrap.min.js"></script>
+        <script src="https://webapps.aflglobal.com/cmsscripts/careersassets/assets/js/jquery.scrolly.min.js"></script>
+        <!-- <link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet"> -->
+        
+        
+        
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <h1 style="font-size: 5rem;
+            font-weight: bold;
+            line-height: 2.3rem;
+            margin: 0.67em 0;
+            color: #00c0f3; font-size: 3.8rem;
+            line-height: 36px;">Core Values</h1>
+        <p>With operations in seven countries, AFL employs approximately 4,500 associates worldwide. For more than 30 years, AFL has seen many changes in technology, manufacturing and engineering as well as changes across our markets and geographies around the world. We believe that AFL continues to succeed due to the strength of our associates and our core values, which drive our culture and priorities and provide a framework in which decisions are made. AFL’s core values are: 
+        </p>
+        <h2 style="font-size: 2rem;
+            color: #004282;
+            font-weight: bold;
+            line-height: 18px;
+            margin: 0.67em 0; text-align: center;">Customers First; Integrity; Innovation; Collaboration and Accountability; Environment, Health and Safety; and Community Engagement.
+        </h2>
+        <p style="text-align: center;">AFL’s corporate responsibility seeks to embed our core values in each area of materiality.
+        </p><br/>
+        <div class="slider-container">
+              <div class="left-slide">
+                <div style="background-color: #777777;">
+                  <h1>Financial Performance</h1>
+                  <p>AFL’s mission is to connect our customers around the world with innovative technologies, exceptional products and high-quality services. Our vision is to positively impact communities by delivering superior solutions. </p>
+                </div>
+                <div style="background-color: rgb(0, 66, 130)">
+                  <h1>Corporate Governance</h1>
+                  <p>AFL conducts our business activities and develops company policies based on a firm commitment to ethical practices and corporate governance best practices.</p>
+                </div>
+                <div style="background-color: rgb(0, 192, 243)">
+                  <h1>Social Responsibility</h1>
+                  <p>AFL believes that that individuals and organizations have a responsibility to act in a way that benefit our communities and make a positive difference in the lives of others.</p>
+                </div>
+                <div style="background-color: rgb(193, 216, 47)">
+                  <h1>Environmental Sustainability
+        </h1>
+                  <p>AFL is committed to operating in a safe and responsible manner worldwide that respects communities and the environment.</p>
+                </div>
+              </div>
+              <div class="right-slide">
+                <div style="background-image: url('https://afl-delivery.stylelabs.cloud/api/public/content/globe?v=48f62807');"></div>
+                <div style="background-image: url('https://afl-delivery.stylelabs.cloud/api/public/content/Person?v=592d08ae');"></div>
+                <div style="background-image: url('https://afl-delivery.stylelabs.cloud/api/public/content/Gear?v=e5dfbee3');"></div>
+                <div style="background-image: url('https://afl-delivery.stylelabs.cloud/api/public/content/Courthouse?v=b1e952de');"></div>
+              </div>
+              <div class="action-buttons">
+                <button class="down-button">
+                  <i class="fa-solid fa-arrow-down"></i>
+                </button>
+                <button class="up-button">
+                  <i class="fa-solid fa-arrow-up"></i>
+                </button>
+              </div>
+            </div>
+        <br/><br/>
+        <style>
+        @import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+        
+        * {
+          box-sizing: border-box;
+          margin: 0;
+          padding: 0;
+        }
+        
+        body {
+          font-family: 'Lato', sans-serif;
+          height: 100vh;
+        }
+        
+        .slider-container {
+          position: relative;
+          overflow: hidden;
+          width: 100vw;
+          height: 100vh;
+        }
+        
+        .left-slide {
+          height: 100%;
+          width: 35%;
+          position: absolute;
+          top: 0;
+          left: 0;
+          transition: transform 0.5s ease-in-out;
+        }
+        
+        .left-slide > div {
+          height: 100%;
+          width: 100%;
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+          justify-content: center;
+          color: #fff;
+        }
+        
+        .left-slide h1 {
+          font-size: 40px;
+          margin-bottom: 10px;
+          margin-top: -30px;
+        }
+        
+        .right-slide {
+          height: 100%;
+          position: absolute;
+          top: 0;
+          left: 35%;
+          width: 65%;
+          transition: transform 0.5s ease-in-out;
+        }
+        
+        .right-slide > div {
+          background-repeat: no-repeat;
+          background-size: 50%;
+          background-position: inherit;
+          height: 100%;
+          width: 100%;
+        }
+        
+        button {
+          background-color: #fff;
+          border: none;
+          color: #aaa;
+          cursor: pointer;
+          font-size: 16px;
+          padding: 15px;
+        }
+        
+        button:hover {
+          color: #222;
+        }
+        
+        button:focus {
+          outline: none;
+        }
+        
+        .slider-container .action-buttons button {
+          position: absolute;
+          left: 35%;
+          top: 50%;
+          z-index: 100;
+        }
+        
+        .slider-container .action-buttons .down-button {
+          transform: translateX(-100%);
+          border-top-left-radius: 5px;
+          border-bottom-left-radius: 5px;
+        }
+        
+        .slider-container .action-buttons .up-button {
+          transform: translateY(-100%);
+          border-top-right-radius: 5px;
+          border-bottom-right-radius: 5px;
+        }
+        .left-slide p {
+        width: 378px;
+        }
+        </style>
+        <script>
+        const sliderContainer = document.querySelector('.slider-container')
+        const slideRight = document.querySelector('.right-slide')
+        const slideLeft = document.querySelector('.left-slide')
+        const upButton = document.querySelector('.up-button')
+        const downButton = document.querySelector('.down-button')
+        const slidesLength = slideRight.querySelectorAll('div').length
+        
+        let activeSlideIndex = 0
+        
+        slideLeft.style.top = `-${(slidesLength - 1) * 100}vh`
+        
+        upButton.addEventListener('click', () => changeSlide('up'))
+        downButton.addEventListener('click', () => changeSlide('down'))
+        
+        const changeSlide = (direction) => {
+            const sliderHeight = sliderContainer.clientHeight
+            if(direction === 'up') {
+                activeSlideIndex++
+                if(activeSlideIndex > slidesLength - 1) {
+                    activeSlideIndex = 0
+                }
+            } else if(direction === 'down') {
+                activeSlideIndex--
+                if(activeSlideIndex < 0) {
+                    activeSlideIndex = slidesLength - 1
+                }
+            }
+        
+            slideRight.style.transform = `translateY(-${activeSlideIndex * sliderHeight}px)`
+            slideLeft.style.transform = `translateY(${activeSlideIndex * sliderHeight}px)`
+        }
+        </script>
+        
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230912T175004Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rafael
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rafael
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6577a3c0-da5e-448e-8932-2300ef164248"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rafael
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230913T124710Z

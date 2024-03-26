@@ -1,0 +1,283 @@
+﻿---
+ID: "b544f1ea-2546-47d5-aae3-1d21f20bbe61"
+Parent: "27824172-4f4e-4db4-940f-93b6bc7ae597"
+Template: "8ad683ef-9f7b-4e70-9889-f7de776efcd1"
+Path: "/sitecore/content/AFL-Global/AMERICAS/Data/AFL Resouces Data/AFL DocumentList Data/FOCIS Flex Specification Sheet - Spanish"
+Languages:
+- Language: "de-DE"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230112T184456Z
+    - ID: "2a77143b-5f39-4484-aa64-809bb2437a2d"
+      Hint: DocumentImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="237947" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/237947/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/974efb3940c9413a861d50d1d9a22979?v=6e3f0933" stylelabs-content-type="Image" alt="Brochure_Icon.png" height="287" width="339" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rafael
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rafael
+    - ID: "753787de-69ba-48a5-bcf3-7cf5ff76dbe3"
+      Hint: DocumentCategory
+      Value: Specification Sheet
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "774176a8-2e1a-4935-9db8-aaea375b130d"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "bb05fc15-c7f5-46f0-8d9d-7b2e1daa5ac2"
+      Hint: DocumentUrl
+      Value: |
+        <link text="VIEW" linktype="external" url="https://afl-delivery.stylelabs.cloud/api/public/content/FFLX-00-2SPA?v=ad80c1b0" anchor="" target="_blank" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230921T084204Z
+    - ID: "fcf19fc4-51cd-4751-9cda-9c4be675800d"
+      Hint: DocumentName
+      Value: "Spanish - FOCIS Flex Specification Sheet"
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220103T081738Z
+    - ID: "2a77143b-5f39-4484-aa64-809bb2437a2d"
+      Hint: DocumentImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="237947" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/237947/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/974efb3940c9413a861d50d1d9a22979?v=6e3f0933" stylelabs-content-type="Image" alt="Brochure_Icon.png" height="287" width="339" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kushagra
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kushagra
+    - ID: "753787de-69ba-48a5-bcf3-7cf5ff76dbe3"
+      Hint: DocumentCategory
+      Value: Specification Sheet
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9db63462-e9d2-4330-933f-5ed0048e3b56"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "bb05fc15-c7f5-46f0-8d9d-7b2e1daa5ac2"
+      Hint: DocumentUrl
+      Value: |
+        <link text="VIEW" linktype="external" url="https://afl-delivery.stylelabs.cloud/api/public/content/FFLX-00-2SPA?v=ad80c1b0" anchor="" target="_blank" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230918T210016Z
+    - ID: "fcf19fc4-51cd-4751-9cda-9c4be675800d"
+      Hint: DocumentName
+      Value: "Spanish - FOCIS Flex Specification Sheet"
+- Language: "es-ES"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230112T184733Z
+    - ID: "2a77143b-5f39-4484-aa64-809bb2437a2d"
+      Hint: DocumentImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="237947" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/237947/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/974efb3940c9413a861d50d1d9a22979?v=6e3f0933" stylelabs-content-type="Image" alt="Brochure_Icon.png" height="287" width="339" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rafael
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rafael
+    - ID: "753787de-69ba-48a5-bcf3-7cf5ff76dbe3"
+      Hint: DocumentCategory
+      Value: Specification Sheet
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a53dfcef-baf0-4509-8c53-ca5d51ade332"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "bb05fc15-c7f5-46f0-8d9d-7b2e1daa5ac2"
+      Hint: DocumentUrl
+      Value: |
+        <link text="VIEW" linktype="external" url="https://afl-delivery.stylelabs.cloud/api/public/content/FFLX-00-2SPA?v=ad80c1b0" anchor="" target="_blank" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230921T084204Z
+    - ID: "fcf19fc4-51cd-4751-9cda-9c4be675800d"
+      Hint: DocumentName
+      Value: "Spanish - FOCIS Flex Specification Sheet"
+- Language: "es-MX"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220103T081738Z
+    - ID: "2a77143b-5f39-4484-aa64-809bb2437a2d"
+      Hint: DocumentImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="237947" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/237947/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/974efb3940c9413a861d50d1d9a22979?v=6e3f0933" stylelabs-content-type="Image" alt="Brochure_Icon.png" height="287" width="339" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kushagra
+    - ID: "753787de-69ba-48a5-bcf3-7cf5ff76dbe3"
+      Hint: DocumentCategory
+      Value: Document
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "05b7e73a-e3b9-4d34-9c22-6349f99e3d72"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "bb05fc15-c7f5-46f0-8d9d-7b2e1daa5ac2"
+      Hint: DocumentUrl
+      Value: |
+        <link text="VIEW" linktype="external" url="https://afl-delivery.stylelabs.cloud/api/public/content/FFLX-00-2SPA?v=ad80c1b0" anchor="" target="_blank" />
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230921T084204Z
+    - ID: "fcf19fc4-51cd-4751-9cda-9c4be675800d"
+      Hint: DocumentName
+      Value: Cleaning Quick Reference Guide
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220103T081738Z
+    - ID: "2a77143b-5f39-4484-aa64-809bb2437a2d"
+      Hint: DocumentImage
+      Value: |
+        <image mediaid="{2B373149-5355-4809-BABE-840005D8E6D9}" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kushagra
+    - ID: "753787de-69ba-48a5-bcf3-7cf5ff76dbe3"
+      Hint: DocumentCategory
+      Value: Document
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "cf6716c3-f49e-4f35-906e-5e3a2d9486c6"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahesh
+    - ID: "bb05fc15-c7f5-46f0-8d9d-7b2e1daa5ac2"
+      Hint: DocumentUrl
+      Value: |
+        <link text="VIEW" linktype="external" url="https://www.aflglobal.com/productlist/Product-Lines/Test-and-Inspection/CCT_Connector_Cleaning_Tips/doc/CLNG-00-1ENG_1A.aspx" anchor="" target="_blank" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220215T094649Z
+    - ID: "fcf19fc4-51cd-4751-9cda-9c4be675800d"
+      Hint: DocumentName
+      Value: Cleaning Quick Reference Guide
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220103T081738Z
+    - ID: "2a77143b-5f39-4484-aa64-809bb2437a2d"
+      Hint: DocumentImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="237947" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/237947/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/974efb3940c9413a861d50d1d9a22979?v=6e3f0933" stylelabs-content-type="Image" alt="Brochure_Icon.png" height="287" width="339" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kushagra
+    - ID: "753787de-69ba-48a5-bcf3-7cf5ff76dbe3"
+      Hint: DocumentCategory
+      Value: Document
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "edf0dcac-203f-46f2-851b-ea8de6ad9831"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "bb05fc15-c7f5-46f0-8d9d-7b2e1daa5ac2"
+      Hint: DocumentUrl
+      Value: |
+        <link text="VIEW" linktype="external" url="https://afl-delivery.stylelabs.cloud/api/public/content/FFLX-00-2SPA?v=ad80c1b0" anchor="" target="_blank" />
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230921T084204Z
+    - ID: "fcf19fc4-51cd-4751-9cda-9c4be675800d"
+      Hint: DocumentName
+      Value: Cleaning Quick Reference Guide
+- Language: "fr-FR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230112T184908Z
+    - ID: "2a77143b-5f39-4484-aa64-809bb2437a2d"
+      Hint: DocumentImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="237947" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/237947/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/974efb3940c9413a861d50d1d9a22979?v=6e3f0933" stylelabs-content-type="Image" alt="Brochure_Icon.png" height="287" width="339" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rafael
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rafael
+    - ID: "753787de-69ba-48a5-bcf3-7cf5ff76dbe3"
+      Hint: DocumentCategory
+      Value: Specification Sheet
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b0923417-169f-41dd-9e7d-2e529a66c38a"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "bb05fc15-c7f5-46f0-8d9d-7b2e1daa5ac2"
+      Hint: DocumentUrl
+      Value: |
+        <link text="VIEW" linktype="external" url="https://afl-delivery.stylelabs.cloud/api/public/content/FFLX-00-2SPA?v=ad80c1b0" anchor="" target="_blank" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230921T084204Z
+    - ID: "fcf19fc4-51cd-4751-9cda-9c4be675800d"
+      Hint: DocumentName
+      Value: "Spanish - FOCIS Flex Specification Sheet"

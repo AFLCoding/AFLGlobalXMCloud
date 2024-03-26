@@ -1,0 +1,79 @@
+﻿---
+ID: "4f261ff5-4fe4-423b-b149-e3f84555ff02"
+Parent: "57f6ba98-8114-442d-8c43-842ab95a6901"
+Template: "011c02ab-49e7-41f0-8719-03034390bc25"
+Path: "/sitecore/content/AFL-Global/APAC/Data/AFL Product Detail Folder/Services Details/Services Offerings Details/Enterprise Services Details/Markets Details"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 0
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211124T150420Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <p>At AFL, our mission is to connect our customers around the world with innovative technologies, exceptional products and high quality services. From healthcare to higher education, and from government to retail, customer experience and satisfaction are our primary business objectives.</p>
+        <p>We have extensive experience ranging from local electrical co-ops to large multi-national long-haul infrastructure builds. Our team of experts is dedicated to delivering a customized solution to address our customers&rsquo; unique challenges.</p>
+        <span style="background-color: #ffffff; color: #333333;">Explore the links below to learn more about the markets we serve.</span>
+        <ul style="color: #333333; background-color: #ffffff; list-style-image: url('https://www.aflglobal.com/productionFiles/images/bulletRound.aspx');">
+            <li class="CMSSiteMapListItem">
+            <h3 style="color: #282828; margin: 0px;"><a class="CMSSiteMapLink" href="https://www.aflglobal.com/Services/Markets/Data-Center.aspx" style="color: #0091ea; background-color: transparent;">Data Center</a></h3>
+            </li>
+            <li class="CMSSiteMapListItem">
+            <h3 style="color: #282828; margin: 0px;"><a class="CMSSiteMapLink" href="https://www.aflglobal.com/Services/Markets/Financial-Services.aspx" style="color: #0091ea; background-color: transparent;">Financial Services</a></h3>
+            </li>
+            <li class="CMSSiteMapListItem">
+            <h3 style="color: #282828; margin: 0px;"><a class="CMSSiteMapLink" href="https://www.aflglobal.com/Services/Markets/Government-and-Municipalities.aspx" style="color: #0091ea; background-color: transparent;">Government and Municipalities</a></h3>
+            </li>
+            <li class="CMSSiteMapListItem">
+            <h3 style="color: #282828; margin: 0px;"><a class="CMSSiteMapLink" href="https://www.aflglobal.com/Services/Markets/Healthcare.aspx" style="color: #0091ea; background-color: transparent;">Healthcare</a></h3>
+            </li>
+            <li class="CMSSiteMapListItem">
+            <h3 style="color: #282828; margin: 0px;"><a class="CMSSiteMapLink" href="https://www.aflglobal.com/Services/Markets/Higher-Education.aspx" style="color: #0091ea; background-color: transparent;">Higher Education</a></h3>
+            </li>
+            <li class="CMSSiteMapListItem">
+            <h3 style="color: #282828; margin: 0px;"><a class="CMSSiteMapLink" href="https://www.aflglobal.com/Services/Markets/Hospitality.aspx" style="color: #0091ea; background-color: transparent;">Hospitality</a></h3>
+            </li>
+            <li class="CMSSiteMapListItem">
+            <h3 style="color: #282828; margin: 0px;"><a class="CMSSiteMapLink" href="https://www.aflglobal.com/Services/Markets/Industrial-and-Manufacturing.aspx" style="color: #0091ea; background-color: transparent;">Industrial &amp; Manufacturing</a></h3>
+            </li>
+            <li class="CMSSiteMapListItem">
+            <h3 style="color: #282828; margin: 0px;"><a class="CMSSiteMapLink" href="https://www.aflglobal.com/Services/Markets/Original-Equipment-Manufacturers-OEM.aspx" style="color: #0091ea; background-color: transparent;">Original Equipment Manufacturers (OEM)</a></h3>
+            </li>
+            <li class="CMSSiteMapListItem">
+            <h3 style="color: #282828; margin: 0px;"><a class="CMSSiteMapLink" href="https://www.aflglobal.com/Services/Markets/Retail.aspx" style="color: #0091ea; background-color: transparent;">Retail</a></h3>
+            </li>
+            <li class="CMSSiteMapListItem">
+            <h3 style="color: #282828; margin: 0px;"><a class="CMSSiteMapLink" href="https://www.aflglobal.com/Services/Markets/Service-Providers.aspx" style="color: #0091ea; background-color: transparent;">Service Providers</a></h3>
+            </li>
+        </ul>
+    - ID: "5d336bce-e421-4fe8-ad55-214f80d841ad"
+      Hint: "Sub-Heading"
+      Value: "Markets Sub-heading"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "445e278f-b282-4214-8bc4-5029ad8ed397"
+    - ID: "ab91d39b-30ad-4050-acef-07c741146fcc"
+      Hint: Heading
+      Value: Markets Heading
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20211124T162025Z

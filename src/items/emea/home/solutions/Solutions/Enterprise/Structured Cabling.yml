@@ -1,0 +1,465 @@
+﻿---
+ID: "9d9e8d4f-c97e-4963-bad4-3d576d42bdc5"
+Parent: "905cc5f3-16f2-4ac0-a7e4-48795e7e730a"
+Template: "bf61de11-b78f-48ea-aaa4-1d17f0d83824"
+Path: "/sitecore/content/AFL-Global/EMEA/Home/Solutions/Enterprise/Structured Cabling"
+SharedFields:
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{D275F9F9-13A8-4EDD-9475-E96281B42E31}"
+Languages:
+- Language: "de-DE"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211122T092603Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Strukturierte Verkabelung
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: "Installers and Contractors - From training to testing and everything in-between, let AFL help you meet the challenges of the growing fiber optic industry."
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <h2>Whether you need cable, connectivity, equipment or training, AFL can help you meet the challenges of the growing fiber optic industry</h2>
+        <p>Fiber optic infrastructure investment is projected to continue increasing through 2020, creating a wealth of opportunities for installers and contractors within many market verticals. The explosive industry growth is being fueled by consumer demands on bandwidth and their need to access information at a moment’s notice.</p>
+        <p>While fiber optic technology has been around for decades, it is now becoming the infrastructure of choice for many business operations including communications, medical, oil and gas, mining, utilities, transportation, security and more. In order to provide the absolute best service possible to customers, integrators and contractors rely on experts to guide them through the process. From training to testing and everything in-between, AFL leads the pack in delivering end-to-end solutions for successful project outcomes.</p>
+        <ul>
+            <li><a href="/Products/Fiber-Optic-Cable">Fiber Optic Cable</a></li>
+            <li><a href="/Products/Fiber-Optic-Connectivity">Fiber Management</a></li>
+            <li><a href="/Products/Fiber-Optic-Connectivity/Field-Installable-Connectors">Connectivity Solutions</a></li>
+            <li><a href="/Products/Fusion-Splicing/Field-Fusion-Splicing-Equipment">Fusion Splicers</a></li>
+            <li><a href="/Products/Test-and-Inspection">Test Equipment</a></li>
+        </ul>
+        <p>AFL has a solution for every piece of the fiber optic puzzle and can customize products for unique applications. Whether you are a large company with thousands of employees or a one-person operation, no customer is too big or too small for AFL. If you are looking for a true partner to help you to meet the challenges of a growing fiber optic industry, turn to AFL for high-quality, end-to-end solutions that deliver a competitive advantage.<br />
+         </p>
+    - ID: "56611f02-691a-4096-b044-63aa83122916"
+      Hint: Content
+      Value: |
+        <h2>Whether you need cable, connectivity, equipment or training, AFL can help you meet the challenges of the growing fiber optic industry</h2>
+        <p>Fiber optic infrastructure investment is projected to continue increasing through 2020, creating a wealth of opportunities for installers and contractors within many market verticals. The explosive industry growth is being fueled by consumer demands on bandwidth and their need to access information at a moment&rsquo;s notice.</p>
+        <p>While fiber optic technology has been around for decades, it is now becoming the infrastructure of choice for many business operations including communications, medical, oil and gas, mining, utilities, transportation, security and more. In order to provide the absolute best service possible to customers, integrators and contractors rely on experts to guide them through the process. From training to testing and everything in-between, AFL leads the pack in delivering end-to-end solutions for successful project outcomes.</p>
+        <ul style="color: #333333; background-color: #ffffff; list-style-image: url('/productionFiles/images/bulletRound');">
+            <li><a href="/Products/Fiber-Optic-Cable" style="color: #0091ea; background-color: transparent;">Fiber Optic Cable</a></li>
+            <li><a href="/Products/Fiber-Optic-Connectivity" style="color: #0091ea; background-color: transparent;">Fiber Management</a></li>
+            <li><a href="/Products/Fiber-Optic-Connectivity/Field-Installable-Connectors" style="color: #0091ea; background-color: transparent;">Connectivity Solutions</a></li>
+            <li><a href="/Products/Fusion-Splicing/Field-Fusion-Splicing-Equipment" style="color: #0091ea; background-color: transparent;">Fusion Splicers</a></li>
+            <li><a href="/Products/Test-and-Inspection" style="color: #0091ea; background-color: transparent;">Test Equipment</a></li>
+        </ul>
+        <p>AFL has a solution for every piece of the fiber optic puzzle and can customize products for unique applications. Whether you are a large company with thousands of employees or a one-person operation, no customer is too big or too small for AFL. If you are looking for a true partner to help you to meet the challenges of a growing fiber optic industry, turn to AFL for high-quality, end-to-end solutions that deliver a competitive advantage.</p>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mahesh
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: installers contractors AFL training testing fiber optic cable solutions technology connectivity components splicers equipment
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: Strukturierte Verkabelung
+    - ID: "628db04b-29a2-483b-a88c-b8fd9a5f2086"
+      Hint: HeroLink
+      Value: |
+        <link id="{9D9E8D4F-C97E-4963-BAD4-3D576D42BDC5}" querystring="" linktype="internal" text="LEARN MORE" anchor="" url="/AFL-Global/EMEA/Home/Solutions/Enterprise/Structured Cabling" title="" class="" target="|Custom" />
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: Strukturierte Verkabelung
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b5d9de58-5bd6-440d-9fdb-1a07c5a10d5f"
+    - ID: "93dc88f3-05e5-482d-9b9a-c859c8258a73"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="167973" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/167973/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/structuredcabling?v=0c4549af" stylelabs-content-type="Image" alt="Structured Cabling.jpg" height="369" width="954" />
+    - ID: "a40ebd3d-2b41-41fb-90f7-753544ce77c5"
+      Hint: Hero Title1
+      Value: Structured Cabling
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d8b38dd7-e9a0-4410-9f17-d436b0c8635a"
+      Hint: OpenGraphImageUrl
+      Value: |
+        <image mediaid="{064748B7-7D07-473A-B7C8-76CF966F6FB7}" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T094450Z
+    - ID: "dd0b26a2-9ca3-4573-b501-3b33a6efbc65"
+      Hint: Hero Title2
+      Value: "End-to-end solutions for contractors and installation technicians"
+    - ID: "e3bcfb9e-ac4a-4b80-9ad0-42cf5b48b078"
+      Hint: ProductDescription
+      Value: |
+        <p>
+        AFL has a solution for every piece of the fiber optic puzzle and can customize products for unique applications. Whether you are a large company with thousands of employees or a one-person operation, no customer is too big or too small for AFL. If you are looking for a true partner to help you to meet the challenges of a growing fiber optic industry, turn to AFL for high-quality, end-to-end solutions that deliver a competitive advantage.<br />
+        &nbsp;</p>
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211122T092603Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Structured Cabling
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: "Installers and Contractors - From training to testing and everything in-between, let AFL help you meet the challenges of the growing fiber optic industry."
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <h2>Whether you need cable, connectivity, equipment or training, AFL can help you meet the challenges of the growing fiber optic industry</h2>
+        <p>Fiber optic infrastructure investment is projected to continue increasing through 2020, creating a wealth of opportunities for installers and contractors within many market verticals. The explosive industry growth is being fueled by consumer demands on bandwidth and their need to access information at a moment’s notice.</p>
+        <p>While fiber optic technology has been around for decades, it is now becoming the infrastructure of choice for many business operations including communications, medical, oil and gas, mining, utilities, transportation, security and more. In order to provide the absolute best service possible to customers, integrators and contractors rely on experts to guide them through the process. From training to testing and everything in-between, AFL leads the pack in delivering end-to-end solutions for successful project outcomes.</p>
+        <ul>
+            <li><a href="/Products/Fiber-Optic-Cable">Fiber Optic Cable</a></li>
+            <li><a href="/Products/Fiber-Optic-Connectivity">Fiber Management</a></li>
+            <li><a href="/Products/Fiber-Optic-Connectivity/Field-Installable-Connectors">Connectivity Solutions</a></li>
+            <li><a href="/Products/Fusion-Splicing/Field-Fusion-Splicing-Equipment">Fusion Splicers</a></li>
+            <li><a href="/Products/Test-and-Inspection">Test Equipment</a></li>
+        </ul>
+        <p>AFL has a solution for every piece of the fiber optic puzzle and can customize products for unique applications. Whether you are a large company with thousands of employees or a one-person operation, no customer is too big or too small for AFL. If you are looking for a true partner to help you to meet the challenges of a growing fiber optic industry, turn to AFL for high-quality, end-to-end solutions that deliver a competitive advantage.<br />
+         </p>
+    - ID: "56611f02-691a-4096-b044-63aa83122916"
+      Hint: Content
+      Value: |
+        <h2>Whether you need cable, connectivity, equipment or training, AFL can help you meet the challenges of the growing fiber optic industry</h2>
+        <p>Fiber optic infrastructure investment is projected to continue increasing through 2020, creating a wealth of opportunities for installers and contractors within many market verticals. The explosive industry growth is being fueled by consumer demands on bandwidth and their need to access information at a moment&rsquo;s notice.</p>
+        <p>While fiber optic technology has been around for decades, it is now becoming the infrastructure of choice for many business operations including communications, medical, oil and gas, mining, utilities, transportation, security and more. In order to provide the absolute best service possible to customers, integrators and contractors rely on experts to guide them through the process. From training to testing and everything in-between, AFL leads the pack in delivering end-to-end solutions for successful project outcomes.</p>
+        <ul style="color: #333333; background-color: #ffffff; list-style-image: url('/productionFiles/images/bulletRound');">
+            <li><a href="/Products/Fiber-Optic-Cable" style="color: #0091ea; background-color: transparent;">Fiber Optic Cable</a></li>
+            <li><a href="/Products/Fiber-Optic-Connectivity" style="color: #0091ea; background-color: transparent;">Fiber Management</a></li>
+            <li><a href="/Products/Fiber-Optic-Connectivity/Field-Installable-Connectors" style="color: #0091ea; background-color: transparent;">Connectivity Solutions</a></li>
+            <li><a href="/Products/Fusion-Splicing/Field-Fusion-Splicing-Equipment" style="color: #0091ea; background-color: transparent;">Fusion Splicers</a></li>
+            <li><a href="/Products/Test-and-Inspection" style="color: #0091ea; background-color: transparent;">Test Equipment</a></li>
+        </ul>
+        <p>AFL has a solution for every piece of the fiber optic puzzle and can customize products for unique applications. Whether you are a large company with thousands of employees or a one-person operation, no customer is too big or too small for AFL. If you are looking for a true partner to help you to meet the challenges of a growing fiber optic industry, turn to AFL for high-quality, end-to-end solutions that deliver a competitive advantage.</p>
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: installers contractors AFL training testing fiber optic cable solutions technology connectivity components splicers equipment
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: Structured Cabling
+    - ID: "628db04b-29a2-483b-a88c-b8fd9a5f2086"
+      Hint: HeroLink
+      Value: |
+        <link id="{9D9E8D4F-C97E-4963-BAD4-3D576D42BDC5}" querystring="" linktype="internal" text="LEARN MORE" anchor="" url="/AFL-Global/EMEA/Home/Solutions/Enterprise/Structured Cabling" title="" class="" target="|Custom" />
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: Structured Cabling
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a513e28d-a957-4d2f-9fd4-c06fea3605e7"
+    - ID: "93dc88f3-05e5-482d-9b9a-c859c8258a73"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="167973" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/167973/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/structuredcabling?v=0c4549af" stylelabs-content-type="Image" alt="Structured Cabling.jpg" height="369" width="954" />
+    - ID: "a40ebd3d-2b41-41fb-90f7-753544ce77c5"
+      Hint: Hero Title1
+      Value: Structured Cabling
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d8b38dd7-e9a0-4410-9f17-d436b0c8635a"
+      Hint: OpenGraphImageUrl
+      Value: |
+        <image mediaid="{064748B7-7D07-473A-B7C8-76CF966F6FB7}" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T094449Z
+    - ID: "dd0b26a2-9ca3-4573-b501-3b33a6efbc65"
+      Hint: Hero Title2
+      Value: "End-to-end solutions for contractors and installation technicians"
+    - ID: "e3bcfb9e-ac4a-4b80-9ad0-42cf5b48b078"
+      Hint: ProductDescription
+      Value: |
+        <p>
+        AFL has a solution for every piece of the fiber optic puzzle and can customize products for unique applications. Whether you are a large company with thousands of employees or a one-person operation, no customer is too big or too small for AFL. If you are looking for a true partner to help you to meet the challenges of a growing fiber optic industry, turn to AFL for high-quality, end-to-end solutions that deliver a competitive advantage.<br />
+        &nbsp;</p>
+- Language: "es-ES"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211122T092603Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Structured Cabling
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: "Installers and Contractors - From training to testing and everything in-between, let AFL help you meet the challenges of the growing fiber optic industry."
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <h2>Whether you need cable, connectivity, equipment or training, AFL can help you meet the challenges of the growing fiber optic industry</h2>
+        <p>Fiber optic infrastructure investment is projected to continue increasing through 2020, creating a wealth of opportunities for installers and contractors within many market verticals. The explosive industry growth is being fueled by consumer demands on bandwidth and their need to access information at a moment&rsquo;s notice.</p>
+        <p>While fiber optic technology has been around for decades, it is now becoming the infrastructure of choice for many business operations including communications, medical, oil and gas, mining, utilities, transportation, security and more. In order to provide the absolute best service possible to customers, integrators and contractors rely on experts to guide them through the process. From training to testing and everything in-between, AFL leads the pack in delivering end-to-end solutions for successful project outcomes.</p>
+        <ul>
+            <li><a href="/Products/Fiber-Optic-Cable">Fiber Optic Cable</a></li>
+            <li><a href="/Products/Fiber-Optic-Connectivity">Fiber Management</a></li>
+            <li><a href="/Products/Fiber-Optic-Connectivity/Field-Installable-Connectors">Connectivity Solutions</a></li>
+            <li><a href="/Products/Fusion-Splicing/Field-Fusion-Splicing-Equipment">Fusion Splicers</a></li>
+            <li><a href="/Products/Test-and-Inspection">Test Equipment</a></li>
+        </ul>
+        <p>AFL has a solution for every piece of the fiber optic puzzle and can customize products for unique applications. Whether you are a large company with thousands of employees or a one-person operation, no customer is too big or too small for AFL. If you are looking for a true partner to help you to meet the challenges of a growing fiber optic industry, turn to AFL for high-quality, end-to-end solutions that deliver a competitive advantage.<br />
+        &nbsp;</p>
+    - ID: "56611f02-691a-4096-b044-63aa83122916"
+      Hint: Content
+      Value: |
+        <h2>Whether you need cable, connectivity, equipment or training, AFL can help you meet the challenges of the growing fiber optic industry</h2>
+        <p>Fiber optic infrastructure investment is projected to continue increasing through 2020, creating a wealth of opportunities for installers and contractors within many market verticals. The explosive industry growth is being fueled by consumer demands on bandwidth and their need to access information at a moment&rsquo;s notice.</p>
+        <p>While fiber optic technology has been around for decades, it is now becoming the infrastructure of choice for many business operations including communications, medical, oil and gas, mining, utilities, transportation, security and more. In order to provide the absolute best service possible to customers, integrators and contractors rely on experts to guide them through the process. From training to testing and everything in-between, AFL leads the pack in delivering end-to-end solutions for successful project outcomes.</p>
+        <ul style="color: #333333; background-color: #ffffff; list-style-image: url('/productionFiles/images/bulletRound');">
+            <li><a href="/Products/Fiber-Optic-Cable" style="color: #0091ea; background-color: transparent;">Fiber Optic Cable</a></li>
+            <li><a href="/Products/Fiber-Optic-Connectivity" style="color: #0091ea; background-color: transparent;">Fiber Management</a></li>
+            <li><a href="/Products/Fiber-Optic-Connectivity/Field-Installable-Connectors" style="color: #0091ea; background-color: transparent;">Connectivity Solutions</a></li>
+            <li><a href="/Products/Fusion-Splicing/Field-Fusion-Splicing-Equipment" style="color: #0091ea; background-color: transparent;">Fusion Splicers</a></li>
+            <li><a href="/Products/Test-and-Inspection" style="color: #0091ea; background-color: transparent;">Test Equipment</a></li>
+        </ul>
+        <p>AFL has a solution for every piece of the fiber optic puzzle and can customize products for unique applications. Whether you are a large company with thousands of employees or a one-person operation, no customer is too big or too small for AFL. If you are looking for a true partner to help you to meet the challenges of a growing fiber optic industry, turn to AFL for high-quality, end-to-end solutions that deliver a competitive advantage.</p>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mahesh
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: installers contractors AFL training testing fiber optic cable solutions technology connectivity components splicers equipment
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: Structured Cabling
+    - ID: "628db04b-29a2-483b-a88c-b8fd9a5f2086"
+      Hint: HeroLink
+      Value: |
+        <link id="{9D9E8D4F-C97E-4963-BAD4-3D576D42BDC5}" querystring="" linktype="internal" text="LEARN MORE" anchor="" url="/AFL-Global/EMEA/Home/Solutions/Enterprise/Structured Cabling" title="" class="" target="|Custom" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1144e613-556e-4bba-ad32-8d1a23e055b5"
+    - ID: "93dc88f3-05e5-482d-9b9a-c859c8258a73"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image mediaid="{5759863E-C534-4575-AF5A-6461821B2D4C}" />
+    - ID: "a40ebd3d-2b41-41fb-90f7-753544ce77c5"
+      Hint: Hero Title1
+      Value: Structured Cabling
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sripada
+    - ID: "d8b38dd7-e9a0-4410-9f17-d436b0c8635a"
+      Hint: OpenGraphImageUrl
+      Value: |
+        <image mediaid="{064748B7-7D07-473A-B7C8-76CF966F6FB7}" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231206T080550Z
+    - ID: "dd0b26a2-9ca3-4573-b501-3b33a6efbc65"
+      Hint: Hero Title2
+      Value: "End-to-end solutions for contractors and installation technicians"
+    - ID: "e3bcfb9e-ac4a-4b80-9ad0-42cf5b48b078"
+      Hint: ProductDescription
+      Value: |
+        <p>
+        AFL has a solution for every piece of the fiber optic puzzle and can customize products for unique applications. Whether you are a large company with thousands of employees or a one-person operation, no customer is too big or too small for AFL. If you are looking for a true partner to help you to meet the challenges of a growing fiber optic industry, turn to AFL for high-quality, end-to-end solutions that deliver a competitive advantage.<br />
+        &nbsp;</p>
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211122T092603Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Cableado estructurado
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: "Installers and Contractors - From training to testing and everything in-between, let AFL help you meet the challenges of the growing fiber optic industry."
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <h2>Whether you need cable, connectivity, equipment or training, AFL can help you meet the challenges of the growing fiber optic industry</h2>
+        <p>Fiber optic infrastructure investment is projected to continue increasing through 2020, creating a wealth of opportunities for installers and contractors within many market verticals. The explosive industry growth is being fueled by consumer demands on bandwidth and their need to access information at a moment’s notice.</p>
+        <p>While fiber optic technology has been around for decades, it is now becoming the infrastructure of choice for many business operations including communications, medical, oil and gas, mining, utilities, transportation, security and more. In order to provide the absolute best service possible to customers, integrators and contractors rely on experts to guide them through the process. From training to testing and everything in-between, AFL leads the pack in delivering end-to-end solutions for successful project outcomes.</p>
+        <ul>
+            <li><a href="/Products/Fiber-Optic-Cable">Fiber Optic Cable</a></li>
+            <li><a href="/Products/Fiber-Optic-Connectivity">Fiber Management</a></li>
+            <li><a href="/Products/Fiber-Optic-Connectivity/Field-Installable-Connectors">Connectivity Solutions</a></li>
+            <li><a href="/Products/Fusion-Splicing/Field-Fusion-Splicing-Equipment">Fusion Splicers</a></li>
+            <li><a href="/Products/Test-and-Inspection">Test Equipment</a></li>
+        </ul>
+        <p>AFL has a solution for every piece of the fiber optic puzzle and can customize products for unique applications. Whether you are a large company with thousands of employees or a one-person operation, no customer is too big or too small for AFL. If you are looking for a true partner to help you to meet the challenges of a growing fiber optic industry, turn to AFL for high-quality, end-to-end solutions that deliver a competitive advantage.<br />
+         </p>
+    - ID: "56611f02-691a-4096-b044-63aa83122916"
+      Hint: Content
+      Value: |
+        <h2>Whether you need cable, connectivity, equipment or training, AFL can help you meet the challenges of the growing fiber optic industry</h2>
+        <p>Fiber optic infrastructure investment is projected to continue increasing through 2020, creating a wealth of opportunities for installers and contractors within many market verticals. The explosive industry growth is being fueled by consumer demands on bandwidth and their need to access information at a moment&rsquo;s notice.</p>
+        <p>While fiber optic technology has been around for decades, it is now becoming the infrastructure of choice for many business operations including communications, medical, oil and gas, mining, utilities, transportation, security and more. In order to provide the absolute best service possible to customers, integrators and contractors rely on experts to guide them through the process. From training to testing and everything in-between, AFL leads the pack in delivering end-to-end solutions for successful project outcomes.</p>
+        <ul style="color: #333333; background-color: #ffffff; list-style-image: url('/productionFiles/images/bulletRound');">
+            <li><a href="/Products/Fiber-Optic-Cable" style="color: #0091ea; background-color: transparent;">Fiber Optic Cable</a></li>
+            <li><a href="/Products/Fiber-Optic-Connectivity" style="color: #0091ea; background-color: transparent;">Fiber Management</a></li>
+            <li><a href="/Products/Fiber-Optic-Connectivity/Field-Installable-Connectors" style="color: #0091ea; background-color: transparent;">Connectivity Solutions</a></li>
+            <li><a href="/Products/Fusion-Splicing/Field-Fusion-Splicing-Equipment" style="color: #0091ea; background-color: transparent;">Fusion Splicers</a></li>
+            <li><a href="/Products/Test-and-Inspection" style="color: #0091ea; background-color: transparent;">Test Equipment</a></li>
+        </ul>
+        <p>AFL has a solution for every piece of the fiber optic puzzle and can customize products for unique applications. Whether you are a large company with thousands of employees or a one-person operation, no customer is too big or too small for AFL. If you are looking for a true partner to help you to meet the challenges of a growing fiber optic industry, turn to AFL for high-quality, end-to-end solutions that deliver a competitive advantage.</p>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mahesh
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: installers contractors AFL training testing fiber optic cable solutions technology connectivity components splicers equipment
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: Cableado estructurado
+    - ID: "628db04b-29a2-483b-a88c-b8fd9a5f2086"
+      Hint: HeroLink
+      Value: |
+        <link id="{9D9E8D4F-C97E-4963-BAD4-3D576D42BDC5}" querystring="" linktype="internal" text="LEARN MORE" anchor="" url="/AFL-Global/EMEA/Home/Solutions/Enterprise/Structured Cabling" title="" class="" target="|Custom" />
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: Cableado estructurado
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7ddf6c7c-a227-4ae8-b309-c91bf281486b"
+    - ID: "93dc88f3-05e5-482d-9b9a-c859c8258a73"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="167973" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/167973/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/structuredcabling?v=0c4549af" stylelabs-content-type="Image" alt="Structured Cabling.jpg" height="369" width="954" />
+    - ID: "a40ebd3d-2b41-41fb-90f7-753544ce77c5"
+      Hint: Hero Title1
+      Value: Structured Cabling
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "d8b38dd7-e9a0-4410-9f17-d436b0c8635a"
+      Hint: OpenGraphImageUrl
+      Value: |
+        <image mediaid="{064748B7-7D07-473A-B7C8-76CF966F6FB7}" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T094450Z
+    - ID: "dd0b26a2-9ca3-4573-b501-3b33a6efbc65"
+      Hint: Hero Title2
+      Value: "End-to-end solutions for contractors and installation technicians"
+    - ID: "e3bcfb9e-ac4a-4b80-9ad0-42cf5b48b078"
+      Hint: ProductDescription
+      Value: |
+        <p>
+        AFL has a solution for every piece of the fiber optic puzzle and can customize products for unique applications. Whether you are a large company with thousands of employees or a one-person operation, no customer is too big or too small for AFL. If you are looking for a true partner to help you to meet the challenges of a growing fiber optic industry, turn to AFL for high-quality, end-to-end solutions that deliver a competitive advantage.<br />
+        &nbsp;</p>
+- Language: "fr-FR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211122T092603Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Câblage structuré
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: "Installers and Contractors - From training to testing and everything in-between, let AFL help you meet the challenges of the growing fiber optic industry."
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <h2>Whether you need cable, connectivity, equipment or training, AFL can help you meet the challenges of the growing fiber optic industry</h2>
+        <p>Fiber optic infrastructure investment is projected to continue increasing through 2020, creating a wealth of opportunities for installers and contractors within many market verticals. The explosive industry growth is being fueled by consumer demands on bandwidth and their need to access information at a moment’s notice.</p>
+        <p>While fiber optic technology has been around for decades, it is now becoming the infrastructure of choice for many business operations including communications, medical, oil and gas, mining, utilities, transportation, security and more. In order to provide the absolute best service possible to customers, integrators and contractors rely on experts to guide them through the process. From training to testing and everything in-between, AFL leads the pack in delivering end-to-end solutions for successful project outcomes.</p>
+        <ul>
+            <li><a href="/Products/Fiber-Optic-Cable">Fiber Optic Cable</a></li>
+            <li><a href="/Products/Fiber-Optic-Connectivity">Fiber Management</a></li>
+            <li><a href="/Products/Fiber-Optic-Connectivity/Field-Installable-Connectors">Connectivity Solutions</a></li>
+            <li><a href="/Products/Fusion-Splicing/Field-Fusion-Splicing-Equipment">Fusion Splicers</a></li>
+            <li><a href="/Products/Test-and-Inspection">Test Equipment</a></li>
+        </ul>
+        <p>AFL has a solution for every piece of the fiber optic puzzle and can customize products for unique applications. Whether you are a large company with thousands of employees or a one-person operation, no customer is too big or too small for AFL. If you are looking for a true partner to help you to meet the challenges of a growing fiber optic industry, turn to AFL for high-quality, end-to-end solutions that deliver a competitive advantage.<br />
+         </p>
+    - ID: "56611f02-691a-4096-b044-63aa83122916"
+      Hint: Content
+      Value: |
+        <h2>Whether you need cable, connectivity, equipment or training, AFL can help you meet the challenges of the growing fiber optic industry</h2>
+        <p>Fiber optic infrastructure investment is projected to continue increasing through 2020, creating a wealth of opportunities for installers and contractors within many market verticals. The explosive industry growth is being fueled by consumer demands on bandwidth and their need to access information at a moment&rsquo;s notice.</p>
+        <p>While fiber optic technology has been around for decades, it is now becoming the infrastructure of choice for many business operations including communications, medical, oil and gas, mining, utilities, transportation, security and more. In order to provide the absolute best service possible to customers, integrators and contractors rely on experts to guide them through the process. From training to testing and everything in-between, AFL leads the pack in delivering end-to-end solutions for successful project outcomes.</p>
+        <ul style="color: #333333; background-color: #ffffff; list-style-image: url('/productionFiles/images/bulletRound');">
+            <li><a href="/Products/Fiber-Optic-Cable" style="color: #0091ea; background-color: transparent;">Fiber Optic Cable</a></li>
+            <li><a href="/Products/Fiber-Optic-Connectivity" style="color: #0091ea; background-color: transparent;">Fiber Management</a></li>
+            <li><a href="/Products/Fiber-Optic-Connectivity/Field-Installable-Connectors" style="color: #0091ea; background-color: transparent;">Connectivity Solutions</a></li>
+            <li><a href="/Products/Fusion-Splicing/Field-Fusion-Splicing-Equipment" style="color: #0091ea; background-color: transparent;">Fusion Splicers</a></li>
+            <li><a href="/Products/Test-and-Inspection" style="color: #0091ea; background-color: transparent;">Test Equipment</a></li>
+        </ul>
+        <p>AFL has a solution for every piece of the fiber optic puzzle and can customize products for unique applications. Whether you are a large company with thousands of employees or a one-person operation, no customer is too big or too small for AFL. If you are looking for a true partner to help you to meet the challenges of a growing fiber optic industry, turn to AFL for high-quality, end-to-end solutions that deliver a competitive advantage.</p>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mahesh
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: installers contractors AFL training testing fiber optic cable solutions technology connectivity components splicers equipment
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: Câblage structuré
+    - ID: "628db04b-29a2-483b-a88c-b8fd9a5f2086"
+      Hint: HeroLink
+      Value: |
+        <link id="{9D9E8D4F-C97E-4963-BAD4-3D576D42BDC5}" querystring="" linktype="internal" text="LEARN MORE" anchor="" url="/AFL-Global/EMEA/Home/Solutions/Enterprise/Structured Cabling" title="" class="" target="|Custom" />
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: Câblage structuré
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1f2caa31-6d38-4bee-8acf-7f58b3463cac"
+    - ID: "93dc88f3-05e5-482d-9b9a-c859c8258a73"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="167973" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/167973/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/structuredcabling?v=0c4549af" stylelabs-content-type="Image" alt="Structured Cabling.jpg" height="369" width="954" />
+    - ID: "a40ebd3d-2b41-41fb-90f7-753544ce77c5"
+      Hint: Hero Title1
+      Value: Structured Cabling
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d8b38dd7-e9a0-4410-9f17-d436b0c8635a"
+      Hint: OpenGraphImageUrl
+      Value: |
+        <image mediaid="{064748B7-7D07-473A-B7C8-76CF966F6FB7}" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T094450Z
+    - ID: "dd0b26a2-9ca3-4573-b501-3b33a6efbc65"
+      Hint: Hero Title2
+      Value: "End-to-end solutions for contractors and installation technicians"
+    - ID: "e3bcfb9e-ac4a-4b80-9ad0-42cf5b48b078"
+      Hint: ProductDescription
+      Value: |
+        <p>
+        AFL has a solution for every piece of the fiber optic puzzle and can customize products for unique applications. Whether you are a large company with thousands of employees or a one-person operation, no customer is too big or too small for AFL. If you are looking for a true partner to help you to meet the challenges of a growing fiber optic industry, turn to AFL for high-quality, end-to-end solutions that deliver a competitive advantage.<br />
+        &nbsp;</p>

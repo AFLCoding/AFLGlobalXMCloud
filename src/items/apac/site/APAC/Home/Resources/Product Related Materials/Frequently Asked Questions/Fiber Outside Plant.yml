@@ -1,0 +1,76 @@
+﻿---
+ID: "79e4fd24-96da-455d-8b34-bf43a204079e"
+Parent: "ffc48f9e-7756-4a9c-abe4-68b4d0710c62"
+Template: "bf61de11-b78f-48ea-aaa4-1d17f0d83824"
+Path: /sitecore/content/AFLGlobal/APAC/Home/Resources/Product Related Materials/Frequently Asked Questions/Fiber Outside Plant
+SharedFields:
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{274C9F86-81B9-4FFC-87CA-8B19AB3A526D}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220125T100058Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Fiber Outside Plant
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kushagra
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: AFL Fiber Outside Plant frequently asked questions submitted by customers.
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <h1>FAQ: Fiber Outside Plant</h1>
+        <p>Fiber Outside Plant<br />
+        AFL offers customized solutions for demanding applications and environments. Our products include field-tested closures, enclosures, splice trays and fiber storage units. <br />
+        <br />
+        Below are the FAQs submitted by customers regarding the Fiber Inside Plant product line.</p>
+        <ul>
+            <li><a href=" /Resources/Frequently-Asked-Questions/Fiber-Outside-Plant #q1">What connector types are available in the AFL Integrated Distribution Enabling Access Apparatus (IDEAA) platform?</a></li>
+            <li><a href=" /Resources/Frequently-Asked-Questions/Fiber-Outside-Plant #q2">Does AFL offer MDU solutions?</a></li>
+            <li><a href=" /Resources/Frequently-Asked-Questions/Fiber-Outside-Plant #q3">Do fiber demarcation boxes offer UV protection?</a></li>
+        </ul>
+        <br />
+        <h3>IDEAA- Distribution Platform</h3>
+        <br />
+        <a name="q1"></a>
+        <p>Q: What connector types are available in the AFL Integrated Distribution Enabling Access Apparatus (IDEAA) platform?<br />
+        A: The AFL IDEAA module is available in two connector configurations: IDEAA SC and IDEAA MPO. The IDEAA SC module accommodates up to 32 fiber distributions through the use of APC style connectors. The IDEAA MPO module accommodates up to 96 fiber distribution through the use of mass deployment technology.</p>
+        <h3>OptiNID Fiber Demarcation</h3>
+        <br />
+        <p><a name="q2"></a>Q: Does AFL offer MDU solutions?<br />
+        A: AFL offers a variety of MDU solutions for the telecommunications industry. Contact your local representative through Customer Service at +1 (800) 235-3423 to discuss product and opportunity.</p>
+        <p><a name="q3"></a>Q: Do fiber demarcation boxes offer UV protection?<br />
+        A: AFL offers the OptiNID Fiber Demarcation product line, which is constructed from a UV stabilized material.</p>
+        <div> </div>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kushagra
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: Fiber Outside Plant AFL products frequently asked questions FAQ
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: Fiber Outside Plant
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: Fiber Outside Plant
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "331cdc35-bb28-430b-b067-c9492cb4115d"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\pawan.tyagi@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240316T041303Z

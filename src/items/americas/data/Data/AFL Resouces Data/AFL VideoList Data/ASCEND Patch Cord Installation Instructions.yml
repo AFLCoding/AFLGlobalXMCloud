@@ -1,0 +1,283 @@
+﻿---
+ID: "55262612-3fc7-4a12-82b1-0bd0bb6c0927"
+Parent: "43bb2b16-b4b1-4f66-a9ae-85faa3e7605f"
+Template: "2893fa48-e32b-4a62-be28-2389643c09bc"
+Path: "/sitecore/content/AFL-Global/AMERICAS/Data/AFL Resouces Data/AFL VideoList Data/ASCEND Patch Cord Installation Instructions"
+Languages:
+- Language: "de-DE"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220101T213011Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Abhishek
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kushagra
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "146c1696-7f22-4401-9c66-63655f2b41fb"
+    - ID: "a6703c78-a7f9-43e5-bda1-4319c53ca485"
+      Hint: VideoImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="237955" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/237955/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/101b82f0b7914f9aab64710637751357?v=44579ade" stylelabs-content-type="Image" alt="Video_Icon.png" height="287" width="339" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "c7606be7-7b4d-4b10-beb1-37105934e9c2"
+      Hint: VideoName
+      Value: ASCEND Patch Cord Installation Instructions
+    - ID: "cc39e4d4-9c1a-446c-940c-fae85c60a139"
+      Hint: VideoUrl
+      Value: |
+        <link text="PLAY VIDEO" linktype="external" url="https://youtu.be/Ph_GQepCKuI" anchor="" target="_blank" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231212T090156Z
+    - ID: "f049ad62-07b5-434b-95c2-056171420f06"
+      Hint: VideoCategory
+      Value: Video
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220101T213011Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kushagra
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kushagra
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "45c80986-d480-45e2-8ca1-b4c88e5028bd"
+    - ID: "a6703c78-a7f9-43e5-bda1-4319c53ca485"
+      Hint: VideoImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="237955" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/237955/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/101b82f0b7914f9aab64710637751357?v=44579ade" stylelabs-content-type="Image" alt="Video_Icon.png" height="287" width="339" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rob
+    - ID: "c7606be7-7b4d-4b10-beb1-37105934e9c2"
+      Hint: VideoName
+      Value: ASCEND Patch Cord Installation Instructions
+    - ID: "cc39e4d4-9c1a-446c-940c-fae85c60a139"
+      Hint: VideoUrl
+      Value: |
+        <link text="PLAY VIDEO" linktype="external" url="https://youtu.be/Ph_GQepCKuI" anchor="" target="_blank" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220506T124336Z
+    - ID: "f049ad62-07b5-434b-95c2-056171420f06"
+      Hint: VideoCategory
+      Value: Video
+- Language: "es-ES"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220101T213011Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Abhishek
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kushagra
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f2efa002-2c36-4555-8d19-8d52b499151b"
+    - ID: "a6703c78-a7f9-43e5-bda1-4319c53ca485"
+      Hint: VideoImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="237955" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/237955/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/101b82f0b7914f9aab64710637751357?v=44579ade" stylelabs-content-type="Image" alt="Video_Icon.png" height="287" width="339" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "c7606be7-7b4d-4b10-beb1-37105934e9c2"
+      Hint: VideoName
+      Value: ASCEND Patch Cord Installation Instructions
+    - ID: "cc39e4d4-9c1a-446c-940c-fae85c60a139"
+      Hint: VideoUrl
+      Value: |
+        <link text="PLAY VIDEO" linktype="external" url="https://youtu.be/Ph_GQepCKuI" anchor="" target="_blank" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231212T090117Z
+    - ID: "f049ad62-07b5-434b-95c2-056171420f06"
+      Hint: VideoCategory
+      Value: Video
+- Language: "es-MX"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220101T213011Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kushagra
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ea87d2a5-4af2-434e-842b-5774a40ef923"
+    - ID: "a6703c78-a7f9-43e5-bda1-4319c53ca485"
+      Hint: VideoImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="237955" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/237955/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/101b82f0b7914f9aab64710637751357?v=44579ade" stylelabs-content-type="Image" alt="Video_Icon.png" height="287" width="339" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "c7606be7-7b4d-4b10-beb1-37105934e9c2"
+      Hint: VideoName
+      Value: ASCEND Patch Cord Installation Instructions
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "cc39e4d4-9c1a-446c-940c-fae85c60a139"
+      Hint: VideoUrl
+      Value: |
+        <link text="PLAY VIDEO" linktype="external" url="https://youtu.be/Ph_GQepCKuI" anchor="" target="_blank" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231212T085841Z
+    - ID: "f049ad62-07b5-434b-95c2-056171420f06"
+      Hint: VideoCategory
+      Value: Video
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220101T213011Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kushagra
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "46a45330-74c8-4d02-8d00-96530353df18"
+    - ID: "a6703c78-a7f9-43e5-bda1-4319c53ca485"
+      Hint: VideoImage
+      Value: |
+        <image mediaid="{D97C1456-FE0D-4A51-B2D3-41410A817124}" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahesh
+    - ID: "c7606be7-7b4d-4b10-beb1-37105934e9c2"
+      Hint: VideoName
+      Value: "Introduction to the AFL OFI-BIPM"
+    - ID: "cc39e4d4-9c1a-446c-940c-fae85c60a139"
+      Hint: VideoUrl
+      Value: |
+        <link text="PLAY VIDEO" linktype="external" url="https://www.youtube.com/watch?v=uoZtAkUUkU8" anchor="" target="_blank" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220215T094840Z
+    - ID: "f049ad62-07b5-434b-95c2-056171420f06"
+      Hint: VideoCategory
+      Value: Video
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220101T213011Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kushagra
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2d09a605-7f14-4f36-aec4-7c9af52bbe34"
+    - ID: "a6703c78-a7f9-43e5-bda1-4319c53ca485"
+      Hint: VideoImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="237955" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/237955/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/101b82f0b7914f9aab64710637751357?v=44579ade" stylelabs-content-type="Image" alt="Video_Icon.png" height="287" width="339" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "c7606be7-7b4d-4b10-beb1-37105934e9c2"
+      Hint: VideoName
+      Value: ASCEND Patch Cord Installation Instructions
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "cc39e4d4-9c1a-446c-940c-fae85c60a139"
+      Hint: VideoUrl
+      Value: |
+        <link text="PLAY VIDEO" linktype="external" url="https://youtu.be/Ph_GQepCKuI" anchor="" target="_blank" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231212T085841Z
+    - ID: "f049ad62-07b5-434b-95c2-056171420f06"
+      Hint: VideoCategory
+      Value: Video
+- Language: "fr-FR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220101T213011Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Abhishek
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kushagra
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "670f580c-907a-478a-ac94-f4486ed646ea"
+    - ID: "a6703c78-a7f9-43e5-bda1-4319c53ca485"
+      Hint: VideoImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="237955" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/237955/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/101b82f0b7914f9aab64710637751357?v=44579ade" stylelabs-content-type="Image" alt="Video_Icon.png" height="287" width="339" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "c7606be7-7b4d-4b10-beb1-37105934e9c2"
+      Hint: VideoName
+      Value: ASCEND Patch Cord Installation Instructions
+    - ID: "cc39e4d4-9c1a-446c-940c-fae85c60a139"
+      Hint: VideoUrl
+      Value: |
+        <link text="PLAY VIDEO" linktype="external" url="https://youtu.be/Ph_GQepCKuI" anchor="" target="_blank" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231212T090035Z
+    - ID: "f049ad62-07b5-434b-95c2-056171420f06"
+      Hint: VideoCategory
+      Value: Video

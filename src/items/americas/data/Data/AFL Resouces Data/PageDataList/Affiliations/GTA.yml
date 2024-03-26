@@ -1,0 +1,154 @@
+﻿---
+ID: "8da06092-adf0-45a1-98b4-cf9909ee9467"
+Parent: "4ad5fe1b-c73a-493d-bb41-e70bc49de7e3"
+Template: "38f171ae-e199-410f-9a56-8e0e4433111e"
+Path: "/sitecore/content/AFL-Global/AMERICAS/Data/AFL Resouces Data/PageDataList/Affiliations/GTA"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0b2c42c5-a801-4d58-99a7-94d53aa09d34"
+      Hint: PageItemUrl
+      Value: |
+        <link text="Georgia Telephone Association (GTA)" linktype="external" url="http://www.gta.org/" anchor="" target="_blank" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211226T093743Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\archana
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\archana
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a597bd30-f673-4140-bb6b-6b2ab217c102"
+    - ID: "97cbee95-7bbc-42da-b0f5-3e15b4d914f0"
+      Hint: PageItemImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="168222" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/168222/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/gta?v=7c71530e" stylelabs-content-type="Image" alt="GTA.png" height="100" width="100" />
+    - ID: "a2b5de22-5ad8-4740-a215-0b022607eb8a"
+      Hint: PageItemName
+      Value: Georgia Telephone Association (GTA)
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rob
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220727T173315Z
+- Language: "es-MX"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0b2c42c5-a801-4d58-99a7-94d53aa09d34"
+      Hint: PageItemUrl
+      Value: |
+        <link linktype="external" url="http://www.gta.org/" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211226T093743Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\archana
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7381686f-f306-46ae-9ee8-076442a61eb4"
+    - ID: "97cbee95-7bbc-42da-b0f5-3e15b4d914f0"
+      Hint: PageItemImage
+      Value: |
+        <image mediaid="{546F7D2E-5ED2-4D81-8D6B-47AB3C9ABCA5}" />
+    - ID: "a2b5de22-5ad8-4740-a215-0b022607eb8a"
+      Hint: PageItemName
+      Value: Georgia Telephone Association (GTA)
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahesh
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220215T130331Z
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0b2c42c5-a801-4d58-99a7-94d53aa09d34"
+      Hint: PageItemUrl
+      Value: |
+        <link linktype="external" url="http://www.gta.org/" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211226T093743Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\archana
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d1148a72-9d89-4796-bc16-987ca1713a6a"
+    - ID: "97cbee95-7bbc-42da-b0f5-3e15b4d914f0"
+      Hint: PageItemImage
+      Value: |
+        <image mediaid="{546F7D2E-5ED2-4D81-8D6B-47AB3C9ABCA5}" />
+    - ID: "a2b5de22-5ad8-4740-a215-0b022607eb8a"
+      Hint: PageItemName
+      Value: Georgia Telephone Association (GTA)
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahesh
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220215T094905Z
+  - Version: 2
+    Fields:
+    - ID: "0b2c42c5-a801-4d58-99a7-94d53aa09d34"
+      Hint: PageItemUrl
+      Value: |
+        <link linktype="external" url="http://www.gta.org/" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211226T093743Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\archana
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f751cfe0-45ea-44a5-9097-dcc50ac7c7f1"
+    - ID: "97cbee95-7bbc-42da-b0f5-3e15b4d914f0"
+      Hint: PageItemImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="168222" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/168222/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/gta?v=7c71530e" stylelabs-content-type="Image" alt="GTA.png" height="100" width="100" />
+    - ID: "a2b5de22-5ad8-4740-a215-0b022607eb8a"
+      Hint: PageItemName
+      Value: Georgia Telephone Association (GTA)
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahesh
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220310T075440Z

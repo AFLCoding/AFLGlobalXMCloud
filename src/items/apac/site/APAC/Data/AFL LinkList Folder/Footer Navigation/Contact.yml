@@ -1,0 +1,42 @@
+﻿---
+ID: "06ae7186-fc18-493f-a599-2823284cecfd"
+Parent: "5728ef6e-513f-4403-a620-cba23ce4c618"
+Template: "60d25f33-2d41-47e5-b2f8-605ea5168daf"
+Path: /sitecore/content/AFLGlobal/APAC/Data/AFL LinkList Folder/Footer Navigation/Contact
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 1000
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0b76a3cf-fb07-42d8-8b0c-8a3fcfd5d586"
+      Hint: Title
+      Value: Contact
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220202T155654Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\archana
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\archana
+    - ID: "5f32ce78-6536-4244-a7a2-8d5a586d6a98"
+      Hint: LinkTitle
+      Value: |
+        <link text="Contact" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{6BF154E8-9513-4EB9-88A3-3D422659D06F}" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "eda9a024-0448-4079-bd1e-79afe9353b1e"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\pawan.tyagi@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240319T110606Z

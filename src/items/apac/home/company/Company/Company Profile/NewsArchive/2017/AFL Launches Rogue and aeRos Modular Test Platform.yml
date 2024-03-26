@@ -1,0 +1,97 @@
+﻿---
+ID: "3ddeff19-85bc-4c0f-916e-0f0990cf4fc7"
+Parent: "2a8de75c-c1d9-4905-9280-744f7c96c861"
+Template: "f36e821e-bb98-44dc-966d-e92a0e033cc7"
+Path: "/sitecore/content/AFL-Global/APAC/Home/Company/Company Profile/NewsArchive/2017/AFL Launches Rogue and aeRos Modular Test Platform"
+SharedFields:
+- ID: "1fbc6a49-6281-48ee-87e9-a3970b145adb"
+  Hint: NavigationFilter
+  Value: |
+    {E0A2A027-0932-4878-A7D6-0416D5263EFB}
+    {61BD64D6-809E-40AE-9297-2724A19329B3}
+    {D063E9D1-C7B5-4B1E-B31E-69886C9C59F5}
+    {500AE4C0-FA7B-463F-8149-EFFF7F044101}
+    {A0E7FF57-6994-4B09-AA21-104239628D5A}
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{3A84BAC9-C1BD-4809-A12C-28EB44E25329}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{DAE7C21D-4D3B-4257-A95C-9104CD8AF409}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "228f9517-e120-4014-b2c7-df0ac467a349"
+      Hint: ContentTitle
+      Value: AFL Launches Rogue and aeRos Modular Test Platform
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211223T194208Z
+    - ID: "3688d7df-2feb-43a4-ab8d-410e5f70a676"
+      Hint: ContentDescription
+      Value: |
+        Lowell, MA and Spartanburg, SC – AFL is officially launching the <a href="~/link.aspx?_id=2EE02DB2F84C471FA98E5F3354935C40&_z=z">Rogue</a> and <a href="~/link.aspx?_id=4C1A455A2E234F3A968C0A26C07049A8&_z=z">aeRos</a> platform, a suite of modular test products and cloud-based software built around the way fiber optic networks are built, operated and maintained. By using the Rogue base, individual test modules are snapped in, test apps are launched and Rogue’s intuitive user interface does the rest. Rogue works with smart phones and tablets to take advantage of the best user interfaces currently available. The new platform will be demonstrated at <a href="https://www.bicsi.org/winter/2017/default.aspx">BICSI Winter 2017</a> in Tampa at booth #927.<br />
+         <br />
+        “We started with a clean slate and designed a solution from the ground up,” explained Rob Gilberti, senior product marketing manager for AFL’s Test & Inspection division. “By eliminating the baggage associated with legacy systems, we were able to leverage the most powerful technologies to create a flexible and scalable solution that addresses the business challenges of our customers.” <br />
+         <br />
+        <a href="https://www.aflglobal.com/Products/Test-and-Inspection/Rogue.aspx">Rogue</a> is an open, flexible, ruggedly built modular test platform that enables customers to select the functionality needed including Tier 1 Certification, fiber end-face inspection and multi-fiber MPO certification. The platform provides a familiar and intuitive user interface using test modules to create the test capability that a technician requires for a specific job. AFL’s patent-pending design enables technicians to control their test hardware with or without a smart device.  <br />
+         <br />
+        <a href="https://www.aflglobal.com/Products/Test-and-Inspection/Rogue.aspx">Rogue</a> integrates seamlessly with aeRos, a cloud-based, comprehensive workflow and data management solution. With aeRos, users can integrate every aspect of their workflow for greater savings including setting up jobs and equipment before trucks ever roll, interacting with technicians in real time, collecting and analyzing data in the cloud and issuing reports more efficiently.<br />
+         <br />
+        Every aspect of the testing process is more efficient with aeRos. Through centralized workflow and data management, coordinating with field technicians is simpler and more cost-effective. Jobs can be organized from anywhere in the world and pushed remotely to field equipment allowing technicians to test with the push of a button. Test data and project updates automatically synchronize.<br />
+         <br />
+        For additional information about AFL, its products and services, visit <a href="http://www.aflglobal.com/">www.AFLglobal.com</a>.  <br />
+         <br />
+        About AFL<br />
+        Founded in 1984, AFL is an international manufacturer providing end-to-end solutions to the energy, service provider, enterprise and industrial markets as well as several emerging markets. The company’s products are in use in over 130 countries and include fiber optic cable and hardware, transmission and substation accessories, outside plant equipment, connectivity, test and inspection equipment, fusion splicers and training. AFL also offers a wide variety of services supporting data center, enterprise, wireless, and outside plant applications.<br />
+        <br />
+        Headquartered in Spartanburg, SC, AFL has operations in the U.S., Mexico, Canada, Europe, Asia and Australia, and is a wholly-owned subsidiary of Fujikura Ltd. of Japan. For more information, visit <a href="http://www.aflglobal.com/">www.AFLglobal.com</a>. <br />
+        <br />
+        Contacts<br />
+        Rob Gilberti<br />
+        Senior Product Marketing Manager<br />
+        AFL Test & Inspection Division<br />
+        978-455-9215<br />
+        <a href="mailto:Rob.Gilberti@AFLglobal.com">Rob.Gilberti@AFLglobal.com</a>   <br />
+        <br />
+        Corie Culp<br />
+        Public Relations Manager<br />
+        AFL<br />
+        864-433-5409<br />
+        <a href="mailto:Corie.Culp@AFLglobal.com">Corie.Culp@AFLglobal.com</a>
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: AFL Launches Rogue and aeRos Modular Test Platform
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\tanishka
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\tanishka
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: AFL Launches Rogue and aeRos Modular Test Platform
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: AFL Launches Rogue and aeRos Modular Test Platform
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "be46885f-fcde-44ea-bbdd-3da2ff8ecbd5"
+    - ID: "9dd4f0d9-c123-47a8-8cef-2c85cea172f6"
+      Hint: ContentImage
+      Value: |
+        <image mediaid="{9A9E24E8-B589-4683-A71A-9671F13A6CEC}" />
+    - ID: "a6eaffd5-fc3e-41b4-93b3-f1721fcf2300"
+      Hint: ContentPublishedDate
+      Value: 20170119T183000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T101842Z

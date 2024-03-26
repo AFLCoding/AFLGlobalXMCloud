@@ -1,0 +1,222 @@
+﻿---
+ID: "684cf6a9-4164-4edb-8771-e5f584968199"
+Parent: "1c1ee144-dc0c-4973-9f10-0a03d243bf10"
+Template: "bf61de11-b78f-48ea-aaa4-1d17f0d83824"
+Path: "/sitecore/content/AFL-Global/EMEA/Home/Company/Environment Health Safety/Safety Record"
+SharedFields:
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{9B9150CA-F788-45F7-B378-77F936EC878B}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{DAE7C21D-4D3B-4257-A95C-9104CD8AF409}"
+Languages:
+- Language: "de-DE"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211222T135356Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Safety Record
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\matt
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: "AFL's Safety Record / Injury Report - Comparisons of BLS versus AFL, DART and TRIR."
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <h1>Safety Record</h1>
+        <p>AFL has aggressive injury reduction plans. Our goal is to become an injury free work place.</p>
+        <h2>Please check back soon for more information.</h2>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\harry
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: Environmental Health Safety record AFL BLS DART TRIR
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: Sicherheitsprotokoll
+    - ID: "628db04b-29a2-483b-a88c-b8fd9a5f2086"
+      Hint: HeroLink
+      Value: |
+        <link id="{8C16760A-C517-42DC-898B-566CBA41FB34}" querystring="" target="|Custom" text="LEARN MORE" anchor="" title="" class="" url="/AFL-Global/AMERICAS/Home/Company/Environment Health Safety/Safety Record" linktype="internal" />
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: Sicherheitsprotokoll
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4d96cdcd-50dd-4224-8142-8bab9a781e31"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T100854Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211222T135356Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Safety Record
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\harry
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: "AFL's Safety Record / Injury Report - Comparisons of BLS versus AFL, DART and TRIR."
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <h1>Safety Record</h1>
+        <p>AFL has aggressive injury reduction plans. Our goal is to become an injury free work place.</p>
+        <h2>Please check back soon for more information.</h2>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\harry
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: Environmental Health Safety record AFL BLS DART TRIR
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: Safety Record
+    - ID: "628db04b-29a2-483b-a88c-b8fd9a5f2086"
+      Hint: HeroLink
+      Value: |
+        <link id="{8C16760A-C517-42DC-898B-566CBA41FB34}" querystring="" target="|Custom" text="LEARN MORE" anchor="" title="" class="" url="/AFL-Global/AMERICAS/Home/Company/Environment Health Safety/Safety Record" linktype="internal" />
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: Safety Record
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "362a021d-da18-42d7-be39-ffb2124447f8"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T100853Z
+- Language: "es-ES"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211222T135356Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Safety Record
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\matt
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: "AFL's Safety Record / Injury Report - Comparisons of BLS versus AFL, DART and TRIR."
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <h1>Safety Record</h1>
+        <p>AFL has aggressive injury reduction plans. Our goal is to become an injury free work place.</p>
+        <h2>Please check back soon for more information.</h2>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\harry
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: Environmental Health Safety record AFL BLS DART TRIR
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: Registro de seguridad
+    - ID: "628db04b-29a2-483b-a88c-b8fd9a5f2086"
+      Hint: HeroLink
+      Value: |
+        <link id="{8C16760A-C517-42DC-898B-566CBA41FB34}" querystring="" target="|Custom" text="LEARN MORE" anchor="" title="" class="" url="/AFL-Global/AMERICAS/Home/Company/Environment Health Safety/Safety Record" linktype="internal" />
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: Registro de seguridad
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9ee0b9cd-9e1a-422b-9dc1-ba9f6bc16080"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T100854Z
+- Language: "fr-FR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211222T135356Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Safety Record
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\matt
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: "AFL's Safety Record / Injury Report - Comparisons of BLS versus AFL, DART and TRIR."
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <h1>Safety Record</h1>
+        <p>AFL has aggressive injury reduction plans. Our goal is to become an injury free work place.</p>
+        <h2>Please check back soon for more information.</h2>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\harry
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: Environmental Health Safety record AFL BLS DART TRIR
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: Fiche de sécurité
+    - ID: "628db04b-29a2-483b-a88c-b8fd9a5f2086"
+      Hint: HeroLink
+      Value: |
+        <link id="{8C16760A-C517-42DC-898B-566CBA41FB34}" querystring="" target="|Custom" text="LEARN MORE" anchor="" title="" class="" url="/AFL-Global/AMERICAS/Home/Company/Environment Health Safety/Safety Record" linktype="internal" />
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: Fiche de sécurité
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "79e53334-941c-4898-b44e-693d83881183"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231213T100854Z

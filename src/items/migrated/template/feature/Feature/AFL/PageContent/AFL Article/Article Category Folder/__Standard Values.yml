@@ -1,0 +1,33 @@
+﻿---
+ID: "f1a24078-6780-430b-9174-f8b42a13c3ab"
+Parent: "92657610-1bd2-471d-af13-73cefad5ff7a"
+Template: "92657610-1bd2-471d-af13-73cefad5ff7a"
+Path: /sitecore/templates/Feature/AFL/PageContent/AFL Article/Article Category Folder/__Standard Values
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {CAF76CAA-6EF5-40D7-A95E-2D34AA3E980E}
+    {92657610-1BD2-471D-AF13-73CEFAD5FF7A}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211118T084447Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4b8a3050-b981-42d8-bf17-aed5ac771a2d"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        serialization\UnicornDataProvider
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240229T052235Z
