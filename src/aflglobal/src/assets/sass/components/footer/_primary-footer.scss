@@ -3,101 +3,137 @@
 
 $primaryFooter: ".primary-footer";
 
-#{$primaryFooter}{
+#{$primaryFooter} {
   background-color: $bg-primary-gray;
-  padding:var(--space-120) var(--size-0);
+  padding: var(--space-120) var(--size-0);
 
-  &__width{
-    inline-size:var(--size-950);
+  &__width {
+    inline-size: var(--size-950);
   }
- 
-  &__list{
+
+  &__list {
     height: inherit;
     margin: var(--size-0) $small-margin var(--size-0) var(--size-0);
     padding: var(--size-0) var(--size-0) var(--size-0) $normal-padding;
 
-    &:not(:last-child){
-      
-    border-left: var(--border-width-200) solid $bg-basic-color-active;
+    &:not(:last-child) {
+
+      border-left: var(--border-width-200) solid $bg-basic-color-active;
     }
 
     @include respond-to(mobile-horizontal) {
-        flex-basis: calc(var(--width-50) - var(--size-80));
-        border-left: var(--border-width-200) solid $bg-basic-color-active;
-        border-color: var(--gray-350);
-        padding: $size-padding 0 $size-padding $small-margin;
+      flex-basis: calc(var(--width-50) - var(--size-80));
+      border-left: var(--border-width-200) solid $bg-basic-color-active;
+      border-color: var(--gray-350);
+      padding: $size-padding 0 $size-padding $small-margin;
 
-        &:nth-child(odd){
-          border:none
+      &:nth-child(odd) {
+        border: none
       }
-      &:nth-child(even){
-          padding-left: var(--size-80);
+
+      &:nth-child(even) {
+        padding-left: var(--size-80);
       }
     }
   }
 
-  &__heading-empty{
+  &__heading-empty {
     margin-bottom: var(--size-0);
 
     @include respond-to(mobile-horizontal) {
-        display: none;
+      display: none;
     }
-}  
-  &__link{
-    color:$text-light-grey;
-    display:block;
-    text-decoration:none; 
   }
-  
-  &__heading{
-    width:max-content;
+
+  &__link {
+    color: $text-light-grey;
+    display: block;
+    text-decoration: none;
+  }
+
+  &__heading {
+    width: max-content;
+
     @include respond-to(mobile-horizontal) {
-        margin-bottom: var(--size-0);
-      }
-    &-link{    
+      margin-bottom: var(--size-0);
+    }
+
+    &-link {
       letter-spacing: var(--letter-spacing-290);
       font-size: var(--font-size-130);
-      margin-bottom:$medium-margin;
-      text-transform:uppercase;
+      margin-bottom: $medium-margin;
+      text-transform: uppercase;
       position: relative;
 
-      &:hover{
-          color: $text-light-grey;
+      &:hover {
+        color: $text-light-grey;
       }
 
       @include respond-to(mobile-horizontal) {
-        margin-bottom: var(--size-0) ;
+        margin-bottom: var(--size-0);
       }
 
-      &::after{
+      &::after {
         @include respond-to(mobile-horizontal) {
-            content: '';
-            display: block;
-            position: absolute;
-            top: var(--space-1);
-            right:  -$middle-margin;
-            width: var(--size-0);
-            height: var(--size-0);
-            border: $extra-small-width solid transparent;
-            border-left-width: $small-width;
-            border-left-color: var(--grey-320);
+          content: '';
+          display: block;
+          position: absolute;
+          top: var(--space-1);
+          right: -$middle-margin;
+          width: var(--size-0);
+          height: var(--size-0);
+          border: $extra-small-width solid transparent;
+          border-left-width: $small-width;
+          border-left-color: var(--grey-320);
         }
       }
     }
   }
 
-  &__content{
+  &__content {
     font-size: var(--font-size-140);
     line-height: var(--line-height-45);
 
-    &:hover{
+    &:hover {
       color: $text-blue;
       text-decoration: underline;
     }
   }
- &__social-icon{
 
- }
+  &__social-icon {
+    .footer-logo {
+      margin-bottom: var(--space-60);
+    }
+
+    .mediaIcons {
+      margin-bottom: var(--size-60);
+
+      a img {
+        width: var(--size-90) !important;
+        margin: var(--size-12) var(--size-20) var(--size-9) var(--size-0);
+        -o-object-fit: contain;
+        object-fit: contain;
+        height: var(--size-90) !important;
+      }
+    }
+
+    .mediaIcons,
+    .contactNumber {
+      h6 {
+        font-size: var(--size-52);
+        color: var(--grey-320);
+        text-decoration: none;
+        font-weight: bold;
+      }
+    }
+
+    .contactNumber a {
+      font-weight: bold;
+      margin-left: var(--size-10);
+      font-size: var(--size-52);
+      color: $text-light-grey;
+      text-decoration: none;
+    }
+  }
+
 }
-
-

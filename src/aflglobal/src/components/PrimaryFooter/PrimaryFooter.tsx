@@ -11,7 +11,6 @@ const PrimaryFooter = () => {
   const primaryFooterSocialIcon =
     footerData.sitecore.route.placeholders['headless-footer'][0].placeholders['sxa-footer'][1]
       .fields.Text;
-  // console.log(primaryFooterLogo, 'hello');
   return (
     <div className={`container-fluid ${block}`}>
       <div className={`footer row mx-auto ${block}__width`}>
