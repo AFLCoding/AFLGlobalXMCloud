@@ -22,7 +22,7 @@ SharedFields:
           uid="{CACA7850-0F99-4A5C-BE98-7698B3E84EA6}"
           s:ds="{455EF0C4-F5B1-4A03-927C-9745BF9E6E99}"
           s:id="{6F646C2F-8611-4D9A-ACCC-847F6A2F2520}"
-          s:par="CSSStyles"
+          s:par="GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames=%7B1D861643-80AD-455D-9FD5-BA24FA968F7C%7D&amp;Styles&amp;CSSStyles=full-width-component"
           s:ph="headless-main" />
       </d>
     </r>
@@ -44,11 +44,11 @@ Languages:
         sitecore\pawan.tyagi@altudo.co
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "c5c11f2f-5199-45fa-b53d-215aad2c3b9d"
+      Value: "a4b1ed1a-2c85-427a-b8e9-a0031a85ff59"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\pawan.tyagi@altudo.co
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20240319T115945Z
+      Value: 20240327T092305Z
