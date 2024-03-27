@@ -81,19 +81,19 @@ $max-width: 960px;
     }
 
     @if $media==sm {
-        @media only screen and (min-width: $break-sm) {
+        @media only screen and (max-width: $break-sm) {
             @content;
         }
     }
 
     @else if $media==md {
-        @media only screen and (min-width: $break-md) {
+        @media only screen and (max-width: $break-md) {
             @content;
         }
     }
 
     @else if $media==lg {
-        @media only screen and (min-width: $break-lg) {
+        @media only screen and (max-width: $break-lg) {
             @content;
         }
     }

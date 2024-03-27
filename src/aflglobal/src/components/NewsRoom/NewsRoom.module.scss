@@ -1,0 +1,14 @@
+@import '/src/assets/sass/abstracts/vars';
+
+.newsRoomContainer {
+  background-color: $bg-light-gray-1;
+  border-radius: $border-radius-26;
+  padding: $large-padding;
+  margin: 20px;
+
+  .newsItems {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2rem;
+  }
+}
