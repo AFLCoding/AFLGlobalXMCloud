@@ -1,6 +1,6 @@
 import React from 'react';
 import styles from './CTA.module.scss';
-import Link from 'next/link'; 
+import Link from 'next/link';
 
 type CTACustomProps = {
   href?: string;
