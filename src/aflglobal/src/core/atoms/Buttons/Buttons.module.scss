@@ -1,0 +1,55 @@
+@import '/src/assets/sass/abstracts/vars';
+
+.hamburgerButton {
+  position: absolute;
+  z-index: 99;
+  width: $size-58;
+  height: $size-48;
+  right: $medium-margin;
+  top: 0;
+  background-color: $text-blue-darker;
+  border-radius: 0 0 $border-radius-10 $border-radius-10;
+  display: inline-block;
+  cursor: pointer;
+  .menuIcon {
+    display: block;
+    height: $size-3;
+    width: $size-24;
+    background: $bg-basic-color;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+    transition: transform 0.2s ease-in-out;
+    &.open {
+      transform: rotate($angle-90);
+      background: transparent;
+      &:before {
+        top: 0;
+        transform: rotate($angle-45);
+      }
+      &:after {
+        top: 0;
+        transform: rotate(-$angle-45);
+      }
+    }
+    &:before,
+    &:after {
+      content: '';
+      display: block;
+      height: $size-3;
+      width: 100%;
+      position: absolute;
+      background: $bg-basic-color;
+      transition: 0.2s ease-in-out;
+    }
+    &:before {
+      top: -$space-8;
+    }
+    &:after {
+      top: $space-8;
+    }
+  }
+}

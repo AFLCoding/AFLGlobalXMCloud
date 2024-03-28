@@ -1,0 +1,33 @@
+@import '/src/assets/sass/abstracts/vars';
+
+.mainNavigation {
+  display: flex;
+  flex: auto;
+  justify-content: flex-end;
+  padding: 0 $space-25;
+  .navigationItems {
+    padding: 0;
+    margin: 0;
+    display: flex;
+    gap: $space-20;
+    .navigationItem {
+      .navigationLink {
+        display: block;
+        font-size: $breadcrumb-font;
+        font-weight: 600;
+        padding-top: $space-12;
+        padding-bottom: $space-20;
+        color: $text-gray-6;
+        border-top: $border-5 transparent;
+        text-transform: uppercase;
+        &:hover {
+          color: $text-blue;
+        }
+        &.active {
+          border-top: $border-5 $text-blue;
+          color: $text-blue;
+        }
+      }
+    }
+  }
+}
