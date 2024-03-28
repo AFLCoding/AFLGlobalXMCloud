@@ -25,11 +25,11 @@ $carousel: ".carousel";
                 font-size: var(--size-140);
             }
             @include respond-to(tablet-horizontal){
-                font-size: var(--size-110);
+                font-size: var(--size-108);
 
             }
             @include respond-to(mobile-horizontal){
-                font-size: var(--size-96);
+                font-size: var(--size-97);
             }
             @include respond-to(mobile-large){
                 font-size: var(--size-120);

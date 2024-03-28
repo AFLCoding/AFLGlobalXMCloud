@@ -17,14 +17,14 @@ type CTACustomProps = {
   className?: string;
 };
 
-const CTA = ({ label, link, icon, bg }: CTACustomProps) => {
+const CTA = ({ label, link, icon, bg, className }: CTACustomProps) => {
   if (link) {
     return (
       <Link
         field={link}
         className={`${icon?.value?.src ? styles.cta : styles.cta__icon} ${
           bg ? styles.background : ''
-        }`}
+        } ${className}`}
       >
         {icon?.value?.src && <Image field={icon} />}
       </Link>
@@ -34,7 +34,7 @@ const CTA = ({ label, link, icon, bg }: CTACustomProps) => {
       <button
         className={`${icon?.value?.src ? styles.cta : styles.cta__icon} ${
           bg ? styles.background : ''
-        }`}
+        } ${className}`}
         title={label?.value as string}
       >
         <Text field={label} />

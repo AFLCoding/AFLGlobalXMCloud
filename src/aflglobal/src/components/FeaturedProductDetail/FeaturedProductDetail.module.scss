@@ -19,10 +19,10 @@
       text-transform: uppercase;
       font-size: $font-30;
       margin-block-end: $middle-margin;
-      letter-spacing: 2.8px;
+      letter-spacing: var(--space-7);
     }
     .productDescription {
-      letter-spacing: 0.5px;
+      letter-spacing: var(--space-05);
       margin-block-end: $large-margin;
     }
   }

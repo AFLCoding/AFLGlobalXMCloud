@@ -3,53 +3,158 @@
 
 .newsCard {
   position: relative;
-  border-radius: $border-radius-26;
-  width: 26rem;
-  height: 29rem;
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: top;
+  width: 44%;
   flex: auto;
+  margin: $medium-margin var(--space-15) 0 var(--space-15);
 
-  @include respond-to(lg) {
-    width: 20rem;
-    height: 21rem;
+  &:nth-child(5),
+  &:nth-child(6) {
+    display: none;
+
+    @include respond-to(md) {
+      display: block;
+    }
   }
 
   @include respond-to(md) {
-    width: 13rem;
-    height: 14rem;
+    width: 31%;
+    height: var(--size-367);
+    margin: 0 var(--size-18) $large-margin var(--size-18);
+    border-radius: $border-radius-22;
+
+    &:nth-child(1),
+    &:nth-child(4) {
+      margin-left: 0;
+    }
+
+    &:nth-child(3),
+    &:nth-child(6) {
+      margin-right: 0;
+    }
   }
 
-  .titleItemDetail {
-    background-color: #e1e1e1;
-    border-radius: 0 0 $border-radius-26 $border-radius-26;
-    padding: 20px 15px;
-    margin-top: auto;
-    position: absolute;
-    bottom: 0;
-    width: 100%;
-    .title {
-      font-size: 2.17rem;
-      font-weight: 600;
-      color: #323232;
-      line-height: 23px;
-      margin: 0;
-      display: -webkit-box;
-      -webkit-line-clamp: 2;
-      -webkit-box-orient: vertical;
-      overflow: hidden;
-      text-overflow: ellipsis;
+  @include respond-to(lg) {
+    width: 31%;
+    height: var(--size-388);
+    margin: 0 var(--space-40) $large-margin var(--space-40);
+  }
+}
+
+.newsImage {
+  display: block;
+  width: 100%;
+  height: var(--size-340);
+  object-fit: cover;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: top;
+  object-position: 50% 25%;
+  border-radius: var(--space-40) var(--space-40) $large-margin $large-margin;
+  @include respond-to(md){
+    height: var(--size-366);
+  }
+  @include respond-to(lg){
+    border-radius: $border-radius-22;
+    height: var(--size-386);
+  }
+
+}
+
+.titleItemDetail {
+  background-color: $border-nav-submenu;
+  border-radius: 0 0 var(--size-52) var(--size-52);
+  padding: var(--size-50);
+  height: var(--size-196);
+  margin-top: auto;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+
+  @include respond-to(md) {
+    border-radius: 0 0 var(--size-60) var(--size-60);
+    padding: $middle-padding $medium-padding;
+  }
+
+  @include respond-to(lg) {
+    border-radius: 0 0 $border-radius-22 $border-radius-22;
+    height: var(--size-252);
+  }
+
+  .titleWrapper {
+    @include respond-to(md) {
+      margin-top: var(--size-20);
     }
-    .date {
-      font-size: 1.2rem;
-      color: #8b8b8b;
-      font-weight: bold;
-      letter-spacing: 1.2px;
+  }
+
+  .title {
+    font-size: var(--size-50);
+    font-weight: 600;
+    color: $border-dark-gray;
+    line-height: var(--size-50);
+    margin: 0;
+    margin-right: var(--size-10);
+    margin-top: var(--size-10);
+    letter-spacing: var(--space-02);
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+
+    @include respond-to(md) {
+      width: calc(100% - var(--space-245));
+      font-size: var(--size-60);
+      white-space: nowrap;
+      line-height: var(--space-88);
     }
-    .newsLink {
-      float: right;
-      text-transform: uppercase;
+
+    @include respond-to(lg) {
+      font-size: var(--space-83);
+      white-space: inherit;
     }
+  }
+
+  .date {
+    font-size: var(--size-35);
+    color: $border-light-gray;
+    font-weight: bold;
+    letter-spacing: var(--space-012);
+    line-height: var(--radius-450);
+    margin-bottom: 0;
+
+    @include respond-to(lg) {
+      font-size: var(--size-50);
+      line-height: var(--size-61);
+    }
+  }
+}
+
+.cta {
+  font-size: var(--size-35);
+  line-height: var(--size-50);
+  width: max-content;
+
+  @include respond-to(md) {
+    font-size: var(--size-50);
+    line-height: var(--size-82);
+    margin-right: calc(var(--size-10) * -1);
+  }
+
+  &:hover{
+    text-decoration: underline;
+  }
+
+  &::after {
+    border-top: var(--size-10) solid transparent;
+    margin: auto $default-padding;
+
+    @include respond-to(md) {
+      border-top: $default-padding solid transparent;
+      margin: auto;
+    }
+  }
+
+  @include respond-to(lg) {
+    text-align: end;
   }
 }

@@ -1,14 +1,46 @@
 @import '/src/assets/sass/abstracts/vars';
+@import '/src/assets/sass/abstracts/mixins';
+
+
+.newsRoomWrapper{
+  padding: $large-padding $middle-padding;
+  @include respond-to(md){
+    max-width: var(--size-700);
+    padding: 0;
+    padding-bottom: var(--size-140);
+  }
+  @include respond-to(lg){
+    max-width: $container;
+    padding: var(--size-140) 0;
+  }
+}
 
 .newsRoomContainer {
   background-color: $bg-light-gray-1;
   border-radius: $border-radius-26;
-  padding: $large-padding;
-  margin: 20px;
+  padding: $large-padding $medium-padding;
+  min-width: auto;
+  margin-bottom: $large-margin;
+  @include respond-to(md){
+    margin-bottom: var(--size-185);
+  }
+
+  .title{
+    font-size: var(--size-76);
+    letter-spacing: var(--space-7);
+    line-height: var(--space-96);
+    color: $text-blue-darker;
+  }
+
+  .btn{
+    margin-top: $medium-margin;
+    @include respond-to(md){
+      margin-top: 0;
+    }
+  }
 
   .newsItems {
     display: flex;
     flex-wrap: wrap;
-    gap: 2rem;
   }
 }

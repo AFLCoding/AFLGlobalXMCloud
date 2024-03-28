@@ -1,3 +1,5 @@
+import { LinkField } from '@sitecore-jss/sitecore-jss-nextjs';
+
 export type NewsCardProps = {
   content_category: string;
   content_published_date: string;
@@ -8,4 +10,5 @@ export type NewsCardProps = {
   source_id: string;
   type: string;
   url: string;
+  CTA: LinkField;
 };
