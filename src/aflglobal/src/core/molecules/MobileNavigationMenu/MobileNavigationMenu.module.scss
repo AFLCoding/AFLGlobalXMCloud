@@ -1,0 +1,48 @@
+@import '/src/assets/sass/abstracts/vars';
+
+.navigationItems {
+  position: fixed;
+  background: $bg-secondary-menu;
+  z-index: 99;
+  top: $space-55;
+  bottom: 0;
+  right: -100%;
+  left: 100%;
+  transition: 0.2s ease-in-out;
+  padding: 0;
+  margin: 0;
+  &.menuOpen {
+    right: 0;
+    left: 0;
+  }
+  .navigationItem {
+    padding: 0 $space-25;
+    border-bottom: $border-1 $border-nav-secondary-menu;
+    .navigationLink {
+      display: block;
+      font-size: $breadcrumb-font;
+      font-weight: 500;
+      padding: $space-10 0;
+      text-transform: uppercase;
+      position: relative;
+      &.withChevronIcon {
+        &:after {
+          content: '';
+          display: inline-block;
+          border: $border-2 $text-blue;
+          transform: rotate($angle-45) translateY(-50%);
+          border-left-color: transparent;
+          border-bottom-color: transparent;
+          width: $size-12;
+          height: $size-12;
+          position: absolute;
+          right: $space-10;
+          top: 50%;
+        }
+      }
+      &:hover {
+        color: $text-blue !important;
+      }
+    }
+  }
+}

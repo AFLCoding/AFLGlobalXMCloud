@@ -3,16 +3,19 @@ $bg-transparent:transparent !default;
 $bg-basic-color:#FFFFFF !default;
 $bg-basic-color-active: #cccccc !default;
 $bg-light-gray: #f7f7f7 !default;
+$bg-light-gray-1: #f1f1f1 !default;
 $bg-primary-gray: #e8e8e8 !default;
 $bg-light-gray-active: #dadada !default;
 $bg-blue:#89C6CC;
 $bg-blue-active: #15909c !default;
 $bg-submenu:#edebeb !default;
 $bg-submenu-active:#f6f6f6 !default;
+$bg-secondary-menu: #ebebeb;
 $bg-black:#000;
 $bg-black-active:#3d3d3d;
 $bg-secondary-gray:#c2c2c2;
 $bg-dark-gray: #262626;
+
 //Text colors
 $text-default: #333 !default;
 $text-white:#fff !default;
@@ -33,12 +36,14 @@ $text-black: #000 !default;
 $text-red:#de232f;
 $text-light-grey: #666666;
 $text-gray: #262626;
+$text-gray-6: #666;
 //Border colors
 $border-gray: #d2d2d2 !default;
 $border-white: #ffffff !default;
 $border-basic-color: #89C6CC !default;
 $border-basic-active:#15909c !default;
 $border-nav-submenu:#e1e1e1;
+$border-nav-secondary-menu: #9a9a9a;
 //Styles for each component separately
 //Accordion
 $accordion-header-bg: transparent;

@@ -22,7 +22,6 @@ const CTA = ({ label, link, icon, bg }: CTACustomProps) => {
     return (
       <Link
         field={link}
-        title={link.value.text}
         className={`${icon?.value?.src ? styles.cta : styles.cta__icon} ${
           bg ? styles.background : ''
         }`}
