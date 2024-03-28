@@ -10,3 +10,5 @@ export const templateIDs: { [key: string]: string } = {
 
 export const SENDGRID_KEY = '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';
 export const SENDGRID_SENDER_EMAIL = 'pawan.tyagi@altudo.co';
+
+export const GRAPH_QL_ENDPOINT = process.env.NEXT_PUBLIC_GRAPH_QL_ENDPOINT;

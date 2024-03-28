@@ -1,0 +1,8 @@
+@import '/src/assets/sass/abstracts/vars';
+
+.divider {
+  width: 100%;
+  border-top: $border-4;
+  border-image-source: linear-gradient(to right, $text-blue-medium, $text-light-blue);
+  border-image-slice: 1;
+}

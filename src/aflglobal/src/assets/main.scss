@@ -98,7 +98,7 @@ a {
         }
 
         &.slick-next {
-            right: calc(-1 * var(--size-96));
+            right: calc(-1 * var(--size-97));
 
             @include respond-to(lg){
                 right: calc(-1 * var(--size-120));

@@ -1,22 +1,29 @@
 @import '/src/assets/sass/abstracts/vars';
 
-.productImage {
-  block-size: 30rem;
-  max-inline-size: min-content;
+.section {
+  background-color: $bg-light-gray-1;
+  width: 100%;
 }
 
-.productDetails {
-  align-self: center;
-  margin-block-end: $middle-margin;
-  .productTitle {
-    color: $text-blue;
-    text-transform: uppercase;
-    font-size: $font-30;
-    margin-block-end: $middle-margin;
-    letter-spacing: 2.8px;
+.productDetailContainer {
+  padding: $padding-80 0;
+  .productImage {
+    block-size: 30rem;
+    max-inline-size: min-content;
   }
-  .productDescription {
-    letter-spacing: 0.5px;
-    margin-block-end: $large-margin;
+
+  .productDetails {
+    align-self: center;
+    .productTitle {
+      color: $text-blue;
+      text-transform: uppercase;
+      font-size: $font-30;
+      margin-block-end: $middle-margin;
+      letter-spacing: var(--space-7);
+    }
+    .productDescription {
+      letter-spacing: var(--space-05);
+      margin-block-end: $large-margin;
+    }
   }
 }
