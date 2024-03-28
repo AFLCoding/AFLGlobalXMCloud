@@ -8,6 +8,21 @@
         "path": "/sitecore/content/AFLGlobal",
         "scope": "ItemAndDescendants",
         "allowedPushOperations": "CreateOnly"
+      },
+      {
+        "name": "renderingHosts",
+        "path": "/sitecore/system/Settings/Services/Rendering Hosts",
+        "rules": [
+          {
+						"path": "/Default",
+						"scope": "Ignored"
+					},
+					{
+						"path": "*",
+						"scope": "ItemAndDescendants",
+						"allowedPushOperations": "CreateAndUpdate"
+					}
+				]
       }
     ]
   }
