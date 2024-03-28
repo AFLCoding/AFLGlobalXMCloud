@@ -1,0 +1,44 @@
+{
+  "$schema": "../.sitecore/schemas/ModuleFile.schema.json",
+  "namespace": "Content.OCEANIA",
+  "items": {
+    "includes": [
+      {
+        "name": "oceania/site",
+        "path": "/sitecore/content/AFLGlobal/OCEANIA",
+        "scope": "SingleItem",
+        "allowedPushOperations": "CreateAndUpdate"
+      },
+      {
+        "name": "oceania/home",
+        "path": "/sitecore/content/AFLGlobal/OCEANIA/Home",
+        "scope": "ItemAndDescendants",
+        "allowedPushOperations": "CreateAndUpdate"
+      },
+      {
+        "name": "oceania/media",
+        "path": "/sitecore/content/AFLGlobal/OCEANIA/Media",
+        "scope": "ItemAndDescendants",
+        "allowedPushOperations": "CreateAndUpdate"
+      },
+      {
+        "name": "oceania/dictionary",
+        "path": "/sitecore/content/AFLGlobal/OCEANIA/Dictionary",
+        "scope": "ItemAndDescendants",
+        "allowedPushOperations": "CreateAndUpdate"
+      },
+      {
+        "name": "oceania/presentation",
+        "path": "/sitecore/content/AFLGlobal/OCEANIA/Presentation",
+        "scope": "ItemAndDescendants",
+        "allowedPushOperations": "CreateAndUpdate"
+      },
+      {
+        "name": "oceania/settings",
+        "path": "/sitecore/content/AFLGlobal/OCEANIA/Settings",
+        "scope": "ItemAndDescendants",
+        "allowedPushOperations": "CreateAndUpdate"
+      }
+    ]
+  }
+}

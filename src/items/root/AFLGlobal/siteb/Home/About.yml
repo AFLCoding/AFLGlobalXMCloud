@@ -1,0 +1,68 @@
+﻿---
+ID: "22ad9bcf-e190-471e-876b-c80982ca87f5"
+Parent: "8f230e50-372e-480a-9273-9d26ff6adf8b"
+Template: "6fd0eaa1-c998-44c4-b50b-93d971471fd6"
+Path: /sitecore/content/AFLGlobal/siteb/Home/About
+BranchID: "aa757cc9-f2da-4f78-a33d-9d382d5fcf92"
+SharedFields:
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{132E283B-3D82-4D25-A49F-DB2CD4F144BB}" />
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{1E08244B-11F0-4058-B8C2-C6B81A0A4A95}"
+          p:before="*"
+          s:id="{7A1D9A21-B8D7-42F9-9B0B-92ABF8D1974F}"
+          s:par="?Styles=%7b4346607D-C66F-4CA5-B78F-AF706CDFA824%7d%7c%7bA907FF97-FF54-4995-B228-B0066FB2D4C2%7d%7c%7bC8F7BDAD-6225-4CC1-9F4D-5E5FCE2FC624%7d%7c%7b43E30FA3-EA42-40C4-BA89-5E42E52E7BFC%7d%7c%7bF5F7CA6E-1B7B-4AAD-88E1-AB3CECC56048%7d%7c%7b6D7D3DB7-B948-43C2-B67E-2AF59AE40B25%7d%7c%7b2C7C48B3-B07F-4EC9-AE04-D965FA14089B%7d%7c%7b3FF178EE-56DB-4E7F-BA03-178CEA9FF108%7d%7c%7b37B6C7B7-A3EE-4FC2-B747-9F9EFE560008%7d%7c%7bA73D6318-92CB-4BF0-817C-AA15EE983DAF%7d%7c%7b85EC704C-3185-49D3-833C-E35CAB805C78%7d%7c%7b36D2C017-D1C5-4EC8-91A3-733563F0AD9A%7d%7c%7b43C5636D-03C4-4B18-92FD-E5AE3870270A%7d&amp;GridParameters=%7b7465D855-992E-4DC2-9855-A03250DFA74B%7d&amp;DynamicPlaceholderId=1"
+          s:ph="headless-main" />
+        <r
+          uid="{CBA3DAF3-2CB7-4651-AF50-6EE9D49EB9F5}"
+          p:after="*[1=2]"
+          s:ds="local:/Data/Text 1"
+          s:id="{9C6D53E3-FE57-4638-AF7B-6D68304C7A94}"
+          s:par="?GridParameters=%7b7465D855-992E-4DC2-9855-A03250DFA74B%7d%7c%7b959FDFBB-4691-4A17-816F-7A5330B8216A%7d%7c%7b175CB6DA-CF89-4D56-888C-EB79F514D12F%7d%7c%7b7DF615F7-0A53-42E1-A164-2B36D6126314%7d&amp;FieldNames=%7b11A1AD16-ABCB-4794-9263-5B52337E76DA%7d"
+          s:ph="/headless-main/container-1" />
+      </d>
+    </r>
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{B8E694EC-3576-4CC6-8628-AEE286A9AB38}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "24efe52b-60b9-4659-89e8-bd85fbba1178"
+      Hint: Title
+      Value: About
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240328T060244Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: About
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\asmita.parkar@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\asmita.parkar@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "cf3e32f8-6fa1-4403-a26c-5361703548d6"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\asmita.parkar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240328T060252Z

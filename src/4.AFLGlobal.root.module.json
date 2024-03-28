@@ -1,0 +1,14 @@
+{
+  "$schema": "../.sitecore/schemas/ModuleFile.schema.json",
+  "namespace": "AFLGlobal.Root",
+  "items": {
+    "includes": [
+      {
+        "name": "root",
+        "path": "/sitecore/content/AFLGlobal",
+        "scope": "ItemAndDescendants",
+        "allowedPushOperations": "CreateOnly"
+      }
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "$schema": "../.sitecore/schemas/ModuleFile.schema.json",
+  "namespace": "Content.AMERICAS.Data",
+  "items": {
+    "includes": [
+      {
+        "name": "americas/data",
+        "path": "/sitecore/content/AFLGlobal/AMERICAS/Data",
+        "scope": "ItemAndDescendants",
+        "allowedPushOperations": "CreateAndUpdate"
+      }
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "$schema": "../.sitecore/schemas/ModuleFile.schema.json",
+  "namespace": "Content.OCEANIA.Data",
+  "items": {
+    "includes": [
+      {
+        "name": "oceania/data",
+        "path": "/sitecore/content/AFLGlobal/OCEANIA/Data",
+        "scope": "ItemAndDescendants",
+        "allowedPushOperations": "CreateAndUpdate"
+      }
+    ]
+  }
+}

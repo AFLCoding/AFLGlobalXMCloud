@@ -1,0 +1,44 @@
+{
+  "$schema": "../.sitecore/schemas/ModuleFile.schema.json",
+  "namespace": "Content.APAC",
+  "items": {
+    "includes": [
+      {
+        "name": "apac/site",
+        "path": "/sitecore/content/AFLGlobal/APAC",
+        "scope": "SingleItem",
+        "allowedPushOperations": "CreateAndUpdate"
+      },
+      {
+        "name": "apac/home",
+        "path": "/sitecore/content/AFLGlobal/APAC/Home",
+        "scope": "ItemAndDescendants",
+        "allowedPushOperations": "CreateAndUpdate"
+      },
+      {
+        "name": "apac/media",
+        "path": "/sitecore/content/AFLGlobal/APAC/Media",
+        "scope": "ItemAndDescendants",
+        "allowedPushOperations": "CreateAndUpdate"
+      },
+      {
+        "name": "apac/dictionary",
+        "path": "/sitecore/content/AFLGlobal/APAC/Dictionary",
+        "scope": "ItemAndDescendants",
+        "allowedPushOperations": "CreateAndUpdate"
+      },
+      {
+        "name": "apac/presentation",
+        "path": "/sitecore/content/AFLGlobal/APAC/Presentation",
+        "scope": "ItemAndDescendants",
+        "allowedPushOperations": "CreateAndUpdate"
+      },
+      {
+        "name": "apac/settings",
+        "path": "/sitecore/content/AFLGlobal/APAC/Settings",
+        "scope": "ItemAndDescendants",
+        "allowedPushOperations": "CreateAndUpdate"
+      }
+    ]
+  }
+}

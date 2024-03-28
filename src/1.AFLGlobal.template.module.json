@@ -1,0 +1,19 @@
+{
+	"$schema": "../.sitecore/schemas/ModuleFile.schema.json",
+	"namespace": "AFLGlobal.Template",
+	"items": {
+		"includes": [
+			{
+				"name": "templates/Project",
+				"path": "/sitecore/templates/Project/AFLGlobal",
+				"rules": [
+					{
+						"path": "*",
+						"scope": "ItemAndDescendants",
+						"allowedPushOperations": "CreateAndUpdate"
+					}
+				]
+			}
+		]
+	}
+}

@@ -1,0 +1,52 @@
+{
+	"$schema": "../.sitecore/schemas/ModuleFile.schema.json",
+	"namespace": "AFLGlobal.System",
+	"items": {
+		"includes": [
+			{
+				"name": "system/aliases",
+				"path": "/sitecore/system/Aliases",
+				"rules": [
+					{
+						"path": "*",
+						"scope": "ItemAndDescendants",
+						"allowedPushOperations": "CreateAndUpdate"
+					}
+				]
+			},
+			{
+				"name": "system/languages",
+				"path": "/sitecore/system/Languages",
+				"rules": [
+					{
+						"path": "*",
+						"scope": "ItemAndDescendants",
+						"allowedPushOperations": "CreateAndUpdate"
+					}
+				]
+			},
+			{
+				"name": "system/workflows",
+				"path": "/sitecore/system/Workflows",
+				"rules": [
+					{
+						"path": "*",
+						"scope": "ItemAndDescendants",
+						"allowedPushOperations": "CreateAndUpdate"
+					}
+				]
+			},
+			{
+				"name": "system/settings/feature",
+				"path": "/sitecore/system/Settings/Feature/AFLXMC",
+				"rules": [
+					{
+						"path": "*",
+						"scope": "ItemAndDescendants",
+						"allowedPushOperations": "CreateAndUpdate"
+					}
+				]
+			}
+		]
+	}
+}

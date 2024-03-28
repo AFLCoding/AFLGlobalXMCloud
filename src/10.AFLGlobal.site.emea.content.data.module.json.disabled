@@ -1,0 +1,14 @@
+{
+  "$schema": "../.sitecore/schemas/ModuleFile.schema.json",
+  "namespace": "Content.EMEA.Data",
+  "items": {
+    "includes": [
+      {
+        "name": "emea/data",
+        "path": "/sitecore/content/AFLGlobal/EMEA/Data",
+        "scope": "ItemAndDescendants",
+        "allowedPushOperations": "CreateAndUpdate"
+      }
+    ]
+  }
+}

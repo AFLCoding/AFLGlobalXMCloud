@@ -1,0 +1,19 @@
+{
+	"$schema": "../.sitecore/schemas/ModuleFile.schema.json",
+	"namespace": "AFLGlobal.Layout",
+	"items": {
+		"includes": [
+			{
+				"name": "layout/renderings/project",
+				"path": "/sitecore/layout/Renderings/Project",
+				"rules": [
+					{
+						"path": "*",
+						"scope": "ItemAndDescendants",
+						"allowedPushOperations": "CreateAndUpdate"
+					}
+				]
+			}
+		]
+	}
+}

@@ -1,0 +1,44 @@
+{
+  "$schema": "../.sitecore/schemas/ModuleFile.schema.json",
+  "namespace": "Content.AMERICAS",
+  "items": {
+    "includes": [
+      {
+        "name": "americas/site",
+        "path": "/sitecore/content/AFLGlobal/AMERICAS",
+        "scope": "SingleItem",
+        "allowedPushOperations": "CreateAndUpdate"
+      },
+      {
+        "name": "americas/home",
+        "path": "/sitecore/content/AFLGlobal/AMERICAS/Home",
+        "scope": "ItemAndDescendants",
+        "allowedPushOperations": "CreateAndUpdate"
+      },
+      {
+        "name": "americas/media",
+        "path": "/sitecore/content/AFLGlobal/AMERICAS/Media",
+        "scope": "ItemAndDescendants",
+        "allowedPushOperations": "CreateAndUpdate"
+      },
+      {
+        "name": "americas/dictionary",
+        "path": "/sitecore/content/AFLGlobal/AMERICAS/Dictionary",
+        "scope": "ItemAndDescendants",
+        "allowedPushOperations": "CreateAndUpdate"
+      },
+      {
+        "name": "americas/presentation",
+        "path": "/sitecore/content/AFLGlobal/AMERICAS/Presentation",
+        "scope": "ItemAndDescendants",
+        "allowedPushOperations": "CreateAndUpdate"
+      },
+      {
+        "name": "americas/settings",
+        "path": "/sitecore/content/AFLGlobal/AMERICAS/Settings",
+        "scope": "ItemAndDescendants",
+        "allowedPushOperations": "CreateAndUpdate"
+      }
+    ]
+  }
+}

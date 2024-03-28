@@ -1,0 +1,68 @@
+﻿---
+ID: "7ffa0518-e53a-4b32-8bd9-2be98802ba21"
+Parent: "b5bbe2f6-4fcb-400e-85f9-1839aada037d"
+Template: "fd2059fd-6043-4dfe-8c04-e2437ce87634"
+Path: /sitecore/content/AFLGlobal/aflglobal/Presentation/Partial Designs/Footer
+BranchID: "8204a950-cbaa-4d06-878b-11ced5ddc1ad"
+SharedFields:
+- ID: "55faae90-3bba-4f7f-96fe-13c3f40055ff"
+  Hint: Signature
+  Value: footer
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{2DA569FF-FDF5-469A-B383-C43D23ED4629}"
+          p:before="*"
+          s:id="{7A1D9A21-B8D7-42F9-9B0B-92ABF8D1974F}"
+          s:par="?Styles=%7b5A3CF398-7122-4869-89AD-DCB2FB16239C%7d%7c%7b442FAFBF-0181-4DAE-B25A-C41E33928BBD%7d%7c%7b4FBE1AEC-965A-4655-B9BA-3268264D7F73%7d%7c%7bDBF37354-D732-4CB0-8261-840B81AC8E59%7d%7c%7b4D0F81B1-C597-4008-A39F-1C5A8D5EAB5A%7d%7c%7bD4E9AC25-854D-4164-B089-5BCAA57E3E08%7d%7c%7b654D4F94-923C-42D5-8120-9889FACE7F5C%7d%7c%7b18D9EAE0-890B-4A71-9CBC-B025A6652179%7d%7c%7b0287DDDF-5C20-47E0-8A71-50A06493C626%7d%7c%7b65D38719-EDE6-4CE4-85DB-98684F83BD16%7d%7c%7b10FB7495-A05B-4587-9335-03BCF2289638%7d%7c%7bB41B76EE-5FF9-4F71-B8FE-93E194E853CB%7d%7c%7b0699E1D9-0A90-4932-9F93-4CEF21A60E9B%7d%7c%7b961E4667-E16B-40FA-A1CC-59D1E19E690E%7d%7c%7bD6C69C05-A395-4C08-BF38-EFA283F58170%7d&amp;GridParameters=%7b7465D855-992E-4DC2-9855-A03250DFA74B%7d&amp;DynamicPlaceholderId=1"
+          s:ph="headless-footer" />
+        <r
+          uid="{F12F6637-C695-4451-B6D7-337EDF8B8390}"
+          p:after="r[@uid='{2DA569FF-FDF5-469A-B383-C43D23ED4629}']"
+          s:ds="local:/Data/Address"
+          s:id="{9C6D53E3-FE57-4638-AF7B-6D68304C7A94}"
+          s:par="?Styles=%7b04D95FE5-D14F-4C2B-A8D2-50BD041C911E%7d&amp;FieldNames=%7b949FDD41-1DFA-4141-947B-C97D0EE57375%7d&amp;GridParameters=%7b7465D855-992E-4DC2-9855-A03250DFA74B%7d%7c%7b31A49E90-E4B4-4F04-A3C7-E15B6835990F%7d"
+          s:ph="/headless-footer/container-1" />
+        <r
+          uid="{F621B11D-1CAA-4A06-94D0-FA1602B6476A}"
+          p:after="*[1=2]"
+          s:ds="local:/Data/Contact info"
+          s:id="{9C6D53E3-FE57-4638-AF7B-6D68304C7A94}"
+          s:par="?Styles=%7b04D95FE5-D14F-4C2B-A8D2-50BD041C911E%7d&amp;FieldNames=%7b949FDD41-1DFA-4141-947B-C97D0EE57375%7d&amp;GridParameters=%7b7465D855-992E-4DC2-9855-A03250DFA74B%7d%7c%7b31A49E90-E4B4-4F04-A3C7-E15B6835990F%7d"
+          s:ph="/headless-footer/container-1" />
+      </d>
+    </r>
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{EDB00EAA-5ACA-4C4D-8B88-3195D992F980}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240328T054917Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\asmita.parkar@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\asmita.parkar@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3a529824-6660-457a-bfb6-16d5b1c14e2c"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\asmita.parkar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240328T054922Z
