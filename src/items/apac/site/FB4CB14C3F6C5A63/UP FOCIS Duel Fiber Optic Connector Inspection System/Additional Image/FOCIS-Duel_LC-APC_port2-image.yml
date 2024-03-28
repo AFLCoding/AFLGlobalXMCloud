@@ -1,0 +1,38 @@
+﻿---
+ID: "9ae882b3-b927-4304-b886-5788ce77c89a"
+Parent: "3dd7e35c-8b64-4e7d-8c80-cc721b93e654"
+Template: "178e3cec-ca03-4c76-9ad3-122297e19e13"
+Path: "/sitecore/content/AFLGlobal/APAC/Home/Products/Test and Inspection/Fiber Optic Inspection and Cleaning/Fiber Optic Cleaning/UP FOCIS Duel Fiber Optic Connector Inspection System/Additional Image/FOCIS-Duel_LC-APC_port2-image"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220405T050843Z
+    - ID: "4f4e6526-41d1-4a67-ba95-3cf65c6a6462"
+      Hint: ImgaeUrl
+      Value: |
+        <image stylelabs-content-id="227607" src="https://afl-delivery.stylelabs.cloud/api/public/content/f3ec26b2b5d242adaca543eda574bf7a?v=c123cda6" stylelabs-content-type="Image" alt="2507" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/227607/thumbnail" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mahesh
+    - ID: "80203708-a0db-4f4b-bd18-b5f74b33756d"
+      Hint: ImageTitle
+      Value: "FOCIS-Duel_LC-APC_port2-image"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c925a7fa-44af-41d8-862a-fcaf17f5b333"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahesh
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220405T050843Z

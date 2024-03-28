@@ -1,0 +1,89 @@
+﻿---
+ID: "f283631c-00a0-4f66-994d-81d6f1f10586"
+Parent: "a5c52d0b-c55a-470f-b2f6-7b76f1ae5db1"
+Template: "bf61de11-b78f-48ea-aaa4-1d17f0d83824"
+Path: /sitecore/content/AFLGlobal/APAC/Home/Products/Test and Inspection/Optical Loss Testing
+SharedFields:
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{D6E065C6-3215-4772-BB85-42B5C79A922D}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: 
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 600
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220303T154321Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Optical Loss Testing
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\archana
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <p>
+        AFL offers a complete line of optical loss testing equipment . If one of our most popular products featured above isn’t exactly what you are looking for, explore the complete selection of:</p>
+        <ul>
+            <li>
+            <h3>
+            <a href="~/link.aspx?_id=B4AB32726DF14C83B651D37485046628&_z=z">Optical Light Sources</a></h3>
+            </li>
+            <li>
+            <h3>
+            <a href="~/link.aspx?_id=DAE923A099A24DCBB30029C705F823C2&_z=z">Optical Power Meters</a></h3>
+            </li>
+            <li>
+            <h3>
+            <a href="~/link.aspx?_id=9C8E32F834094DB7AC818A7CA75A00CC&_z=z">Optical Loss Test Sets</a></h3>
+            </li>
+        </ul>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\archana
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: Optical Loss Testing
+    - ID: "628db04b-29a2-483b-a88c-b8fd9a5f2086"
+      Hint: HeroLink
+      Value: |
+        <link text="LEARN MORE" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{5E313B95-60F4-4B68-A210-0C0BDC9138D8}" />
+    - ID: "78f50588-1d63-4b01-824d-f750b167b97f"
+      Hint: FeaturedProducts
+      Value: |
+        {A79C3C16-525A-49AC-A71A-661C2F3CCF9F}
+        {0E0E54E5-2A23-4D43-A12D-1C51FFC3E664}
+        {D22EEE84-9D9B-4BF2-BEAB-45434B741DF0}
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: Optical Loss Testing
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "36be924c-f3f5-4de7-a961-e0502a3c7d9a"
+    - ID: "93dc88f3-05e5-482d-9b9a-c859c8258a73"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="169953" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/169953/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/38ce45efee0f43d3861659e585b027e0?v=d5cb903e" stylelabs-content-type="Image" alt="Optical_Loss_Test.jpg" height="465" width="1336" />
+    - ID: "a40ebd3d-2b41-41fb-90f7-753544ce77c5"
+      Hint: Hero Title1
+      Value: Optical Loss Testing
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231129T145208Z

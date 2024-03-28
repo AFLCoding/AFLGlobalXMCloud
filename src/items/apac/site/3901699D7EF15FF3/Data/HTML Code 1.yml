@@ -1,0 +1,278 @@
+﻿---
+ID: "00a38dc6-4543-4fe0-aeda-6ed9b773d6ed"
+Parent: "b3ee4445-cb71-461a-9e35-4bfc27da9185"
+Template: "2ad23d55-aecd-43dd-ae0d-72d2ebcba60f"
+Path: /sitecore/content/AFLGlobal/APAC/Home/Products/Test and Inspection/FTTx PON Deployment Made EASY/Fiber Installation Verification/Data/HTML Code 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "24cce27c-05db-4473-a1ed-e69b1725ff1c"
+      Hint: HtmlCode
+      Value: |
+        <style>
+        * {
+          box-sizing: border-box;
+        }
+        /*Start product images  */
+        	.column2 img {
+        	width: 143px !important;
+        	}
+        	
+        .column2 #images2 {
+            height: auto;
+            align-self: ;
+            width: 143px;
+            padding: 14px;
+            border-radius: 14px;
+            background: #fff;
+            display: flex;
+            margin: 0px 8px 15px 8px;
+            justify-content: center;
+            position: relative;
+            border: 1px solid #ccc;
+        }
+        /*  End product images */
+        .column {
+          float: left;
+          width: 33.33%;
+          padding: 5px;
+        }
+        	.column2 {
+          float: left;
+          width: 143px;
+          padding: 5px;
+        }
+        
+        /* Clearfix (clear floats) */
+        .row::after {
+          content: "";
+          clear: both;
+          display: table;
+        }
+        </style>
+        <style>
+            * {
+              box-sizing: border-box;
+            }
+        	#numberList	{
+        		list-style: number;
+        		font-size: 18px; 
+        		list-style-position: inside;
+        		margin-left: 20px;
+        	}
+              .title {
+                text-align: center;
+               margin-bottom: 12px;
+               margin-top: 0;
+               font-size: 28px;
+               font-weight: 600!important;
+              }
+        	.ul3links {
+        		margin-left: 100px;
+        	}
+        #subtitle {
+        text-align: center;
+        font-style: italic;
+        }
+        p {
+        font-size: 18px;
+            font-weight: 400;
+            line-height: 1.4em;
+        margin-bottom: 1.4em;
+            margin-top: 0;
+        }
+        .lista {
+            list-style-type: disc;
+        font-size: 18px;
+        }
+        	#images {
+        		display: flex;
+            flex-wrap: wrap;
+            text-align: left;
+        	}
+            .flex-container {
+              display: flex;
+              flex-wrap: wrap;
+              font-size: 18px;
+              text-align: justify;
+              background-color: #efefef;
+        padding-left: 2%;
+            }
+            /* first item */
+            .flex-item-left {
+              padding: 10px;
+              flex: 50%;
+            }
+            
+            .flex-item-right {
+              padding: 10px;
+              flex: 50%;
+            }
+            
+            
+            /* fifth item */
+            /* sith item */
+            /* Responsive layout - makes a one column-layout instead of a two-column layout */
+            @media (max-width: 800px) {
+              .flex-item-right, .flex-item-left {
+                flex: 100%;
+              }
+            }
+            .subFooter .rich-text p {
+            font-size: 12px;
+        }
+        .btn a, .btn-primary {
+        border: none !important;
+        }
+        /*nav margin  */
+        @media screen and (max-width: 1127px) {
+          .btn a, .btn-primary {
+            margin: 2px;
+          }
+        }
+            </style>
+        <nav style="text-align: center;" id ="navbar">
+          <a class="btn btn-primary" href ="/Products/Test-and-Inspection/FTTx-PON-Deployment-Made-EASY"> Home</a>
+         <a class = "btn btn-primary" href="/Products/Test-and-Inspection/FTTx-PON-Deployment-Made-EASY/Fiber-Installation-Verification"> Fiber Installation Verification</a>
+          <a class = "btn btn-primary" href="/Products/Test-and-Inspection/FTTx-PON-Deployment-Made-EASY/PON-Verification-and-Activation"> PON Verification and Activation</a>
+          <a class = "btn btn-primary" href="/Products/Test-and-Inspection/FTTx-PON-Deployment-Made-EASY/Troubleshooting-and-Repair"> Troubleshooting and Repair</a>
+        </nav>
+        <br/>
+        <br/>
+                      <div>
+                        <h2 class="afl-subTitle field-productname" id="challenges-of-fttx-pon">Application </h2>
+                      </div>
+                      <p>Verify dark fiber infrastructure prior to activation</p>
+                      <div>
+                        <h3 class="afl-subTitle" id="trained-salesforce">Overview</h3>
+                      </div>
+                      <p>Fiber verification is the process of testing and verifying the continuity and performance of the fiber optic system after it has been installed. This includes testing, verifying and characterizing the quality of the fibers themselves, as well as connectors and other hardware used to join the fibers. There are several types of fiber verification tests that can be performed, including continuity testing, attenuation testing, return loss testing, and insertion loss testing.</p>
+        <p>Overall, fiber verification is important in that it helps ensure that a fiber optic system is functioning properly and is able to transmit data reliably after initial installation. By performing these tests, technicians can identify and correct any issues with the system before they become major problems.</p>
+                      <div>
+                        <h3 class="afl-subTitle" id="purpose-built-tools">Common Problems</h3>
+                      </div>
+                      <p>Failed splices, dirty or damaged connectors, micro-bends and macro-bends can all lead to a failed network infrastructure. AFLs comprehensive tools reduce the complexity of network verification and enable both experienced and novice technicians to easily identify problems quickly, saving costs on service time.</p>
+        <p>When verifying network service outages using AFL's <a href="https://www.aflglobal.com/Products/Test-and-Inspection/OTDRs-and-Troubleshooters/FlexScan-FS200-SM-OTDRs-with-SmartAuto--LinkMap" target="_blank">FlexScan FS200 SM OTDR</a>, technicians can perform the following tasks:</p>
+        <ol id="numberList">
+        <li>Verify Insertion loss</li>
+        	<li>Verify connector insertion loss and reflectance</li>
+        	<li>Verify splitter performance (insertion loss and reflectance) at 1310nm/1550nm</li>
+        	<li>Verify splice loss at 1310nm/1550nm</li>
+        	<li>Test for macro-bends/micro-bends at 1310nm/1550nm</li>
+        </ol><br/>
+        <p>When verifying connectivity issues, our <a href="https://www.aflglobal.com/Products/Test-and-Inspection/Fiber-Inspection-and-Cleaning/Fiber-Optic-Inspection/FOCIS-Flex-Fiber-Optic-Connector-Inspection-System" target="_blank">FOCIS Flex Fiber Optic Connector Inspection System</a> and <a href="https://www.aflglobal.com/Products/Test-and-Inspection/Fiber-Inspection-and-Cleaning/Fiber-Optic-Inspection/FOCIS-Lightning2-Multi-Fiber-Connector-Inspection-System" target="_blank">FOCIS Lightning®2 Multi-Fiber Connector Inspection System</a> can be used to inspect fiber optic connectors for damaged or dirty connections. <a href="https://www.aflglobal.com/Products/Fiber-Optic-Cleaning/Push-Type-Cleaners/One-Click-Cleaners" target="_blank">One-Click Cleaners</a> can be used to quickly and easily clear debris and restore your network performance. For more stubborn contamination, AFL offers <a href="https://www.aflglobal.com/en/Products/Fiber-Optic-Cleaning/Cleaning-Kits/FCP-Field-Portable-Connector-Cleaning-Kits" target="_blank">cleaning kits</a> including fluids and wipes.</p>
+                      <div>
+                        <h3 class="afl-subTitle" id="speed-of-operations">Summary</h3>
+        </div>
+        <p>AFL provides the easiest to use solutions reducing the complexity of installation verification. We offer simple, intuitive tools durably built for expert or novice technicians working indoors or outside the premise.</p>
+        <p>The <a href="https://www.aflglobal.com/Products/Test-and-Inspection/OTDRs-and-Troubleshooters/FlexScan-FS200-SM-OTDRs-with-SmartAuto--LinkMap" target="_blank">FlexScan FS200 SM OTDR</a> rapidly scans to quickly and accurately detect, locate, identify and measure network components and faults. The <a href="https://www.aflglobal.com/Products/Test-and-Inspection/Fiber-Inspection-and-Cleaning/Fiber-Optic-Inspection/FOCIS-Lightning2-Multi-Fiber-Connector-Inspection-System" target="_blank">FOCIS Lightning2</a> and <a href="https://www.aflglobal.com/Products/Test-and-Inspection/Fiber-Inspection-and-Cleaning/Fiber-Optic-Inspection/FOCIS-Flex-Fiber-Optic-Connector-Inspection-System" target="_blank">FOCIS Flex inspection systems</a> feature quick set-up and straight-forward operation delivering test results in seconds to diagnose dirt and debris on connector end-faces.</p>
+        <p>In summary, AFL's palm-sized tools are designed to reduce the time spent troubleshooting with first-time-right testing and rapid results sharing. Easy-to-use tools designed for novice and expert technicians keep your network running trouble-free, eliminating costly follow-up service truck rolls.</p>
+        
+        <h3 class="afl-subTitle" id="speed-of-operations">Related Products</h3>
+        <div  style="width: 100%;background-color:#efefef;padding:10px 0 0 20px;">
+                     
+        <div style="width: 100%;" class="row">
+                <div class="column2">
+                <img id="images2" src="https://afl-delivery.stylelabs.cloud/api/public/content/d4db7313714e4fd68afb1e0b52218808?v=a69cfac1" alt="" style="width:100%">
+                
+                    <p><a href="https://www.aflglobal.com/Products/Test-and-Inspection/OTDRs-and-Troubleshooters/FlexScan-FS200-SM-OTDRs-with-SmartAuto--LinkMap">FlexScan® FS200 SM OTDRs with SmartAuto® & LinkMap®</a></p>
+                </div>
+        		<div class="column2">
+                
+                <img id="images2" src="https://afl-delivery.stylelabs.cloud/api/public/content/FOCIS-Lightning2_Primary_Fail?v=a5012776" style="width:100%">
+        			<p><a href="https://www.aflglobal.com/Products/Test-and-Inspection/Fiber-Inspection-and-Cleaning/Fiber-Optic-Inspection/FOCIS-Lightning2-Multi-Fiber-Connector-Inspection-System">FOCIS Lightning®2 Multi-Fiber Optic Connector Inspection System</a></p>
+                    
+                </div>
+                <div class="column2">
+                <img id="images2" src="https://afl-delivery.stylelabs.cloud/api/public/content/3e45b04ad0564b6fadb1e09321164ed5?v=70a19466" alt="" style="width:100%">
+        			<p><a href="https://www.aflglobal.com/Products/Fiber-Optic-Cleaning/Push-Type-Cleaners/One-Click-Cleaners">One-Click® Cleaners</a></p>
+                </div>
+        	   <div class="column2">
+                <img id="images2" src="https://afl-delivery.stylelabs.cloud/api/public/content/1407d34772d94220866fe7f47d4d188a?v=50024760" alt="" style="width:100%">
+                
+                    <p><a href="#">FCP Field Portable Connector Cleaning Kits</a></p>
+                </div>
+        		<div class="column2">
+                
+                <img id="images2" src="https://afl-delivery.stylelabs.cloud/api/public/content/7122fd1c481a451db77c2afb3dcfdf88?v=51008ac4" style="width:100%">
+        			<p><a href="https://www.aflglobal.com/Products/Test-and-Inspection/Fiber-Inspection-and-Cleaning/Fiber-Optic-Inspection/FOCIS-Flex-Fiber-Optic-Connector-Inspection-System">FOCIS Flex Fiber Optic Connector Inspection System</a></p>
+                    
+                </div>
+                
+            </div>
+        </div>
+        <p><br/></p>
+        <h3 class="afl-subTitle" id="speed-of-operations">Learn More</h3>
+        <div id="images" class="row">
+                <div class="column">
+                <a href="/Products/Test-and-Inspection/FTTx-PON-Deployment-Made-EASY"><img src="https://afl-delivery.stylelabs.cloud/api/public/content/FTTx-home?v=b8e44470" alt="" style="width:100%">
+                
+                    <p>FTTx Home</p></a>
+                </div>
+        		<div class="column">
+                
+                <a href="/Products/Test-and-Inspection/FTTx-PON-Deployment-Made-EASY/PON-Verification-and-Activation"><img src="https://afl-delivery.stylelabs.cloud/api/public/content/PON-VerificationActivation?v=1ec14e25" style="width:100%">
+        			<p>PON Verification & Activation</p></a>
+                    
+                </div>
+                <div class="column">
+                <a href="/Products/Test-and-Inspection/FTTx-PON-Deployment-Made-EASY/Troubleshooting-and-Repair"><img src="https://afl-delivery.stylelabs.cloud/api/public/content/TroubleshootingRepair?v=9c72b7d4" alt="" style="width:100%">
+        			<p>Troubleshooting & Repair</p></a>
+                </div>
+            </div>              
+                 
+        <div></div>
+                           
+        <p><br/></p>
+        <div class="flex-container">
+                <div class="flex-item-left">
+                <h2 class="title">Resources</h2>
+                <p>We have a number of resources available to help with decision making. Below are links to some materials to help you learn about FTTx terms, applications and product information.​​​​​​​</p>
+                <ul class="lista">
+                    <li><a href="https://learn.aflglobal.com/test-inspection/pon-reference-guide"> Reference Guide</a> (PDF)</li>
+                    <li><a href="https://afl-delivery.stylelabs.cloud/api/public/content/c6ea764458da49e8869467f0459b693c?v=7b9160e6"> Test & Inspection FTTx Solution Guide</a> (PDF)</li>
+                    <li><a href="https://www.youtube.com/watch?v=RF19JIdlCZs">PON Troubleshooting with the TS100</a> (Video)</li>
+                    <li><a href="https://learn.aflglobal.com/test-inspection/how-a-southeast-telecom-provider-uses-aflflowscout"> Use Case: FlowScout helps PRTC for Troubleshooting</a> (Blog)</li>
+                    
+                </ul>
+        <br/>
+                </div>
+                <div class="flex-item-right">
+                <h2 class="title">More Information</h2>
+                <p>Contact us today to speak with an FTTx expert or email for a quick quote. We are happy to help.<br/><br/></p>
+        <ul class="lista">
+                <li>Sales inquiries: <a href="tel:18002353423">+1 (800) 235-3423</a></li>
+                <li><a href="https://www.aflglobal.com/en/Products/Test-and-Inspection">Test & Inspection Webpage</a></li>
+                <li><a href="https://www.aflglobal.com/en/Contact/Contact-and-RFQ-Form">Quick Quote</a></li>
+                <li><a href="https://www.aflglobal.com/en/Contact/Distribution-Partners">Distribution Partners</a></li>
+        </ul>
+                </div>
+        </div>
+        <p><br/></p>
+        
+        
+        
+        
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230621T152847Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rafael
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rafael
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "85a3bfba-8240-41d2-b5fb-3f7dc5ae9782"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rafael
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230719T182728Z

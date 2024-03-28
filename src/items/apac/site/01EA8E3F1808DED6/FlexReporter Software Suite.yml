@@ -1,0 +1,294 @@
+﻿---
+ID: "239a17bd-d64d-468d-b857-bc26f38704c9"
+Parent: "4d3db5c6-b30c-4f1a-bff6-961f273fca0b"
+Template: "231b4589-f8fc-498f-b0f6-64fabecbc7b9"
+Path: /sitecore/content/AFLGlobal/APAC/Home/Products/Test and Inspection/Test Management and Reporting Software/FlexReporter Software Suite
+SharedFields:
+- ID: "1fbc6a49-6281-48ee-87e9-a3970b145adb"
+  Hint: NavigationFilter
+  Value: |
+    {E0A2A027-0932-4878-A7D6-0416D5263EFB}
+    {61BD64D6-809E-40AE-9297-2724A19329B3}
+    {D063E9D1-C7B5-4B1E-B31E-69886C9C59F5}
+    {500AE4C0-FA7B-463F-8149-EFFF7F044101}
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{DA631FB5-51B3-49F6-9915-732D093CF221}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{DAE7C21D-4D3B-4257-A95C-9104CD8AF409}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 104
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "16863469-616f-4d9e-a66f-02c79610ddaa"
+      Hint: ProductShortDescription
+      Value: "FlexReporter software suite works with AFL Test and Inspection instruments to provide a simple-to-use, high performance cloud enabled reporting platform."
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220714T175600Z
+    - ID: "36d9d67b-3610-4327-963e-e209239944d7"
+      Hint: ProductApplication
+      Value: |
+        <p><strong>APPLICATIONS:</strong></p>
+        <ul style="list-style-type: disc;">
+            <li>Generate acceptance test reports and certify fiber results to Industry Standards</li>
+            <li>Analyze OTDR traces with Bi-directional trace averaging and Macrobend/Microbend detection</li>
+            <li>OTDR event correction</li>
+            <li>Batch-edit OTDR test results to correct improper settings</li>
+        </ul>
+        <p>&nbsp;</p>
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{EE9BAFE9-A55E-406B-8BBF-45ADF7FF9068}"
+    - ID: "4dda6e0a-1c9d-4a8d-890f-11a8eddc2f11"
+      Hint: ProductFeatures
+      Value: |
+        <p><strong>FEATURES:</strong></p>
+        <ul style="list-style-type: disc;">
+            <li>Single software platform supporting AFL test and inspection instruments</li>
+            <li>Wireless field upload of test data using the FlexApp Mobile App</li>
+            <li>Results viewing, editing, and reporting using the FlexReports PC software</li>
+            <li>Reports generation with 3-step configuration using revolutionary, fast cloud-based reporting</li>
+            <li>Comprehensive OTDR, OLTS, and Inspection reporting capability </li>
+            <li>Simple report navigation with hyperlinked test reports</li>
+            <li>Report flexibility and customization with Report Wizard configurations</li>
+        </ul>
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: FlexReporter Software Suite
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rafael
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: "FlexReporter software suite works with AFL Test and Inspection instruments to provide a simple-to-use, high performance cloud enabled reporting platform."
+    - ID: "59ec008e-95ec-4c06-9189-09d4acaf1d7e"
+      Hint: ProductCategory
+      Value: "{25845777-06AC-4EA6-9C01-9128DC971294}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rafael
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: "FlexReporter software suite AFL Test and Inspection instruments simple-to-use cloud enabled reporting platform"
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: FlexReporter Software Suite
+    - ID: "646d0f97-6838-4bff-800d-895747365401"
+      Hint: AFLDocumentList
+      Value: "{D9EA1DB4-315C-43A3-8040-12B289256704}"
+    - ID: "72653cc9-973c-4682-b5c7-26d926959f8f"
+      Hint: ProductImage
+      Value: |
+        <image stylelabs-content-id="306656" stylelabs-content-type="Image" alt="FlexReporter-Software-Suite.png" src="https://afl-delivery.stylelabs.cloud/api/public/content/FlexReporter-Software-Suite?v=d76c9499" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/306656/thumbnail" mediaid="" height="350" width="350" />
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: FlexReporter Software Suite
+    - ID: "8b978017-d437-40aa-b31d-bbf1d560a0cb"
+      Hint: DownloadFileLink
+      Value: |
+        <link id="{A7D11C59-BD3E-4A01-A9D1-A12AF54C381E}" target="_blank" text="SPECIFICATION SHEET" url="/Project/AFL-Global/Product Specification Sheet/Test and Inspection/Test Management and Reporting Software/RPTS-00-2000" linktype="media" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ab69e4b1-f93d-4858-ad42-d00a543e1d6a"
+    - ID: "93dc88f3-05e5-482d-9b9a-c859c8258a73"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image stylelabs-content-id="169961" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/169961/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-Test-and-Inspection-Accessories?v=984f643d" mediaid="" stylelabs-content-type="Image" alt="Test_Accesories_TopLevel.jpg" height="465" width="1336" />
+    - ID: "a40ebd3d-2b41-41fb-90f7-753544ce77c5"
+      Hint: Hero Title1
+      Value: FlexReporter Software Suite
+    - ID: "af4f5f0d-745a-4af7-aee7-2002f0430999"
+      Hint: ProductTitle
+      Value: FlexReporter Software Suite
+    - ID: "b4c4c695-39e8-4d38-b0ed-4f3f8a9a9c83"
+      Hint: ProductDescriptionHeading
+      Value: Product Description
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\nawaz.mehdi@altudo.co
+    - ID: "d93ad815-376a-43bf-b34b-cbad0b1b7128"
+      Hint: ProductLongDescription
+      Value: |
+        <p style="margin-bottom: 0in; line-height: normal;">FlexReporter software suite works with AFL Test and Inspection instruments to provide a simple-to-use, high performance cloud enabled reporting platform. FlexReporter combines FlexApp, a mobile App that wirelessly transfers test results to FlexReporter-Cloud from the field with FlexReports, a fast, comprehensive, 3-step PC software reporting solution. The FlexReporter software suite was developed to make the complicated task of reporting faster, simpler, and easy-to-use.</p>
+        <p style="margin-bottom: 0in; line-height: normal;">&nbsp;</p>
+        <p style="margin-bottom: 0in; line-height: normal;"><strong>FlexReports for simple, ultra-fast report generation:</strong> FlexReports is a Windows&reg;-compatible PC software that provides comprehensive test results analysis and reporting for AFL FlexScan OTDRs, FOCIS inspection systems, OLTS, and OPM products. It is available in both Basic and Advanced versions. FlexReports Basic software enables users to quickly view and analyze results. It allows users to generate simple single-fiber OTDR and OLTS reports and includes a 60-day Advanced trial that includes full reporting and OTDR Trace Batch Editing. </p>
+        <p style="margin-bottom: 0in; line-height: normal;">&nbsp;</p>
+        <p style="margin-bottom: 0in; line-height: normal;">FlexReports Advanced is a full featured reporting and post-processing solution for generation of professional acceptance reports using Industry Standards. It enables users to generate reports showing dual-wavelength traces and event tables, end-face image, event map and loss data for each fiber. Users can apply Pass/Fail thresholds to OTDR event, OLTS measurements, and create and apply application rules per Industry Standards. FlexReports OTDR Trace</p>
+        <p style="margin-bottom: 0in; line-height: normal;">Batch Editor enables users to edit and analyze multiple trace files simultaneously.</p>
+        <p style="margin-bottom: 0in; line-height: normal;">&nbsp;</p>
+        <p style="margin-bottom: 0in; line-height: normal;"><strong>FlexApp for wireless transfer of data:</strong> FlexApp is a mobile Android and iOS App that supports AFL&rsquo;s FlexScan&reg; OTDRs and FOCIS connector inspection products (FOCIS Flex, FOCIS Lightning). FlexApp wirelessly transfers test results from any FlexScan OTDR or FOCIS inspection probe directly to FlexReporter-Cloud from the field for subsequent analysis, editing, and reports generation with FlexReports PC software.</p>
+        <p style="margin-bottom: 0in; line-height: normal;">&nbsp;</p>
+        <p style="margin-bottom: 0in; line-height: normal;"><strong>User friendly interface makes reporting and reviewing results easy:</strong> OTDR, certification, inspection, and OPM test results are indicated by specific icons to simplify selection of test results to report and review.</p>
+        <p style="margin-bottom: 0in; line-height: normal;">&nbsp;</p>
+        <p style="margin-bottom: 0in; line-height: normal;"><strong>Report performance, flexibility and customization:</strong> Features an ultra-fast and easy to configure cloud report service for large OTDR reports.  AFL is a leading provider of high fiber count cables and FlexReporter generates a 6,912-fiber cable summary report in minutes. Also Includes a highly configurable Report Wizard that enables users to generate personalized reports for customer&rsquo;s job acceptance. Generated reports meet accepted industry documentation and feature customized cover pages with customer&rsquo;s logos. Can create dedicated inspection, insertion loss and OTDR reports, as well as reports combining OTDR, power meter, and inspection results.</p>
+        <p style="margin-bottom: 0in; line-height: normal;">&nbsp;</p>
+        <p><strong>Industry Standard and user-defined reports:</strong> Test to Industry Standards (ISO/TIA/EN), Application Rules (IEEE/ ANSI), or create User Rules and User Application Rules. As new rules and applications develop, compare existing test results to the new rules, such as emerging Ethernet standards. Supports industry-standard 10GbE IEEE 802.3ae specification using pre-configured 10GbE application rules. Produces detailed 10GbE test report.</p>
+        <p>&nbsp;</p>
+        <p><strong>Include inspection images in reports:</strong> FlexReports software allow integration of fiber inspection images from the FOCIS family inspection products to be included in customized test reports. FlexReports supports Bellcore/Telcordia .SOR file formats.</p>
+        <p>&nbsp;</p>
+        <p>&nbsp;</p>
+        <p><strong>Basic and Advanced Software Comparison </strong></p>
+        <!--startTable -->
+        <p style="margin:0in;font-size:15px;font-family:'Calibri',sans-serif;"><strong>FLEXREPORTS FEATURES&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  BASIC LICENSE&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;  ADVANCED LICENSE</strong></p>
+        <table style="border-collapse:collapse;border:none;">
+            <tbody>
+                <tr>
+                    <td style="width: 155.8pt;border: 1pt solid windowtext;padding: 0in 5.4pt;vertical-align: top;">
+                    <p style="margin:0in;font-size:15px;font-family:'Calibri',sans-serif;"><span style="font-size: 11px;">OTDR Trace Viewer, OLTS Viewer/Editor</span></p>
+                    </td>
+                    <td style="width: 155.85pt;border-top: 1pt solid windowtext;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-image: initial;border-left: none;padding: 0in 5.4pt;vertical-align: top;">
+                    <p style="margin:0in;font-size:15px;font-family:'Calibri',sans-serif;text-align: center;"><img alt="" style="width: 15px;" src="https://afl-delivery.stylelabs.cloud/api/public/content/Diamond?v=b9d21fdb" /></p>
+                    </td>
+                    <td style="width: 155.85pt;border-top: 1pt solid windowtext;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-image: initial;border-left: none;padding: 0in 5.4pt;vertical-align: top;">
+                    <p style="margin:0in;font-size:15px;font-family:'Calibri',sans-serif;sans-serif;text-align: center;">&nbsp;</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="width: 155.8pt;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-left: 1pt solid windowtext;border-image: initial;border-top: none;padding: 0in 5.4pt;vertical-align: top;">
+                    <p style="margin:0in;font-size:15px;font-family:'Calibri',sans-serif;"><span style="font-size: 11px;">OTDR Trace analysis with Bidirectional and Macrobend analysis</span></p>
+                    </td>
+                    <td style="width: 155.85pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;">
+                    <p style="margin:0in;font-size:15px;font-family:'Calibri',sans-serif;sans-serif;text-align: center;"><img alt="" style="width: 15px;" src="https://afl-delivery.stylelabs.cloud/api/public/content/Diamond?v=b9d21fdb" /></p>
+                    </td>
+                    <td style="width: 155.85pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;vertical-align: top;">
+                    <p style="margin:0in;font-size:15px;font-family:'Calibri',sans-serif;">&nbsp;</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="width: 155.8pt;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-left: 1pt solid windowtext;border-image: initial;border-top: none;padding: 0in 5.4pt;vertical-align: top;">
+                    <p style="margin:0in;font-size:15px;font-family:'Calibri',sans-serif;"><span style="font-size: 11px;">OTDR Add/Delete events from the Trace Viewer</span></p>
+                    </td>
+                    <td style="width: 155.85pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;vertical-align: middle;">
+                    <p style="margin:0in;font-size:15px;font-family:'Calibri',sans-serif;sans-serif;text-align: center;"><img alt="" style="width: 15px;" src="https://afl-delivery.stylelabs.cloud/api/public/content/Diamond?v=b9d21fdb" /></p>
+                    </td>
+                    <td style="width: 155.85pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;vertical-align: top;">
+                    <p style="margin:0in;font-size:15px;font-family:'Calibri',sans-serif;">&nbsp;</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="width: 155.8pt;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-left: 1pt solid windowtext;border-image: initial;border-top: none;padding: 0in 5.4pt;vertical-align: top;">
+                    <p style="margin:0in;font-size:15px;font-family:'Calibri',sans-serif;"><span style="font-size: 11px;">Single fiber reporting for OTDR and OLTS results</span></p>
+                    </td>
+                    <td style="width: 155.85pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;vertical-align: middle;">
+                    <p style="margin:0in;font-size:15px;font-family:'Calibri',sans-serif;sans-serif;text-align: center;"><img alt="" style="width: 15px;" src="https://afl-delivery.stylelabs.cloud/api/public/content/Diamond?v=b9d21fdb" /></p>
+                    </td>
+                    <td style="width: 155.85pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;vertical-align: top;">
+                    <p style="margin:0in;font-size:15px;font-family:'Calibri',sans-serif;text-align:center;">&nbsp;</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="width: 155.8pt;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-left: 1pt solid windowtext;border-image: initial;border-top: none;padding: 0in 5.4pt;vertical-align: top;">
+                    <p style="margin:0in;font-size:15px;font-family:'Calibri',sans-serif;"><span style="font-size: 11px;">.SOR file to .CSV file export</span></p>
+                    </td>
+                    <td style="width: 155.85pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;vertical-align: middle;">
+                    <p style="margin:0in;font-size:15px;font-family:'Calibri',sans-serif;sans-serif;text-align: center;"><img alt="" style="width: 15px;" src="https://afl-delivery.stylelabs.cloud/api/public/content/Diamond?v=b9d21fdb" /></p>
+                    </td>
+                    <td style="width: 155.85pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;vertical-align: top;">
+                    <p style="margin:0in;font-size:15px;font-family:'Calibri',sans-serif;">&nbsp;</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="width: 155.8pt;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-left: 1pt solid windowtext;border-image: initial;border-top: none;padding: 0in 5.4pt;vertical-align: top;">
+                    <p style="margin:0in;font-size:15px;font-family:'Calibri',sans-serif;"><span style="font-size: 11px;">60-Day Reporting and OTDR Trace Batch Editor license trial&nbsp;</span></p>
+                    </td>
+                    <td style="width: 155.85pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;vertical-align: middle;">
+                    <p style="margin:0in;font-size:15px;font-family:'Calibri',sans-serif;sans-serif;text-align: center;"><img alt="" style="width: 15px;" src="https://afl-delivery.stylelabs.cloud/api/public/content/Diamond?v=b9d21fdb" /></p>
+                    </td>
+                    <td style="width: 155.85pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;vertical-align: top;">
+                    <p style="margin:0in;font-size:15px;font-family:'Calibri',sans-serif;">&nbsp;</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="width: 155.8pt;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-left: 1pt solid windowtext;border-image: initial;border-top: none;padding: 0in 5.4pt;vertical-align: top;">
+                    <p style="margin:0in;font-size:15px;font-family:'Calibri',sans-serif;"><span style="font-size: 11px;">Download of test results stored in the FlexReporter-Cloud</span></p>
+                    </td>
+                    <td style="width: 155.85pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;vertical-align: top;">
+                    <p style="margin:0in;font-size:15px;font-family:'Calibri',sans-serif;">&nbsp;</p>
+                    </td>
+                    <td style="width: 155.85pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;vertical-align: middle;">
+                    <p style="margin:0in;font-size:15px;font-family:'Calibri',sans-serif;sans-serif;text-align: center;"><img alt="" style="width: 15px;" src="https://afl-delivery.stylelabs.cloud/api/public/content/Diamond?v=b9d21fdb" /></p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="width: 155.8pt;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-left: 1pt solid windowtext;border-image: initial;border-top: none;padding: 0in 5.4pt;vertical-align: top;">
+                    <p style="margin:0in;font-size:15px;font-family:'Calibri',sans-serif;"><span style="font-size: 11px;">Cloud Reports - 3-step reporting using new fast FlexReporter cloud report service</span></p>
+                    </td>
+                    <td style="width: 155.85pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;vertical-align: top;">
+                    <p style="margin:0in;font-size:15px;font-family:'Calibri',sans-serif;">&nbsp;</p>
+                    </td>
+                    <td style="width: 155.85pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;vertical-align: middle;">
+                    <p style="margin:0in;font-size:15px;font-family:'Calibri',sans-serif;sans-serif;text-align: center;"><img alt="" style="width: 15px;" src="https://afl-delivery.stylelabs.cloud/api/public/content/Diamond?v=b9d21fdb" /></p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="width: 155.8pt;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-left: 1pt solid windowtext;border-image: initial;border-top: none;padding: 0in 5.4pt;vertical-align: top;">
+                    <p style="margin:0in;font-size:15px;font-family:'Calibri',sans-serif;"><span style="font-size: 11px;">Hyperlinked PDF test reports with clear Pass/Fail indicators</span></p>
+                    </td>
+                    <td style="width: 155.85pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;vertical-align: top;">
+                    <p style="margin:0in;font-size:15px;font-family:'Calibri',sans-serif;">&nbsp;</p>
+                    </td>
+                    <td style="width: 155.85pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;vertical-align: middle;">
+                    <p style="margin:0in;font-size:15px;font-family:'Calibri',sans-serif;sans-serif;text-align: center;"><img alt="" style="width: 15px;" src="https://afl-delivery.stylelabs.cloud/api/public/content/Diamond?v=b9d21fdb" /></p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="width: 155.8pt;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-left: 1pt solid windowtext;border-image: initial;border-top: none;padding: 0in 5.4pt;vertical-align: top;">
+                    <p style="margin:0in;font-size:15px;font-family:'Calibri',sans-serif;"><span style="font-size: 11px;">PC Reports Wizard, compatible with TRM&reg;</span></p>
+                    </td>
+                    <td style="width: 155.85pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;vertical-align: top;">
+                    <p style="margin:0in;font-size:15px;font-family:'Calibri',sans-serif;">&nbsp;</p>
+                    </td>
+                    <td style="width: 155.85pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;vertical-align: middle;">
+                    <p style="margin:0in;font-size:15px;font-family:'Calibri',sans-serif;sans-serif;text-align: center;"><img alt="" style="width: 15px;" src="https://afl-delivery.stylelabs.cloud/api/public/content/Diamond?v=b9d21fdb" /></p>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="width: 155.8pt;border-right: 1pt solid windowtext;border-bottom: 1pt solid windowtext;border-left: 1pt solid windowtext;border-image: initial;border-top: none;padding: 0in 5.4pt;vertical-align: top;">
+                    <p style="margin:0in;font-size:15px;font-family:'Calibri',sans-serif;"><span style="font-size: 11px;">Batch editing of OTDR .SOR files for renaming results, correcting Pass/Fail limits and launch cable settings</span></p>
+                    </td>
+                    <td style="width: 155.85pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;vertical-align: top;">
+                    <p style="margin:0in;font-size:15px;font-family:'Calibri',sans-serif;">&nbsp;</p>
+                    </td>
+                    <td style="width: 155.85pt;border-top: none;border-left: none;border-bottom: 1pt solid windowtext;border-right: 1pt solid windowtext;padding: 0in 5.4pt;vertical-align: middle;">
+                    <p style="margin:0in;font-size:15px;font-family:'Calibri',sans-serif;sans-serif;text-align: center;"><img alt="" style="width: 15px;" src="https://afl-delivery.stylelabs.cloud/api/public/content/Diamond?v=b9d21fdb" /></p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <p style="margin:0in;font-size:15px;font-family:'Calibri',sans-serif;">&nbsp;</p>
+        <!--endTable -->
+        <p>&nbsp;</p>
+        <span style="line-height: 107%;">For details and ordering information, see the FlexReporter data sheet.</span>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240326T105704Z
+    - ID: "ef2f63f2-c942-49a5-9c43-ebcfec40337e"
+      Hint: ProductName
+      Value: FlexReporter Software Suite
+    - ID: "fb72ff1d-6b1d-4970-916a-8162ff077e62"
+      Hint: ProcutItems
+      Value: |
+        {7502B3D5-A205-4A7F-8104-08E3D53E00D5}
+        {C31C2D61-0387-436F-AC41-01E679511392}
+        {D53C05A1-FD4C-427E-8812-A05F9F65708A}
+        {84C27700-2377-4795-ABB6-7A7154D95403}
+        {3EA3970D-58C9-446C-8200-F6C5EE901F6B}
+        {8CE5A75E-8948-400B-938F-3AF9C34823D3}
+        {3B21C403-C5AB-47C7-81BC-C757F68819D8}
+        {C942D14E-12FB-468B-A8A2-96CB150C250F}
+        {4CB4B513-E071-4C55-956F-F149AB5F4112}
+        {B848144D-FBFB-46AE-A7FD-2EA4053631F4}
+        {787DD9BC-EDA7-4251-B706-A4DCA79ED638}
+        {F7D3DC6B-0A5B-436A-9966-86F40F1AA7FE}
+        {E563C707-D3A1-46ED-AA5E-1E944039E008}
+        {C5B2268A-ECC9-463E-B8AA-72A5ABB04547}
+        {0E0E54E5-2A23-4D43-A12D-1C51FFC3E664}

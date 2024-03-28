@@ -1,0 +1,142 @@
+﻿---
+ID: "e7f10e02-a5c1-4b37-8fa5-28529e5b338e"
+Parent: "702d9be5-9e71-4352-8470-f6c4b5621ac7"
+Template: "231b4589-f8fc-498f-b0f6-64fabecbc7b9"
+Path: /sitecore/content/AFLGlobal/APAC/Home/Products/Test and Inspection/UP Rogue/Multi Fibre Switch
+SharedFields:
+- ID: "1fbc6a49-6281-48ee-87e9-a3970b145adb"
+  Hint: NavigationFilter
+  Value: |
+    {E0A2A027-0932-4878-A7D6-0416D5263EFB}
+    {61BD64D6-809E-40AE-9297-2724A19329B3}
+    {D063E9D1-C7B5-4B1E-B31E-69886C9C59F5}
+    {500AE4C0-FA7B-463F-8149-EFFF7F044101}
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{8C5922A0-10CD-486E-841D-D3EBB0E4379F}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{DAE7C21D-4D3B-4257-A95C-9104CD8AF409}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 101
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "16863469-616f-4d9e-a66f-02c79610ddaa"
+      Hint: ProductShortDescription
+      Value: "The density of today’s networks are driving more demand for multi-fibre connectivity creating challenges in efficiently testing these types of connections. AFL's Multi-fibre switch answers this challenge by enabling the testing of 12 fibre MPO connected cables without the need to use a breakout cable, saving time and money."
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220128T171038Z
+    - ID: "36d9d67b-3610-4327-963e-e209239944d7"
+      Hint: ProductApplication
+      Value: |
+        <h3 style="font-size: 16px; padding-bottom: 5px;">Applications:</h3><ul class="productDetailApplications">
+        	<li>Converts a single port tester into a multi-fibre tester utilising your existing OLTS, OTDR, and VFL test equipment</li>
+        	<li>Efficiently test 12-fibre links without disconnecting/reconnecting</li>
+        	<li>Bi-directional testing without moving cables</li>
+        	
+        	
+        	
+        	
+        	
+        	
+        	
+        </ul>
+    - ID: "4dda6e0a-1c9d-4a8d-890f-11a8eddc2f11"
+      Hint: ProductFeatures
+      Value: |
+        <h3 style="font-size: 16px; padding-bottom: 5px;">Features:</h3><ul class="productDetailFeatures">
+        	<li style="display: list-item;">12 fibre switching capability</li>
+        	<li style="display: list-item;">Dual wavelength, Single-Mode or Multimode</li>
+        	<li style="display: list-item;">Bidirectional</li>
+        	<li style="display: list-item;">Large LCD display</li>
+        	<li style="display: none;">Rechargeable lithium ion battery</li>
+        	<li style="display: none;">USB port for charging</li>
+        	
+        	
+        	
+        	
+        </ul>
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Multi Fibre Switch
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\archana
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: "The density of today’s networks are driving more demand for multi-fibre connectivity creating challenges in efficiently testing these types of connections. AFL's Multi-fibre switch answers this challenge by enabling the testing of 12 fibre MPO connected cables without the need to use a breakout cable, saving time and money."
+    - ID: "59ec008e-95ec-4c06-9189-09d4acaf1d7e"
+      Hint: ProductCategory
+      Value: "{2EE02DB2-F84C-471F-A98E-5F3354935C40}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\archana
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: multi, fibre, switch, network, test, inspection
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: Multi Fibre Switch
+    - ID: "72653cc9-973c-4682-b5c7-26d926959f8f"
+      Hint: ProductImage
+      Value: |
+        <image stylelabs-content-id="184517" src="https://afl-delivery.stylelabs.cloud/api/public/content/2b3fa39fdc594f4aa00d8a76f37a476f?v=556091a1" stylelabs-content-type="Image" alt="Multi Fibre Switch " thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/184517/thumbnail" />
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: Multi Fibre Switch
+    - ID: "8b978017-d437-40aa-b31d-bbf1d560a0cb"
+      Hint: DownloadFileLink
+      Value: |
+        <link text="SPECIFICATION SHEET" target="_blank" linktype="media" id="{8678E43B-4708-46A3-BA15-8F56CF3C19FA}" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "eaf2b2a1-43b8-47a1-97c4-683b6534d2e2"
+    - ID: "93dc88f3-05e5-482d-9b9a-c859c8258a73"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="73473" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/73473/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/homehero4?v=247592cf" stylelabs-content-type="Image" alt="AFL-Desktop-Homepage-photos_4.jpg" height="571" width="1338" />
+    - ID: "af4f5f0d-745a-4af7-aee7-2002f0430999"
+      Hint: ProductTitle
+      Value: "Multi-Fibre Switch"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d1f74386-05c3-4c80-aa18-38d21db05fdf"
+      Hint: ProductId
+      Value: 2490
+    - ID: "d93ad815-376a-43bf-b34b-cbad0b1b7128"
+      Hint: ProductLongDescription
+      Value: |
+        <p style="margin: 0px; font-stretch: normal; font-size: 16px; line-height: normal; font-family: Arial;">   <span style="-webkit-font-kerning: none;"><b>Multi-Fibre Switch&nbsp;</b></span></p>  <p style="margin: 0px; font-stretch: normal; font-size: 14px; line-height: normal; font-family: Arial; min-height: 16px;">   &nbsp;</p>  <p style="margin: 0px; font-stretch: normal; font-size: 14px; line-height: normal; font-family: Arial;">   <span style="-webkit-font-kerning: none;"><b>Efficiently tests multi-fibre links</b>.</span></p>  <p style="margin: 0px; font-stretch: normal; font-size: 14px; line-height: normal; font-family: Arial; min-height: 16px;">   &nbsp;</p>  <p style="margin: 0px; font-stretch: normal; font-size: 14px; line-height: normal; font-family: Arial;">   <span style="-webkit-font-kerning: none;">The density demands of today&rsquo;s networks are driving more demand for multi-fibre connectivity. As the adoption of multi-fibre connectors&nbsp;becomes more prevalent&nbsp;in data centres, the ability to test these types of connections accurately and quickly has become even more critical.&nbsp;</span></p>  <p style="margin: 0px; font-stretch: normal; font-size: 14px; line-height: normal; font-family: Arial; min-height: 16px;">   &nbsp;</p>  <p style="margin: 0px; font-stretch: normal; font-size: 14px; line-height: normal; font-family: Arial;">   <span style="-webkit-font-kerning: none;">AFL&#39;s Multi-Fibre switch enables the testing of 12 fibre cables without the need to use a breakout cable.&nbsp; The switch allows you to utilise a single piece of test equipment to seamlessly cycle through all of the fibres in a connector regardless of polarity without having to disconnect and reconnect your test equipment making the testing of your network more efficient, saving you both time and money.</span></p>  <p style="margin: 0px; font-stretch: normal; font-size: 14px; line-height: normal; font-family: Arial; min-height: 16px;">   &nbsp;</p>  <p style="margin: 0px; font-stretch: normal; font-size: 14px; line-height: normal; font-family: Arial;">   <span style="-webkit-font-kerning: none;">AFL&rsquo;s Multi-Fibre switch can be used with AFL&#39;s Rogue platform to make testing automatic.</span></p>  <p style="margin: 0px; font-stretch: normal; font-size: 14px; line-height: normal; font-family: Arial; min-height: 16px;">   &nbsp;</p>  <p style="margin: 0px; font-stretch: normal; font-size: 14px; line-height: normal; font-family: Arial;">   <span style="-webkit-font-kerning: none;">It is also compatible with your existing OTDR, OLTS and Certification equipment.</span></p>  <div>   &nbsp;</div>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231122T212535Z
+    - ID: "ef2f63f2-c942-49a5-9c43-ebcfec40337e"
+      Hint: ProductName
+      Value: "Multi-Fibre Switch"
+    - ID: "fb72ff1d-6b1d-4970-916a-8162ff077e62"
+      Hint: ProcutItems
+      Value: |
+        {7502B3D5-A205-4A7F-8104-08E3D53E00D5}
+        {C31C2D61-0387-436F-AC41-01E679511392}
+        {D53C05A1-FD4C-427E-8812-A05F9F65708A}
+        {84C27700-2377-4795-ABB6-7A7154D95403}
+        {3EA3970D-58C9-446C-8200-F6C5EE901F6B}
+        {8CE5A75E-8948-400B-938F-3AF9C34823D3}
+        {3B21C403-C5AB-47C7-81BC-C757F68819D8}
+        {C942D14E-12FB-468B-A8A2-96CB150C250F}
+        {4CB4B513-E071-4C55-956F-F149AB5F4112}
+        {B848144D-FBFB-46AE-A7FD-2EA4053631F4}
+        {787DD9BC-EDA7-4251-B706-A4DCA79ED638}
+        {F7D3DC6B-0A5B-436A-9966-86F40F1AA7FE}
+        {E563C707-D3A1-46ED-AA5E-1E944039E008}
+        {C5B2268A-ECC9-463E-B8AA-72A5ABB04547}
+        {0E0E54E5-2A23-4D43-A12D-1C51FFC3E664}

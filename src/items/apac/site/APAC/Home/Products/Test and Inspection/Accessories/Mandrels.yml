@@ -1,0 +1,423 @@
+﻿---
+ID: "b0903e27-6714-483a-8912-62696b88f630"
+Parent: "8ebae86c-7bcb-4182-a175-d479a8dd5ea3"
+Template: "231b4589-f8fc-498f-b0f6-64fabecbc7b9"
+Path: /sitecore/content/AFLGlobal/APAC/Home/Products/Test and Inspection/Accessories/Mandrels
+SharedFields:
+- ID: "1fbc6a49-6281-48ee-87e9-a3970b145adb"
+  Hint: NavigationFilter
+  Value: |
+    {E0A2A027-0932-4878-A7D6-0416D5263EFB}
+    {61BD64D6-809E-40AE-9297-2724A19329B3}
+    {D063E9D1-C7B5-4B1E-B31E-69886C9C59F5}
+    {500AE4C0-FA7B-463F-8149-EFFF7F044101}
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{DA631FB5-51B3-49F6-9915-732D093CF221}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{DAE7C21D-4D3B-4257-A95C-9104CD8AF409}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 104
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "16863469-616f-4d9e-a66f-02c79610ddaa"
+      Hint: ProductShortDescription
+      Value: "To meet the new multimode light source requirements in TIA/EIA-568-B, AFL offers mandrels for 50 and 62.5 µm test jumpers with 3 mm jackets. Both mandrels have grooves to ensure that jumpers are wrapped exactly five times (as specified by TIA/EIA-568-B) and can be easily attached to test jumpers in seconds without tools or tape.  "
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220303T154344Z
+    - ID: "36d9d67b-3610-4327-963e-e209239944d7"
+      Hint: ProductApplication
+      Value: |
+        <h3 style="font-size: 16px; padding-bottom: 5px;">Applications:</h3><ul class="productDetailApplications">
+         <li>Required by TIA/EIA-568-B to measure attenuation on multimode fiber links</li>
+         <li>Enables certification of multimode links for Gigabit and 10 Gigabit Ethernet</li>
+         <li>Allows existing 850/1300nm LED light sources to test 50 and 62.5µm links</li>
+         <li>May be reused indefinitely</li>
+         
+         
+         
+         
+         
+         
+        </ul>
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4dda6e0a-1c9d-4a8d-890f-11a8eddc2f11"
+      Hint: ProductFeatures
+      Value: |
+        <h3 style="font-size: 16px; padding-bottom: 5px;">Features:</h3><ul class="productDetailFeatures">
+         <li>Mandrels have grooves to ensure that jumpers are wrapped exactly five times (as specified by TIA/EIA-568-B)</li>
+         <li>Attaches to 3mm jumpers in seconds, without tools or tape</li>
+         <li>Allows existing 850/1300nm LED light sources to test 50 and 62.5µm links</li>
+         <li>May be reused indefinitely</li>
+         
+         
+         
+         
+         
+         
+        </ul>
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Mandrels
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\archana
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: "To meet the new multimode light source requirements in TIA/EIA-568-B, AFL offers mandrels for 50 and 62.5 µm test jumpers with 3 mm jackets. Both mandrels have grooves to ensure that jumpers are wrapped exactly five times (as specified by TIA/EIA-568-B) and can be easily attached to test jumpers in seconds without tools or tape.  "
+    - ID: "59ec008e-95ec-4c06-9189-09d4acaf1d7e"
+      Hint: ProductCategory
+      Value: "{527518B8-EA3A-4804-8844-1F0437F5CAA9}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\archana
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: "Mandrels, 50 µm, 62.5 µm, TIA/EIA-568B, TIA/EIA-568-B requirements, jumpers, multimode loss testing"
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: Mandrels
+    - ID: "646d0f97-6838-4bff-800d-895747365401"
+      Hint: AFLDocumentList
+      Value: "{49FA2529-4BC1-4BD5-8480-9AFA57FD074E}"
+    - ID: "72653cc9-973c-4682-b5c7-26d926959f8f"
+      Hint: ProductImage
+      Value: |
+        <image stylelabs-content-id="46243" src="https://afl-delivery.stylelabs.cloud/api/public/content/97fab994538b499ca4db0f6fc095ca01?v=97531aa7|https://afl-delivery.stylelabs.cloud/api/public/content/24f1866c68f04f60a4e08f8058e9f9cd?v=ede301a1" stylelabs-content-type="Image" alt="Mandrels" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/46243/thumbnail" />
+    - ID: "8b978017-d437-40aa-b31d-bbf1d560a0cb"
+      Hint: DownloadFileLink
+      Value: |
+        <link text="SPECIFICATION SHEET" linktype="external" url="https://afl-delivery.stylelabs.cloud/api/public/content/5fb6031873f24edcbc7f21464704d085?v=bf58af69" anchor="" target="_blank" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "076c5fd7-8202-4b99-866a-41226d185152"
+    - ID: "93dc88f3-05e5-482d-9b9a-c859c8258a73"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="169961" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/169961/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-Test-and-Inspection-Accessories?v=a98c1e72" stylelabs-content-type="Image" alt="Test_Accesories_TopLevel.jpg" height="465" width="1336" />
+    - ID: "ab4c1906-c756-4771-818b-3683089665ee"
+      Hint: ProductMediaItems
+      Value: |
+        {189BCB76-5A7E-44AB-9EBA-724C95A32DDA}
+        {38AF41BC-D5C2-44AF-A0D0-7AE583BD67FF}
+    - ID: "af4f5f0d-745a-4af7-aee7-2002f0430999"
+      Hint: ProductTitle
+      Value: Mandrels
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sripada
+    - ID: "d1f74386-05c3-4c80-aa18-38d21db05fdf"
+      Hint: ProductId
+      Value: 614
+    - ID: "d93ad815-376a-43bf-b34b-cbad0b1b7128"
+      Hint: ProductLongDescription
+      Value: |
+        <h2>   <strong>Mandrels for use with 50 and 62.5 &micro;m multimode test jumpers with 3 mm jackets</strong></h2>
+        <p class="BodyCopy">   TIA/EIA-568-B specifies that attenuation (insertion loss) measurements of multimode fiber links for all applications must be made using an overfilled light source, such as an LED, with a mandrel-wrap mode filter on the transmit jumper. A key advantage of this specification is that it allows the use of existing overfilled LED light sources to certify both 50 and 62.5 &micro;m fiber links for current and planned high bit rate applications including Gigabit Ethernet and 10 Gigabit Ethernet.<br />
+        <br />
+        To meet the new multimode light source requirements in TIA/EIA-568-B, we offer mandrels for 50 and 62.5 &micro;m test jumpers with 3 mm jackets. Both mandrels have grooves to ensure that jumpers are wrapped exactly five times (as specified by TIA/EIA-568-B) and can be easily attached to test jumpers in seconds without tools or tape.</p>
+        <h3>   <span class="SubTitle">Features</span></h3>
+        <ul>
+            <li>    Required by TIA/EIA-568-B to measure attenuation on multimode fiber links</li>
+            <li>    Enables certification of multimode links for Gigabit and 10 Gigabit Ethernet</li>
+            <li>    Allows existing 850/1300nm LED light sources to test 50 and 62.5&micro;m links</li>
+            <li>    Attaches to 3mm jumpers in seconds, without tools or tape&nbsp;</li>
+        </ul>
+        <h3>   Ordering Information</h3>
+        <br />
+        <table border="1" cellpadding="0" cellspacing="0">
+            <tbody>
+                <tr>
+                    <td id="title" style="width:324px;">      <strong>&nbsp;DESCRIPTION</strong></td>
+                    <td id="title" style="width:102px;">      <strong>&nbsp;AFL NO.</strong></td>
+                </tr>
+                <tr>
+                    <td style="width:324px;">      &nbsp;Kit with two mandrels: 62.5 and 50 &micro;m fiber</td>
+                    <td style="width:102px;">      &nbsp;5400-00-0900PZ</td>
+                </tr>
+                <tr>
+                    <td style="width:324px;">      &nbsp;Mandrel, 62.5 &micro;m fiber</td>
+                    <td style="width:102px;">      &nbsp;5400-00-0201PZ</td>
+                </tr>
+                <tr>
+                    <td style="width:324px;">      &nbsp;Mandrel, 50 &micro;m fiber</td>
+                    <td style="width:102px;">      &nbsp;5400-00-0202PZ</td>
+                </tr>
+            </tbody>
+        </table>
+        <br />
+        <style>
+            table {
+            border-collapse: collapse;
+            border-spacing: 0;
+            width: 100% !important;
+            border: 1px solid #ddd;
+            background-color: #FFFFFF;
+            }
+            th, td {
+            text-align: left;
+            padding: 16px;
+            }
+            tr:nth-child(even) {
+            background-color: rgba(128, 128, 128, 0.07);
+            }
+            #title {
+            background-color: #00c0f3 !important;
+            color: #FFFFFF !important;
+            }
+            td {
+            padding: 15px !important;
+            border-right: 1px solid rgba(128, 128, 128, 0.5) !important;
+            border-bottom: 1px solid rgba(128, 128, 128, 0.5) !important;
+            border-top-color: rgba(128, 128, 128, 0.5) !important;
+            border-left-color: rgba(128, 128, 128, 0.5) !important;
+            border-top-style: solid !important;
+            border-left-style: solid !important;
+            text-align: left !important;
+            line-height: 1.5 !important;
+            display: table-cell !important;
+            }
+            .afl-subPages table tbody tr td {
+            font-size: 15px !important;
+            }
+            tr:hover {
+            background-color: #e6e6e6;
+            }
+        </style>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230317T054957Z
+    - ID: "ef2f63f2-c942-49a5-9c43-ebcfec40337e"
+      Hint: ProductName
+      Value: Mandrels
+    - ID: "fb72ff1d-6b1d-4970-916a-8162ff077e62"
+      Hint: ProcutItems
+      Value: |
+        {7502B3D5-A205-4A7F-8104-08E3D53E00D5}
+        {C31C2D61-0387-436F-AC41-01E679511392}
+        {D53C05A1-FD4C-427E-8812-A05F9F65708A}
+        {84C27700-2377-4795-ABB6-7A7154D95403}
+        {3EA3970D-58C9-446C-8200-F6C5EE901F6B}
+        {8CE5A75E-8948-400B-938F-3AF9C34823D3}
+        {3B21C403-C5AB-47C7-81BC-C757F68819D8}
+        {C942D14E-12FB-468B-A8A2-96CB150C250F}
+        {4CB4B513-E071-4C55-956F-F149AB5F4112}
+        {B848144D-FBFB-46AE-A7FD-2EA4053631F4}
+        {787DD9BC-EDA7-4251-B706-A4DCA79ED638}
+        {F7D3DC6B-0A5B-436A-9966-86F40F1AA7FE}
+        {E563C707-D3A1-46ED-AA5E-1E944039E008}
+        {C5B2268A-ECC9-463E-B8AA-72A5ABB04547}
+        {0E0E54E5-2A23-4D43-A12D-1C51FFC3E664}
+  - Version: 2
+    Fields:
+    - ID: "16863469-616f-4d9e-a66f-02c79610ddaa"
+      Hint: ProductShortDescription
+      Value: "To meet the new multimode light source requirements in TIA/EIA-568-B, AFL offers mandrels for 50 and 62.5 µm test jumpers with 3 mm jackets. Both mandrels have grooves to ensure that jumpers are wrapped exactly five times (as specified by TIA/EIA-568-B) and can be easily attached to test jumpers in seconds without tools or tape.  "
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230322T142222Z
+    - ID: "36d9d67b-3610-4327-963e-e209239944d7"
+      Hint: ProductApplication
+      Value: |
+        <h3 style="font-size: 16px; padding-bottom: 5px;">Applications:</h3><ul class="productDetailApplications">
+         <li>Required by TIA/EIA-568-B to measure attenuation on multimode fiber links</li>
+         <li>Enables certification of multimode links for Gigabit and 10 Gigabit Ethernet</li>
+         <li>Allows existing 850/1300nm LED light sources to test 50 and 62.5µm links</li>
+         <li>May be reused indefinitely</li>
+         
+         
+         
+         
+         
+         
+        </ul>
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{EE9BAFE9-A55E-406B-8BBF-45ADF7FF9068}"
+    - ID: "4dda6e0a-1c9d-4a8d-890f-11a8eddc2f11"
+      Hint: ProductFeatures
+      Value: |
+        <h3 style="font-size: 16px; padding-bottom: 5px;">Features:</h3><ul class="productDetailFeatures">
+         <li>Mandrels have grooves to ensure that jumpers are wrapped exactly five times (as specified by TIA/EIA-568-B)</li>
+         <li>Attaches to 3mm jumpers in seconds, without tools or tape</li>
+         <li>Allows existing 850/1300nm LED light sources to test 50 and 62.5µm links</li>
+         <li>May be reused indefinitely</li>
+         
+         
+         
+         
+         
+         
+        </ul>
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Mandrels
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\archana
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: "To meet the new multimode light source requirements in TIA/EIA-568-B, AFL offers mandrels for 50 and 62.5 µm test jumpers with 3 mm jackets. Both mandrels have grooves to ensure that jumpers are wrapped exactly five times (as specified by TIA/EIA-568-B) and can be easily attached to test jumpers in seconds without tools or tape.  "
+    - ID: "59ec008e-95ec-4c06-9189-09d4acaf1d7e"
+      Hint: ProductCategory
+      Value: "{527518B8-EA3A-4804-8844-1F0437F5CAA9}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\ChrisZ
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: "Mandrels, 50 µm, 62.5 µm, TIA/EIA-568B, TIA/EIA-568-B requirements, jumpers, multimode loss testing"
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: Mandrels
+    - ID: "646d0f97-6838-4bff-800d-895747365401"
+      Hint: AFLDocumentList
+      Value: 
+    - ID: "72653cc9-973c-4682-b5c7-26d926959f8f"
+      Hint: ProductImage
+      Value: |
+        <image stylelabs-content-id="46243" src="https://afl-delivery.stylelabs.cloud/api/public/content/97fab994538b499ca4db0f6fc095ca01?v=97531aa7|https://afl-delivery.stylelabs.cloud/api/public/content/24f1866c68f04f60a4e08f8058e9f9cd?v=ede301a1" stylelabs-content-type="Image" alt="Mandrels" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/46243/thumbnail" />
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: Mandrels
+    - ID: "8b978017-d437-40aa-b31d-bbf1d560a0cb"
+      Hint: DownloadFileLink
+      Value: |
+        <link target="_blank" text="SPECIFICATION SHEET" anchor="" url="https://afl-delivery.stylelabs.cloud/api/public/content/5fb6031873f24edcbc7f21464704d085?v=bf58af69" linktype="external" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "fafece00-64f0-4c0d-b56c-14d98ff43f7a"
+    - ID: "93dc88f3-05e5-482d-9b9a-c859c8258a73"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="169961" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/169961/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-Test-and-Inspection-Accessories?v=a98c1e72" stylelabs-content-type="Image" alt="Test_Accesories_TopLevel.jpg" height="465" width="1336" />
+    - ID: "ab4c1906-c756-4771-818b-3683089665ee"
+      Hint: ProductMediaItems
+      Value: |
+        {189BCB76-5A7E-44AB-9EBA-724C95A32DDA}
+        {38AF41BC-D5C2-44AF-A0D0-7AE583BD67FF}
+    - ID: "af4f5f0d-745a-4af7-aee7-2002f0430999"
+      Hint: ProductTitle
+      Value: Mandrels
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20230322T142222Z
+    - ID: "d1f74386-05c3-4c80-aa18-38d21db05fdf"
+      Hint: ProductId
+      Value: 614
+    - ID: "d93ad815-376a-43bf-b34b-cbad0b1b7128"
+      Hint: ProductLongDescription
+      Value: |
+        <h2>   <strong>Mandrels for use with 50 and 62.5 &micro;m multimode test jumpers with 3 mm jackets</strong></h2>
+        <p class="BodyCopy">   TIA/EIA-568-B specifies that attenuation (insertion loss) measurements of multimode fiber links for all applications must be made using an overfilled light source, such as an LED, with a mandrel-wrap mode filter on the transmit jumper. A key advantage of this specification is that it allows the use of existing overfilled LED light sources to certify both 50 and 62.5 &micro;m fiber links for current and planned high bit rate applications including Gigabit Ethernet and 10 Gigabit Ethernet.<br />
+        <br />
+        To meet the new multimode light source requirements in TIA/EIA-568-B, we offer mandrels for 50 and 62.5 &micro;m test jumpers with 3 mm jackets. Both mandrels have grooves to ensure that jumpers are wrapped exactly five times (as specified by TIA/EIA-568-B) and can be easily attached to test jumpers in seconds without tools or tape.</p>
+        <h3>   <span class="SubTitle">Features</span></h3>
+        <ul>
+            <li>    Required by TIA/EIA-568-B to measure attenuation on multimode fiber links</li>
+            <li>    Enables certification of multimode links for Gigabit and 10 Gigabit Ethernet</li>
+            <li>    Allows existing 850/1300nm LED light sources to test 50 and 62.5&micro;m links</li>
+            <li>    Attaches to 3mm jumpers in seconds, without tools or tape&nbsp;</li>
+        </ul>
+        <h3>   Ordering Information</h3>
+        <br />
+        <table border="1" cellpadding="0" cellspacing="0">
+            <tbody>
+                <tr>
+                    <td id="title" style="width:324px;">      <strong>&nbsp;DESCRIPTION</strong></td>
+                    <td id="title" style="width:102px;">      <strong>&nbsp;AFL NO.</strong></td>
+                </tr>
+                <tr>
+                    <td style="width:324px;">      &nbsp;Kit with two mandrels: 62.5 and 50 &micro;m fiber</td>
+                    <td style="width:102px;">      &nbsp;5400-00-0900PZ</td>
+                </tr>
+                <tr>
+                    <td style="width:324px;">      &nbsp;Mandrel, 62.5 &micro;m fiber</td>
+                    <td style="width:102px;">      &nbsp;5400-00-0201PZ</td>
+                </tr>
+                <tr>
+                    <td style="width:324px;">      &nbsp;Mandrel, 50 &micro;m fiber</td>
+                    <td style="width:102px;">      &nbsp;5400-00-0202PZ</td>
+                </tr>
+            </tbody>
+        </table>
+        <br />
+        <style>
+            table {
+            border-collapse: collapse;
+            border-spacing: 0;
+            width: 100% !important;
+            border: 1px solid #ddd;
+            background-color: #FFFFFF;
+            }
+            th, td {
+            text-align: left;
+            padding: 16px;
+            }
+            tr:nth-child(even) {
+            background-color: rgba(128, 128, 128, 0.07);
+            }
+            #title {
+            background-color: #00c0f3 !important;
+            color: #FFFFFF !important;
+            }
+            td {
+            padding: 15px !important;
+            border-right: 1px solid rgba(128, 128, 128, 0.5) !important;
+            border-bottom: 1px solid rgba(128, 128, 128, 0.5) !important;
+            border-top-color: rgba(128, 128, 128, 0.5) !important;
+            border-left-color: rgba(128, 128, 128, 0.5) !important;
+            border-top-style: solid !important;
+            border-left-style: solid !important;
+            text-align: left !important;
+            line-height: 1.5 !important;
+            display: table-cell !important;
+            }
+            .afl-subPages table tbody tr td {
+            font-size: 15px !important;
+            }
+            tr:hover {
+            background-color: #e6e6e6;
+            }
+        </style>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231122T212535Z
+    - ID: "ef2f63f2-c942-49a5-9c43-ebcfec40337e"
+      Hint: ProductName
+      Value: Mandrels
+    - ID: "fb72ff1d-6b1d-4970-916a-8162ff077e62"
+      Hint: ProcutItems
+      Value: |
+        {7502B3D5-A205-4A7F-8104-08E3D53E00D5}
+        {C31C2D61-0387-436F-AC41-01E679511392}
+        {D53C05A1-FD4C-427E-8812-A05F9F65708A}
+        {84C27700-2377-4795-ABB6-7A7154D95403}
+        {3EA3970D-58C9-446C-8200-F6C5EE901F6B}
+        {8CE5A75E-8948-400B-938F-3AF9C34823D3}
+        {3B21C403-C5AB-47C7-81BC-C757F68819D8}
+        {C942D14E-12FB-468B-A8A2-96CB150C250F}
+        {4CB4B513-E071-4C55-956F-F149AB5F4112}
+        {B848144D-FBFB-46AE-A7FD-2EA4053631F4}
+        {787DD9BC-EDA7-4251-B706-A4DCA79ED638}
+        {F7D3DC6B-0A5B-436A-9966-86F40F1AA7FE}
+        {E563C707-D3A1-46ED-AA5E-1E944039E008}
+        {C5B2268A-ECC9-463E-B8AA-72A5ABB04547}
+        {0E0E54E5-2A23-4D43-A12D-1C51FFC3E664}

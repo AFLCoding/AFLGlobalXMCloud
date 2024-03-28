@@ -1,0 +1,30 @@
+﻿---
+ID: "723d72b4-2826-47a7-9fe3-8904c471d6eb"
+Parent: "9e8a691f-2d68-4d96-b84e-ef399f6bb9b2"
+Template: "178e3cec-ca03-4c76-9ad3-122297e19e13"
+Path: "/sitecore/content/AFLGlobal/APAC/Home/Products/Test and Inspection/Optical Loss Testing/Optical Power Meters/FlowScout PON Optical Power Meter/Additional Image/Flow-Scout-in-hand"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220223T171728Z
+    - ID: "4f4e6526-41d1-4a67-ba95-3cf65c6a6462"
+      Hint: ImgaeUrl
+      Value: |
+        <image stylelabs-content-id="227786" src="https://afl-delivery.stylelabs.cloud/api/public/content/17758cd3e9aa45279c566dcc8cbf1b5d?v=f92bd4a3" stylelabs-content-type="Image" alt="1010" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/227786/thumbnail" mediaid="" height="800" width="800" />
+    - ID: "80203708-a0db-4f4b-bd18-b5f74b33756d"
+      Hint: ImageTitle
+      Value: "Flow-Scout-in-hand"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "70c03c26-6ba5-41e3-a129-2e3ec85e5968"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rob
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220405T151104Z

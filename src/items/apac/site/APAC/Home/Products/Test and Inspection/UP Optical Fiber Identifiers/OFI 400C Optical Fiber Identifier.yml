@@ -1,0 +1,120 @@
+﻿---
+ID: "c4c968f5-27a1-4b66-b6f6-e0ea067b924a"
+Parent: "da6304fb-668b-4dfb-9515-96f10c3a9d06"
+Template: "231b4589-f8fc-498f-b0f6-64fabecbc7b9"
+Path: /sitecore/content/AFLGlobal/APAC/Home/Products/Test and Inspection/UP Optical Fiber Identifiers/OFI 400C Optical Fiber Identifier
+SharedFields:
+- ID: "1fbc6a49-6281-48ee-87e9-a3970b145adb"
+  Hint: NavigationFilter
+  Value: |
+    {E0A2A027-0932-4878-A7D6-0416D5263EFB}
+    {61BD64D6-809E-40AE-9297-2724A19329B3}
+    {D063E9D1-C7B5-4B1E-B31E-69886C9C59F5}
+    {500AE4C0-FA7B-463F-8149-EFFF7F044101}
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{DA631FB5-51B3-49F6-9915-732D093CF221}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: 
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 101
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "16863469-616f-4d9e-a66f-02c79610ddaa"
+      Hint: ProductShortDescription
+      Value: "The OFI-400C is a rugged, hand-held and easy-to-use fiber optic test instrument designed to detect and measure the core power levels of optical signals on single-mode optical fiber without disrupting traffic on that fiber. The OFI 400C is designed and calibrated for use with 2 mm and 3 mm jacketed optical fibers."
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220303T154332Z
+    - ID: "36d9d67b-3610-4327-963e-e209239944d7"
+      Hint: ProductApplication
+      Value: 0
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4dda6e0a-1c9d-4a8d-890f-11a8eddc2f11"
+      Hint: ProductFeatures
+      Value: 0
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: OFI 400C Optical Fiber Identifier
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\archana
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: "The OFI-400 C is a rugged, hand-held and easy-to-use fiber optic test instrument designed to detect and measure the core power levels of optical signals on single-mode optical fiber without disrupting traffic on that fiber. The OFI 400 C is designed and calibrated for use with 2 mm and 3mm jacketed optical fibers."
+    - ID: "59ec008e-95ec-4c06-9189-09d4acaf1d7e"
+      Hint: ProductCategory
+      Value: "{DCAB5BED-3DC3-4051-861F-DC99DADBEC75}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\archana
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: "optical fiber identifier, fiber identifier, fiber tracer, fiber toner, optical tracer, optical toner, fiber optic, AFL, OFI400C, OFI200, OFI200D, OFI 200, OFI 200D, Wilcom F6121A, Wilcom F6222, Wilcom F6225, Wilcom F6121, JDSU FI-10, JDSU FI-11, Integrated Optical Power Meter, Fiber Core Power Measurement, Wilcom OFI, JDSU OFI, EXFO OFI, Joinwit OFI, Viavi"
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: OFI 400C Optical Fiber Identifier
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: OFI 400C Optical Fiber Identifier
+    - ID: "8b978017-d437-40aa-b31d-bbf1d560a0cb"
+      Hint: DownloadFileLink
+      Value: |
+        <link id="{B0E07DF0-6A57-4BED-A92A-3F7E2B536E12}" querystring="" target="_blank" text="SPECIFICATION SHEET" anchor="" title="" class="" url="/sitecore/media library/Project/AFL-Global/Product Specification Sheet/Test and Inspection/Fiber Identification/OFI4-00-2000_1" linktype="media" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "56a1094a-765e-46c5-b76d-5bd6f3ad348f"
+    - ID: "93dc88f3-05e5-482d-9b9a-c859c8258a73"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="169963" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/169963/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/6f7a2678668d452686de6e85e75ce275?v=b6b60a98" stylelabs-content-type="Image" alt="Test_ID_TopLevel.jpg" height="465" width="1336" />
+    - ID: "ab4c1906-c756-4771-818b-3683089665ee"
+      Hint: ProductMediaItems
+      Value: "{CFAFC9FD-276B-4B9F-88DB-895CC814EA4D}"
+    - ID: "af4f5f0d-745a-4af7-aee7-2002f0430999"
+      Hint: ProductTitle
+      Value: "OFI-400C Optical Fiber Identifier"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d1f74386-05c3-4c80-aa18-38d21db05fdf"
+      Hint: ProductId
+      Value: 472
+    - ID: "d93ad815-376a-43bf-b34b-cbad0b1b7128"
+      Hint: ProductLongDescription
+      Value: |
+        <h2>   OFI-400C Optical Fiber Identifier</h2>  <p>   Rugged, hand-held and easy-to-use fiber optic test instrument designed to detect and measure the core power levels of optical signals on single-mode optical fiber without disrupting traffic on that fiber. The OFI-400C&nbsp;is simply clamped onto a fiber and indicates the presence and direction of traffic, CW signals and 270, 330, 1000 and 2000 Hz test tones.&nbsp;It allows technical personnel to unambiguously identify a specific fiber and eliminates the risk of accidental disruption of revenue service. AFL NOYES OLS7, OLS2, CSS1-SM and CSS1-MM Optical Light Sources are ideal companions for the OFI-400C.</p>  <h3>   NO ADAPTERS TO PURCHASE, STORE, SWAP OR MISPLACE</h3>  <p>   The OFI-400C&nbsp;uses a unique optical head design featuring a 2-position plunger that enables it to be used with 250&micro;m, 900&micro;m and ribbon fiber or 2mm and 3mm jacketed fiber.&nbsp;&nbsp;Other brands of optical fiber identifiers require users to purchase, store and swap out&nbsp;optical plungers each time&nbsp;a different type of fiber is tested.&nbsp;</p>  <p>   The OFI-400C&nbsp;optical head induces a safe, repeatable macro-bend to the fiber that allows a small amount of light to escape for analysis. Thanks to the design of the optical head, the insertion loss induced by the macro-bend is too small to affect the signal on the fiber and the integrity of the fiber is unaffected by the measurement process.</p>  <p>   AFL NOYES OFI-400C&nbsp;instruments are designed to be simple, easy-to-use and reliable. Each features and ergonomically-designed macro-bend trigger that is comfortable to use. An integrated, backlit display allows the OFI-400C&nbsp;to be used in dimly lit spaces. Powered by 2 1.5V AAA batteries, theo OFI-400C&nbsp;can make thousands of fiber tests before needing battery replacement.</p>  <h3>   <span style="font-size: 12pt;">KEY SPECIFICATIONS</span></h3>  <ul>   <li>    <span style="font-size: 12pt;"><span style="font-size: 12pt;">Insertion Loss:&nbsp;1.0 dB @ 1310nm</span></span></li>   <li>    <span style="font-size: 12pt;"><span style="font-size: 12pt;">Detection Sensitivity: -40 dBm @1550 nm, 3 mm fiber</span></span></li>   <li>    <span style="font-size: 12pt;"><span style="font-size: 12pt;">Power&nbsp;Measurement: +13 to -40 dBm @1550 nm, 3 mm fiber</span></span></li>  </ul>  <h3>   <span style="font-size: 12pt;"><span style="font-size: 12pt;">ORDERING INFORMATION&nbsp;</span></span></h3>  <p>   &nbsp;</p>  <table border="1" cellpadding="0" cellspacing="0" style="width: 5.75in;" width="552">   <tbody>    <tr>     <td style="border-color: rgb(212, 208, 200); padding: 0in; width: 91.5pt; background-color: transparent;" width="122">      <div>       <b><span style="font-size: 9pt;">&nbsp;Model</span></b></div>     </td>     <td style="border-color: rgb(212, 208, 200); padding: 0in; width: 322.5pt; background-color: transparent;" width="430">      <div>       <b><span style="font-size: 9pt;">&nbsp;Description</span></b></div>     </td>    </tr>    <tr>     <td style="border-color: rgb(212, 208, 200); padding: 0in; background-color: transparent;" valign="top">      <div>       <span style="font-size: 9pt;">&nbsp;OFI-400C</span></div>     </td>     <td style="border-color: rgb(212, 208, 200); padding: 0in; background-color: transparent;" valign="top">      <div>       <span style="font-size: 9pt;">&nbsp;OFI-400C, 2 x AAA batteries, Guick Reference Guide, Soft Case</span></div>     </td>    </tr>    <tr>     <td style="border-color: rgb(212, 208, 200); padding: 0in; background-color: transparent;" valign="top">      <div>       &nbsp;</div>     </td>     <td style="border-color: rgb(212, 208, 200); padding: 0in; background-color: transparent;" valign="top">      <div>       <span style="font-size: 9pt;">&nbsp;</span></div>     </td>    </tr>   </tbody>  </table>  <div style="margin: 0in 0in 10pt;">   &nbsp;</div>  <p>   &nbsp;</p>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231122T212535Z
+    - ID: "ef2f63f2-c942-49a5-9c43-ebcfec40337e"
+      Hint: ProductName
+      Value: "OFI-400C Optical Fiber Identifier"
+    - ID: "fb72ff1d-6b1d-4970-916a-8162ff077e62"
+      Hint: ProcutItems
+      Value: |
+        {7502B3D5-A205-4A7F-8104-08E3D53E00D5}
+        {C31C2D61-0387-436F-AC41-01E679511392}
+        {D53C05A1-FD4C-427E-8812-A05F9F65708A}
+        {84C27700-2377-4795-ABB6-7A7154D95403}
+        {3EA3970D-58C9-446C-8200-F6C5EE901F6B}
+        {8CE5A75E-8948-400B-938F-3AF9C34823D3}
+        {3B21C403-C5AB-47C7-81BC-C757F68819D8}
+        {C942D14E-12FB-468B-A8A2-96CB150C250F}
+        {4CB4B513-E071-4C55-956F-F149AB5F4112}
+        {B848144D-FBFB-46AE-A7FD-2EA4053631F4}
+        {787DD9BC-EDA7-4251-B706-A4DCA79ED638}
+        {F7D3DC6B-0A5B-436A-9966-86F40F1AA7FE}
+        {E563C707-D3A1-46ED-AA5E-1E944039E008}
+        {C5B2268A-ECC9-463E-B8AA-72A5ABB04547}
+        {0E0E54E5-2A23-4D43-A12D-1C51FFC3E664}

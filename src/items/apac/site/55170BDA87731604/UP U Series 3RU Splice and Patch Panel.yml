@@ -1,0 +1,144 @@
+﻿---
+ID: "0cf30291-980a-4826-8367-2acbd40276ba"
+Parent: "24227a0d-7d2c-4118-b6c8-dcda7d5041c6"
+Template: "231b4589-f8fc-498f-b0f6-64fabecbc7b9"
+Path: /sitecore/content/AFLGlobal/APAC/Home/Products/Fiber Optic Connectivity/Rack Mount Patch Panels/U Series/UP U Series 3RU Splice and Patch Panel
+SharedFields:
+- ID: "1fbc6a49-6281-48ee-87e9-a3970b145adb"
+  Hint: NavigationFilter
+  Value: 
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{DA631FB5-51B3-49F6-9915-732D093CF221}"
+- ID: "9135200a-5626-4dd8-ab9d-d665b8c11748"
+  Hint: __Never publish
+  Value: 1
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: 
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 104
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "16863469-616f-4d9e-a66f-02c79610ddaa"
+      Hint: ProductShortDescription
+      Value: "The U-Series 3RU Splice and Patch Panel can house up to 12 U-Series Patch Adapter Plates with the capacity to scale up to 288 LC and 144 SC ports."
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220303T152627Z
+    - ID: "36d9d67b-3610-4327-963e-e209239944d7"
+      Hint: ProductApplication
+      Value: |
+        <h3 style="color: #282828; background-color: #ffffff; margin: 0px; padding-bottom: 5px;">Applications:</h3>
+        <ul class="productDetailApplications" style="color: #333333; background-color: #ffffff; margin: 0px 0px 15px; padding: 0px 0px 0px 15px; list-style-image: url('https://www.aflglobal.com/productionFiles/images/bulletRound.aspx');">
+            <li style="margin: 0px 0px 6px;">Colocation</li>
+            <li style="margin: 0px 0px 6px;">Colocation</li>
+            <li style="margin: 0px 0px 6px;">Data Center</li>
+        </ul>
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4dda6e0a-1c9d-4a8d-890f-11a8eddc2f11"
+      Hint: ProductFeatures
+      Value: |
+        <h3 style="color: #282828; background-color: #ffffff; margin: 0px; padding-bottom: 5px;">Features:</h3>
+        <ul class="productDetailFeatures" style="color: #333333; background-color: #ffffff; margin: 0px 0px 15px; padding: 0px 0px 0px 15px; list-style-image: url('https://www.aflglobal.com/productionFiles/images/bulletRound.aspx');">
+            <li style="margin: 0px 0px 6px;">Rack height = 3RU</li>
+            <li style="margin: 0px 0px 6px;">19" rack-mountable panel</li>
+            <li style="margin: 0px 0px 6px;">288F mass fusion splice</li>
+            <li style="margin: 0px 0px 6px;">12 x 24F LC Adapter Plates</li>
+            <li style="margin: 0px 0px 6px;">1RU Management Bar</li>
+            <li style="margin: 0px 0px 6px;">Removable rear cover for splice access</li>
+            <li style="margin: 0px 0px 6px;">LHS or RHS cable entry points</li>
+            <li style="margin: 0px 0px 6px;">Slack management spools allowing re-splices</li>
+            <li style="margin: 0px 0px 6px;">Multiple cable clamp positions allow stacking of enclosures and cable routing</li>
+            <li style="margin: 0px 0px 6px;">&lsquo;Quarter turn release&rsquo; and &lsquo;push to close&rsquo; fasteners</li>
+        </ul>
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: U Series 3RU Splice and Patch Panel
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\archana
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: "The U-Series 3RU Splice and Patch Panel can house up to 12 U-Series Patch Adapter Plates with the capacity to scale up to 288 LC and 144 SC ports."
+    - ID: "59ec008e-95ec-4c06-9189-09d4acaf1d7e"
+      Hint: ProductCategory
+      Value: "{BD4E4D6A-8146-4D22-8306-7D724FD6C742}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\archana
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: "AFL hyperscale data center U-Series 3RU Splice and Patch Panel"
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: U Series 3RU Splice and Patch Panel
+    - ID: "72653cc9-973c-4682-b5c7-26d926959f8f"
+      Hint: ProductImage
+      Value: |
+        <image stylelabs-content-id="182950" src="https://afl-delivery.stylelabs.cloud/api/public/content/3e220de28e6a43f5a375799e0cca9fd2?v=dca42871" stylelabs-content-type="Image" alt="U-Series 3RU Splice and Patch Panel" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/182950/thumbnail" />
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: U Series 3RU Splice and Patch Panel
+    - ID: "8b978017-d437-40aa-b31d-bbf1d560a0cb"
+      Hint: DownloadFileLink
+      Value: |
+        <link text="SPECIFICATION SHEET" target="_blank" linktype="media" id="{B50E5E1E-EC36-43A9-A48C-1523755E6B64}" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "70fc437a-adae-4682-98a8-eb79b88d7073"
+    - ID: "93dc88f3-05e5-482d-9b9a-c859c8258a73"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="170587" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/170587/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/U-Series-web?v=e6f5645a" stylelabs-content-type="Image" alt="U-Series-3RU-Splice-and-Patch-Panel.jpg" height="465" width="1336" />
+    - ID: "ab4c1906-c756-4771-818b-3683089665ee"
+      Hint: ProductMediaItems
+      Value: |
+        {4745CD84-DBA3-4694-900A-9D53133C0C2F}
+        {3749B496-90A9-4A0A-A907-B5C93AB26D25}
+        {1D8DA7CD-465A-4B54-B3EC-11EADE86434C}
+    - ID: "af4f5f0d-745a-4af7-aee7-2002f0430999"
+      Hint: ProductTitle
+      Value: "U-Series 3RU Splice and Patch Panel"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d1f74386-05c3-4c80-aa18-38d21db05fdf"
+      Hint: ProductId
+      Value: 2722
+    - ID: "d93ad815-376a-43bf-b34b-cbad0b1b7128"
+      Hint: ProductLongDescription
+      Value: "<p>   The U-Series 3RU Splice and Patch Panel can house up to 12 U-Series Patch Adapter Plates with the capacity to scale up to 288 LC and 144 SC ports. Compact to facilitate installation in shallow-depth racks, it allows for front and rear cassette installation and is compatible with U-Series MPO, pre-terminated and splice cassettes.</p>  <p>   An integrated splice tray facilitates easy splicing with slack management for additional splices. The panel comes pre-loaded with the traditional ribbon fiber pigtails that are terminated into the LC adapters. The front of the panel can be used for LC simplex or duplex patching to equipment or further breakouts within the data center or colocation site.</p>"
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231122T212529Z
+    - ID: "ef2f63f2-c942-49a5-9c43-ebcfec40337e"
+      Hint: ProductName
+      Value: "U-Series 3RU Splice and Patch Panel"
+    - ID: "fb72ff1d-6b1d-4970-916a-8162ff077e62"
+      Hint: ProcutItems
+      Value: |
+        {A216C36A-B949-49E6-86FD-261873070C0F}
+        {13B853A3-EC10-4682-B82C-4FE7E91FE667}
+        {F27A481B-8E2A-4CCD-906D-598736A0CCFA}
+        {FE4B8574-D294-4DFD-831C-4F405A9193E8}
+        {01ECC02D-9511-4FA1-A96E-659AFC7CB1B4}
+        {2E9B0B83-73D5-41C7-A050-BFDD5999F9EA}
+        {6A3F80D0-F21F-466E-8D1B-73DE5B5F0F1B}
+        {20F3B74C-E39C-4A23-8A38-981AEAEC1D11}
+        {316EA0D5-EA9D-4732-9A57-B7B09FA74F79}
+        {16785C64-E911-41D6-952D-46F87B9BA2B6}
+        {4DE05D50-6C60-4351-A465-96BDF71A3483}
+        {169BE6A2-31CE-4BFA-BCDC-12B2BDCE1265}
+        {AF3E6466-2A12-4A6C-B9EC-5F7337899A4D}
+        {49E61244-0A99-4C38-9332-C64C7BD3FE74}
+        {677244B0-76D5-44F5-8CBA-B764A1966D75}

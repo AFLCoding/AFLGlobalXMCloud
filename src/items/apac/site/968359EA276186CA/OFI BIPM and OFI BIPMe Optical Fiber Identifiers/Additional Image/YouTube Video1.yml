@@ -1,0 +1,45 @@
+﻿---
+ID: "98a058fc-573c-4126-9afc-161f41eda937"
+Parent: "bf688b24-d169-49ec-ac86-dcdf9d4f11c8"
+Template: "178e3cec-ca03-4c76-9ad3-122297e19e13"
+Path: /sitecore/content/AFLGlobal/APAC/Home/Products/Test and Inspection/Fiber Identification/Optical Fiber Identifiers/OFI BIPM and OFI BIPMe Optical Fiber Identifiers/Additional Image/YouTube Video1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1205e946-de39-4c4d-a244-ddfdd288a062"
+      Hint: VideoUrl
+      Value: |
+        <link linktype="external" url="https://youtu.be/uoZtAkUUkU8" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220407T084720Z
+    - ID: "4ec0fe05-becb-4c00-ba4d-0d0bde09427f"
+      Hint: VideothumbnailImage
+      Value: |
+        <image stylelabs-content-id="244831" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/244831/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/567d589cbc21465597ad3d7d57b10f55?v=bd744ac6" mediaid="" stylelabs-content-type="Image" alt="default.jpg" height="90" width="120" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Pragati
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Pragati
+    - ID: "80203708-a0db-4f4b-bd18-b5f74b33756d"
+      Hint: ImageTitle
+      Value: YouTube Video1
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "bd380a4a-6e3b-4b3d-9b19-5fc889d3a55e"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Pragati
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220407T103929Z
+    - ID: "fc1cebe6-bd78-40ca-a488-b04107e69394"
+      Hint: VideoTitle
+      Value: "Introduction to the AFL OFI-BIPM"

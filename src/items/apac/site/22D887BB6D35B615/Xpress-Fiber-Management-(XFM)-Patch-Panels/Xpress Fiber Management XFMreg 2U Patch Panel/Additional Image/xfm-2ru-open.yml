@@ -1,0 +1,38 @@
+﻿---
+ID: "cc94ec6a-d6eb-4ce5-8a60-b503e37f4de8"
+Parent: "8ff8aed1-31d0-490d-92d2-64b18da8e8c0"
+Template: "178e3cec-ca03-4c76-9ad3-122297e19e13"
+Path: "/sitecore/content/AFLGlobal/APAC/Home/Products/Fiber Optic Connectivity/Rack Mount Patch Panels/Xpress-Fiber-Management-(XFM)-Patch-Panels/Xpress Fiber Management XFMreg 2U Patch Panel/Additional Image/xfm-2ru-open"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220405T053030Z
+    - ID: "4f4e6526-41d1-4a67-ba95-3cf65c6a6462"
+      Hint: ImgaeUrl
+      Value: |
+        <image stylelabs-content-id="218375" src="https://afl-delivery.stylelabs.cloud/api/public/content/3b2a0df981f744be9b569ef9002b7b6f?v=9c146b3f" stylelabs-content-type="Image" alt="397" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/218375/thumbnail" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mahesh
+    - ID: "80203708-a0db-4f4b-bd18-b5f74b33756d"
+      Hint: ImageTitle
+      Value: "xfm-2ru-open"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e25670ce-3ae0-4871-80f3-9572a44acaec"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahesh
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220405T053030Z

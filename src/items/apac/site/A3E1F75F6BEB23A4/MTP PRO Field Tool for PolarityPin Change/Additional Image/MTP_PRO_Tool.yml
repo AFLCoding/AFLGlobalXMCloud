@@ -1,0 +1,38 @@
+﻿---
+ID: "9d7bda33-67ea-4e83-b939-e13348b6474f"
+Parent: "aa3eafd3-c338-454b-978a-d1db5af3acf9"
+Template: "178e3cec-ca03-4c76-9ad3-122297e19e13"
+Path: /sitecore/content/AFLGlobal/APAC/Home/Products/Fiber Optic Connectivity/Rack Mount Patch Panels/ASCEND High Density Platform/MTP PRO Field Tool for PolarityPin Change/Additional Image/MTP_PRO_Tool
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220405T053025Z
+    - ID: "4f4e6526-41d1-4a67-ba95-3cf65c6a6462"
+      Hint: ImgaeUrl
+      Value: |
+        <image stylelabs-content-id="219054" src="https://afl-delivery.stylelabs.cloud/api/public/content/6b9371ca66a84dbbbb51e44e3c371ca0?v=cd671c0b" stylelabs-content-type="Image" alt="2635" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/219054/thumbnail" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mahesh
+    - ID: "80203708-a0db-4f4b-bd18-b5f74b33756d"
+      Hint: ImageTitle
+      Value: MTP_PRO_Tool
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c1df717e-70d8-461c-be4b-6538711084e0"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahesh
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220405T053025Z

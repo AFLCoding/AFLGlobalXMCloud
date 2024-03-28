@@ -1,0 +1,45 @@
+﻿---
+ID: "c63455d3-e3c7-4788-aec8-dcf62176ef6a"
+Parent: "b4d069a0-9c51-410a-8654-e94545038b11"
+Template: "10550108-9295-44d1-a3e9-9ea98786d2ea"
+Path: "/sitecore/content/AFLGlobal/APAC/Data/AFL-FeatureProduct Folder/HomePage_FeatureProduct"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211105T113924Z
+    - ID: "437fb55b-dff2-44bc-898e-7b37502688de"
+      Hint: ProductLink
+      Value: |
+        <link id="{80AE80BE-E823-4C52-AFCB-6FB0CBD1A984}" querystring="" target="" text="View More" anchor="" url="/AFL-Global/APAC/Home/Products/Test and Inspection/OTDRs and Troubleshooters" title="" class="" linktype="internal" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "558ad533-11c5-40a9-ae0c-81c045f78faa"
+      Hint: ProductTitle
+      Value: FlexScan® FS200 SM OTDRs with SmartAuto® & LinkMap®
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "627fbd94-0279-4597-a3d0-fcb1058662b2"
+      Hint: ProductImage
+      Value: |
+        <image mediaid="{725D2D86-95E6-4D74-8B26-C1958CDC1563}" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1abf43b1-8c1c-4613-a27d-beda48125174"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\nawaz.mehdi@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240327T123031Z
+    - ID: "e3bcfb9e-ac4a-4b80-9ad0-42cf5b48b078"
+      Hint: ProductDescription
+      Value: <p>AFL's FlexScan® OTDRs enable even novice technicians to quickly and reliably troubleshoot or completely characterize optical networks.</p>

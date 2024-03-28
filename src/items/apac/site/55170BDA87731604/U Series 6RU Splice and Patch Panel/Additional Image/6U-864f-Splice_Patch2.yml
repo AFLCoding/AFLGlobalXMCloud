@@ -1,0 +1,38 @@
+﻿---
+ID: "4b3d7b0a-cf1b-4d6e-aa20-a85b67bd555b"
+Parent: "e7a92ae2-5b07-4dae-8213-dec29f2e68a6"
+Template: "178e3cec-ca03-4c76-9ad3-122297e19e13"
+Path: "/sitecore/content/AFLGlobal/APAC/Home/Products/Fiber Optic Connectivity/Rack Mount Patch Panels/U Series/U Series 6RU Splice and Patch Panel/Additional Image/6U-864f-Splice_Patch2"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220405T053026Z
+    - ID: "4f4e6526-41d1-4a67-ba95-3cf65c6a6462"
+      Hint: ImgaeUrl
+      Value: |
+        <image stylelabs-content-id="219197" src="https://afl-delivery.stylelabs.cloud/api/public/content/ef17ad9326be40ce8b289340fbe8ccb2?v=774ef3ee" stylelabs-content-type="Image" alt="2721" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/219197/thumbnail" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mahesh
+    - ID: "80203708-a0db-4f4b-bd18-b5f74b33756d"
+      Hint: ImageTitle
+      Value: "6U-864f-Splice_Patch2"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "21c3c70d-8370-4856-b5fc-ac062914fb9a"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahesh
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220405T053026Z

@@ -1,0 +1,38 @@
+﻿---
+ID: "90be92a1-3f60-4503-868e-0852c2d832bc"
+Parent: "f8c3a22f-8679-4470-9b8d-58839610d803"
+Template: "178e3cec-ca03-4c76-9ad3-122297e19e13"
+Path: /sitecore/content/AFLGlobal/APAC/Home/Products/Test and Inspection/Optical Loss Testing/Optical Power Meters/Contractor Series Light Sources and Power Meters/Additional Image/CSM1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220405T050856Z
+    - ID: "4f4e6526-41d1-4a67-ba95-3cf65c6a6462"
+      Hint: ImgaeUrl
+      Value: |
+        <image stylelabs-content-id="227390" src="https://afl-delivery.stylelabs.cloud/api/public/content/43febc17de174af9851fa1a19141c2ed?v=abc678fe" stylelabs-content-type="Image" alt="1100" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/227390/thumbnail" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mahesh
+    - ID: "80203708-a0db-4f4b-bd18-b5f74b33756d"
+      Hint: ImageTitle
+      Value: CSM1
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9ac5792a-9397-4a5d-a3f0-07c1bfd22c19"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahesh
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220405T050856Z

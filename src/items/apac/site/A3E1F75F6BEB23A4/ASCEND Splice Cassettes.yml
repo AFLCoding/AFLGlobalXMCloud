@@ -1,0 +1,141 @@
+﻿---
+ID: "cd880ce3-49c6-4504-853b-e06e13c36bfd"
+Parent: "5b2831de-f501-4bb3-b12d-d9ccf32ae391"
+Template: "231b4589-f8fc-498f-b0f6-64fabecbc7b9"
+Path: /sitecore/content/AFLGlobal/APAC/Home/Products/Fiber Optic Connectivity/Rack Mount Patch Panels/ASCEND High Density Platform/ASCEND Splice Cassettes
+SharedFields:
+- ID: "1fbc6a49-6281-48ee-87e9-a3970b145adb"
+  Hint: NavigationFilter
+  Value: |
+    {E0A2A027-0932-4878-A7D6-0416D5263EFB}
+    {61BD64D6-809E-40AE-9297-2724A19329B3}
+    {D063E9D1-C7B5-4B1E-B31E-69886C9C59F5}
+    {500AE4C0-FA7B-463F-8149-EFFF7F044101}
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{DA631FB5-51B3-49F6-9915-732D093CF221}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: 
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 107
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "16863469-616f-4d9e-a66f-02c79610ddaa"
+      Hint: ProductShortDescription
+      Value: Splice Cassettes include 250 micron preterminated single fiber pigtails (or one bare ribbon pigtail), that are loaded within the cassette and can be spliced directly to loose (or ribbon) fiber cable.
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220303T152614Z
+    - ID: "36d9d67b-3610-4327-963e-e209239944d7"
+      Hint: ProductApplication
+      Value: |
+        <h3 style="color: #282828; background-color: #ffffff; margin: 0px; padding-bottom: 5px;">Applications:</h3>
+        <ul class="productDetailApplications" style="color: #333333; background-color: #ffffff; margin: 0px 0px 15px; padding: 0px 0px 0px 15px; list-style-image: url('https://www.aflglobal.com/productionFiles/images/bulletRound.aspx');">
+            <li style="margin: 0px 0px 6px;">Data Centers</li>
+            <li style="margin: 0px 0px 6px;">Central Offices</li>
+            <li style="margin: 0px 0px 6px;">Headends</li>
+            <li style="margin: 0px 0px 6px;">Structured Cabling Networks</li>
+        </ul>
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4dda6e0a-1c9d-4a8d-890f-11a8eddc2f11"
+      Hint: ProductFeatures
+      Value: |
+        <h3 style="color: #282828; background-color: #ffffff; margin: 0px; padding-bottom: 5px;">Features:</h3>
+        <ul class="productDetailFeatures" style="color: #333333; background-color: #ffffff; margin: 0px 0px 15px; padding: 0px 0px 0px 15px; list-style-image: url('https://www.aflglobal.com/productionFiles/images/bulletRound.aspx');">
+            <li style="margin: 0px 0px 6px;">Up to 12-fiber interconnection capacity</li>
+            <li style="margin: 0px 0px 6px;">SM, MM (OM3), and MM (OM4)</li>
+            <li style="margin: 0px 0px 6px;">250 &mu;m single fiber and bare ribbon options</li>
+            <li style="margin: 0px 0px 6px;">VFL-compatible shuttered LC adapters</li>
+            <li style="margin: 0px 0px 6px;">Color-coded fibers</li>
+            <li style="margin: 0px 0px 6px;">Inventive splice sleeve cradle</li>
+            <li style="margin: 0px 0px 6px;">Organized fiber routing</li>
+            <li style="margin: 0px 0px 6px;">Compatible with all ASCEND BASE-12 housings</li>
+        </ul>
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: ASCEND Splice Cassettes
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\archana
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: Part of the ASCEND™ platform, Splice Cassettes include 250 micron preterminated single fiber pigtails (or one bare ribbon pigtail), that are loaded within the cassette and can be spliced directly to loose (or ribbon) fiber cable.
+    - ID: "59ec008e-95ec-4c06-9189-09d4acaf1d7e"
+      Hint: ProductCategory
+      Value: "{B526AD3F-72FC-46E2-9D16-116E0026CC42}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\archana
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: ascend slice cassettes preterminated single fiber pigtails high density data center
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: ASCEND Splice Cassettes
+    - ID: "72653cc9-973c-4682-b5c7-26d926959f8f"
+      Hint: ProductImage
+      Value: |
+        <image stylelabs-content-id="183843" stylelabs-content-type="Image" alt="ASCEND_Splice_Cassettes.png" src="https://afl-delivery.stylelabs.cloud/api/public/content/ASCEND_Splice_Cassettes?v=012befdb" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/183843/thumbnail" mediaid="" height="800" width="800" />
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: ASCEND Splice Cassettes
+    - ID: "8b978017-d437-40aa-b31d-bbf1d560a0cb"
+      Hint: DownloadFileLink
+      Value: |
+        <link id="{5F39AC40-5A99-4039-B0C8-A0963313AA1D}" querystring="" target="_blank" text="Download Specification Sheet" anchor="" title="" class="" linktype="internal" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f0a69ed6-7149-475e-a1a8-df052a61b67c"
+    - ID: "93dc88f3-05e5-482d-9b9a-c859c8258a73"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="169704" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/169704/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/Ascend-High-Density-Platform-hero?v=9a86db68" stylelabs-content-type="Image" alt="Ascend.jpg" height="465" width="1336" />
+    - ID: "ab4c1906-c756-4771-818b-3683089665ee"
+      Hint: ProductMediaItems
+      Value: "{5403FFBF-B2BD-4815-AF7C-52B2D189B4EE}"
+    - ID: "af4f5f0d-745a-4af7-aee7-2002f0430999"
+      Hint: ProductTitle
+      Value: ASCEND® Splice Cassettes
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d1f74386-05c3-4c80-aa18-38d21db05fdf"
+      Hint: ProductId
+      Value: 2603
+    - ID: "d93ad815-376a-43bf-b34b-cbad0b1b7128"
+      Hint: ProductLongDescription
+      Value: "<p>   Part of the ASCEND&reg;&nbsp; platform, Splice Cassettes include 250 micron preterminated single fiber pigtails (or one bare ribbon pigtail), that are loaded within the cassette and can be spliced directly to loose (or ribbon) fiber cable.</p>  <p>   All Splice Cassettes feature VFL-compatible shuttered LC adapters with up to 12-fiber capacity. Available in single-mode and multimode fiber types, cassettes leverage a snap-in splice sleeve cradle to securely manage both single and ribbon fiber arrangements.</p>  <p>   Splice Cassettes are compatible with all BASE-12 ASCEND housings and can be independently installed easily from the front or rear onto a sliding tray system. This allows access to individual connections while minimizing disruption to other fiber connections.</p>  "
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231122T212528Z
+    - ID: "ef2f63f2-c942-49a5-9c43-ebcfec40337e"
+      Hint: ProductName
+      Value: ASCEND® Splice Cassettes
+    - ID: "fb72ff1d-6b1d-4970-916a-8162ff077e62"
+      Hint: ProcutItems
+      Value: |
+        {A216C36A-B949-49E6-86FD-261873070C0F}
+        {13B853A3-EC10-4682-B82C-4FE7E91FE667}
+        {F27A481B-8E2A-4CCD-906D-598736A0CCFA}
+        {FE4B8574-D294-4DFD-831C-4F405A9193E8}
+        {01ECC02D-9511-4FA1-A96E-659AFC7CB1B4}
+        {2E9B0B83-73D5-41C7-A050-BFDD5999F9EA}
+        {20F3B74C-E39C-4A23-8A38-981AEAEC1D11}
+        {316EA0D5-EA9D-4732-9A57-B7B09FA74F79}
+        {16785C64-E911-41D6-952D-46F87B9BA2B6}
+        {4DE05D50-6C60-4351-A465-96BDF71A3483}
+        {169BE6A2-31CE-4BFA-BCDC-12B2BDCE1265}
+        {AF3E6466-2A12-4A6C-B9EC-5F7337899A4D}
+        {49E61244-0A99-4C38-9332-C64C7BD3FE74}
+        {677244B0-76D5-44F5-8CBA-B764A1966D75}
+        {7DEC9E18-34BD-4277-AA62-9567A528CFB3}

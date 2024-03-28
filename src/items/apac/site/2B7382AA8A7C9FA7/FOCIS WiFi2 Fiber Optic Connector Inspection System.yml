@@ -1,0 +1,214 @@
+﻿---
+ID: "2eaf603e-0714-4bcd-8658-982ac261889e"
+Parent: "02384aa1-10a1-40cf-a7b4-444768c8628d"
+Template: "231b4589-f8fc-498f-b0f6-64fabecbc7b9"
+Path: /sitecore/content/AFLGlobal/APAC/Home/Products/Test and Inspection/Fiber Optic Inspection and Cleaning/Fiber Optic Inspection/FOCIS WiFi2 Fiber Optic Connector Inspection System
+SharedFields:
+- ID: "1fbc6a49-6281-48ee-87e9-a3970b145adb"
+  Hint: NavigationFilter
+  Value: |
+    {E0A2A027-0932-4878-A7D6-0416D5263EFB}
+    {61BD64D6-809E-40AE-9297-2724A19329B3}
+    {D063E9D1-C7B5-4B1E-B31E-69886C9C59F5}
+    {500AE4C0-FA7B-463F-8149-EFFF7F044101}
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{DA631FB5-51B3-49F6-9915-732D093CF221}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: 
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 111
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "16863469-616f-4d9e-a66f-02c79610ddaa"
+      Hint: ProductShortDescription
+      Value: "FOCIS WiFi2 is an ergonomic Fiber Optic Connector Inspection System that, when paired with an iOS or Android smart device, provides fast and accurate IEC/IPC/AT&T compliant and user-defined pass/fail end-face cleanliness analysis."
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220303T154401Z
+    - ID: "36d9d67b-3610-4327-963e-e209239944d7"
+      Hint: ProductApplication
+      Value: |
+        <h3 style="font-size: 16px; padding-bottom: 5px;">Applications:</h3><ul class="productDetailApplications">
+         <li>Inspection of connectors on patch cords or in bulkhead adapters</li>
+         <li>Installation, troubleshooting and maintenance of fiber network</li>
+         <li>Inspection of multi-fiber connectors including MPO16 and MXC®</li>
+         <li>Critical fiber infrastructure performance assurance</li>
+         
+         
+         
+         
+         
+         
+        </ul>
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4dda6e0a-1c9d-4a8d-890f-11a8eddc2f11"
+      Hint: ProductFeatures
+      Value: |
+        <h3 style="font-size: 16px; padding-bottom: 5px;">Features:</h3><ul class="productDetailFeatures">
+         <li>Trim, lightweight, ergonomic and highly productive tool</li>
+         <li>App-based automatic and manual focus; auto-centering after image capture</li>
+         <li>One button workflow using rapid LED feedback on probe</li>
+         <li>Multi-color LED on probe for fast pass/fail user inspection feedback</li>
+         
+         
+         
+         
+         
+         
+        </ul>
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: FOCIS WiFi2 Fiber Optic Connector Inspection System
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\archana
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: "FOCIS WiFi2 is an ergonomic Fiber Optic Connector Inspection System that, when paired with an iOS or Android smart device, provides fast and accurate IEC/IPC/AT&T compliant and user-defined pass/fail end-face cleanliness analysis."
+    - ID: "59ec008e-95ec-4c06-9189-09d4acaf1d7e"
+      Hint: ProductCategory
+      Value: "{322F51C0-78F6-4C53-AC8C-AB128549CDBB}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\archana
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: fiber optic inspection, fiberoptic inspection, fibre optic inspection, fibreoptic inspection,fiber analysis,wireless inspection, mobile inspection, AFL, connector inspection system
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: FOCIS WiFi2 Fiber Optic Connector Inspection System
+    - ID: "72653cc9-973c-4682-b5c7-26d926959f8f"
+      Hint: ProductImage
+      Value: |
+        <image stylelabs-content-id="46497" src="https://afl-delivery.stylelabs.cloud/api/public/content/c1852f38bd254935b98f1497c0a5b92d?v=a17dbf97" stylelabs-content-type="Image" alt="FOCIS WiFi2 Fiber Optic Connector Inspection System" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/46497/thumbnail" />
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: FOCIS WiFi2 Fiber Optic Connector Inspection System
+    - ID: "8b978017-d437-40aa-b31d-bbf1d560a0cb"
+      Hint: DownloadFileLink
+      Value: |
+        <link id="{66A5475B-70E4-42AD-A2B8-DE42A2FD6CA0}" querystring="" target="_blank" text="SPECIFICATION SHEET" anchor="" title="" class="" url="/sitecore/media library/Project/AFL-Global/Product Specification Sheet/Test and Inspection/Fiber Inspection and Cleaning/FFLX-WiFi2-2000_1" linktype="media" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3e6fd1d7-62ff-4ce0-9c2b-ac8fa5a9e054"
+    - ID: "93dc88f3-05e5-482d-9b9a-c859c8258a73"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="169954" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/169954/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/fb3505cd5c9f419dbfd2851c8b222d11?v=8a48bcc0" stylelabs-content-type="Image" alt="Inspection_Clean_TopLevel.jpg" height="465" width="1336" />
+    - ID: "ab4c1906-c756-4771-818b-3683089665ee"
+      Hint: ProductMediaItems
+      Value: "{EEC60618-BFEB-4059-8DAC-056239AD610B}"
+    - ID: "af4f5f0d-745a-4af7-aee7-2002f0430999"
+      Hint: ProductTitle
+      Value: FOCIS WiFi2® Fiber Optic Connector Inspection System
+    - ID: "b8f42732-9cb8-478d-ae95-07e25345fb0f"
+      Hint: __Hide version
+      Value: 1
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d1f74386-05c3-4c80-aa18-38d21db05fdf"
+      Hint: ProductId
+      Value: 2267
+    - ID: "d93ad815-376a-43bf-b34b-cbad0b1b7128"
+      Hint: ProductLongDescription
+      Value: |
+        <div>   FOCIS WiFi2 is an ergonomic Fiber Optic Connector Inspection System that, when paired with an iOS or Android smart device, provides fast and accurate IEC/IPC/AT&amp;T compliant and user-defined pass/fail end-face cleanliness analysis. Free of charge iOS and Android companion apps support a comprehensive and user-friendly feature set.<br />
+        &nbsp;</div>
+        <div>   <strong>Pass/fail results in seconds:</strong> With the press of a single button, FOCIS WiFi2 auto-focuses, captures, centers and analyzes the end-face image to industry standard IEC 61300-3-35 (2015), IPC-8497-1, AT&amp;T TP-76461 and user-defined criteria.</div>
+        <div>   &nbsp;</div>
+        <div>   <strong>Untethered operation:</strong> App-based report generator with results/reports transferable to the aeRos cloud. With rechargeable battery and convenient pass/fail LED feedback, FOCIS WiFi2 can be used semi-independently.</div>
+        <div>   &nbsp;</div>
+        <div>   <strong>Wide range of adapter tips:</strong> Interchangeable adapter tips support single and multi-fiber connector inspection for a wide range of patch cords and bulkhead-mounted connectors having either PC/UPC or APC polished end-faces.<br />
+        <br />
+        <strong>Odering Information</strong><br />
+        <table border="1" cellpadding="0" cellspacing="0" style="width:698px;" width="698">
+            <tbody>
+                <tr>
+                    <td id="title" style="width:612px;">       <strong>&nbsp;DESCRIPTION </strong></td>
+                    <td id="title" style="width: 86px; white-space: nowrap;">       <strong>&nbsp;AFL NO. </strong></td>
+                </tr>
+                <tr>
+                    <td style="width: 612px; height: 16px; white-space: nowrap;">       &nbsp;FOCIS WiFi2 Kit, soft carry case, AC charger, with NO tips or One-Click cleaner</td>
+                    <td style="width: 86px; height: 16px; white-space: nowrap;">       &nbsp;FOCIS-WIFI2-N</td>
+                </tr>
+                <tr>
+                    <td style="width: 612px; white-space: nowrap;">       &nbsp;FOCIS WiFi2 Kit, soft carry case, AC charger, user-selected: (2) UPC ferrule &amp; bulkhead adapter tips and (1) One-Click cleaner</td>
+                    <td style="width: 86px; white-space: nowrap;">       &nbsp;FOCIS-WIFI2-U</td>
+                </tr>
+                <tr>
+                    <td style="width: 612px; white-space: nowrap;">       &nbsp;FOCIS WiFi2 Kit, FOCIS WiFi2, soft carry case, AC charger, user-selected: (2) APC ferrule &amp; bulkhead adapter tips and (1) One-Click cleaner&nbsp;&nbsp;</td>
+                    <td style="width: 86px; white-space: nowrap;">       &nbsp;FOCIS-WIFI2-A</td>
+                </tr>
+                <tr>
+                    <td style="width: 612px; white-space: nowrap;">       &nbsp;FOCIS WiFi2 Kit, soft carry case, AC charger, user-selected: (2) UPC and (2) APC ferrule &amp; bulkhead adapter tips and (1) One-Click cleaner</td>
+                    <td style="width: 86px; white-space: nowrap;">       &nbsp;FOCIS-WIFI2-UA</td>
+                </tr>
+            </tbody>
+        </table>
+        </div>
+        <br />
+        <style>
+            table {
+            border-collapse: collapse;
+            border-spacing: 0;
+            width: 100% !important;
+            border: 1px solid #ddd;
+            background-color: #FFFFFF;
+            }
+            th, td {
+            text-align: left;
+            padding: 16px;
+            }
+            tr:nth-child(even) {
+            background-color: rgba(128, 128, 128, 0.07);
+            }
+            #title {
+            background-color: #00c0f3 !important;
+            color: #FFFFFF !important;
+            }
+            td {
+            padding: 15px !important;
+            border-right: 1px solid rgba(128, 128, 128, 0.5) !important;
+            border-bottom: 1px solid rgba(128, 128, 128, 0.5) !important;
+            border-top-color: rgba(128, 128, 128, 0.5) !important;
+            border-left-color: rgba(128, 128, 128, 0.5) !important;
+            border-top-style: solid !important;
+            border-left-style: solid !important;
+            text-align: left !important;
+            line-height: 1.5 !important;
+            display: table-cell !important;
+            }
+            .afl-subPages table tbody tr td {
+            font-size: 15px !important;
+            }
+            tr:hover {
+            background-color: #e6e6e6;
+            }
+        </style>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231122T212531Z
+    - ID: "ef2f63f2-c942-49a5-9c43-ebcfec40337e"
+      Hint: ProductName
+      Value: FOCIS WiFi2® Fiber Optic Connector Inspection System
+    - ID: "fb72ff1d-6b1d-4970-916a-8162ff077e62"
+      Hint: ProcutItems
+      Value: |
+        {7502B3D5-A205-4A7F-8104-08E3D53E00D5}
+        {C31C2D61-0387-436F-AC41-01E679511392}
+        {D53C05A1-FD4C-427E-8812-A05F9F65708A}
+        {3EA3970D-58C9-446C-8200-F6C5EE901F6B}
+        {8CE5A75E-8948-400B-938F-3AF9C34823D3}
+        {3B21C403-C5AB-47C7-81BC-C757F68819D8}

@@ -1,0 +1,45 @@
+﻿---
+ID: "d3cc6a5f-15bd-4b18-a40e-465e75be0e71"
+Parent: "9ee0f8b0-0fbe-49eb-83fa-03d4f63ac29a"
+Template: "178e3cec-ca03-4c76-9ad3-122297e19e13"
+Path: /sitecore/content/AFLGlobal/APAC/Home/Products/Fiber Optic Connectivity/Modules and Panel Accessories/Poli MOD Patch and Splice Module/Additional Image/YouTubeVideo
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1205e946-de39-4c4d-a244-ddfdd288a062"
+      Hint: VideoUrl
+      Value: |
+        <link linktype="external" url="http://youtu.be/A0gCyn_SWbk" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220405T113456Z
+    - ID: "4ec0fe05-becb-4c00-ba4d-0d0bde09427f"
+      Hint: VideothumbnailImage
+      Value: |
+        <image stylelabs-content-id="242518" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/242518/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/c7642890c24f44fd85251dd93518e92f?v=3ad3fb38" mediaid="" stylelabs-content-type="Image" alt="default.jpg" height="90" width="120" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Anil
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Anil
+    - ID: "80203708-a0db-4f4b-bd18-b5f74b33756d"
+      Hint: ImageTitle
+      Value: YouTubeVideo
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1953c628-88a1-4e43-8712-8922c32cdfe8"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Anil
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220405T113854Z
+    - ID: "fc1cebe6-bd78-40ca-a488-b04107e69394"
+      Hint: VideoTitle
+      Value: "Poli-MOD Patch and Splice Module "

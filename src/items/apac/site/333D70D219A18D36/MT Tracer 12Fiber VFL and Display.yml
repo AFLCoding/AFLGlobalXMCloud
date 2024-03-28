@@ -1,0 +1,267 @@
+﻿---
+ID: "9e30fa18-61f1-4b9f-b62a-6524f9960fa0"
+Parent: "87ff10a2-ff7b-4244-b290-125605e6ac09"
+Template: "231b4589-f8fc-498f-b0f6-64fabecbc7b9"
+Path: /sitecore/content/AFLGlobal/APAC/Home/Products/Test and Inspection/Fiber Identification/Visual Fault Identifiers/MT Tracer 12Fiber VFL and Display
+SharedFields:
+- ID: "1fbc6a49-6281-48ee-87e9-a3970b145adb"
+  Hint: NavigationFilter
+  Value: |
+    {E0A2A027-0932-4878-A7D6-0416D5263EFB}
+    {61BD64D6-809E-40AE-9297-2724A19329B3}
+    {D063E9D1-C7B5-4B1E-B31E-69886C9C59F5}
+    {500AE4C0-FA7B-463F-8149-EFFF7F044101}
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{DA631FB5-51B3-49F6-9915-732D093CF221}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: 
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 102
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "16863469-616f-4d9e-a66f-02c79610ddaa"
+      Hint: ProductShortDescription
+      Value: "Essential tool for Data Center Maintenance - Quickly verify MPO / MTP® fiber cable type (A, B, C), continuity and end-to-end polarity. "
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220303T154334Z
+    - ID: "36d9d67b-3610-4327-963e-e209239944d7"
+      Hint: ProductApplication
+      Value: |
+        <h3 style="font-size: 16px; padding-bottom: 5px;">Applications:</h3><ul class="productDetailApplications">
+         <li>Data Center - MPO Cable Verification</li>
+         <li>Test polarity, continuity, and fiber mismatch</li>
+         <li>Locate ends of unmarked cables in data centers</li>
+         
+         
+         
+         
+         
+         
+         
+        </ul>
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4dda6e0a-1c9d-4a8d-890f-11a8eddc2f11"
+      Hint: ProductFeatures
+      Value: |
+        <h3 style="font-size: 16px; padding-bottom: 5px;">Features:</h3> <ul class="productDetailFeatures">
+         <li>Viewing safe for eyes</li>
+         <li>CW or 2Hz (2 cycles per second) output</li>
+         <li>Direct connect - No fan-outs necessary</li>
+         
+         
+         
+         
+         
+         
+         
+        </ul>
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: MT Tracer 12Fiber VFL and Display
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\archana
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: "MPO Cable Checker - Quickly verify continuity and polarity of MTP / MPO fiber optic cables with MT Tracer from AFL."
+    - ID: "59ec008e-95ec-4c06-9189-09d4acaf1d7e"
+      Hint: ProductCategory
+      Value: "{98A1C258-FE55-4A33-80BC-8E9EDA6F31DF}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\archana
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: "MT Tracer, MT Tracer, fiber identifier, fibre identifier, fiber identifiers, fibre identifiers, AFL, fault locator, locate faults, visible red laser, red laser source, passive optical device, Data Center, TIA-568C, MPO Type A, MPO Type B, MPO Type C, fiber optic"
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: MT Tracer 12Fiber VFL and Display
+    - ID: "646d0f97-6838-4bff-800d-895747365401"
+      Hint: AFLDocumentList
+      Value: 
+    - ID: "72653cc9-973c-4682-b5c7-26d926959f8f"
+      Hint: ProductImage
+      Value: |
+        <image stylelabs-content-id="48559" src="https://afl-delivery.stylelabs.cloud/api/public/content/8789e0a0142e43ae8c86a18a1b9f15ac?v=b51ec2d0" stylelabs-content-type="Image" alt="MT Tracer 12Fiber VFL and Display" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/48559/thumbnail" />
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: MT Tracer 12Fiber VFL and Display
+    - ID: "8b978017-d437-40aa-b31d-bbf1d560a0cb"
+      Hint: DownloadFileLink
+      Value: |
+        <link id="{27DD2184-3481-419D-9418-CD4F0FC3430E}" querystring="" target="_blank" text="SPECIFICATION SHEET" anchor="" title="" class="" url="/sitecore/media library/Project/AFL-Global/Product Specification Sheet/Test and Inspection/Fiber Identification/TRCR-00-2000" linktype="media" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "df2d2a4c-9332-45dc-850f-afdeeff86389"
+    - ID: "93dc88f3-05e5-482d-9b9a-c859c8258a73"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="268726" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/268726/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/f06221dd9f3543c799fc97567d1e9802?v=7fbb29a7" stylelabs-content-type="Image" alt="Test-VFI.jpg" height="465" width="1336" />
+    - ID: "ab4c1906-c756-4771-818b-3683089665ee"
+      Hint: ProductMediaItems
+      Value: |
+        {A06F0AD1-9D41-46A9-8914-BE06269090A1}
+        {FF29B126-17F8-45E5-9760-551A65C511ED}
+        {A4DFCF32-5EA5-439B-974A-A2C82EFA8277}
+    - ID: "af4f5f0d-745a-4af7-aee7-2002f0430999"
+      Hint: ProductTitle
+      Value: "MT Tracer (12-Fiber VFL and Display)"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d1f74386-05c3-4c80-aa18-38d21db05fdf"
+      Hint: ProductId
+      Value: 502
+    - ID: "d93ad815-376a-43bf-b34b-cbad0b1b7128"
+      Hint: ProductLongDescription
+      Value: |
+        <h2>   MT Tracer &ndash; Essential tool for Data Center Maintenance</h2>
+        <h3>   &nbsp;</h3>
+        <h3>   What type of MPO cables are in your data center?</h3>
+        <div>   Industry standards such as EIA/TIA 568C support three configurations for MTP&reg; / MPO cables.</div>
+        <ul>
+            <li>    Type A: One-to-one fiber wiring between connectors</li>
+            <li>    Type B: One-to-one fiber wiring between connectors with one connector flipped such that fibers are wired {1 to 12, 2 to 11, 3 to 10, etc.}</li>
+            <li>    Type C: Fibers flipped in pairs such that fibers are wired {(1 to 2, 2 to 1), (3 to 4, 4 to 3), etc.}</li>
+        </ul>
+        <div>   Data Centers evolve over time as upgrades to hardware bring in new equipment potentially wired to support one or more of the MPO cable standards listed above.&nbsp; The challenge for technicians is matching up the correct cable type with the appropriate equipment to keep systems operating.&nbsp;</div>
+        <ul>
+            <li>    MPO cables may (or may not) be labeled&hellip;</li>
+            <li>    Labels may (or may not) be correct&hellip;</li>
+            <li>    How can a technician quickly verify MPO cable type prior to installation?</li>
+        </ul>
+        <h3>   MT Tracer provides quick MPO cable verification.</h3>
+        <div>   &nbsp;</div>
+        <div>   The MT Tracer is a compact multi-fiber visual fault locator (VFL) (red laser source) supporting 8 or 12 fiber MTP&reg; / MPO connections. The user simply connects the 12-fiber cable directly to the unit and views the results.</div>
+        <div>   &nbsp;</div>
+        <div>   Fibers can be tested individually or all at once. By progressing sequentially through the fibers, cables can be quickly checked for polarity by verifying the proper order at the output.&nbsp; Additionally, damaged fiber(s) are quickly identified with the MT Tracer saving trouble-shooting time when cables are put into service.</div>
+        <div>   &nbsp;</div>
+        <div>   Use the MT Tracer source to trace cables in messy or un-documented setups.&nbsp; This provides a quick means of finding the &ldquo;other end&rdquo; from amongst cluttered cables.&nbsp; Simply connect the MT Tracer Source to one end and look for the visual red light transmitted out the opposite connector.</div>
+        <div>   &nbsp;</div>
+        <div>   MT Tracer kit from AFL is a complete MTP / MPO cable polarity and continuity test solution.&nbsp;</div>
+        <div>   &nbsp;</div>
+        <h2>   Key Specifications</h2>
+        <ul>
+            <li>    Wavelength: 650 nm +/-20 nm</li>
+            <li>    Output Power: 1.0 mW (into each 9/125 fiber in MPO/MTP&reg; patchcord)</li>
+            <li>    Output Connector: MPO / MTP&reg;</li>
+            <li>    Safety: Class II Laser Product</li>
+        </ul>
+        <h2>   <br />
+        Ordering Information</h2>
+        <div>
+        <p>    The MT Tracer kit includes an MT Tracer Source, MT Tracer Display, and carry case.</p>
+        <ul>
+            <li>     MT Tracer Source, which may be used as a multifiber VFL, provides 12 separately controlled visible lasers. The MT Tracer can illuminate a selected fiber or automatically sequence through all 12 fibers.</li>
+            <li>     MT Tracer display uses passive optics to show the light received on each fiber being traced. When used together, the MT Tracer Source and Display provide a fast way to trace (verify connectivity) a 12-fiber link.</li>
+            <li>     Source and Display units are equipped with male (pinned) 12-fiber MTP&reg; connectors.</li>
+        </ul>
+        <h3>    MT Tracer</h3>
+        </div>
+        <table border="1" cellpadding="0" cellspacing="0" width="564">
+            <tbody>
+                <tr>
+                    <td id="title" style="width: 145px;">
+                    <div>       <strong>Model</strong></div>
+                    </td>
+                    <td id="title" style="width: 419px;">
+                    <div>       <strong>Description</strong></div>
+                    </td>
+                </tr>
+                <tr>
+                    <td valign="top" style="width: 145px;">
+                    <div>       MT Tracer Kit</div>
+                    </td>
+                    <td valign="top" style="width: 419px;">
+                    <div>       MT Tracer Source, MT Tracer Display and carry case</div>
+                    </td>
+                </tr>
+                <tr>
+                    <td valign="top" style="width: 145px;">
+                    <div>       MT Tracer Source</div>
+                    </td>
+                    <td valign="top" style="width: 419px;">
+                    <div>       A multifiber VFL</div>
+                    </td>
+                </tr>
+                <tr>
+                    <td valign="top" style="width: 145px;">
+                    <div>       MT Tracer Display</div>
+                    </td>
+                    <td valign="top" style="width: 419px;">
+                    <div>       Provides eye-safe viewing of visible light</div>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <p>   <span style="font-size: 12px;">&nbsp;&nbsp;</span></p>
+        <p>   Visible Red Laser troubleshooting tools are commonly referred to as VFL or VFI where: &nbsp;</p>
+        <ul>
+            <li>    VFL = Visual Fault Locator</li>
+            <li>    VFI = Visual Fault Identifier</li>
+        </ul>
+        <p>   <em>MTP is a registered trademark of US Conec, LTD.</em></p>
+        <style>
+            table {
+            border-collapse: collapse;
+            border-spacing: 0;
+            width: 100% !important;
+            border: 1px solid #ddd;
+            background-color: #FFFFFF;
+            }
+            th, td {
+            text-align: left;
+            padding: 16px;
+            }
+            tr:nth-child(even) {
+            background-color: rgba(128, 128, 128, 0.07);
+            }
+            #title {
+            background-color: #00c0f3 !important;
+            color: #FFFFFF !important;
+            }
+            td {
+            padding: 15px !important;
+            border-right: 1px solid rgba(128, 128, 128, 0.5) !important;
+            border-bottom: 1px solid rgba(128, 128, 128, 0.5) !important;
+            border-top-color: rgba(128, 128, 128, 0.5) !important;
+            border-left-color: rgba(128, 128, 128, 0.5) !important;
+            border-top-style: solid !important;
+            border-left-style: solid !important;
+            text-align: left !important;
+            line-height: 1.5 !important;
+            display: table-cell !important;
+            }
+            .afl-subPages table tbody tr td {
+            font-size: 15px !important;
+            }
+            tr:hover {
+            background-color: #e6e6e6;
+            }
+        </style>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231122T212532Z
+    - ID: "ef2f63f2-c942-49a5-9c43-ebcfec40337e"
+      Hint: ProductName
+      Value: "MT Tracer (12-Fiber VFL and Display)"
+    - ID: "fb72ff1d-6b1d-4970-916a-8162ff077e62"
+      Hint: ProcutItems
+      Value: |
+        {C942D14E-12FB-468B-A8A2-96CB150C250F}
+        {4CB4B513-E071-4C55-956F-F149AB5F4112}
+        {B848144D-FBFB-46AE-A7FD-2EA4053631F4}
+        {787DD9BC-EDA7-4251-B706-A4DCA79ED638}
+        {E563C707-D3A1-46ED-AA5E-1E944039E008}

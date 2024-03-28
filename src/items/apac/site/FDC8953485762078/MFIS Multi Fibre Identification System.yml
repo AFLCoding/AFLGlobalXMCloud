@@ -1,0 +1,262 @@
+﻿---
+ID: "b248d89c-1bf7-4b7d-a99c-04ea4e3e1769"
+Parent: "c2ed831d-9832-41b8-af61-e088a0874dad"
+Template: "231b4589-f8fc-498f-b0f6-64fabecbc7b9"
+Path: /sitecore/content/AFLGlobal/APAC/Home/Products/Test and Inspection/UP Visual Fault Identifiers/MFIS Multi Fibre Identification System
+SharedFields:
+- ID: "1fbc6a49-6281-48ee-87e9-a3970b145adb"
+  Hint: NavigationFilter
+  Value: |
+    {E0A2A027-0932-4878-A7D6-0416D5263EFB}
+    {61BD64D6-809E-40AE-9297-2724A19329B3}
+    {D063E9D1-C7B5-4B1E-B31E-69886C9C59F5}
+    {500AE4C0-FA7B-463F-8149-EFFF7F044101}
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{8C5922A0-10CD-486E-841D-D3EBB0E4379F}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{DAE7C21D-4D3B-4257-A95C-9104CD8AF409}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 101
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "16863469-616f-4d9e-a66f-02c79610ddaa"
+      Hint: ProductShortDescription
+      Value: "MFIS (Multi-Fibre Identification System) is a simple user friendly way to assure multi-fibre network continuity quickly, correctly, and efficiently."
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220128T171043Z
+    - ID: "36d9d67b-3610-4327-963e-e209239944d7"
+      Hint: ProductApplication
+      Value: |
+        <h3 style="font-size: 16px; padding-bottom: 5px;">Applications:</h3><ul class="productDetailApplications">
+        	<li>Network construction detection</li>
+        	<li>Various connectors for easy application</li>
+        	<li>Optimised for use on 250 ?m, 900 ?m and ribbon fibre</li>
+        	
+        	
+        	
+        	
+        	
+        	
+        	
+        </ul>
+    - ID: "4dda6e0a-1c9d-4a8d-890f-11a8eddc2f11"
+      Hint: ProductFeatures
+      Value: |
+        <h3 style="font-size: 16px; padding-bottom: 5px;">Features:</h3><ul class="productDetailFeatures">
+        	<li style="display: list-item;">Easy to use</li>
+        	<li style="display: list-item;">Powered by common batteries</li>
+        	<li style="display: list-item;">One-hand operation</li>
+        	<li style="display: list-item;">Hand held and lightweight</li>
+        	<li style="display: none;">Three year calibration interval</li>
+        	
+        	
+        	
+        	
+        	
+        </ul>
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: MFIS Multi Fibre Identification System
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\archana
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: "MFIS (Multi-Fibre Identification System) is a simple user friendly way to assure multi-fibre network continuity quickly, correctly, and efficiently."
+    - ID: "59ec008e-95ec-4c06-9189-09d4acaf1d7e"
+      Hint: ProductCategory
+      Value: "{317E25DB-9421-46C8-8EB5-5E5A8F1333B2}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\archana
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: afl, multi, fibre, identification, system, test, inspection
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: MFIS Multi Fibre Identification System
+    - ID: "72653cc9-973c-4682-b5c7-26d926959f8f"
+      Hint: ProductImage
+      Value: |
+        <image stylelabs-content-id="184526" src="https://afl-delivery.stylelabs.cloud/api/public/content/bc5904df18844b4789f7305303160de6?v=af659d7f" stylelabs-content-type="Image" alt="MFIS Multi Fibre Identification System " thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/184526/thumbnail" />
+    - ID: "8b978017-d437-40aa-b31d-bbf1d560a0cb"
+      Hint: DownloadFileLink
+      Value: |
+        <link text="SPECIFICATION SHEET" anchor="" linktype="media" class="" title="" target="_blank" querystring="" id="{B35BC814-45EB-4B8D-B934-E36173BD69D0}" url="/sitecore/media library/Project/AFL-Global/Product Specification Sheet/Test and Inspection/Fiber Identification/MFIS-00-2000_1" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2075e404-59e4-489d-aa28-4337ba86804b"
+    - ID: "93dc88f3-05e5-482d-9b9a-c859c8258a73"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="170034" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/170034/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/f43582c70bc24d7698e9a233a54cde20?v=675609e5" stylelabs-content-type="Image" alt="MFI.jpg" height="465" width="1336" />
+    - ID: "af4f5f0d-745a-4af7-aee7-2002f0430999"
+      Hint: ProductTitle
+      Value: "MFIS Multi-Fibre Identification System"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sripada
+    - ID: "d1f74386-05c3-4c80-aa18-38d21db05fdf"
+      Hint: ProductId
+      Value: 2563
+    - ID: "d93ad815-376a-43bf-b34b-cbad0b1b7128"
+      Hint: ProductLongDescription
+      Value: |
+        <span style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-variant-ligatures: normal; orphans: 2; widows: 2;">Multi-Fibre network construction is time consuming, complicated, and often built by more than one crew with mixed sets of documentation. However carefully the build-out is done, mistakes such as mislabeling can happen. How can the network operator have full confidence in their network continuity? AFL&rsquo;s Multi-Fibre Identification System (MFIS) can provide 100% multi-fibre network continuity assurance and senior management peace of mind. The MFIS test system is a simple user friendly way to verify network construction quickly, correctly, and efficiently.</span><br style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-variant-ligatures: normal; orphans: 2; widows: 2;" />  <span style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-variant-ligatures: normal; orphans: 2; widows: 2;">&nbsp;</span><br style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-variant-ligatures: normal; orphans: 2; widows: 2;" />  <span style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-variant-ligatures: normal; orphans: 2; widows: 2;">Designed to address both the service provider and enterprise markets, the MFIS test system, with its embedded digital coding, called Fibre ID, is used during and after multi-fibre network construction activities to give managers confidence and peace of mind with respect to fibre network documentation accuracy.</span><br style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-variant-ligatures: normal; orphans: 2; widows: 2;" />  <br style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-variant-ligatures: normal; orphans: 2; widows: 2;" />  <h2 style="font-family: Arial, Helvetica, sans-serif; font-variant-ligatures: normal; orphans: 2; widows: 2;">   <strong>MFT &mdash; Multi-Fibre Tracer</strong></h2>  <span style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-variant-ligatures: normal; orphans: 2; widows: 2;">The MFT is a single power (MTP), twelve-fiber output 1550 nm source. It is designed around 12 discrete laser sources (1550 nm singlemode) tied to an MTP fan-out connector. It is packaged in a light and sturdy case. One single button operation is designed to quickly send laser light with embedded Fibre ID signals down the network for MFI (Multi-Fibre Identifier) and/or MFP (Multi-Fibre Power Meter) to provide automatic fibre identification.</span><br style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-variant-ligatures: normal; orphans: 2; widows: 2;" />  <br style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-variant-ligatures: normal; orphans: 2; widows: 2;" />  <h2 style="font-family: Arial, Helvetica, sans-serif; font-variant-ligatures: normal; orphans: 2; widows: 2;">   <strong>MFI &mdash; Multi-Fibre Identifier</strong></h2>  <span style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-variant-ligatures: normal; orphans: 2; widows: 2;">MFI is designed to detect the presence of digitally coded laser light in the optical fibre network under test. The unit is activated by inserting the fibre under test into the clamp and pulling the trigger, located on the underside of the MFI. The LCD displays the fibre identification number.&nbsp;</span><span style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-variant-ligatures: normal; orphans: 2; widows: 2;">MFI detects the digitally coded data bursts transmitted by the MFT when the MFI is clamped on the fibre under test.</span><br style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-variant-ligatures: normal; orphans: 2; widows: 2;" />  <br style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-variant-ligatures: normal; orphans: 2; widows: 2;" />  <h2 style="font-family: Arial, Helvetica, sans-serif; font-variant-ligatures: normal; orphans: 2; widows: 2;">   <strong>MFP &mdash; Multi-Fibre Power Meter</strong></h2>  <span style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-variant-ligatures: normal; orphans: 2; widows: 2;">MFP is designed to detect the presence of digitally coded laser light emitted from the MFT while in Fibre ID mode. It is also designed to use as a regular power meter.</span>  <div>   &nbsp;</div>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230317T055009Z
+    - ID: "ef2f63f2-c942-49a5-9c43-ebcfec40337e"
+      Hint: ProductName
+      Value: "MFIS Multi-Fibre Identification System"
+    - ID: "fb72ff1d-6b1d-4970-916a-8162ff077e62"
+      Hint: ProcutItems
+      Value: |
+        {7502B3D5-A205-4A7F-8104-08E3D53E00D5}
+        {C31C2D61-0387-436F-AC41-01E679511392}
+        {D53C05A1-FD4C-427E-8812-A05F9F65708A}
+        {84C27700-2377-4795-ABB6-7A7154D95403}
+        {3EA3970D-58C9-446C-8200-F6C5EE901F6B}
+        {8CE5A75E-8948-400B-938F-3AF9C34823D3}
+        {3B21C403-C5AB-47C7-81BC-C757F68819D8}
+        {C942D14E-12FB-468B-A8A2-96CB150C250F}
+        {4CB4B513-E071-4C55-956F-F149AB5F4112}
+        {B848144D-FBFB-46AE-A7FD-2EA4053631F4}
+        {787DD9BC-EDA7-4251-B706-A4DCA79ED638}
+        {F7D3DC6B-0A5B-436A-9966-86F40F1AA7FE}
+        {E563C707-D3A1-46ED-AA5E-1E944039E008}
+        {C5B2268A-ECC9-463E-B8AA-72A5ABB04547}
+        {0E0E54E5-2A23-4D43-A12D-1C51FFC3E664}
+  - Version: 2
+    Fields:
+    - ID: "16863469-616f-4d9e-a66f-02c79610ddaa"
+      Hint: ProductShortDescription
+      Value: "MFIS (Multi-Fibre Identification System) is a simple user friendly way to assure multi-fibre network continuity quickly, correctly, and efficiently."
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230327T142053Z
+    - ID: "36d9d67b-3610-4327-963e-e209239944d7"
+      Hint: ProductApplication
+      Value: |
+        <h3 style="font-size: 16px; padding-bottom: 5px;">Applications:</h3><ul class="productDetailApplications">
+        	<li>Network construction detection</li>
+        	<li>Various connectors for easy application</li>
+        	<li>Optimised for use on 250 ?m, 900 ?m and ribbon fibre</li>
+        	
+        	
+        	
+        	
+        	
+        	
+        	
+        </ul>
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{EE9BAFE9-A55E-406B-8BBF-45ADF7FF9068}"
+    - ID: "4dda6e0a-1c9d-4a8d-890f-11a8eddc2f11"
+      Hint: ProductFeatures
+      Value: |
+        <h3 style="font-size: 16px; padding-bottom: 5px;">Features:</h3><ul class="productDetailFeatures">
+        	<li style="display: list-item;">Easy to use</li>
+        	<li style="display: list-item;">Powered by common batteries</li>
+        	<li style="display: list-item;">One-hand operation</li>
+        	<li style="display: list-item;">Hand held and lightweight</li>
+        	<li style="display: none;">Three year calibration interval</li>
+        	
+        	
+        	
+        	
+        	
+        </ul>
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: MFIS Multi Fibre Identification System
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\archana
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: "MFIS (Multi-Fibre Identification System) is a simple user friendly way to assure multi-fibre network continuity quickly, correctly, and efficiently."
+    - ID: "59ec008e-95ec-4c06-9189-09d4acaf1d7e"
+      Hint: ProductCategory
+      Value: "{317E25DB-9421-46C8-8EB5-5E5A8F1333B2}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\ChrisZ
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: afl, multi, fibre, identification, system, test, inspection
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: MFIS Multi Fibre Identification System
+    - ID: "72653cc9-973c-4682-b5c7-26d926959f8f"
+      Hint: ProductImage
+      Value: |
+        <image stylelabs-content-id="184526" src="https://afl-delivery.stylelabs.cloud/api/public/content/bc5904df18844b4789f7305303160de6?v=af659d7f" stylelabs-content-type="Image" alt="MFIS Multi Fibre Identification System " thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/184526/thumbnail" />
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: MFIS Multi Fibre Identification System
+    - ID: "8b978017-d437-40aa-b31d-bbf1d560a0cb"
+      Hint: DownloadFileLink
+      Value: |
+        <link id="{B35BC814-45EB-4B8D-B934-E36173BD69D0}" querystring="" target="_blank" text="SPECIFICATION SHEET" anchor="" title="" class="" url="/sitecore/media library/Project/AFL-Global/Product Specification Sheet/Test and Inspection/Fiber Identification/MFIS-00-2000_1" linktype="media" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "301d31ea-1eec-4e12-92a2-0ceabbdac55b"
+    - ID: "93dc88f3-05e5-482d-9b9a-c859c8258a73"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="170034" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/170034/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/f43582c70bc24d7698e9a233a54cde20?v=675609e5" stylelabs-content-type="Image" alt="MFI.jpg" height="465" width="1336" />
+    - ID: "af4f5f0d-745a-4af7-aee7-2002f0430999"
+      Hint: ProductTitle
+      Value: "MFIS Multi-Fibre Identification System"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20230327T142053Z
+    - ID: "d1f74386-05c3-4c80-aa18-38d21db05fdf"
+      Hint: ProductId
+      Value: 2563
+    - ID: "d93ad815-376a-43bf-b34b-cbad0b1b7128"
+      Hint: ProductLongDescription
+      Value: |
+        <span style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-variant-ligatures: normal; orphans: 2; widows: 2;">Multi-Fibre network construction is time consuming, complicated, and often built by more than one crew with mixed sets of documentation. However carefully the build-out is done, mistakes such as mislabeling can happen. How can the network operator have full confidence in their network continuity? AFL&rsquo;s Multi-Fibre Identification System (MFIS) can provide 100% multi-fibre network continuity assurance and senior management peace of mind. The MFIS test system is a simple user friendly way to verify network construction quickly, correctly, and efficiently.</span><br style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-variant-ligatures: normal; orphans: 2; widows: 2;" />  <span style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-variant-ligatures: normal; orphans: 2; widows: 2;">&nbsp;</span><br style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-variant-ligatures: normal; orphans: 2; widows: 2;" />  <span style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-variant-ligatures: normal; orphans: 2; widows: 2;">Designed to address both the service provider and enterprise markets, the MFIS test system, with its embedded digital coding, called Fibre ID, is used during and after multi-fibre network construction activities to give managers confidence and peace of mind with respect to fibre network documentation accuracy.</span><br style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-variant-ligatures: normal; orphans: 2; widows: 2;" />  <br style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-variant-ligatures: normal; orphans: 2; widows: 2;" />  <h2 style="font-family: Arial, Helvetica, sans-serif; font-variant-ligatures: normal; orphans: 2; widows: 2;">   <strong>MFT &mdash; Multi-Fibre Tracer</strong></h2>  <span style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-variant-ligatures: normal; orphans: 2; widows: 2;">The MFT is a single power (MTP), twelve-fiber output 1550 nm source. It is designed around 12 discrete laser sources (1550 nm singlemode) tied to an MTP fan-out connector. It is packaged in a light and sturdy case. One single button operation is designed to quickly send laser light with embedded Fibre ID signals down the network for MFI (Multi-Fibre Identifier) and/or MFP (Multi-Fibre Power Meter) to provide automatic fibre identification.</span><br style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-variant-ligatures: normal; orphans: 2; widows: 2;" />  <br style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-variant-ligatures: normal; orphans: 2; widows: 2;" />  <h2 style="font-family: Arial, Helvetica, sans-serif; font-variant-ligatures: normal; orphans: 2; widows: 2;">   <strong>MFI &mdash; Multi-Fibre Identifier</strong></h2>  <span style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-variant-ligatures: normal; orphans: 2; widows: 2;">MFI is designed to detect the presence of digitally coded laser light in the optical fibre network under test. The unit is activated by inserting the fibre under test into the clamp and pulling the trigger, located on the underside of the MFI. The LCD displays the fibre identification number.&nbsp;</span><span style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-variant-ligatures: normal; orphans: 2; widows: 2;">MFI detects the digitally coded data bursts transmitted by the MFT when the MFI is clamped on the fibre under test.</span><br style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-variant-ligatures: normal; orphans: 2; widows: 2;" />  <br style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-variant-ligatures: normal; orphans: 2; widows: 2;" />  <h2 style="font-family: Arial, Helvetica, sans-serif; font-variant-ligatures: normal; orphans: 2; widows: 2;">   <strong>MFP &mdash; Multi-Fibre Power Meter</strong></h2>  <span style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-variant-ligatures: normal; orphans: 2; widows: 2;">MFP is designed to detect the presence of digitally coded laser light emitted from the MFT while in Fibre ID mode. It is also designed to use as a regular power meter.</span>  <div>   &nbsp;</div>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231122T212535Z
+    - ID: "ef2f63f2-c942-49a5-9c43-ebcfec40337e"
+      Hint: ProductName
+      Value: "MFIS Multi-Fibre Identification System"
+    - ID: "fb72ff1d-6b1d-4970-916a-8162ff077e62"
+      Hint: ProcutItems
+      Value: |
+        {7502B3D5-A205-4A7F-8104-08E3D53E00D5}
+        {C31C2D61-0387-436F-AC41-01E679511392}
+        {D53C05A1-FD4C-427E-8812-A05F9F65708A}
+        {84C27700-2377-4795-ABB6-7A7154D95403}
+        {3EA3970D-58C9-446C-8200-F6C5EE901F6B}
+        {8CE5A75E-8948-400B-938F-3AF9C34823D3}
+        {3B21C403-C5AB-47C7-81BC-C757F68819D8}
+        {C942D14E-12FB-468B-A8A2-96CB150C250F}
+        {4CB4B513-E071-4C55-956F-F149AB5F4112}
+        {B848144D-FBFB-46AE-A7FD-2EA4053631F4}
+        {787DD9BC-EDA7-4251-B706-A4DCA79ED638}
+        {F7D3DC6B-0A5B-436A-9966-86F40F1AA7FE}
+        {E563C707-D3A1-46ED-AA5E-1E944039E008}
+        {C5B2268A-ECC9-463E-B8AA-72A5ABB04547}
+        {0E0E54E5-2A23-4D43-A12D-1C51FFC3E664}

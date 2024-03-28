@@ -1,0 +1,186 @@
+﻿---
+ID: "86e5b020-8484-4c3a-a8d1-2162c539b715"
+Parent: "bec8c310-21dd-41b6-ad79-afa5fc21a882"
+Template: "231b4589-f8fc-498f-b0f6-64fabecbc7b9"
+Path: /sitecore/content/AFLGlobal/APAC/Home/Products/Test and Inspection/Optical Loss Testing/Optical Power Meters/FlowScout PON Optical Power Meter
+SharedFields:
+- ID: "1fbc6a49-6281-48ee-87e9-a3970b145adb"
+  Hint: NavigationFilter
+  Value: |
+    {E0A2A027-0932-4878-A7D6-0416D5263EFB}
+    {61BD64D6-809E-40AE-9297-2724A19329B3}
+    {D063E9D1-C7B5-4B1E-B31E-69886C9C59F5}
+    {500AE4C0-FA7B-463F-8149-EFFF7F044101}
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{DA631FB5-51B3-49F6-9915-732D093CF221}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{DAE7C21D-4D3B-4257-A95C-9104CD8AF409}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 102
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "16863469-616f-4d9e-a66f-02c79610ddaa"
+      Hint: ProductShortDescription
+      Value: "FlowScout PON Optical Power Meter - Detects GPON, XGS-PON, and Video signals all at once."
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211229T041203Z
+    - ID: "36d9d67b-3610-4327-963e-e209239944d7"
+      Hint: ProductApplication
+      Value: |
+        <h3 style="color: #282828; background-color: #ffffff; margin: 0px; padding-bottom: 5px;">Applications:</h3>
+        <ul class="productDetailApplications" style="color: #333333; background-color: #ffffff; margin: 0px 0px 15px; padding: 0px 0px 0px 15px; list-style-image: url('https://www.aflglobal.com/productionFiles/images/bulletRound.aspx');">
+            <li style="margin: 0px 0px 6px;">Detects and measures PON upstream and downstream signals</li>
+            <li style="margin: 0px 0px 6px;">PON network activation</li>
+            <li style="margin: 0px 0px 6px;">BPON, EPON, GPON, 10G-EPON, XG-PON, XGS-PON, Video network verification and troubleshooting</li>
+            <li style="margin: 0px 0px 6px;">Evaluate PON power level Pass/Fail based on limits</li>
+        </ul>
+    - ID: "41226286-5d9e-4f56-b67e-a86305f63ef2"
+      Hint: HeroLink4
+      Value: |
+        <link linktype="anchor" text="Get a Quote" url="alf-Form-section" anchor="alf-Form-section" />
+    - ID: "4dda6e0a-1c9d-4a8d-890f-11a8eddc2f11"
+      Hint: ProductFeatures
+      Value: |
+        <h3 style="color: #282828; background-color: #ffffff; margin: 0px; padding-bottom: 5px;">Features:</h3>
+        <ul class="productDetailFeatures" style="color: #333333; background-color: #ffffff; margin: 0px 0px 15px; padding: 0px 0px 0px 15px; list-style-image: url('https://www.aflglobal.com/productionFiles/images/bulletRound.aspx');">
+            <li style="margin: 0px 0px 6px;">Detect multiple wavelengths automatically - NO setup required!</li>
+            <li style="margin: 0px 0px 6px;">Detects GPON, XGS-PON, and Video signals all at once</li>
+            <li style="margin: 0px 0px 6px;">Rugged and water resistant, IP54 rating</li>
+            <li style="margin: 0px 0px 6px;">Field-swappable connector adapters</li>
+            <li style="margin: 0px 0px 6px;">Large color touchscreen display daylight viewable</li>
+            <li style="margin: 0px 0px 6px;">Rechargeable Li-Polymer battery</li>
+        </ul>
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: FlowScout™ PON Optical Power Meter
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\archana
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: "FlowScout PON Optical Power Meter - Detects GPON, XGS-PON, and Video signals all at once."
+    - ID: "58d47758-922c-4daa-95ae-3cb9c3fee186"
+      Hint: HeroLink3
+      Value: |
+        <link linktype="anchor" text="Resources" url="alf-Resources-section" anchor="alf-Resources-section" />
+    - ID: "59ec008e-95ec-4c06-9189-09d4acaf1d7e"
+      Hint: ProductCategory
+      Value: |
+        {B4AB3272-6DF1-4C83-B651-D37485046628}
+        {DAE923A0-99A2-4DCB-B300-29C705F823C2}
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\archana
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: "FlowScout PON Optical Power Meter GPON XGS-PON Video signals AFL Test Inspection "
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: FlowScout™ PON Optical Power Meter
+    - ID: "612fc437-a34e-408c-a80f-a3ce18887805"
+      Hint: SuggestionBoxRedirectIcon
+      Value: |
+        <image mediaid="{5A901871-5681-4DAD-ABC1-FB375934B088}" alt="alt" height="" width="" hspace="" vspace="" />
+    - ID: "646d0f97-6838-4bff-800d-895747365401"
+      Hint: AFLDocumentList
+      Value: "{126B5366-1C9D-47F6-AB8E-5272BC83EDDB}"
+    - ID: "72653cc9-973c-4682-b5c7-26d926959f8f"
+      Hint: ProductImage
+      Value: |
+        <image stylelabs-content-id="227785" src="https://afl-delivery.stylelabs.cloud/api/public/content/5c895ed661284b06926ed924a69d20ef?v=6fb61dad" stylelabs-content-type="Image" alt="1010" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/227785/thumbnail" mediaid="" height="800" width="800" />
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: FlowScout™ PON Optical Power Meter
+    - ID: "8b978017-d437-40aa-b31d-bbf1d560a0cb"
+      Hint: DownloadFileLink
+      Value: |
+        <link text="DOWNLOAD SPECIFICATION SHEET" target="_blank" linktype="media" id="{B116EA80-E5C3-44CF-83B9-9EC1B94C6A56}" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "81ac6a80-43a0-4ee7-9edc-4b46f7b763c0"
+    - ID: "93dc88f3-05e5-482d-9b9a-c859c8258a73"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="271844" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/271844/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/f20fd8584a844619b530936abc197fac?v=53b54ec3" stylelabs-content-type="Image" alt="FlowScout-top-header.jpg" height="465" width="1336" />
+    - ID: "a40ebd3d-2b41-41fb-90f7-753544ce77c5"
+      Hint: Hero Title1
+      Value: FlowScout™ PON Optical Power Meter
+    - ID: "ab4c1906-c756-4771-818b-3683089665ee"
+      Hint: ProductMediaItems
+      Value: |
+        {0625DBA1-39DE-4A10-8BC9-2223CFA9AC89}
+        {EAB949E6-E32C-4534-88B5-5548FBAE7F46}
+    - ID: "ad694352-89e0-4ab7-90e6-1ec187afd032"
+      Hint: AFLVideoList
+      Value: |
+        {DD3D66C6-DB31-497C-9914-93F642BE058D}
+        {F195643E-D168-4B7F-B53E-7D7856AEFED0}
+    - ID: "af4f5f0d-745a-4af7-aee7-2002f0430999"
+      Hint: ProductTitle
+      Value: FlowScout™ PON Optical Power Meter
+    - ID: "b0b3b4da-e924-4a2d-be19-ec90a4e96f16"
+      Hint: HeroLink2
+      Value: |
+        <link linktype="anchor" text="Description" url="alf-description-section" anchor="alf-description-section" />
+    - ID: "b4c4c695-39e8-4d38-b0ed-4f3f8a9a9c83"
+      Hint: ProductDescriptionHeading
+      Value: Product Description
+    - ID: "b9f9f593-7299-41ca-94d0-cb5fcdbd6fba"
+      Hint: HeroLink1
+      Value: |
+        <link linktype="anchor" text="Features" url="alf-feature-section" anchor="alf-feature-section" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d1f74386-05c3-4c80-aa18-38d21db05fdf"
+      Hint: ProductId
+      Value: 1100
+    - ID: "d93ad815-376a-43bf-b34b-cbad0b1b7128"
+      Hint: ProductLongDescription
+      Value: |
+        <div>
+        	AFL is a trusted supplier of optical testing equipment with more than 30 years of experience and tens of thousands of units in the field. AFL&rsquo;s full range of N.I.S.T. traceable power meters are used for testing single-mode and/or multimode fiber networks.<br />
+        	&nbsp;</div>
+        <div>
+        	<strong>Designed for all:</strong> AFL&rsquo;s power meters are designed to meet the demands in an outside plant environment. The FlowScout PON Optical Power Meter easily withstands a one-meter drop and has splash resistant controls that are easy to use, even with gloves on.<br />
+        	&nbsp;</div>
+        <div>
+        	<strong>Flexible and efficient: </strong>A range of field-swappable output adapters support multiple connector styles and enables access for easy cleaning. The efficient design ensures a long run time from its rechargeable Li-Polymer battery and includes an auto-off feature to save power.<br />
+        	&nbsp;</div>
+        <div>
+        	<strong>Stores test results:</strong> The built-in File Management system allows technicians to organize test results into multiple files and transfer them via USB to a PC for analyzing, generating reports, and printing. The FlowScouts QR code feature can easily collect and transfer test data via any smart devices.</div>
+        
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231122T212534Z
+    - ID: "ef2f63f2-c942-49a5-9c43-ebcfec40337e"
+      Hint: ProductName
+      Value: FlowScout™ PON Optical Power Meter
+    - ID: "f68efc18-7857-4353-b933-34beb7947b98"
+      Hint: CTALink
+      Value: |
+        <link text="LOAD MORE" linktype="anchor" url="#" anchor="#" title="" class="" />
+    - ID: "fb72ff1d-6b1d-4970-916a-8162ff077e62"
+      Hint: ProcutItems
+      Value: |
+        {C5B2268A-ECC9-463E-B8AA-72A5ABB04547}
+        {0E0E54E5-2A23-4D43-A12D-1C51FFC3E664}
+        {A79C3C16-525A-49AC-A71A-661C2F3CCF9F}
+        {5848B9BD-045A-41CE-AD16-34D2E7DDF4D0}
+        {381A579A-A738-4C7B-9F0D-2F09809EFCBA}
+        {55441696-1E23-4BAC-953B-4850165ABD99}
+        {5239F570-7431-4EDF-AA15-FFAE48BF4968}
+        {3499C898-F651-4B9F-9DA1-C0438FF53E50}
+        {D22EEE84-9D9B-4BF2-BEAB-45434B741DF0}
+        {4F31788F-32BE-4937-9C41-93D60625EB52}
+        {910997D1-1835-4133-B012-3EC91D7F82B5}

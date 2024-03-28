@@ -1,0 +1,38 @@
+﻿---
+ID: "4d6632e6-40bb-457c-a673-6e85e3209845"
+Parent: "5e8d65a5-3a8a-468c-ba6e-8869f2d9bcfc"
+Template: "178e3cec-ca03-4c76-9ad3-122297e19e13"
+Path: "/sitecore/content/AFLGlobal/APAC/Home/Products/Test and Inspection/Fiber Optic Inspection and Cleaning/Fiber Optic Inspection/FOCIS Fiber Optic Connector Inspection Systems/Additional Image/GET-A-GRIP"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220405T050846Z
+    - ID: "4f4e6526-41d1-4a67-ba95-3cf65c6a6462"
+      Hint: ImgaeUrl
+      Value: |
+        <image stylelabs-content-id="227216" src="https://afl-delivery.stylelabs.cloud/api/public/content/93d7340716864a06b966ff2a991d1b0a?v=1ed8c822" stylelabs-content-type="Image" alt="989" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/227216/thumbnail" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mahesh
+    - ID: "80203708-a0db-4f4b-bd18-b5f74b33756d"
+      Hint: ImageTitle
+      Value: "GET-A-GRIP"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9d706544-560d-4292-8215-649ae4091308"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahesh
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220405T050846Z

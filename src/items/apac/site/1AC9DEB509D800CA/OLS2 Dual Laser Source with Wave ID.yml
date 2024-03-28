@@ -1,0 +1,266 @@
+﻿---
+ID: "0f4d6ec9-50f5-4991-888e-bb71651f9fe9"
+Parent: "5611b1d5-af01-487d-b2fa-641cadf03fb3"
+Template: "231b4589-f8fc-498f-b0f6-64fabecbc7b9"
+Path: /sitecore/content/AFLGlobal/APAC/Home/Products/Test and Inspection/Optical Loss Testing/Optical Light Sources/OLS2 Dual Laser Source with Wave ID
+SharedFields:
+- ID: "1fbc6a49-6281-48ee-87e9-a3970b145adb"
+  Hint: NavigationFilter
+  Value: |
+    {E0A2A027-0932-4878-A7D6-0416D5263EFB}
+    {61BD64D6-809E-40AE-9297-2724A19329B3}
+    {D063E9D1-C7B5-4B1E-B31E-69886C9C59F5}
+    {500AE4C0-FA7B-463F-8149-EFFF7F044101}
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{DA631FB5-51B3-49F6-9915-732D093CF221}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: 
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 104
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "16863469-616f-4d9e-a66f-02c79610ddaa"
+      Hint: ProductShortDescription
+      Value: "NOYES OLS2-Dual is a hand-held, rugged laser source designed for performing insertion loss measurements on single-mode fiber optic links when used with an optical power meter. When paired with an optical fiber identifier, the OLS2-Dual may be used for fiber identification. The LASER output is stabilized to ensure accurate test results per current TIA/EIA requirements."
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220303T154324Z
+    - ID: "36d9d67b-3610-4327-963e-e209239944d7"
+      Hint: ProductApplication
+      Value: |
+        <h3 style="font-size: 16px; padding-bottom: 5px;">Applications:</h3><ul class="productDetailApplications">
+        	<li>Certify SM links per TIA/EIA standards</li>
+        	<li>LAN/WAN Testing</li>
+        	<li>Fibre identification prior to splicing (with OFI-200D)</li>
+        	
+        	
+        	
+        	
+        	
+        	
+        	
+        </ul>
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4dda6e0a-1c9d-4a8d-890f-11a8eddc2f11"
+      Hint: ProductFeatures
+      Value: |
+        <h3 style="font-size: 16px; padding-bottom: 5px;">Features:</h3><ul class="productDetailFeatures">
+        	<li style="display: list-item;">5-Year Product Warranty</li>
+        	<li style="display: list-item;">3-Year Recommended Calibration Interval</li>
+        	<li style="display: list-item;">Dual or single Wave ID, CW, Tone Output</li>
+        	<li style="display: list-item;">Selectable 270 Hz, 330 Hz, 1 kHz, 2 kHz Tone</li>
+        	<li style="display: none;">Long battery life with 2 x AA alkaline, optional AC adapter</li>
+        	
+        	
+        	
+        	
+        	
+        </ul>
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: OLS2 Dual Laser Source with Wave ID
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\archana
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: "OLS Single-mode Laser Source | Noyes OLS2 - Dual from AFL with 1310/1550nm SM Stabilized output in rugged field unit for international standards based testing"
+    - ID: "59ec008e-95ec-4c06-9189-09d4acaf1d7e"
+      Hint: ProductCategory
+      Value: "{B4AB3272-6DF1-4C83-B651-D37485046628}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\archana
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: "OLS, OLS2, CSS1-SM,, Noyes light sources, hand-held light sources,   Laser Light Sources, Noyes OLS , Noyes Laser source, Laser sources, Laser fiber source, fiber optic Laser source, fibre optic light source, optical Laser source"
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: OLS2 Dual Laser Source with Wave ID
+    - ID: "72653cc9-973c-4682-b5c7-26d926959f8f"
+      Hint: ProductImage
+      Value: |
+        <image stylelabs-content-id="48807" src="https://afl-delivery.stylelabs.cloud/api/public/content/c9bd46443d184d5a976346d3a44d59b1?v=8eb67c43" stylelabs-content-type="Image" alt="OLS2-Dual Laser Source with Wave ID" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/48807/thumbnail" />
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: OLS2 Dual Laser Source with Wave ID
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7b67a19a-e454-4367-b9d7-45f32e5e3dc2"
+    - ID: "93dc88f3-05e5-482d-9b9a-c859c8258a73"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="169953" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/169953/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/38ce45efee0f43d3861659e585b027e0?v=f75d8dfe" stylelabs-content-type="Image" alt="Optical_Loss_Test.jpg" height="465" width="1336" />
+    - ID: "ab4c1906-c756-4771-818b-3683089665ee"
+      Hint: ProductMediaItems
+      Value: "{D63B0B98-CBE9-4F1B-AF32-B97341D55C8F}"
+    - ID: "af4f5f0d-745a-4af7-aee7-2002f0430999"
+      Hint: ProductTitle
+      Value: "OLS2-Dual Laser Source with Wave ID"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d1f74386-05c3-4c80-aa18-38d21db05fdf"
+      Hint: ProductId
+      Value: 198
+    - ID: "d93ad815-376a-43bf-b34b-cbad0b1b7128"
+      Hint: ProductLongDescription
+      Value: |
+        <h2>   <strong>D</strong><strong>ual Wavelength Laser Source</strong><strong></strong></h2>
+        <div>   NOYES OLS2 - Dual from AFL is a hand-held, rugged laser source designed for performing insertion loss measurements on single-mode fiber optic links when used with an optical power meter. The LASER output is stabilized to ensure accurate test results per current TIA/EIA requirements.</div>
+        <div>   <br />
+        Equipped with industry standard 2khz test tone, the OLS2-Dual from AFL is an ideal tool to pair with an optical fiber identifier (OFI-200D) for use in fiber identification.<br />
+        Single-mode output port emits 1310/1550 nm LASER output at CW, WaveID, dual wavelength WaveID, or user selectable Tone.<br />
+        <br />
+        <strong>Faster Test Times</strong>&nbsp;with WaveID &ndash; In WaveID mode, the NOYES OLS2-Dual encodes each wavelength with a unique WaveID code.&nbsp; When used with a NOYES power meter, the pair can send and receive two wavelengths each test &ndash; doubling testing efficiency &ndash; reducing test time!<br />
+        <br />
+        <strong>Flexible Output Connector Adapter Design</strong>&nbsp;&ndash; The OLS2-Dual output port is equipped with UCI based removable adapters to allow the output connectors to be inspected and cleaned, while allowing field change of output style between FC, SC, ST, and LC connector adapters.&nbsp;<br />
+        <br />
+        The OLS2-Dual is fully N.I.S.T. traceable.</div>
+        <div>   &nbsp;</div>
+        <h2>   <strong>Key Specifications</strong></h2>
+        <ul>
+            <li>    Optical Port Wavelengths: 1310 and 1550 nm</li>
+            <li>    Output Power: 0 dBm, 9 &micro;m single-mode</li>
+            <li>    Output connector: FC, SC, ST, LC switchable (One style supplied with unit, order others separately)&nbsp;</li>
+            <li>    Test Tones: 2 kHz, 1 kHz, 330 Hz, 270 Hz</li>
+            <li>    Battery: 2 x AA Alkaline, optional AC adapter&nbsp;</li>
+        </ul>
+        <h2>   <strong>Ordering Information</strong></h2>
+        <div>   &nbsp;</div>
+        <h3>   <strong>Model Number: OLS2-Dual</strong></h3>
+        <div>   &nbsp;</div>
+        <div>   <strong>Accessories and Connector Adapters</strong></div>
+        <table border="1" cellpadding="0" cellspacing="0" width="552">
+            <tbody>
+                <tr>
+                    <td id="title" style="width: 122px;">
+                    <div>       <strong>Model</strong></div>
+                    </td>
+                    <td id="title" style="width: 430px;">
+                    <div>       <strong>Description</strong></div>
+                    </td>
+                </tr>
+                <tr>
+                    <td valign="top">
+                    <div>       2900-50-0002MR</div>
+                    </td>
+                    <td valign="top">
+                    <div>       FC adapter</div>
+                    </td>
+                </tr>
+                <tr>
+                    <td valign="top">
+                    <div>       2900-50-0003MR</div>
+                    </td>
+                    <td valign="top">
+                    <div>       SC adapter</div>
+                    </td>
+                </tr>
+                <tr>
+                    <td valign="top">
+                    <div>       2900-50-0004MR</div>
+                    </td>
+                    <td valign="top">
+                    <div>       ST adapter</div>
+                    </td>
+                </tr>
+                <tr>
+                    <td valign="top">
+                    <div>       2900-50-0006MR</div>
+                    </td>
+                    <td valign="top">
+                    <div>       LC adapter</div>
+                    </td>
+                </tr>
+                <tr>
+                    <td valign="top">
+                    <div>       8800-00-0072PR</div>
+                    </td>
+                    <td valign="top">
+                    <div>       Universal flip-top dust cap for UCI outputs</div>
+                    </td>
+                </tr>
+                <tr>
+                    <td valign="top">
+                    <div>       4050-00-0119PR</div>
+                    </td>
+                    <td valign="top">
+                    <div>       100-240 VAC to 9 VDC</div>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <div>
+        <h3>    &nbsp;</h3>
+        </div>
+        <br />
+        <style>
+            table {
+            border-collapse: collapse;
+            border-spacing: 0;
+            width: 100% !important;
+            border: 1px solid #ddd;
+            background-color: #FFFFFF;
+            }
+            th, td {
+            text-align: left;
+            padding: 16px;
+            }
+            tr:nth-child(even) {
+            background-color: rgba(128, 128, 128, 0.07);
+            }
+            #title {
+            background-color: #00c0f3 !important;
+            color: #FFFFFF !important;
+            }
+            td {
+            padding: 15px !important;
+            border-right: 1px solid rgba(128, 128, 128, 0.5) !important;
+            border-bottom: 1px solid rgba(128, 128, 128, 0.5) !important;
+            border-top-color: rgba(128, 128, 128, 0.5) !important;
+            border-left-color: rgba(128, 128, 128, 0.5) !important;
+            border-top-style: solid !important;
+            border-left-style: solid !important;
+            text-align: left !important;
+            line-height: 1.5 !important;
+            display: table-cell !important;
+            }
+            .afl-subPages table tbody tr td {
+            font-size: 15px !important;
+            }
+            tr:hover {
+            background-color: #e6e6e6;
+            }
+        </style>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231122T212533Z
+    - ID: "ef2f63f2-c942-49a5-9c43-ebcfec40337e"
+      Hint: ProductName
+      Value: "OLS2-Dual Laser Source with Wave ID"
+    - ID: "fb72ff1d-6b1d-4970-916a-8162ff077e62"
+      Hint: ProcutItems
+      Value: |
+        {C5B2268A-ECC9-463E-B8AA-72A5ABB04547}
+        {0E0E54E5-2A23-4D43-A12D-1C51FFC3E664}
+        {A79C3C16-525A-49AC-A71A-661C2F3CCF9F}
+        {5848B9BD-045A-41CE-AD16-34D2E7DDF4D0}
+        {381A579A-A738-4C7B-9F0D-2F09809EFCBA}
+        {55441696-1E23-4BAC-953B-4850165ABD99}
+        {3499C898-F651-4B9F-9DA1-C0438FF53E50}
+        {D22EEE84-9D9B-4BF2-BEAB-45434B741DF0}
+        {3910AE4C-97F5-4AD4-AEA4-7BB42EB8E35B}
+        {4F31788F-32BE-4937-9C41-93D60625EB52}
+        {910997D1-1835-4133-B012-3EC91D7F82B5}

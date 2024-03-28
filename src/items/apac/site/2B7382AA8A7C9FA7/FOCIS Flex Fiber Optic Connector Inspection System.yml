@@ -1,0 +1,384 @@
+﻿---
+ID: "333d6fbd-1873-434f-babf-0a259836de88"
+Parent: "02384aa1-10a1-40cf-a7b4-444768c8628d"
+Template: "231b4589-f8fc-498f-b0f6-64fabecbc7b9"
+Path: /sitecore/content/AFLGlobal/APAC/Home/Products/Test and Inspection/Fiber Optic Inspection and Cleaning/Fiber Optic Inspection/FOCIS Flex Fiber Optic Connector Inspection System
+SharedFields:
+- ID: "1fbc6a49-6281-48ee-87e9-a3970b145adb"
+  Hint: NavigationFilter
+  Value: |
+    {E0A2A027-0932-4878-A7D6-0416D5263EFB}
+    {61BD64D6-809E-40AE-9297-2724A19329B3}
+    {D063E9D1-C7B5-4B1E-B31E-69886C9C59F5}
+    {500AE4C0-FA7B-463F-8149-EFFF7F044101}
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{DA631FB5-51B3-49F6-9915-732D093CF221}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: 
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 101
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "16863469-616f-4d9e-a66f-02c79610ddaa"
+      Hint: ProductShortDescription
+      Value: "FOCIS Flex makes Connector inspection simple, fast, and convenient.  With one button press, FOCIS Flex auto-focuses, captures, centers analyzes and displays the end-face image. It also auto-saves up to 10,000 images internally and can transfer data via USB or Bluetooth."
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220303T154356Z
+    - ID: "36d9d67b-3610-4327-963e-e209239944d7"
+      Hint: ProductApplication
+      Value: |
+        <h3 style="font-size: 16px; padding-bottom: 5px;">Applications:</h3><ul class="productDetailApplications">
+         <li>Inspect connectors on patch cords or in bulkhead adapters</li>
+         <li>Optical network installation, troubleshooting, and maintenance</li>
+         <li>Inspect MPO/MTP multi-fiber connectors</li>
+         <li>Assure critical fiber infrastructure performs properly</li>
+         
+         
+         
+         
+         
+         
+        </ul>
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4dda6e0a-1c9d-4a8d-890f-11a8eddc2f11"
+      Hint: ProductFeatures
+      Value: |
+        <h3 style="font-size: 16px; padding-bottom: 5px;">Features:</h3><ul class="productDetailFeatures">
+         <li>1-button to auto-focus, center, capture, analyze, and save</li>
+         <li>IEC, IPC, and user-defined pass/fail analysis</li>
+         <li>Untethered, compact, hand-held inspection</li>
+         <li>Use independently or pair with OTDR</li>
+         
+         
+         
+         
+         
+         
+        </ul>
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: FOCIS Flex Fiber Optic Connector Inspection System
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\archana
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: "Connector inspection is simple, fast, and convenient using AFL's FOCIS Flex.  Simply press the Capture button.  In seconds, FOCIS Flex auto-focuses, captures, centers and displays the end-face image, applies pass/fail rules, and optionally Bluetooth transfers image and results to a paired FLX380 or OFL280 FlexTester OTDR.    With rechargeable battery and integrated display, FOCIS Flex enables untethered inspection of patchcord and panel-mounted connectors - without requiring an external display."
+    - ID: "59ec008e-95ec-4c06-9189-09d4acaf1d7e"
+      Hint: ProductCategory
+      Value: "{322F51C0-78F6-4C53-AC8C-AB128549CDBB}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\archana
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: "FOCIS Flex, fiber optic connector inspection, connector inspection, IEC, pass/fail, IEC 61300-3-35, fiber inspection, AFL, fibre, AT&T-TP-76461, Wfocus, focus pro, focis, focis pro, IEC analysis, FOCUS Flex, estover, Smart Fiber, JDSU, ConnectorView, ConnectorMax, FiberCheck, Fibercheck2, focus, IEC analysis"
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: FOCIS Flex Fiber Optic Connector Inspection System
+    - ID: "646d0f97-6838-4bff-800d-895747365401"
+      Hint: AFLDocumentList
+      Value: 
+    - ID: "72653cc9-973c-4682-b5c7-26d926959f8f"
+      Hint: ProductImage
+      Value: |
+        <image stylelabs-content-id="46494" src="https://afl-delivery.stylelabs.cloud/api/public/content/7122fd1c481a451db77c2afb3dcfdf88?v=51008ac4" stylelabs-content-type="Image" alt="FOCIS Flex Fiber Optic Connector Inspection System" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/46494/thumbnail" />
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: FOCIS Flex Fiber Optic Connector Inspection System
+    - ID: "8b978017-d437-40aa-b31d-bbf1d560a0cb"
+      Hint: DownloadFileLink
+      Value: |
+        <link id="{1303D5EE-10F6-4942-8FFC-9EAE1CAF1EBE}" querystring="" target="_blank" text="SPECIFICATION SHEET" anchor="" title="" class="" url="/sitecore/media library/Project/AFL-Global/Product Specification Sheet/Test and Inspection/Fiber Inspection and Cleaning/FFLX-00-2000_1" linktype="media" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "88edc403-956a-411b-b156-3c0720fd3bc6"
+    - ID: "93dc88f3-05e5-482d-9b9a-c859c8258a73"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="169954" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/169954/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/fb3505cd5c9f419dbfd2851c8b222d11?v=64a35b1c" stylelabs-content-type="Image" alt="Inspection_Clean_TopLevel.jpg" height="465" width="1336" />
+    - ID: "ab4c1906-c756-4771-818b-3683089665ee"
+      Hint: ProductMediaItems
+      Value: |
+        {2CEA9C10-3F87-4703-9A87-C1A19739037C}
+        {2A6FCF79-64A3-48EA-A5A4-7F46B63AB040}
+        {4C8776AD-E99C-478C-B9BC-B159ED3E4A9E}
+    - ID: "ad694352-89e0-4ab7-90e6-1ec187afd032"
+      Hint: AFLVideoList
+      Value: |
+        {9CC37737-A6EC-4EC6-B300-C42119D9AF41}
+        {D09FF4E6-EDA6-43F2-AD0D-67F8E158F14C}
+        {1F9D8F4E-0AE9-4A18-808C-1F523A4209C7}
+        {CD80D15E-9DAF-4DBB-9D4E-48CCC46ED611}
+        {C679EB70-A1C1-4007-AAFB-14C20870BE51}
+        {3437F82C-422C-49FB-8C01-BE8ABFECCD7C}
+        {215464A6-2EFE-4D06-8E01-F53BFD30E3D9}
+        {E71E3797-43DB-4AB1-9D05-B65DC8D4F2FF}
+        {F0FECE99-5B8B-48D1-9DC1-AE57C68EA360}
+        {CAD4D685-9097-47DD-9B56-5ED8E4053D20}
+        {A4166CC2-34DB-42BD-ACCB-571A61F049F0}
+        {EB94F643-9442-4523-A88E-C504853A624C}
+        {8B5476B6-5A08-435F-87B1-E9FE70D824FD}
+        {F65CB006-2DCB-4791-A108-165A0928C682}
+        {C65FDF47-9711-483B-8855-65FF7C83B511}
+        {D9606F37-04B1-4C7D-BA5D-0BE13A1799FF}
+        {0706A031-2277-4DF1-95D1-F930DC64211C}
+        {64AEA6E2-FF54-4AE6-B27D-C153FB5AEA86}
+        {ED50DBEB-DE80-4772-B82C-5DBBD1B24133}
+        {1980C90D-449C-4240-9C52-CA5354846EAF}
+        {1127B8BA-3DDF-4EC9-8CFE-4AA3653529B5}
+        {AF2768C8-2A68-4C24-9992-366D89BA4C59}
+        {588729A5-000B-4009-BAFE-624DC1DD7B38}
+        {C669E2D8-AC61-472D-9279-50D124A60861}
+        {B5446BBB-CBE6-4609-B2E5-2E99E669AE82}
+        {8787B75B-7E0D-496D-8CDD-1D87DE577B46}
+        {810315DD-F24B-4D10-8BF9-59FEB6D6BED5}
+        {6D1332D5-3A18-4BAE-812C-3D298E60AD30}
+        {26155D30-C940-409D-BD0F-F41D9684C071}
+        {BA04B53F-22CB-4578-ACDE-02F4D1514EF8}
+        {1C3A2952-1BE5-4FC5-BB1E-841FEB5CFBF6}
+        {9A40159F-8EE2-4577-B6EB-31BE55F100D4}
+        {E6235C00-8B74-42CA-9FFD-BEFA0B2C0519}
+        {DB32D7FA-D29E-4C8E-B13A-D3B249E16411}
+        {3166C9E9-37E3-47C7-A3A1-67894110101E}
+        {AB1B6F82-3A3B-467D-8B7B-4FB84B55DC8D}
+        {B6A5C5BC-D788-47F1-8A4B-DB20C79FC16B}
+        {10DB6840-5652-4A39-97EE-E439D5DFAEBE}
+        {C73BE219-2A6E-4E9B-A214-9A11C0A7E382}
+        {AFCC9A6C-08D1-4EEF-BD7B-392B00DCB7CC}
+        {518FC23B-DBA9-4A60-A9F2-062682133A0C}
+        {9FD00ED3-AB5F-42A9-9AC9-121F6354B077}
+        {6A767F10-9804-4CB4-9ECA-9AC9E9339587}
+        {9AC85DE6-62ED-49F0-9565-CCEB92B810B3}
+        {B3831C77-9E19-474A-BF3C-D15660EA60AB}
+        {6595FAE7-CE48-43B2-B0F8-484FA5A60CEB}
+        {C28AD845-AFD5-4454-9591-A8EDD5633027}
+        {BD818DE6-3C71-4C4B-B601-3A3290369113}
+        {BECD1CB2-C668-4A82-8981-D12E593751BC}
+        {3B5DF2AA-1A61-47F0-972B-4410A4F70EEE}
+        {ED5DD82C-BBF2-4BE5-A2F3-E0CA4DF681CA}
+        {C66DA0C4-9C90-4DFC-A199-BAF257073D0B}
+        {9183585D-E4EC-442A-BA1F-C082D63D353C}
+        {59D8242C-91B5-4302-98AA-D6060925E2B5}
+        {C8F477E5-BBD1-4633-B7E3-242D671E40C9}
+        {5CD8DE94-8390-47AE-81BD-673D2A9F23DB}
+        {F06ABC52-BF0C-40B9-81BE-3A85BA2FF607}
+        {08F8AEA5-6FF2-4C11-B126-F64C181119BF}
+        {E7D1B58E-D346-48BB-9064-060ECF34F6CA}
+        {96211177-C220-4F00-9EE3-CC2CC25A8F1C}
+        {403D2C14-D394-40E0-A646-9F8DBB01BB61}
+        {99128727-AF6D-4474-AA2E-26C141524AC5}
+        {1F0E8AB1-E76E-4602-BF0F-1BA54D273187}
+        {483DE5DE-A999-4687-A100-C81C7DB5BA26}
+        {0CADE0FA-AE32-4E74-8517-94763B03BBC5}
+        {BC2624EC-3023-4846-B478-AB9A70D2BB76}
+        {83509ABF-5136-45F3-9BF6-21C5D6BF0195}
+        {EF278F53-7BB5-4C91-8A26-AECBA505B737}
+        {459AE49F-AA78-4519-AEFE-1E4782BD7E3A}
+        {74E3AB25-8B4D-483E-A4DB-3CEA07A96FED}
+        {88B1EED8-4BF5-483E-A098-BAB49A218DDD}
+        {F63A7B12-7BB8-4489-BD9B-87BDE377DE1F}
+        {2B8134E5-A841-44FD-BFE0-71FE73C3DA33}
+        {13D9DED8-E7EE-4163-880B-58666ACC9489}
+        {F195643E-D168-4B7F-B53E-7D7856AEFED0}
+        {DD3D66C6-DB31-497C-9914-93F642BE058D}
+        {65F7F39A-E3D1-4582-B81E-AB95AD33DD9B}
+        {9136C025-B355-4AEF-92F1-79820AC9EC1E}
+        {95904B6A-E2CB-42C8-A6D3-8BA8130DCFBC}
+        {C7A54FA7-90BD-4686-BBF8-4A164B294E67}
+        {C9819FD3-4B53-4914-8E0C-2A8070EA3442}
+        {B8CF2F7B-EC1E-46D1-AA4E-C56BAEF1AEBE}
+        {2228C8F6-CB28-48DD-ABC5-CE4DB15ACDB6}
+        {4ECECAFB-5EBF-4CDC-81AB-06D885E627DF}
+        {8172735C-EA1E-4E7D-94EC-4062D36943A1}
+        {542DD4F5-8C4D-4445-93CC-04CB28653FD2}
+        {1DC8984A-206D-4B30-BF0E-CA39041CA7C4}
+        {236AC0C3-0D1D-415F-9D99-EFD6B2C168A4}
+        {C1B4FDF4-8562-4E2E-8EC7-C08754974075}
+        {A8F4A5DB-8976-41AF-BF91-0FB8569D1850}
+        {0946288E-C315-41EB-A816-305A7C7BE790}
+        {424717D2-12BC-4009-8902-F7725E2E1515}
+        {534F3046-E14E-4154-9091-37F89BD686D9}
+        {902172CC-08F1-4CEA-8DB8-F4C28333256F}
+        {A9991035-7BFC-401B-B22E-69C95B736584}
+        {618FBD60-62AB-4B6A-9591-F78120355F6F}
+        {F19B1B2A-9A57-45F4-887A-C21BC5BF7AB0}
+        {40CA5678-882B-47F7-909E-08DCE7252CE3}
+        {EF60E248-84F4-41BD-B329-0696A71712F5}
+        {5E1ABFDF-7CF1-40A8-8682-B19E41D5DA65}
+        {8A6A2E1F-9920-48DD-91EE-EB8BC8A1636C}
+        {AE548A8D-A83A-4DDB-AF3A-BAD7ADD63D3B}
+        {31FCE241-8478-4AC9-8B1B-E8113B575F8A}
+        {A392A05D-89A0-4BE2-9A34-9A135C1684F4}
+        {D38EFD9F-C684-4DEB-815E-3B2ECC1AA33E}
+        {578B8BD1-BFAE-4316-B690-1EA7FD7E6708}
+        {FDBA0739-478E-4F6E-891D-6FA1B4A3CE8B}
+        {94A7101B-D545-4779-A60A-50C3C244E38E}
+        {CBE6089A-F719-4C8B-BD7F-919CCA1A24DA}
+        {0B5355EC-0451-4F5E-B1A2-2AFCC5CB292C}
+        {402957AA-DB66-4618-8D7B-6EBC93C12D22}
+        {8BA2C227-C594-4FAE-8712-5617FC2D17F8}
+        {F33E77D7-B159-430B-9004-C86451B9DFA6}
+        {2EEEC609-CFF5-435F-9889-51597F025A8C}
+        {D5812CB0-CECD-4C4C-B031-F68DE84D33CF}
+        {7030588C-D9D5-483F-9DCE-CFD95F018A7D}
+        {8AB23BD6-5D9D-40F8-ABB2-A51CF058DD42}
+        {EA27003C-1051-45B2-AFB5-A16631AC40E0}
+        {330A5410-1698-4485-8D7D-6FCD26B56066}
+        {812A4521-7FCF-4A27-8D4C-97E5A8936CDC}
+        {6BBE879D-FB07-47FB-9C95-F7E0AD8703EB}
+        {0697FF5F-625F-4C5D-95B0-8F5166AAB086}
+        {1165A3D8-C44F-4D23-BC20-B5214BA629CA}
+        {78E7E4DB-52C8-40B5-9386-3ECAAE39D9BD}
+        {55262612-3FC7-4A12-82B1-0BD0BB6C0927}
+        {E86D0F0F-4505-4B74-8AAC-20FABC4D872E}
+        {15D6FAC5-6A64-4E10-BB6F-0194C2F81A6E}
+        {3DFBD4AA-8548-4F97-8CD7-3F608FDA2FA2}
+        {F1ACA12C-D7C2-4836-90E0-739F9547D7EE}
+        {97A6E12F-7945-4BE0-86FE-7FA3D4AF9084}
+        {2E496FEC-4558-40FB-B376-3BD79D054341}
+        {17C965F9-D994-4F4D-9725-443303F009C9}
+        {10FEC3FA-776F-4ED3-8184-F1D86738EDB2}
+        {BC13C0F7-9F93-464A-A4FA-59222CC69767}
+        {5BB3B290-E238-4A87-8E55-A007C938D852}
+        {356E7648-2504-4FAC-A3F4-9DA91C8AF70E}
+        {B3A149E3-DAC2-4E93-8613-973ABD1A128E}
+        {3F171A91-D515-41D7-A879-1968EB997E5E}
+        {793691D3-EDB5-46FA-84B8-A0AFC7BBE0E9}
+        {1F686940-CB4B-402D-AC11-C109D46D1128}
+        {0B5EE8EC-5C14-4405-827A-B1809BB52AF4}
+        {15671D20-5609-474C-AF24-99653BB9834B}
+        {ECD5167D-BA7C-47CB-82D0-1146D759CC70}
+        {2FE736C8-41CA-46BB-A561-CDAFCE4032C0}
+    - ID: "af4f5f0d-745a-4af7-aee7-2002f0430999"
+      Hint: ProductTitle
+      Value: FOCIS Flex Fiber Optic Connector Inspection System
+    - ID: "b8f42732-9cb8-478d-ae95-07e25345fb0f"
+      Hint: __Hide version
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\review_ankush
+    - ID: "d1f74386-05c3-4c80-aa18-38d21db05fdf"
+      Hint: ProductId
+      Value: 1680
+    - ID: "d93ad815-376a-43bf-b34b-cbad0b1b7128"
+      Hint: ProductLongDescription
+      Value: |
+        <div>   FOCIS Flex makes connector inspection simple, fast, and convenient. With the press of a single button, FOCIS Flex auto-focuses, captures and centers the end-face image, applies Pass/Fail rules, displays image and Pass/Fail results, saves results internally and/or wirelessly transfers data to a paired FlexScan OTDR or a smart device. It is fast, small, and easy to use to enable 100% connector inspection.</div>
+        <div>   &nbsp;</div>
+        <div>   <strong>Independent, untethered operation:</strong> With rechargeable battery and integrated display, FOCIS Flex can be used independently without requiring an external OTDR or display unit.</div>
+        <div>   &nbsp;</div>
+        <div>   <strong>Optional pairing with FlexScan OTDR or smart devices:</strong> Captured images and Pass/Fail results can be immediately displayed and easily saved on either paired FlexScan OTDR or a smart device equipped with the AFL&rsquo;s free FOCIS Flex App. This capability enables inspection results to be included in reporting and archiving.</div>
+        <div>   &nbsp;</div>
+        <div>   <strong>Save results internally or externally:</strong> FOCIS Flex internally stores up to 10,000 results using file-naming capabilities similar to those of the FlexScan OTDR. A micro-USB port supports fast upload of internally stored results to PC and ensures your FOCIS Flex software can be updated to the latest features and supported languages.</div>
+        <div>   &nbsp;</div>
+        <div>   <strong>Wide range of adapter tips: </strong>Interchangeable adapter tips support connector inspection for a wide range of both single-fiber and multifiber patchcords and bulkhead-mounted connectors having either PC or APC polished end-faces.</div>
+        <div>   &nbsp;</div>
+        <div>   <strong>Bundled kits for significant savings:</strong> FOCIS Flex is available in kits that include a Basic license for Test Result Manager (TRM&reg; 3.0), user-selected adapter tips and cleaning supplies, and a soft carry case.</div>
+        <div>   &nbsp;</div>
+        <div>   <strong>Easy reporting and archiving: </strong>Included Test Result Manager (TRM 3.0) provides data processing and reporting locally via a PC. The FOCIS Flex mobile App is available for free download from Google play or App Store for sharing data with smart devices.</div>
+        <div>   &nbsp;</div>
+        <h3>   Ordering Information</h3>
+        <table border="1" cellpadding="0" cellspacing="0" style="width:624px;" width="624">
+            <tbody>
+                <tr>
+                    <td id="title" style="width:528px;">      <strong>&nbsp;DESCRIPTION </strong></td>
+                    <td id="title" style="width:96px;">      <strong>&nbsp;AFL NO. </strong></td>
+                </tr>
+                <tr>
+                    <td style="width: 528px; text-align: left;">      &nbsp;FOCIS Flex Kit, soft carry case/holster, USB cable, AC charger, TRM&reg; 3.0 reporting software,&nbsp; &nbsp;reference guide, no tips</td>
+                    <td style="width: 96px; white-space: nowrap;">      &nbsp;FOCIS-FLX-P4XN</td>
+                </tr>
+                <tr>
+                    <td style="width: 528px;">      &nbsp;FOCIS Flex Kit, soft carry case/holster, USB cable, AC charger, TRM 3.0 reporting software,&nbsp; &nbsp;reference guide, 2 user-selected UPC adapter tips (ferrule and bulkhead), user-selected One-&nbsp; &nbsp;Click cleaner</td>
+                    <td style="width: 96px; white-space: nowrap;">      &nbsp;FOCIS-FLX-P4XU</td>
+                </tr>
+                <tr>
+                    <td style="width: 528px;">      &nbsp;FOCIS Flex Kit, soft carry case/holster, USB cable, AC charger, TRM 3.0 reporting software,&nbsp; &nbsp;reference guide, 2 user-selected APC adapter tips (ferrule and bulkhead), user-selected One-&nbsp; &nbsp;Click cleaner</td>
+                    <td style="width: 96px; white-space: nowrap;">      &nbsp;FOCIS-FLX-P4XA</td>
+                </tr>
+                <tr>
+                    <td style="width: 528px;">      &nbsp;FOCIS Flex Kit, soft carry case/holster, USB cable, AC charger, TRM 3.0 reporting software,&nbsp; &nbsp;reference guide, user-selected UPC adapter tips (ferrule and bulkhead), 2 user-selected APC&nbsp; &nbsp;adapter tips (ferrule and bulkhead), user-selected One-Click cleaner&nbsp;</td>
+                    <td style="width: 96px; white-space: nowrap;">      &nbsp;FOCIS-FLX-P4XUA</td>
+                </tr>
+            </tbody>
+        </table>
+        <br />
+        <div>   <strong>FlexScan OTDR PRO and BIPM Kits with FOCIS Flex</strong><br />
+        &nbsp;</div>
+        <div>   <strong>PRO Kits </strong>include the following items:</div>
+        <ul>
+            <li>    FlexScan with accessories (AC charger, carry strap, SC/2.5 mm connector adapters, TRM&reg; 3.0 Advanced Test Results Manager, carry case)</li>
+            <li>    FOCIS Flex Fiber Optic Connector Inspection System with accessories (AC charger, USB cable, soft carry case/holster)</li>
+            <li>    Two user-selected adapter tips and one user-selected One-Click Cleaner</li>
+            <li>    150 m Fiber Ring (launch cable) with user-specified connectors</li>
+        </ul>
+        <div>   <strong>Complete kits</strong> expand on PRO Kits by adding bend insensitive fiber identifier with optional power meter (OFI-BIPM).&nbsp;<br />
+        <br />
+        See FlexScan data sheet for FlexScan PRO and Complete Kit ordering information.</div>
+        <style>
+            table {
+            border-collapse: collapse;
+            border-spacing: 0;
+            width: 100% !important;
+            border: 1px solid #ddd;
+            background-color: #FFFFFF;
+            }
+            th, td {
+            text-align: left;
+            padding: 16px;
+            }
+            tr:nth-child(even) {
+            background-color: rgba(128, 128, 128, 0.07);
+            }
+            #title {
+            background-color: #00c0f3 !important;
+            color: #FFFFFF !important;
+            }
+            td {
+            padding: 15px !important;
+            border-right: 1px solid rgba(128, 128, 128, 0.5) !important;
+            border-bottom: 1px solid rgba(128, 128, 128, 0.5) !important;
+            border-top-color: rgba(128, 128, 128, 0.5) !important;
+            border-left-color: rgba(128, 128, 128, 0.5) !important;
+            border-top-style: solid !important;
+            border-left-style: solid !important;
+            text-align: left !important;
+            line-height: 1.5 !important;
+            display: table-cell !important;
+            }
+            .afl-subPages table tbody tr td {
+            font-size: 15px !important;
+            }
+            tr:hover {
+            background-color: #e6e6e6;
+            }
+        </style>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231201T125915Z
+    - ID: "ef2f63f2-c942-49a5-9c43-ebcfec40337e"
+      Hint: ProductName
+      Value: FOCIS Flex Fiber Optic Connector Inspection System
+    - ID: "fb72ff1d-6b1d-4970-916a-8162ff077e62"
+      Hint: ProcutItems
+      Value: |
+        {C31C2D61-0387-436F-AC41-01E679511392}
+        {D53C05A1-FD4C-427E-8812-A05F9F65708A}
+        {84C27700-2377-4795-ABB6-7A7154D95403}
+        {3EA3970D-58C9-446C-8200-F6C5EE901F6B}
+        {8CE5A75E-8948-400B-938F-3AF9C34823D3}
+        {3B21C403-C5AB-47C7-81BC-C757F68819D8}

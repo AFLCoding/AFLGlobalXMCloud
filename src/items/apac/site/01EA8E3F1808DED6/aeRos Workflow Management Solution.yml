@@ -1,0 +1,510 @@
+﻿---
+ID: "c9b87a4e-6027-4722-9bf0-f97ccde20340"
+Parent: "4d3db5c6-b30c-4f1a-bff6-961f273fca0b"
+Template: "231b4589-f8fc-498f-b0f6-64fabecbc7b9"
+Path: /sitecore/content/AFLGlobal/APAC/Home/Products/Test and Inspection/Test Management and Reporting Software/aeRos Workflow Management Solution
+SharedFields:
+- ID: "1fbc6a49-6281-48ee-87e9-a3970b145adb"
+  Hint: NavigationFilter
+  Value: |
+    {E0A2A027-0932-4878-A7D6-0416D5263EFB}
+    {61BD64D6-809E-40AE-9297-2724A19329B3}
+    {D063E9D1-C7B5-4B1E-B31E-69886C9C59F5}
+    {500AE4C0-FA7B-463F-8149-EFFF7F044101}
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{DA631FB5-51B3-49F6-9915-732D093CF221}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{DAE7C21D-4D3B-4257-A95C-9104CD8AF409}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 103
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "16863469-616f-4d9e-a66f-02c79610ddaa"
+      Hint: ProductShortDescription
+      Value: "With AFL’s aeRos® workflow management solution, you can set up jobs before a truck ever rolls, monitor data and interact with technicians in real time, complete jobs faster, generate reports more efficiently, and get to revenue sooner. aeRos is the open, cloud-based platform that integrates every aspect of your testing process so you can focus on building a better network."
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220303T154359Z
+    - ID: "36d9d67b-3610-4327-963e-e209239944d7"
+      Hint: ProductApplication
+      Value: |
+        <h3 style="font-size: 16px; padding-bottom: 5px;">Applications:</h3><ul class="productDetailApplications">
+        	<li>Efficient Workflow Management</li>
+        	<li>Seamless testing using a variety of smart devices</li>
+        	<li>Customizable reporting and analysis</li>
+        	
+        	
+        	
+        	
+        	
+        	
+        	
+        <ul class="productDetailApplications">
+        	<li>Efficient Workflow Management</li>
+        	<li>Seamless testing using a variety of smart devices</li>
+        	<li>Customizable reporting and analysis</li>
+        	
+        	
+        	
+        	
+        	
+        	
+        	
+        </ul></ul>
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4dda6e0a-1c9d-4a8d-890f-11a8eddc2f11"
+      Hint: ProductFeatures
+      Value: |
+        <h3 style="font-size: 16px; padding-bottom: 5px;">Features:</h3><ul class="productDetailFeatures">
+        	<li>Cloud-based</li>
+        	<li>Real-time, on-site test data validation and progress tracking</li>
+        	<li>Automatic sync of test configurations and results</li>
+        	<li>Centralized test management</li>
+        	
+        	
+        	
+        	
+        	
+        	
+        </ul>
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: aeRos Workflow Management Solution
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\archana
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: "aeRos® is an open, cloud-based, test workflow and data management platform that allows users to easily and efficiently manage their test process from end to end. aeRos simplifies coordination between the main office and field technicians by providing remote project setup, automatic data collection and reporting, as well as the real-time job monitoring that is independent of technology or location"
+    - ID: "59ec008e-95ec-4c06-9189-09d4acaf1d7e"
+      Hint: ProductCategory
+      Value: "{25845777-06AC-4EA6-9C01-9128DC971294}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\archana
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: "aeros, cloud, fiber optic test, workflow, management, certifi, certification, AFL, OLTS, OTDR, tier 1, tier 2 cloud-based, exfoconnect, fiber, fluke, testflow, inspection, integrated, linkware, multifiber, multi-mode, multimode, data, storage, project, seamless, singlemode, single-mode, stratasync, synchronize, platform, upload, process, communication, fiber, job, technician, project, push, efficient, secure, storage, opex, capex, instrument, manager, criteria"
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: aeRos Workflow Management Solution
+    - ID: "72653cc9-973c-4682-b5c7-26d926959f8f"
+      Hint: ProductImage
+      Value: |
+        <image stylelabs-content-id="250227" stylelabs-content-type="Image" alt="aeRos® Workflow Management Solution" src="https://afl-delivery.stylelabs.cloud/api/public/content/ebf5f435f1c447879b8bc7753e7eb3c6?v=b8d1b19b" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/250227/thumbnail" mediaid="" height="800" width="800" />
+    - ID: "8b978017-d437-40aa-b31d-bbf1d560a0cb"
+      Hint: DownloadFileLink
+      Value: |
+        <link text="SPECIFICATION SHEET" anchor="" linktype="media" class="" title="" target="_blank" querystring="" id="{39206442-176A-426B-B082-01A365D7B99C}" url="/sitecore/media library/Project/AFL-Global/Product Specification Sheet/Test and Inspection/Software/rg-aeros-2000" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "faf73cb1-f90d-40ea-9344-0cce5d3041e8"
+    - ID: "93dc88f3-05e5-482d-9b9a-c859c8258a73"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="169961" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/169961/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-Test-and-Inspection-Accessories?v=95146aa7" stylelabs-content-type="Image" alt="Test_Accesories_TopLevel.jpg" height="465" width="1336" />
+    - ID: "ab4c1906-c756-4771-818b-3683089665ee"
+      Hint: ProductMediaItems
+      Value: "{95398774-694B-4196-BE08-EF829216622C}"
+    - ID: "af4f5f0d-745a-4af7-aee7-2002f0430999"
+      Hint: ProductTitle
+      Value: aeRos® Workflow Management Solution
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sripada
+    - ID: "d1f74386-05c3-4c80-aa18-38d21db05fdf"
+      Hint: ProductId
+      Value: 1757
+    - ID: "d93ad815-376a-43bf-b34b-cbad0b1b7128"
+      Hint: ProductLongDescription
+      Value: |
+        <h2>   aeRos&reg; Workflow Management Solution</h2>  <h4>   <strong>Built around you and the way you test your network</strong></h4>  <p style="margin: 0in 0in 11.25pt; line-height: 15pt;">   <b><span style="font-family: Arial, sans-serif; font-size: 10.5pt;">aeRos is a cloud-based, comprehensive workflow management solution.</span></b><span style="font-family: Arial, sans-serif; font-size: 10.5pt;"> Every aspect of the testing process is more efficient. No matter where you are or what technology you use, coordinating with your field technicians is simpler and more cost-effective than ever.<o:p></o:p></span></p>  <p style="margin: 0in 0in 11.25pt; line-height: 15pt;">   <b><span style="font-family: Arial, sans-serif; font-size: 10.5pt;">We&rsquo;ve centralized test management and reporting</span></b><span style="font-family: Arial, sans-serif; font-size: 10.5pt;">. Now you can set up jobs from anywhere and push them to your testers. Because you&rsquo;re monitoring jobs and communication in real time, you can dramatically reduce field errors and expensive re-testing. The aeRos easy-to-use reporting template includes &ldquo;what if&rdquo; analysis against different industry standards.<o:p></o:p></span></p>  <p style="margin: 0in 0in 11.25pt; line-height: 15pt;">   <b><span style="font-family: Arial, sans-serif; font-size: 10.5pt;">Test data and project updates automatically sync with the cloud.</span></b><span style="font-family: Arial, sans-serif; font-size: 10.5pt;"> With aeRos you can make changes to your workflow on the fly and never worry about losing data. With no waiting for equipment to come back for download, you&rsquo;ll get to reports and revenue sooner.<o:p></o:p></span></p>  <p style="margin: 0in 0in 11.25pt; line-height: 15pt;">   <b><span style="font-family: Arial, sans-serif; font-size: 10.5pt;">Now project managers can track test progress and validate test results on all active jobs. </span></b><span style="font-family: Arial, sans-serif; font-size: 10.5pt;">With aeRos, you can see passed/failed links in real time and plan troubleshooting more efficiently. You&rsquo;ll always know if your projects are on track.</span></p>  <br />  <br />  <br type="_moz" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230317T054941Z
+    - ID: "ef2f63f2-c942-49a5-9c43-ebcfec40337e"
+      Hint: ProductName
+      Value: aeRos® Workflow Management Solution
+    - ID: "fb72ff1d-6b1d-4970-916a-8162ff077e62"
+      Hint: ProcutItems
+      Value: |
+        {7502B3D5-A205-4A7F-8104-08E3D53E00D5}
+        {C31C2D61-0387-436F-AC41-01E679511392}
+        {D53C05A1-FD4C-427E-8812-A05F9F65708A}
+        {84C27700-2377-4795-ABB6-7A7154D95403}
+        {3EA3970D-58C9-446C-8200-F6C5EE901F6B}
+        {8CE5A75E-8948-400B-938F-3AF9C34823D3}
+        {3B21C403-C5AB-47C7-81BC-C757F68819D8}
+        {C942D14E-12FB-468B-A8A2-96CB150C250F}
+        {4CB4B513-E071-4C55-956F-F149AB5F4112}
+        {B848144D-FBFB-46AE-A7FD-2EA4053631F4}
+        {787DD9BC-EDA7-4251-B706-A4DCA79ED638}
+        {F7D3DC6B-0A5B-436A-9966-86F40F1AA7FE}
+        {E563C707-D3A1-46ED-AA5E-1E944039E008}
+        {C5B2268A-ECC9-463E-B8AA-72A5ABB04547}
+        {0E0E54E5-2A23-4D43-A12D-1C51FFC3E664}
+  - Version: 2
+    Fields:
+    - ID: "16863469-616f-4d9e-a66f-02c79610ddaa"
+      Hint: ProductShortDescription
+      Value: "With AFL’s aeRos® workflow management solution, you can set up jobs before a truck ever rolls, monitor data and interact with technicians in real time, complete jobs faster, generate reports more efficiently, and get to revenue sooner. aeRos is the open, cloud-based platform that integrates every aspect of your testing process so you can focus on building a better network."
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230320T145154Z
+    - ID: "36d9d67b-3610-4327-963e-e209239944d7"
+      Hint: ProductApplication
+      Value: |
+        <h3>Applications:</h3>
+        <ul class="productDetailApplications">
+        	<li>Efficient Workflow Management</li>
+        	<li>Seamless testing using a variety of smart devices</li>
+        	<li>Customizable reporting and analysis</li>
+        </ul>
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{EE9BAFE9-A55E-406B-8BBF-45ADF7FF9068}"
+    - ID: "4dda6e0a-1c9d-4a8d-890f-11a8eddc2f11"
+      Hint: ProductFeatures
+      Value: |
+        <h3>Features:</h3><ul class="productDetailFeatures">
+        	<li>Cloud-based</li>
+        	<li>Real-time, on-site test data validation and progress tracking</li>
+        	<li>Automatic sync of test configurations and results</li>
+        	<li>Centralized test management</li>
+        
+        </ul>
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: aeRos Workflow Management Solution
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\archana
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: "aeRos® is an open, cloud-based, test workflow and data management platform that allows users to easily and efficiently manage their test process from end to end. aeRos simplifies coordination between the main office and field technicians by providing remote project setup, automatic data collection and reporting, as well as the real-time job monitoring that is independent of technology or location"
+    - ID: "59ec008e-95ec-4c06-9189-09d4acaf1d7e"
+      Hint: ProductCategory
+      Value: "{25845777-06AC-4EA6-9C01-9128DC971294}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\ChrisZ
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: "aeros, cloud, fiber optic test, workflow, management, certifi, certification, AFL, OLTS, OTDR, tier 1, tier 2 cloud-based, exfoconnect, fiber, fluke, testflow, inspection, integrated, linkware, multifiber, multi-mode, multimode, data, storage, project, seamless, singlemode, single-mode, stratasync, synchronize, platform, upload, process, communication, fiber, job, technician, project, push, efficient, secure, storage, opex, capex, instrument, manager, criteria"
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: aeRos Workflow Management Solution
+    - ID: "72653cc9-973c-4682-b5c7-26d926959f8f"
+      Hint: ProductImage
+      Value: |
+        <image stylelabs-content-id="250227" stylelabs-content-type="Image" alt="aeRos® Workflow Management Solution" src="https://afl-delivery.stylelabs.cloud/api/public/content/ebf5f435f1c447879b8bc7753e7eb3c6?v=b8d1b19b" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/250227/thumbnail" mediaid="" height="800" width="800" />
+    - ID: "8b978017-d437-40aa-b31d-bbf1d560a0cb"
+      Hint: DownloadFileLink
+      Value: |
+        <link text="SPECIFICATION SHEET" anchor="" linktype="media" class="" title="" target="_blank" querystring="" id="{39206442-176A-426B-B082-01A365D7B99C}" url="/sitecore/media library/Project/AFL-Global/Product Specification Sheet/Test and Inspection/Software/rg-aeros-2000" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "14b15e90-23fb-422a-a1b9-f72b34ed9006"
+    - ID: "93dc88f3-05e5-482d-9b9a-c859c8258a73"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="169961" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/169961/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-Test-and-Inspection-Accessories?v=95146aa7" stylelabs-content-type="Image" alt="Test_Accesories_TopLevel.jpg" height="465" width="1336" />
+    - ID: "ab4c1906-c756-4771-818b-3683089665ee"
+      Hint: ProductMediaItems
+      Value: "{95398774-694B-4196-BE08-EF829216622C}"
+    - ID: "af4f5f0d-745a-4af7-aee7-2002f0430999"
+      Hint: ProductTitle
+      Value: aeRos® Workflow Management Solution
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\nawaz.mehdi@altudo.co
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20230320T145154Z
+    - ID: "d1f74386-05c3-4c80-aa18-38d21db05fdf"
+      Hint: ProductId
+      Value: 1757
+    - ID: "d93ad815-376a-43bf-b34b-cbad0b1b7128"
+      Hint: ProductLongDescription
+      Value: |
+        <h2>aeRos&reg; Workflow Management Solution</h2>
+        <h4><strong>Built around you and the way you test your network</strong></h4>
+        <p><b><span>aeRos is a cloud-based, comprehensive workflow management solution.</span></b><span> Every aspect of the testing process is more efficient. No matter where you are or what technology you use, coordinating with your field technicians is simpler and more cost-effective than ever.<o:p></o:p></span></p>
+        <p> <b><span>We&rsquo;ve centralized test management and reporting</span></b><span>. Now you can set up jobs from anywhere and push them to your testers. Because you&rsquo;re monitoring jobs and communication in real time, you can dramatically reduce field errors and expensive re-testing. The aeRos easy-to-use reporting template includes &ldquo;what if&rdquo; analysis against different industry standards.</span></p>
+        <p> <b><span>Test data and project updates automatically sync with the cloud.</span></b><span> With aeRos you can make changes to your workflow on the fly and never worry about losing data. With no waiting for equipment to come back for download, you&rsquo;ll get to reports and revenue sooner.<o:p></o:p></span></p>
+        <p> <b><span>Now project managers can track test progress and validate test results on all active jobs. </span></b><span>With aeRos, you can see passed/failed links in real time and plan troubleshooting more efficiently. You&rsquo;ll always know if your projects are on track.</span></p>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240326T105704Z
+    - ID: "ef2f63f2-c942-49a5-9c43-ebcfec40337e"
+      Hint: ProductName
+      Value: aeRos® Workflow Management Solution
+    - ID: "fb72ff1d-6b1d-4970-916a-8162ff077e62"
+      Hint: ProcutItems
+      Value: |
+        {7502B3D5-A205-4A7F-8104-08E3D53E00D5}
+        {C31C2D61-0387-436F-AC41-01E679511392}
+        {D53C05A1-FD4C-427E-8812-A05F9F65708A}
+        {84C27700-2377-4795-ABB6-7A7154D95403}
+        {3EA3970D-58C9-446C-8200-F6C5EE901F6B}
+        {8CE5A75E-8948-400B-938F-3AF9C34823D3}
+        {3B21C403-C5AB-47C7-81BC-C757F68819D8}
+        {C942D14E-12FB-468B-A8A2-96CB150C250F}
+        {4CB4B513-E071-4C55-956F-F149AB5F4112}
+        {B848144D-FBFB-46AE-A7FD-2EA4053631F4}
+        {787DD9BC-EDA7-4251-B706-A4DCA79ED638}
+        {F7D3DC6B-0A5B-436A-9966-86F40F1AA7FE}
+        {E563C707-D3A1-46ED-AA5E-1E944039E008}
+        {C5B2268A-ECC9-463E-B8AA-72A5ABB04547}
+        {0E0E54E5-2A23-4D43-A12D-1C51FFC3E664}
+  - Version: 3
+    Fields:
+    - ID: "16863469-616f-4d9e-a66f-02c79610ddaa"
+      Hint: ProductShortDescription
+      Value: "With AFL’s aeRos® workflow management solution, you can set up jobs before a truck ever rolls, monitor data and interact with technicians in real time, complete jobs faster, generate reports more efficiently, and get to revenue sooner. aeRos is the open, cloud-based platform that integrates every aspect of your testing process so you can focus on building a better network."
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230320T151059Z
+    - ID: "36d9d67b-3610-4327-963e-e209239944d7"
+      Hint: ProductApplication
+      Value: |
+        <h3>Applications:</h3>
+        <ul class="productDetailApplications">
+        	<li>Efficient Workflow Management</li>
+        	<li>Seamless testing using a variety of smart devices</li>
+        	<li>Customizable reporting and analysis</li>
+        </ul>
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{EE9BAFE9-A55E-406B-8BBF-45ADF7FF9068}"
+    - ID: "4dda6e0a-1c9d-4a8d-890f-11a8eddc2f11"
+      Hint: ProductFeatures
+      Value: |
+        <h3>Features:</h3><ul class="productDetailFeatures">
+        	<li>Cloud-based</li>
+        	<li>Real-time, on-site test data validation and progress tracking</li>
+        	<li>Automatic sync of test configurations and results</li>
+        	<li>Centralized test management</li>
+        
+        </ul>
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: aeRos Workflow Management Solution
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\archana
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: "aeRos® is an open, cloud-based, test workflow and data management platform that allows users to easily and efficiently manage their test process from end to end. aeRos simplifies coordination between the main office and field technicians by providing remote project setup, automatic data collection and reporting, as well as the real-time job monitoring that is independent of technology or location"
+    - ID: "59ec008e-95ec-4c06-9189-09d4acaf1d7e"
+      Hint: ProductCategory
+      Value: "{25845777-06AC-4EA6-9C01-9128DC971294}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\ChrisZ
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: "aeros, cloud, fiber optic test, workflow, management, certifi, certification, AFL, OLTS, OTDR, tier 1, tier 2 cloud-based, exfoconnect, fiber, fluke, testflow, inspection, integrated, linkware, multifiber, multi-mode, multimode, data, storage, project, seamless, singlemode, single-mode, stratasync, synchronize, platform, upload, process, communication, fiber, job, technician, project, push, efficient, secure, storage, opex, capex, instrument, manager, criteria"
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: aeRos Workflow Management Solution
+    - ID: "72653cc9-973c-4682-b5c7-26d926959f8f"
+      Hint: ProductImage
+      Value: |
+        <image stylelabs-content-id="250227" stylelabs-content-type="Image" alt="aeRos® Workflow Management Solution" src="https://afl-delivery.stylelabs.cloud/api/public/content/ebf5f435f1c447879b8bc7753e7eb3c6?v=b8d1b19b" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/250227/thumbnail" mediaid="" height="800" width="800" />
+    - ID: "8b978017-d437-40aa-b31d-bbf1d560a0cb"
+      Hint: DownloadFileLink
+      Value: |
+        <link text="SPECIFICATION SHEET" anchor="" linktype="media" class="" title="" target="_blank" querystring="" id="{39206442-176A-426B-B082-01A365D7B99C}" url="/sitecore/media library/Project/AFL-Global/Product Specification Sheet/Test and Inspection/Software/rg-aeros-2000" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b1cf41ed-7cc3-4761-8d66-d7a5cff61638"
+    - ID: "93dc88f3-05e5-482d-9b9a-c859c8258a73"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="169961" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/169961/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-Test-and-Inspection-Accessories?v=95146aa7" stylelabs-content-type="Image" alt="Test_Accesories_TopLevel.jpg" height="465" width="1336" />
+    - ID: "ab4c1906-c756-4771-818b-3683089665ee"
+      Hint: ProductMediaItems
+      Value: "{95398774-694B-4196-BE08-EF829216622C}"
+    - ID: "af4f5f0d-745a-4af7-aee7-2002f0430999"
+      Hint: ProductTitle
+      Value: aeRos® Workflow Management Solution
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\nawaz.mehdi@altudo.co
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20230320T151059Z
+    - ID: "d1f74386-05c3-4c80-aa18-38d21db05fdf"
+      Hint: ProductId
+      Value: 1757
+    - ID: "d93ad815-376a-43bf-b34b-cbad0b1b7128"
+      Hint: ProductLongDescription
+      Value: |
+        <h2>aeRos&reg; Workflow Management Solution</h2>
+        <h4><strong>Built around you and the way you test your network</strong></h4>
+        <p><b><span>aeRos is a cloud-based, comprehensive workflow management solution.</span></b><span> Every aspect of the testing process is more efficient. No matter where you are or what technology you use, coordinating with your field technicians is simpler and more cost-effective than ever.</span></p>
+        <p> <b><span>We&rsquo;ve centralized test management and reporting</span></b><span>. Now you can set up jobs from anywhere and push them to your testers. Because you&rsquo;re monitoring jobs and communication in real time, you can dramatically reduce field errors and expensive re-testing. The aeRos easy-to-use reporting template includes &ldquo;what if&rdquo; analysis against different industry standards.</span></p>
+        <p> <b><span>Test data and project updates automatically sync with the cloud.</span></b><span> With aeRos you can make changes to your workflow on the fly and never worry about losing data. With no waiting for equipment to come back for download, you&rsquo;ll get to reports and revenue sooner.<o:p></o:p></span></p>
+        <p> <b><span>Now project managers can track test progress and validate test results on all active jobs. </span></b><span>With aeRos, you can see passed/failed links in real time and plan troubleshooting more efficiently. You&rsquo;ll always know if your projects are on track.</span></p>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240326T105704Z
+    - ID: "ef2f63f2-c942-49a5-9c43-ebcfec40337e"
+      Hint: ProductName
+      Value: aeRos® Workflow Management Solution
+    - ID: "fb72ff1d-6b1d-4970-916a-8162ff077e62"
+      Hint: ProcutItems
+      Value: |
+        {7502B3D5-A205-4A7F-8104-08E3D53E00D5}
+        {C31C2D61-0387-436F-AC41-01E679511392}
+        {D53C05A1-FD4C-427E-8812-A05F9F65708A}
+        {84C27700-2377-4795-ABB6-7A7154D95403}
+        {3EA3970D-58C9-446C-8200-F6C5EE901F6B}
+        {8CE5A75E-8948-400B-938F-3AF9C34823D3}
+        {3B21C403-C5AB-47C7-81BC-C757F68819D8}
+        {C942D14E-12FB-468B-A8A2-96CB150C250F}
+        {4CB4B513-E071-4C55-956F-F149AB5F4112}
+        {B848144D-FBFB-46AE-A7FD-2EA4053631F4}
+        {787DD9BC-EDA7-4251-B706-A4DCA79ED638}
+        {F7D3DC6B-0A5B-436A-9966-86F40F1AA7FE}
+        {E563C707-D3A1-46ED-AA5E-1E944039E008}
+        {C5B2268A-ECC9-463E-B8AA-72A5ABB04547}
+        {0E0E54E5-2A23-4D43-A12D-1C51FFC3E664}
+  - Version: 4
+    Fields:
+    - ID: "16863469-616f-4d9e-a66f-02c79610ddaa"
+      Hint: ProductShortDescription
+      Value: "With AFL’s aeRos® workflow management solution, you can set up jobs before a truck ever rolls, monitor data and interact with technicians in real time, complete jobs faster, generate reports more efficiently, and get to revenue sooner. aeRos is the open, cloud-based platform that integrates every aspect of your testing process so you can focus on building a better network."
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230322T195726Z
+    - ID: "36d9d67b-3610-4327-963e-e209239944d7"
+      Hint: ProductApplication
+      Value: |
+        <h3>Applications:</h3>
+        <ul class="productDetailApplications">
+        	<li>Efficient Workflow Management</li>
+        	<li>Seamless testing using a variety of smart devices</li>
+        	<li>Customizable reporting and analysis</li>
+        </ul>
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{EE9BAFE9-A55E-406B-8BBF-45ADF7FF9068}"
+    - ID: "4dda6e0a-1c9d-4a8d-890f-11a8eddc2f11"
+      Hint: ProductFeatures
+      Value: |
+        <h3>Features:</h3><ul class="productDetailFeatures">
+        	<li>Cloud-based</li>
+        	<li>Real-time, on-site test data validation and progress tracking</li>
+        	<li>Automatic sync of test configurations and results</li>
+        	<li>Centralized test management</li>
+        
+        </ul>
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: aeRos Workflow Management Solution
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\archana
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: "aeRos® is an open, cloud-based, test workflow and data management platform that allows users to easily and efficiently manage their test process from end to end. aeRos simplifies coordination between the main office and field technicians by providing remote project setup, automatic data collection and reporting, as well as the real-time job monitoring that is independent of technology or location"
+    - ID: "59ec008e-95ec-4c06-9189-09d4acaf1d7e"
+      Hint: ProductCategory
+      Value: "{25845777-06AC-4EA6-9C01-9128DC971294}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\ChrisZ
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: "aeros, cloud, fiber optic test, workflow, management, certifi, certification, AFL, OLTS, OTDR, tier 1, tier 2 cloud-based, exfoconnect, fiber, fluke, testflow, inspection, integrated, linkware, multifiber, multi-mode, multimode, data, storage, project, seamless, singlemode, single-mode, stratasync, synchronize, platform, upload, process, communication, fiber, job, technician, project, push, efficient, secure, storage, opex, capex, instrument, manager, criteria"
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: aeRos Workflow Management Solution
+    - ID: "72653cc9-973c-4682-b5c7-26d926959f8f"
+      Hint: ProductImage
+      Value: |
+        <image stylelabs-content-id="250227" stylelabs-content-type="Image" alt="aeRos® Workflow Management Solution" src="https://afl-delivery.stylelabs.cloud/api/public/content/ebf5f435f1c447879b8bc7753e7eb3c6?v=b8d1b19b" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/250227/thumbnail" mediaid="" height="800" width="800" />
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: aeRos Workflow Management Solution
+    - ID: "8b978017-d437-40aa-b31d-bbf1d560a0cb"
+      Hint: DownloadFileLink
+      Value: |
+        <link id="{39206442-176A-426B-B082-01A365D7B99C}" querystring="" target="_blank" text="SPECIFICATION SHEET" anchor="" title="" class="" url="/sitecore/media library/Project/AFL-Global/Product Specification Sheet/Test and Inspection/Software/rg-aeros-2000" linktype="media" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1e4cd6b8-009a-49d2-acf7-d32c2e1247fc"
+    - ID: "93dc88f3-05e5-482d-9b9a-c859c8258a73"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="169961" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/169961/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-Test-and-Inspection-Accessories?v=95146aa7" stylelabs-content-type="Image" alt="Test_Accesories_TopLevel.jpg" height="465" width="1336" />
+    - ID: "ab4c1906-c756-4771-818b-3683089665ee"
+      Hint: ProductMediaItems
+      Value: "{95398774-694B-4196-BE08-EF829216622C}"
+    - ID: "af4f5f0d-745a-4af7-aee7-2002f0430999"
+      Hint: ProductTitle
+      Value: aeRos® Workflow Management Solution
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20230322T195726Z
+    - ID: "d1f74386-05c3-4c80-aa18-38d21db05fdf"
+      Hint: ProductId
+      Value: 1757
+    - ID: "d93ad815-376a-43bf-b34b-cbad0b1b7128"
+      Hint: ProductLongDescription
+      Value: |
+        <h2>aeRos&reg; Workflow Management Solution</h2>
+        <h4><strong>Built around you and the way you test your network</strong></h4>
+        <p><b><span>aeRos is a cloud-based, comprehensive workflow management solution.</span></b><span> Every aspect of the testing process is more efficient. No matter where you are or what technology you use, coordinating with your field technicians is simpler and more cost-effective than ever.</span></p>
+        <p> <b><span>We&rsquo;ve centralized test management and reporting</span></b><span>. Now you can set up jobs from anywhere and push them to your testers. Because you&rsquo;re monitoring jobs and communication in real time, you can dramatically reduce field errors and expensive re-testing. The aeRos easy-to-use reporting template includes &ldquo;what if&rdquo; analysis against different industry standards.</span></p>
+        <p> <b><span>Test data and project updates automatically sync with the cloud.</span></b><span> With aeRos you can make changes to your workflow on the fly and never worry about losing data. With no waiting for equipment to come back for download, you&rsquo;ll get to reports and revenue sooner.<o:p></o:p></span></p>
+        <p> <b><span>Now project managers can track test progress and validate test results on all active jobs. </span></b><span>With aeRos, you can see passed/failed links in real time and plan troubleshooting more efficiently. You&rsquo;ll always know if your projects are on track.</span></p>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231122T212534Z
+    - ID: "ef2f63f2-c942-49a5-9c43-ebcfec40337e"
+      Hint: ProductName
+      Value: aeRos® Workflow Management Solution
+    - ID: "fb72ff1d-6b1d-4970-916a-8162ff077e62"
+      Hint: ProcutItems
+      Value: |
+        {7502B3D5-A205-4A7F-8104-08E3D53E00D5}
+        {C31C2D61-0387-436F-AC41-01E679511392}
+        {D53C05A1-FD4C-427E-8812-A05F9F65708A}
+        {84C27700-2377-4795-ABB6-7A7154D95403}
+        {3EA3970D-58C9-446C-8200-F6C5EE901F6B}
+        {8CE5A75E-8948-400B-938F-3AF9C34823D3}
+        {3B21C403-C5AB-47C7-81BC-C757F68819D8}
+        {C942D14E-12FB-468B-A8A2-96CB150C250F}
+        {4CB4B513-E071-4C55-956F-F149AB5F4112}
+        {B848144D-FBFB-46AE-A7FD-2EA4053631F4}
+        {787DD9BC-EDA7-4251-B706-A4DCA79ED638}
+        {F7D3DC6B-0A5B-436A-9966-86F40F1AA7FE}
+        {E563C707-D3A1-46ED-AA5E-1E944039E008}
+        {C5B2268A-ECC9-463E-B8AA-72A5ABB04547}
+        {0E0E54E5-2A23-4D43-A12D-1C51FFC3E664}

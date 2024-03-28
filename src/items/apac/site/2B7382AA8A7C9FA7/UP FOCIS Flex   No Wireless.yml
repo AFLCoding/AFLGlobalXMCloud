@@ -1,0 +1,205 @@
+﻿---
+ID: "ae0c918d-f8ae-425b-a210-1a71f5096c7d"
+Parent: "02384aa1-10a1-40cf-a7b4-444768c8628d"
+Template: "231b4589-f8fc-498f-b0f6-64fabecbc7b9"
+Path: /sitecore/content/AFLGlobal/APAC/Home/Products/Test and Inspection/Fiber Optic Inspection and Cleaning/Fiber Optic Inspection/UP FOCIS Flex   No Wireless
+SharedFields:
+- ID: "1fbc6a49-6281-48ee-87e9-a3970b145adb"
+  Hint: NavigationFilter
+  Value: |
+    {E0A2A027-0932-4878-A7D6-0416D5263EFB}
+    {61BD64D6-809E-40AE-9297-2724A19329B3}
+    {D063E9D1-C7B5-4B1E-B31E-69886C9C59F5}
+    {500AE4C0-FA7B-463F-8149-EFFF7F044101}
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{DA631FB5-51B3-49F6-9915-732D093CF221}"
+- ID: "9135200a-5626-4dd8-ab9d-d665b8c11748"
+  Hint: __Never publish
+  Value: 1
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: 
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 106
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "16863469-616f-4d9e-a66f-02c79610ddaa"
+      Hint: ProductShortDescription
+      Value: The FOCIS Flex NW addresses the need of network maintenance contractors operating in secure environments, where devices emitting radio frequency (RF) communication signals are prohibited, such as government and defense facilities and restricted private enterprisenetwork facilities. 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220303T154401Z
+    - ID: "36d9d67b-3610-4327-963e-e209239944d7"
+      Hint: ProductApplication
+      Value: |
+        <h3 style="color: #282828; background-color: #ffffff; margin: 0px; padding-bottom: 5px;">Applications:</h3>
+        <ul class="productDetailApplications" style="color: #333333; background-color: #ffffff; margin: 0px 0px 15px; padding: 0px 0px 0px 15px; list-style-image: url('https://www.aflglobal.com/productionFiles/images/bulletRound.aspx');">
+            <li style="margin: 0px 0px 6px;">Inspect connectors on patch cords or in bulkhead adapters</li>
+            <li style="margin: 0px 0px 6px;">Optical network installation, troubleshooting and maintenance</li>
+            <li style="margin: 0px 0px 6px;">Inspect MPO/MTP multi-fiber connectors</li>
+            <li style="margin: 0px 0px 6px;">Keep fiber connections working at optimal performance levels</li>
+        </ul>
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4dda6e0a-1c9d-4a8d-890f-11a8eddc2f11"
+      Hint: ProductFeatures
+      Value: |
+        <h3 style="color: #282828; background-color: #ffffff; margin: 0px; padding-bottom: 5px;">Features:</h3>
+        <ul class="productDetailFeatures" style="color: #333333; background-color: #ffffff; margin: 0px 0px 15px; padding: 0px 0px 0px 15px; list-style-image: url('https://www.aflglobal.com/productionFiles/images/bulletRound.aspx');">
+            <li style="margin: 0px 0px 6px;">Removes Bluetooth and WiFi features for secure network facility compliance</li>
+            <li style="margin: 0px 0px 6px;">Auto-focus and auto-centering for fast, easy inspection</li>
+            <li style="margin: 0px 0px 6px;">Untethered operation simplifies access at patch panels</li>
+            <li style="margin: 0px 0px 6px;">IEC, IPC and user-defined pass/fail analysis</li>
+        </ul>
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: FOCIS Flex   No Wireless
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\archana
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: The FOCIS Flex NW addresses the need of network maintenance contractors operating in secure environments, where devices emitting radio frequency (RF) communication signals are prohibited, such as government and defense facilities and restricted private enterprise network facilities. 
+    - ID: "59ec008e-95ec-4c06-9189-09d4acaf1d7e"
+      Hint: ProductCategory
+      Value: "{322F51C0-78F6-4C53-AC8C-AB128549CDBB}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\archana
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: FOCIS Flex No Wireless secure government defense private restricted enterprise networks testing fiber optic connector inspection AFL
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: FOCIS Flex   No Wireless
+    - ID: "72653cc9-973c-4682-b5c7-26d926959f8f"
+      Hint: ProductImage
+      Value: |
+        <image stylelabs-content-id="184458" src="https://afl-delivery.stylelabs.cloud/api/public/content/4082018fcef946b6bda54bb803587700?v=8ada62e4" stylelabs-content-type="Image" alt="FOCIS Flex   No Wireless " thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/184458/thumbnail" />
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: FOCIS Flex   No Wireless
+    - ID: "8b978017-d437-40aa-b31d-bbf1d560a0cb"
+      Hint: DownloadFileLink
+      Value: |
+        <link id="{45B8FB5A-3F89-40B5-B0D1-1B02B39F4F22}" querystring="" target="_blank" text="SPECIFICATION SHEET" anchor="" title="" class="" url="/sitecore/media library/Project/AFL-Global/Product Specification Sheet/Test and Inspection/Fiber Inspection and Cleaning/FFLX-NW-2000_1" linktype="media" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3cf7d125-eeae-4d39-b608-6a69c0edf758"
+    - ID: "93dc88f3-05e5-482d-9b9a-c859c8258a73"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="169954" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/169954/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/fb3505cd5c9f419dbfd2851c8b222d11?v=297dd171" stylelabs-content-type="Image" alt="Inspection_Clean_TopLevel.jpg" height="465" width="1336" />
+    - ID: "af4f5f0d-745a-4af7-aee7-2002f0430999"
+      Hint: ProductTitle
+      Value: "FOCIS Flex - No Wireless"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d1f74386-05c3-4c80-aa18-38d21db05fdf"
+      Hint: ProductId
+      Value: 2442
+    - ID: "d93ad815-376a-43bf-b34b-cbad0b1b7128"
+      Hint: ProductLongDescription
+      Value: |
+        <div>   The FOCIS Flex NW addresses the need of network maintenance contractors operating in secure environments, where devices emitting radio frequency (RF) communication signals are prohibited, such as government and defense facilities and restricted private enterprisenetwork facilities. The FOCIS Flex NW removes, in both hardware and software, Bluetooth and WiFi communications transceiver functions. The FOCIS Flex NW includes internal storage for 10,000 ferrule end-face images and pass/fail results, as well as a USB mass storage device interface, so that inspection results can be transferred at the end of the workday.<br />
+        &nbsp;</div>
+        <div>   <strong>Pass/fail results in seconds:</strong> With the press of a single button, FOCIS Flex NW auto-focuses, captures and centers the end-face image, applies pass/fail rules, and displays image and pass/fail results. All in a matter of seconds!<br />
+        <br />
+        <strong>Independent, untethered operation:</strong> With rechargeable battery supply and integrated display, FOCIS Flex NW can be used independently &ndash; without requiring an external OTDR or display unit.<br />
+        &nbsp;</div>
+        <div>   <strong>Save results internally or externally:</strong> FOCIS Flex NW internally stores thousands of results using file-naming capabilities similar to FlexScan and FlexTester OTDRs. A micro-USB port supports fast upload of internally stored results to PC, and ensures your FOCIS Flex NW software can be updated to the latest features and supported languages.<br />
+        <br />
+        <strong>Wide range of adapter tips:</strong> Interchangeable adapter tips support connector inspection for a wide range of both single-fiber and multifiber patchcords and bulkhead-mounted connectors having either PC or APC polished end-faces.<br />
+        &nbsp;</div>
+        <div>   FOCIS Flex NW is available in standalone kit configurations including soft carry case/holster and user-selected adapter tips.<br />
+        <br />
+        <strong>Kit Configurations and Ordering Information:</strong><br />
+        <strong>FOCIS Flex NW Kits:</strong>&nbsp; Kits include soft carry case / holster, user-selected adapter tips, TRM 2.0 Basic reporting software, Quick Reference Guide, USB cable, rechargeable battery and AC charger.<br />
+        <br />
+        <table border="0" cellpadding="0" cellspacing="0" style="width: 628px;" width="629">
+            <colgroup>     <col />     <col />    </colgroup>
+            <tbody>
+                <tr height="20">
+                    <td id="title" style="width: 146px; height: 20px;">       MODEL</td>
+                    <td id="title" style="width: 483px;">       FOCIS FLEX NW KIT DESCRIPTION</td>
+                </tr>
+                <tr height="20">
+                    <td style="height: 20px;">       FOCIS-FLX-NW-P4XU</td>
+                    <td>       FOCIS Flex NW, UPC ferrule and bulkhead adapter tips (1 ea.), One-Click cleaner</td>
+                </tr>
+                <tr height="20">
+                    <td style="height: 20px;">       FOCIS-FLX-NW-P4XA</td>
+                    <td>       FOCIS Flex NW, APC ferrule and bulkhead adapter tips (1 ea.), One-Click cleaner</td>
+                </tr>
+                <tr height="20">
+                    <td style="height: 20px;">       FOCIS-FLX-NW-P4XN</td>
+                    <td>       FOCIS Flex NW, no adapter tips or One-Click cleaner (order separately)</td>
+                </tr>
+            </tbody>
+        </table>
+        </div>
+        <br />
+        <style>
+            table {
+            border-collapse: collapse;
+            border-spacing: 0;
+            width: 100% !important;
+            border: 1px solid #ddd;
+            background-color: #FFFFFF;
+            }
+            th, td {
+            text-align: left;
+            padding: 16px;
+            }
+            tr:nth-child(even) {
+            background-color: rgba(128, 128, 128, 0.07);
+            }
+            #title {
+            background-color: #00c0f3 !important;
+            color: #FFFFFF !important;
+            }
+            td {
+            padding: 15px !important;
+            border-right: 1px solid rgba(128, 128, 128, 0.5) !important;
+            border-bottom: 1px solid rgba(128, 128, 128, 0.5) !important;
+            border-top-color: rgba(128, 128, 128, 0.5) !important;
+            border-left-color: rgba(128, 128, 128, 0.5) !important;
+            border-top-style: solid !important;
+            border-left-style: solid !important;
+            text-align: left !important;
+            line-height: 1.5 !important;
+            display: table-cell !important;
+            }
+            .afl-subPages table tbody tr td {
+            font-size: 15px !important;
+            }
+            tr:hover {
+            background-color: #e6e6e6;
+            }
+        </style>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231122T212531Z
+    - ID: "ef2f63f2-c942-49a5-9c43-ebcfec40337e"
+      Hint: ProductName
+      Value: "FOCIS Flex - No Wireless"
+    - ID: "fb72ff1d-6b1d-4970-916a-8162ff077e62"
+      Hint: ProcutItems
+      Value: |
+        {7502B3D5-A205-4A7F-8104-08E3D53E00D5}
+        {C31C2D61-0387-436F-AC41-01E679511392}
+        {D53C05A1-FD4C-427E-8812-A05F9F65708A}
+        {84C27700-2377-4795-ABB6-7A7154D95403}
+        {3EA3970D-58C9-446C-8200-F6C5EE901F6B}
+        {8CE5A75E-8948-400B-938F-3AF9C34823D3}
+        {3B21C403-C5AB-47C7-81BC-C757F68819D8}

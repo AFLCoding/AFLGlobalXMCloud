@@ -1,0 +1,181 @@
+﻿---
+ID: "91600d19-d027-4711-a372-8d4d96f9e13a"
+Parent: "6b0cc99d-fbe4-4015-a4c8-67fb0d4f1d1a"
+Template: "231b4589-f8fc-498f-b0f6-64fabecbc7b9"
+Path: /sitecore/content/AFLGlobal/APAC/Home/Products/Test and Inspection/OTDRs and Troubleshooters/FlexScan FS200 SM OTDRs with SmartAuto  LinkMap
+SharedFields:
+- ID: "1fbc6a49-6281-48ee-87e9-a3970b145adb"
+  Hint: NavigationFilter
+  Value: |
+    {E0A2A027-0932-4878-A7D6-0416D5263EFB}
+    {61BD64D6-809E-40AE-9297-2724A19329B3}
+    {D063E9D1-C7B5-4B1E-B31E-69886C9C59F5}
+    {500AE4C0-FA7B-463F-8149-EFFF7F044101}
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{DA631FB5-51B3-49F6-9915-732D093CF221}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{DAE7C21D-4D3B-4257-A95C-9104CD8AF409}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 102
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "16863469-616f-4d9e-a66f-02c79610ddaa"
+      Hint: ProductShortDescription
+      Value: "With SmartAuto® FS200 SM OTDR data acquisition, robust event analysis and LinkMap® display, AFL's FlexScan® OTDRs enable even novice technicians to quickly and reliably troubleshoot or completely characterize optical networks. Offering integrated source, power meter, VFL and wireless communications, pocket-sized FlexScans set a new standard for price, performance, portability and ease-of-use. "
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220128T171036Z
+    - ID: "36d9d67b-3610-4327-963e-e209239944d7"
+      Hint: ProductApplication
+      Value: |
+        <h3 style="font-size: 16px; padding-bottom: 5px;">Applications:</h3>
+        <ul class="productDetailApplications">
+            <li>PON or point-to-point network verification and troubleshooting</li>
+            <li>Fast, accurate single-mode fiber fault location using OTDR and VFL</li>
+            <li>Single-mode optical network characterization using OTDR</li>
+            <li>Single-mode loss testing using integrated source and power meter</li>
+        </ul>
+    - ID: "4dda6e0a-1c9d-4a8d-890f-11a8eddc2f11"
+      Hint: ProductFeatures
+      Value: |
+        <h3 style="font-size: 16px; padding-bottom: 5px;">Features:</h3>
+        <ul class="productDetailFeatures">
+            <li style="display: list-item;">Rugged &amp; pocket-sized; Weighs less than 1 pound! (0.4 kg)</li>
+            <li style="display: list-item;">Fast, accurate network characterization or fault location</li>
+            <li style="display: list-item;">Easy-to-understand LinkMap results with pass/fail indications</li>
+            <li style="display: list-item;"><span style="background-color: #ffffff; color: #000000;">Single, dual, triple wavelength OTDRs for point-to-point and PON testing</span></li>
+            <li style="display: none;">Best-in-class 20 m PON dead zone!</li>
+            <li style="display: none;">Integrated VFL, plus Wave ID source and power meter</li>
+            <li style="display: none;">Bluetooth, Wi-Fi and USB communications</li>
+            <li style="display: none;">Large, bright indoor/outdoor touchscreen</li>
+        </ul>
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: FlexScan® FS200 SM OTDRs with SmartAuto® & LinkMap®
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\archana
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: "With SmartAuto™ OTDR data acquisition, robust event analysis and LinkMap® display, AFL's FlexScan® OTDRs enable even novice technicians to quickly and reliably troubleshoot or completely characterise optical networks. Offering integrated source, power meter, VFL and wireless communications, pocket-sized FlexScans set a new standard for price, performance, portability and ease-of-use. "
+    - ID: "59ec008e-95ec-4c06-9189-09d4acaf1d7e"
+      Hint: ProductCategory
+      Value: "{80AE80BE-E823-4C52-AFCB-6FB0CBD1A984}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\archana
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: flex scan, flex, scan, test, inspection. otdr, 
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: FlexScan FS200 SM OTDRs with SmartAuto  LinkMap
+    - ID: "646d0f97-6838-4bff-800d-895747365401"
+      Hint: AFLDocumentList
+      Value: |
+        {67C4FA9B-E234-45D0-9BF0-C158A6E1111A}
+        {58E152F2-BA11-41AC-9571-C7396D62D259}
+        {2C7E4188-8248-497A-B38D-2C26304D0683}
+        {878FD480-E6C1-42E1-B04B-B8F455EA2F78}
+        {538BCAC6-45D8-44D4-B7B1-AFDB7731FC18}
+        {F59F0F64-DEE2-412C-8F1A-96C48175B070}
+        {2870C6AD-C5CD-4025-8C5A-4881C9561D49}
+        {FCB3DD7A-A1DD-4BB0-A22E-D228EB2750FE}
+    - ID: "72653cc9-973c-4682-b5c7-26d926959f8f"
+      Hint: ProductImage
+      Value: |
+        <image stylelabs-content-id="184466" src="https://afl-delivery.stylelabs.cloud/api/public/content/d4db7313714e4fd68afb1e0b52218808?v=a69cfac1" stylelabs-content-type="Image" alt="FlexScan FS200 SM OTDRs with SmartAuto  LinkMap " thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/184466/thumbnail" />
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: FlexScan FS200 SM OTDRs with SmartAuto  LinkMap
+    - ID: "8b978017-d437-40aa-b31d-bbf1d560a0cb"
+      Hint: DownloadFileLink
+      Value: |
+        <link text="SPECIFICATION SHEET" target="_blank" linktype="media" id="{64186A3E-346A-4067-874E-E3DA64C45AC3}" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8eec62c5-05e1-42b8-b7ff-899cfcf9ac39"
+    - ID: "93dc88f3-05e5-482d-9b9a-c859c8258a73"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="267972" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/267972/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/0ec0fd3a37934bb6ac75d2c4bcfecee7?v=28840864" stylelabs-content-type="Image" alt="Test_OTDRs.jpg" height="465" width="1336" />
+    - ID: "a40ebd3d-2b41-41fb-90f7-753544ce77c5"
+      Hint: Hero Title1
+      Value: FlexScan® FS200 SM OTDRs with SmartAuto® & LinkMap®
+    - ID: "ad694352-89e0-4ab7-90e6-1ec187afd032"
+      Hint: AFLVideoList
+      Value: |
+        {8172735C-EA1E-4E7D-94EC-4062D36943A1}
+        {C7A54FA7-90BD-4686-BBF8-4A164B294E67}
+        {9136C025-B355-4AEF-92F1-79820AC9EC1E}
+        {C9819FD3-4B53-4914-8E0C-2A8070EA3442}
+    - ID: "af4f5f0d-745a-4af7-aee7-2002f0430999"
+      Hint: ProductTitle
+      Value: FlexScan® FS200 SM OTDRs with SmartAuto® & LinkMap®
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d1f74386-05c3-4c80-aa18-38d21db05fdf"
+      Hint: ProductId
+      Value: 2485
+    - ID: "d93ad815-376a-43bf-b34b-cbad0b1b7128"
+      Hint: ProductLongDescription
+      Value: |
+        <p><strong>FlexScan&reg; FS200 SM OTDR with SmartAuto&reg; and LinkMap&reg;</strong></p>
+        <p>   <strong>Pocket-sized, Performance-packed, Easy to Use&nbsp;<em>and </em>Affordable</strong></p>
+        <p>   FlexScan OTDRs enable both novice and expert technicians to quickly and reliably troubleshoot optical networks or fully characterize newly installed or repaired networks. Using FlexScan&rsquo;s innovative SmartAuto mode, this multi-pulse OTDR scans quickly and accurately to detect, locate, identify and measure network components and faults. After applying industry-standard or user-set pass/fail criteria, the characterized network is displayed using FlexScan&rsquo;s intuitive, icon-based LinkMap view.</p>
+        <p>   FlexScan automates test setup, shortens test time and simplifies results interpretation, improving efficiency and reducing the cost of test. Results may be stored internally or externally. Internally stored results are easily accessed via USB.</p>
+        <p>   With optional connector inspection, integrated source, power meter and VFL, FlexScan offers an all-in one solution, ensuring technicians have everything they need to locate and resolve optical network issues.</p>
+        <p>   Designed for field use, FlexScan is robust, rugged, lightweight, powerful and flexible.</p>
+        <p><strong>Easy reporting and archiving:</strong> Included FlexReporter Basic software suite works with AFL Test and Inspection instruments to provide a simple-to-use, high performance cloud enabled reporting platform. FlexReporter combines FlexApp, a mobile App that wirelessly transfers test results to FlexReporter-Cloud from the field with FlexReports, a fast, comprehensive, 3-step PC software reporting solution. The FlexReporter software suite was developed to make the complicated task of reporting faster, simpler, and easy-to-use.</p>
+        <p>   <strong>FlexScan Models and Kit Configurations</strong></p>
+        <p>   FlexScan is currently available in five models:</p>
+        <ul>
+            <li>    <strong>FS200-60</strong>: &nbsp;1650 nm &nbsp;filtered version for cost-effective live PON troubleshooting. Use the optional integrated Power Meter to verify downstream power levels.</li>
+            <li>    <strong>FS200-100</strong>: &nbsp;1310/1550 version for more complete point-to-point network installation verification, as well as troubleshooting. &nbsp;By testing at both wavelengths, FlexScan can differentiate poor splices from macro-bends, as well as qualify the network for operation in both 1310 and 1550 nm windows.</li>
+            <li>    <strong>FS200-300</strong>: &nbsp;1310/1550 PON OTDR version for installation verification and troubleshooting of out-of-service PON or point-to-point networks. &nbsp;Offers higher dynamic range to test through splitters, as well as longer point-to-point networks.</li>
+            <li><strong>FS200-303</strong> FS200-303: 1310/1550/1625 PON OTDR for in-service PON troubleshooting, as well as out-of-service PON or point-to-point network installation verification or troubleshooting.</li>
+            <li><strong>FS200-304</strong>: &nbsp;1310/1550/1650 PON OTDR version for in-service PON troubleshooting, as well as out-of-service PON or point-to-point network installation verification or troubleshooting.</li>
+        </ul>
+        <p>   All models include an integrated VFL and are available with optional integrated source, power meter and Bluetooth/Wi-Fi wireless communications.</p>
+        <p>   FlexScan test sets are available in five standard kit configurations:</p>
+        <ul>
+            <li>    <strong>BASIC Kit</strong>: Includes selected FlexScan, wrist strap, soft carry case, Quick Reference Guide plus  FlexReports Basic software for viewing Test Results.  Users requiring full reporting capability should upgrade to FlexReports Advanced. Soft case includes room for optional accessories such as connector cleaning supplies, fiber ring (launch cable) or FOCIS Flex connector inspection solution.</li>
+            <li>    <strong>PLUS Kit</strong>: Adds a One-Click Cleaner, 150 m fiber ring (launch cable) plus FlexReports Advanced software with full reporting to a Basic Kit.</li>
+            <li>    <strong>PRO Kit</strong>: Adds an auto-focusing FOCIS Flex Fiber Optic Connector Inspection System and user-selected adapter tips to Plus Kit.</li>
+            <li>    <strong>BIPM Complete Kit</strong>: Adds OFI-BIPMe Bend-insensitive Optical Fiber Identifier with Power Meter to PRO Kit.</li>
+        </ul>
+        <p>   For details and ordering information on model options and kit configurations, see the FlexScan data sheet.</p>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231122T212534Z
+    - ID: "ef2f63f2-c942-49a5-9c43-ebcfec40337e"
+      Hint: ProductName
+      Value: FlexScan® FS200 SM OTDRs with SmartAuto® & LinkMap®
+    - ID: "fb72ff1d-6b1d-4970-916a-8162ff077e62"
+      Hint: ProcutItems
+      Value: |
+        {7502B3D5-A205-4A7F-8104-08E3D53E00D5}
+        {C31C2D61-0387-436F-AC41-01E679511392}
+        {D53C05A1-FD4C-427E-8812-A05F9F65708A}
+        {84C27700-2377-4795-ABB6-7A7154D95403}
+        {3EA3970D-58C9-446C-8200-F6C5EE901F6B}
+        {8CE5A75E-8948-400B-938F-3AF9C34823D3}
+        {3B21C403-C5AB-47C7-81BC-C757F68819D8}
+        {C942D14E-12FB-468B-A8A2-96CB150C250F}
+        {4CB4B513-E071-4C55-956F-F149AB5F4112}
+        {B848144D-FBFB-46AE-A7FD-2EA4053631F4}
+        {787DD9BC-EDA7-4251-B706-A4DCA79ED638}
+        {F7D3DC6B-0A5B-436A-9966-86F40F1AA7FE}
+        {E563C707-D3A1-46ED-AA5E-1E944039E008}
+        {C5B2268A-ECC9-463E-B8AA-72A5ABB04547}
+        {0E0E54E5-2A23-4D43-A12D-1C51FFC3E664}

@@ -1,0 +1,38 @@
+﻿---
+ID: "c3621a64-0993-4851-bb86-5a93b55a3e89"
+Parent: "23996f79-3f7b-4784-a95b-4e87779e0d13"
+Template: "178e3cec-ca03-4c76-9ad3-122297e19e13"
+Path: /sitecore/content/AFLGlobal/APAC/Home/Products/Test and Inspection/UP OTDRs and Troubleshooters OLD/FTTx PON Simulator/Additional Image/OLT_ONT_Eval_illustration
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220404T170308Z
+    - ID: "4f4e6526-41d1-4a67-ba95-3cf65c6a6462"
+      Hint: ImgaeUrl
+      Value: |
+        <image stylelabs-content-id="227273" src="https://afl-delivery.stylelabs.cloud/api/public/content/fb5458f3bb1342228ef884df035fa0d2?v=76522235" stylelabs-content-type="Image" alt="OLT_ONT_Eval_illustration.jpg" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/227273/thumbnail" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mahesh
+    - ID: "80203708-a0db-4f4b-bd18-b5f74b33756d"
+      Hint: ImageTitle
+      Value: OLT_ONT_Eval_illustration
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d75eae62-fcc4-4a74-b43c-d546c3630d90"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahesh
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220404T170308Z

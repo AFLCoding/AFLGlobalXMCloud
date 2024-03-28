@@ -1,0 +1,145 @@
+﻿---
+ID: "7b6f99ab-3815-4aec-afba-7fab0fe0447c"
+Parent: "2e2a7fe8-fe6f-4ec3-80f6-f2e616c34c04"
+Template: "231b4589-f8fc-498f-b0f6-64fabecbc7b9"
+Path: /sitecore/content/AFLGlobal/APAC/Home/Products/Test and Inspection/Fiber Identification/Optical Fiber Identifiers/OFI 200D Optical Fiber Identifier
+SharedFields:
+- ID: "1fbc6a49-6281-48ee-87e9-a3970b145adb"
+  Hint: NavigationFilter
+  Value: |
+    {E0A2A027-0932-4878-A7D6-0416D5263EFB}
+    {61BD64D6-809E-40AE-9297-2724A19329B3}
+    {D063E9D1-C7B5-4B1E-B31E-69886C9C59F5}
+    {500AE4C0-FA7B-463F-8149-EFFF7F044101}
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{DA631FB5-51B3-49F6-9915-732D093CF221}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: 
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 101
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "16863469-616f-4d9e-a66f-02c79610ddaa"
+      Hint: ProductShortDescription
+      Value: "The OFI-200 is a rugged, hand-held, and easy-to-use fiber optic test instrument designed to detect optical signals transmitted through a single-mode fiber without disrupting traffic on that fiber. It allows technical personnel to unambiguously identify a specific fiber and eliminates the risk of accidental disruption of revenue service."
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220303T154330Z
+    - ID: "36d9d67b-3610-4327-963e-e209239944d7"
+      Hint: ProductApplication
+      Value: |
+        <h3 style="font-size: 16px; padding-bottom: 5px;">Applications:</h3><ul class="productDetailApplications">
+         <li>Live fiber identification to avoid technician-induced service outages</li>
+         <li>Fiber tracing or identification with CW or test tones</li>
+         
+         
+         
+         
+         
+         
+         
+         
+        </ul>
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4dda6e0a-1c9d-4a8d-890f-11a8eddc2f11"
+      Hint: ProductFeatures
+      Value: |
+        <h3 style="font-size: 16px; padding-bottom: 5px;">Features:</h3><ul class="productDetailFeatures">
+         <li>Unique Optical Head with 2-position Plunger for use with many fiber types</li>
+         <li>Detects Traffic, CW and 270, 330, 1000 and 2000 Hz Tones</li>
+         <li>Indicates direction of transmissions</li>
+         <li>5 year product warranty </li>
+         
+         
+         
+         
+         
+         
+        </ul>
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: OFI 200D Optical Fiber Identifier
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\archana
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: "The OFI-200D is a rugged, hand-held, and easy-to-use fiber optic test instrument designed to detect optical signals transmitted through a single-mode fiber without disrupting traffic on that fiber. It allows technical personnel to unambiguously identify a specific fiber and eliminates the risk of accidental disruption of revenue service."
+    - ID: "59ec008e-95ec-4c06-9189-09d4acaf1d7e"
+      Hint: ProductCategory
+      Value: "{51DAE73C-C827-4653-AF6C-C7131D516939}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\archana
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: optical fiber identifier, fiber identifier, fiber tracer, fiber toner, optical tracer, optical toner, AFL, fiber optic, OFI200, OFI200D, OFI 200, OFI 200D, Wilcom F6121A, Wilcom F6222, Wilcom F6225, Wilcom F6121, Exfo live fiber detection, detector, LTD 200, LTD 250B, LTD 300B
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: OFI 200D Optical Fiber Identifier
+    - ID: "646d0f97-6838-4bff-800d-895747365401"
+      Hint: AFLDocumentList
+      Value: 
+    - ID: "72653cc9-973c-4682-b5c7-26d926959f8f"
+      Hint: ProductImage
+      Value: |
+        <image stylelabs-content-id="49167" src="https://afl-delivery.stylelabs.cloud/api/public/content/00e5ce26e4e8467db87ddb478a936eb4?v=4a3df316" stylelabs-content-type="Image" alt="OFI-200D Optical Fiber Identifier" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/49167/thumbnail" />
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: OFI 200D Optical Fiber Identifier
+    - ID: "8b978017-d437-40aa-b31d-bbf1d560a0cb"
+      Hint: DownloadFileLink
+      Value: |
+        <link id="{66160EC4-3424-453D-AFD2-39ABFB990A95}" querystring="" target="_blank" text="SPECIFICATION SHEET" anchor="" title="" class="" url="/sitecore/media library/Project/AFL-Global/Product Specification Sheet/Test and Inspection/Fiber Identification/OFI1-11-2000" linktype="media" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8a8bd065-6ed6-40eb-ae7c-b1b643f471fa"
+    - ID: "93dc88f3-05e5-482d-9b9a-c859c8258a73"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="169963" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/169963/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/6f7a2678668d452686de6e85e75ce275?v=7870c398" stylelabs-content-type="Image" alt="Test_ID_TopLevel.jpg" height="465" width="1336" />
+    - ID: "ab4c1906-c756-4771-818b-3683089665ee"
+      Hint: ProductMediaItems
+      Value: "{4DA36201-EC4E-4FBA-8D97-E40AC9BD72C5}"
+    - ID: "af4f5f0d-745a-4af7-aee7-2002f0430999"
+      Hint: ProductTitle
+      Value: "OFI-200D Optical Fiber Identifier"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d1f74386-05c3-4c80-aa18-38d21db05fdf"
+      Hint: ProductId
+      Value: 469
+    - ID: "d93ad815-376a-43bf-b34b-cbad0b1b7128"
+      Hint: ProductLongDescription
+      Value: |
+        <h2>   OFI-200 Optical Fiber Identifer</h2>
+        <p>   Rugged, hand-held, and easy-to-use fiber optic test instrument designed to detect optical signals transmitted through a single-mode fiber without disrupting traffic on that fiber. <span></span>During installation, maintenance, rerouting, or restoration it is often necessary to isolate a specific fiber. <span></span>By simply clamping an Optical Fiber Identifier onto a fiber, the unit will indicate if there is NO SIGNAL, TONE or TRAFFIC and the associated signal direction. <span></span>It allows technical personnel to unambiguously identify a specific fiber and eliminates the risk of accidental disruption of revenue service. AFL OLS7, OLS2, CSS1-SM and CSS1-MM Optical Light Sources are ideal companions for the OFI-200.</p>
+        <p>   <span>The OFI-200 is equipped with a unique two-position head design that can be configured, without tools or recalibration, to work with 250&nbsp;</span><span>&micro;m, 900<span class="apple-converted-space"></span>&micro;m, ribbon or jacketed fiber. The slim design of the head is particularly valuable when working in splice trays, cabinets and pedestals where work space is limited.</span><span></span></p>
+        <p>   <span>The clamping trigger is ergonomically designed to fit the natural motion of the user's hand. A high-impact molded plastic case makes the OFI-200 suitable for use on either inside or outside plant tasks.</span></p>
+        <p>   The OFI-200 Optical Fiber Identifier is battery operated and, thanks to&nbsp;an automatic power capability that maximizes battery life, can perform thousands of tests before needing&nbsp;battery replacement. &nbsp;A low battery indicator&nbsp;is also provided.</p>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231122T212532Z
+    - ID: "ef2f63f2-c942-49a5-9c43-ebcfec40337e"
+      Hint: ProductName
+      Value: "OFI-200D Optical Fiber Identifier"
+    - ID: "fb72ff1d-6b1d-4970-916a-8162ff077e62"
+      Hint: ProcutItems
+      Value: |
+        {4CB4B513-E071-4C55-956F-F149AB5F4112}
+        {B848144D-FBFB-46AE-A7FD-2EA4053631F4}
+        {787DD9BC-EDA7-4251-B706-A4DCA79ED638}
+        {F7D3DC6B-0A5B-436A-9966-86F40F1AA7FE}
+        {E563C707-D3A1-46ED-AA5E-1E944039E008}

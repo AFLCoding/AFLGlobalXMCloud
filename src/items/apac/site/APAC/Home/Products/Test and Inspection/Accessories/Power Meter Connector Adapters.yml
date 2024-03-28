@@ -1,0 +1,347 @@
+﻿---
+ID: "f65ce06a-88ad-4ea2-be02-7acb20293152"
+Parent: "8ebae86c-7bcb-4182-a175-d479a8dd5ea3"
+Template: "231b4589-f8fc-498f-b0f6-64fabecbc7b9"
+Path: /sitecore/content/AFLGlobal/APAC/Home/Products/Test and Inspection/Accessories/Power Meter Connector Adapters
+SharedFields:
+- ID: "1fbc6a49-6281-48ee-87e9-a3970b145adb"
+  Hint: NavigationFilter
+  Value: |
+    {E0A2A027-0932-4878-A7D6-0416D5263EFB}
+    {61BD64D6-809E-40AE-9297-2724A19329B3}
+    {D063E9D1-C7B5-4B1E-B31E-69886C9C59F5}
+    {500AE4C0-FA7B-463F-8149-EFFF7F044101}
+    {A0E7FF57-6994-4B09-AA21-104239628D5A}
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{DA631FB5-51B3-49F6-9915-732D093CF221}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: 
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 106
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "16863469-616f-4d9e-a66f-02c79610ddaa"
+      Hint: ProductShortDescription
+      Value: "AFL's standard thread-on adapter caps are used to mate non-angled and angled single-fiber and dual-fiber connectors to optical power meter ports on our OPM Series, T400, T500, and ORL3 series test sets."
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220303T154344Z
+    - ID: "36d9d67b-3610-4327-963e-e209239944d7"
+      Hint: ProductApplication
+      Value: 
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4dda6e0a-1c9d-4a8d-890f-11a8eddc2f11"
+      Hint: ProductFeatures
+      Value: 
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Power Meter Connector Adapters
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\archana
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: "AFL's standard thread-on adapter caps are used to mate non-angled and angled single-fiber and dual-fiber connectors to optical power meter ports on our OPM Series, T400, T500, and ORL3 Series test sets."
+    - ID: "59ec008e-95ec-4c06-9189-09d4acaf1d7e"
+      Hint: ProductCategory
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\archana
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: Adapter, connector, test port, power meter
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: Power Meter Connector Adapters
+    - ID: "72653cc9-973c-4682-b5c7-26d926959f8f"
+      Hint: ProductImage
+      Value: |
+        <image stylelabs-content-id="48738" src="https://afl-delivery.stylelabs.cloud/api/public/content/05561d2c00a84a559967587374716b8e?v=f8a66cbe" stylelabs-content-type="Image" alt="Power Meter Connector Adapters" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/48738/thumbnail" />
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: Power Meter Connector Adapters
+    - ID: "8b978017-d437-40aa-b31d-bbf1d560a0cb"
+      Hint: DownloadFileLink
+      Value: |
+        <link id="{FDDF14D0-E357-4385-8998-A0EC4BD4343D}" querystring="" target="_blank" text="SPECIFICATION SHEET" anchor="" title="" class="" url="/sitecore/media library/Project/AFL-Global/Product Specification Sheet/Test and Inspection/Accessories/connector-adapters" linktype="media" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ecbbab3d-e829-4893-9424-15c9ba8ce8c3"
+    - ID: "93dc88f3-05e5-482d-9b9a-c859c8258a73"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="169953" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/169953/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/38ce45efee0f43d3861659e585b027e0?v=9ebb6676" stylelabs-content-type="Image" alt="Optical_Loss_Test.jpg" height="465" width="1336" />
+    - ID: "ab4c1906-c756-4771-818b-3683089665ee"
+      Hint: ProductMediaItems
+      Value: |
+        {104AB280-540F-40BC-81BA-43A1E8746983}
+        {5C9CCCFD-A7C3-4E3C-AF8C-796C8F93479F}
+        {4EA0387C-4F6E-4BDD-B8D6-73A478AFD9EF}
+        {D7068F3D-981A-461C-B879-283E5601D31C}
+    - ID: "af4f5f0d-745a-4af7-aee7-2002f0430999"
+      Hint: ProductTitle
+      Value: Power Meter Connector Adapters
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d1f74386-05c3-4c80-aa18-38d21db05fdf"
+      Hint: ProductId
+      Value: 647
+    - ID: "d93ad815-376a-43bf-b34b-cbad0b1b7128"
+      Hint: ProductLongDescription
+      Value: |
+        <h2>   Power Meter Adapter Caps</h2>
+        <table border="1" cellpadding="0" cellspacing="0" width="445">
+            <tbody>
+                <tr>
+                    <td id="title" valign="top" style="width: 127px; white-space: nowrap;">
+                    <div>       <strong>Part Number</strong></div>
+                    </td>
+                    <td id="title" valign="top" style="width: 318px;">
+                    <div>       <strong>Description</strong></div>
+                    </td>
+                </tr>
+                <tr>
+                    <td valign="top" style="width: 127px; white-space: nowrap;">
+                    <div>       8800-00-0214</div>
+                    </td>
+                    <td valign="top" style="width: 318px;">
+                    <div>       2.5 mm Universal (accepts FC, SC, and ST ferrules)</div>
+                    </td>
+                </tr>
+                <tr>
+                    <td valign="top" style="width: 127px; white-space: nowrap;">
+                    <div>       8800-00-0224</div>
+                    </td>
+                    <td valign="top" style="width: 318px;">
+                    <div>       1.25 mm Universal (accepts LC and MU ferrules)</div>
+                    </td>
+                </tr>
+                <tr>
+                    <td valign="top" style="width: 127px; white-space: nowrap;">
+                    <div>       8800-00-0200</div>
+                    </td>
+                    <td valign="top" style="width: 318px;">
+                    <div>       FC</div>
+                    </td>
+                </tr>
+                <tr>
+                    <td valign="top" style="width: 127px; white-space: nowrap;">
+                    <div>       8800-00-0209</div>
+                    </td>
+                    <td valign="top" style="width: 318px;">
+                    <div>       SC</div>
+                    </td>
+                </tr>
+                <tr>
+                    <td valign="top" style="width: 127px; white-space: nowrap;">
+                    <div>       8800-00-0202</div>
+                    </td>
+                    <td valign="top" style="width: 318px;">
+                    <div>       ST&reg;</div>
+                    </td>
+                </tr>
+                <tr>
+                    <td valign="top" style="width: 127px; white-space: nowrap;">
+                    <div>       8800-00-0225</div>
+                    </td>
+                    <td valign="top" style="width: 318px;">
+                    <div>       LC simplex</div>
+                    </td>
+                </tr>
+                <tr>
+                    <td valign="top" style="width: 127px; white-space: nowrap;">
+                    <div>       8800-00-0221</div>
+                    </td>
+                    <td valign="top" style="width: 318px;">
+                    <div>       E-2000</div>
+                    </td>
+                </tr>
+                <tr>
+                    <td valign="top" style="width: 127px; white-space: nowrap;">
+                    <div>       8800-00-0226</div>
+                    </td>
+                    <td valign="top" style="width: 318px;">
+                    <div>       MU simplex</div>
+                    </td>
+                </tr>
+                <tr>
+                    <td valign="top" style="width: 127px; white-space: nowrap;">
+                    <div>       8800-00-0219</div>
+                    </td>
+                    <td valign="top" style="width: 318px;">
+                    <div>       2.5 mm open Universal. Accepts SC duplex, OptiTap connector for measuring optical power.</div>
+                    </td>
+                </tr>
+                <tr>
+                    <td valign="top" style="width: 127px; white-space: nowrap;">
+                    <div>       8800-00-0230</div>
+                    </td>
+                    <td valign="top" style="width: 318px;">
+                    <div>       MT-RJ (A side only). When used for loss testing, &ldquo;A side only&rdquo; adapter verifies system polarity</div>
+                    </td>
+                </tr>
+                <tr>
+                    <td valign="top" style="width: 127px; white-space: nowrap;">
+                    <div>       8800-00-0231</div>
+                    </td>
+                    <td valign="top" style="width: 318px;">
+                    <div>       MT-RJ (A side or B side)</div>
+                    </td>
+                </tr>
+                <tr>
+                    <td valign="top" style="width: 127px; white-space: nowrap;">
+                    <div>       8800-00-0203</div>
+                    </td>
+                    <td valign="top" style="width: 318px;">
+                    <div>       SMA</div>
+                    </td>
+                </tr>
+                <tr>
+                    <td valign="top" style="width: 127px; white-space: nowrap;">
+                    <div>       8800-00-0201</div>
+                    </td>
+                    <td valign="top" style="width: 318px;">
+                    <div>       D4</div>
+                    </td>
+                </tr>
+                <tr>
+                    <td valign="top" style="width: 127px; white-space: nowrap;">
+                    <div>       8800-00-0204</div>
+                    </td>
+                    <td valign="top" style="width: 318px;">
+                    <div>       Biconic</div>
+                    </td>
+                </tr>
+                <tr>
+                    <td valign="top" style="width: 127px; white-space: nowrap;">
+                    <div>       8800-00-0210</div>
+                    </td>
+                    <td valign="top" style="width: 318px;">
+                    <div>       ESCON&reg;</div>
+                    </td>
+                </tr>
+                <tr>
+                    <td valign="top" style="width: 127px; white-space: nowrap;">
+                    <div>       8800-00-0205</div>
+                    </td>
+                    <td valign="top" style="width: 318px;">
+                    <div>       FDDI (for OPM ports only!)</div>
+                    </td>
+                </tr>
+                <tr>
+                    <td valign="top" style="width: 127px; white-space: nowrap;">
+                    <div>       8800-00-0211</div>
+                    </td>
+                    <td valign="top" style="width: 318px;">
+                    <div>       DIN 47256</div>
+                    </td>
+                </tr>
+                <tr>
+                    <td valign="top" style="width: 127px; white-space: nowrap;">
+                    <div>       8800-00-0212</div>
+                    </td>
+                    <td valign="top" style="width: 318px;">
+                    <div>       Radiall PFO/VFO Adapters for Plastic Optical Fiber (POF)</div>
+                    </td>
+                </tr>
+                <tr>
+                    <td valign="top" style="width: 127px; white-space: nowrap;">
+                    <div>       8800-00-0223</div>
+                    </td>
+                    <td valign="top" style="width: 318px;">
+                    <div>       1000 mm bare fiber (plastic)</div>
+                    </td>
+                </tr>
+                <tr>
+                    <td valign="top" style="width: 127px; white-space: nowrap;">
+                    <div>       8800-00-0271PR</div>
+                    </td>
+                    <td valign="top" style="width: 318px;">
+                    <div>       HP-HFBR-45XX POF Universal</div>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <p>&nbsp;</p>
+        <p>   <em>Notes:</em></p>
+        <ul>
+            <li>    For images of adapters refer to Test Port Adapters Reference Guide (PDF) available under Related Documents tab.</li>
+            <li>    <em>ESCON is a registered trademark of IBM</em></li>
+            <li>    <em>ST is a registered trademark of Lucent Technologies</em>&nbsp;&nbsp;</li>
+        </ul>
+        <p>&nbsp;</p>
+        <style>
+            table {
+            border-collapse: collapse;
+            border-spacing: 0;
+            width: 100% !important;
+            border: 1px solid #ddd;
+            background-color: #FFFFFF;
+            }
+            th, td {
+            text-align: left;
+            padding: 16px;
+            }
+            tr:nth-child(even) {
+            background-color: rgba(128, 128, 128, 0.07);
+            }
+            #title {
+            background-color: #00c0f3 !important;
+            color: #FFFFFF !important;
+            }
+            td {
+            padding: 15px !important;
+            border-right: 1px solid rgba(128, 128, 128, 0.5) !important;
+            border-bottom: 1px solid rgba(128, 128, 128, 0.5) !important;
+            border-top-color: rgba(128, 128, 128, 0.5) !important;
+            border-left-color: rgba(128, 128, 128, 0.5) !important;
+            border-top-style: solid !important;
+            border-left-style: solid !important;
+            text-align: left !important;
+            line-height: 1.5 !important;
+            display: table-cell !important;
+            }
+            .afl-subPages table tbody tr td {
+            font-size: 15px !important;
+            }
+            tr:hover {
+            background-color: #e6e6e6;
+            }
+        </style>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231122T212535Z
+    - ID: "ef2f63f2-c942-49a5-9c43-ebcfec40337e"
+      Hint: ProductName
+      Value: Power Meter Connector Adapters
+    - ID: "fb72ff1d-6b1d-4970-916a-8162ff077e62"
+      Hint: ProcutItems
+      Value: |
+        {7502B3D5-A205-4A7F-8104-08E3D53E00D5}
+        {C31C2D61-0387-436F-AC41-01E679511392}
+        {D53C05A1-FD4C-427E-8812-A05F9F65708A}
+        {84C27700-2377-4795-ABB6-7A7154D95403}
+        {3EA3970D-58C9-446C-8200-F6C5EE901F6B}
+        {8CE5A75E-8948-400B-938F-3AF9C34823D3}
+        {3B21C403-C5AB-47C7-81BC-C757F68819D8}
+        {C942D14E-12FB-468B-A8A2-96CB150C250F}
+        {4CB4B513-E071-4C55-956F-F149AB5F4112}
+        {B848144D-FBFB-46AE-A7FD-2EA4053631F4}
+        {787DD9BC-EDA7-4251-B706-A4DCA79ED638}
+        {F7D3DC6B-0A5B-436A-9966-86F40F1AA7FE}
+        {E563C707-D3A1-46ED-AA5E-1E944039E008}
+        {C5B2268A-ECC9-463E-B8AA-72A5ABB04547}
+        {0E0E54E5-2A23-4D43-A12D-1C51FFC3E664}

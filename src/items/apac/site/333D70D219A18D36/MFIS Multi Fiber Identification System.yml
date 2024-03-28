@@ -1,0 +1,257 @@
+﻿---
+ID: "626826dc-021d-451c-b464-d5a8e447b1e0"
+Parent: "87ff10a2-ff7b-4244-b290-125605e6ac09"
+Template: "231b4589-f8fc-498f-b0f6-64fabecbc7b9"
+Path: /sitecore/content/AFLGlobal/APAC/Home/Products/Test and Inspection/Fiber Identification/Visual Fault Identifiers/MFIS Multi Fiber Identification System
+SharedFields:
+- ID: "1fbc6a49-6281-48ee-87e9-a3970b145adb"
+  Hint: NavigationFilter
+  Value: |
+    {E0A2A027-0932-4878-A7D6-0416D5263EFB}
+    {61BD64D6-809E-40AE-9297-2724A19329B3}
+    {D063E9D1-C7B5-4B1E-B31E-69886C9C59F5}
+    {500AE4C0-FA7B-463F-8149-EFFF7F044101}
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{DA631FB5-51B3-49F6-9915-732D093CF221}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: 
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 103
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "16863469-616f-4d9e-a66f-02c79610ddaa"
+      Hint: ProductShortDescription
+      Value: "Multi-Fiber network construction is time consuming, complicated, and often built by more than one crew with mixed sets of documentation. Mistakes, such as mislabeling, are almost guaranteed. AFL’s Multi-Fiber Identification System (MFIS) provide 100% multi-fiber network continuity assurance. It is a simple user-friendly way to verify network construction quickly, correctly, and efficiently."
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220303T154403Z
+    - ID: "36d9d67b-3610-4327-963e-e209239944d7"
+      Hint: ProductApplication
+      Value: |
+        <h3 style="font-size: 16px; padding-bottom: 5px;">Applications:</h3><ul class="productDetailApplications">
+         <li>Network construction detection</li>
+         <li>Various connectors for easy application</li>
+         <li>Optimized for use on 250 ?m, 900 ?m and ribbon fiber</li>
+         
+         
+         
+         
+         
+         
+         
+        </ul>
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4dda6e0a-1c9d-4a8d-890f-11a8eddc2f11"
+      Hint: ProductFeatures
+      Value: |
+        <h3 style="font-size: 16px; padding-bottom: 5px;">Features:</h3><ul class="productDetailFeatures">
+         <li>Easy to use</li>
+         <li>Powered by common batteries</li>
+         <li>Hand-held and lightweight</li>
+         <li>Three-year calibration interval</li>
+         
+         
+         
+         
+         
+         
+        </ul>
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: MFIS Multi Fiber Identification System
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\archana
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: "MFIS (Multi-Fiber Identification System) is a simple user-friendly way to assure multi-fiber network continuity quickly, correctly, and efficiently."
+    - ID: "59ec008e-95ec-4c06-9189-09d4acaf1d7e"
+      Hint: ProductCategory
+      Value: |
+        {98A1C258-FE55-4A33-80BC-8E9EDA6F31DF}
+        {B4AB3272-6DF1-4C83-B651-D37485046628}
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\archana
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: "MFIS, MFT, MFI, MFP, Multi-Fiber test equipment, Multi-Fiber Network, network continuity assurance, Multi-Fiber Identification System, Multi-Fiber Tracer, Multi-Fiber Identifier, Multi-Fiber Power Meter,"
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: MFIS Multi Fiber Identification System
+    - ID: "646d0f97-6838-4bff-800d-895747365401"
+      Hint: AFLDocumentList
+      Value: 
+    - ID: "72653cc9-973c-4682-b5c7-26d926959f8f"
+      Hint: ProductImage
+      Value: |
+        <image stylelabs-content-id="48558" src="https://afl-delivery.stylelabs.cloud/api/public/content/929b18fe114143d8868ca83fbc830f69?v=564f28b2" stylelabs-content-type="Image" alt="MFIS Multi-Fiber Identification System" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/48558/thumbnail" />
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: MFIS Multi Fiber Identification System
+    - ID: "8b978017-d437-40aa-b31d-bbf1d560a0cb"
+      Hint: DownloadFileLink
+      Value: |
+        <link id="{B35BC814-45EB-4B8D-B934-E36173BD69D0}" querystring="" target="_blank" text="SPECIFICATION SHEET" anchor="" title="" class="" url="/sitecore/media library/Project/AFL-Global/Product Specification Sheet/Test and Inspection/Fiber Identification/MFIS-00-2000_1" linktype="media" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d0b891af-0346-4003-9ecc-0a45a43c3f52"
+    - ID: "93dc88f3-05e5-482d-9b9a-c859c8258a73"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="268726" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/268726/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/f06221dd9f3543c799fc97567d1e9802?v=25d4f6d9" stylelabs-content-type="Image" alt="Test-VFI.jpg" height="465" width="1336" />
+    - ID: "ab4c1906-c756-4771-818b-3683089665ee"
+      Hint: ProductMediaItems
+      Value: |
+        {217A7655-AD0A-4947-BE63-C68ECE397215}
+        {DA7794E0-C53E-4608-A393-F39AE8FDC2A0}
+        {6BC19E93-FADE-4EC1-8655-368D98232B5E}
+        {FAD08540-8833-4E2C-9705-834AFC8A8FC2}
+        {28364892-6EE0-4720-9F85-C76AAE90B447}
+    - ID: "ad694352-89e0-4ab7-90e6-1ec187afd032"
+      Hint: AFLVideoList
+      Value: "{9FD00ED3-AB5F-42A9-9AC9-121F6354B077}"
+    - ID: "af4f5f0d-745a-4af7-aee7-2002f0430999"
+      Hint: ProductTitle
+      Value: "MFIS Multi-Fiber Identification System"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d1f74386-05c3-4c80-aa18-38d21db05fdf"
+      Hint: ProductId
+      Value: 2556
+    - ID: "d93ad815-376a-43bf-b34b-cbad0b1b7128"
+      Hint: ProductLongDescription
+      Value: |
+        Multi-Fiber network construction is time consuming, complicated, and often built by more than one crew with mixed sets of documentation. However carefully the build-out is done, mistakes such as mislabeling can happen. How can the network operator have full confidence in their network continuity? AFL&rsquo;s Multi-Fiber Identification System (MFIS) can provide 100% multi-fiber network continuity assurance and senior management peace of mind. The MFIS test system is a simple user-friendly way to verify network construction quickly, correctly, and efficiently.<br />
+        &nbsp;<br />
+        Designed to address both the service provider and enterprise markets, the MFIS test system, with its embedded digital coding, called Fiber ID, is used during and after multi-fiber network construction activities to give managers confidence and peace of mind with respect to fiber network documentation accuracy.<br />
+        <br />
+        <h2>   <strong>MFT &mdash; Multi-fiber Tracer</strong></h2>
+        The MFT is a single power (MTP), twelve-fiber output 1550 nm source. It is designed around 12 discrete laser sources (1550 nm singlemode) tied to an MTP fan-out connector. It is packaged in a light and sturdy case. One single button operation is designed to quickly send laser light with embedded Fiber ID signals down the network for MFI (Multi-Fiber Identifier) and/or MFP (Multi-Fiber Power Meter) to provide automatic fiber identification.<br />
+        <br />
+        <h2>   <strong>MFI &mdash; Multi-fiber Identifier</strong></h2>
+        MFI is designed to detect the presence of digitally coded laser light in the optical fiber network under test. The unit is activated by inserting the fiber under test into the clamp and pulling the trigger, located on the underside of the MFI. The LCD displays the fiber identification number.<br />
+        MFI detects the digitally coded data bursts transmitted by the MFT when the MFI is clamped on the fiber under test.<br />
+        <br />
+        <h2>   <strong>MFP &mdash; Multi-fiber Power Meter</strong></h2>
+        &nbsp;MFP is designed to detect the presence of digitally coded laser light emitted from the MFT while in Fiber ID mode. It is also designed to use as a regular power meter.
+        <p>&nbsp;</p>
+        <h3 style="font-size: 16px; margin-bottom: 5px;">   Ordering Information</h3>
+        <table border="1" cellpadding="5" cellspacing="0">
+            <tbody>
+                <tr style="background-color:#f1f1f1;">
+                    <td id="title">      DESCRIPTION</td>
+                    <td id="title">      AFL NO.</td>
+                </tr>
+                <tr>
+                    <td>      Basic Kit: includes MFT, MFI, 12-fiber cable, One-Click Cleaner MPO, One-Click Cleaner Mini-100</td>
+                    <td>      MFTI-12-BAS</td>
+                </tr>
+                <tr>
+                    <td>      Basic Kit: includes MFT, MFP, 12-fiber cable, One-Click Cleaner MPO, One-Click Cleaner Mini-100</td>
+                    <td>      MFTP1-12-BAS</td>
+                </tr>
+                <tr>
+                    <td>      Basic Kit: includes MFT, MFI, MFP 12-fiber cable, One-Click Cleaner MPO, One-Click Cleaner Mini-100</td>
+                    <td>      MFTIP1-12-BAS</td>
+                </tr>
+                <tr>
+                    <td>      Multi-Fiber Identifier, no case</td>
+                    <td>      MFI1-00-0900MR</td>
+                </tr>
+                <tr>
+                    <td>      Multi-Fiber Power Meter, no case</td>
+                    <td>      MFP1-12-0900MR</td>
+                </tr>
+                <tr style="background-color:#efefef;">
+                    <td>      ACCESSORIES</td>
+                    <td>      &nbsp;</td>
+                </tr>
+                <tr>
+                    <td>      Cable, MPO/APC(M)-SC/APC, 12-fiber, SM, FANOUT, 3 METER</td>
+                    <td>      8700-00-0198MR</td>
+                </tr>
+                <tr>
+                    <td>      Cable, MPO/APC(M)-SC/UPC, 12-fiber, SM, FANOUT, 3 METER</td>
+                    <td>      8700-00-0200MR</td>
+                </tr>
+                <tr>
+                    <td>      Cable, MPO/APC(M)-LC/UPC, 12-fiber, SM, FANOUT, 3 METER</td>
+                    <td>      8700-00-0201MR</td>
+                </tr>
+                <tr>
+                    <td>      One-Click Cleaner MPO (500 cleans)</td>
+                    <td>      8500-05-0030MZ</td>
+                </tr>
+                <tr>
+                    <td>      One-Click Mini-100 SC, ST, FC (100+ cleans)</td>
+                    <td>      8500-05-0005MZ</td>
+                </tr>
+            </tbody>
+        </table>
+        &nbsp;<br />
+        <br />
+        <style>
+            table {
+            border-collapse: collapse;
+            border-spacing: 0;
+            width: 100% !important;
+            border: 1px solid #ddd;
+            background-color: #FFFFFF;
+            }
+            th, td {
+            text-align: left;
+            padding: 16px;
+            }
+            tr:nth-child(even) {
+            background-color: rgba(128, 128, 128, 0.07);
+            }
+            #title {
+            background-color: #00c0f3 !important;
+            color: #FFFFFF !important;
+            }
+            td {
+            padding: 15px !important;
+            border-right: 1px solid rgba(128, 128, 128, 0.5) !important;
+            border-bottom: 1px solid rgba(128, 128, 128, 0.5) !important;
+            border-top-color: rgba(128, 128, 128, 0.5) !important;
+            border-left-color: rgba(128, 128, 128, 0.5) !important;
+            border-top-style: solid !important;
+            border-left-style: solid !important;
+            text-align: left !important;
+            line-height: 1.5 !important;
+            display: table-cell !important;
+            }
+            .afl-subPages table tbody tr td {
+            font-size: 15px !important;
+            }
+            tr:hover {
+            background-color: #e6e6e6;
+            }
+        </style>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231122T212533Z
+    - ID: "ef2f63f2-c942-49a5-9c43-ebcfec40337e"
+      Hint: ProductName
+      Value: "MFIS Multi-Fiber Identification System"
+    - ID: "fb72ff1d-6b1d-4970-916a-8162ff077e62"
+      Hint: ProcutItems
+      Value: |
+        {C942D14E-12FB-468B-A8A2-96CB150C250F}
+        {4CB4B513-E071-4C55-956F-F149AB5F4112}
+        {B848144D-FBFB-46AE-A7FD-2EA4053631F4}
+        {787DD9BC-EDA7-4251-B706-A4DCA79ED638}
+        {F7D3DC6B-0A5B-436A-9966-86F40F1AA7FE}

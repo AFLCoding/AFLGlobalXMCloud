@@ -1,0 +1,226 @@
+﻿---
+ID: "85fff507-821f-496b-b850-35f2980e462d"
+Parent: "f8751a9d-ffbe-48cb-a23b-0fb484992c98"
+Template: "231b4589-f8fc-498f-b0f6-64fabecbc7b9"
+Path: /sitecore/content/AFLGlobal/APAC/Home/Products/Fiber Optic Cleaning/One Click Cleaner Mini
+SharedFields:
+- ID: "1fbc6a49-6281-48ee-87e9-a3970b145adb"
+  Hint: NavigationFilter
+  Value: |
+    {E0A2A027-0932-4878-A7D6-0416D5263EFB}
+    {61BD64D6-809E-40AE-9297-2724A19329B3}
+    {D063E9D1-C7B5-4B1E-B31E-69886C9C59F5}
+    {500AE4C0-FA7B-463F-8149-EFFF7F044101}
+    {A0E7FF57-6994-4B09-AA21-104239628D5A}
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{DA631FB5-51B3-49F6-9915-732D093CF221}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: 
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 700
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "16863469-616f-4d9e-a66f-02c79610ddaa"
+      Hint: ProductShortDescription
+      Value: "Offering the same technology and performance as the original, the One-Click® Cleaner is now available in a smaller, more compact size, which allows for cleaning of connectors in tighter places. Its smaller size also makes it a great addition to test kits and cleaning kits. "
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220303T154353Z
+    - ID: "36d9d67b-3610-4327-963e-e209239944d7"
+      Hint: ProductApplication
+      Value: |
+        <h3 style="font-size: 16px; padding-bottom: 5px;">Applications:</h3><ul class="productDetailApplications">
+         <li>Cleans connectors on jumpers and in adapters</li>
+         <li>Available for SC, FC, ST, LC and MU connectors</li>
+         <li>A perfect addition to any test or cleaning kit</li>
+         <li>A must-have for field technicians</li>
+         
+         
+         
+         
+         
+         
+        </ul>
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4dda6e0a-1c9d-4a8d-890f-11a8eddc2f11"
+      Hint: ProductFeatures
+      Value: |
+        <h3 style="font-size: 16px; padding-bottom: 5px;">Features:</h3><ul class="productDetailFeatures">
+         <li>Small compact design with single action cleaning</li>
+         <li>Automatically advance ensures each clean is performed with fresh cleaning tape</li>
+         <li>100 clean and 500 clean versions available</li>
+         <li>Low cost per clean</li>
+         
+         
+         
+         
+         
+         
+        </ul>
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: One Click Cleaner Mini
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\archana
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: "Offering the same technology and performance as the original, the One-Click® Cleaner is now available in a smaller, more compact size, which allows for cleaning of connectors in tighter places. Its smaller size also makes it a great addition to test kits and cleaning kits. "
+    - ID: "59ec008e-95ec-4c06-9189-09d4acaf1d7e"
+      Hint: ProductCategory
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\archana
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: "One-Click Mini, One-Click Cleaner Mini, One-Click Cleaner Mini-100, One-Click Cleaner Mini-500, Mini-100, Mini-500, One-Click Mini-100, One-Click Mini-500"
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: One Click Cleaner Mini
+    - ID: "72653cc9-973c-4682-b5c7-26d926959f8f"
+      Hint: ProductImage
+      Value: |
+        <image stylelabs-content-id="187869" src="https://afl-delivery.stylelabs.cloud/api/public/content/5b61d31027074e7586135bd898990cc9?v=0817dcb0" stylelabs-content-type="Image" alt="One-Click� Cleaner Mini" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/187869/thumbnail" />
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: One Click Cleaner Mini
+    - ID: "8b978017-d437-40aa-b31d-bbf1d560a0cb"
+      Hint: DownloadFileLink
+      Value: |
+        <link id="{61B28BBD-5C8A-48A5-AD0E-E31C96987736}" querystring="" target="_blank" text="SPECIFICATION SHEET" anchor="" title="" class="" url="/sitecore/media library/Project/AFL-Global/Product Specification Sheet/Test and Inspection/Fiber Inspection and Cleaning/PTC-00-2000_5" linktype="media" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2c972af2-f64d-4380-9c24-aa369a9e64b3"
+    - ID: "93dc88f3-05e5-482d-9b9a-c859c8258a73"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="169964" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/169964/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/d868aae617834c42a85a52aae883c09c?v=36be80fe" stylelabs-content-type="Image" alt="Test_Cleaning.jpg" height="465" width="1336" />
+    - ID: "af4f5f0d-745a-4af7-aee7-2002f0430999"
+      Hint: ProductTitle
+      Value: "One-Click® Cleaner Mini"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d1f74386-05c3-4c80-aa18-38d21db05fdf"
+      Hint: ProductId
+      Value: 2582
+    - ID: "d93ad815-376a-43bf-b34b-cbad0b1b7128"
+      Hint: ProductLongDescription
+      Value: |
+        Cleaning saves time and money.&nbsp; Dirty connectors cause a major percentage of fiber optic network failures. Prevention is a simple as cleaning connectors!<br />
+        <br />
+        <strong>With Innovative Push-to-Clean Design</strong><br />
+        <br />
+        The One-Click&reg; Cleaner is an easy-to-use option for cleaning connectors on jumpers and in adapters. Simply insert the One-Click Cleaner into an adapter and push until an audible &ldquo;click&rdquo; is heard. The One-Click Cleaner uses the mechanical push action to advance an optical grade cleaning tape while the cleaning tip is rotated to ensure the fiber end-face is effectively, but gently cleaned. The One-Click Cleaner is a must-have for field technicians. Small enough to fit in a shirt pocket and a great addition to cleaning kits. Save your wrist &ndash; no more twist!<br />
+        <br />
+        <strong>Compact One-Click Cleaner Mini: </strong>Offering the same technology and performance as the original, the One-Click Cleaner is now available in a smaller, more compact size, which allows for cleaning of connectors in tighter places. Its smaller size also makes it a great addition to test kits and cleaning kits. The One-Click Mini that is offered by AFL as a low cost solution with 100+ cleans per unit is now also available with same 500+ cleans per unit as the standard One-Click. The One-Click Mini is an effective, easy-to-use cleaning solution for SC, ST, FC, LC, MU and TFOCA connectors<br />
+        <br />
+        <strong>Ordering Information&nbsp;</strong><br />
+        &nbsp;<br />
+        <table border="0" cellpadding="0" cellspacing="0" width="672">
+            <tbody>
+                <tr>
+                    <td id="title" style="width: 151px; height: 20px; white-space: nowrap;">      <strong>PART NUMBER</strong></td>
+                    <td id="title" style="width: 474px; height: 20px; white-space: nowrap;">      <strong>DESCRIPTION</strong></td>
+                </tr>
+                <tr>
+                    <td style="width: 151px; height: 20px; white-space: nowrap;">      8500-05-0005MZ</td>
+                    <td style="width: 474px; height: 20px; white-space: nowrap;">      One-Click Cleaner Mini-100 SC, ST, FC (100 cleans)</td>
+                </tr>
+                <tr>
+                    <td style="width: 151px; height: 20px; white-space: nowrap;">      8500-05-0006MZ</td>
+                    <td style="width: 474px; height: 20px; white-space: nowrap;">      One-Click Cleaner Mini-100 LC/MU (100 cleans)</td>
+                </tr>
+                <tr>
+                    <td style="width: 151px; height: 20px; white-space: nowrap;">      8500-05-0009MZ</td>
+                    <td style="width: 474px; height: 20px; white-space: nowrap;">      One-Click Cleaner Mini-500 SC, ST, FC (500 cleans)</td>
+                </tr>
+                <tr>
+                    <td style="width: 151px; height: 20px; white-space: nowrap;">      8500-05-0010MZ</td>
+                    <td style="width: 474px; height: 20px; white-space: nowrap;">      One-Click Cleaner Mini-500 LC/MU (500 cleans)</td>
+                </tr>
+            </tbody>
+        </table>
+        <br />
+        <strong>Cleaning Facts:</strong><br />
+        &bull; Cleaning Saves Time and Money!<br />
+        &bull; Dirty connectors cause a major percentage of fiber optic network failures.<br />
+        &bull; Prevention is simple &ndash; Clean Connectors!<br />
+        &bull; Proper cleaning saves money &ndash; by eliminating service calls caused by dirty connectors<br />
+        &bull; Proper cleaning extends the life of connects and reduces replacement costs<br />
+        &bull; Clean connectors maximize the performance of the network and reduce repair cost<br />
+        <br />
+        <style>
+            table {
+            border-collapse: collapse;
+            border-spacing: 0;
+            width: 100% !important;
+            border: 1px solid #ddd;
+            background-color: #FFFFFF;
+            }
+            th, td {
+            text-align: left;
+            padding: 16px;
+            }
+            tr:nth-child(even) {
+            background-color: rgba(128, 128, 128, 0.07);
+            }
+            #title {
+            background-color: #00c0f3 !important;
+            color: #FFFFFF !important;
+            }
+            td {
+            padding: 15px !important;
+            border-right: 1px solid rgba(128, 128, 128, 0.5) !important;
+            border-bottom: 1px solid rgba(128, 128, 128, 0.5) !important;
+            border-top-color: rgba(128, 128, 128, 0.5) !important;
+            border-left-color: rgba(128, 128, 128, 0.5) !important;
+            border-top-style: solid !important;
+            border-left-style: solid !important;
+            text-align: left !important;
+            line-height: 1.5 !important;
+            display: table-cell !important;
+            }
+            .afl-subPages table tbody tr td {
+            font-size: 15px !important;
+            }
+            tr:hover {
+            background-color: #e6e6e6;
+            }
+        </style>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231122T212536Z
+    - ID: "ef2f63f2-c942-49a5-9c43-ebcfec40337e"
+      Hint: ProductName
+      Value: "One-Click® Cleaner Mini"
+    - ID: "fb72ff1d-6b1d-4970-916a-8162ff077e62"
+      Hint: ProcutItems
+      Value: |
+        {4C0699D0-15A6-4217-AB1C-0DCEC426F1FF}
+        {E0E6F90A-FC55-45B1-9EA7-1BFCC3FD63C8}
+        {2DB58564-026C-46C3-9694-7527C5B37605}
+        {F2A51A75-6379-4D00-900F-AD05991D7EEB}
+        {848F898D-030C-4C05-9CCA-09B9E9027460}
+        {E3E4755D-93D4-4605-A6ED-73A1D488B299}
+        {B080B4B9-965E-49F5-BADA-BAC6FFC74C2A}
+        {2258DB32-3ADF-4D95-8756-AEEBE28FB3F8}
+        {DA3A379E-895A-4615-B5CC-92DB36DA85A5}
+        {7192BF27-5E4B-4237-8E49-23D3452D2F76}
+        {A9B27E10-666E-4F6D-B977-1C422C9D5159}
+        {1638DFE5-093B-4B87-8898-A7CD08B97987}
+        {E622FFB3-59F8-4D19-B687-C5BB60FFBE6B}
+        {EB946BB0-CFFB-47A4-9CC7-9D0603129296}
+        {0998B660-D14C-4292-806C-AB4A621C7EA0}

@@ -1,0 +1,38 @@
+﻿---
+ID: "6d865d03-0dde-4fe8-95aa-84d0db75068b"
+Parent: "998771e5-4b86-4e4c-9d24-7799966f6ac5"
+Template: "178e3cec-ca03-4c76-9ad3-122297e19e13"
+Path: "/sitecore/content/AFLGlobal/APAC/Home/Products/Test and Inspection/Accessories/OTDR Fiber Rings/Additional Image/Port-Saver"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220405T050836Z
+    - ID: "4f4e6526-41d1-4a67-ba95-3cf65c6a6462"
+      Hint: ImgaeUrl
+      Value: |
+        <image stylelabs-content-id="227752" src="https://afl-delivery.stylelabs.cloud/api/public/content/6d7856b4e2634960917dcc39ab7881f8?v=3e104a84" stylelabs-content-type="Image" alt="597" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/227752/thumbnail" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mahesh
+    - ID: "80203708-a0db-4f4b-bd18-b5f74b33756d"
+      Hint: ImageTitle
+      Value: "Port-Saver"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c2dfeeda-6571-48fb-97fd-d467bda6b4c0"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahesh
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220405T050836Z

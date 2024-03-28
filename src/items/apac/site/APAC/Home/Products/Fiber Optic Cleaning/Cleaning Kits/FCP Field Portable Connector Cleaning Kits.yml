@@ -1,0 +1,199 @@
+﻿---
+ID: "7cfc9bf9-6502-465b-9860-6fdf1a928143"
+Parent: "872f861b-207f-41f8-9c45-c491c5110012"
+Template: "231b4589-f8fc-498f-b0f6-64fabecbc7b9"
+Path: /sitecore/content/AFLGlobal/APAC/Home/Products/Fiber Optic Cleaning/Cleaning Kits/FCP Field Portable Connector Cleaning Kits
+SharedFields:
+- ID: "1fbc6a49-6281-48ee-87e9-a3970b145adb"
+  Hint: NavigationFilter
+  Value: |
+    {E0A2A027-0932-4878-A7D6-0416D5263EFB}
+    {61BD64D6-809E-40AE-9297-2724A19329B3}
+    {D063E9D1-C7B5-4B1E-B31E-69886C9C59F5}
+    {500AE4C0-FA7B-463F-8149-EFFF7F044101}
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{DA631FB5-51B3-49F6-9915-732D093CF221}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: 
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 101
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "16863469-616f-4d9e-a66f-02c79610ddaa"
+      Hint: ProductShortDescription
+      Value: "FCP Cleaning Kits from AFL offer a complete selection of fiber optic cleaning products for field cleaning of connector end-faces in a convenient duffle bag style carry case. The Basic FCP2 Cleaning Kit includes FCC2 cleaning fluid, FCC3 Debris Destroyer, One-Clicks for SC, ST, FC, LC and MU connectors, FiberWipes, and a Cletop SB."
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220303T154347Z
+    - ID: "36d9d67b-3610-4327-963e-e209239944d7"
+      Hint: ProductApplication
+      Value: |
+        <h3 style="font-size: 16px; padding-bottom: 5px;">Applications:</h3><ul class="productDetailApplications">
+        	<li>Complete kits for cleaning SC, ST, FC, LC, MU, and MPO connectors</li>
+        	<li>Includes products for cleaning connectors on jumpers and through bulkhead adapters</li>
+        	<li>Includes wet and dry cleaning products to effectively clean a variety of contaminants</li>
+        	<li>Clean, inspect and test</li>
+        	
+        	
+        	
+        	
+        	
+        	
+        </ul>
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4dda6e0a-1c9d-4a8d-890f-11a8eddc2f11"
+      Hint: ProductFeatures
+      Value: |
+        <h3 style="font-size: 16px; padding-bottom: 5px;">Features:</h3><ul class="productDetailFeatures">
+        	<li>Complete kits for field cleaning connectors on jumpers and through bulkhead adapters</li>
+        	<li>MPO/MTP Option - basic cleaning kit plus MPO/MTP cleaner</li>
+        	<li>Inspection Option - basic cleaning kit plus OFS300-200 scope</li>
+        	<li>Inspection and Loss Test Kit Option - basic cleaning plus OFS300-200, CSS1-SM, CSS1-MM, and CSM1-2</li>
+        	
+        	
+        	
+        	
+        	
+        	
+        </ul>
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: FCP Field Portable Connector Cleaning Kits
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\archana
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: "FCP Cleaning Kits from AFL offer a complete selection of fiber optic cleaning products for field cleaning of connector endfaces in a convienant duffle bag style carry case. The Basic FCP2 Cleaning Kit includes FCC2 cleaning fluid, FCC3 Debris Destroyer, One-Clicks for SC, ST, FC, LC and MU connectors, FiberWipes, and a Cletop SB. The carry case has room to add additional cleaning supplies, inspection scope, or test equipment.  "
+    - ID: "59ec008e-95ec-4c06-9189-09d4acaf1d7e"
+      Hint: ProductCategory
+      Value: "{13FF60DF-3B4E-4B79-BC7F-0A7E20926B27}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\archana
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: "FCC2, FCC3, One-Click, FiberWipes, IBC Brand, Fiber optic connector cleaning kit, connector cleaning kit, Cletop, Optipop, fiber optic connector cleaning"
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: FCP Field Portable Connector Cleaning Kits
+    - ID: "72653cc9-973c-4682-b5c7-26d926959f8f"
+      Hint: ProductImage
+      Value: |
+        <image stylelabs-content-id="187872" src="https://afl-delivery.stylelabs.cloud/api/public/content/1407d34772d94220866fe7f47d4d188a?v=50024760" stylelabs-content-type="Image" alt="FCP Field Portable Connector Cleaning Kits" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/187872/thumbnail" />
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: FCP Field Portable Connector Cleaning Kits
+    - ID: "8b978017-d437-40aa-b31d-bbf1d560a0cb"
+      Hint: DownloadFileLink
+      Value: |
+        <link id="{DF229641-A76D-471D-9387-44D4916F0329}" querystring="" target="_blank" text="SPECIFICATION SHEET" anchor="" title="" class="" url="/sitecore/media library/Project/AFL-Global/Product Specification Sheet/Test and Inspection/Fiber Inspection and Cleaning/CKIT-00-2000_1" linktype="media" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c6cc7100-d68d-4db1-ae46-0557907012a7"
+    - ID: "93dc88f3-05e5-482d-9b9a-c859c8258a73"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="267964" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/267964/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/39a21d49f7b147bc935d9ab4eec02290?v=98188d49" stylelabs-content-type="Image" alt="Cleaning-Kits.jpg" height="465" width="1336" />
+    - ID: "af4f5f0d-745a-4af7-aee7-2002f0430999"
+      Hint: ProductTitle
+      Value: FCP Field Portable Connector Cleaning Kits
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d1f74386-05c3-4c80-aa18-38d21db05fdf"
+      Hint: ProductId
+      Value: 2578
+    - ID: "d93ad815-376a-43bf-b34b-cbad0b1b7128"
+      Hint: ProductLongDescription
+      Value: |
+        <p>   FCP Cleaning Kits from AFL&nbsp;offer a complete selection of fiber optic cleaning products for field cleaning of connector endfaces in a convenient carry case. The Basic FCP2 Cleaning Kit includes FCC2 cleaning fluid, FCC3 Debris Destroyer&trade;, One-Clicks for SC, ST, FC, LC and MU connectors, FiberWipes, and a Cletop SB.<br />
+        <br />
+        Cleaning Facts:</p>
+        <ul>
+            <li>    Cleaning Saves Time and Money!</li>
+            <li>    Dirty connectors cause a major percentage of fiber optic network failures.</li>
+            <li>    Prevention is simple &ndash; Clean Connectors!</li>
+            <li>    Proper cleaning saves money &ndash; by eliminating service calls caused by dirty connectors</li>
+            <li>    Proper cleaning extends the life of connects and reduces replacement costs</li>
+            <li>    Clean connectors maximize the performance of the network and reduce repair cost</li>
+        </ul>
+        <h3>   Ordering Information:</h3>
+        <table class="product-table">
+            <tbody>
+            </tbody>
+            <thead>
+                <tr>
+                    <th>      <strong>&nbsp;Description</strong></th>
+                    <th>      <strong>&nbsp;AFL NO.</strong></th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>      &nbsp;Basic Cleaning Kit with Carry Case.&nbsp; Includes: One-Clicks for SC, ST, FC, LC, and MU connectors,&nbsp; &nbsp;FCC2 cleaning fluid, FCC3 Debris Destroyer, FiberWipes, Cletop SB.</td>
+                    <td>      &nbsp;FCP2-10-0900</td>
+                </tr>
+                <tr>
+                    <td>      &nbsp;Basic Cleaning Kit with MPO Cleaners and Carry Case.&nbsp; Includes: One-Clicks for SC, ST, FC, LC,&nbsp; &nbsp;MU, and MPO connectors, FCC2 cleaning fluid, FCC3 Debris Destroyer, FiberWipes, Cletop SB.</td>
+                    <td>      &nbsp;FCP2-00-0901</td>
+                </tr>
+                <tr>
+                    <td>      &nbsp;Basic Cleaning Kit with Carry Case.&nbsp; Includes: One-Clicks SC, Mini One-Click LC, FiberWipes,&nbsp; &nbsp;FCC2 cleaning fluid.</td>
+                    <td>      &nbsp;FCP2-00-0902</td>
+                </tr>
+                <tr>
+                    <td>      &nbsp;Basic Easy-Access Cleaning Kit. Includes: FCC2 Fiber Connector Cleaner And Preparation Fluid&nbsp; &nbsp;(can), FCC3 Debris Destroyer Fiber Optic Cleaning Pen, CCTS-12 (for 1.25 mm ferrule) and&nbsp; &nbsp;CCTS-&nbsp; 25 (for 2.5 mm ferrule) Connector Cleaning Tips, Cletop-S, Type B with White Tape, One-&nbsp; &nbsp;Click Cleaners (SC, LC/MU, Ultra 2.5, MPO), Soft Carry Case.</td>
+                    <td>      &nbsp;FCP3-00-0900</td>
+                </tr>
+                <tr>
+                    <td>      &nbsp;Enterprise Easy-Access Cleaning Kit. Includes:&nbsp;FCC2 Fiber Connector Cleaner And Preparation&nbsp; &nbsp;Fluid (can), FCC3 Debris Destroyer Fiber Optic Cleaning Pen, CCTS-12 (for 1.25 mm ferrule) and&nbsp; &nbsp; &nbsp;CCTS-25 (for 2.5 mm ferrule) Connector Cleaning Tips, Cletop-S, Type B with White Tape, One-&nbsp; &nbsp;Click Cleaners (Duplex LC, LC/MU, Ultra 2.5, MPO), Soft Carry Case.</td>
+                    <td>      &nbsp;FCP3-00-0901</td>
+                </tr>
+                <tr>
+                    <td colspan="2" style="width:648px;">      <strong>&nbsp;FCP2 Kits Reordering Items</strong></td>
+                </tr>
+                <tr>
+                    <td>      &nbsp;Refill for Basic Cleaning Kit (No Carry Case).&nbsp; Includes One-Clicks for SC, ST, FC, LC, and MU&nbsp; &nbsp;connectors, FCC2 cleaning fluid, FCC3 Debris Destroyer, FiberWipes, and Cletop SB.&nbsp;</td>
+                    <td>      &nbsp;FCPR-10-0900</td>
+                </tr>
+                <tr>
+                    <td>      &nbsp;Field Portable Duffle Bag Cleaning Supplies Carry Case.</td>
+                    <td>      &nbsp;1400-01-0095PZ</td>
+                </tr>
+            </tbody>
+        </table>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231122T212536Z
+    - ID: "ef2f63f2-c942-49a5-9c43-ebcfec40337e"
+      Hint: ProductName
+      Value: FCP Field Portable Connector Cleaning Kits
+    - ID: "fb72ff1d-6b1d-4970-916a-8162ff077e62"
+      Hint: ProcutItems
+      Value: |
+        {50ED9A01-D688-4E9D-A4E6-D23F20B40E7F}
+        {6FE311D9-6E70-437F-814E-10BA24A761F1}
+        {BD7C8A55-B295-4C6A-89A2-742B04D357D2}
+        {3514313D-F384-4510-AA9F-8A092069E53C}
+        {3DDE41B9-FE46-4752-AB40-A12F1119E407}
+        {4AD7FC70-0820-42C8-A307-F06AF20B3CBA}
+        {2CDED671-0E27-4C25-AD5E-B35DB411A357}
+        {A89E7BB9-7E93-44B5-AB16-0B210FE14C4E}
+        {A8F3E49B-ABBD-4B4E-90DF-1108D915EE85}
+        {5F3F87E3-080D-4052-9395-DD49E6645971}
+        {5A4055D3-E116-4801-B8D8-284CB33A2DB7}
+        {3D9A9F19-B6EC-4DC5-AFA4-1EE41CF4506E}
+        {142B05C9-C6F0-4AF1-AABB-1B81694F9442}
+        {530BF7A4-01F7-45E8-8B26-A57947DCDAD7}
+        {9326F8BF-5FCD-4335-9D8F-1D5E292A4872}

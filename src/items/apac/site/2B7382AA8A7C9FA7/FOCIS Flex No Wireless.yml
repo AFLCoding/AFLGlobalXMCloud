@@ -1,0 +1,35 @@
+﻿---
+ID: "6fe84869-b415-40e8-8607-f2689de09dc2"
+Parent: "02384aa1-10a1-40cf-a7b4-444768c8628d"
+Template: "c14b6289-8ac2-439c-9e5b-40de9f820c3f"
+Path: /sitecore/content/AFLGlobal/APAC/Home/Products/Test and Inspection/Fiber Optic Inspection and Cleaning/Fiber Optic Inspection/FOCIS Flex No Wireless
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "22753447-be25-4035-a3c9-7f875afe8e57"
+      Hint: RedirectUrl
+      Value: |
+        <link id="{322F51C0-78F6-4C53-AC8C-AB128549CDBB}" querystring="" target="" text="" anchor="" title="" class="" url="/AFL-Global/APAC/Home/Products/Test and Inspection/Fiber Optic Inspection and Cleaning/Fiber Optic Inspection" linktype="internal" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20221206T204217Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rafael
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rafael
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "deef7d6c-5671-431b-8f78-219b853a6744"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\matt
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20221228T151247Z

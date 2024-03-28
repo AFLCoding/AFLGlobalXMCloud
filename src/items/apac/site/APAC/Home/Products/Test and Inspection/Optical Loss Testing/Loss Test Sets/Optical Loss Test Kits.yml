@@ -1,0 +1,173 @@
+﻿---
+ID: "02f6d0c5-8ead-4e0d-af08-75a39210f332"
+Parent: "4bd98ce9-d98e-489d-b4fe-4ba1602735d1"
+Template: "231b4589-f8fc-498f-b0f6-64fabecbc7b9"
+Path: /sitecore/content/AFLGlobal/APAC/Home/Products/Test and Inspection/Optical Loss Testing/Loss Test Sets/Optical Loss Test Kits
+SharedFields:
+- ID: "1fbc6a49-6281-48ee-87e9-a3970b145adb"
+  Hint: NavigationFilter
+  Value: |
+    {E0A2A027-0932-4878-A7D6-0416D5263EFB}
+    {61BD64D6-809E-40AE-9297-2724A19329B3}
+    {D063E9D1-C7B5-4B1E-B31E-69886C9C59F5}
+    {500AE4C0-FA7B-463F-8149-EFFF7F044101}
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{8C5922A0-10CD-486E-841D-D3EBB0E4379F}"
+- ID: "9135200a-5626-4dd8-ab9d-d665b8c11748"
+  Hint: __Never publish
+  Value: 1
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{DAE7C21D-4D3B-4257-A95C-9104CD8AF409}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 103
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "16863469-616f-4d9e-a66f-02c79610ddaa"
+      Hint: ProductShortDescription
+      Value: "SLP4-FTTH and SLP4-7 Triple Wave Test Kits with Wave ID and Set Reference - Ideal kits for link loss measurements and certification testing. The SLP4 triple wavelength single-mode test kits SLP4-FTTH and SLP4-7 combine OLS7 Triple Wavelength Laser Source with OPM4 Power Meter. OPM4 high power option allows measurements up to +26 dBm. Need to save results for certification reporting? See SLP5-FTTH and SLP5-7 Test Kits"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211229T041141Z
+    - ID: "36d9d67b-3610-4327-963e-e209239944d7"
+      Hint: ProductApplication
+      Value: |
+        <h3 style="font-size: 16px; padding-bottom: 5px;">Applications:</h3><ul class="productDetailApplications">
+        	<li>Certify multimode and single-mode links per TIA/EIA standards</li>
+        	<li>Passive Optical Networks (PON) testing</li>
+        	<li>Certification report generation with TRM® 2.0 software</li>
+        	<li>Fibre identification for splicing and continuity checking</li>
+        	
+        	
+        	
+        	
+        	
+        	
+        </ul>
+    - ID: "41226286-5d9e-4f56-b67e-a86305f63ef2"
+      Hint: HeroLink4
+      Value: |
+        <link linktype="anchor" text="Get a Quote" url="alf-Form-section" anchor="alf-Form-section" />
+    - ID: "4dda6e0a-1c9d-4a8d-890f-11a8eddc2f11"
+      Hint: ProductFeatures
+      Value: |
+        <h3 style="font-size: 16px; padding-bottom: 5px;">Features:</h3><ul class="productDetailFeatures">
+        	<li>Rugged, dependable, and backed by industry-best 5-year warranty</li>
+        	<li>Wave ID tests up to three wavelengths simultaneously - slashing test time</li>
+        	<li>Field-swappable connector adapters for maximum flexibility</li>
+        	<li>Long battery life from globally available AA batteries</li>
+        	
+        	
+        	
+        	
+        	
+        	
+        </ul>
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Optical Loss Test Kits
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\archana
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: "SLP4-FTTH and SLP4-7 Triple Wave Test Kits with Wave ID and Set Reference - Ideal kits for link loss measurements and certification testing. The SLP4 triple wavelength single-mode test kits SLP4-FTTH and SLP4-7 combine OLS7 Triple Wavelength Laser Source with OPM4 Power Meter. OPM4 high power option allows measurements up to +26 dBm. Need to save results for certification reporting? See SLP5-FTTH and SLP5-7 Test Kits"
+    - ID: "58d47758-922c-4daa-95ae-3cb9c3fee186"
+      Hint: HeroLink3
+      Value: |
+        <link linktype="anchor" text="Resources" url="alf-Resources-section" anchor="alf-Resources-section" />
+    - ID: "59ec008e-95ec-4c06-9189-09d4acaf1d7e"
+      Hint: ProductCategory
+      Value: "{4D07F194-FD8B-4666-A9AA-C10352A9EA49}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\archana
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: slp4, triple, wavelength, loss, test, kits, wave, id, inspection
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: Optical Loss Test Kits
+    - ID: "646d0f97-6838-4bff-800d-895747365401"
+      Hint: AFLDocumentList
+      Value: "{48C86754-E7FE-4ADB-95B8-21F2CF222127}"
+    - ID: "72653cc9-973c-4682-b5c7-26d926959f8f"
+      Hint: ProductImage
+      Value: |
+        <image stylelabs-content-id="48601" src="https://afl-delivery.stylelabs.cloud/api/public/content/44f3a2aa2b11492b830c12dcc643f1e3?v=587317b6" stylelabs-content-type="Image" alt="Optical Loss Test Kits" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/48601/thumbnail" />
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: Optical Loss Test Kits
+    - ID: "8b978017-d437-40aa-b31d-bbf1d560a0cb"
+      Hint: DownloadFileLink
+      Value: |
+        <link text="DOWNLOAD SPECIFICATION SHEET" target="_blank" linktype="media" id="{5C57D5D0-3C32-4DC8-AC3F-C35A2BA38402}" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4aa6c63a-da09-42c1-91cd-0747116f34e2"
+    - ID: "93dc88f3-05e5-482d-9b9a-c859c8258a73"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="169953" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/169953/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/38ce45efee0f43d3861659e585b027e0?v=483c5249" stylelabs-content-type="Image" alt="Optical_Loss_Test.jpg" height="465" width="1336" />
+    - ID: "a40ebd3d-2b41-41fb-90f7-753544ce77c5"
+      Hint: Hero Title1
+      Value: Optical Loss Test Kits
+    - ID: "ab4c1906-c756-4771-818b-3683089665ee"
+      Hint: ProductMediaItems
+      Value: "{8829BD5B-A202-446A-8190-76E40EE1E9CA}"
+    - ID: "af4f5f0d-745a-4af7-aee7-2002f0430999"
+      Hint: ProductTitle
+      Value: Optical Loss Test Kits
+    - ID: "b0b3b4da-e924-4a2d-be19-ec90a4e96f16"
+      Hint: HeroLink2
+      Value: |
+        <link linktype="anchor" text="Description" url="alf-description-section" anchor="alf-description-section" />
+    - ID: "b4c4c695-39e8-4d38-b0ed-4f3f8a9a9c83"
+      Hint: ProductDescriptionHeading
+      Value: Product Description
+    - ID: "b9f9f593-7299-41ca-94d0-cb5fcdbd6fba"
+      Hint: HeroLink1
+      Value: |
+        <link linktype="anchor" text="Features" url="alf-feature-section" anchor="alf-feature-section" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d1f74386-05c3-4c80-aa18-38d21db05fdf"
+      Hint: ProductId
+      Value: 454
+    - ID: "d93ad815-376a-43bf-b34b-cbad0b1b7128"
+      Hint: ProductLongDescription
+      Value: "<div>   Optical Loss Test Sets (OLTS) provide the most accurate method for determining the total loss of a link. AFL&rsquo;s OLTS have been an industry favourite for over 30 years with more than 100,000 units shipped. Leading service providers and enterprise customers rely on AFL&rsquo;s OLTS for their ruggedness, reliability, and best-in-the-industry 5-year warranty.<br />   <br />   An OLTS test is performed with a light source on one end of the fibre sending a continuous wave at specific wavelength(s) and a power meter on the opposite end measuring the light received. The loss measured is compared to the loss budget, which is usually calculated prior to installation, and reflects the industry standards used to ensure that the link can meet its application requirements.<br />   <br />   OLTS are mainly used to certify multimode and single mode links, test Passive Optical Networks (PONs), identify fibers before splicing, and to ensure network continuity.<br />   &nbsp;</div>  <div>   <strong>Designed for use in outside plant environments:</strong> AFL OLTS are extremely rugged and withstand one-meter drops, have splash resistant controls that are easy to use with gloves on, and the field-swappable connector adapters provide flexibility and access for cleaning optical ports at time of test.<br />   &nbsp;</div>  <strong>Test faster with fewer errors:</strong> AFL&rsquo;s Wave ID increases test speed by performing simultaneous multi-wavelength testing that cuts loss measurement time in half or more. AFL&rsquo;s automatic wavelength identification eliminates setup errors and simplifies coordination between users at opposite ends of fibre.<br />  <br />  See specification sheet for full list of models and optional accessories."
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231122T212533Z
+    - ID: "ef2f63f2-c942-49a5-9c43-ebcfec40337e"
+      Hint: ProductName
+      Value: Optical Loss Test Kits
+    - ID: "f68efc18-7857-4353-b933-34beb7947b98"
+      Hint: CTALink
+      Value: |
+        <link text="LOAD MORE" linktype="anchor" url="#" anchor="#" title="" class="" />
+    - ID: "fb72ff1d-6b1d-4970-916a-8162ff077e62"
+      Hint: ProcutItems
+      Value: |
+        {C5B2268A-ECC9-463E-B8AA-72A5ABB04547}
+        {0E0E54E5-2A23-4D43-A12D-1C51FFC3E664}
+        {A79C3C16-525A-49AC-A71A-661C2F3CCF9F}
+        {5848B9BD-045A-41CE-AD16-34D2E7DDF4D0}
+        {381A579A-A738-4C7B-9F0D-2F09809EFCBA}
+        {55441696-1E23-4BAC-953B-4850165ABD99}
+        {5239F570-7431-4EDF-AA15-FFAE48BF4968}
+        {3499C898-F651-4B9F-9DA1-C0438FF53E50}
+        {D22EEE84-9D9B-4BF2-BEAB-45434B741DF0}
+        {3910AE4C-97F5-4AD4-AEA4-7BB42EB8E35B}
+        {4F31788F-32BE-4937-9C41-93D60625EB52}
+        {910997D1-1835-4133-B012-3EC91D7F82B5}

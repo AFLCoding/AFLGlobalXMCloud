@@ -1,0 +1,239 @@
+﻿---
+ID: "ecc969af-2c97-458f-8303-b889c0111e16"
+Parent: "02384aa1-10a1-40cf-a7b4-444768c8628d"
+Template: "231b4589-f8fc-498f-b0f6-64fabecbc7b9"
+Path: /sitecore/content/AFLGlobal/APAC/Home/Products/Test and Inspection/Fiber Optic Inspection and Cleaning/Fiber Optic Inspection/FOCIS Fiber Optic Connector Inspection Systems
+SharedFields:
+- ID: "1fbc6a49-6281-48ee-87e9-a3970b145adb"
+  Hint: NavigationFilter
+  Value: |
+    {E0A2A027-0932-4878-A7D6-0416D5263EFB}
+    {61BD64D6-809E-40AE-9297-2724A19329B3}
+    {D063E9D1-C7B5-4B1E-B31E-69886C9C59F5}
+    {500AE4C0-FA7B-463F-8149-EFFF7F044101}
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{DA631FB5-51B3-49F6-9915-732D093CF221}"
+- ID: "9135200a-5626-4dd8-ab9d-d665b8c11748"
+  Hint: __Never publish
+  Value: 1
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: 
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 105
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "16863469-616f-4d9e-a66f-02c79610ddaa"
+      Hint: ProductShortDescription
+      Value: |
+        The Family of FOCIS integrated fiber inspection solutions provide network personnel with the capability to document fiber connector cleanliness. FOCIS combines a palm-sized DFD1 Touchscreen Tablet, a DFS1 Digital FiberScope and AFL SimpleView Plus inspection software to provide the inspection and analysis power of current laptop and probe solutions and the ergonomics, ease of use, ruggedness and ownership costs of basic "live only" viewers. 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220303T154349Z
+    - ID: "36d9d67b-3610-4327-963e-e209239944d7"
+      Hint: ProductApplication
+      Value: 0
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4dda6e0a-1c9d-4a8d-890f-11a8eddc2f11"
+      Hint: ProductFeatures
+      Value: 0
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: FOCIS Fiber Optic Connector Inspection Systems
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\archana
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: |
+        The Family of FOCIS integrated fiber inspection solutions provide network personnel with the capability to document fiber connector cleanliness. FOCIS combines a palm-sized DFD1 touchscreen Tablet, a DFS1 Digital FiberScope and AFL SimpleView Plus inspection software to provide the inspection and analysis power of current laptop and probe solutions and the ergonomics, ease of use, ruggedless and ownership costs of basic "live only" viewers. 
+    - ID: "59ec008e-95ec-4c06-9189-09d4acaf1d7e"
+      Hint: ProductCategory
+      Value: "{322F51C0-78F6-4C53-AC8C-AB128549CDBB}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\archana
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: "fiber optic inspection, fiberoptic inspection, fibre optic inspection, fibreoptic inspection, fiber optic cleaning, fiberoptic cleaning, fibre optic cleaning, fibreoptic cleaning, lightel, vc-8200, vc-6200, viewconn, vis-300, omd video fiber inspector vis-300, fip-400d, connectormax, jdsu westover, fiberchek2, videoscopes, inspection microscopes, DFS1, lightel di-1000, MPO, MPO/MTP, focus, focs, "
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: FOCIS Fiber Optic Connector Inspection Systems
+    - ID: "72653cc9-973c-4682-b5c7-26d926959f8f"
+      Hint: ProductImage
+      Value: |
+        <image stylelabs-content-id="46493" src="https://afl-delivery.stylelabs.cloud/api/public/content/a68eabbb65b94edd8d40df94956a0a5a?v=769e44a4" stylelabs-content-type="Image" alt="FOCIS Fiber Optic Connector Inspection Systems" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/46493/thumbnail" />
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: FOCIS Fiber Optic Connector Inspection Systems
+    - ID: "8b978017-d437-40aa-b31d-bbf1d560a0cb"
+      Hint: DownloadFileLink
+      Value: |
+        <link id="{B5998C63-8A7A-4FC8-86BC-F8DE1F11931B}" querystring="" target="_blank" text="SPECIFICATION SHEET" anchor="" title="" class="" url="/sitecore/media library/Project/AFL-Global/Product Specification Sheet/Test and Inspection/Fiber Inspection and Cleaning/FOCIS-Data-Sheet" linktype="media" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3a2d2dfe-50ea-46a2-bc20-0715c9541354"
+    - ID: "93dc88f3-05e5-482d-9b9a-c859c8258a73"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="169954" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/169954/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/fb3505cd5c9f419dbfd2851c8b222d11?v=c800b2c1" stylelabs-content-type="Image" alt="Inspection_Clean_TopLevel.jpg" height="465" width="1336" />
+    - ID: "ab4c1906-c756-4771-818b-3683089665ee"
+      Hint: ProductMediaItems
+      Value: |
+        {8EC9A8AF-67F8-4868-9EA7-D35F22F61758}
+        {FF71B997-1A3B-4BAB-AEC0-A7E496F078F2}
+        {73D140AA-99AD-43F4-8421-135EEF9D0443}
+        {EB9D3077-D0F8-4072-86DD-FD2E115526D3}
+        {C67D4811-D62B-4D31-931E-705BEC9A0E66}
+        {D44CB753-86B6-472E-97B6-E79124D6BB34}
+        {727E9009-2083-45A2-AFC3-58BDAF861307}
+        {E437A7FA-8F0D-4F2D-B162-2939F4A93452}
+        {15B57DCB-1C8F-4D77-9B0B-F915B91184B0}
+    - ID: "af4f5f0d-745a-4af7-aee7-2002f0430999"
+      Hint: ProductTitle
+      Value: FOCIS Fiber Optic Connector Inspection Systems
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d1f74386-05c3-4c80-aa18-38d21db05fdf"
+      Hint: ProductId
+      Value: 989
+    - ID: "d93ad815-376a-43bf-b34b-cbad0b1b7128"
+      Hint: ProductLongDescription
+      Value: |
+        <br />
+        The&nbsp;Family of FOCIS integrated fiber inspection solutions provide network personnel with the capability to document fiber connector cleanliness. FOCIS combines a palm-sized DFD1 Touchscreen Tablet, a DFS1 Digital FiberScope and AFL SimpleView Plus inspection software to provide the inspection and analysis power of current laptop and probe solutions and the ergonomics, ease of use, ruggedness and ownership costs of basic "live only" viewers. FOCIS solutions are future-proof because their optical resolution and detection specifications exceed current international standards and their software-based inspection and analysis&nbsp;applications can be upgraded as market requirements&nbsp;evolve.&nbsp;<br />
+        <br />
+        The DFD1 Touchscreen Tablet is a purpose-built, hand-held&nbsp;Windows&reg; computer equipped with AFL SimpleView Plus inspection software. Its bright crisp display provides detailed images and its Zoom/Pan feature allows users to identify the smallest particles, scratches or imperfections. Its portrait orientation makes it easy to hold and operate with just one hand. Unique to FOCIS is a patent-pending feature which simplifies before/after, jumper/bulkhead, input/output&nbsp;and other common fiber cleanliness comparisons. Additional features include image capture and store/recall. Up to 1000 fiber images may be stored in on-board memory and images may be transferred via any off-the-shelf USB memory stick or SD flash card. The DFD1 incorporates a proven shock-absorbing rubber boot that doubles as a tilt stand and hanger.<br />
+        <br />
+        The DFS1 Digital FiberScope is a high-resolution video inspection probe. It is equipped with a focusing knob and an image capture button. An extensive assortment of DFS1 adapter tips allows it to be used with all types of fiber connector ferrules and bulkhead connectors. Bulkhead tips are available in multiple lenghts as well as straight or 60&ordm; angle configurations. Connector adapters are available for PC/UPC, APC polished ferrule in 1.25 mm, 2.5 mm&nbsp;as well as&nbsp;MTP/MPO connectors.<br />
+        <br />
+        FOCIS solutions are packaged in a&nbsp;protective hard carry case that keeps all vital inspection and cleaning tools close at hand and ready to go to work.<br />
+        <br />
+        <h2>   Ordering Information</h2>
+        <br />
+        <table border="1" cellpadding="0" cellspacing="0" height="437" width="623">
+            <tbody>
+                <tr>
+                    <td id="title" colspan="2" style="width: 543px; height: 25px; white-space: nowrap;">      <strong>FOCIS Kits without Adapter Tips and Cleaners</strong></td>
+                    <td id="title" style="width: 112px; height: 25px; white-space: nowrap;">      &nbsp;</td>
+                </tr>
+                <tr>
+                    <td id="title" style="width: 111px; height: 20px; white-space: nowrap;">      Model</td>
+                    <td id="title" style="width: 432px; height: 20px; white-space: nowrap;">      Description</td>
+                    <td id="title" style="width: 112px; height: 20px; white-space: nowrap;">      AFL NO.</td>
+                </tr>
+                <tr>
+                    <td style="width: 111px; height: 40px; white-space: nowrap;">      <strong>FOCIS </strong></td>
+                    <td style="width: 432px; height: 40px;">      <strong>FOCIS Kit. </strong>Includes DFD1 Touchscreen Tablet, SimpleView Plus software, DFS1 Digital FiberScope, AC adapter, reference guides, hard carry case</td>
+                    <td style="width: 112px; height: 40px; white-space: nowrap;">      FOCIS-00-04XN</td>
+                </tr>
+                <tr>
+                    <td style="width: 111px; height: 40px;">      <strong>FOCIS Upgrade Kit for DFS1</strong></td>
+                    <td style="width: 432px; height: 40px;">      <strong>FOCIS Upgrade Kit for DFS1 Owners. </strong>Includes DFD1 Touchscreen Tablet, SimpleView Plus software, AC adapter, reference guides, hard carry case.</td>
+                    <td style="width: 112px; height: 40px; white-space: nowrap;">      FOCIS-00-04NN</td>
+                </tr>
+                <tr>
+                    <td style="width: 111px; height: 20px; white-space: nowrap;">      &nbsp;</td>
+                    <td style="width: 432px; height: 20px; white-space: nowrap;">      &nbsp;</td>
+                    <td style="width: 112px; height: 20px; white-space: nowrap;">      &nbsp;</td>
+                </tr>
+                <tr>
+                    <td id="title" colspan="2" style="width: 543px; height: 25px; white-space: nowrap;">      <strong>FOCIS Kits with Adapter Tips and Cleaners</strong></td>
+                    <td id="title" style="width: 112px; height: 25px; white-space: nowrap;">      &nbsp;</td>
+                </tr>
+                <tr>
+                    <td id="title" style="width: 111px; height: 20px; white-space: nowrap;">      Model</td>
+                    <td id="title" style="width: 432px; height: 20px; white-space: nowrap;">      Description</td>
+                    <td id="title" style="width: 112px; height: 20px; white-space: nowrap;">      AFL NO.</td>
+                </tr>
+                <tr>
+                    <td style="width: 111px; height: 86px;">      <strong>FOCIS&nbsp; UPC Kit</strong></td>
+                    <td style="width: 432px; height: 86px;">      <strong>FOCIS UPC Inspection &amp; Cleaning Kit. </strong>&nbsp;Includes DFD1 Touchscreen Tablet, SimpleView Plus software, DFS1 Digital FiberScope, adapter tips (1.25 &amp; 2.5mm Universal, SC/FC, LC), adapter tip box, One-Click Mini-100 SC/ST/FC, One-Click Mini-100 LC/MU, AC adapter, reference guides, hard carry case.</td>
+                    <td style="width: 112px; height: 86px; white-space: nowrap;">      FOCIS-00-04XU</td>
+                </tr>
+                <tr>
+                    <td style="width: 111px; height: 80px;">      <strong>FOCIS APC Kit</strong></td>
+                    <td style="width: 432px; height: 80px;">      <strong>FOCIS APC Inspection &amp; Cleaning Kit.</strong> Includes DFD1 Touchscreen Tablet, SimpleView Plus software, DFS1 Digital FiberScope, adapter tips (2.5 mm Universal, SC/APC, FC/APC), adapter tip box, One-Click Mini-100 SC/ST/FC, AC adapter, reference guides, hard carry case</td>
+                    <td style="width: 112px; height: 80px; white-space: nowrap;">      FOCIS-00-04XA</td>
+                </tr>
+                <tr>
+                    <td style="width: 111px; height: 80px;">      <strong>FOCIS MPO Kit</strong></td>
+                    <td style="width: 432px; height: 80px;">      <strong>FOCIS MTP/MPO Inspection &amp; Cleaning Kit.</strong> Includes DFD1 Touchscreen Tablet, SimpleView Plus software, DFS1 Digital FiberScope, MTP/PC and MTP/APC adapter tips, One-Click Cleaner MPO, AC adapter, reference guides, hard carry case.</td>
+                    <td style="width: 112px; height: 80px; white-space: nowrap;">      FOCIS-00-04XM</td>
+                </tr>
+            </tbody>
+        </table>
+        <br />
+        <br />
+        <strong>* When placing an order,&nbsp;</strong>select a language option in the following manner:<br />
+        Choose AFL part number from the table above, order by AFL NO. with 3 digita language code appended to the end. Example: FOCIS-00-04XM-JPN for the variant with Japanese lanaguage support.<br />
+        <br />
+        <strong>Language (LLL)<br />
+        ENG =</strong>&nbsp;English<br />
+        <strong>JPN =</strong> Japanese<br />
+        <br />
+        <style>
+            table {
+            border-collapse: collapse;
+            border-spacing: 0;
+            width: 100% !important;
+            border: 1px solid #ddd;
+            background-color: #FFFFFF;
+            }
+            th, td {
+            text-align: left;
+            padding: 16px;
+            }
+            tr:nth-child(even) {
+            background-color: rgba(128, 128, 128, 0.07);
+            }
+            #title {
+            background-color: #00c0f3 !important;
+            color: #FFFFFF !important;
+            }
+            td {
+            padding: 15px !important;
+            border-right: 1px solid rgba(128, 128, 128, 0.5) !important;
+            border-bottom: 1px solid rgba(128, 128, 128, 0.5) !important;
+            border-top-color: rgba(128, 128, 128, 0.5) !important;
+            border-left-color: rgba(128, 128, 128, 0.5) !important;
+            border-top-style: solid !important;
+            border-left-style: solid !important;
+            text-align: left !important;
+            line-height: 1.5 !important;
+            display: table-cell !important;
+            }
+            .afl-subPages table tbody tr td {
+            font-size: 15px !important;
+            }
+            tr:hover {
+            background-color: #e6e6e6;
+            }
+        </style>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231122T212531Z
+    - ID: "ef2f63f2-c942-49a5-9c43-ebcfec40337e"
+      Hint: ProductName
+      Value: FOCIS Fiber Optic Connector Inspection Systems
+    - ID: "fb72ff1d-6b1d-4970-916a-8162ff077e62"
+      Hint: ProcutItems
+      Value: |
+        {7502B3D5-A205-4A7F-8104-08E3D53E00D5}
+        {C31C2D61-0387-436F-AC41-01E679511392}
+        {D53C05A1-FD4C-427E-8812-A05F9F65708A}
+        {84C27700-2377-4795-ABB6-7A7154D95403}
+        {3EA3970D-58C9-446C-8200-F6C5EE901F6B}
+        {8CE5A75E-8948-400B-938F-3AF9C34823D3}
+        {3B21C403-C5AB-47C7-81BC-C757F68819D8}

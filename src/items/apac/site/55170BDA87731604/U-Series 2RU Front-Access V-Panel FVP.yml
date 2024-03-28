@@ -1,0 +1,259 @@
+﻿---
+ID: "541f4e8c-ed85-49f9-a7e7-616597bbe4c6"
+Parent: "24227a0d-7d2c-4118-b6c8-dcda7d5041c6"
+Template: "231b4589-f8fc-498f-b0f6-64fabecbc7b9"
+Path: "/sitecore/content/AFLGlobal/APAC/Home/Products/Fiber Optic Connectivity/Rack Mount Patch Panels/U Series/U-Series 2RU Front-Access V-Panel FVP"
+SharedFields:
+- ID: "1fbc6a49-6281-48ee-87e9-a3970b145adb"
+  Hint: NavigationFilter
+  Value: |
+    {E0A2A027-0932-4878-A7D6-0416D5263EFB}
+    {61BD64D6-809E-40AE-9297-2724A19329B3}
+    {D063E9D1-C7B5-4B1E-B31E-69886C9C59F5}
+    {500AE4C0-FA7B-463F-8149-EFFF7F044101}
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{DA631FB5-51B3-49F6-9915-732D093CF221}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{DAE7C21D-4D3B-4257-A95C-9104CD8AF409}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 106
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "U-Series 2RU Front-Access V-Panel FVP"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "16863469-616f-4d9e-a66f-02c79610ddaa"
+      Hint: ProductShortDescription
+      Value: "The U-Series 2RU Front-Access V-Panel (FVP) facilitates rapid, cold-aisle, front-access splicing and patching of up to 288 fibers utilizing SpiderWeb Ribbon® (SWR®) Technology to pre-loaded, high-performance SWR LC pigtails."
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220914T151428Z
+    - ID: "36d9d67b-3610-4327-963e-e209239944d7"
+      Hint: ProductApplication
+      Value: |
+        <h3 style="color: #282828; background-color: #ffffff; margin: 0px; padding-bottom: 5px;">Applications:</h3>
+        <ul class="productDetailFeatures" style="color: #333333; background-color: #ffffff; margin: 0px 0px 15px; padding: 0px 0px 0px 15px; list-style-image: url('https://www.aflglobal.com/productionFiles/images/bulletRound.aspx');">
+            <li style="margin: 0px 0px 6px;">Hyperscale</li>
+            <li style="margin: 0px 0px 6px;">Colocation</li>
+            <li style="margin: 0px 0px 6px;">Data halls</li>
+            <li style="margin: 0px 0px 6px;">Main Distribution Areas (MDAs)</li>
+            <li style="margin: 0px 0px 6px;">Fiber entrance facilities</li>
+        </ul>
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{EE9BAFE9-A55E-406B-8BBF-45ADF7FF9068}"
+    - ID: "4dda6e0a-1c9d-4a8d-890f-11a8eddc2f11"
+      Hint: ProductFeatures
+      Value: |
+        <h3 style="color: #282828; background-color: #ffffff; margin: 0px; padding-bottom: 5px;">FEATURES:</h3>
+        <ul class="productDetailFeatures" style="color: #333333; background-color: #ffffff; margin: 0px 0px 15px; padding: 0px 0px 0px 15px; list-style-image: url('https://www.aflglobal.com/productionFiles/images/bulletRound.aspx');">
+            <li style="margin: 0px 0px 6px;">State-of-the-art V-shaped design with a slide-out drawer allows for splicing in an ergonomic, modular, sleek interface</li>
+            <li style="margin: 0px 0px 6px;">The slide-out drawer comes pre-loaded with 24f 200&mu;m SpiderWeb Ribbon (<span class="scayt-misspell-word" data-scayt-word="SWR" data-wsc-lang="en_GB" data-wsc-id="kejtx498xsa2ra5cz">SWR</span>) LC Pigtails</li>
+            <li style="margin: 0px 0px 6px;">Ample slack in drawer enables splicing on a workbench at a safe working height as well as multiple re-splices</li>
+            <li style="margin: 0px 0px 6px;">2RU 19&Prime; rack-mount panels are stackable with the possibility of feeding in cable from the left or right</li>
+            <li style="margin: 0px 0px 6px;">Integrated mounting points for cable transitions ensure appropriate management of breakout from cable to splicing area</li>
+            <li style="margin: 0px 0px 6px;">Accommodates 288f within the slide-out drawer, containing 12 x 24f&nbsp;<span class="scayt-misspell-word" data-scayt-word="FVP" data-wsc-lang="en_GB" data-wsc-id="kejtx5rqh4pmp1ya6">FVP</span>&nbsp;LC Cassettes</li>
+            <li style="margin: 0px 0px 6px;">LC quad shuttered adapters help prevent the ingress of dust or debris whilst additionally providing laser eye safety</li>
+            <li style="margin: 0px 0px 6px;">288f or 2 x 144f&nbsp;<span class="scayt-misspell-word" data-scayt-word="SWR" data-wsc-lang="en_GB" data-wsc-id="kejtx6jkuj48jw7oe">SWR</span>&nbsp;cable can be mounted from the left or right</li>
+            <li style="margin: 0px 0px 6px;">6RU option available for the splicing and patching of 864 fibers</li>
+            <li style="margin: 0px 0px 6px;">Pivoting front and back door can be removed during installation</li>
+        </ul>
+        <p>&nbsp;</p>
+        <h3 style="color: #282828; background-color: #ffffff; margin: 0px; padding-bottom: 5px;">Accessories included with shipped panel:</h3>
+        <ul class="productDetailFeatures" style="color: #333333; background-color: #ffffff; margin: 0px 0px 15px; padding: 0px 0px 0px 15px; list-style-image: url('https://www.aflglobal.com/productionFiles/images/bulletRound.aspx');">
+            <li style="margin: 0px 0px 6px;">12 x 24f 200&mu;m SpiderWeb Ribbon (<span class="scayt-misspell-word" data-scayt-word="SWR" data-wsc-lang="en_GB" data-wsc-id="kejtx50d1qf5a1jvz">SWR</span>) LC Pigtails (Pre-Installed)</li>
+            <li style="margin: 0px 0px 6px;">4 x Cable Ties</li>
+            <li style="margin: 0px 0px 6px;">2 x 144f Ribbon Mass Splice Tray</li>
+            <li style="margin: 0px 0px 6px;">12 x 24f Ribbon Splice Protectors</li>
+            <li style="margin: 0px 0px 6px;">2 x M6 Cage Nuts and Screws</li>
+            <li style="margin: 0px 0px 6px;">5m Nylon Braid</li>
+            <li style="margin: 0px 0px 6px;">1.5 x &Oslash;10mm OD Fiber Braid Tube (1m)</li>
+            <li style="margin: 0px 0px 6px;">1 x Electrical Tape</li>
+            <li style="margin: 0px 0px 6px;">2m Velcro</li>
+            <li style="margin: 0px 0px 6px;">2 x Hose Clip</li>
+            <li style="margin: 0px 0px 6px;">4 x M6 10 Screw</li>
+        </ul>
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: "U-Series 2RU Front-Access V-Panel (FVP)"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rafael
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: "The U-Series 2RU Front-Access V-Panel (FVP) facilitates rapid, cold-aisle, front-access splicing and patching of up to 288 fibers utilizing SpiderWeb Ribbon® (SWR®) Technology to pre-loaded, high-performance SWR LC pigtails."
+    - ID: "59ec008e-95ec-4c06-9189-09d4acaf1d7e"
+      Hint: ProductCategory
+      Value: "{BD4E4D6A-8146-4D22-8306-7D724FD6C742}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rafael
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: "U-Series,  2RU, V-Panel, 2RU Front-Access V-Panel, U-Series 2RU"
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: "U-Series 2RU Front-Access V-Panel (FVP)"
+    - ID: "72653cc9-973c-4682-b5c7-26d926959f8f"
+      Hint: ProductImage
+      Value: |
+        <image stylelabs-content-id="308399" stylelabs-content-type="Image" alt="U-Series-2RU-Front-Access-V-Panel-FVP-1536x1024.jpg" src="https://afl-delivery.stylelabs.cloud/api/public/content/U-Series-2RU-Front-Access-V-Panel-FVP-1536x1024?v=4f191d70" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/308399/thumbnail" mediaid="" height="800" width="800" />
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: "U-Series 2RU Front-Access V-Panel (FVP)"
+    - ID: "8b978017-d437-40aa-b31d-bbf1d560a0cb"
+      Hint: DownloadFileLink
+      Value: |
+        <link text="SPECIFICATION SHEET" target="_blank" linktype="media" id="{09156555-3B15-41D7-98E3-D69C06657D90}" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b47bc11e-2b32-488b-8543-0deaf8cf759c"
+    - ID: "93dc88f3-05e5-482d-9b9a-c859c8258a73"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image stylelabs-content-id="170587" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/170587/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/U-Series-web?v=a1779b5a" mediaid="" stylelabs-content-type="Image" alt="U-Series-3RU-Splice-and-Patch-Panel.jpg" height="465" width="1336" />
+    - ID: "ab4c1906-c756-4771-818b-3683089665ee"
+      Hint: ProductMediaItems
+      Value: |
+        {2B9C815D-D629-4012-8E52-E1EF21BB6B2A}
+        {D4C6BF55-105E-44CC-BAEA-0BC04A0B314F}
+        {3C18DAD2-D38A-4967-BEE2-01E6534FF241}
+    - ID: "af4f5f0d-745a-4af7-aee7-2002f0430999"
+      Hint: ProductTitle
+      Value: "U-Series 2RU Front-Access V-Panel (FVP)"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\nawaz.mehdi@altudo.co
+    - ID: "d93ad815-376a-43bf-b34b-cbad0b1b7128"
+      Hint: ProductLongDescription
+      Value: |
+        <p>The U-Series 2RU Front-Access V-Panel (FVP) facilitates rapid, cold-aisle, front-access splicing and patching of up to 288 fibers utilizing SpiderWeb Ribbon&reg; (SWR&reg;) Technology to pre-loaded, high-performance SWR LC pigtails.</p>
+        <p>The one-person rack-mountable unit is easy to work with and both lightweight and sturdy. A slide-out modular drawer is dismounted from the panel so splicing can take place on a workbench at a safe working height. Its V-shaped design provides easy finger access and LC quad shuttered adapters help prevent the ingress of dust or debris whilst additionally providing laser eye safety.</p>
+        <p>&nbsp;</p>
+        <div class="elementor-element elementor-element-22d5ecf elementor-widget elementor-widget-heading" data-id="22d5ecf" data-element_type="widget" data-widget_type="heading.default" style="color: #333333; background-color: #; width: 1120px; margin-bottom: 20px;">
+        <div class="elementor-widget-container">
+        <h3 class="elementor-heading-title elementor-size-default" style="color: var( --e-global-color-primary ); margin: 0px; padding: 0px; line-height: 1;"><strong>Specifications</strong></h3>
+        </div>
+        </div>
+        <div class="elementor-element elementor-element-76f29d0 elementor-widget elementor-widget-text-editor" data-id="76f29d0" data-element_type="widget" data-widget_type="text-editor.default" style="color: var( --e-global-color-text ); background-color: #ffffff; width: 100%; margin-bottom: 20px;">
+        <div class="elementor-widget-container">
+        <table style="background-color: transparent; width: 100%; margin-bottom: 15px; border-spacing: 0px;">
+            <thead>
+                <tr style="color: #ffffff; background-color: #00c0f3;">
+                    <th style="padding: 15px; border-right: 1px solid rgba(128, 128, 128, 0.5); border-bottom: 1px solid rgba(128, 128, 128, 0.5); border-top-color: rgba(128, 128, 128, 0.5); border-left-color: rgba(128, 128, 128, 0.5); border-top-style: solid; border-left-style: solid; line-height: 1.5;">Element</th>
+                    <th style="padding: 15px; border-right: 1px solid rgba(128, 128, 128, 0.5); border-bottom: 1px solid rgba(128, 128, 128, 0.5); border-top-color: rgba(128, 128, 128, 0.5); border-left-color: rgba(128, 128, 128, 0.5); border-top-style: solid; border-left-style: solid; line-height: 1.5;">Characteristic</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td style="background-color: rgba(128, 128, 128, 0.07); padding: 15px; border-right: 1px solid rgba(128, 128, 128, 0.5); border-bottom: 1px solid rgba(128, 128, 128, 0.5); border-top-color: rgba(128, 128, 128, 0.5); border-left-color: rgba(128, 128, 128, 0.5); border-top-style: solid; border-left-style: solid; text-align: left; line-height: 1.5;">Dimensions</td>
+                    <td style="background-color: rgba(128, 128, 128, 0.07); padding: 15px; border-right: 1px solid rgba(128, 128, 128, 0.5); border-bottom: 1px solid rgba(128, 128, 128, 0.5); border-top-color: rgba(128, 128, 128, 0.5); border-left-color: rgba(128, 128, 128, 0.5); border-top-style: solid; border-left-style: solid; text-align: left; line-height: 1.5;">482mm (W) x 559mm (D) x 88mm (H)</td>
+                </tr>
+                <tr>
+                    <td style="padding: 15px; border-right: 1px solid rgba(128, 128, 128, 0.5); border-bottom: 1px solid rgba(128, 128, 128, 0.5); border-top-color: rgba(128, 128, 128, 0.5); border-left-color: rgba(128, 128, 128, 0.5); border-top-style: solid; border-left-style: solid; text-align: left; line-height: 1.5;">Maximum fiber count (ribbon cable)</td>
+                    <td style="padding: 15px; border-right: 1px solid rgba(128, 128, 128, 0.5); border-bottom: 1px solid rgba(128, 128, 128, 0.5); border-top-color: rgba(128, 128, 128, 0.5); border-left-color: rgba(128, 128, 128, 0.5); border-top-style: solid; border-left-style: solid; text-align: left; line-height: 1.5;">288f</td>
+                </tr>
+                <tr>
+                    <td style="background-color: rgba(128, 128, 128, 0.07); padding: 15px; border-right: 1px solid rgba(128, 128, 128, 0.5); border-bottom: 1px solid rgba(128, 128, 128, 0.5); border-top-color: rgba(128, 128, 128, 0.5); border-left-color: rgba(128, 128, 128, 0.5); border-top-style: solid; border-left-style: solid; text-align: left; line-height: 1.5;">Cable entry</td>
+                    <td style="background-color: rgba(128, 128, 128, 0.07); padding: 15px; border-right: 1px solid rgba(128, 128, 128, 0.5); border-bottom: 1px solid rgba(128, 128, 128, 0.5); border-top-color: rgba(128, 128, 128, 0.5); border-left-color: rgba(128, 128, 128, 0.5); border-top-style: solid; border-left-style: solid; text-align: left; line-height: 1.5;">Left or right</td>
+                </tr>
+                <tr>
+                    <td style="padding: 15px; border-right: 1px solid rgba(128, 128, 128, 0.5); border-bottom: 1px solid rgba(128, 128, 128, 0.5); border-top-color: rgba(128, 128, 128, 0.5); border-left-color: rgba(128, 128, 128, 0.5); border-top-style: solid; border-left-style: solid; text-align: left; line-height: 1.5;">Material</td>
+                    <td style="padding: 15px; border-right: 1px solid rgba(128, 128, 128, 0.5); border-bottom: 1px solid rgba(128, 128, 128, 0.5); border-top-color: rgba(128, 128, 128, 0.5); border-left-color: rgba(128, 128, 128, 0.5); border-top-style: solid; border-left-style: solid; text-align: left; line-height: 1.5;">CR4 Steel<br />
+                    Aluminum</td>
+                </tr>
+                <tr>
+                    <td style="background-color: rgba(128, 128, 128, 0.07); padding: 15px; border-right: 1px solid rgba(128, 128, 128, 0.5); border-bottom: 1px solid rgba(128, 128, 128, 0.5); border-top-color: rgba(128, 128, 128, 0.5); border-left-color: rgba(128, 128, 128, 0.5); border-top-style: solid; border-left-style: solid; text-align: left; line-height: 1.5;">Material thickness</td>
+                    <td style="background-color: rgba(128, 128, 128, 0.07); padding: 15px; border-right: 1px solid rgba(128, 128, 128, 0.5); border-bottom: 1px solid rgba(128, 128, 128, 0.5); border-top-color: rgba(128, 128, 128, 0.5); border-left-color: rgba(128, 128, 128, 0.5); border-top-style: solid; border-left-style: solid; text-align: left; line-height: 1.5;">1 mm to 2 mm</td>
+                </tr>
+                <tr>
+                    <td style="padding: 15px; border-right: 1px solid rgba(128, 128, 128, 0.5); border-bottom: 1px solid rgba(128, 128, 128, 0.5); border-top-color: rgba(128, 128, 128, 0.5); border-left-color: rgba(128, 128, 128, 0.5); border-top-style: solid; border-left-style: solid; text-align: left; line-height: 1.5;">Material coating</td>
+                    <td style="padding: 15px; border-right: 1px solid rgba(128, 128, 128, 0.5); border-bottom: 1px solid rgba(128, 128, 128, 0.5); border-top-color: rgba(128, 128, 128, 0.5); border-left-color: rgba(128, 128, 128, 0.5); border-top-style: solid; border-left-style: solid; text-align: left; line-height: 1.5;">Powder</td>
+                </tr>
+                <tr>
+                    <td style="background-color: rgba(128, 128, 128, 0.07); padding: 15px; border-right: 1px solid rgba(128, 128, 128, 0.5); border-bottom: 1px solid rgba(128, 128, 128, 0.5); border-top-color: rgba(128, 128, 128, 0.5); border-left-color: rgba(128, 128, 128, 0.5); border-top-style: solid; border-left-style: solid; text-align: left; line-height: 1.5;">Weight</td>
+                    <td style="background-color: rgba(128, 128, 128, 0.07); padding: 15px; border-right: 1px solid rgba(128, 128, 128, 0.5); border-bottom: 1px solid rgba(128, 128, 128, 0.5); border-top-color: rgba(128, 128, 128, 0.5); border-left-color: rgba(128, 128, 128, 0.5); border-top-style: solid; border-left-style: solid; text-align: left; line-height: 1.5;">7.5kgs</td>
+                </tr>
+                <tr>
+                    <td style="padding: 15px; border-right: 1px solid rgba(128, 128, 128, 0.5); border-bottom: 1px solid rgba(128, 128, 128, 0.5); border-top-color: rgba(128, 128, 128, 0.5); border-left-color: rgba(128, 128, 128, 0.5); border-top-style: solid; border-left-style: solid; text-align: left; line-height: 1.5;">Color</td>
+                    <td style="padding: 15px; border-right: 1px solid rgba(128, 128, 128, 0.5); border-bottom: 1px solid rgba(128, 128, 128, 0.5); border-top-color: rgba(128, 128, 128, 0.5); border-left-color: rgba(128, 128, 128, 0.5); border-top-style: solid; border-left-style: solid; text-align: left; line-height: 1.5;">Black</td>
+                </tr>
+                <tr>
+                    <td style="background-color: rgba(128, 128, 128, 0.07); padding: 15px; border-right: 1px solid rgba(128, 128, 128, 0.5); border-bottom: 1px solid rgba(128, 128, 128, 0.5); border-top-color: rgba(128, 128, 128, 0.5); border-left-color: rgba(128, 128, 128, 0.5); border-top-style: solid; border-left-style: solid; text-align: left; line-height: 1.5;">Operating temperature</td>
+                    <td style="background-color: rgba(128, 128, 128, 0.07); padding: 15px; border-right: 1px solid rgba(128, 128, 128, 0.5); border-bottom: 1px solid rgba(128, 128, 128, 0.5); border-top-color: rgba(128, 128, 128, 0.5); border-left-color: rgba(128, 128, 128, 0.5); border-top-style: solid; border-left-style: solid; text-align: left; line-height: 1.5;">-20&deg;C to +50&deg;C</td>
+                </tr>
+                <tr>
+                    <td style="padding: 15px; border-right: 1px solid rgba(128, 128, 128, 0.5); border-bottom: 1px solid rgba(128, 128, 128, 0.5); border-top-color: rgba(128, 128, 128, 0.5); border-left-color: rgba(128, 128, 128, 0.5); border-top-style: solid; border-left-style: solid; text-align: left; line-height: 1.5;">Materials compliant to</td>
+                    <td style="padding: 15px; border-right: 1px solid rgba(128, 128, 128, 0.5); border-bottom: 1px solid rgba(128, 128, 128, 0.5); border-top-color: rgba(128, 128, 128, 0.5); border-left-color: rgba(128, 128, 128, 0.5); border-top-style: solid; border-left-style: solid; text-align: left; line-height: 1.5;">RoHS, Reach / SVHC</td>
+                </tr>
+            </tbody>
+        </table>
+        </div>
+        </div>
+        <div class="elementor-element elementor-element-559feac elementor-widget elementor-widget-heading" data-id="559feac" data-element_type="widget" data-widget_type="heading.default" style="color: #333333; background-color: #; width: 100%; margin-bottom: 20px;">
+        <div class="elementor-widget-container">
+        <h3 class="elementor-heading-title elementor-size-default" style="color: var( --e-global-color-primary ); margin: 0px; padding: 0px; line-height: 1;"><strong>Ordering Information</strong></h3>
+        </div>
+        </div>
+        <div class="elementor-element elementor-element-9f29885 elementor-widget elementor-widget-text-editor" data-id="9f29885" data-element_type="widget" data-widget_type="text-editor.default" style="color: var( --e-global-color-text ); background-color: #ffffff; width: 100%; margin-bottom: 20px;">
+        <div class="elementor-widget-container">
+        <table style="background-color: transparent; width: 100%; margin-bottom: 15px; border-spacing: 0px;">
+            <thead>
+                <tr style="color: #ffffff; background-color: #00c0f3;">
+                    <th style="padding: 15px; border-right: 1px solid rgba(128, 128, 128, 0.5); border-bottom: 1px solid rgba(128, 128, 128, 0.5); border-top-color: rgba(128, 128, 128, 0.5); border-left-color: rgba(128, 128, 128, 0.5); border-top-style: solid; border-left-style: solid; line-height: 1.5;">Part Number</th>
+                    <th style="padding: 15px; border-right: 1px solid rgba(128, 128, 128, 0.5); border-bottom: 1px solid rgba(128, 128, 128, 0.5); border-top-color: rgba(128, 128, 128, 0.5); border-left-color: rgba(128, 128, 128, 0.5); border-top-style: solid; border-left-style: solid; line-height: 1.5;">Description</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td style="background-color: rgba(128, 128, 128, 0.07); padding: 15px; border-right: 1px solid rgba(128, 128, 128, 0.5); border-bottom: 1px solid rgba(128, 128, 128, 0.5); border-top-color: rgba(128, 128, 128, 0.5); border-left-color: rgba(128, 128, 128, 0.5); border-top-style: solid; border-left-style: solid; text-align: left; line-height: 1.5;">F7HAADBPAX-10AM</td>
+                    <td style="background-color: rgba(128, 128, 128, 0.07); padding: 15px; border-right: 1px solid rgba(128, 128, 128, 0.5); border-bottom: 1px solid rgba(128, 128, 128, 0.5); border-top-color: rgba(128, 128, 128, 0.5); border-left-color: rgba(128, 128, 128, 0.5); border-top-style: solid; border-left-style: solid; text-align: left; line-height: 1.5;">U-Series High Capacity 2U Front Access V Patch Panel Black Premium LC G.657A1 288F (<span class="scayt-misspell-word" data-scayt-word="SWR" data-wsc-lang="en_GB" data-wsc-id="kejtx48hl0klko8rm">SWR</span>Pigtails)</td>
+                </tr>
+                <tr>
+                    <td style="padding: 15px; border-right: 1px solid rgba(128, 128, 128, 0.5); border-bottom: 1px solid rgba(128, 128, 128, 0.5); border-top-color: rgba(128, 128, 128, 0.5); border-left-color: rgba(128, 128, 128, 0.5); border-top-style: solid; border-left-style: solid; text-align: left; line-height: 1.5;">A7UD24BPAX-14JF-M4</td>
+                    <td style="padding: 15px; border-right: 1px solid rgba(128, 128, 128, 0.5); border-bottom: 1px solid rgba(128, 128, 128, 0.5); border-top-color: rgba(128, 128, 128, 0.5); border-left-color: rgba(128, 128, 128, 0.5); border-top-style: solid; border-left-style: solid; text-align: left; line-height: 1.5;">U-Series<span class="scayt-misspell-word" data-scayt-word="FVP" data-wsc-lang="en_GB" data-wsc-id="kejtx5013uh8j95l7">FVP</span>24f Pigtail Cassette with Premium<span class="scayt-misspell-word" data-scayt-word="LCSM" data-wsc-lang="en_GB" data-wsc-id="kejtx500hq9gcnriy">LCSM</span>G.657A1 24F 4m Stub 3.0mm OD</td>
+                </tr>
+            </tbody>
+        </table>
+        </div>
+        </div>
+        <br />
+        <style>
+            tr:hover {
+            background-color: #e6e6e6;
+            }
+        </style>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240326T105703Z
+    - ID: "ef2f63f2-c942-49a5-9c43-ebcfec40337e"
+      Hint: ProductName
+      Value: "U-Series 2RU Front-Access V-Panel (FVP)"
+    - ID: "fb72ff1d-6b1d-4970-916a-8162ff077e62"
+      Hint: ProcutItems
+      Value: |
+        {A216C36A-B949-49E6-86FD-261873070C0F}
+        {13B853A3-EC10-4682-B82C-4FE7E91FE667}
+        {F27A481B-8E2A-4CCD-906D-598736A0CCFA}
+        {FE4B8574-D294-4DFD-831C-4F405A9193E8}
+        {01ECC02D-9511-4FA1-A96E-659AFC7CB1B4}
+        {2E9B0B83-73D5-41C7-A050-BFDD5999F9EA}
+        {6A3F80D0-F21F-466E-8D1B-73DE5B5F0F1B}
+        {20F3B74C-E39C-4A23-8A38-981AEAEC1D11}
+        {316EA0D5-EA9D-4732-9A57-B7B09FA74F79}
+        {16785C64-E911-41D6-952D-46F87B9BA2B6}
+        {4DE05D50-6C60-4351-A465-96BDF71A3483}
+        {169BE6A2-31CE-4BFA-BCDC-12B2BDCE1265}
+        {AF3E6466-2A12-4A6C-B9EC-5F7337899A4D}
+        {677244B0-76D5-44F5-8CBA-B764A1966D75}
+        {7DEC9E18-34BD-4277-AA62-9567A528CFB3}

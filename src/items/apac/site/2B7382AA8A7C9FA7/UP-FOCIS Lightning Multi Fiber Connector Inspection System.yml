@@ -1,0 +1,147 @@
+﻿---
+ID: "fa4e795c-e1a4-46ea-a6a6-cbbbe366b198"
+Parent: "02384aa1-10a1-40cf-a7b4-444768c8628d"
+Template: "231b4589-f8fc-498f-b0f6-64fabecbc7b9"
+Path: "/sitecore/content/AFLGlobal/APAC/Home/Products/Test and Inspection/Fiber Optic Inspection and Cleaning/Fiber Optic Inspection/UP-FOCIS Lightning Multi Fiber Connector Inspection System"
+SharedFields:
+- ID: "1fbc6a49-6281-48ee-87e9-a3970b145adb"
+  Hint: NavigationFilter
+  Value: |
+    {E0A2A027-0932-4878-A7D6-0416D5263EFB}
+    {61BD64D6-809E-40AE-9297-2724A19329B3}
+    {D063E9D1-C7B5-4B1E-B31E-69886C9C59F5}
+    {500AE4C0-FA7B-463F-8149-EFFF7F044101}
+    {A0E7FF57-6994-4B09-AA21-104239628D5A}
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{DA631FB5-51B3-49F6-9915-732D093CF221}"
+- ID: "9135200a-5626-4dd8-ab9d-d665b8c11748"
+  Hint: __Never publish
+  Value: 1
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: 
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 107
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "16863469-616f-4d9e-a66f-02c79610ddaa"
+      Hint: ProductShortDescription
+      Value: "FOCIS Lightning is a compact self-contained inspection probe that captures the entire MPO end-face image in less than two seconds. One button provides auto-focusing, centering and pass/fail analysis at the connector and individual fiber level. It can complete a 24-fiber MPO inspection task in less than 15 seconds. Results can be easily shared via USB, WiFi and Bluetooth®."
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220303T154404Z
+    - ID: "36d9d67b-3610-4327-963e-e209239944d7"
+      Hint: ProductApplication
+      Value: |
+        <h3 style="font-size: 16px; padding-bottom: 5px;">Applications:</h3><ul class="productDetailApplications">
+         <li>Inspect multi-fiber and single-fiber connectors and adapters</li>
+         <li>Data center optical network installation, turn-up, and troubleshooting</li>
+         <li>Verification proper connector cleaning practices</li>
+         <li>Pairs with OTDR for comprehensive reporting</li>
+         
+         
+         
+         
+         
+         
+        </ul>
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4dda6e0a-1c9d-4a8d-890f-11a8eddc2f11"
+      Hint: ProductFeatures
+      Value: |
+        <h3 style="font-size: 16px; padding-bottom: 5px;">Features:</h3><ul class="productDetailFeatures">
+         <li>Self-contained, tether-free, compact, hand-held inspection solution</li>
+         <li>Auto-focus and auto-centering for fast, easy inspection</li>
+         <li>IEC, IPC, AT&amp;T, and user-defined auto-analysis</li>
+         <li>Wide variety of adapter tips for MPO and single-fiber connector types</li>
+         
+         
+         
+         
+         
+         
+        </ul>
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: FOCIS Lightning Multi Fiber Connector Inspection System
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\archana
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: "FOCIS Lightning is a self-contained multi-fiber connector inspection probe with integrated screen. It is intended specifically for the  inspection of multi-fiber connectors and bulkheads such MPO and MTP® including multi-row varieties. "
+    - ID: "59ec008e-95ec-4c06-9189-09d4acaf1d7e"
+      Hint: ProductCategory
+      Value: "{322F51C0-78F6-4C53-AC8C-AB128549CDBB}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\archana
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: "FOCIS Lightning Multi-Fiber Connector Inspection System, MPO Connector Inspection, Multifiber inspection, MPO installation"
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: FOCIS Lightning Multi Fiber Connector Inspection System
+    - ID: "72653cc9-973c-4682-b5c7-26d926959f8f"
+      Hint: ProductImage
+      Value: |
+        <image stylelabs-content-id="46499" src="https://afl-delivery.stylelabs.cloud/api/public/content/21683aad14b2419182e57d0617867f4c?v=561353dc" stylelabs-content-type="Image" alt="FOCIS Lightning Multi-Fiber Connector Inspection System" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/46499/thumbnail" />
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: FOCIS Lightning Multi Fiber Connector Inspection System
+    - ID: "8b978017-d437-40aa-b31d-bbf1d560a0cb"
+      Hint: DownloadFileLink
+      Value: |
+        <link id="{B67AC983-B662-4210-BA56-02179C53EE14}" querystring="" target="_blank" text="SPECIFICATION SHEET" anchor="" title="" class="" url="/sitecore/media library/Project/AFL-Global/Product Specification Sheet/Test and Inspection/Fiber Inspection and Cleaning/FOCIS-LTNG-2000_2" linktype="media" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "61df5e8c-621a-44ba-aff3-291e4e1c06d1"
+    - ID: "93dc88f3-05e5-482d-9b9a-c859c8258a73"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="169954" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/169954/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/fb3505cd5c9f419dbfd2851c8b222d11?v=ecea334c" stylelabs-content-type="Image" alt="Inspection_Clean_TopLevel.jpg" height="465" width="1336" />
+    - ID: "ab4c1906-c756-4771-818b-3683089665ee"
+      Hint: ProductMediaItems
+      Value: |
+        {76A3932D-FAD2-42D5-AB08-DC9F3539E777}
+        {23EDB37C-66C5-4B57-B1DF-CE02FB00C069}
+        {24B21AC6-50A1-4BC6-A087-CE4AB6F87687}
+    - ID: "af4f5f0d-745a-4af7-aee7-2002f0430999"
+      Hint: ProductTitle
+      Value: "FOCIS Lightning Multi-Fiber Connector Inspection System"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d1f74386-05c3-4c80-aa18-38d21db05fdf"
+      Hint: ProductId
+      Value: 2561
+    - ID: "d93ad815-376a-43bf-b34b-cbad0b1b7128"
+      Hint: ProductLongDescription
+      Value: |
+        <div>   FOCIS Lightning is a compact self-contained inspection probe that captures and displays the entire MPO end-face image in less than two seconds. One button provides auto-focusing, centering, and pass/fail analysis at the connector and individual fiber level. It can complete a 24-fiber MPO inspection task in less than 15 seconds. Results can be easily shared via USB, WiFi, and Bluetooth&reg;.</div>  <div>   &nbsp;</div>  <div>   <strong>Pass/Fail results in seconds:</strong> FOCIS Lightning was designed to quickly inspect multi-fiber connectors and bulkheads, such as MPO and MTP&reg;, including multi-row varieties. It can perform industry standard and user-defined end-face cleanliness analysis at a rate of about 1 second per fiber - the fastest in the Industry.</div>  <div>   &nbsp;</div>  <div>   <strong>Internal storage and multiple export options:</strong> FOCIS Lightning can store 10,000 connector level and individual fiber images, analysis, overlays, and zones tables locally and provides optional WiFi and Bluetooth wireless links for archiving and reporting. The AFL FOCIS App (iOS and Android) provides a comprehensive and user-friendly feature set as well as connectivity with AFL&rsquo;s cloud-based aeRos&reg; workflow automation platform.</div>  <div>   &nbsp;</div>  <div>   <strong>Untethered operation:</strong> With rechargeable battery and integrated 2.4&rdquo; TFT color LCD screen, FOCIS Lightning can be used independently.<br />   &nbsp;</div>  <div>   <strong>Multi-fiber front-end adapter tips:</strong> Multi-fiber front-end adapter tips support single row and multi-row MT connector inspection for a wide range of patch cords and bulkhead-mounted connectors having either PC/UPC or APC polished end-faces. The probe snout includes a key which in combination with a slot on the adapter tips ensures that adapter tips never loosen during use, under any circumstances.</div>  <div>   &nbsp;</div>  <h3>   Ordering Information&nbsp;</h3>  <table border="1" cellpadding="0" cellspacing="0" style="width:654px;" width="654">   <tbody>    <tr>     <td style="width:546px;">      <strong>&nbsp;DESCRIPTION </strong></td>     <td style="width: 108px; white-space: nowrap;">      <strong>&nbsp;AFL NO. </strong></td>    </tr>    <tr>     <td style="width:546px;">      &nbsp;FOCIS Lightning Kit, soft carry case, AC charger, with no tips or One-Click&reg; cleaner</td>     <td style="width: 108px; white-space: nowrap;">      &nbsp;FOCIS-LTNG-N</td>    </tr>    <tr>     <td style="width:546px;">      &nbsp;FOCIS Lightning Kit, soft carry case, AC charger, (1) UPC ferrule and bulkhead adapter tip, (2)&nbsp; &nbsp;One-Click MPO cleaners</td>     <td style="width: 108px; white-space: nowrap;">      &nbsp;FOCIS-LTNG-U</td>    </tr>    <tr>     <td style="width:546px;">      &nbsp;FOCIS Lightning Kit, soft carry case, AC charger, (1) APC ferrule and bulkhead adapter tip, (2)&nbsp; &nbsp;One-Click MPO cleaners</td>     <td style="width: 108px; white-space: nowrap;">      &nbsp;FOCIS-LTNG-A</td>    </tr>    <tr>     <td style="width:546px;">      &nbsp;FOCIS Lightning Kit, soft carry case, AC charger, (1) UPC and (1) APC ferrule and bulkhead&nbsp; &nbsp; &nbsp;adapter tips, (2) One-Click MPO cleaners</td>     <td style="width: 108px; white-space: nowrap;">      &nbsp;FOCIS-LTNG-UA</td>    </tr>    <tr>     <td style="width:546px;">      &nbsp;FOCIS Lightning Kit, soft carry case, AC charger, (1) UPC and (1) APC ferrule and bulkhead&nbsp; &nbsp;adapter tips, (2) One-Click MPO cleaners, single fiber adapter</td>     <td style="width: 108px; white-space: nowrap;">      &nbsp;FOCIS-LTNG-UASF</td>    </tr>    <tr>     <td style="width:546px;">      &nbsp;FOCIS Lightning No Wireless Kit, soft carry case, AC charger, with no tips or One-Click cleaner</td>     <td style="width: 108px; white-space: nowrap;">      &nbsp;FOCIS-LTNG-NW-N</td>    </tr>    <tr>     <td style="width:546px;">      &nbsp;FOCIS Lightning No Wireless Kit, soft carry case, AC charger, (1) UPC ferrule and bulkhead&nbsp; &nbsp;adapter tip, (2) One-Click MPO cleaners</td>     <td style="width: 108px; white-space: nowrap;">      &nbsp;FOCIS-LTNG-NW-U</td>    </tr>    <tr>     <td style="width:546px;">      &nbsp;FOCIS Lightning No Wireless Kit, soft carry case, AC charger, (1) APC ferrule and bulkhead&nbsp; &nbsp;adapter tip, (2) One-Click MPO cleaners</td>     <td style="width: 108px; white-space: nowrap;">      &nbsp;FOCIS-LTNG-NW-A</td>    </tr>    <tr>     <td style="width:546px;">      &nbsp;FOCIS Lightning No Wireless Kit, soft carry case, AC charger, (1) UPC and (1) APC ferrule and&nbsp; &nbsp;bulkhead adapter tips, (2) One-Click MPO cleaners&nbsp;</td>     <td style="width: 108px; white-space: nowrap;">      &nbsp;FOCIS-LTNG-NW-UA</td>    </tr>   </tbody>  </table>  <br />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231122T212531Z
+    - ID: "ef2f63f2-c942-49a5-9c43-ebcfec40337e"
+      Hint: ProductName
+      Value: "FOCIS Lightning Multi-Fiber Connector Inspection System"
+    - ID: "fb72ff1d-6b1d-4970-916a-8162ff077e62"
+      Hint: ProcutItems
+      Value: |
+        {7502B3D5-A205-4A7F-8104-08E3D53E00D5}
+        {C31C2D61-0387-436F-AC41-01E679511392}
+        {D53C05A1-FD4C-427E-8812-A05F9F65708A}
+        {84C27700-2377-4795-ABB6-7A7154D95403}
+        {3EA3970D-58C9-446C-8200-F6C5EE901F6B}
+        {8CE5A75E-8948-400B-938F-3AF9C34823D3}
+        {3B21C403-C5AB-47C7-81BC-C757F68819D8}

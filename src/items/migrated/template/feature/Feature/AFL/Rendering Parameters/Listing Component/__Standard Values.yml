@@ -4,9 +4,6 @@ Parent: "06fc7468-5c27-4511-918c-e3c832b9e2b6"
 Template: "06fc7468-5c27-4511-918c-e3c832b9e2b6"
 Path: /sitecore/templates/Feature/AFL/Rendering Parameters/Listing Component/__Standard Values
 SharedFields:
-- ID: "3094d236-5985-4c4f-ae6a-e30740885532"
-  Hint: Caching
-  Value: 0|0|0|0|0|0|0|0
 - ID: "4f87f95b-d072-4fb9-b14e-98151bf8351e"
   Hint: SourceType
   Value: "{90105CB9-2CFD-4151-9FA8-6CDF92B158C2}"

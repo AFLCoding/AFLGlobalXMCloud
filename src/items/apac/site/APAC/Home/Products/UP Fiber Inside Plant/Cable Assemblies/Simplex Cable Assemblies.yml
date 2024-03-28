@@ -1,0 +1,198 @@
+﻿---
+ID: "9545c166-4a63-4517-a920-509b123c9358"
+Parent: "12c49fd6-c130-419e-a87f-eb1b23ed9ab7"
+Template: "9f3eb887-7a2a-4e1d-a23d-e79337d45cc8"
+Path: /sitecore/content/AFLGlobal/APAC/Home/Products/UP Fiber Inside Plant/Cable Assemblies/Simplex Cable Assemblies
+SharedFields:
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{254EFA50-AB93-4666-A808-C864E7523A17}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: 
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{556E0829-5D5D-40E6-B56F-755A709298A2}"
+              p:before="*"
+              s:ds="{4227B499-C658-4E78-9D45-9AE8B9F2613E}"
+              s:id="{CD624DFB-630F-4284-9347-285554A9FE3B}"
+              s:ph="/main/container-6/coveouicontentsxa-345159904/column-2-2/coveo-ui-sorts_dynamic_coveo14aef999" />
+            <r
+              uid="{1E4FE57A-9A89-461D-968B-DE661F7C85B7}"
+              p:after="r[@uid='{556E0829-5D5D-40E6-B56F-755A709298A2}']"
+              s:ds="{C2C6AA9B-F390-41AF-9ED5-E62B76055ED4}"
+              s:id="{144F9C19-0647-46BC-B766-CBF620E0B9B1}"
+              s:par=""
+              s:ph="/main/container-6/coveouicontentsxa-345159904/column-2-2/coveo-ui-sorts_dynamic_coveo14aef999"
+              s:ccb="Clear on publish" />
+            <r
+              uid="{7B7F3DFB-25AC-4BFD-BB3A-87BC57C4BDBB}"
+              p:after="r[@uid='{1E4FE57A-9A89-461D-968B-DE661F7C85B7}']"
+              s:ds="{581A5099-6308-48D0-9DB8-4EA95F8C7D56}"
+              s:id="{1AF65AE3-7BA9-4F1F-89C2-1329A82C429E}"
+              s:par=""
+              s:ph="/main/container-6/coveouicontentsxa-345159904/column-2-2/coveo-ui-sorts_dynamic_coveo14aef999"
+              s:ccb="Clear on publish" />
+            <r
+              uid="{14AEF999-E8AC-4EB7-9D4C-CC5C3F032568}"
+              p:after="r[@uid='{7B7F3DFB-25AC-4BFD-BB3A-87BC57C4BDBB}']"
+              s:ds="{433B17A0-0280-436B-AFB0-FE06F05B1B71}"
+              s:id="{24D90717-93EA-4707-ACAC-02338014F463}"
+              s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D"
+              s:ph="/main/container-6/coveouicontentsxa-345159904/column-2-2"
+              s:ccb="Clear on publish" />
+            <r
+              uid="{275FE642-7D18-4509-83A4-1F63ECAAC387}"
+              p:after="r[@uid='{14AEF999-E8AC-4EB7-9D4C-CC5C3F032568}']"
+              s:ds="{7F7D13E6-B943-42EA-96C6-8951686374D7}"
+              s:id="{2FF0F566-7DCF-4FF7-B6D7-E207E967A380}"
+              s:par="GridParameters"
+              s:ph="/main/container-6/coveouicontentsxa-345159904/container-7"
+              s:ccb="Clear on publish" />
+            <r
+              uid="{418E715D-7859-49A8-8B6F-FAF18E84B9CD}"
+              p:after="r[@uid='{275FE642-7D18-4509-83A4-1F63ECAAC387}']"
+              s:ds="{84D6CB79-7CB4-4ABC-95CD-159CB7210BA0}"
+              s:id="{0CFF4B47-5F17-482F-8330-6BCB68495C17}"
+              s:par="GridParameters"
+              s:ph="/main/container-6/coveouicontentsxa-345159904/container-7"
+              s:ccb="Clear on publish" />
+            <r
+              uid="{DAA7EACB-98C0-4AB5-9CC1-FC42A55D1CF6}"
+              p:after="r[@uid='{418E715D-7859-49A8-8B6F-FAF18E84B9CD}']"
+              s:ds="{A4C76307-7174-49CD-96C2-EDCBAB353F8C}"
+              s:id="{C30F9289-DCF1-4ACF-8960-491C932163B0}"
+              s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;ContextTitle=ADSS"
+              s:ph="/main/container-6"
+              s:ccb="Clear on publish" />
+            <r
+              uid="{3F9FC0D7-51E5-4163-B5F3-E44D7B9D5ACB}"
+              p:after="r[@uid='{DAA7EACB-98C0-4AB5-9CC1-FC42A55D1CF6}']"
+              s:ds=""
+              s:id="{C25766C8-9AFD-4D28-87FE-147774F6806D}"
+              s:par="ColumnWidth1=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D%7C%7B7E888797-CB93-414E-8776-1ABA8C5C4A62%7D&amp;ColumnWidth2=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D%7C%7BAE2CCEA5-0C87-4F48-A895-95B6090C8E59%7D&amp;ColumnWidth3=%7BBC5C5437-E718-4964-BD15-BCD59B9BC6A9%7D&amp;ColumnWidth4&amp;ColumnWidth5&amp;ColumnWidth6&amp;ColumnWidth7&amp;ColumnWidth8&amp;Reset Caching Options&amp;SplitterSize=2&amp;EnabledPlaceholders=1%2C2&amp;Styles1=%7B8E621808-2DE7-4808-9DFA-7F4B200E8D2D%7D%7C%7B2966D4FE-3F4A-486A-843A-D024C75274C2%7D&amp;Styles2=%7B8E621808-2DE7-4808-9DFA-7F4B200E8D2D%7D%7C%7B2966D4FE-3F4A-486A-843A-D024C75274C2%7D&amp;Styles3&amp;Styles4&amp;Styles5&amp;Styles6&amp;Styles7&amp;Styles8&amp;DynamicPlaceholderId=2"
+              s:ph="/main/container-6/coveouicontentsxa-345159904"
+              s:ccb="Clear on publish" />
+            <r
+              uid="{FCD80E95-DBCC-43D4-AC76-51EB4ED0B5EF}"
+              p:after="r[@uid='{3F9FC0D7-51E5-4163-B5F3-E44D7B9D5ACB}']"
+              s:ds="{25842031-E5A6-466C-848C-6BB9D9FEF246}"
+              s:id="{B9DF18AB-EEF7-474E-81CC-E9DBABA4550D}"
+              s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D"
+              s:ph="/main/container-6/coveouicontentsxa-345159904/coveouiresulttemplatessxa-350560203"
+              s:ccb="Clear on publish" />
+            <r
+              uid="{990734A9-A493-47F9-AC9D-927290193C5D}"
+              p:after="r[@uid='{FCD80E95-DBCC-43D4-AC76-51EB4ED0B5EF}']"
+              s:ds="{E8C3CED1-AD8A-4C18-A8BD-E9C4A9C5B6B8}"
+              s:id="{140D62F3-23DB-41A5-B63A-C06B85468B4D}"
+              s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D"
+              s:ph="/main/container-6/coveouicontentsxa-345159904"
+              s:ccb="Clear on publish" />
+            <r
+              uid="{F677DDF5-1014-4FF6-9BED-C7BC352FE09A}"
+              p:after="r[@uid='{990734A9-A493-47F9-AC9D-927290193C5D}']"
+              s:ds=""
+              s:id="{E608EE68-6390-4268-9E56-CC554A5C3BB8}"
+              s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D"
+              s:ph="/main/container-6/coveouicontentsxa-345159904"
+              s:ccb="Clear on publish" />
+            <r
+              uid="{DF864ACD-846C-4B06-81BF-05E33EE5BD55}"
+              p:after="r[@uid='{F677DDF5-1014-4FF6-9BED-C7BC352FE09A}']"
+              s:ds="{37983238-B157-4611-902E-156CE29862A1}"
+              s:id="{80539A62-550E-4B41-B54A-619BE7545357}"
+              s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D"
+              s:ph="/main/container-6/coveouicontentsxa-345159904"
+              s:ccb="Clear on publish" />
+            <r
+              uid="{3E6BFB3E-208C-42C6-ACE4-2F163A73D6BE}"
+              p:after="r[@uid='{DF864ACD-846C-4B06-81BF-05E33EE5BD55}']"
+              s:ds=""
+              s:id="{896A2C68-1362-4E88-8BA0-1805AE6D4837}"
+              s:par="Reset Caching Options&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;BackgroundImage&amp;Styles=%7B8E621808-2DE7-4808-9DFA-7F4B200E8D2D%7D%7C%7B2966D4FE-3F4A-486A-843A-D024C75274C2%7D&amp;RenderingIdentifier&amp;DynamicPlaceholderId=7"
+              s:ph="/main/container-6/coveouicontentsxa-345159904"
+              s:ccb="Clear on publish" />
+            <r
+              uid="{8A09A10C-2C08-43D8-A2E1-8AB259F8CF9F}"
+              p:after="r[@uid='{3E6BFB3E-208C-42C6-ACE4-2F163A73D6BE}']"
+              s:ds=""
+              s:id="{91D97B28-E824-40B5-941F-F4D1E4EB97E1}"
+              s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D"
+              s:ph="main"
+              s:ccb="Clear on publish" />
+            <r
+              uid="{75326DC8-E5A5-474D-99F5-95C201E59569}"
+              p:after="r[@uid='{8A09A10C-2C08-43D8-A2E1-8AB259F8CF9F}']"
+              s:ds=""
+              s:id="{896A2C68-1362-4E88-8BA0-1805AE6D4837}"
+              s:par="Reset Caching Options&amp;GridParameters&amp;BackgroundImage&amp;Styles=%7B8E621808-2DE7-4808-9DFA-7F4B200E8D2D%7D&amp;RenderingIdentifier&amp;DynamicPlaceholderId=6"
+              s:ph="main"
+              s:ccb="Clear on publish" />
+            <r
+              uid="{676BD695-99E3-4F74-A19B-83AD25E2D371}"
+              p:after="*[1=2]"
+              s:ds=""
+              s:id="{0A45D795-D8C1-4111-B485-1C25541424B3}"
+              s:par="Reset Caching Options&amp;GridParameters&amp;FieldNames=%7BD2D04A0D-F3EE-4094-9D50-43FB7468F0CA%7D&amp;Styles&amp;RenderingIdentifier&amp;DynamicPlaceholderId=8"
+              s:ph="/main/container-6/coveouicontentsxa-345159904/column-1-2"
+              s:ccb="Clear on publish" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220303T152611Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Simplex Cable Assemblies
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: Simplex Cable Assemblies
+    - ID: "612fc437-a34e-408c-a80f-a3ce18887805"
+      Hint: SuggestionBoxRedirectIcon
+      Value: |
+        <image mediaid="{5A901871-5681-4DAD-ABC1-FB375934B088}" alt="Simplex Cable Assemblies" height="" width="" hspace="" vspace="" />
+    - ID: "628db04b-29a2-483b-a88c-b8fd9a5f2086"
+      Hint: HeroLink
+      Value: |
+        <link id="{0BC6319F-7D86-4C97-97CB-85F35988870D}" querystring="" target="|Custom" text="LEARN MORE" anchor="" title="" class="" url="/AFL-Global/APAC/Home/Products/UP Fiber Inside Plant/Cable Assemblies/Simplex Cable Assemblies" linktype="internal" />
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: Simplex Cable Assemblies
+    - ID: "80d61154-3413-4133-bd41-33a857cbdc8f"
+      Hint: ProductListingTitle
+      Value: Simplex Cable Assemblies Products
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2d50bd57-f607-413e-915e-93d97dcebd56"
+    - ID: "93dc88f3-05e5-482d-9b9a-c859c8258a73"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="73473" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/73473/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/homehero4?v=247592cf" stylelabs-content-type="Image" alt="AFL-Desktop-Homepage-photos_4.jpg" height="571" width="1338" />
+    - ID: "a40ebd3d-2b41-41fb-90f7-753544ce77c5"
+      Hint: Hero Title1
+      Value: Simplex Cable Assemblies
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231129T145213Z
+    - ID: "ec530a09-34f8-49c9-934c-0bbdf2e9fe22"
+      Hint: AFLLowLevel_Title
+      Value: "Simplex-Cable-Assemblies"

@@ -1,0 +1,145 @@
+﻿---
+ID: "731e8731-9fb0-4a19-8ecb-5af4d1d3802c"
+Parent: "a25929e4-56e3-4311-aaa5-916f252f1277"
+Template: "231b4589-f8fc-498f-b0f6-64fabecbc7b9"
+Path: /sitecore/content/AFLGlobal/APAC/Home/Products/Fiber Optic Connectivity/Rack Mount Patch Panels/UltraSlim/UltraSlim 1RU Panel BASE12 96 Fiber
+SharedFields:
+- ID: "1fbc6a49-6281-48ee-87e9-a3970b145adb"
+  Hint: NavigationFilter
+  Value: |
+    {E0A2A027-0932-4878-A7D6-0416D5263EFB}
+    {61BD64D6-809E-40AE-9297-2724A19329B3}
+    {D063E9D1-C7B5-4B1E-B31E-69886C9C59F5}
+    {500AE4C0-FA7B-463F-8149-EFFF7F044101}
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{DA631FB5-51B3-49F6-9915-732D093CF221}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: 
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 101
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "16863469-616f-4d9e-a66f-02c79610ddaa"
+      Hint: ProductShortDescription
+      Value: The UltraSlim 1RU Panels provide secure transitions between MPO and LC or SC discrete connector interfaces.
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220303T152631Z
+    - ID: "36d9d67b-3610-4327-963e-e209239944d7"
+      Hint: ProductApplication
+      Value: |
+        <h3 style="color: #282828; background-color: #ffffff; margin: 0px; padding-bottom: 5px;">Applications:</h3>
+        <ul class="productDetailApplications" style="color: #333333; background-color: #ffffff; margin: 0px 0px 15px; padding: 0px 0px 0px 15px; list-style-image: url('https://www.aflglobal.com/productionFiles/images/bulletRound.aspx');">
+            <li style="margin: 0px 0px 6px;">Data Communication Applications</li>
+            <li style="margin: 0px 0px 6px;">Data Center Infrastructure</li>
+            <li style="margin: 0px 0px 6px;">Storage Area Network &ndash; Fiber Channel</li>
+            <li style="margin: 0px 0px 6px;">Emerging 40 and 100 Gbps Protocols</li>
+        </ul>
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4dda6e0a-1c9d-4a8d-890f-11a8eddc2f11"
+      Hint: ProductFeatures
+      Value: |
+        <h3 style="color: #282828; background-color: #ffffff; margin: 0px; padding-bottom: 5px;">Features:</h3>
+        <ul class="productDetailFeatures" style="color: #333333; background-color: #ffffff; margin: 0px 0px 15px; padding: 0px 0px 0px 15px; list-style-image: url('https://www.aflglobal.com/productionFiles/images/bulletRound.aspx');">
+            <li style="margin: 0px 0px 6px;">Available in OS1,OS2 and OM4 fiber types</li>
+            <li style="margin: 0px 0px 6px;">Up to 8 MPO standard connectors</li>
+            <li style="margin: 0px 0px 6px;">Multi-fiber connector rear entry ports</li>
+            <li style="margin: 0px 0px 6px;">Front LC (SFF Data Center standard), SC discrete interface</li>
+            <li style="margin: 0px 0px 6px;">Up to 96 fibers</li>
+            <li style="margin: 0px 0px 6px;">Factory-terminated and tested</li>
+            <li style="margin: 0px 0px 6px;">19" rack mount</li>
+            <li style="margin: 0px 0px 6px;">Rapid deployment, factory-terminated modular system saves installation and reconfiguration time during moves, adds and changes</li>
+            <li style="margin: 0px 0px 6px;">Easy-open installation rear entry MPO ports guarantee easy cabling access and facilitates connection to MPO backbone trunk systems</li>
+            <li style="margin: 0px 0px 6px;">Compact 1RU size, 11.7 cm depth, saves space and makes the panel compatible with copper racking system</li>
+        </ul>
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: UltraSlim 1RU Panel BASE12 96 Fiber
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\archana
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: The UltraSlim 1RU Panels provide secure transitions between MPO and LC or SC discrete connector interfaces.
+    - ID: "59ec008e-95ec-4c06-9189-09d4acaf1d7e"
+      Hint: ProductCategory
+      Value: "{36BB035F-6EB3-4928-8207-CB8B202B9DA4}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\archana
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: "AFL hyperscale data center communications UltraSlim 1RU Panel BASE-12, 96 Fiber transitions MPO LC SC discrete connector"
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: UltraSlim 1RU Panel BASE12 96 Fiber
+    - ID: "72653cc9-973c-4682-b5c7-26d926959f8f"
+      Hint: ProductImage
+      Value: |
+        <image stylelabs-content-id="183223" src="https://afl-delivery.stylelabs.cloud/api/public/content/4a5e430a2cad4b1e92464500ad4627f1?v=ca8d30c9" stylelabs-content-type="Image" alt="UltraSlim 1RU Panel BASE-12, 96 Fiber" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/183223/thumbnail" />
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: UltraSlim 1RU Panel BASE12 96 Fiber
+    - ID: "8b978017-d437-40aa-b31d-bbf1d560a0cb"
+      Hint: DownloadFileLink
+      Value: |
+        <link text="SPECIFICATION SHEET" target="_blank" linktype="media" id="{A9ECB4F6-8825-4BE5-BF3D-172464CF9914}" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6365bef2-f250-4e5d-a7b6-a86e0ca3bf3a"
+    - ID: "93dc88f3-05e5-482d-9b9a-c859c8258a73"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="170586" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/170586/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/UltraSlim-web?v=031535ed" stylelabs-content-type="Image" alt="_UltraSlim-1RU-V-Panel-BASE-12-with-144-Fibers-UltraSlim-1RU-V-Panel-BASE-12-with-144-Fibers.jpg" height="465" width="1336" />
+    - ID: "ab4c1906-c756-4771-818b-3683089665ee"
+      Hint: ProductMediaItems
+      Value: |
+        {A3AB567B-469E-46F4-B2DE-11D322CB35C3}
+        {8B543CA3-0D1C-4319-AA51-653C9EA7EF75}
+    - ID: "af4f5f0d-745a-4af7-aee7-2002f0430999"
+      Hint: ProductTitle
+      Value: "UltraSlim 1RU Panel BASE-12, 96 Fiber"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d1f74386-05c3-4c80-aa18-38d21db05fdf"
+      Hint: ProductId
+      Value: 2728
+    - ID: "d93ad815-376a-43bf-b34b-cbad0b1b7128"
+      Hint: ProductLongDescription
+      Value: "<p>   The UltraSlim 1RU Panels provide secure transitions between MPO and LC or SC discrete connector interfaces. They are used to interface MPO backbones with LC or SC patching and active equipment connections.</p>  <p>   The pre-populated panel allows rapid deployment of high-density data center infrastructure as well as improved troubleshooting and reconfiguration during moves, adds and changes. The shallow depth of the UltraSlim Panel makes it suitable for copper racking systems.</p>  <p>   The MPO UltraSlim Panels contain factory-controlled and tested MPO-LC/SC fanouts to deliver optical performance and reliability. Low loss MPO Premium and LC/SC Premium versions are offered featuring significantly improved low insertion losses for demanding low power budget, high-speed networks.</p>  "
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231122T212529Z
+    - ID: "ef2f63f2-c942-49a5-9c43-ebcfec40337e"
+      Hint: ProductName
+      Value: "UltraSlim 1RU Panel BASE-12, 96 Fiber"
+    - ID: "fb72ff1d-6b1d-4970-916a-8162ff077e62"
+      Hint: ProcutItems
+      Value: |
+        {A216C36A-B949-49E6-86FD-261873070C0F}
+        {13B853A3-EC10-4682-B82C-4FE7E91FE667}
+        {F27A481B-8E2A-4CCD-906D-598736A0CCFA}
+        {FE4B8574-D294-4DFD-831C-4F405A9193E8}
+        {01ECC02D-9511-4FA1-A96E-659AFC7CB1B4}
+        {2E9B0B83-73D5-41C7-A050-BFDD5999F9EA}
+        {6A3F80D0-F21F-466E-8D1B-73DE5B5F0F1B}
+        {20F3B74C-E39C-4A23-8A38-981AEAEC1D11}
+        {316EA0D5-EA9D-4732-9A57-B7B09FA74F79}
+        {16785C64-E911-41D6-952D-46F87B9BA2B6}
+        {4DE05D50-6C60-4351-A465-96BDF71A3483}
+        {169BE6A2-31CE-4BFA-BCDC-12B2BDCE1265}
+        {AF3E6466-2A12-4A6C-B9EC-5F7337899A4D}
+        {49E61244-0A99-4C38-9332-C64C7BD3FE74}
+        {677244B0-76D5-44F5-8CBA-B764A1966D75}

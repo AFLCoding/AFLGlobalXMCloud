@@ -1,0 +1,38 @@
+﻿---
+ID: "537a9040-5d31-4b0a-bdd1-a4156e3b4450"
+Parent: "bc48cb40-2333-4008-8a06-52b95ffdb4b0"
+Template: "178e3cec-ca03-4c76-9ad3-122297e19e13"
+Path: /sitecore/content/AFLGlobal/APAC/Home/Products/Test and Inspection/Fiber Identification/Visual Fault Identifiers/MFIS Multi Fiber Identification System/Additional Image/MFP
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220405T050839Z
+    - ID: "4f4e6526-41d1-4a67-ba95-3cf65c6a6462"
+      Hint: ImgaeUrl
+      Value: |
+        <image stylelabs-content-id="227663" src="https://afl-delivery.stylelabs.cloud/api/public/content/04c1d7fb5eea45b7a1a8ba782a98cf04?v=8e5e8aa8" stylelabs-content-type="Image" alt="2556" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/227663/thumbnail" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mahesh
+    - ID: "80203708-a0db-4f4b-bd18-b5f74b33756d"
+      Hint: ImageTitle
+      Value: MFP
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a1cce938-dc32-466b-8218-62e3d430be18"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahesh
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220405T050839Z

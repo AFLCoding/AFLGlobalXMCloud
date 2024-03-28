@@ -1,0 +1,174 @@
+﻿---
+ID: "f873d51e-975b-4e89-96ca-3335b9fa5c9f"
+Parent: "6b0cc99d-fbe4-4015-a4c8-67fb0d4f1d1a"
+Template: "231b4589-f8fc-498f-b0f6-64fabecbc7b9"
+Path: /sitecore/content/AFLGlobal/APAC/Home/Products/Test and Inspection/OTDRs and Troubleshooters/FlexScan TS100 FTTH PON Troubleshooter
+SharedFields:
+- ID: "1fbc6a49-6281-48ee-87e9-a3970b145adb"
+  Hint: NavigationFilter
+  Value: |
+    {E0A2A027-0932-4878-A7D6-0416D5263EFB}
+    {61BD64D6-809E-40AE-9297-2724A19329B3}
+    {D063E9D1-C7B5-4B1E-B31E-69886C9C59F5}
+    {500AE4C0-FA7B-463F-8149-EFFF7F044101}
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{DA631FB5-51B3-49F6-9915-732D093CF221}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{DAE7C21D-4D3B-4257-A95C-9104CD8AF409}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 103
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "16863469-616f-4d9e-a66f-02c79610ddaa"
+      Hint: ProductShortDescription
+      Value: "The FlexScan TS100 Optical Troubleshooter is an easy-to-use, all-in-one tool for detecting, identifying, locating, and resolving single-mode optical network issues."
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220128T171124Z
+    - ID: "36d9d67b-3610-4327-963e-e209239944d7"
+      Hint: ProductApplication
+      Value: |
+        <h3 style="font-size: 16px; padding-bottom: 5px;">Applications:</h3><ul class="productDetailApplications">
+        	<li style="display: list-item;">Troubleshoot PONs or Point-to-Point networks from one end</li>
+        	<li style="display: list-item;">Diagnose faults exceeding industry or user pass/fail limits</li>
+        	<li style="display: list-item;">Verify loss of PON splitters up to 1:64 split ratio</li>
+        	<li style="display: list-item;">Verify GPON, video and XG/XGS-PON or 10GEPON power levels</li>
+        	<li style="display: none;">Verify insertion loss, TX output or RX input power levels</li>
+        	<li style="display: none;">Pinpoint location of macro-bends or breaks</li>
+        	
+        	
+        	
+        	
+        </ul>
+    - ID: "4dda6e0a-1c9d-4a8d-890f-11a8eddc2f11"
+      Hint: ProductFeatures
+      Value: |
+        <h3 style="font-size: 16px; padding-bottom: 5px;">Features:</h3><ul class="productDetailFeatures">
+        	<li>Locate faults in &lt;3 seconds with the press of a button</li>
+        	<li>Displays link length, loss, ORL, and pass/fail results</li>
+        	<li>Single-ended test reduces time and cost</li>
+        	<li>Rugged, lightweight, hand-held for field use</li>
+        	
+        	
+        	
+        	
+        	
+        	
+        </ul>
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: FlexScan® TS100 FTTH PON Troubleshooter
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\archana
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: "The FlexScan TS100 Optical Troubleshooter is an easy-to-use, all-in-one tool for detecting, identifying, locating, and resolving single-mode optical network issues."
+    - ID: "59ec008e-95ec-4c06-9189-09d4acaf1d7e"
+      Hint: ProductCategory
+      Value: "{80AE80BE-E823-4C52-AFCB-6FB0CBD1A984}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\archana
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: "flexscan, fibre identifying, single-mode, network, FTTH"
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: FlexScan® TS100 FTTH PON Troubleshooter
+    - ID: "646d0f97-6838-4bff-800d-895747365401"
+      Hint: AFLDocumentList
+      Value: |
+        {0C3E522F-0BD3-4F9E-A678-7075E686EA58}
+        {A0DCEF19-8F43-4DE6-A690-458EB3899B71}
+        {C22CED8C-EEB3-40A4-8144-4662CF0D6E21}
+        {BBE5388E-70C6-4807-820C-C07B04E09084}
+        {00ACFEE0-DA23-47F0-831A-B3D19D076879}
+        {4E1FE0A6-6A52-404D-822E-59CC116F6D96}
+        {2870C6AD-C5CD-4025-8C5A-4881C9561D49}
+        {FCB3DD7A-A1DD-4BB0-A22E-D228EB2750FE}
+        {98AD6B1E-75B7-48C8-913F-2A86919CC2B6}
+    - ID: "72653cc9-973c-4682-b5c7-26d926959f8f"
+      Hint: ProductImage
+      Value: |
+        <image stylelabs-content-id="184460" src="https://afl-delivery.stylelabs.cloud/api/public/content/5db57bdea50c4c919f4ae3d30fed04c5?v=ab53934d" stylelabs-content-type="Image" alt="FlexScan TS100 FTTH PON Troubleshooter " thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/184460/thumbnail" />
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: FlexScan® TS100 FTTH PON Troubleshooter
+    - ID: "8b978017-d437-40aa-b31d-bbf1d560a0cb"
+      Hint: DownloadFileLink
+      Value: |
+        <link text="SPECIFICATION SHEET" target="_blank" linktype="media" id="{75EE4BAD-24FA-4C81-BF2D-4606FA4630FE}" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ec7877d4-d817-4948-9b1d-a9a758972aed"
+    - ID: "93dc88f3-05e5-482d-9b9a-c859c8258a73"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="267972" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/267972/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/0ec0fd3a37934bb6ac75d2c4bcfecee7?v=79e19173" stylelabs-content-type="Image" alt="Test_OTDRs.jpg" height="465" width="1336" />
+    - ID: "a40ebd3d-2b41-41fb-90f7-753544ce77c5"
+      Hint: Hero Title1
+      Value: FlexScan® TS100 FTTH PON Troubleshooter
+    - ID: "ad694352-89e0-4ab7-90e6-1ec187afd032"
+      Hint: AFLVideoList
+      Value: |
+        {95904B6A-E2CB-42C8-A6D3-8BA8130DCFBC}
+        {C9819FD3-4B53-4914-8E0C-2A8070EA3442}
+        {C679EB70-A1C1-4007-AAFB-14C20870BE51}
+    - ID: "af4f5f0d-745a-4af7-aee7-2002f0430999"
+      Hint: ProductTitle
+      Value: FlexScan® TS100 FTTH PON Troubleshooter
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d1f74386-05c3-4c80-aa18-38d21db05fdf"
+      Hint: ProductId
+      Value: 2704
+    - ID: "d93ad815-376a-43bf-b34b-cbad0b1b7128"
+      Hint: ProductLongDescription
+      Value: |
+        <p>   AFL&rsquo;s FlexScan TS100 Optical Troubleshooter is an easy-to-use, all-in-one tool for detecting, identifying, locating, and resolving single-mode optical network issues. The TS100 has auto-configured settings to quickly measure received power, link length, loss, and ORL with the push of a button. The results are displayed using colour-coded LinkMap&reg; icons for easy analysis. The FlexScan TS100 automates testing, shortens test time, interprets results, and recommends corrective actions, improving efficiency of frontline technicians and reducing costs.</p>
+        <p>   <strong>Diagnose your network in seconds: </strong>Just press Start and the TS100 immediately measures and displays received power levels when connected to a live GPON and/or 10GPON network. Within seconds, link length, loss, and ORL are displayed, along with faults exceeding industry or user-set pass/fail limits. The TS100 even recommends corrective actions based on test results making it easier for technicians to find and fix network problems.</p>
+        <p>   <strong>Requires little, if any, training:</strong> Designed primarily for field technicians activating and maintaining broadband access networks, the TS100 requires minimal training and no OTDR experience. SmartAuto&reg; auto-configures test settings and presents network test results in easy-tounderstand, color-coded icons indicating passing or failing connections, splices, and splitters.</p>
+        <p>   <strong>All-in-one test capability:</strong> The FlexScan TS100 includes an integrated VFL, power meter, and light source. It can be easily paired to AFL&rsquo;s award-winning FOCIS family of inspection scopes, ensuring technicians have everything they need to locate and quickly resolve optical network issues. The source and power meter generate and detect fibre-identifying tones and support Wave ID insertion loss testing featuring automatic wavelength identification and synchronisation.</p>
+        <p>   <strong>Designed for field use:</strong> FlexScan TS100 is small 86 x 160 x 43 mm and weighs 0.4 kg. It has a large, bright indoor/outdoor touchscreen, and rechargeable battery that lasts &gt;12 hours for all-day operation.</p>
+        <p><strong><span style="line-height: 107%;">Easy reporting and archiving:</span></strong><span style="line-height: 107%;"> Included FlexReporter Basic software suite works with AFL Test and Inspection instruments to provide a simple-to-use, high performance cloud enabled reporting platform. FlexReporter combines FlexApp, a mobile App that wirelessly transfers test results to FlexReporter-Cloud from the field with FlexReports, a fast, comprehensive, 3-step PC software reporting solution. The FlexReporter software suite was developed to make the complicated task of reporting faster, simpler, and easy-to-use.</span></p>
+        <ul>
+            <li><strong>Convenient cost-saving kits:</strong> Bundle the FlexScan TS100 with your choice of launch cable and FOCIS Flex connector inspection probe with adapter tips for significant cost-savings!</li>
+            <li><strong>BAS Kit:</strong> FlexScan TS100 with AC charger, battery, carry strap, 2.5 mm SC connector adapters, USB cable, soft carry case, and FlexReports Basic software for viewing Test Results. Users requiring full reporting capability should upgrade to FlexReports Advanced.</li>
+            <li><strong>PLUS kits</strong> add a 150 m fiber ring, One-Click&reg; cleaner and upgrade to FlexReports Advanced software with full reporting to a BAS kit.</li>
+            <li><strong>PRO kits</strong> add a FOCIS Flex auto-focusing connector inspection probe with IEC pass/fail analysis and two adapter tips to a PLUS Kit. TS100s are manufactured with APC connectors.</li>
+        </ul>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231122T212534Z
+    - ID: "ef2f63f2-c942-49a5-9c43-ebcfec40337e"
+      Hint: ProductName
+      Value: FlexScan® TS100 FTTH PON Troubleshooter
+    - ID: "fb72ff1d-6b1d-4970-916a-8162ff077e62"
+      Hint: ProcutItems
+      Value: |
+        {7502B3D5-A205-4A7F-8104-08E3D53E00D5}
+        {C31C2D61-0387-436F-AC41-01E679511392}
+        {D53C05A1-FD4C-427E-8812-A05F9F65708A}
+        {84C27700-2377-4795-ABB6-7A7154D95403}
+        {3EA3970D-58C9-446C-8200-F6C5EE901F6B}
+        {8CE5A75E-8948-400B-938F-3AF9C34823D3}
+        {3B21C403-C5AB-47C7-81BC-C757F68819D8}
+        {C942D14E-12FB-468B-A8A2-96CB150C250F}
+        {4CB4B513-E071-4C55-956F-F149AB5F4112}
+        {B848144D-FBFB-46AE-A7FD-2EA4053631F4}
+        {787DD9BC-EDA7-4251-B706-A4DCA79ED638}
+        {F7D3DC6B-0A5B-436A-9966-86F40F1AA7FE}
+        {E563C707-D3A1-46ED-AA5E-1E944039E008}
+        {C5B2268A-ECC9-463E-B8AA-72A5ABB04547}
+        {0E0E54E5-2A23-4D43-A12D-1C51FFC3E664}

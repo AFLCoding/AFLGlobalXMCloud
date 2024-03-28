@@ -1,0 +1,237 @@
+﻿---
+ID: "7feb4d88-cd48-4aa2-a434-069e52f4fe12"
+Parent: "02384aa1-10a1-40cf-a7b4-444768c8628d"
+Template: "231b4589-f8fc-498f-b0f6-64fabecbc7b9"
+Path: /sitecore/content/AFLGlobal/APAC/Home/Products/Test and Inspection/Fiber Optic Inspection and Cleaning/Fiber Optic Inspection/DFS1 Digital FiberScope
+SharedFields:
+- ID: "1fbc6a49-6281-48ee-87e9-a3970b145adb"
+  Hint: NavigationFilter
+  Value: |
+    {E0A2A027-0932-4878-A7D6-0416D5263EFB}
+    {61BD64D6-809E-40AE-9297-2724A19329B3}
+    {D063E9D1-C7B5-4B1E-B31E-69886C9C59F5}
+    {500AE4C0-FA7B-463F-8149-EFFF7F044101}
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{DA631FB5-51B3-49F6-9915-732D093CF221}"
+- ID: "9135200a-5626-4dd8-ab9d-d665b8c11748"
+  Hint: __Never publish
+  Value: 1
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: 
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 102
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "16863469-616f-4d9e-a66f-02c79610ddaa"
+      Hint: ProductShortDescription
+      Value: "The DFS1 Digital FiberScope inspects fiber optic connector end-faces for damage or contamination. The DFS1 delivers video images via USB for display on AFL’s M-series OTDRs or C-series Testers. SimpleView™ software allows users to view end-faces using the DFS1 connected to their laptop's or PC's USB port.    The DFS1 is powered via USB, eliminating the need for batteries or an AC adapter.    Adapter tips are available for a wide range of optical connector ferrules and bulkhead adapters."
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220303T154325Z
+    - ID: "36d9d67b-3610-4327-963e-e209239944d7"
+      Hint: ProductApplication
+      Value: |
+        <h3 style="font-size: 16px; padding-bottom: 5px;">Applications:</h3><ul class="productDetailApplications">
+         <li style="display: list-item;">Ideal for Telco, Broadband, and Enterprise applications</li>
+         <li style="display: list-item;">Optical connector and bulkhead adapter inspection</li>
+         <li style="display: list-item;">Display and analyze fiber end-face quality on M-series OTDR, C-series Tester, or PC</li>
+         <li style="display: list-item;">Visually inspect fiber ends for damage or contamination impairing optical transmission</li>
+         <li style="display: none;">Generate installation inspection records, associating captured digital photo with fiber ID</li>
+         
+         
+         
+         
+         
+        </ul>
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4dda6e0a-1c9d-4a8d-890f-11a8eddc2f11"
+      Hint: ProductFeatures
+      Value: |
+        <h3 style="font-size: 16px; padding-bottom: 5px;">Features:</h3><ul class="productDetailFeatures">
+         <li style="display: list-item;">Ergonomic, hand-held design enables single-handed operation</li>
+         <li style="display: list-item;">Up to 400x magnification with fast, easy focus and display capture</li>
+         <li style="display: list-item;">Video output via USB port to AFL’s M200, M700, C840, C850, C860, or C880</li>
+         <li style="display: list-item;">Powered from USB; no batteries required</li>
+         <li style="display: none;">Extensive assortment of interchangeable fiber connector and bulkhead adaptor tips</li>
+         <li style="display: none;">Adapter tips easily removed and installed</li>
+         <li style="display: none;">AFL SimpleView software allows DFS1 to be used with Windows PC or laptop</li>
+         
+         
+         
+        </ul>
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: DFS1 Digital FiberScope
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\archana
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: "The DFS1 Digital FiberScope inspects fiber optic connector end-faces for damage or contamination. The DFS1 delivers video images via USB for display on AFL’s M-series OTDRs or C-series Testers. SimpleView™ software allows users to view end-faces using the DFS1 connected to their laptop's or PC's USB port.    The DFS1 is powered via USB, eliminating additional batteries or AC charger.    Adapter tips are available for a wide range of optical connector ferrules and bulkhead adapters."
+    - ID: "59ec008e-95ec-4c06-9189-09d4acaf1d7e"
+      Hint: ProductCategory
+      Value: "{322F51C0-78F6-4C53-AC8C-AB128549CDBB}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\archana
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: DFS1, FiberScope, fiber inspection, AFL, video inspection, USB, SimpleView, M200, M700, C840, C850, C860, C880, connector inspection, bulkhead adapter inspection, Viavi, Exfo, Fluke Networks, VeEx, Anritsu
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: DFS1 Digital FiberScope
+    - ID: "72653cc9-973c-4682-b5c7-26d926959f8f"
+      Hint: ProductImage
+      Value: |
+        <image stylelabs-content-id="46500" src="https://afl-delivery.stylelabs.cloud/api/public/content/b12fb2508a034f8ea12ac8b6c0a48558?v=4720bf09" stylelabs-content-type="Image" alt="DFS1 Digital FiberScope" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/46500/thumbnail" />
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: DFS1 Digital FiberScope
+    - ID: "8b978017-d437-40aa-b31d-bbf1d560a0cb"
+      Hint: DownloadFileLink
+      Value: |
+        <link id="{8D6F6420-9116-4B2B-914B-15AB6B7EA007}" querystring="" target="_blank" text="SPECIFICATION SHEET" anchor="" title="" class="" url="/sitecore/media library/Project/AFL-Global/Product Specification Sheet/Test and Inspection/Fiber Inspection and Cleaning/DFS1-00-2000" linktype="media" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "80f38d3f-3779-4808-a545-9a6826fa2ee4"
+    - ID: "93dc88f3-05e5-482d-9b9a-c859c8258a73"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="169954" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/169954/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/fb3505cd5c9f419dbfd2851c8b222d11?v=8f5d8c34" stylelabs-content-type="Image" alt="Inspection_Clean_TopLevel.jpg" height="465" width="1336" />
+    - ID: "ab4c1906-c756-4771-818b-3683089665ee"
+      Hint: ProductMediaItems
+      Value: |
+        {E032702A-B935-4229-896F-27343CB046FD}
+        {FA8EAAD2-F6D6-4C8A-B3B7-FAC56DDA892B}
+        {47E65488-E572-48B9-B120-144C6F0A6DAC}
+        {95709615-24EB-472E-BE39-CBEF1C4F2177}
+        {0C158959-75B8-46B9-AAE3-E99DA1A8650C}
+        {621C183C-FDD0-4B8F-8809-8152DDBFBC32}
+    - ID: "af4f5f0d-745a-4af7-aee7-2002f0430999"
+      Hint: ProductTitle
+      Value: DFS1 Digital FiberScope
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d1f74386-05c3-4c80-aa18-38d21db05fdf"
+      Hint: ProductId
+      Value: 240
+    - ID: "d93ad815-376a-43bf-b34b-cbad0b1b7128"
+      Hint: ProductLongDescription
+      Value: |
+        <h2>   <strong><span>DFS1 Digital FiberScope</span></strong></h2>
+        <p>   <span>The DFS1 Digital FiberScope supports magnified video inspection of optical fiber connector end-faces during fiber optic cable and connector installation and maintenance. The ergonomically designed hand-held unit illuminates fiber end-faces and delivers magnified images via USB port to AFL&rsquo;s M-series OTDRs (M200, M700) or C-series OTDRs and Certification Testers (C840, C850, C860, C880). FiberScope software displays, labels, and stores captured images as part of connector installation and/or maintenance records.</span></p>
+        <p>   <span>AFL SimpleView&trade; Fiber Inspection Software is an application which permits the DFS1 Digital FiberScope to be used with Windows&reg; XP or Windows&reg; 7 computers. AFL SimpleView software displays a live, high-resolution video image of the end-face of an optical fiber on the PC&rsquo;s display. SimpleView software is a free download.</span></p>
+        <p>   <span>A large adjustment knob permits easy focusing using real-time view. Once focused, a conveniently located trigger button signals the attached display device to capture the image for analysis and archiving. The scope&rsquo;s ergonomic shape and control locations support comfortable, single-handed operation.</span></p>
+        <p>   <span>The DFS1 is powered through the USB port, eliminating the need for an additional battery or AC power supplies. Electronic video inspection eliminates all danger of eye damage from active (lit) fibers carrying either visible or infrared wavelengths.</span></p>
+        <p>   <span>An extensive assortment of adapters supports inspection of a wide range of optical jumper cable connector ferrules and bulkhead adapters. Bulkhead adapter tips are available in multiple lengths as well as 60&deg; angle. Connector adapters are available for PC, UPC, or APC polished ferrules in 1.25 mm, 2.5 mm and other diameters.&nbsp;For more details on available connector adapters, see DFS1 Adapter Tips datasheet.</span></p>
+        <p>   <span>The DFS1 is available in three different kits which provide either PC/UPC adapters, APC adapters, or no adapters. All kits include soft carry case, an adapter tip storage box, quick reference guide, plus FiberScope display software update for M200, M210, M700, C840, C850, C860, and C880.</span></p>
+        <h3>   <strong><span>ORDERING INFORMATION:</span></strong></h3>
+        <table border="1" cellpadding="0" cellspacing="0">
+            <tbody>
+                <tr>
+                    <td id="title" valign="top" style="width: 144px;">
+                    <div>       <strong><span>Model</span></strong></div>
+                    </td>
+                    <td id="title" valign="top" style="width: 494px;">
+                    <div>       <strong><span>Description</span></strong></div>
+                    </td>
+                </tr>
+                <tr>
+                    <td valign="top" style="width: 144px;">
+                    <div>       <span>DFS1-00-04XU</span></div>
+                    </td>
+                    <td valign="top" style="width: 494px;">
+                    <div>       <span>DFS1 Kit with SC, FC, LC UPC ferrule and bulkhead adapters</span></div>
+                    </td>
+                </tr>
+                <tr>
+                    <td valign="top" style="width: 144px;">
+                    <div>       <span>DFS1-00-04XA</span></div>
+                    </td>
+                    <td valign="top" style="width: 494px;">
+                    <div>       <span>DFS1 Kit with SC and FC APC ferrule and bulkhead adapters</span></div>
+                    </td>
+                </tr>
+                <tr>
+                    <td valign="top" style="width: 144px;">
+                    <div>       <span>DFS1-00-04XN</span></div>
+                    </td>
+                    <td valign="top" style="width: 494px;">
+                    <div>       <span>DFS1 Kit with no adapters;&nbsp;Order adapters separately</span></div>
+                    </td>
+                </tr>
+                <tr>
+                    <td valign="top" style="width: 144px;">      DFS1-001-00</td>
+                    <td valign="top" style="width: 494px;">      DFS1 Software update for M200, M210, M700, C840, C850, C860, C880</td>
+                </tr>
+            </tbody>
+        </table>
+        <div>   &nbsp;</div>
+        <p>   &nbsp;<span>Download&nbsp;</span><span><a href="http://www.aflglobal.com/Products/Test-and-Inspection/Software/AFL_SimpleView(TM)_Fiber_Inspection_Software.aspx">SimpleView software</a>&nbsp;</span><span>for your PC.</span></p>
+        <p>&nbsp;</p>
+        <style>
+            table {
+            border-collapse: collapse;
+            border-spacing: 0;
+            width: 100% !important;
+            border: 1px solid #ddd;
+            background-color: #FFFFFF;
+            }
+            th, td {
+            text-align: left;
+            padding: 16px;
+            }
+            tr:nth-child(even) {
+            background-color: rgba(128, 128, 128, 0.07);
+            }
+            #title {
+            background-color: #00c0f3 !important;
+            color: #FFFFFF !important;
+            }
+            td {
+            padding: 15px !important;
+            border-right: 1px solid rgba(128, 128, 128, 0.5) !important;
+            border-bottom: 1px solid rgba(128, 128, 128, 0.5) !important;
+            border-top-color: rgba(128, 128, 128, 0.5) !important;
+            border-left-color: rgba(128, 128, 128, 0.5) !important;
+            border-top-style: solid !important;
+            border-left-style: solid !important;
+            text-align: left !important;
+            line-height: 1.5 !important;
+            display: table-cell !important;
+            }
+            .afl-subPages table tbody tr td {
+            font-size: 15px !important;
+            }
+            tr:hover {
+            background-color: #e6e6e6;
+            }
+        </style>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231122T212531Z
+    - ID: "ef2f63f2-c942-49a5-9c43-ebcfec40337e"
+      Hint: ProductName
+      Value: DFS1 Digital FiberScope
+    - ID: "fb72ff1d-6b1d-4970-916a-8162ff077e62"
+      Hint: ProcutItems
+      Value: |
+        {7502B3D5-A205-4A7F-8104-08E3D53E00D5}
+        {C31C2D61-0387-436F-AC41-01E679511392}
+        {D53C05A1-FD4C-427E-8812-A05F9F65708A}
+        {84C27700-2377-4795-ABB6-7A7154D95403}
+        {3EA3970D-58C9-446C-8200-F6C5EE901F6B}
+        {8CE5A75E-8948-400B-938F-3AF9C34823D3}
+        {3B21C403-C5AB-47C7-81BC-C757F68819D8}

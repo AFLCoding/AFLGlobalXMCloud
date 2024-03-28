@@ -1,0 +1,148 @@
+﻿---
+ID: "5d2cc816-fa40-4c35-aad4-67442a85169c"
+Parent: "12e08401-bd40-4f38-9529-d68b4788ac24"
+Template: "231b4589-f8fc-498f-b0f6-64fabecbc7b9"
+Path: /sitecore/content/AFLGlobal/APAC/Home/Products/Fiber Optic Connectivity/Field Installable Connectors/FASTConnect Mechanical Connectors
+SharedFields:
+- ID: "1fbc6a49-6281-48ee-87e9-a3970b145adb"
+  Hint: NavigationFilter
+  Value: |
+    {E0A2A027-0932-4878-A7D6-0416D5263EFB}
+    {61BD64D6-809E-40AE-9297-2724A19329B3}
+    {D063E9D1-C7B5-4B1E-B31E-69886C9C59F5}
+    {500AE4C0-FA7B-463F-8149-EFFF7F044101}
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{DA631FB5-51B3-49F6-9915-732D093CF221}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: 
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 101
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "16863469-616f-4d9e-a66f-02c79610ddaa"
+      Hint: ProductShortDescription
+      Value: "A field installable factory pre-polished connector that utilizes the proven technology of mechanical splices to provide customizable connectivity solutions. "
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220303T152558Z
+    - ID: "36d9d67b-3610-4327-963e-e209239944d7"
+      Hint: ProductApplication
+      Value: |
+        <h3 style="color: #282828; background-color: #ffffff; margin: 0px; padding-bottom: 5px;">Applications:</h3>
+        <ul class="productDetailApplications" style="color: #333333; background-color: #ffffff; margin: 0px 0px 15px; padding: 0px 0px 0px 15px; list-style-image: url('https://www.aflglobal.com/productionFiles/images/bulletRound.aspx');">
+            <li style="margin: 0px 0px 6px;">Premise environments</li>
+            <li style="margin: 0px 0px 6px;">Connections at the desk for LAN environments</li>
+            <li style="margin: 0px 0px 6px;">Patch panels</li>
+            <li style="margin: 0px 0px 6px;">Direct equipment termination</li>
+            <li style="margin: 0px 0px 6px;">Fiber to the Subscriber (FTTx) applications</li>
+            <li style="margin: 0px 0px 6px;">Repair and replacement requirements</li>
+            <li style="margin: 0px 0px 6px;">Equipment test leads</li>
+        </ul>
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4dda6e0a-1c9d-4a8d-890f-11a8eddc2f11"
+      Hint: ProductFeatures
+      Value: |
+        <h3 style="color: #282828; background-color: #ffffff; margin: 0px; padding-bottom: 5px;">Features:</h3>
+        <ul class="productDetailFeatures" style="color: #333333; background-color: #ffffff; margin: 0px 0px 15px; padding: 0px 0px 0px 15px; list-style-image: url('https://www.aflglobal.com/productionFiles/images/bulletRound.aspx');">
+            <li style="margin: 0px 0px 6px;">Pre-stubbed, factory-polished ferrule</li>
+            <li style="margin: 0px 0px 6px;">No epoxy required</li>
+            <li style="margin: 0px 0px 6px;">Precision mechanical alignment ensures low loss</li>
+            <li style="margin: 0px 0px 6px;">Fiber can be reseated</li>
+            <li style="margin: 0px 0px 6px;">900uum boot provided with each connector with separate boot kits available for 2.0 and 3.0mm diameter style cables</li>
+            <li style="margin: 0px 0px 6px;">VFI can be used to confirm fiber is installed properly</li>
+        </ul>
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: FASTConnect Mechanical Connectors
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\archana
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: AFL's line of FASTConnect field installable connectors include LC, ST, SC and are compatible with 250 µm and 900 µm fiber optic cables.
+    - ID: "59ec008e-95ec-4c06-9189-09d4acaf1d7e"
+      Hint: ProductCategory
+      Value: "{46F2B43E-2D9F-4276-948D-0D52F94DB9EB}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\archana
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: "Connectors, FAST Connectors, NENP, No Epoxy, No Epoxy, No Polish, Prepolished, Pre-polished, FAST, Field Installable"
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: FASTConnect Mechanical Connectors
+    - ID: "612fc437-a34e-408c-a80f-a3ce18887805"
+      Hint: SuggestionBoxRedirectIcon
+      Value: |
+        <image mediaid="{5A901871-5681-4DAD-ABC1-FB375934B088}" alt="FASTConnect Mechanical Connectors" height="" width="" hspace="" vspace="" />
+    - ID: "72653cc9-973c-4682-b5c7-26d926959f8f"
+      Hint: ProductImage
+      Value: |
+        <image stylelabs-content-id="183026" src="https://afl-delivery.stylelabs.cloud/api/public/content/2edf1f5b27324737b27b31aaededd5ff?v=c5a0dcfb" stylelabs-content-type="Image" alt="FASTConnect� Mechanical Connectors" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/183026/thumbnail" />
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: FASTConnect Mechanical Connectors
+    - ID: "8b978017-d437-40aa-b31d-bbf1d560a0cb"
+      Hint: DownloadFileLink
+      Value: |
+        <link text="SPECIFICATION SHEET" target="_blank" linktype="media" id="{0AA0B9B7-2605-47BE-B3CF-8C2B9BBF8483}" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "cb7e058f-846c-48b4-8257-10c728dab5da"
+    - ID: "93dc88f3-05e5-482d-9b9a-c859c8258a73"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="169702" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/169702/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/Field-Installable-Connectors?v=9fcfcf86" stylelabs-content-type="Image" alt="connectors.jpg" height="465" width="1336" />
+    - ID: "ab4c1906-c756-4771-818b-3683089665ee"
+      Hint: ProductMediaItems
+      Value: |
+        {CAC6F9E6-5543-4DB6-9D76-F7E6B3874E94}
+        {AD5D2FA6-52A4-4BDB-860F-F13DA770F1E2}
+    - ID: "af4f5f0d-745a-4af7-aee7-2002f0430999"
+      Hint: ProductTitle
+      Value: FASTConnect® Mechanical Connectors
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d1f74386-05c3-4c80-aa18-38d21db05fdf"
+      Hint: ProductId
+      Value: 414
+    - ID: "d93ad815-376a-43bf-b34b-cbad0b1b7128"
+      Hint: ProductLongDescription
+      Value: "FASTConnect&reg; field-installable connectors are factory pre-polished connectors that completely eliminate the need for hand polishing in the field. Proven mechanical splice technology ensuring precision fiber alignment, a factory pre-cleaved fiber stub and a proprietary index-matching gel combine to offer an immediate low loss termination to either single-mode or multimode optical fibers.<br />  &nbsp;<br />  FASTConnect&reg; connectors are compatible with 250 &micro;m and 900 &micro;m optical fibers, as well as 900 &micro;m, 2 mm and 3 mm cordage. All primary fiber types are supported, and each connector is color coded per industry-standard requirements to aide in identification during and after installation. A factory-installed wedge clip (included with each connector) is removed and discarded upon completion of the termination. Incorporated into this device is an innovative, translucent wedge enabling the use of a common VFI to provide a &ldquo;pass/fail&rdquo; signal once physical contact is achieved.<br />"
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231122T212526Z
+    - ID: "ef2f63f2-c942-49a5-9c43-ebcfec40337e"
+      Hint: ProductName
+      Value: FASTConnect® Mechanical Connectors
+    - ID: "fb72ff1d-6b1d-4970-916a-8162ff077e62"
+      Hint: ProcutItems
+      Value: |
+        {4C0699D0-15A6-4217-AB1C-0DCEC426F1FF}
+        {E0E6F90A-FC55-45B1-9EA7-1BFCC3FD63C8}
+        {2DB58564-026C-46C3-9694-7527C5B37605}
+        {F2A51A75-6379-4D00-900F-AD05991D7EEB}
+        {848F898D-030C-4C05-9CCA-09B9E9027460}
+        {E3E4755D-93D4-4605-A6ED-73A1D488B299}
+        {B080B4B9-965E-49F5-BADA-BAC6FFC74C2A}
+        {2258DB32-3ADF-4D95-8756-AEEBE28FB3F8}
+        {7192BF27-5E4B-4237-8E49-23D3452D2F76}
+        {A9B27E10-666E-4F6D-B977-1C422C9D5159}
+        {1638DFE5-093B-4B87-8898-A7CD08B97987}
+        {E622FFB3-59F8-4D19-B687-C5BB60FFBE6B}
+        {EB946BB0-CFFB-47A4-9CC7-9D0603129296}
+        {0998B660-D14C-4292-806C-AB4A621C7EA0}
+        {62293A79-CF7D-4DEE-A93B-644EAE2BBDF2}

@@ -1,0 +1,168 @@
+﻿---
+ID: "a8a20aae-0afb-4c89-bfd8-f0be27e96917"
+Parent: "265533dc-edf2-4142-ba52-ac7524afb855"
+Template: "2ad23d55-aecd-43dd-ae0d-72d2ebcba60f"
+Path: /sitecore/content/AFLGlobal/APAC/Home/Products/Test and Inspection/FTTx PON Deployment Made EASY/Data/HTML Code 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "24cce27c-05db-4473-a1ed-e69b1725ff1c"
+      Hint: HtmlCode
+      Value: |
+        <style>
+            * {
+              box-sizing: border-box;
+            }
+            
+              .title {
+                text-align: center;
+               margin-bottom: 12px;
+               margin-top: 0;
+               font-size: 28px;
+               font-weight: 600!important;
+              }
+        	.ul3links {
+        		margin-left: 100px;
+        	}
+        #subtitle {
+        text-align: center;
+        font-style: italic;
+        }
+        p {
+        font-size: 18px;
+            font-weight: 400;
+            line-height: 1.4em;
+        margin-bottom: 1.4em;
+            margin-top: 0;
+        }
+        .lista {
+            list-style-type: disc;
+        font-size: 18px;
+        }
+            .flex-container {
+              display: flex;
+              flex-wrap: wrap;
+              font-size: 18px;
+              text-align: justify;
+              background-color: #efefef;
+        padding-left: 2%;
+            }
+            /* first item */
+            .flex-item-left {
+              padding: 10px;
+              flex: 50%;
+            }
+            
+            .flex-item-right {
+              padding: 10px;
+              flex: 50%;
+            }
+            
+            
+            /* fifth item */
+            /* sith item */
+            /* Responsive layout - makes a one column-layout instead of a two-column layout */
+            @media (max-width: 800px) {
+              .flex-item-right, .flex-item-left {
+                flex: 100%;
+              }
+            }
+            .subFooter .rich-text p {
+            font-size: 12px;
+        }
+        .btn a, .btn-primary {
+        border: none !important;
+        }
+        /*nav margin  */
+        @media screen and (max-width: 1127px) {
+          .btn a, .btn-primary {
+            margin: 2px;
+          }
+        }
+            </style>
+        <nav style="text-align: center;" id ="navbar">
+          <a class="btn btn-primary" href ="/Products/Test-and-Inspection/FTTx-PON-Deployment-Made-EASY"> Home</a>
+         <a class = "btn btn-primary" href="/Products/Test-and-Inspection/FTTx-PON-Deployment-Made-EASY/Fiber-Installation-Verification"> Fiber Installation Verification</a>
+          <a class = "btn btn-primary" href="/Products/Test-and-Inspection/FTTx-PON-Deployment-Made-EASY/PON-Verification-and-Activation"> PON Verification and Activation</a>
+          <a class = "btn btn-primary" href="/Products/Test-and-Inspection/FTTx-PON-Deployment-Made-EASY/Troubleshooting-and-Repair"> Troubleshooting and Repair</a>
+        </nav>
+        <br/>
+        <br/>
+                      <div>
+                        <h2 class="afl-subTitle field-productname" id="challenges-of-fttx-pon">Challenges of FTTx PON </h2>
+                      </div>
+                      <p>Streaming 4K video, online gaming, work-from-home initiatives, richer internet content and more are fueling a global demand for higher bandwidth FTTx PON deployments. When it comes to test and inspection of these networks, there are many challenges unique to each PON application. </p>
+                      <div>
+                        <h3 class="afl-subTitle" id="trained-salesforce">Trained Salesforce</h3>
+                      </div>
+                      <p>With the increasing demand for FTTx PON installations, the labor need has never been higher and is expected to grow. Less experienced workers need to be equipped with training and easy-to-use tools for service providers to stay competitive. </p>
+                      <div>
+                        <h3 class="afl-subTitle" id="purpose-built-tools">Purpose-Built Tools</h3>
+                      </div>
+                      <p>PON troubleshooting is an important part of FTTx maintenance. Rugged, durable tools designed and developed for specific PON applications and environments are necessary for quick detection, identification and resolution of network issues.</p>
+                      <div>
+                        <h3 class="afl-subTitle" id="speed-of-operations">Speed of Operations</h3>
+                      </div>
+                      <p>When a network fails, the time to identify, diagnose and resolve issues is critical. Troubleshooting tools should be intuitive to configure, easy to understand, provide rapid results and identify corrective actions.</p>
+                       <div>
+                        <h2 class="afl-subTitle field-productname" id="how-can-afl-help">How can AFL Help </h2>
+                      </div>
+                      <p>AFL offers intelligent, intuitive tools to reduce the complexity of troubleshooting, cutting training costs and shortening the time spent troubleshooting network issues. </p>
+                      <p>Typical PON deployments include three distinct applications. While Larger telcos may have dedicated groups requiring dedicated tools for each application, smaller service providers may need a more all-in-one solution for a workforce responsible for all three applications.</p>
+                      <ul class="ul3links lista">
+                        <li><a href="/Products/Test-and-Inspection/FTTx-PON-Deployment-Made-EASY/Fiber-Installation-Verification" target="_blank" data-interception="off" title="Fiber-Installation-Verification">Fiber Installation Verification</a> - Verify the dark fiber optic infrastructure </li>
+                        <li><a href="/Products/Test-and-Inspection/FTTx-PON-Deployment-Made-EASY/PON-Verification-and-Activation" target="_blank" data-interception="off" title="PON-Verification-&-Activation">PON Verification &amp; Activation</a> - Connect OLT, ONT and verify PON signal levels </li>
+                        <li><a href="/Products/Test-and-Inspection/FTTx-PON-Deployment-Made-EASY/Troubleshooting-and-Repair" target="_blank" data-interception="off" title="Troubleshooting%20&%20Repair">PON Troubleshooting</a> - Troubleshoot, fix and verify PON installations</li>
+                      </ul>
+                      <p><br>
+                      </p>
+        <div class="flex-container">
+                <div class="flex-item-left">
+                <h2 class="title">Resources</h2>
+                <p>We have a number of resources available to help with decision making. Below are links to some materials to help you learn about FTTx terms, applications and product information.​​​​​​​</p>
+                <ul class="lista">
+                    <li><a href="https://learn.aflglobal.com/test-inspection/pon-reference-guide"> Reference Guide</a> (PDF)</li>
+                    <li><a href="https://afl-delivery.stylelabs.cloud/api/public/content/c6ea764458da49e8869467f0459b693c?v=7b9160e6"> Test & Inspection FTTx Solution Guide</a> (PDF)</li>
+                    <li><a href="https://www.youtube.com/watch?v=RF19JIdlCZs">PON Troubleshooting with the TS100</a> (Video)</li>
+                    <li><a href="https://learn.aflglobal.com/test-inspection/how-a-southeast-telecom-provider-uses-aflflowscout"> Use Case: FlowScout helps PRTC for Troubleshooting</a> (Blog)</li>
+                    
+                </ul>
+        <br/>
+                </div>
+                <div class="flex-item-right">
+                <h2 class="title">More Information</h2>
+                <p>Contact us today to speak with an FTTx expert or email for a quick quote. We are happy to help.<br/><br/></p>
+        <ul class="lista">
+                <li>Sales inquiries: <a href="tel:18002353423">+1 (800) 235-3423</a></li>
+                <li><a href="https://www.aflglobal.com/en/Products/Test-and-Inspection">Test & Inspection Webpage</a></li>
+                <li><a href="https://www.aflglobal.com/en/Contact/Contact-and-RFQ-Form">Quick Quote</a></li>
+                <li><a href="https://www.aflglobal.com/en/Contact/Distribution-Partners">Distribution Partners</a></li>
+        </ul>
+                </div>
+              </div>
+        <p><br/></p>
+        
+        
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230621T141115Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rafael
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rafael
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f0196a09-9bb0-4d49-a14e-8c83e359aab3"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rafael
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230719T182434Z

@@ -1,0 +1,193 @@
+﻿---
+ID: "4b7f162a-d6e9-439d-8b18-c6abd5b4cf75"
+Parent: "6b0cc99d-fbe4-4015-a4c8-67fb0d4f1d1a"
+Template: "231b4589-f8fc-498f-b0f6-64fabecbc7b9"
+Path: /sitecore/content/AFLGlobal/APAC/Home/Products/Test and Inspection/OTDRs and Troubleshooters/FlexScan FS300 Quad OTDRs with SmartAuto  LinkMap
+SharedFields:
+- ID: "1fbc6a49-6281-48ee-87e9-a3970b145adb"
+  Hint: NavigationFilter
+  Value: |
+    {E0A2A027-0932-4878-A7D6-0416D5263EFB}
+    {61BD64D6-809E-40AE-9297-2724A19329B3}
+    {D063E9D1-C7B5-4B1E-B31E-69886C9C59F5}
+    {500AE4C0-FA7B-463F-8149-EFFF7F044101}
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{DA631FB5-51B3-49F6-9915-732D093CF221}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{DAE7C21D-4D3B-4257-A95C-9104CD8AF409}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 101
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "16863469-616f-4d9e-a66f-02c79610ddaa"
+      Hint: ProductShortDescription
+      Value: "FlexScan FS300-325 pocket-sized, easy-to-use Quad OTDRs test multimode and single-mode networks – including FTTH PONs and POLANs up to 1:64 split ratio – while still detecting and measuring events <2 metres apart."
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220128T171115Z
+    - ID: "36d9d67b-3610-4327-963e-e209239944d7"
+      Hint: ProductApplication
+      Value: |
+        <h3 style="font-size: 16px; padding-bottom: 5px;">Applications:</h3><ul class="productDetailApplications">
+        	<li>OTDR and Insertion Loss test &amp; reporting</li>
+        	<li>Fast, accurate pt-to-pt &amp; PON verification &amp; troubleshooting</li>
+        	<li>Locate faults exceeding industry or user pass/fail thresholds</li>
+        	<li>Visually pinpoint location of macro-bends or breaks</li>
+        	
+        	
+        	
+        	
+        	
+        	
+        </ul>
+    - ID: "4dda6e0a-1c9d-4a8d-890f-11a8eddc2f11"
+      Hint: ProductFeatures
+      Value: |
+        <h3 style="font-size: 16px; padding-bottom: 5px;">Features:</h3><ul class="productDetailFeatures">
+        	<li style="display: list-item;">Test MMF and SMF, point-to-point and PON</li>
+        	<li style="display: list-item;">SmartAuto detects closely spaced events without sacrificing range</li>
+        	<li style="display: list-item;">LinkMap icons clearly identify event type &amp; pass/fail status</li>
+        	<li style="display: list-item;">Print-to-PDF plus internal &amp; external data storage</li>
+        	<li style="display: none;">Rugged, lightweight, handheld for field use</li>
+        	<li style="display: none;">Best-in-class 25 m PON dead zone</li>
+        	<li style="display: none;">Integrated Source, Power Meter, Visual Fault Locator</li>
+        	<li style="display: none;">Bluetooth &amp; WiFi communications</li>
+        	<li style="display: none;">Tether-free connector inspection with FOCIS Flex/Duel</li>
+        	
+        </ul>
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: FlexScan® FS300 Quad OTDRs with SmartAuto® & LinkMap®
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\archana
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: "FlexScan FS300-325 pocket-sized, easy-to-use Quad OTDRs test multimode and single-mode networks – including FTTH PONs and POLANs up to 1:64 split ratio – while still detecting and measuring events <2 metres apart."
+    - ID: "59ec008e-95ec-4c06-9189-09d4acaf1d7e"
+      Hint: ProductCategory
+      Value: "{80AE80BE-E823-4C52-AFCB-6FB0CBD1A984}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\archana
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: flex scan, flex, scan, test, inspection. otdr, 
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: FlexScan® FS300 Quad OTDRs with SmartAuto® & LinkMap®
+    - ID: "646d0f97-6838-4bff-800d-895747365401"
+      Hint: AFLDocumentList
+      Value: |
+        {5CBDD378-AA32-4DB3-9FB8-3DF8F294DFC3}
+        {4C88546F-799D-48FB-9ED4-9CDFC97D1970}
+        {E0B9C6C9-8405-4F3D-8365-100F46D5C5E4}
+        {6083DE35-0DEE-4B80-8FB8-B7F2516B02FE}
+        {8ED9FD53-0A30-41D4-B6C2-138E156EAC44}
+        {AF24E0F1-19E0-480B-86B8-195946B5AA88}
+        {6D9F907D-2A85-4654-A6B3-AF3D8F546112}
+        {DA5649D0-9878-4F86-908D-6645AB4529E7}
+        {98AD6B1E-75B7-48C8-913F-2A86919CC2B6}
+    - ID: "72653cc9-973c-4682-b5c7-26d926959f8f"
+      Hint: ProductImage
+      Value: |
+        <image stylelabs-content-id="184459" src="https://afl-delivery.stylelabs.cloud/api/public/content/07febe990e17414d944817d9e17e7b3b?v=e9c542ed" stylelabs-content-type="Image" alt="FlexScan FS300 Quad OTDRs with SmartAuto  LinkMap " thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/184459/thumbnail" />
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: FlexScan® FS300 Quad OTDRs with SmartAuto® & LinkMap®
+    - ID: "8b978017-d437-40aa-b31d-bbf1d560a0cb"
+      Hint: DownloadFileLink
+      Value: |
+        <link text="SPECIFICATION SHEET" target="_blank" linktype="media" id="{9940B607-B18B-4198-98FD-555061E9C167}" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "115173c5-f6c9-4281-990c-2a49479bd18a"
+    - ID: "93dc88f3-05e5-482d-9b9a-c859c8258a73"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="267972" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/267972/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/0ec0fd3a37934bb6ac75d2c4bcfecee7?v=cde51a5c" stylelabs-content-type="Image" alt="Test_OTDRs.jpg" height="465" width="1336" />
+    - ID: "a40ebd3d-2b41-41fb-90f7-753544ce77c5"
+      Hint: Hero Title1
+      Value: FlexScan® FS300 Quad OTDRs with SmartAuto® & LinkMap®
+    - ID: "ad694352-89e0-4ab7-90e6-1ec187afd032"
+      Hint: AFLVideoList
+      Value: |
+        {2228C8F6-CB28-48DD-ABC5-CE4DB15ACDB6}
+        {B8CF2F7B-EC1E-46D1-AA4E-C56BAEF1AEBE}
+        {C9819FD3-4B53-4914-8E0C-2A8070EA3442}
+        {4ECECAFB-5EBF-4CDC-81AB-06D885E627DF}
+    - ID: "af4f5f0d-745a-4af7-aee7-2002f0430999"
+      Hint: ProductTitle
+      Value: FlexScan® FS300 Quad OTDRs with SmartAuto® & LinkMap®
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d1f74386-05c3-4c80-aa18-38d21db05fdf"
+      Hint: ProductId
+      Value: 2636
+    - ID: "d93ad815-376a-43bf-b34b-cbad0b1b7128"
+      Hint: ProductLongDescription
+      Value: |
+        <p style="margin: 0px; font-stretch: normal; font-size: 14px; line-height: normal; font-family: Arial;">   <span style="-webkit-font-kerning: none;"><strong>Performance-packed</strong></span><br />
+        <span style="-webkit-font-kerning: none;">With SmartAuto multi-pulse acquisition, 37 dB dynamic range and best-in-class dead zones, FlexScan Quad OTDRs test multimode and single-mode networks &ndash; including FTTH PONs and POLANs up to 1:64 split ratio &ndash; while still detecting and measuring events &lt;2 meters apart.<br />
+        <br />
+        <strong>User-friendly: </strong>FlexScan OTDRs enable both expert and novice technicians to quickly, reliably and accurately detect, locate, identify and measure optical network components and faults. After applying industry-standard or user-set pass/fail criteria, the network is displayed using FlexScan&rsquo;s intuitive, icon-based LinkMap view. Results may be printed to PDF and stored internally or externally. FlexScan automates test setup, shortens test time and simplifies results interpretation, improving test efficiency and cost.<br />
+        <br />
+        <strong>Pocket-sized:</strong> FlexScan OTDRs truly fit in your pocket, yet still deliver all-day battery operation plus a large, bright, indoor/outdoor, 5-inch 800x480 touchscreen display. With large touch controls, you&rsquo;ll never need a stylus.<br />
+        <br />
+        <strong>All-in-one test capability:</strong> With optional connector inspection, integrated optical light source, power meter and VFL, FlexScan provides an all-in one solution, ensuring technicians have everything they need to locate and resolve optical network issues. Uploaded results may be viewed and professional reports may be generated using the included Windows-compatible TRM&reg; 3.0 Test Results Manager software.<br />
+        <br />
+        <strong>Available in Convenient, Cost-saving Installation and Troubleshooting Kits: </strong>Bundle FlexScan with choice of launch cable, FOCIS Flex and connector inspection probe and tips.</span></p>
+        <p style="margin: 0px; font-stretch: normal; font-size: 14px; line-height: normal; font-family: Arial;"><span style="-webkit-font-kerning: none;">&nbsp;</span></p>
+        <p style="margin: 0px; font-stretch: normal; font-size: 14px; line-height: normal; font-family: Arial;"><span style="-webkit-font-kerning: none;"><strong><span style="line-height: 107%;">Easy reporting and archiving:</span></strong><span style="line-height: 107%;"> Included FlexReporter Basic software suite works with AFL Test and Inspection instruments to provide a simple-to-use, high performance cloud enabled reporting platform. FlexReporter combines FlexApp, a mobile App that wirelessly transfers test results to FlexReporter-Cloud from the field with FlexReports, a fast, comprehensive, 3-step PC software reporting solution. The FlexReporter software suite was developed to make the complicated task of reporting faster, simpler, and easy-to-use.</span></span><br />
+        &nbsp;</p>
+        <h2>   FlexScan FS300 Models and Kit Configurations</h2>
+        <p style="margin: 0px; font-stretch: normal; font-size: 14px; line-height: normal; font-family: Arial;">   <span style="-webkit-font-kerning: none;">FlexScan FS300-325 is a Quad OTDR (850/1300 nm Multimode + 1310/1550 nm Single-mode) offered in multiple kit configurations for cost-effective out-of-service FTTH PON and point-to-point newtwork installation verification and troubleshooting.<br />
+        <br />
+        FlexScan FS300-325 includes an integrated red laser Visual Fault Locator (VFL) and is available with optional integrated optical light source (OLS), optical power meter (OPM) plus Bluetooth/Wi-Fi wireless communications.<br />
+        <br />
+        FlexScan FS300-325 is available in five standard kit configurations:</span></p>
+        <div class="afl-subPages">
+        <ul>
+            <li>    <strong>BASIC Kit</strong>: Includes selected FlexScan, wrist strap, soft carry case, Quick Reference Guide plus FlexReports Basic software for viewing Test Results.  Users requiring full reporting capability should upgrade to FlexReports Advanced. Soft case includes room for optional accessories such as connector cleaning supplies, fiber ring (launch cable) or FOCIS Flex connector inspection solution.</li>
+            <li>    <strong>PLUS Kit</strong>: Adds a One-Click Cleaner, 150 m fiber ring (launch cable) plus FlexReports Advanced software with full reporting to a Basic Kit.</li>
+            <li>    <strong>PRO Kit</strong>: Adds an auto-focusing FOCIS Flex Fiber Optic Connector Inspection System and user-selected adapter tips to Plus Kit.
+            </li>
+            <li><strong>BIPM Complete Kit</strong>: Adds OFI-BIPMe Bend-insensitive Optical Fiber Identifier with Power Meter to PRO Kit.</li>
+            <li><strong>MPO Kit</strong>: Includes selected FlexScan and accessories, Multi-Fiber Switch, USB cable and 150 m fiber ring to connect FlexScan to Switch, plus Launch Cable to connect Switch to MPO-terminated multi-fiber network.</li>
+        </ul>
+        <p style="margin: 0px; font-stretch: normal; font-size: 14px; line-height: normal; font-family: Arial;">&nbsp;</p>
+        </div>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231122T212534Z
+    - ID: "ef2f63f2-c942-49a5-9c43-ebcfec40337e"
+      Hint: ProductName
+      Value: FlexScan® FS300 Quad OTDRs with SmartAuto® & LinkMap®
+    - ID: "fb72ff1d-6b1d-4970-916a-8162ff077e62"
+      Hint: ProcutItems
+      Value: |
+        {7502B3D5-A205-4A7F-8104-08E3D53E00D5}
+        {C31C2D61-0387-436F-AC41-01E679511392}
+        {D53C05A1-FD4C-427E-8812-A05F9F65708A}
+        {84C27700-2377-4795-ABB6-7A7154D95403}
+        {3EA3970D-58C9-446C-8200-F6C5EE901F6B}
+        {8CE5A75E-8948-400B-938F-3AF9C34823D3}
+        {3B21C403-C5AB-47C7-81BC-C757F68819D8}
+        {C942D14E-12FB-468B-A8A2-96CB150C250F}
+        {4CB4B513-E071-4C55-956F-F149AB5F4112}
+        {B848144D-FBFB-46AE-A7FD-2EA4053631F4}
+        {787DD9BC-EDA7-4251-B706-A4DCA79ED638}
+        {F7D3DC6B-0A5B-436A-9966-86F40F1AA7FE}
+        {E563C707-D3A1-46ED-AA5E-1E944039E008}
+        {C5B2268A-ECC9-463E-B8AA-72A5ABB04547}
+        {0E0E54E5-2A23-4D43-A12D-1C51FFC3E664}

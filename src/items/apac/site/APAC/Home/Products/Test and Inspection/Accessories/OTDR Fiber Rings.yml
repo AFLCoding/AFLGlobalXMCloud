@@ -1,0 +1,524 @@
+﻿---
+ID: "495a1329-7979-43bd-8b6e-3be17acda759"
+Parent: "8ebae86c-7bcb-4182-a175-d479a8dd5ea3"
+Template: "231b4589-f8fc-498f-b0f6-64fabecbc7b9"
+Path: /sitecore/content/AFLGlobal/APAC/Home/Products/Test and Inspection/Accessories/OTDR Fiber Rings
+SharedFields:
+- ID: "1fbc6a49-6281-48ee-87e9-a3970b145adb"
+  Hint: NavigationFilter
+  Value: |
+    {E0A2A027-0932-4878-A7D6-0416D5263EFB}
+    {61BD64D6-809E-40AE-9297-2724A19329B3}
+    {D063E9D1-C7B5-4B1E-B31E-69886C9C59F5}
+    {500AE4C0-FA7B-463F-8149-EFFF7F044101}
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{DA631FB5-51B3-49F6-9915-732D093CF221}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{DAE7C21D-4D3B-4257-A95C-9104CD8AF409}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 105
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "16863469-616f-4d9e-a66f-02c79610ddaa"
+      Hint: ProductShortDescription
+      Value: "Fiber Rings from AFL are often a necessity when testing with an OTDR. Both a launch and receive cable are required to measure complete link loss of a fiber with an OTDR. Because very long test cables are impractical to transport and use, AFL offers coiled lengths of 50 µm multimode, 62.5 µm multimode, or single-mode fiber conveniently packaged in compact rings.   "
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220303T154343Z
+    - ID: "36d9d67b-3610-4327-963e-e209239944d7"
+      Hint: ProductApplication
+      Value: |
+        <h3 style="font-size: 16px; padding-bottom: 5px;">Applications:</h3><ul class="productDetailApplications">
+         <li>Macro/Microbend detection</li>
+         <li>Automatic bi-directional trace analysis</li>
+         <li>Create reports with macrobend and bi-directional trace averaging</li>
+         <li>Exporting .SOR file to .CSV file format</li>
+         
+         
+         
+         
+         
+         
+        </ul>
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4dda6e0a-1c9d-4a8d-890f-11a8eddc2f11"
+      Hint: ProductFeatures
+      Value: |
+        <h3 style="font-size: 16px; padding-bottom: 5px;">Features:</h3><ul class="productDetailFeatures">
+         <li>Generates acceptance reports</li>
+         <li>Creates certification results and applies Pass/Fail</li>
+         <li>Documents networks</li>
+         <li>OTDR batch editing</li>
+         
+         
+         
+         
+         
+         
+        </ul>
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: OTDR Fiber Rings
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\archana
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: "NOYES Fiber Rings from AFL are a necessity when testing with an OTDR. Both a launch and receive cable are needed to measure complete link loss of a fiber with an OTDR. Because very long test cables are impractical to transport and use, NOYES designed coiled lengths of 50 µm multimode, 62.5 µm multimode, or single-mode fiber conveniently packaged in compact rings.   "
+    - ID: "59ec008e-95ec-4c06-9189-09d4acaf1d7e"
+      Hint: ProductCategory
+      Value: |
+        {527518B8-EA3A-4804-8844-1F0437F5CAA9}
+        {80AE80BE-E823-4C52-AFCB-6FB0CBD1A984}
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\archana
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: Launch Cable, Receive Cable, pulse suppressor, dead zone eliminator, fiber ring, OTDR, Launch Cables, Receive Cables, pulse suppressors, dead zone eliminators, fiber rings, launch fiber
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: OTDR Fiber Rings
+    - ID: "72653cc9-973c-4682-b5c7-26d926959f8f"
+      Hint: ProductImage
+      Value: |
+        <image stylelabs-content-id="46196" src="https://afl-delivery.stylelabs.cloud/api/public/content/9350c2baa1624bd48e65e141829b7fd3?v=65dc94b3" stylelabs-content-type="Image" alt="OTDR Fiber Rings " thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/46196/thumbnail" />
+    - ID: "8b978017-d437-40aa-b31d-bbf1d560a0cb"
+      Hint: DownloadFileLink
+      Value: |
+        <link text="SPECIFICATION SHEET" anchor="" linktype="media" class="" title="" target="_blank" querystring="" id="{B525ECFF-1F79-4FAD-ABB1-B316A282A2C7}" url="/sitecore/media library/Project/AFL-Global/Product Specification Sheet/Test and Inspection/Test Management and Reporting Software/FR00-00-2000" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d3765940-54c6-4acd-9c34-d37469d33757"
+    - ID: "93dc88f3-05e5-482d-9b9a-c859c8258a73"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="169961" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/169961/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-Test-and-Inspection-Accessories?v=f26e96cc" stylelabs-content-type="Image" alt="Test_Accesories_TopLevel.jpg" height="465" width="1336" />
+    - ID: "ab4c1906-c756-4771-818b-3683089665ee"
+      Hint: ProductMediaItems
+      Value: |
+        {F72AAC02-D412-476B-A00D-0A2E262D689D}
+        {4A8B102A-7E92-41F5-8259-6F3A73835B53}
+        {8D445AB4-9617-4213-A286-A35FB689C1E9}
+        {42DDDB07-E698-4017-84A1-505F52B6D91C}
+        {75778BB4-D4E7-4AF0-B9CA-EF8F1FDF3F7B}
+        {001C321A-E09D-4062-824C-D59560EC47FA}
+        {4F811ED7-9F31-4A7A-B1A7-5A9CD8B9BEBE}
+        {1ECC9511-FFC4-484E-9E74-748BC12EE31B}
+        {3F3E0E4F-1E8B-40CF-B28D-EA435445CB8D}
+        {5D6A642D-8E1C-4F3C-B2E3-55CDDA9196DE}
+        {17BD9C7B-0604-43C0-BBCE-8BAA3EF7EB57}
+        {AF644EAB-BC4F-46A5-8299-0EE76480F5D7}
+        {65903AD2-34FE-4053-8E69-97C16729DE04}
+        {1F906670-1363-404F-9194-80AE04DA4B88}
+        {CCC49FDD-CA98-48E1-9C11-F926C42907A9}
+        {2B561DB0-CFD5-41BF-8992-87B063135394}
+        {BD961658-939A-4654-A0A4-A6B3A63F5476}
+        {F7D44580-B473-49CA-B0B2-37424CF783F4}
+        {62F5783F-E38B-424C-8009-F87F502F4E1D}
+        {E7875166-C6EB-4589-93A6-345097D6F72C}
+        {A7B5E88B-C704-425B-969C-7850010FCC06}
+        {155E6C2D-D5B1-4F66-B763-FAE4246FC130}
+        {5CFE259B-DEB0-4D4C-A851-A2D59CD6769D}
+        {DB3126D8-61C9-474D-9156-FDF0A0B8DD76}
+        {F041CD97-A319-4B2E-9108-128C92E4AF69}
+    - ID: "af4f5f0d-745a-4af7-aee7-2002f0430999"
+      Hint: ProductTitle
+      Value: OTDR Fiber Rings 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sripada
+    - ID: "d1f74386-05c3-4c80-aa18-38d21db05fdf"
+      Hint: ProductId
+      Value: 597
+    - ID: "d93ad815-376a-43bf-b34b-cbad0b1b7128"
+      Hint: ProductLongDescription
+      Value: |
+        <h2>   OTDR Fiber Rings</h2>
+        <p>   Fiber Rings from AFL are often a necessity when testing with an OTDR. Fiber Rings are compact launch / receive cables designed to measure the insertion loss of the near-end and/or far-end connection of a fiber optic link using an OTDR. Both a launch and receive cable are required to measure complete link loss of a fiber with an OTDR. A launch cable, which connects the OTDR to the link under test, reveals the insertion loss and reflectance of the near-end connection. A receive cable, which connects to the far-end of the link, reveals the insertion loss and reflectance of the far-end connection. Launch and receive test cables can range from 150 m to 1 km (or longer) in length. Because very long test cables are impractical to transport and use, AFL offers coiled lengths of 50 &micro;m multimode, 62.5 &micro;m multimode, or single-mode fiber conveniently packaged in compact rings.</p>
+        <p>   Fiber Rings with150 m of fiber are ideal for premises fiber network test applications. Fiber Rings with 500 m or 1 km of single-mode fiber are designed for broadband, long-haul fiber network test applications. Fiber Rings are compact and fit easily in many OTDR carry cases and test kits. Fiber Rings are available from AFL in a variety of standard angled and non-angled connector styles including SC, ST, LC, and FC.</p>
+        <h3>   <strong>Ordering Information</strong></h3>
+        <table border="1" cellpadding="0" cellspacing="0" style="width:689px;" width="689">
+            <tbody>
+                <tr>
+                    <td id="title" style="width:156px;">      <strong>&nbsp;AFL NO. (New Numbers)</strong></td>
+                    <td id="title" style="width:165px;">      <strong>&nbsp;AFL NO. (Previously Used)</strong></td>
+                    <td id="title" style="width:260px;">      <strong>&nbsp;FIBER TYPE</strong></td>
+                    <td id="title" style="width:109px;">      <strong>&nbsp;FIBER LENGTH</strong></td>
+                </tr>
+                <tr>
+                    <td style="width:156px;">      &nbsp;FR-OM1-150-CC1-CC2</td>
+                    <td style="width:165px;">      &nbsp;FR1-M6-150-x1-x2</td>
+                    <td style="width:260px;">      &nbsp;Standard, Multimode, 62.5 &micro;m, OM1</td>
+                    <td style="width:109px;">      &nbsp;150 m (492 ft)</td>
+                </tr>
+                <tr>
+                    <td style="width:156px;">      &nbsp;FR-OM2-150-CC1-CC2</td>
+                    <td style="width:165px;">      &nbsp;FR1-M5-150-x1-x2</td>
+                    <td style="width:260px;">      &nbsp;Standard, Multimode, 50 &micro;m, OM2</td>
+                    <td style="width:109px;">      &nbsp;150 m (492 ft)</td>
+                </tr>
+                <tr>
+                    <td style="width:156px;">      &nbsp;FR-OM3-150-CC1-CC2</td>
+                    <td style="width:165px;">      &nbsp;FR1-OM3-150-x1-x2&nbsp;</td>
+                    <td style="width:260px;">      &nbsp;Laser Optimized, Multimode, 50 &micro;m, OM3</td>
+                    <td style="width:109px;">      &nbsp;150 m (492 ft)</td>
+                </tr>
+                <tr>
+                    <td style="width:156px;">      &nbsp;FR-OM4-150-CC1-CC2</td>
+                    <td style="width:165px;">      &nbsp;FR1-OM4-150-x1-x2</td>
+                    <td style="width:260px;">      &nbsp;Laser Optimized, Multimode, 50 &micro;m, OM4</td>
+                    <td style="width:109px;">      &nbsp;150 m (492 ft)</td>
+                </tr>
+                <tr>
+                    <td style="width:156px;">      &nbsp;FR-SMF-150-CC1-CC2</td>
+                    <td style="width:165px;">      &nbsp;FR1-SM-150-y1-y2</td>
+                    <td style="width:260px;">      &nbsp;Standard, Single-mode, G.652, SMF</td>
+                    <td style="width:109px;">      &nbsp;150 m (492 ft)</td>
+                </tr>
+                <tr>
+                    <td style="width:156px;">      &nbsp;FR-SMF-500-CC1-CC2</td>
+                    <td style="width:165px;">      &nbsp;FR1-SM-500-y1-y2</td>
+                    <td style="width:260px;">      &nbsp;Standard, Single-mode, G.652, SMF</td>
+                    <td style="width:109px;">      &nbsp;500 m (1640 ft)</td>
+                </tr>
+                <tr>
+                    <td style="width:156px;">      &nbsp;FR-SMF-1000-CC1-CC2</td>
+                    <td style="width:165px;">      &nbsp;FR1-SM-1000-y1-y2</td>
+                    <td style="width:260px;">      &nbsp;Standard, Single-mode, G.652, SMF</td>
+                    <td style="width:109px;">      &nbsp;1000 m (3280 ft)</td>
+                </tr>
+                <tr>
+                    <td style="width:156px;">      &nbsp;FR-BIF-150-CC1-CC2</td>
+                    <td style="width:165px;">      &nbsp;FR1-BIF-150-y1-y2</td>
+                    <td style="width:260px;">      &nbsp;Bend Insensitive, Single-mode, G.657.A2 BIF</td>
+                    <td style="width:109px;">      &nbsp;150 m (492 ft)&nbsp;</td>
+                </tr>
+                <tr>
+                    <td style="width:156px;">      &nbsp;FR-BIF-500-CC1-CC2</td>
+                    <td style="width:165px;">      &nbsp;FR1-BIF-500-y1-y2</td>
+                    <td style="width:260px;">      &nbsp;Bend Insensitive, Single-mode, G.657.A2 BIF</td>
+                    <td style="width:109px;">      &nbsp;500 m (1640 ft)</td>
+                </tr>
+                <tr>
+                    <td style="width:156px;">      &nbsp;FR-BIF-1000-CC1-CC2</td>
+                    <td style="width:165px;">      &nbsp;FR1-BIF-1000-y1-y2</td>
+                    <td style="width:260px;">      &nbsp;Bend Insensitive, Single-mode, G.657.A2 BIF</td>
+                    <td style="width:109px;">      &nbsp;1000 m (3280 ft)</td>
+                </tr>
+            </tbody>
+        </table>
+        <br />
+        <style>
+            table {
+            border-collapse: collapse;
+            border-spacing: 0;
+            width: 100% !important;
+            border: 1px solid #ddd;
+            background-color: #FFFFFF;
+            }
+            th, td {
+            text-align: left;
+            padding: 16px;
+            }
+            tr:nth-child(even) {
+            background-color: rgba(128, 128, 128, 0.07);
+            }
+            #title {
+            background-color: #00c0f3 !important;
+            color: #FFFFFF !important;
+            }
+            td {
+            padding: 15px !important;
+            border-right: 1px solid rgba(128, 128, 128, 0.5) !important;
+            border-bottom: 1px solid rgba(128, 128, 128, 0.5) !important;
+            border-top-color: rgba(128, 128, 128, 0.5) !important;
+            border-left-color: rgba(128, 128, 128, 0.5) !important;
+            border-top-style: solid !important;
+            border-left-style: solid !important;
+            text-align: left !important;
+            line-height: 1.5 !important;
+            display: table-cell !important;
+            }
+            .afl-subPages table tbody tr td {
+            font-size: 15px !important;
+            }
+            tr:hover {
+            background-color: #e6e6e6;
+            }
+        </style>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230317T054959Z
+    - ID: "ef2f63f2-c942-49a5-9c43-ebcfec40337e"
+      Hint: ProductName
+      Value: OTDR Fiber Rings 
+    - ID: "fb72ff1d-6b1d-4970-916a-8162ff077e62"
+      Hint: ProcutItems
+      Value: |
+        {7502B3D5-A205-4A7F-8104-08E3D53E00D5}
+        {C31C2D61-0387-436F-AC41-01E679511392}
+        {D53C05A1-FD4C-427E-8812-A05F9F65708A}
+        {84C27700-2377-4795-ABB6-7A7154D95403}
+        {3EA3970D-58C9-446C-8200-F6C5EE901F6B}
+        {8CE5A75E-8948-400B-938F-3AF9C34823D3}
+        {3B21C403-C5AB-47C7-81BC-C757F68819D8}
+        {C942D14E-12FB-468B-A8A2-96CB150C250F}
+        {4CB4B513-E071-4C55-956F-F149AB5F4112}
+        {B848144D-FBFB-46AE-A7FD-2EA4053631F4}
+        {787DD9BC-EDA7-4251-B706-A4DCA79ED638}
+        {F7D3DC6B-0A5B-436A-9966-86F40F1AA7FE}
+        {E563C707-D3A1-46ED-AA5E-1E944039E008}
+        {C5B2268A-ECC9-463E-B8AA-72A5ABB04547}
+        {0E0E54E5-2A23-4D43-A12D-1C51FFC3E664}
+  - Version: 2
+    Fields:
+    - ID: "16863469-616f-4d9e-a66f-02c79610ddaa"
+      Hint: ProductShortDescription
+      Value: "Fiber Rings from AFL are often a necessity when testing with an OTDR. Both a launch and receive cable are required to measure complete link loss of a fiber with an OTDR. Because very long test cables are impractical to transport and use, AFL offers coiled lengths of 50 µm multimode, 62.5 µm multimode, or single-mode fiber conveniently packaged in compact rings.   "
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230320T172548Z
+    - ID: "36d9d67b-3610-4327-963e-e209239944d7"
+      Hint: ProductApplication
+      Value: |
+        <h3 style="font-size: 16px; padding-bottom: 5px;">Applications:</h3><ul class="productDetailApplications">
+         <li>Macro/Microbend detection</li>
+         <li>Automatic bi-directional trace analysis</li>
+         <li>Create reports with macrobend and bi-directional trace averaging</li>
+         <li>Exporting .SOR file to .CSV file format</li>
+         
+         
+         
+         
+         
+         
+        </ul>
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{EE9BAFE9-A55E-406B-8BBF-45ADF7FF9068}"
+    - ID: "4dda6e0a-1c9d-4a8d-890f-11a8eddc2f11"
+      Hint: ProductFeatures
+      Value: |
+        <h3 style="font-size: 16px; padding-bottom: 5px;">Features:</h3><ul class="productDetailFeatures">
+         <li>Generates acceptance reports</li>
+         <li>Creates certification results and applies Pass/Fail</li>
+         <li>Documents networks</li>
+         <li>OTDR batch editing</li>
+         
+         
+         
+         
+         
+         
+        </ul>
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: OTDR Fiber Rings
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\archana
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: "NOYES Fiber Rings from AFL are a necessity when testing with an OTDR. Both a launch and receive cable are needed to measure complete link loss of a fiber with an OTDR. Because very long test cables are impractical to transport and use, NOYES designed coiled lengths of 50 µm multimode, 62.5 µm multimode, or single-mode fiber conveniently packaged in compact rings.   "
+    - ID: "59ec008e-95ec-4c06-9189-09d4acaf1d7e"
+      Hint: ProductCategory
+      Value: |
+        {527518B8-EA3A-4804-8844-1F0437F5CAA9}
+        {80AE80BE-E823-4C52-AFCB-6FB0CBD1A984}
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\ChrisZ
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: Launch Cable, Receive Cable, pulse suppressor, dead zone eliminator, fiber ring, OTDR, Launch Cables, Receive Cables, pulse suppressors, dead zone eliminators, fiber rings, launch fiber
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: OTDR Fiber Rings
+    - ID: "72653cc9-973c-4682-b5c7-26d926959f8f"
+      Hint: ProductImage
+      Value: |
+        <image stylelabs-content-id="46196" src="https://afl-delivery.stylelabs.cloud/api/public/content/9350c2baa1624bd48e65e141829b7fd3?v=65dc94b3" stylelabs-content-type="Image" alt="OTDR Fiber Rings " thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/46196/thumbnail" />
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: OTDR Fiber Rings
+    - ID: "8b978017-d437-40aa-b31d-bbf1d560a0cb"
+      Hint: DownloadFileLink
+      Value: |
+        <link id="{B525ECFF-1F79-4FAD-ABB1-B316A282A2C7}" querystring="" target="_blank" text="SPECIFICATION SHEET" anchor="" title="" class="" url="/sitecore/media library/Project/AFL-Global/Product Specification Sheet/Test and Inspection/Test Management and Reporting Software/FR00-00-2000" linktype="media" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "74c95274-ec8e-4376-bdbb-b839fda063eb"
+    - ID: "93dc88f3-05e5-482d-9b9a-c859c8258a73"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="169961" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/169961/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-Test-and-Inspection-Accessories?v=f26e96cc" stylelabs-content-type="Image" alt="Test_Accesories_TopLevel.jpg" height="465" width="1336" />
+    - ID: "ab4c1906-c756-4771-818b-3683089665ee"
+      Hint: ProductMediaItems
+      Value: "{65903AD2-34FE-4053-8E69-97C16729DE04}"
+    - ID: "af4f5f0d-745a-4af7-aee7-2002f0430999"
+      Hint: ProductTitle
+      Value: OTDR Fiber Rings 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\nawaz.mehdi@altudo.co
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20230320T172548Z
+    - ID: "d1f74386-05c3-4c80-aa18-38d21db05fdf"
+      Hint: ProductId
+      Value: 597
+    - ID: "d93ad815-376a-43bf-b34b-cbad0b1b7128"
+      Hint: ProductLongDescription
+      Value: |
+        <h2>   OTDR Fiber Rings</h2>
+        <p>   Fiber Rings from AFL are often a necessity when testing with an OTDR. Fiber Rings are compact launch / receive cables designed to measure the insertion loss of the near-end and/or far-end connection of a fiber optic link using an OTDR. Both a launch and receive cable are required to measure complete link loss of a fiber with an OTDR. A launch cable, which connects the OTDR to the link under test, reveals the insertion loss and reflectance of the near-end connection. A receive cable, which connects to the far-end of the link, reveals the insertion loss and reflectance of the far-end connection. Launch and receive test cables can range from 150 m to 1 km (or longer) in length. Because very long test cables are impractical to transport and use, AFL offers coiled lengths of 50 &micro;m multimode, 62.5 &micro;m multimode, or single-mode fiber conveniently packaged in compact rings.</p>
+        <p>   Fiber Rings with150 m of fiber are ideal for premises fiber network test applications. Fiber Rings with 500 m or 1 km of single-mode fiber are designed for broadband, long-haul fiber network test applications. Fiber Rings are compact and fit easily in many OTDR carry cases and test kits. Fiber Rings are available from AFL in a variety of standard angled and non-angled connector styles including SC, ST, LC, and FC.</p>
+        <h3>   <strong>Ordering Information</strong></h3>
+        <table border="1" cellpadding="0" cellspacing="0" style="width:689px;" width="689">
+            <tbody>
+                <tr>
+                    <td id="title" style="width:156px;">      <strong>&nbsp;AFL NO. (New Numbers)</strong></td>
+                    <td id="title" style="width:165px;">      <strong>&nbsp;AFL NO. (Previously Used)</strong></td>
+                    <td id="title" style="width:260px;">      <strong>&nbsp;FIBER TYPE</strong></td>
+                    <td id="title" style="width:109px;">      <strong>&nbsp;FIBER LENGTH</strong></td>
+                </tr>
+                <tr>
+                    <td style="width:156px;">      &nbsp;FR-OM1-150-CC1-CC2</td>
+                    <td style="width:165px;">      &nbsp;FR1-M6-150-x1-x2</td>
+                    <td style="width:260px;">      &nbsp;Standard, Multimode, 62.5 &micro;m, OM1</td>
+                    <td style="width:109px;">      &nbsp;150 m (492 ft)</td>
+                </tr>
+                <tr>
+                    <td style="width:156px;">      &nbsp;FR-OM2-150-CC1-CC2</td>
+                    <td style="width:165px;">      &nbsp;FR1-M5-150-x1-x2</td>
+                    <td style="width:260px;">      &nbsp;Standard, Multimode, 50 &micro;m, OM2</td>
+                    <td style="width:109px;">      &nbsp;150 m (492 ft)</td>
+                </tr>
+                <tr>
+                    <td style="width:156px;">      &nbsp;FR-OM3-150-CC1-CC2</td>
+                    <td style="width:165px;">      &nbsp;FR1-OM3-150-x1-x2&nbsp;</td>
+                    <td style="width:260px;">      &nbsp;Laser Optimized, Multimode, 50 &micro;m, OM3</td>
+                    <td style="width:109px;">      &nbsp;150 m (492 ft)</td>
+                </tr>
+                <tr>
+                    <td style="width:156px;">      &nbsp;FR-OM4-150-CC1-CC2</td>
+                    <td style="width:165px;">      &nbsp;FR1-OM4-150-x1-x2</td>
+                    <td style="width:260px;">      &nbsp;Laser Optimized, Multimode, 50 &micro;m, OM4</td>
+                    <td style="width:109px;">      &nbsp;150 m (492 ft)</td>
+                </tr>
+                <tr>
+                    <td style="width:156px;">      &nbsp;FR-SMF-150-CC1-CC2</td>
+                    <td style="width:165px;">      &nbsp;FR1-SM-150-y1-y2</td>
+                    <td style="width:260px;">      &nbsp;Standard, Single-mode, G.652, SMF</td>
+                    <td style="width:109px;">      &nbsp;150 m (492 ft)</td>
+                </tr>
+                <tr>
+                    <td style="width:156px;">      &nbsp;FR-SMF-500-CC1-CC2</td>
+                    <td style="width:165px;">      &nbsp;FR1-SM-500-y1-y2</td>
+                    <td style="width:260px;">      &nbsp;Standard, Single-mode, G.652, SMF</td>
+                    <td style="width:109px;">      &nbsp;500 m (1640 ft)</td>
+                </tr>
+                <tr>
+                    <td style="width:156px;">      &nbsp;FR-SMF-1000-CC1-CC2</td>
+                    <td style="width:165px;">      &nbsp;FR1-SM-1000-y1-y2</td>
+                    <td style="width:260px;">      &nbsp;Standard, Single-mode, G.652, SMF</td>
+                    <td style="width:109px;">      &nbsp;1000 m (3280 ft)</td>
+                </tr>
+                <tr>
+                    <td style="width:156px;">      &nbsp;FR-BIF-150-CC1-CC2</td>
+                    <td style="width:165px;">      &nbsp;FR1-BIF-150-y1-y2</td>
+                    <td style="width:260px;">      &nbsp;Bend Insensitive, Single-mode, G.657.A2 BIF</td>
+                    <td style="width:109px;">      &nbsp;150 m (492 ft)&nbsp;</td>
+                </tr>
+                <tr>
+                    <td style="width:156px;">      &nbsp;FR-BIF-500-CC1-CC2</td>
+                    <td style="width:165px;">      &nbsp;FR1-BIF-500-y1-y2</td>
+                    <td style="width:260px;">      &nbsp;Bend Insensitive, Single-mode, G.657.A2 BIF</td>
+                    <td style="width:109px;">      &nbsp;500 m (1640 ft)</td>
+                </tr>
+                <tr>
+                    <td style="width:156px;">      &nbsp;FR-BIF-1000-CC1-CC2</td>
+                    <td style="width:165px;">      &nbsp;FR1-BIF-1000-y1-y2</td>
+                    <td style="width:260px;">      &nbsp;Bend Insensitive, Single-mode, G.657.A2 BIF</td>
+                    <td style="width:109px;">      &nbsp;1000 m (3280 ft)</td>
+                </tr>
+            </tbody>
+        </table>
+        <br />
+        <style>
+            table {
+            border-collapse: collapse;
+            border-spacing: 0;
+            width: 100% !important;
+            border: 1px solid #ddd;
+            background-color: #FFFFFF;
+            }
+            th, td {
+            text-align: left;
+            padding: 16px;
+            }
+            tr:nth-child(even) {
+            background-color: rgba(128, 128, 128, 0.07);
+            }
+            #title {
+            background-color: #00c0f3 !important;
+            color: #FFFFFF !important;
+            }
+            td {
+            padding: 15px !important;
+            border-right: 1px solid rgba(128, 128, 128, 0.5) !important;
+            border-bottom: 1px solid rgba(128, 128, 128, 0.5) !important;
+            border-top-color: rgba(128, 128, 128, 0.5) !important;
+            border-left-color: rgba(128, 128, 128, 0.5) !important;
+            border-top-style: solid !important;
+            border-left-style: solid !important;
+            text-align: left !important;
+            line-height: 1.5 !important;
+            display: table-cell !important;
+            }
+            .afl-subPages table tbody tr td {
+            font-size: 15px !important;
+            }
+            tr:hover {
+            background-color: #e6e6e6;
+            }
+        </style>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240326T105705Z
+    - ID: "ef2f63f2-c942-49a5-9c43-ebcfec40337e"
+      Hint: ProductName
+      Value: OTDR Fiber Rings 
+    - ID: "fb72ff1d-6b1d-4970-916a-8162ff077e62"
+      Hint: ProcutItems
+      Value: |
+        {7502B3D5-A205-4A7F-8104-08E3D53E00D5}
+        {C31C2D61-0387-436F-AC41-01E679511392}
+        {D53C05A1-FD4C-427E-8812-A05F9F65708A}
+        {84C27700-2377-4795-ABB6-7A7154D95403}
+        {3EA3970D-58C9-446C-8200-F6C5EE901F6B}
+        {8CE5A75E-8948-400B-938F-3AF9C34823D3}
+        {3B21C403-C5AB-47C7-81BC-C757F68819D8}
+        {C942D14E-12FB-468B-A8A2-96CB150C250F}
+        {4CB4B513-E071-4C55-956F-F149AB5F4112}
+        {B848144D-FBFB-46AE-A7FD-2EA4053631F4}
+        {787DD9BC-EDA7-4251-B706-A4DCA79ED638}
+        {F7D3DC6B-0A5B-436A-9966-86F40F1AA7FE}
+        {E563C707-D3A1-46ED-AA5E-1E944039E008}
+        {C5B2268A-ECC9-463E-B8AA-72A5ABB04547}
+        {0E0E54E5-2A23-4D43-A12D-1C51FFC3E664}

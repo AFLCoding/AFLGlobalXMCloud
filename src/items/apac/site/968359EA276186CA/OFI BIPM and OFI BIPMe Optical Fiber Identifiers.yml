@@ -1,0 +1,275 @@
+﻿---
+ID: "79fe3d65-bbee-4479-95fc-0584579804ff"
+Parent: "2e2a7fe8-fe6f-4ec3-80f6-f2e616c34c04"
+Template: "231b4589-f8fc-498f-b0f6-64fabecbc7b9"
+Path: /sitecore/content/AFLGlobal/APAC/Home/Products/Test and Inspection/Fiber Identification/Optical Fiber Identifiers/OFI BIPM and OFI BIPMe Optical Fiber Identifiers
+SharedFields:
+- ID: "1fbc6a49-6281-48ee-87e9-a3970b145adb"
+  Hint: NavigationFilter
+  Value: |
+    {E0A2A027-0932-4878-A7D6-0416D5263EFB}
+    {61BD64D6-809E-40AE-9297-2724A19329B3}
+    {D063E9D1-C7B5-4B1E-B31E-69886C9C59F5}
+    {500AE4C0-FA7B-463F-8149-EFFF7F044101}
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{DA631FB5-51B3-49F6-9915-732D093CF221}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{DAE7C21D-4D3B-4257-A95C-9104CD8AF409}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 104
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "16863469-616f-4d9e-a66f-02c79610ddaa"
+      Hint: ProductShortDescription
+      Value: "The OFI-BIPM optical fiber identifier is an easy to use tool that determines if a fiber is live, the transmission direction, and the relative core power on standard and bend-insensitive single-mode and multimode fibers. Its positive-stop trigger mechanism provides the right pressure every time to assure proper detection while keeping loss to a minimum. This ensures that traffic will not be interrupted, and fibers will not be damaged."
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211229T041205Z
+    - ID: "36d9d67b-3610-4327-963e-e209239944d7"
+      Hint: ProductApplication
+      Value: |
+        <h3 style="font-size: 16px; padding-bottom: 5px;">Applications:</h3><ul class="productDetailApplications">
+         <li>Maintenance of fiber optic networks</li>
+         <li>Troubleshooting network issues</li>
+         <li>Identification of live fibers or trace fibers</li>
+         <li>Power levels verification</li>
+         
+         
+         
+         
+         
+         
+        </ul>
+    - ID: "41226286-5d9e-4f56-b67e-a86305f63ef2"
+      Hint: HeroLink4
+      Value: |
+        <link linktype="anchor" text="Get a Quote" url="alf-Form-section" anchor="alf-Form-section" />
+    - ID: "4dda6e0a-1c9d-4a8d-890f-11a8eddc2f11"
+      Hint: ProductFeatures
+      Value: |
+        <h3 style="font-size: 16px; padding-bottom: 5px;">Features:</h3><ul class="productDetailFeatures">
+         <li>World-class signal detection sensitivity</li>
+         <li>Positive-stop trigger lock for optimum detection</li>
+         <li>Integrated optical power meter</li>
+         <li>Up to 4 Tones detection (OFI-BIPMe only)</li>
+         
+         
+         
+         
+         
+         
+        </ul>
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: OFI BIPM and OFI BIPMe Optical Fiber Identifiers
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\archana
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: "The OFI-BIPM optical fiber identifier is an easy to use tool that determines if a fiber is live, the transmission direction, and the relative core power on standard and bend-insensitive single-mode and multimode fibers. Its positive-stop trigger mechanism provides the right pressure every time to assure proper detection while keeping loss to a minimum. This ensures that traffic will not be interrupted, and fibers will not be damaged."
+    - ID: "58d47758-922c-4daa-95ae-3cb9c3fee186"
+      Hint: HeroLink3
+      Value: |
+        <link linktype="anchor" text="Resources" url="alf-Resources-section" anchor="alf-Resources-section" />
+    - ID: "59ec008e-95ec-4c06-9189-09d4acaf1d7e"
+      Hint: ProductCategory
+      Value: "{51DAE73C-C827-4653-AF6C-C7131D516939}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\archana
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: "OFI, BIF, Optical fiber identifier, bend insensitive fiber, OFI-BI, OFI-BIPM, live fiber detection, fiber identifier, AFL"
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: OFI BIPM and OFI BIPMe Optical Fiber Identifiers
+    - ID: "646d0f97-6838-4bff-800d-895747365401"
+      Hint: AFLDocumentList
+      Value: |
+        {CBA7E401-C65D-457E-8E69-CD6CDDC7EEC0}
+        {214A9374-211C-47A3-8A6D-D9DF7C0A021D}
+        {5D4160F2-C2A3-4662-A699-AB1E3112AF09}
+        {D0930517-F18E-4A4D-BC6F-71A6E0A9EFA9}
+        {911EA7CA-C34A-43DC-98D8-24C36DCF5FDE}
+    - ID: "72653cc9-973c-4682-b5c7-26d926959f8f"
+      Hint: ProductImage
+      Value: |
+        <image stylelabs-content-id="49169" src="https://afl-delivery.stylelabs.cloud/api/public/content/4bab2add35664e40a5bcb5963c59242c?v=b23021ea" stylelabs-content-type="Image" alt="OFI-BIPM and OFI-BIPMe Optical Fiber Identifiers" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/49169/thumbnail" />
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: OFI BIPM and OFI BIPMe Optical Fiber Identifiers
+    - ID: "8b978017-d437-40aa-b31d-bbf1d560a0cb"
+      Hint: DownloadFileLink
+      Value: |
+        <link id="{03D810C5-8403-4212-976A-34694F33C1E6}" querystring="" target="_blank" text="SPECIFICATION SHEET" anchor="" title="" class="" url="/sitecore/media library/Project/AFL-Global/Product Specification Sheet/Test and Inspection/Fiber Identification/OFIBI-00-2000" linktype="media" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "398d8b84-a048-4fc4-b8ea-c39b826ba1b9"
+    - ID: "93dc88f3-05e5-482d-9b9a-c859c8258a73"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="169963" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/169963/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/6f7a2678668d452686de6e85e75ce275?v=8119aa33" stylelabs-content-type="Image" alt="Test_ID_TopLevel.jpg" height="465" width="1336" />
+    - ID: "a40ebd3d-2b41-41fb-90f7-753544ce77c5"
+      Hint: Hero Title1
+      Value: "OFI-BIPM and OFI-BIPMe Optical Fiber Identifiers"
+    - ID: "ab4c1906-c756-4771-818b-3683089665ee"
+      Hint: ProductMediaItems
+      Value: |
+        {CCABD6AF-0557-468A-9B14-EC95A97D4916}
+        {7830519E-06E7-4F56-AD90-1FC2C1176054}
+        {8BF3EBBC-69B8-4ECE-A3AC-74E762522D80}
+        {32AF31A1-486D-4DD2-A87A-FADA4116E7ED}
+    - ID: "ad694352-89e0-4ab7-90e6-1ec187afd032"
+      Hint: AFLVideoList
+      Value: |
+        {ED5DD82C-BBF2-4BE5-A2F3-E0CA4DF681CA}
+        {D38EFD9F-C684-4DEB-815E-3B2ECC1AA33E}
+        {578B8BD1-BFAE-4316-B690-1EA7FD7E6708}
+        {C73BE219-2A6E-4E9B-A214-9A11C0A7E382}
+    - ID: "af4f5f0d-745a-4af7-aee7-2002f0430999"
+      Hint: ProductTitle
+      Value: "OFI-BIPM and OFI-BIPMe Optical Fiber Identifiers"
+    - ID: "b0b3b4da-e924-4a2d-be19-ec90a4e96f16"
+      Hint: HeroLink2
+      Value: |
+        <link linktype="anchor" text="Description" url="alf-description-section" anchor="alf-description-section" />
+    - ID: "b4c4c695-39e8-4d38-b0ed-4f3f8a9a9c83"
+      Hint: ProductDescriptionHeading
+      Value: Product Description
+    - ID: "b9f9f593-7299-41ca-94d0-cb5fcdbd6fba"
+      Hint: HeroLink1
+      Value: |
+        <link linktype="anchor" text="Features" url="alf-feature-section" anchor="alf-feature-section" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d1f74386-05c3-4c80-aa18-38d21db05fdf"
+      Hint: ProductId
+      Value: 1740
+    - ID: "d93ad815-376a-43bf-b34b-cbad0b1b7128"
+      Hint: ProductLongDescription
+      Value: |
+        <div>
+        <div>    The OFI-BIPM/-BIPMe optical fiber identifier is an easy-to-use tool that determines if a fiber is live, the transmission direction, and the relative core power on standard and bend-insensitive single-mode and multimode fibers. Its positive-stop trigger mechanism provides the right amount of pressure every time to assure proper detection, while keeping loss to a minimum. This ensures that traffic will not be interrupted and the fiber will not be damaged.<br />
+        &nbsp;</div>
+        <p>    <strong>Nicknamed &ldquo;The Job saver&rdquo;:</strong> The OFI-BIPM/-BIPMe removes the need to access the optical fiber at a connection or splice point, eliminating the possibility of interrupting service to a customer.</p>
+        <div>    <strong>No heads to change or lose:</strong> The universal head of the OFI-BIPM/-BIPMe eliminates the need to change an adapter head for jacketed, coated, or ribbon fibers, making it extremely easy to use in the field.</div>
+        <div>    &nbsp;</div>
+        <div>    <strong>Integrated optical power meter:</strong> The optical power meter mode verifies power levels during installation or troubleshooting.<br />
+        &nbsp;</div>
+        <div>    <strong>Color touchscreen:</strong> The touchscreen provides simple-to-follow setup instructions and clear results that are easy to read.<br />
+        &nbsp;</div>
+        <div>    <strong>Field technician favorite: </strong>The OFI-BIPM/-BIPMe is a favorite of technicians for its accuracy, ease of use, integrated power meter, and ergonomic design.</div>
+        <div>    <br />
+        <strong>Doesn&rsquo;t damage delicate fibers:</strong> The positive-stop trigger ensures that the right pressure is applied every time, while the slim head makes it easier to reach and test tightly-packed fibers without damaging them.</div>
+        </div>
+        <div>   <br />
+        <strong>Ordering Information&nbsp;</strong><br />
+        <br />
+        <table border="1" cellpadding="0" cellspacing="0">
+            <tbody>
+                <tr>
+                    <td id="title" style="width:642px;">       <strong>&nbsp;DESCRIPTION&nbsp;</strong></td>
+                    <td id="title" style="width:72px;">       <strong>&nbsp;AFL NO. </strong></td>
+                </tr>
+                <tr>
+                    <td style="width:642px;">       &nbsp;BI Optical Fiber Identifier with integrated Optical Power Meter. The kit includes one 2.5 mm Universal Power Meter Port&nbsp; &nbsp;Adapter, BIPM-00-25.</td>
+                    <td style="width:72px;">       &nbsp;OFI-BIPM</td>
+                </tr>
+                <tr>
+                    <td style="width:642px;">       &nbsp;BI Enhanced Optical Fiber Identifier with integrated Optical Power Meter. The kit includes one 2.5 mm Universal Power&nbsp; &nbsp;Meter Port Adapter, BIPM-00-25.</td>
+                    <td style="width:72px;">       &nbsp;OFI-BIPMe</td>
+                </tr>
+                <tr>
+                    <td colspan="2" style="width:642px;">       <strong>&nbsp;OPTIONAL OFI-BIPM ADAPTERS (ordered separately)</strong></td>
+                </tr>
+                <tr>
+                    <td style="width:642px;">       &nbsp;OFI-BIPM 2.5 mm Universal Power Meter Port Adapter</td>
+                    <td style="width:72px;">       &nbsp;BIPM-00-25</td>
+                </tr>
+                <tr>
+                    <td style="width:642px;">       &nbsp;OFI-BIPM SC Power Meter Port Adapter</td>
+                    <td style="width:72px;">       &nbsp;BIPM-00-SC</td>
+                </tr>
+                <tr>
+                    <td style="width:642px;">       &nbsp;OFI-BIPM FC Power Meter Port Adapter</td>
+                    <td style="width:72px;">       &nbsp;BIPM-00-FC</td>
+                </tr>
+                <tr>
+                    <td style="width:642px;">       &nbsp;OFI-BIPM ST Power Meter Port Adapter</td>
+                    <td style="width:72px;">       &nbsp;BIPM-00-ST</td>
+                </tr>
+                <tr>
+                    <td style="width:642px;">       &nbsp;OFI-BIPM LC Power Meter Port Adapter</td>
+                    <td style="width:72px;">       &nbsp;BIPM-00-LC</td>
+                </tr>
+            </tbody>
+        </table>
+        </div>
+        <br />
+        <style>
+            table {
+            border-collapse: collapse;
+            border-spacing: 0;
+            width: 100% !important;
+            border: 1px solid #ddd;
+            background-color: #FFFFFF;
+            }
+            th, td {
+            text-align: left;
+            padding: 16px;
+            }
+            tr:nth-child(even) {
+            background-color: rgba(128, 128, 128, 0.07);
+            }
+            #title {
+            background-color: #00c0f3 !important;
+            color: #FFFFFF !important;
+            }
+            td {
+            padding: 15px !important;
+            border-right: 1px solid rgba(128, 128, 128, 0.5) !important;
+            border-bottom: 1px solid rgba(128, 128, 128, 0.5) !important;
+            border-top-color: rgba(128, 128, 128, 0.5) !important;
+            border-left-color: rgba(128, 128, 128, 0.5) !important;
+            border-top-style: solid !important;
+            border-left-style: solid !important;
+            text-align: left !important;
+            line-height: 1.5 !important;
+            display: table-cell !important;
+            }
+            .afl-subPages table tbody tr td {
+            font-size: 15px !important;
+            }
+            tr:hover {
+            background-color: #e6e6e6;
+            }
+        </style>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231122T212532Z
+    - ID: "ef2f63f2-c942-49a5-9c43-ebcfec40337e"
+      Hint: ProductName
+      Value: "OFI-BIPM and OFI-BIPMe Optical Fiber Identifiers"
+    - ID: "f68efc18-7857-4353-b933-34beb7947b98"
+      Hint: CTALink
+      Value: |
+        <link text="LOAD MORE" linktype="anchor" url="#" anchor="#" title="" class="" />
+    - ID: "fb72ff1d-6b1d-4970-916a-8162ff077e62"
+      Hint: ProcutItems
+      Value: |
+        {C942D14E-12FB-468B-A8A2-96CB150C250F}
+        {4CB4B513-E071-4C55-956F-F149AB5F4112}
+        {787DD9BC-EDA7-4251-B706-A4DCA79ED638}
+        {F7D3DC6B-0A5B-436A-9966-86F40F1AA7FE}
+        {E563C707-D3A1-46ED-AA5E-1E944039E008}

@@ -1,0 +1,101 @@
+﻿---
+ID: "5435b107-4552-4b7c-a8a9-9995935ea35f"
+Parent: "7675ea6f-abec-43d7-88dc-437305db76f8"
+Template: "231b4589-f8fc-498f-b0f6-64fabecbc7b9"
+Path: /sitecore/content/AFLGlobal/APAC/Home/Products/Test and Inspection/UP Loss Testing/Loss Test sets/SLP5 6D Single mode Loss Test Kit with Data Storage
+SharedFields:
+- ID: "1fbc6a49-6281-48ee-87e9-a3970b145adb"
+  Hint: NavigationFilter
+  Value: |
+    {E0A2A027-0932-4878-A7D6-0416D5263EFB}
+    {61BD64D6-809E-40AE-9297-2724A19329B3}
+    {D063E9D1-C7B5-4B1E-B31E-69886C9C59F5}
+    {500AE4C0-FA7B-463F-8149-EFFF7F044101}
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{DA631FB5-51B3-49F6-9915-732D093CF221}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: 
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 102
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "16863469-616f-4d9e-a66f-02c79610ddaa"
+      Hint: ProductShortDescription
+      Value: "SLP5-6D Single-mode Loss Test Kit - An ideal kit for link loss measurements and certification testing. The SLP5-6D combines OLS2-Dual Laser Source with OPM5 Power Meter. In unit file storage and management organizes data for later upload to PC. TRM® 2.0 Reporting Software (included with kit) is a powerful reporting tool enabling technicians to organize test data, apply test rules for pass/fail analysis, and build custom test reports using included industry accepted templates."
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220303T154328Z
+    - ID: "36d9d67b-3610-4327-963e-e209239944d7"
+      Hint: ProductApplication
+      Value: 0
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4dda6e0a-1c9d-4a8d-890f-11a8eddc2f11"
+      Hint: ProductFeatures
+      Value: 0
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: SLP5 6D Single mode Loss Test Kit with Data Storage
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\archana
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: "Optical Loss Test Set with TRM 2.0 Certification Reporting Software for testing single-mode fiber links – NOYES SLP5-6D from AFL"
+    - ID: "59ec008e-95ec-4c06-9189-09d4acaf1d7e"
+      Hint: ProductCategory
+      Value: "{D30AC5A9-4BEB-4E0A-B624-E0D297C6D135}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\archana
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: "Optical Loss Test Set, NOYES power meters, NOYES optical power meter, hand-held optical power meter, fiber optic power meter, fibre optic power meter, fiber optic meter, optical power meter, optic power meter, wavelength measurement, wavelength ID, set reference, NOYES light sources, hand-held light sources, LED and Laser Light Sources, NOYES OLS, LED light sources, LED fiber source, fiber optic LED source"
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: SLP5 6D Single mode Loss Test Kit with Data Storage
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: SLP5 6D Single mode Loss Test Kit with Data Storage
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b05ab911-b214-4ccb-a41b-6254ac043fb4"
+    - ID: "93dc88f3-05e5-482d-9b9a-c859c8258a73"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="169953" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/169953/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/38ce45efee0f43d3861659e585b027e0?v=ac928fa7" stylelabs-content-type="Image" alt="Optical_Loss_Test.jpg" height="465" width="1336" />
+    - ID: "ab4c1906-c756-4771-818b-3683089665ee"
+      Hint: ProductMediaItems
+      Value: "{511136E5-7BBF-4DCA-B33B-4126C27B5F89}"
+    - ID: "af4f5f0d-745a-4af7-aee7-2002f0430999"
+      Hint: ProductTitle
+      Value: "SLP5-6D Single-mode Loss Test Kit with Data Storage"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d1f74386-05c3-4c80-aa18-38d21db05fdf"
+      Hint: ProductId
+      Value: 457
+    - ID: "d93ad815-376a-43bf-b34b-cbad0b1b7128"
+      Hint: ProductLongDescription
+      Value: |
+        <h2>   <b>Single-mode Loss Test Kit with&nbsp;</b>TRM&reg; 2.0&nbsp;<b>Reporting Software</b></h2>  <div>   SLP5-6D is a rugged loss test kit for testing and certifying fiber networks to industry standards. Each SLP5-6D kit includes a dual-wavelength singlemode laser light source plus OPM5 optical power meter. The OPM5&#39;s backlit display is easily viewed in both direct sunlight and dimly lit environments. Interchangeable adapters connect to common optical network interfaces and provide easy access for cleaning launch and receive ports.&nbsp;<b>&nbsp;&nbsp;&nbsp;</b><br />   <br />   <b>OLS2-Dual Laser Source</b>&nbsp;is a single-port laser (1310 and 1550 nm) light source designed for performing insertion loss measurements on single-mode fiber optic links. Capable of transmitting highly stabilized output (single or dual wavelength), OLS2 ensures accurate single-mode insertion loss test results per current TIA/EIA requirements.&nbsp;<br />   <br />   Equipped with industry standard 2 kHz test tone, the OLS2-Dual from AFL is an ideal tool to pair with an optical fiber identifier (OFI-200D or OFI-400) for use in fiber identification.<br />   <br />   <b>OPM5 Optical Power Meter&nbsp;</b>provides accurate measurements, reference storage for each calibrated wavelength, offers multiple test tone detection for fiber identification, and in unit data storage. The simple to use interface allows for easy separation of test results into files.&nbsp;In unit file management provides access to files and results for quick and easy retest of fibers and keeps cable/job results separated for fast customer report generation. Quickly transfer test results to PC via USB interface.&nbsp;<br />   &nbsp;&nbsp;&nbsp;</div>  <h3>   <b>Automatic Wavelength Identification Significantly Increases Efficiency</b></h3>  <div>   Standard Wave ID feature automatically detects and sets the receive wavelength(s), preventing setup and measurement errors. It significantly increases efficiency and reduces technician errors, saving test time by eliminating the need to test each wavelength individually.</div>  <div>   &nbsp;</div>  <h3>   <b>Test Results Storage, Transfer,&nbsp;and Post Processing with&nbsp;</b>TRM&reg; 2.0&nbsp;</h3>  <div>   OPM5 File Management system allows technicians to organize test results into multiple files.&nbsp; Stored OPM results may be transferred&nbsp;to PC via USB port for viewing, analysis, and professional report generation using the included Windows&reg; compatible TRM&reg; 2.0 Basic Test Results&nbsp;Manager software. &nbsp;TRM&reg; 2.0 allows users to apply standards-based rules and create comprehensive certification reports complete with Pass/Fail results and calculated headroom.</div>  <h2>   &nbsp;</h2>  <h2>   <b>Key Specifications</b></h2>  <div>   &nbsp;</div>  <h3>   OLS2-Dual Laser Source</h3>  <ul>   <li>    SM Wavelengths: 1310 and 1550 nm</li>   <li>    Output Power 0 dBm</li>   <li>    Test Tones: 270 Hz, 330 Hz, 1 kHz, 2 kHz</li>  </ul>  <h3>   OPM5-4D Optical Power Meter</h3>  <ul>   <li>    Detector: Filtered InGaAs for High Power applications</li>   <li>    Calibrated Wavelengths: 850, 980, 1310, 1490, 1550, 1625 nm</li>   <li>    Measurement units: db, dBm, &micro;W&nbsp;</li>  </ul>  <h2>   Ordering Information</h2>  <div>   <b>&nbsp;<br />   Model Number: SLP5-6Dxx (xx = FC, SC, ST, or LC)</b><br />   The SLP5-6D combines one (1) OL2-Dual Laser Source<b>&nbsp;</b>and one (1) OPM5-4D Power Meter.</div>  <div>   &nbsp;</div>  <h3>   <b>OLS2-Dual Accessories and Connector Adapters</b></h3>  <table border="1" cellpadding="0" cellspacing="0" width="552">   <tbody>    <tr>     <td width="122">      <div>       <b>Model</b></div>     </td>     <td width="430">      <div>       <b>Description</b></div>     </td>    </tr>    <tr>     <td valign="top">      <div>       2900-50-0002MR</div>     </td>     <td valign="top">      <div>       FC adapter</div>     </td>    </tr>    <tr>     <td valign="top">      <div>       2900-50-0003MR</div>     </td>     <td valign="top">      <div>       SC adapter</div>     </td>    </tr>    <tr>     <td valign="top">      <div>       2900-50-0004MR</div>     </td>     <td valign="top">      <div>       ST adapter</div>     </td>    </tr>    <tr>     <td valign="top">      <div>       2900-50-0006MR</div>     </td>     <td valign="top">      <div>       LC adapter</div>     </td>    </tr>    <tr>     <td valign="top">      <div>       8800-00-0072PR</div>     </td>     <td valign="top">      <div>       Universal flip-top dust cap for UCI outputs</div>     </td>    </tr>    <tr>     <td valign="top">      <div>       4050-00-0119PR</div>     </td>     <td valign="top">      <div>       100-240 VAC to 9 VDC</div>     </td>    </tr>   </tbody>  </table>  <div>   &nbsp;</div>  <h3>   <b>OPM5 Accessories</b></h3>  <table border="1" cellpadding="0" cellspacing="0" width="552">   <tbody>    <tr>     <td width="122">      <div>       <b>Model</b></div>     </td>     <td width="430">      <div>       <b>Description</b></div>     </td>    </tr>    <tr>     <td valign="top">      <div>       8800-00-0200</div>     </td>     <td valign="top">      <div>       FC adapter</div>     </td>    </tr>    <tr>     <td valign="top">      <div>       8800-00-0209</div>     </td>     <td valign="top">      <div>       SC adapter</div>     </td>    </tr>    <tr>     <td valign="top">      <div>       8800-00-0202</div>     </td>     <td valign="top">      <div>       ST&reg; adapter</div>     </td>    </tr>    <tr>     <td valign="top">      <div>       8800-00-0225</div>     </td>     <td valign="top">      <div>       LC adapter</div>     </td>    </tr>    <tr>     <td valign="top">      <div>       4050-00-0119PR</div>     </td>     <td valign="top">      <div>       AC Adapter 100-240 VAC to 9 VDC</div>     </td>    </tr>    <tr>     <td valign="top">      <div>       6000-00-0024MR</div>     </td>     <td valign="top">      <div>       Cable, USB-MINI B connect to PC</div>     </td>    </tr>   </tbody>  </table>  <br />  
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231122T212535Z
+    - ID: "ef2f63f2-c942-49a5-9c43-ebcfec40337e"
+      Hint: ProductName
+      Value: "SLP5-6D Single-mode Loss Test Kit with Data Storage"
+    - ID: "fb72ff1d-6b1d-4970-916a-8162ff077e62"
+      Hint: ProcutItems
+      Value: "{316DFB30-D41D-4C40-918B-E9DC26BE5C41}"

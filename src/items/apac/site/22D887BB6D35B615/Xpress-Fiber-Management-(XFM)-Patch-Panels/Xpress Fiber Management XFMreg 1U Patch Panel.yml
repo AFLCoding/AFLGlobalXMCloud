@@ -1,0 +1,142 @@
+﻿---
+ID: "81d5196e-65bf-437b-baf1-2d1a431a31ec"
+Parent: "40475171-6780-4d33-a4e7-2b6c7a1b9bbf"
+Template: "231b4589-f8fc-498f-b0f6-64fabecbc7b9"
+Path: "/sitecore/content/AFLGlobal/APAC/Home/Products/Fiber Optic Connectivity/Rack Mount Patch Panels/Xpress-Fiber-Management-(XFM)-Patch-Panels/Xpress Fiber Management XFMreg 1U Patch Panel"
+SharedFields:
+- ID: "1fbc6a49-6281-48ee-87e9-a3970b145adb"
+  Hint: NavigationFilter
+  Value: |
+    {E0A2A027-0932-4878-A7D6-0416D5263EFB}
+    {61BD64D6-809E-40AE-9297-2724A19329B3}
+    {D063E9D1-C7B5-4B1E-B31E-69886C9C59F5}
+    {500AE4C0-FA7B-463F-8149-EFFF7F044101}
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{DA631FB5-51B3-49F6-9915-732D093CF221}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: 
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 101
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "16863469-616f-4d9e-a66f-02c79610ddaa"
+      Hint: ProductShortDescription
+      Value: "The XFM® 1RU patch panel is a rack mountable interconnect point specifically designed to manage dense fiber applications up to 72F. All XFM® panels are fully compatible with AFL's XFM® Optical Cassette, Poli-MOD, and WDM solutions."
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220303T152556Z
+    - ID: "36d9d67b-3610-4327-963e-e209239944d7"
+      Hint: ProductApplication
+      Value: |
+        <h3 style="color: #282828; background-color: #ffffff; margin: 0px; padding-bottom: 5px;">Applications:</h3>
+        <ul class="productDetailApplications" style="color: #333333; background-color: #ffffff; margin: 0px 0px 15px; padding: 0px 0px 0px 15px; list-style-image: url('https://www.aflglobal.com/productionFiles/images/bulletRound.aspx');">
+            <li style="margin: 0px 0px 6px;">Data Centers</li>
+            <li style="margin: 0px 0px 6px;">Enterprise Networks</li>
+            <li style="margin: 0px 0px 6px;">Telecommunications Closets</li>
+        </ul>
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4dda6e0a-1c9d-4a8d-890f-11a8eddc2f11"
+      Hint: ProductFeatures
+      Value: |
+        <h3 style="color: #282828; background-color: #ffffff; margin: 0px; padding-bottom: 5px;">Features:</h3>
+        <ul class="productDetailFeatures" style="color: #333333; background-color: #ffffff; margin: 0px 0px 15px; padding: 0px 0px 0px 15px; list-style-image: url('https://www.aflglobal.com/productionFiles/images/bulletRound.aspx');">
+            <li style="margin: 0px 0px 6px;">Steel construction</li>
+            <li style="margin: 0px 0px 6px;">Textured black powder coat finish</li>
+            <li style="margin: 0px 0px 6px;">Universal WECO/TIA 19&rdquo;/23&rdquo; rack compatibility</li>
+            <li style="margin: 0px 0px 6px;">(3) LGX 118 adapter plate / module mounting positions</li>
+            <li style="margin: 0px 0px 6px;">Slide-out tray with relief cut-outs for simplified connector access</li>
+            <li style="margin: 0px 0px 6px;">Optional front door key lock for heightened protection of internal components</li>
+        </ul>
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Xpress Fiber Management XFMreg 1U Patch Panel
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\archana
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: Xpress Fiber Management™ (XFM) 1U Patch Panel
+    - ID: "59ec008e-95ec-4c06-9189-09d4acaf1d7e"
+      Hint: ProductCategory
+      Value: "{A5F12CC9-FB96-4AA9-AAD9-E0D5EF1B94EB}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\archana
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: Xpress Fiber Management, XFM, 1U Patch Panel, rack mount, shelf
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: Xpress Fiber Management XFMreg 1U Patch Panel
+    - ID: "72653cc9-973c-4682-b5c7-26d926959f8f"
+      Hint: ProductImage
+      Value: |
+        <image stylelabs-content-id="183326" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/183326/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/ecbb7349968f4fc6ad5086c6783a6749?v=34095dd3" mediaid="" stylelabs-content-type="Image" alt="Xpress Fiber Management® (XFM&amp;reg;) 1U Patch Panel" height="800" width="800" />
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: Xpress Fiber Management XFMreg 1U Patch Panel
+    - ID: "8b978017-d437-40aa-b31d-bbf1d560a0cb"
+      Hint: DownloadFileLink
+      Value: |
+        <link text="SPECIFICATION SHEET" target="_blank" linktype="media" id="{1AE72F08-AAAF-4F75-A9EB-011F2C900F30}" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d78bece5-74f7-4da5-a717-ef5949aca768"
+    - ID: "93dc88f3-05e5-482d-9b9a-c859c8258a73"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="169930" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/169930/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/Xpress-Fiber-Management-Patch-Panel?v=639ba75b" stylelabs-content-type="Image" alt="_Xpress-Fiber-Management-(XFM)-Patch-Panels.jpg" height="465" width="1336" />
+    - ID: "ab4c1906-c756-4771-818b-3683089665ee"
+      Hint: ProductMediaItems
+      Value: |
+        {7B741607-3194-43DD-A03F-9FB80D7E4147}
+        {D7CB08CC-6666-4D58-86F9-84EDCDB6EA8D}
+        {17248DAC-AC0E-4270-9786-815C75A5E29B}
+        {85DDC3CF-E36B-4ABD-A7D8-0ECED51075C3}
+    - ID: "af4f5f0d-745a-4af7-aee7-2002f0430999"
+      Hint: ProductTitle
+      Value: Xpress Fiber Management® (XFM&reg;) 1U Patch Panel
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d1f74386-05c3-4c80-aa18-38d21db05fdf"
+      Hint: ProductId
+      Value: 396
+    - ID: "d93ad815-376a-43bf-b34b-cbad0b1b7128"
+      Hint: ProductLongDescription
+      Value: "<p>   The Xpress Fiber Management&reg; (XFM&reg;) 1U patch panel is a rack mountable interconnect point specifically designed to manage dense fiber applications. Based on the LGX&reg; intermateability platform, the panel is fully compatible with AFL&#39;s XFM&reg; Optical Cassette, Passive Optical Coupler Modules and Poli-MOD solutions. This panel offers enhanced management of densities up to 72 fibers using MTP-LC XFM&reg; Optical Cassettes (24 fibers).</p>"
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231122T212530Z
+    - ID: "ef2f63f2-c942-49a5-9c43-ebcfec40337e"
+      Hint: ProductName
+      Value: Xpress Fiber Management® (XFM&reg;) 1U Patch Panel
+    - ID: "fb72ff1d-6b1d-4970-916a-8162ff077e62"
+      Hint: ProcutItems
+      Value: |
+        {A216C36A-B949-49E6-86FD-261873070C0F}
+        {13B853A3-EC10-4682-B82C-4FE7E91FE667}
+        {F27A481B-8E2A-4CCD-906D-598736A0CCFA}
+        {FE4B8574-D294-4DFD-831C-4F405A9193E8}
+        {01ECC02D-9511-4FA1-A96E-659AFC7CB1B4}
+        {2E9B0B83-73D5-41C7-A050-BFDD5999F9EA}
+        {6A3F80D0-F21F-466E-8D1B-73DE5B5F0F1B}
+        {20F3B74C-E39C-4A23-8A38-981AEAEC1D11}
+        {316EA0D5-EA9D-4732-9A57-B7B09FA74F79}
+        {16785C64-E911-41D6-952D-46F87B9BA2B6}
+        {4DE05D50-6C60-4351-A465-96BDF71A3483}
+        {169BE6A2-31CE-4BFA-BCDC-12B2BDCE1265}
+        {AF3E6466-2A12-4A6C-B9EC-5F7337899A4D}
+        {49E61244-0A99-4C38-9332-C64C7BD3FE74}
+        {677244B0-76D5-44F5-8CBA-B764A1966D75}

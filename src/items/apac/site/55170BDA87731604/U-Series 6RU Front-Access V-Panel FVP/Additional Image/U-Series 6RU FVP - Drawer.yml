@@ -1,0 +1,38 @@
+﻿---
+ID: "13a1d5b5-f704-4ff1-bdfd-a199811c5eb4"
+Parent: "8b5d863f-9ca9-4301-ad4f-6b902b36fade"
+Template: "178e3cec-ca03-4c76-9ad3-122297e19e13"
+Path: "/sitecore/content/AFLGlobal/APAC/Home/Products/Fiber Optic Connectivity/Rack Mount Patch Panels/U Series/U-Series 6RU Front-Access V-Panel FVP/Additional Image/U-Series 6RU FVP - Drawer"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220914T135843Z
+    - ID: "4f4e6526-41d1-4a67-ba95-3cf65c6a6462"
+      Hint: ImgaeUrl
+      Value: |
+        <image stylelabs-content-id="308350" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/308350/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/ba5e861fa40b46efaa4aa48be02905fa?v=f85c2ab3" mediaid="" stylelabs-content-type="Image" alt="NP122-Install-Guide-Amendments-29-05-2020-Render-10.jpg" height="800" width="800" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rafael
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rafael
+    - ID: "80203708-a0db-4f4b-bd18-b5f74b33756d"
+      Hint: ImageTitle
+      Value: "U-Series 6RU FVP - Drawer"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f175d079-cb53-473b-a083-1ab4f74ec38a"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rafael
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220914T141302Z

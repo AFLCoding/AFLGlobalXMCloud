@@ -1,0 +1,122 @@
+﻿---
+ID: "81e99957-6577-4216-a4b8-641ea1452077"
+Parent: "55cb63ee-06b6-46eb-9246-4580621a7fa5"
+Template: "231b4589-f8fc-498f-b0f6-64fabecbc7b9"
+Path: /sitecore/content/AFLGlobal/APAC/Home/Products/UP Fiber Outside Plant/Cable Assemblies Outdoor/Loose Tube   Riser Rated Indoor Outdoor Cable Asse/Loose Tube  Riser Rated IndoorOutdoor Cable Assemblies
+SharedFields:
+- ID: "1fbc6a49-6281-48ee-87e9-a3970b145adb"
+  Hint: NavigationFilter
+  Value: |
+    {E0A2A027-0932-4878-A7D6-0416D5263EFB}
+    {61BD64D6-809E-40AE-9297-2724A19329B3}
+    {D063E9D1-C7B5-4B1E-B31E-69886C9C59F5}
+    {500AE4C0-FA7B-463F-8149-EFFF7F044101}
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{DA631FB5-51B3-49F6-9915-732D093CF221}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: 
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 101
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "16863469-616f-4d9e-a66f-02c79610ddaa"
+      Hint: ProductShortDescription
+      Value: Loose Tube & Riser Rated Indoor/Outdoor Cable Assemblies
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220303T152610Z
+    - ID: "36d9d67b-3610-4327-963e-e209239944d7"
+      Hint: ProductApplication
+      Value: |
+        <h3 style="color: #282828; background-color: #ffffff; margin: 0px; padding-bottom: 5px;">Applications:</h3>
+        <ul class="productDetailApplications" style="color: #333333; background-color: #ffffff; margin: 0px 0px 15px; padding: 0px 0px 0px 15px; list-style-image: url('https://www.aflglobal.com/productionFiles/images/bulletRound.aspx');">
+            <li style="margin: 0px 0px 6px;">Outdoor cabinets</li>
+            <li style="margin: 0px 0px 6px;">External-building runs</li>
+            <li style="margin: 0px 0px 6px;">Vaults</li>
+            <li style="margin: 0px 0px 6px;">CEVs</li>
+            <li style="margin: 0px 0px 6px;">Duct and lashed applications</li>
+        </ul>
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4dda6e0a-1c9d-4a8d-890f-11a8eddc2f11"
+      Hint: ProductFeatures
+      Value: |
+        <h3 style="color: #282828; background-color: #ffffff; margin: 0px; padding-bottom: 5px;">Features:</h3>
+        <ul class="productDetailFeatures" style="color: #333333; background-color: #ffffff; margin: 0px 0px 15px; padding: 0px 0px 0px 15px; list-style-image: url('https://www.aflglobal.com/productionFiles/images/bulletRound.aspx');">
+            <li style="margin: 0px 0px 6px;">Fiber counts from 6 to 144 fibers (up to 432 for Loose Tube)</li>
+            <li style="margin: 0px 0px 6px;">Available with ST, SC, FC and LC connectors single-mode</li>
+            <li style="margin: 0px 0px 6px;">Pigtail assemblies, standard configuration (nonstandard configurations available)</li>
+            <li style="margin: 0px 0px 6px;">ST, SC, FC and LC connectors available in both single-mode and multimode</li>
+            <li style="margin: 0px 0px 6px;">Pre-installed pulling eye kits available</li>
+            <li style="margin: 0px 0px 6px;">1 meter standard breakout length</li>
+            <li style="margin: 0px 0px 6px;">2.4 mm standard furcation for SC, FC and ST; 1.6 mm standard furcation for LC</li>
+            <li style="margin: 0px 0px 6px;">UV resistant outer jacket</li>
+            <li style="margin: 0px 0px 6px;">S-Z stranded for easy mid-span access</li>
+            <li style="margin: 0px 0px 6px;">Gel-filled loose buffer tubes (RL) Gel-filled Loose Tube (LT)</li>
+        </ul>
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Loose Tube  Riser Rated IndoorOutdoor Cable Assemblies
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\archana
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: Loose Tube & Riser Rated Indoor/Outdoor Cable Assemblies
+    - ID: "59ec008e-95ec-4c06-9189-09d4acaf1d7e"
+      Hint: ProductCategory
+      Value: "{E62C331B-F8E1-4F76-A4F9-901E849213F1}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\archana
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: "Cable Assemblies, Loose Tube & Riser Rated Indoor/Outdoor Cable Assemblies, Pre-terminated Assemblies"
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: Loose Tube  Riser Rated IndoorOutdoor Cable Assemblies
+    - ID: "72653cc9-973c-4682-b5c7-26d926959f8f"
+      Hint: ProductImage
+      Value: |
+        <image stylelabs-content-id="184219" src="https://afl-delivery.stylelabs.cloud/api/public/content/7938b6064c9a49a4aa393de76e934250?v=027d0b3e" stylelabs-content-type="Image" alt="Loose Tube  Riser Rated IndoorOutdoor Cable Assemblies " thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/184219/thumbnail" />
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: Loose Tube  Riser Rated IndoorOutdoor Cable Assemblies
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c07ee85e-b8a6-4e65-bd66-4e57e0945277"
+    - ID: "93dc88f3-05e5-482d-9b9a-c859c8258a73"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="169753" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/169753/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/1061db391f8947c097cb144a40fbeaf7?v=37e24713" stylelabs-content-type="Image" alt="CableAssemblies.jpg" height="465" width="1336" />
+    - ID: "ab4c1906-c756-4771-818b-3683089665ee"
+      Hint: ProductMediaItems
+      Value: "{CAF4FFEF-4DCF-40AB-B767-EB9018BD6057}"
+    - ID: "af4f5f0d-745a-4af7-aee7-2002f0430999"
+      Hint: ProductTitle
+      Value: Loose Tube & Riser Rated Indoor/Outdoor Cable Assemblies
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d1f74386-05c3-4c80-aa18-38d21db05fdf"
+      Hint: ProductId
+      Value: 439
+    - ID: "d93ad815-376a-43bf-b34b-cbad0b1b7128"
+      Hint: ProductLongDescription
+      Value: "<p>High fiber count Loose Tube and Riser Rated Indoor/Outdoor Loose Tube Cable assemblies provide a safe and proven method of utilizing preterminated connector technology for outside plant applications. These assemblies help control cost by eliminating labor-intensive field termination and provide the same factory terminated reliability the industry has trusted for many years. Cable assemblies are available in Indoor/Outdoor Loose Tube, suitable for use in both indoor and outdoor applications. Each unit is manufactured to exceed all TIA and Telecordia requirements.</p>"
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231122T212537Z
+    - ID: "ef2f63f2-c942-49a5-9c43-ebcfec40337e"
+      Hint: ProductName
+      Value: Loose Tube & Riser Rated Indoor/Outdoor Cable Assemblies

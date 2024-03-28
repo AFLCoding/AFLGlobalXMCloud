@@ -1,0 +1,159 @@
+﻿---
+ID: "9b089ca8-044f-428a-9153-8d7be5ca0839"
+Parent: "6b0cc99d-fbe4-4015-a4c8-67fb0d4f1d1a"
+Template: "231b4589-f8fc-498f-b0f6-64fabecbc7b9"
+Path: /sitecore/content/AFLGlobal/APAC/Home/Products/Test and Inspection/OTDRs and Troubleshooters/Optical Port Saver
+SharedFields:
+- ID: "1fbc6a49-6281-48ee-87e9-a3970b145adb"
+  Hint: NavigationFilter
+  Value: |
+    {E0A2A027-0932-4878-A7D6-0416D5263EFB}
+    {61BD64D6-809E-40AE-9297-2724A19329B3}
+    {D063E9D1-C7B5-4B1E-B31E-69886C9C59F5}
+    {500AE4C0-FA7B-463F-8149-EFFF7F044101}
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{DA631FB5-51B3-49F6-9915-732D093CF221}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{DAE7C21D-4D3B-4257-A95C-9104CD8AF409}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 104
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Optical Port Saver
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "16863469-616f-4d9e-a66f-02c79610ddaa"
+      Hint: ProductShortDescription
+      Value: "The Optical Port Saver protects your OTDR ports from damage due to mating with dirty or damaged launch cables, patch cords or normal wear-and-tear."
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220803T142343Z
+    - ID: "36d9d67b-3610-4327-963e-e209239944d7"
+      Hint: ProductApplication
+      Value: |
+        <p><strong>APPLICATIONS:</strong></p>
+        <ul style="list-style-type: disc;">
+            <li>Protect OTDR ferrule from damage due to repeated mating</li>
+            <li>Avoid costly repairs due to damaged connectors</li>
+            <li>Avoid downtime to return OTDR for connector replacement</li>
+            <li>Convert APC to UPC and vice versa</li>
+        </ul>
+        <p>&nbsp;</p>
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{EE9BAFE9-A55E-406B-8BBF-45ADF7FF9068}"
+    - ID: "4dda6e0a-1c9d-4a8d-890f-11a8eddc2f11"
+      Hint: ProductFeatures
+      Value: |
+        <p><strong>FEATURES:</strong></p>
+        <ul style="list-style-type: disc;">
+            <li><span>Prevents damage to factory installed AFL OTDR and Troubleshooter ferrules</span></li>
+            <li><span>Allows damaged connectors to be replaced in the field</span></li>
+            <li><span>Supports APC and UPC ferrules and connectors</span></li>
+            <li><span>Available for single-mode and multimode OTDR ports</span></li>
+        </ul>
+        <p style="margin-left: 0.5in;"><span>&nbsp;</span></p>
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Optical Port Saver
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rafael
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: "The Optical Port Saver protects your OTDR ports from damage due to mating with dirty or damaged launch cables, patch cords or normal wear-and-tear."
+    - ID: "59ec008e-95ec-4c06-9189-09d4acaf1d7e"
+      Hint: ProductCategory
+      Value: "{80AE80BE-E823-4C52-AFCB-6FB0CBD1A984}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rafael
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: Optical Port Saver, protects your OTDR ports, ports, OTDR
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: Optical Port Saver
+    - ID: "646d0f97-6838-4bff-800d-895747365401"
+      Hint: AFLDocumentList
+      Value: "{9E6F350C-00F2-442A-9C67-B50660523F70}"
+    - ID: "72653cc9-973c-4682-b5c7-26d926959f8f"
+      Hint: ProductImage
+      Value: |
+        <image stylelabs-content-id="307050" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/307050/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/2d02168838cf46bda0ca9106a688704d?v=4edb546f" mediaid="" stylelabs-content-type="Image" alt="Port-Saver-Web.png" height="800" width="800" />
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: Optical Port Saver
+    - ID: "8b978017-d437-40aa-b31d-bbf1d560a0cb"
+      Hint: DownloadFileLink
+      Value: |
+        <link text="DOWNLOAD SPECIFICATION SHEET" target="_blank" linktype="media" id="{2ECC3BDB-50D4-4B9B-97C7-BF20CB88BA45}" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a4e5df65-6301-4c73-8566-4994921f40e4"
+    - ID: "93dc88f3-05e5-482d-9b9a-c859c8258a73"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image stylelabs-content-id="267972" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/267972/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/0ec0fd3a37934bb6ac75d2c4bcfecee7?v=4394a357" mediaid="" stylelabs-content-type="Image" alt="Test_OTDRs.jpg" height="465" width="1336" />
+    - ID: "a40ebd3d-2b41-41fb-90f7-753544ce77c5"
+      Hint: Hero Title1
+      Value: Optical Port Saver
+    - ID: "ab4c1906-c756-4771-818b-3683089665ee"
+      Hint: ProductMediaItems
+      Value: |
+        {6EC9EBAB-80C2-41ED-8C54-06BB65C1B79F}
+        {80F6AD89-CB97-49D8-B58A-7C6CECA7E457}
+        {35C201E4-6469-47AE-AF2B-5BF2E00FD1BA}
+        {BFCF857B-8EF2-4E86-99F7-E82F9CABEEEB}
+        {5EEB36C8-FA37-426C-9292-4176EAFA8344}
+    - ID: "ad694352-89e0-4ab7-90e6-1ec187afd032"
+      Hint: AFLVideoList
+      Value: "{810315DD-F24B-4D10-8BF9-59FEB6D6BED5}"
+    - ID: "af4f5f0d-745a-4af7-aee7-2002f0430999"
+      Hint: ProductTitle
+      Value: Optical Port Saver
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\nawaz.mehdi@altudo.co
+    - ID: "d93ad815-376a-43bf-b34b-cbad0b1b7128"
+      Hint: ProductLongDescription
+      Value: |
+        <p style="margin-bottom: 0in; line-height: normal;">The Optical Port Saver protects your OTDR ports from damage due to mating with dirty or damaged launch cables, patch cords or normal wear-and-tear. Equip your FlexScan FS200/ FS300 OTDRs or FlexScan TS100 Troubleshooter with a field-replaceable connector, which installs in seconds and accepts AFL&rsquo;s tool-free interchangeable SC, LC, FC, and ST connector adapters.</p>
+        <p style="margin-bottom: 0in; line-height: normal;">&nbsp;</p>
+        <p style="margin-bottom: 0in; line-height: normal;"><strong>Replace damaged connectors in the field:</strong> When normal wear-and-tear or poor cleaning practices damage the Port Saver&rsquo;s end-face, replace it in seconds without having to return the OTDR to a service center for an expensive and time-consuming repair.</p>
+        <p style="margin-bottom: 0in; line-height: normal;">&nbsp;</p>
+        <p><strong><span style="line-height: 107%;">Easy to Install &amp; Cost Effective:</span></strong> The Port Saver helps you avoid factory replacement of damaged ferrules caused by dirt and debris. Traditional repair time for factory OTDR ferrules can be over 1 week. With the Port Saver, you can simply swap out the damaged Port Saver in the field with a new one saving time and costly shipping charges to the factory. Its easy, quick, and you will be back to testing in about 2 minutes!</p>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240326T105704Z
+    - ID: "ef2f63f2-c942-49a5-9c43-ebcfec40337e"
+      Hint: ProductName
+      Value: Optical Port Saver
+    - ID: "fb72ff1d-6b1d-4970-916a-8162ff077e62"
+      Hint: ProcutItems
+      Value: |
+        {7502B3D5-A205-4A7F-8104-08E3D53E00D5}
+        {C31C2D61-0387-436F-AC41-01E679511392}
+        {D53C05A1-FD4C-427E-8812-A05F9F65708A}
+        {84C27700-2377-4795-ABB6-7A7154D95403}
+        {3EA3970D-58C9-446C-8200-F6C5EE901F6B}
+        {8CE5A75E-8948-400B-938F-3AF9C34823D3}
+        {3B21C403-C5AB-47C7-81BC-C757F68819D8}
+        {C942D14E-12FB-468B-A8A2-96CB150C250F}
+        {4CB4B513-E071-4C55-956F-F149AB5F4112}
+        {B848144D-FBFB-46AE-A7FD-2EA4053631F4}
+        {787DD9BC-EDA7-4251-B706-A4DCA79ED638}
+        {F7D3DC6B-0A5B-436A-9966-86F40F1AA7FE}
+        {E563C707-D3A1-46ED-AA5E-1E944039E008}
+        {C5B2268A-ECC9-463E-B8AA-72A5ABB04547}
+        {0E0E54E5-2A23-4D43-A12D-1C51FFC3E664}

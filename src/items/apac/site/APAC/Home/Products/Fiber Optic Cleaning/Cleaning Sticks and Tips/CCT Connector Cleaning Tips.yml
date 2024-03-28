@@ -1,0 +1,358 @@
+﻿---
+ID: "7b3b2a9f-b2a1-4625-8fec-3a4adc07feda"
+Parent: "32174f8e-66f2-4b60-8347-e19a9d8bc9c8"
+Template: "231b4589-f8fc-498f-b0f6-64fabecbc7b9"
+Path: /sitecore/content/AFLGlobal/APAC/Home/Products/Fiber Optic Cleaning/Cleaning Sticks and Tips/CCT Connector Cleaning Tips
+SharedFields:
+- ID: "1fbc6a49-6281-48ee-87e9-a3970b145adb"
+  Hint: NavigationFilter
+  Value: |
+    {E0A2A027-0932-4878-A7D6-0416D5263EFB}
+    {61BD64D6-809E-40AE-9297-2724A19329B3}
+    {D063E9D1-C7B5-4B1E-B31E-69886C9C59F5}
+    {500AE4C0-FA7B-463F-8149-EFFF7F044101}
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{DA631FB5-51B3-49F6-9915-732D093CF221}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: 
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 101
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "16863469-616f-4d9e-a66f-02c79610ddaa"
+      Hint: ProductShortDescription
+      Value: "CCT Connector Cleaning Tips from AFL meet the cleaning needs of today's fiber networks.  These tips use a molded, sintered polymer that is both porous and pliable, conforming to virtually any fiber end-face polish geometry while trapping and absorbing contaminants.  Designed to be used with AFL's FCC2 Connector Cleaning Fluid for consistent and reliable connector cleaning results.  Sizes are available for all commonly used connectors."
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220303T154339Z
+    - ID: "36d9d67b-3610-4327-963e-e209239944d7"
+      Hint: ProductApplication
+      Value: |
+        <h3 style="font-size: 16px; padding-bottom: 5px;">Applications:</h3><ul class="productDetailApplications">
+        	<li>Dual-head design permits wet and dry cleaning in one swab</li>
+        	<li>Available for cleaning ferrule end-faces in adapters / sockets or exposed ferrules / termini on jumpers</li>
+        	<li>Cleaning tips available for most common commercial and Mil Spec ferrule sizes</li>
+        	<li>Designed to work with AFL's FCC2, Fibre Connector Cleaner </li>
+        	
+        	
+        	
+        	
+        	
+        	
+        </ul>
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4dda6e0a-1c9d-4a8d-890f-11a8eddc2f11"
+      Hint: ProductFeatures
+      Value: |
+        <h3 style="color: #282828; background-color: #ffffff; margin: 0px; padding-bottom: 5px;">Features:</h3>
+        <ul class="productDetailFeatures" style="color: #333333; background-color: #ffffff; margin: 0px 0px 15px; padding: 0px 0px 0px 15px; list-style-image: url('https://www.aflglobal.com/productionFiles/images/bulletRound.aspx');">
+            <li style="margin: 0px 0px 6px;">Quality construction with unlimited shelf life</li>
+            <li style="margin: 0px 0px 6px;">Molded sintered polymer construction assures perfect bulkhead fit and consistent performance</li>
+            <li style="margin: 0px 0px 6px;">Traps and holds liquid and particle contaminants in an absorbent open cell matrix ranging from 10-25 microns</li>
+            <li style="margin: 0px 0px 6px;">No fibers, binders, adhesives or outgassing that may contaminate the connector</li>
+            <li style="margin: 0px 0px 6px;">The elastic cleaning head enhances entrapment of particles and oils, while allowing the tip to conform to virtually any fiber end-face geometry (8 degree, domed polish, etc.)</li>
+        </ul>
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: CCT Connector Cleaning Tips
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\archana
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: "CCT Cleaning Tips from AFL meet the cleaning needs of today's networks.    CCT Cleaning Tips are a unique technology in fiber connector end-face cleaning. The tips are a molded, sintered polymer that is both porous and pliable conforming to virtually any fiber end-face polish geometry while trapping and absorbing contaminants.  Designed to be used with AFL's FCC2 Connector Cleaning Fluid for a consistent and reliable connector cleaning system.   Sizes are available for most   connectors.    "
+    - ID: "59ec008e-95ec-4c06-9189-09d4acaf1d7e"
+      Hint: ProductCategory
+      Value: "{919AF5F2-7C93-40AE-87E7-8937D3D799D3}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\archana
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: Fiber optic cleaning, cleaner, Cleaning sticks, Cleaning tips, CCT, Connector cleaning tips, CCTP, CCTS, connector cleaning, FCC2, AFL
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: CCT Connector Cleaning Tips
+    - ID: "72653cc9-973c-4682-b5c7-26d926959f8f"
+      Hint: ProductImage
+      Value: |
+        <image stylelabs-content-id="187924" src="https://afl-delivery.stylelabs.cloud/api/public/content/2dbc4cfb7d3f44ae8bb0c5e49057735d?v=e63b8080" stylelabs-content-type="Image" alt="CCT Connector Cleaning Tips" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/187924/thumbnail" />
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: CCT Connector Cleaning Tips
+    - ID: "8b978017-d437-40aa-b31d-bbf1d560a0cb"
+      Hint: DownloadFileLink
+      Value: |
+        <link id="{559DBBFA-7DBE-42B8-87DF-78FCF6B2A2AC}" querystring="" target="_blank" text="SPECIFICATION SHEET" anchor="" title="" class="" url="/sitecore/media library/Project/AFL-Global/Product Specification Sheet/Test and Inspection/Fiber Inspection and Cleaning/CSTK-00-2000_1" linktype="media" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7803f2ac-5e0e-46e6-9fd3-3aff0b104d86"
+    - ID: "93dc88f3-05e5-482d-9b9a-c859c8258a73"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="267962" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/267962/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/ff44301604444aae9cd6b3be856ffdfc?v=530ea46e" stylelabs-content-type="Image" alt="Cleaning-Sticks-Tips.jpg" height="465" width="1336" />
+    - ID: "ab4c1906-c756-4771-818b-3683089665ee"
+      Hint: ProductMediaItems
+      Value: "{C864161A-DDF6-4D05-8A59-09D0269C3F3D}"
+    - ID: "af4f5f0d-745a-4af7-aee7-2002f0430999"
+      Hint: ProductTitle
+      Value: CCT Connector Cleaning Tips 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d1f74386-05c3-4c80-aa18-38d21db05fdf"
+      Hint: ProductId
+      Value: 561
+    - ID: "d93ad815-376a-43bf-b34b-cbad0b1b7128"
+      Hint: ProductLongDescription
+      Value: |
+        <h3>   CCT Connector Cleaning Tips from AFL meet the cleaning needs of today's fiber networks.</h3>
+        <div>   CCT Connector Cleaning Tips are a unique technology in fiber connector end-face cleaning. Rather than a fabric-covered or foam-covered stick, CCTs are molded cleaning tips that trap contamination and wick cleaning solvents away from connector end-faces. These tips use a molded, sintered polymer that is both porous and pliable, conforming to virtually any fiber end-face polish geometry while trapping and absorbing contaminants.&nbsp; Designed to be used with AFL's FCC2 Connector Cleaning Fluid for consistent and reliable connector cleaning results.</div>
+        <div>   &nbsp;</div>
+        <div>   CCT Connector Cleaning Tips offered by AFL are intended for cleaning the ferrule end-faces in adapters and sockets, as well as the exposed ferrules and termini of jumpers.&nbsp; CCTs are available for most commercial and Military Specification ferrule sizes.</div>
+        <h3>   <br />
+        Cleaning Facts:</h3>
+        <ul>
+            <li>    Cleaning saves time and money!</li>
+            <li>    Dirty connectors cause a major percentage of fiber optic network failures</li>
+            <li>    Prevention is simple &ndash; clean connectors!</li>
+            <li>    Proper cleaning saves money by eliminating service calls caused by dirty connectors</li>
+            <li>    Proper cleaning extends the life of connects and reduces replacement costs</li>
+            <li>    Clean connectors maximize the performance of the network and reduce repair cost</li>
+        </ul>
+        <div style="margin: 0in 0in 10pt;">   &nbsp;</div>
+        <h3>   Ordering Information</h3>
+        <p>&nbsp;</p>
+        <table border="0" cellpadding="0" cellspacing="0" style="width: 90%;" width="90%">
+            <tbody>
+                <tr>
+                    <td id="title" style="padding-bottom: 0in; background-color: transparent;  padding-left: 0in; width: 20%; padding-right: 0in;   padding-top: 0in;border-color: #f0f0f0;" valign="top">
+                    <div style="line-height: 10.5pt;">       <strong><span style="font-size: 8.5pt; color: #272727;">Size</span></strong><br />
+                    <span style="font-size: 8.5pt; color: #272727;">(ferrule diameter)</span></div>
+                    </td>
+                    <td id="title" style="padding-bottom: 0in; background-color: transparent;  padding-left: 0in; width: 10%; padding-right: 0in;   padding-top: 0in;border-color: #f0f0f0;" valign="top">
+                    <div style="line-height: 10.5pt;">       <strong><span style="font-size: 8.5pt; color: #272727;">Type</span></strong></div>
+                    </td>
+                    <td id="title" style="padding-bottom: 0in; background-color: transparent;  padding-left: 0in; width: 20%; padding-right: 0in;   padding-top: 0in;border-color: #f0f0f0;" valign="top">
+                    <div style="line-height: 10.5pt;">       <strong><span style="font-size: 8.5pt; color: #272727;">Part Number</span></strong></div>
+                    </td>
+                    <td id="title" style="padding-bottom: 0in; background-color: transparent;  padding-left: 0in; width: 30%; padding-right: 0in;   padding-top: 0in;border-color: #f0f0f0;" valign="top">
+                    <div style="line-height: 10.5pt;">       <strong><span style="font-size: 8.5pt; color: #272727;">Comments</span></strong></div>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="padding-bottom: 0in; background-color: transparent;  padding-left: 0in; width: 20%; padding-right: 0in;   padding-top: 0in;border-color: #f0f0f0;" valign="top">
+                    <div style="line-height: 10.5pt;">       <span style="font-size: 8.5pt; color: #272727;">2.5 mm</span></div>
+                    </td>
+                    <td style="padding-bottom: 0in; background-color: transparent;  padding-left: 0in; width: 10%; padding-right: 0in;   padding-top: 0in;border-color: #f0f0f0;" valign="top">
+                    <div style="line-height: 10.5pt;">       <span style="font-size: 8.5pt; color: #272727;">Pin</span></div>
+                    </td>
+                    <td style="padding-bottom: 0in; background-color: transparent;  padding-left: 0in; width: 20%; padding-right: 0in;   padding-top: 0in;border-color: #f0f0f0;" valign="top">
+                    <div style="line-height: 10.5pt;">       <span style="font-size: 8.5pt; color: #272727;">CCTP-25-0900</span></div>
+                    </td>
+                    <td style="padding-bottom: 0in; background-color: transparent;  padding-left: 0in; width: 30%; padding-right: 0in;   padding-top: 0in;border-color: #f0f0f0;" valign="top">
+                    <div style="line-height: 10.5pt;">       <span style="font-size: 8.5pt; color: #272727;">Examples: SC, ST, FC, etc.</span></div>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="padding-bottom: 0in; background-color: transparent;  padding-left: 0in; width: 20%; padding-right: 0in;   padding-top: 0in;border-color: #f0f0f0;" valign="top">
+                    <div style="line-height: 10.5pt;">       <span style="font-size: 8.5pt; color: #272727;">2.5 mm</span></div>
+                    </td>
+                    <td style="padding-bottom: 0in; background-color: transparent;  padding-left: 0in; width: 10%; padding-right: 0in;   padding-top: 0in;border-color: #f0f0f0;" valign="top">
+                    <div style="line-height: 10.5pt;">       <span style="font-size: 8.5pt; color: #272727;">Socket</span></div>
+                    </td>
+                    <td style="padding-bottom: 0in; background-color: transparent;  padding-left: 0in; width: 20%; padding-right: 0in;   padding-top: 0in;border-color: #f0f0f0;" valign="top">
+                    <div style="line-height: 10.5pt;">       <span style="font-size: 8.5pt; color: #272727;">CCTS-25-0900</span></div>
+                    </td>
+                    <td style="padding-bottom: 0in; background-color: transparent;  padding-left: 0in; width: 30%; padding-right: 0in;   padding-top: 0in;border-color: #f0f0f0;" valign="top">
+                    <div style="line-height: 10.5pt;">       <span style="font-size: 8.5pt; color: #272727;">Examples: SC, ST, FC, etc.</span></div>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="padding-bottom: 0in; background-color: transparent;  padding-left: 0in; width: 20%; padding-right: 0in;   padding-top: 0in;border-color: #f0f0f0;" valign="top">
+                    <div style="line-height: 10.5pt;">       <span style="font-size: 8.5pt; color: #272727;">2.0 mm</span></div>
+                    </td>
+                    <td style="padding-bottom: 0in; background-color: transparent;  padding-left: 0in; width: 10%; padding-right: 0in;   padding-top: 0in;border-color: #f0f0f0;" valign="top">
+                    <div style="line-height: 10.5pt;">       <span style="font-size: 8.5pt; color: #272727;">Pin</span></div>
+                    </td>
+                    <td style="padding-bottom: 0in; background-color: transparent;  padding-left: 0in; width: 20%; padding-right: 0in;   padding-top: 0in;border-color: #f0f0f0;" valign="top">
+                    <div style="line-height: 10.5pt;">       <span style="font-size: 8.5pt; color: #272727;">CCTP-25-0900</span></div>
+                    </td>
+                    <td style="padding-bottom: 0in; background-color: transparent;  padding-left: 0in; width: 30%; padding-right: 0in;   padding-top: 0in;border-color: #f0f0f0;" valign="top">
+                    <div style="line-height: 10.5pt;">       <span style="font-size: 8.5pt; color: #272727;">Mil T 29504/14 For Mil C 28876</span></div>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="padding-bottom: 0in; background-color: transparent;  padding-left: 0in; width: 20%; padding-right: 0in;   padding-top: 0in;border-color: #f0f0f0;" valign="top">
+                    <div style="line-height: 10.5pt;">       <span style="font-size: 8.5pt; color: #272727;">2.0 mm</span></div>
+                    </td>
+                    <td style="padding-bottom: 0in; background-color: transparent;  padding-left: 0in; width: 10%; padding-right: 0in;   padding-top: 0in;border-color: #f0f0f0;" valign="top">
+                    <div style="line-height: 10.5pt;">       <span style="font-size: 8.5pt; color: #272727;">Socket</span></div>
+                    </td>
+                    <td style="padding-bottom: 0in; background-color: transparent;  padding-left: 0in; width: 20%; padding-right: 0in;   padding-top: 0in;border-color: #f0f0f0;" valign="top">
+                    <div style="line-height: 10.5pt;">       <span style="font-size: 8.5pt; color: #272727;">CCTS-16-0900</span></div>
+                    </td>
+                    <td style="padding-bottom: 0in; background-color: transparent;  padding-left: 0in; width: 30%; padding-right: 0in;   padding-top: 0in;border-color: #f0f0f0;" valign="top">
+                    <div style="line-height: 10.5pt;">       <span style="font-size: 8.5pt; color: #272727;">Mil T 29504/15 For Mil C 28876</span></div>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="padding-bottom: 0in; background-color: transparent;  padding-left: 0in; width: 20%; padding-right: 0in;   padding-top: 0in;border-color: #f0f0f0;" valign="top">
+                    <div style="line-height: 10.5pt;">       <span style="font-size: 8.5pt; color: #272727;">1.6 mm</span></div>
+                    </td>
+                    <td style="padding-bottom: 0in; background-color: transparent;  padding-left: 0in; width: 10%; padding-right: 0in;   padding-top: 0in;border-color: #f0f0f0;" valign="top">
+                    <div style="line-height: 10.5pt;">       <span style="font-size: 8.5pt; color: #272727;">Pin</span></div>
+                    </td>
+                    <td style="padding-bottom: 0in; background-color: transparent;  padding-left: 0in; width: 20%; padding-right: 0in;   padding-top: 0in;border-color: #f0f0f0;" valign="top">
+                    <div style="line-height: 10.5pt;">       <span style="font-size: 8.5pt; color: #272727;">CCTP-25-0900</span></div>
+                    </td>
+                    <td style="padding-bottom: 0in; background-color: transparent;  padding-left: 0in; width: 30%; padding-right: 0in;   padding-top: 0in;border-color: #f0f0f0;" valign="top">
+                    <div style="line-height: 10.5pt;">       <span style="font-size: 8.5pt; color: #272727;">Mil T 29504/04 For Mil C 38999</span></div>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="padding-bottom: 0in; background-color: transparent;  padding-left: 0in; width: 20%; padding-right: 0in;   padding-top: 0in;border-color: #f0f0f0;" valign="top">
+                    <div style="line-height: 10.5pt;">       <span style="font-size: 8.5pt; color: #272727;">1.6 mm</span></div>
+                    </td>
+                    <td style="padding-bottom: 0in; background-color: transparent;  padding-left: 0in; width: 10%; padding-right: 0in;   padding-top: 0in;border-color: #f0f0f0;" valign="top">
+                    <div style="line-height: 10.5pt;">       <span style="font-size: 8.5pt; color: #272727;">Socket</span></div>
+                    </td>
+                    <td style="padding-bottom: 0in; background-color: transparent;  padding-left: 0in; width: 20%; padding-right: 0in;   padding-top: 0in;border-color: #f0f0f0;" valign="top">
+                    <div style="line-height: 10.5pt;">       <span style="font-size: 8.5pt; color: #272727;">CCTS-16-0900</span></div>
+                    </td>
+                    <td style="padding-bottom: 0in; background-color: transparent;  padding-left: 0in; width: 30%; padding-right: 0in;   padding-top: 0in;border-color: #f0f0f0;" valign="top">
+                    <div style="line-height: 10.5pt;">       <span style="font-size: 8.5pt; color: #272727;">Mil T 29504/05 For Mil C 38999</span></div>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="padding-bottom: 0in; background-color: transparent;  padding-left: 0in; width: 20%; padding-right: 0in;   padding-top: 0in;border-color: #f0f0f0;" valign="top">
+                    <div style="line-height: 10.5pt;">       <span style="font-size: 8.5pt; color: #272727;">1.25 mm</span></div>
+                    </td>
+                    <td style="padding-bottom: 0in; background-color: transparent;  padding-left: 0in; width: 10%; padding-right: 0in;   padding-top: 0in;border-color: #f0f0f0;" valign="top">
+                    <div style="line-height: 10.5pt;">       <span style="font-size: 8.5pt; color: #272727;">Pin</span></div>
+                    </td>
+                    <td style="padding-bottom: 0in; background-color: transparent;  padding-left: 0in; width: 20%; padding-right: 0in;   padding-top: 0in;border-color: #f0f0f0;" valign="top">
+                    <div style="line-height: 10.5pt;">       <span style="font-size: 8.5pt; color: #272727;">CCTP-25-0900</span></div>
+                    </td>
+                    <td style="padding-bottom: 0in; background-color: transparent;  padding-left: 0in; width: 30%; padding-right: 0in;   padding-top: 0in;border-color: #f0f0f0;" valign="top">
+                    <div style="line-height: 10.5pt;">       <span style="font-size: 8.5pt; color: #272727;">Examples: LC, MU</span></div>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="padding-bottom: 0in; background-color: transparent;  padding-left: 0in; width: 20%; padding-right: 0in;   padding-top: 0in;border-color: #f0f0f0;" valign="top">
+                    <div style="line-height: 10.5pt;">       <span style="font-size: 8.5pt; color: #272727;">1.25 mm</span></div>
+                    </td>
+                    <td style="padding-bottom: 0in; background-color: transparent;  padding-left: 0in; width: 10%; padding-right: 0in;   padding-top: 0in;border-color: #f0f0f0;" valign="top">
+                    <div style="line-height: 10.5pt;">       <span style="font-size: 8.5pt; color: #272727;">Socket</span></div>
+                    </td>
+                    <td style="padding-bottom: 0in; background-color: transparent;  padding-left: 0in; width: 20%; padding-right: 0in;   padding-top: 0in;border-color: #f0f0f0;" valign="top">
+                    <div style="line-height: 10.5pt;">       <span style="font-size: 8.5pt; color: #272727;">CCTS-12-0900</span></div>
+                    </td>
+                    <td style="padding-bottom: 0in; background-color: transparent;  padding-left: 0in; width: 30%; padding-right: 0in;   padding-top: 0in;border-color: #f0f0f0;" valign="top">
+                    <div style="line-height: 10.5pt;">       <span style="font-size: 8.5pt; color: #272727;">Examples: LC, MU</span></div>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="padding-bottom: 0in; background-color: transparent;  padding-left: 0in; width: 20%; padding-right: 0in;   padding-top: 0in;border-color: #f0f0f0;" valign="top">
+                    <div style="line-height: 10.5pt;">       <span style="font-size: 8.5pt; color: #272727;">MT ferrule</span></div>
+                    </td>
+                    <td style="padding-bottom: 0in; background-color: transparent;  padding-left: 0in; width: 10%; padding-right: 0in;   padding-top: 0in;border-color: #f0f0f0;" valign="top">
+                    <div style="line-height: 10.5pt;">       <span style="font-size: 8.5pt; color: #272727;">Pin</span></div>
+                    </td>
+                    <td style="padding-bottom: 0in; background-color: transparent;  padding-left: 0in; width: 20%; padding-right: 0in;   padding-top: 0in;border-color: #f0f0f0;" valign="top">
+                    <div style="line-height: 10.5pt;">       <span style="font-size: 8.5pt; color: #272727;">CCTX-MT-0900</span></div>
+                    </td>
+                    <td style="padding-bottom: 0in; background-color: transparent;  padding-left: 0in; width: 30%; padding-right: 0in;   padding-top: 0in;border-color: #f0f0f0;" valign="top">
+                    <div style="line-height: 10.5pt;">       <span style="font-size: 8.5pt; color: #272727;">Examples: MPO, MPX&reg;</span></div>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="padding-bottom: 0in; background-color: transparent;  padding-left: 0in; width: 20%; padding-right: 0in;   padding-top: 0in;border-color: #f0f0f0;" valign="top">
+                    <div style="line-height: 10.5pt;">       <span style="font-size: 8.5pt; color: #272727;">MT ferrule</span></div>
+                    </td>
+                    <td style="padding-bottom: 0in; background-color: transparent;  padding-left: 0in; width: 10%; padding-right: 0in;   padding-top: 0in;border-color: #f0f0f0;" valign="top">
+                    <div style="line-height: 10.5pt;">       <span style="font-size: 8.5pt; color: #272727;">Socket</span></div>
+                    </td>
+                    <td style="padding-bottom: 0in; background-color: transparent;  padding-left: 0in; width: 20%; padding-right: 0in;   padding-top: 0in;border-color: #f0f0f0;" valign="top">
+                    <div style="line-height: 10.5pt;">       <span style="font-size: 8.5pt; color: #272727;">CCTX-MT-0900</span></div>
+                    </td>
+                    <td style="padding-bottom: 0in; background-color: transparent;  padding-left: 0in; width: 30%; padding-right: 0in;   padding-top: 0in;border-color: #f0f0f0;" valign="top">
+                    <div style="line-height: 10.5pt;">       <span style="font-size: 8.5pt; color: #272727;">Examples: MPO, MPX&reg;</span></div>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <p>&nbsp;</p>
+        <style>
+            table {
+            border-collapse: collapse;
+            border-spacing: 0;
+            width: 100% !important;
+            border: 1px solid #ddd;
+            background-color: #FFFFFF;
+            }
+            th, td {
+            text-align: left;
+            padding: 16px;
+            }
+            tr:nth-child(even) {
+            background-color: rgba(128, 128, 128, 0.07);
+            }
+            #title {
+            background-color: #00c0f3 !important;
+            color: #FFFFFF !important;
+            }
+            td {
+            padding: 15px !important;
+            border-right: 1px solid rgba(128, 128, 128, 0.5) !important;
+            border-bottom: 1px solid rgba(128, 128, 128, 0.5) !important;
+            border-top-color: rgba(128, 128, 128, 0.5) !important;
+            border-left-color: rgba(128, 128, 128, 0.5) !important;
+            border-top-style: solid !important;
+            border-left-style: solid !important;
+            text-align: left !important;
+            line-height: 1.5 !important;
+            display: table-cell !important;
+            }
+            .afl-subPages table tbody tr td {
+            font-size: 15px !important;
+            }
+            tr:hover {
+            background-color: #e6e6e6;
+            }
+        </style>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231122T212535Z
+    - ID: "ef2f63f2-c942-49a5-9c43-ebcfec40337e"
+      Hint: ProductName
+      Value: CCT Connector Cleaning Tips 
+    - ID: "fb72ff1d-6b1d-4970-916a-8162ff077e62"
+      Hint: ProcutItems
+      Value: |
+        {6FE311D9-6E70-437F-814E-10BA24A761F1}
+        {BD7C8A55-B295-4C6A-89A2-742B04D357D2}
+        {3514313D-F384-4510-AA9F-8A092069E53C}
+        {3DDE41B9-FE46-4752-AB40-A12F1119E407}
+        {4AD7FC70-0820-42C8-A307-F06AF20B3CBA}
+        {2CDED671-0E27-4C25-AD5E-B35DB411A357}
+        {A89E7BB9-7E93-44B5-AB16-0B210FE14C4E}
+        {A8F3E49B-ABBD-4B4E-90DF-1108D915EE85}
+        {5F3F87E3-080D-4052-9395-DD49E6645971}
+        {5A4055D3-E116-4801-B8D8-284CB33A2DB7}
+        {3D9A9F19-B6EC-4DC5-AFA4-1EE41CF4506E}
+        {65098052-DF3D-4997-A5C3-F4FD426801F4}
+        {142B05C9-C6F0-4AF1-AABB-1B81694F9442}
+        {530BF7A4-01F7-45E8-8B26-A57947DCDAD7}
+        {9326F8BF-5FCD-4335-9D8F-1D5E292A4872}

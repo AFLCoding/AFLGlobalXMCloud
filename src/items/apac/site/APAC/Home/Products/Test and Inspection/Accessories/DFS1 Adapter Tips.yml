@@ -1,0 +1,661 @@
+﻿---
+ID: "c9b84fd8-36f2-4978-a0c1-9f7118370332"
+Parent: "8ebae86c-7bcb-4182-a175-d479a8dd5ea3"
+Template: "231b4589-f8fc-498f-b0f6-64fabecbc7b9"
+Path: /sitecore/content/AFLGlobal/APAC/Home/Products/Test and Inspection/Accessories/DFS1 Adapter Tips
+SharedFields:
+- ID: "1fbc6a49-6281-48ee-87e9-a3970b145adb"
+  Hint: NavigationFilter
+  Value: |
+    {E0A2A027-0932-4878-A7D6-0416D5263EFB}
+    {61BD64D6-809E-40AE-9297-2724A19329B3}
+    {D063E9D1-C7B5-4B1E-B31E-69886C9C59F5}
+    {500AE4C0-FA7B-463F-8149-EFFF7F044101}
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{DA631FB5-51B3-49F6-9915-732D093CF221}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: 
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 102
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "16863469-616f-4d9e-a66f-02c79610ddaa"
+      Hint: ProductShortDescription
+      Value: Adapter tips are used with the DFS1 Digital FiberScope to inspect ferrule ends of jumper cables, as well as fiber ends mounted inside bulkhead adapters on the front panels of transmission equipment and in patch panels. Tips are available in a variety of lengths for both UPC and APC connectors.  Commonly used FC, SC, and LC adapter tips are included in DFS1 Digital FiberScope Kits.
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220303T154335Z
+    - ID: "36d9d67b-3610-4327-963e-e209239944d7"
+      Hint: ProductApplication
+      Value: |
+        <h3 style="font-size: 16px; padding-bottom: 5px;">Applications:</h3><ul class="productDetailApplications">
+         <li>Use with DFS1 to inspect jumper cable connector end-faces</li>
+         <li>Use with DFS1 to inspect bulkhead-mounted optical connector end-faces</li>
+         <li>MTP/MPO adapter tip enables ribbon cable connector end-face inspection</li>
+         
+         
+         
+         
+         
+         
+         
+        </ul>
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4dda6e0a-1c9d-4a8d-890f-11a8eddc2f11"
+      Hint: ProductFeatures
+      Value: |
+        <h3 style="font-size: 16px; padding-bottom: 5px;">Features:</h3><ul class="productDetailFeatures">
+         <li style="display: list-item;">Adapts DFS1 Digital FiberScope for inspecting virtually any fiber optic connector end-face</li>
+         <li style="display: list-item;">Inspects jumper cable ferrule ends</li>
+         <li style="display: list-item;">Inspects bulkhead-mounted equipment and patch panel connectors</li>
+         <li style="display: list-item;">Adapters for PC/UPC and APC polished connectors</li>
+         <li style="display: none;">Easily interchanged; no tools required</li>
+         
+         
+         
+         
+         
+        </ul>
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: DFS1 Adapter Tips
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\archana
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: Adapter tips are used with the DFS1 Digital FiberScope to inspect ferrule ends of jumper cables, as well as fiber ends mounted inside bulkhead adapters on the front panels of transmission equipment and in patch panels. Tips are available in a variety of lengths for both UPC and APC connectors.  Commonly used FC, SC, and LC adapter tips are included in DFS1 Digital FiberScope Kits.
+    - ID: "59ec008e-95ec-4c06-9189-09d4acaf1d7e"
+      Hint: ProductCategory
+      Value: "{527518B8-EA3A-4804-8844-1F0437F5CAA9}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\archana
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: "DFS1, FiberScope, fiber optic, connector inspection, AFL, JDSU, EXFO, connector adapters, ferrule, bulkhead, UPC, APC, FC, SC, LC, LEMO, E2000, ELIO, TFOCA, TFOCA-II, MTP, MPO, ribbon cable, Viavi, Fluke networks, veex"
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: DFS1 Adapter Tips
+    - ID: "72653cc9-973c-4682-b5c7-26d926959f8f"
+      Hint: ProductImage
+      Value: |
+        <image stylelabs-content-id="46237" src="https://afl-delivery.stylelabs.cloud/api/public/content/abc71f5f2c1a42e09b043c7c1ef254ac?v=afcd22ac|https://afl-delivery.stylelabs.cloud/api/public/content/17127c9af19848cba7e18c36cdf6b45a?v=d557865d" stylelabs-content-type="Image" alt="DFS1 Adapter Tips" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/46237/thumbnail" />
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: DFS1 Adapter Tips
+    - ID: "8b978017-d437-40aa-b31d-bbf1d560a0cb"
+      Hint: DownloadFileLink
+      Value: |
+        <link target="_blank" text="SPECIFICATION SHEET" anchor="" url="https://afl-delivery.stylelabs.cloud/api/public/content/ff78499cc73d4345b3905a1742bd1a06?v=f4bccb68" linktype="external" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3e4612db-804c-41b4-95f1-2922b85dea4b"
+    - ID: "93dc88f3-05e5-482d-9b9a-c859c8258a73"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="169961" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/169961/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/AFL-Test-and-Inspection-Accessories?v=972ebbde" stylelabs-content-type="Image" alt="Test_Accesories_TopLevel.jpg" height="465" width="1336" />
+    - ID: "ab4c1906-c756-4771-818b-3683089665ee"
+      Hint: ProductMediaItems
+      Value: |
+        {CE4D397E-88FC-4C7F-990D-4C2F02722D84}
+        {1F9972DE-7024-431C-A435-F6173FD09A43}
+        {13B65F4D-B22C-4BD0-BB8C-8EFD53C28973}
+        {410C1CB9-6BA5-41BE-BA27-BDC3CEDC3EAF}
+    - ID: "af4f5f0d-745a-4af7-aee7-2002f0430999"
+      Hint: ProductTitle
+      Value: DFS1 Adapter Tips
+    - ID: "b8f42732-9cb8-478d-ae95-07e25345fb0f"
+      Hint: __Hide version
+      Value: 1
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d1f74386-05c3-4c80-aa18-38d21db05fdf"
+      Hint: ProductId
+      Value: 532
+    - ID: "d93ad815-376a-43bf-b34b-cbad0b1b7128"
+      Hint: ProductLongDescription
+      Value: |
+        <h2>   &nbsp;<strong><span>DFS1 Adapter Tips</span></strong></h2>
+        <p>   Adapter tips are used with the DFS1 Digital FiberScope to inspect ferrule ends of jumper cables, as well as fiber ends mounted inside bulkhead adapters on the front panels of transmission equipment and in patch panels. Tips are available in a variety of lengths. Angled tips are available to inspect angle-mounted connectors or connectors with limited access space. Commonly used FC, SC, and LC adapter tips are included in DFS1 Digital FiberScope Kits. One kit supports connectors with PC or UPC polished end-faces, while another kit is geared towards connectors with angle-polished (APC) end-faces.</p>
+        <p>   Adapter tips can be individually ordered to augment existing kits. Tips are available to inspect end-faces of connector ferrules, as well as connectors mounted in bulkhead adapters.&nbsp;A wide range of tips is supported, including FC, SC, LC, E2000, ST, MU, MTP/MPO ribbon connectors, MIL-28876, MIL-38999, MIL-29504, and others.&nbsp;For a complete listing, see the DFS1 Adapters datasheet.</p>
+        <h2>   DFS1&nbsp;<strong>Adapter Tip Selection Guide</strong></h2>
+        <table border="1" cellpadding="0" cellspacing="0">
+            <tbody>
+                <tr>
+                    <td id="title" rowspan="3" valign="top" style="width: 101px;">
+                    <div style="text-align: center;">       <strong>CONNECTOR</strong></div>
+                    <div style="text-align: center;">       <strong>TYPE</strong></div>
+                    </td>
+                    <td id="title" colspan="4" valign="top" style="width: 533px;">
+                    <div style="text-align: center;">       <strong>DFS1 ADAPTER TIP FOR:</strong></div>
+                    </td>
+                </tr>
+                <tr>
+                    <td id="title" rowspan="2" valign="top" style="width: 126px;">
+                    <div style="text-align: center;">       <strong>CONNECTOR FERRULE (Male)</strong></div>
+                    </td>
+                    <td id="title" colspan="3" valign="top" style="width: 407px;">
+                    <div style="text-align: center;">       <strong>BULKHEAD ADAPTER (Female)</strong></div>
+                    </td>
+                </tr>
+                <tr>
+                    <td id="title" valign="top" style="width: 126px;">
+                    <div style="text-align: center;">       <strong>Flush Mount</strong></div>
+                    </td>
+                    <td id="title" valign="top" style="width: 155px;">
+                    <div style="text-align: center;">       <strong>Extended (1)</strong></div>
+                    </td>
+                    <td id="title" valign="top" style="width: 126px;">
+                    <div style="text-align: center;">       <strong>Angle Mount</strong></div>
+                    </td>
+                </tr>
+                <tr>
+                    <td valign="top" style="width: 101px;">
+                    <div style="text-align: center;">       FC/SC-UPC</div>
+                    </td>
+                    <td valign="top" style="width: 126px;">
+                    <div style="text-align: center;">       DFS1-00-0002MR</div>
+                    </td>
+                    <td valign="top" style="width: 126px;">
+                    <div style="text-align: center;">       DFS1-00-0003MR</div>
+                    </td>
+                    <td valign="top" style="width: 155px;">
+                    <div style="text-align: center;">       DFS1-00-0010MR (S)</div>
+                    <div style="text-align: center;">       DFS1-00-0011MR (M)</div>
+                    <div style="text-align: center;">       DFS1-00-0012MR (L)</div>
+                    </td>
+                    <td valign="top" style="width: 126px;">
+                    <div style="text-align: center;">       DFS1-00-0013MR</div>
+                    </td>
+                </tr>
+                <tr>
+                    <td valign="top" style="width: 101px;">
+                    <div style="text-align: center;">       FC/SC-APC</div>
+                    </td>
+                    <td valign="top" style="width: 126px;">
+                    <div style="text-align: center;">       DFS1-01-0002MR</div>
+                    </td>
+                    <td valign="top" style="width: 126px;">
+                    <div style="text-align: center;">       DFS1-01-0003MR</div>
+                    </td>
+                    <td valign="top" style="width: 155px;">
+                    <div style="text-align: center;">       N/A</div>
+                    </td>
+                    <td valign="top" style="width: 126px;">
+                    <div style="text-align: center;">       N/A</div>
+                    </td>
+                </tr>
+                <tr>
+                    <td valign="top" style="width: 101px;">
+                    <div style="text-align: center;">       SC-UPC</div>
+                    </td>
+                    <td valign="top" style="width: 126px;">
+                    <div style="text-align: center;">       DFS1-00-0002MR</div>
+                    </td>
+                    <td valign="top" style="width: 126px;">
+                    <div style="text-align: center;">       DFS1-00-0003MR</div>
+                    </td>
+                    <td valign="top" style="width: 155px;">
+                    <div style="text-align: center;">       DFS1-00-0010MR (S)</div>
+                    <div style="text-align: center;">       DFS1-00-0011MR (M)</div>
+                    <div style="text-align: center;">       DFS1-00-0012MR (L)</div>
+                    </td>
+                    <td valign="top" style="width: 126px;">
+                    <div style="text-align: center;">       DFS1-00-0040MR</div>
+                    </td>
+                </tr>
+                <tr>
+                    <td valign="top" style="width: 101px;">
+                    <div style="text-align: center;">       SC-APC</div>
+                    </td>
+                    <td valign="top" style="width: 126px;">
+                    <div style="text-align: center;">       DFS1-01-0002MR</div>
+                    </td>
+                    <td valign="top" style="width: 126px;">
+                    <div style="text-align: center;">       DFS1-01-0011MR</div>
+                    </td>
+                    <td valign="top" style="width: 155px;">
+                    <div style="text-align: center;">       DFS1-01-0005MR (S)</div>
+                    </td>
+                    <td valign="top" style="width: 126px;">
+                    <div style="text-align: center;">       DFS1-01-0006MR</div>
+                    </td>
+                </tr>
+                <tr>
+                    <td valign="top" style="width: 101px;">
+                    <div style="text-align: center;">       SC2-UPC</div>
+                    </td>
+                    <td valign="top" style="width: 126px;">
+                    <div style="text-align: center;">       DFS1-00-0002MR</div>
+                    <div style="text-align: center;">       DFS1-00-0038MR</div>
+                    </td>
+                    <td valign="top" style="width: 126px;">
+                    <div style="text-align: center;">       N/A</div>
+                    </td>
+                    <td valign="top" style="width: 155px;">
+                    <div style="text-align: center;">       DFS1-00-0043MR (S)</div>
+                    <div style="text-align: center;">       DFS1-00-0044MR (M)</div>
+                    <div style="text-align: center;">       DFS1-00-0043MR (L)</div>
+                    </td>
+                    <td valign="top" style="width: 126px;">
+                    <div style="text-align: center;">       N/A</div>
+                    </td>
+                </tr>
+                <tr>
+                    <td valign="top" style="width: 101px;">
+                    <div style="text-align: center;">       LC-UPC</div>
+                    </td>
+                    <td valign="top" style="width: 126px;">
+                    <div style="text-align: center;">       DFS1-00-0001MR</div>
+                    </td>
+                    <td valign="top" style="width: 126px;">
+                    <div style="text-align: center;">       DFS1-00-0004MR</div>
+                    </td>
+                    <td valign="top" style="width: 155px;">
+                    <div style="text-align: center;">       DFS1-00-0019MR (S)</div>
+                    <div style="text-align: center;">       DFS1-00-0020MR (M)</div>
+                    <div style="text-align: center;">       DFS1-00-0021MR (L)</div>
+                    </td>
+                    <td valign="top" style="width: 126px;">
+                    <div style="text-align: center;">       DFS1-00-0022MR</div>
+                    </td>
+                </tr>
+                <tr>
+                    <td valign="top" style="width: 101px;">
+                    <div style="text-align: center;">       LC-APC</div>
+                    </td>
+                    <td valign="top" style="width: 126px;">
+                    <div style="text-align: center;">       DFS1-01-0001MR</div>
+                    </td>
+                    <td valign="top" style="width: 126px;">
+                    <div style="text-align: center;">       DFS1-01-0004MR</div>
+                    </td>
+                    <td valign="top" style="width: 155px;">
+                    <div style="text-align: center;">       N/A</div>
+                    </td>
+                    <td valign="top" style="width: 126px;">
+                    <div style="text-align: center;">       N/A</div>
+                    </td>
+                </tr>
+                <tr>
+                    <td valign="top" style="width: 101px;">
+                    <div style="text-align: center;">       E2000-UPC</div>
+                    </td>
+                    <td valign="top" style="width: 126px;">
+                    <div style="text-align: center;">       DFS1-00-0002MR</div>
+                    </td>
+                    <td valign="top" style="width: 126px;">
+                    <div style="text-align: center;">       N/A</div>
+                    </td>
+                    <td valign="top" style="width: 155px;">
+                    <div style="text-align: center;">       DFS1-00-0023MR (S)</div>
+                    <div style="text-align: center;">       DFS1-00-0024MR (M)</div>
+                    <div style="text-align: center;">       DFS1-00-0025MR (L)</div>
+                    </td>
+                    <td valign="top" style="width: 126px;">
+                    <div style="text-align: center;">       N/A</div>
+                    </td>
+                </tr>
+                <tr>
+                    <td valign="top" style="width: 101px;">
+                    <div style="text-align: center;">       ST-UPC</div>
+                    </td>
+                    <td valign="top" style="width: 126px;">
+                    <div style="text-align: center;">       DFS1-00-0002MR</div>
+                    </td>
+                    <td valign="top" style="width: 126px;">
+                    <div style="text-align: center;">       DFS1-00-0014MR</div>
+                    </td>
+                    <td valign="top" style="width: 155px;">
+                    <div style="text-align: center;">       DFS1-00-0015MR (S)</div>
+                    <div style="text-align: center;">       DFS1-00-0016MR (M)</div>
+                    <div style="text-align: center;">       DFS1-00-0017MR (L)</div>
+                    </td>
+                    <td valign="top" style="width: 126px;">
+                    <div style="text-align: center;">       DFS1-00-0018MR</div>
+                    </td>
+                </tr>
+                <tr>
+                    <td valign="top" style="width: 101px;">
+                    <div style="text-align: center;">       MU-UPC</div>
+                    </td>
+                    <td valign="top" style="width: 126px;">
+                    <div style="text-align: center;">       DFS1-00-0001MR</div>
+                    </td>
+                    <td valign="top" style="width: 126px;">
+                    <div style="text-align: center;">       DFS1-00-0026MR</div>
+                    </td>
+                    <td valign="top" style="width: 155px;">
+                    <div style="text-align: center;">       DFS1-00-0027MR (S)</div>
+                    <div style="text-align: center;">       DFS1-00-0028MR (M)</div>
+                    <div style="text-align: center;">       DFS1-00-0029MR (L)</div>
+                    </td>
+                    <td valign="top" style="width: 126px;">
+                    <div style="text-align: center;">       DFS1-00-0030MR</div>
+                    </td>
+                </tr>
+                <tr>
+                    <td valign="top" style="width: 101px;">
+                    <div style="text-align: center;">       LEMO-UPC</div>
+                    </td>
+                    <td valign="top" style="width: 126px;">
+                    <div style="text-align: center;">       DFS1-00-0005MR</div>
+                    </td>
+                    <td valign="top" style="width: 126px;">
+                    <div style="text-align: center;">       DFS1-00-0031MR</div>
+                    </td>
+                    <td valign="top" style="width: 155px;">
+                    <div style="text-align: center;">       N/A</div>
+                    </td>
+                    <td valign="top" style="width: 126px;">
+                    <div style="text-align: center;">       N/A</div>
+                    </td>
+                </tr>
+                <tr>
+                    <td valign="top" style="width: 101px;">
+                    <div style="text-align: center;">       LX.5-UPC</div>
+                    </td>
+                    <td valign="top" style="width: 126px;">
+                    <div style="text-align: center;">       DFS1-00-0001MR</div>
+                    </td>
+                    <td valign="top" style="width: 126px;">
+                    <div style="text-align: center;">       DFS1-00-0032MR</div>
+                    </td>
+                    <td valign="top" style="width: 155px;">
+                    <div style="text-align: center;">       N/A</div>
+                    </td>
+                    <td valign="top" style="width: 126px;">
+                    <div style="text-align: center;">       N/A</div>
+                    </td>
+                </tr>
+                <tr>
+                    <td valign="top" style="width: 101px;">
+                    <div style="text-align: center;">       LX.5-APC</div>
+                    </td>
+                    <td valign="top" style="width: 126px;">
+                    <div style="text-align: center;">       DFS1-01-0001MR</div>
+                    </td>
+                    <td valign="top" style="width: 126px;">
+                    <div style="text-align: center;">       DFS1-01-0009MR</div>
+                    </td>
+                    <td valign="top" style="width: 155px;">
+                    <div style="text-align: center;">       N/A</div>
+                    </td>
+                    <td valign="top" style="width: 126px;">
+                    <div style="text-align: center;">       N/A</div>
+                    </td>
+                </tr>
+                <tr>
+                    <td valign="top" style="width: 101px;">
+                    <div style="text-align: center;">       ELIO1.25-UPC</div>
+                    </td>
+                    <td valign="top" style="width: 126px;">
+                    <div style="text-align: center;">       DFS1-00-0008MR</div>
+                    </td>
+                    <td valign="top" style="width: 126px;">
+                    <div style="text-align: center;">       DFS1-00-0036MR</div>
+                    </td>
+                    <td valign="top" style="width: 155px;">
+                    <div style="text-align: center;">       N/A</div>
+                    </td>
+                    <td valign="top" style="width: 126px;">
+                    <div style="text-align: center;">       N/A</div>
+                    </td>
+                </tr>
+                <tr>
+                    <td valign="top" style="width: 101px;">
+                    <div style="text-align: center;">       ELIO2.5-UPC</div>
+                    </td>
+                    <td valign="top" style="width: 126px;">
+                    <div style="text-align: center;">       DFS1-00-0039MR</div>
+                    </td>
+                    <td valign="top" style="width: 126px;">
+                    <div style="text-align: center;">       Consult factory</div>
+                    </td>
+                    <td valign="top" style="width: 155px;">
+                    <div style="text-align: center;">       N/A</div>
+                    </td>
+                    <td valign="top" style="width: 126px;">
+                    <div style="text-align: center;">       N/A</div>
+                    </td>
+                </tr>
+                <tr>
+                    <td valign="top" style="width: 101px;">
+                    <div style="text-align: center;">       Termini-UPC<br />
+                    (2.0 mm)</div>
+                    </td>
+                    <td valign="top" style="width: 126px;">
+                    <div style="text-align: center;">       DFS1-00-0005MR</div>
+                    </td>
+                    <td valign="top" style="width: 126px;">
+                    <div style="text-align: center;">       DFS1-00-0033MR</div>
+                    </td>
+                    <td valign="top" style="width: 155px;">
+                    <div style="text-align: center;">       N/A</div>
+                    </td>
+                    <td valign="top" style="width: 126px;">
+                    <div style="text-align: center;">       N/A</div>
+                    </td>
+                </tr>
+                <tr>
+                    <td valign="top" style="width: 101px;">
+                    <div style="text-align: center;">       Termini-UPC<br />
+                    (1.6 mm)</div>
+                    </td>
+                    <td valign="top" style="width: 126px;">
+                    <div style="text-align: center;">       DFS1-00-0006MR</div>
+                    </td>
+                    <td valign="top" style="width: 126px;">
+                    <div style="text-align: center;">       DFS1-00-0034MR</div>
+                    </td>
+                    <td valign="top" style="width: 155px;">
+                    <div style="text-align: center;">       N/A</div>
+                    </td>
+                    <td valign="top" style="width: 126px;">
+                    <div style="text-align: center;">       N/A</div>
+                    </td>
+                </tr>
+                <tr>
+                    <td valign="top" style="width: 101px;">
+                    <div style="text-align: center;">       Termini-UPC<br />
+                    (1.25 mm)</div>
+                    </td>
+                    <td valign="top" style="width: 126px;">
+                    <div style="text-align: center;">       DFS1-00-0001MR</div>
+                    <div style="text-align: center;">       DFS1-00-0038MR</div>
+                    </td>
+                    <td valign="top" style="width: 126px;">
+                    <div style="text-align: center;">       Consult factory</div>
+                    </td>
+                    <td valign="top" style="width: 155px;">
+                    <div style="text-align: center;">       N/A</div>
+                    </td>
+                    <td valign="top" style="width: 126px;">
+                    <div style="text-align: center;">       N/A</div>
+                    </td>
+                </tr>
+                <tr>
+                    <td valign="top" style="width: 101px;">
+                    <div style="text-align: center;">       MIL-28876:</div>
+                    <div style="text-align: center;">       MIL-29504<br />
+                    2.0 mm</div>
+                    </td>
+                    <td valign="top" style="width: 126px;">
+                    <div style="text-align: center;">       MIL-29504-14: DFS1-00-0005MR</div>
+                    </td>
+                    <td valign="top" style="width: 126px;">
+                    <div style="text-align: center;">       MIL-29504-15: DFS1-00-0033MR</div>
+                    </td>
+                    <td valign="top" style="width: 155px;">
+                    <div style="text-align: center;">       N/A</div>
+                    </td>
+                    <td valign="top" style="width: 126px;">
+                    <div style="text-align: center;">       N/A</div>
+                    </td>
+                </tr>
+                <tr>
+                    <td valign="top" style="width: 101px;">
+                    <div style="text-align: center;">       MIL-38999:</div>
+                    <div style="text-align: center;">       MIL-29504<br />
+                    1.6 mm</div>
+                    </td>
+                    <td valign="top" style="width: 126px;">
+                    <div style="text-align: center;">       MIL-29504-4: DFS1-00-0006MR</div>
+                    </td>
+                    <td valign="top" style="width: 126px;">
+                    <div style="text-align: center;">       MIL-29504-5: DFS1-00-0034MR</div>
+                    </td>
+                    <td valign="top" style="width: 155px;">
+                    <div style="text-align: center;">       N/A</div>
+                    </td>
+                    <td valign="top" style="width: 126px;">
+                    <div style="text-align: center;">       N/A</div>
+                    </td>
+                </tr>
+                <tr>
+                    <td valign="top" style="width: 101px;">
+                    <div style="text-align: center;">       TFOCA-II</div>
+                    </td>
+                    <td valign="top" style="width: 126px;">
+                    <div style="text-align: center;">       DFS1-00-0047MR</div>
+                    </td>
+                    <td valign="top" style="width: 126px;">
+                    <div style="text-align: center;">       DFS1-00-0047MR</div>
+                    </td>
+                    <td valign="top" style="width: 155px;">
+                    <div style="text-align: center;">       N/A</div>
+                    </td>
+                    <td valign="top" style="width: 126px;">
+                    <div style="text-align: center;">       N/A</div>
+                    </td>
+                </tr>
+                <tr>
+                    <td valign="top" style="width: 101px;">
+                    <div style="text-align: center;">       MTP/MPO-UPC and APC</div>
+                    </td>
+                    <td valign="top" style="width: 126px;">
+                    <div style="text-align: center;">       DFS1-00-0042MR</div>
+                    </td>
+                    <td valign="top" style="width: 126px;">
+                    <div style="text-align: center;">       DFS1-00-0042MR</div>
+                    </td>
+                    <td valign="top" style="width: 155px;">
+                    <div style="text-align: center;">       N/A</div>
+                    </td>
+                    <td valign="top" style="width: 126px;">
+                    <div style="text-align: center;">       N/A</div>
+                    </td>
+                </tr>
+                <tr>
+                    <td valign="top" style="width: 101px;">
+                    <div style="text-align: center;">       MTP-UPC</div>
+                    </td>
+                    <td valign="top" style="width: 126px;">
+                    <div style="text-align: center;">       DFS1-00-0037MR</div>
+                    </td>
+                    <td valign="top" style="width: 126px;">
+                    <div style="text-align: center;">       DFS1-00-0037MR</div>
+                    </td>
+                    <td valign="top" style="width: 155px;">
+                    <div style="text-align: center;">       N/A</div>
+                    </td>
+                    <td valign="top" style="width: 126px;">
+                    <div style="text-align: center;">       N/A</div>
+                    </td>
+                </tr>
+                <tr>
+                    <td valign="top" style="width: 101px;">
+                    <div style="text-align: center;">       MTP-APC</div>
+                    </td>
+                    <td valign="top" style="width: 126px;">
+                    <div style="text-align: center;">       DFS1-01-0010MR</div>
+                    </td>
+                    <td valign="top" style="width: 126px;">
+                    <div style="text-align: center;">       DFS1-01-0010MR</div>
+                    </td>
+                    <td valign="top" style="width: 155px;">
+                    <div style="text-align: center;">       N/A</div>
+                    </td>
+                    <td valign="top" style="width: 126px;">
+                    <div style="text-align: center;">       N/A</div>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <p>   <strong><em>Note 1</em></strong>:&nbsp;Extended tip length:&nbsp;Short (S) ~60 mm;&nbsp;Medium (M) ~100 mm;&nbsp;Long (L) ~150 mm.</p>
+        <div>   &nbsp;</div>
+        <style>
+            table {
+            border-collapse: collapse;
+            border-spacing: 0;
+            width: 100% !important;
+            border: 1px solid #ddd;
+            background-color: #FFFFFF;
+            }
+            th, td {
+            text-align: left;
+            padding: 16px;
+            }
+            tr:nth-child(even) {
+            background-color: rgba(128, 128, 128, 0.07);
+            }
+            #title {
+            background-color: #00c0f3 !important;
+            color: #FFFFFF !important;
+            }
+            td {
+            padding: 15px !important;
+            border-right: 1px solid rgba(128, 128, 128, 0.5) !important;
+            border-bottom: 1px solid rgba(128, 128, 128, 0.5) !important;
+            border-top-color: rgba(128, 128, 128, 0.5) !important;
+            border-left-color: rgba(128, 128, 128, 0.5) !important;
+            border-top-style: solid !important;
+            border-left-style: solid !important;
+            text-align: left !important;
+            line-height: 1.5 !important;
+            display: table-cell !important;
+            }
+            .afl-subPages table tbody tr td {
+            font-size: 15px !important;
+            }
+            tr:hover {
+            background-color: #e6e6e6;
+            }
+        </style>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231122T212534Z
+    - ID: "ef2f63f2-c942-49a5-9c43-ebcfec40337e"
+      Hint: ProductName
+      Value: DFS1 Adapter Tips
+    - ID: "fb72ff1d-6b1d-4970-916a-8162ff077e62"
+      Hint: ProcutItems
+      Value: |
+        {7502B3D5-A205-4A7F-8104-08E3D53E00D5}
+        {C31C2D61-0387-436F-AC41-01E679511392}
+        {D53C05A1-FD4C-427E-8812-A05F9F65708A}
+        {84C27700-2377-4795-ABB6-7A7154D95403}
+        {3EA3970D-58C9-446C-8200-F6C5EE901F6B}
+        {8CE5A75E-8948-400B-938F-3AF9C34823D3}
+        {3B21C403-C5AB-47C7-81BC-C757F68819D8}
+        {C942D14E-12FB-468B-A8A2-96CB150C250F}
+        {4CB4B513-E071-4C55-956F-F149AB5F4112}
+        {B848144D-FBFB-46AE-A7FD-2EA4053631F4}
+        {787DD9BC-EDA7-4251-B706-A4DCA79ED638}
+        {F7D3DC6B-0A5B-436A-9966-86F40F1AA7FE}
+        {E563C707-D3A1-46ED-AA5E-1E944039E008}
+        {C5B2268A-ECC9-463E-B8AA-72A5ABB04547}
+        {0E0E54E5-2A23-4D43-A12D-1C51FFC3E664}

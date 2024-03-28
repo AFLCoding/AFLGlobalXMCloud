@@ -1,0 +1,71 @@
+﻿---
+ID: "12c49fd6-c130-419e-a87f-eb1b23ed9ab7"
+Parent: "34a823f3-d8a7-4e0e-929c-89c7459e513b"
+Template: "bf61de11-b78f-48ea-aaa4-1d17f0d83824"
+Path: /sitecore/content/AFLGlobal/APAC/Home/Products/UP Fiber Inside Plant/Cable Assemblies
+SharedFields:
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{D6E065C6-3215-4772-BB85-42B5C79A922D}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: 
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220303T152605Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Cable Assemblies
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\archana
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\archana
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: Cable Assemblies
+    - ID: "612fc437-a34e-408c-a80f-a3ce18887805"
+      Hint: SuggestionBoxRedirectIcon
+      Value: |
+        <image mediaid="{5A901871-5681-4DAD-ABC1-FB375934B088}" alt="Redirect Icon" height="" width="" hspace="" vspace="" />
+    - ID: "628db04b-29a2-483b-a88c-b8fd9a5f2086"
+      Hint: HeroLink
+      Value: |
+        <link id="{45FDF62B-6893-412C-B70F-454B422AE611}" querystring="" target="|Custom" text="LEARN MORE" anchor="" title="" class="" url="/AFL-Global/APAC/Home/Products/UP Fiber Inside Plant/Cable Assemblies" linktype="internal" />
+    - ID: "78f50588-1d63-4b01-824d-f750b167b97f"
+      Hint: FeaturedProducts
+      Value: |
+        {A8439255-9823-49DB-B6C0-E4523B17419B}
+        {DF09CF1A-02A8-4A9B-8780-B116200ADC37}
+        {16BF1DDF-0948-488A-8F0B-60E489019A32}
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: Cable Assemblies
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8a402a1e-20d2-4a6e-a6ce-fad8373addc9"
+    - ID: "93dc88f3-05e5-482d-9b9a-c859c8258a73"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="73473" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/73473/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/homehero4?v=247592cf" stylelabs-content-type="Image" alt="AFL-Desktop-Homepage-photos_4.jpg" height="571" width="1338" />
+    - ID: "a40ebd3d-2b41-41fb-90f7-753544ce77c5"
+      Hint: Hero Title1
+      Value: Cable Assemblies
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231129T145213Z

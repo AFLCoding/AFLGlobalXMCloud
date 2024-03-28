@@ -1,0 +1,65 @@
+﻿---
+ID: "93fe1a92-745a-4309-861e-2eeec1383670"
+Parent: "a5c52d0b-c55a-470f-b2f6-7b76f1ae5db1"
+Template: "9f3eb887-7a2a-4e1d-a23d-e79337d45cc8"
+Path: "/sitecore/content/AFLGlobal/APAC/Home/Products/Test and Inspection/Product Service Request - Redirect"
+SharedFields:
+- ID: "1fbc6a49-6281-48ee-87e9-a3970b145adb"
+  Hint: NavigationFilter
+  Value: 
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 650
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "22753447-be25-4035-a3c9-7f875afe8e57"
+      Hint: RedirectUrl
+      Value: |
+        <link text="" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{AF1E98B5-4B98-46C3-8F25-D58C9E7883F8}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220610T141751Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Product Service Request
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rob
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rob
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: Product Service Request 
+    - ID: "628db04b-29a2-483b-a88c-b8fd9a5f2086"
+      Hint: HeroLink
+      Value: |
+        <link text="Submit Form" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{AF1E98B5-4B98-46C3-8F25-D58C9E7883F8}" />
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: Product Service Request 
+    - ID: "80d61154-3413-4133-bd41-33a857cbdc8f"
+      Hint: ProductListingTitle
+      Value: Product Service Request
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "28516d6e-d4ec-49fd-b8ba-c7fbb55f0e4f"
+    - ID: "93dc88f3-05e5-482d-9b9a-c859c8258a73"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="167264" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/167264/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/196960bb549d4980a3b821094a0e29e1?v=9c13fb40" stylelabs-content-type="Image" alt="Specialty_Splicers.jpg" height="465" width="1336" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231129T145210Z
+    - ID: "ec530a09-34f8-49c9-934c-0bbdf2e9fe22"
+      Hint: AFLLowLevel_Title
+      Value: Product Service Request

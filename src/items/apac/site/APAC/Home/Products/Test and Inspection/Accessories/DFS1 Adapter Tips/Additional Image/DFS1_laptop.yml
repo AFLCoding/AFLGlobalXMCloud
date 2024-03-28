@@ -1,0 +1,38 @@
+﻿---
+ID: "2caea05a-a2be-4ea0-98f1-5a5e06de5685"
+Parent: "e3ef97c9-6589-4701-98e8-19250f98b6a3"
+Template: "178e3cec-ca03-4c76-9ad3-122297e19e13"
+Path: /sitecore/content/AFLGlobal/APAC/Home/Products/Test and Inspection/Accessories/DFS1 Adapter Tips/Additional Image/DFS1_laptop
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220405T050828Z
+    - ID: "4f4e6526-41d1-4a67-ba95-3cf65c6a6462"
+      Hint: ImgaeUrl
+      Value: |
+        <image stylelabs-content-id="227127" src="https://afl-delivery.stylelabs.cloud/api/public/content/a654c76be2f04deeb7ce041116e8d1ab?v=650f46c0" stylelabs-content-type="Image" alt="532" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/227127/thumbnail" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mahesh
+    - ID: "80203708-a0db-4f4b-bd18-b5f74b33756d"
+      Hint: ImageTitle
+      Value: DFS1_laptop
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "de094612-22de-4fc7-9e0a-15bbb3f14a1e"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahesh
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220405T050828Z

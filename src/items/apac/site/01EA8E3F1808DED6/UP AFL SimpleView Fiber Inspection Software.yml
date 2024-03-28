@@ -1,0 +1,114 @@
+﻿---
+ID: "d47b7e76-60a6-42eb-a36f-86d78e20a91e"
+Parent: "4d3db5c6-b30c-4f1a-bff6-961f273fca0b"
+Template: "231b4589-f8fc-498f-b0f6-64fabecbc7b9"
+Path: /sitecore/content/AFLGlobal/APAC/Home/Products/Test and Inspection/Test Management and Reporting Software/UP AFL SimpleView Fiber Inspection Software
+SharedFields:
+- ID: "1fbc6a49-6281-48ee-87e9-a3970b145adb"
+  Hint: NavigationFilter
+  Value: |
+    {E0A2A027-0932-4878-A7D6-0416D5263EFB}
+    {61BD64D6-809E-40AE-9297-2724A19329B3}
+    {D063E9D1-C7B5-4B1E-B31E-69886C9C59F5}
+    {500AE4C0-FA7B-463F-8149-EFFF7F044101}
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{DA631FB5-51B3-49F6-9915-732D093CF221}"
+- ID: "9135200a-5626-4dd8-ab9d-d665b8c11748"
+  Hint: __Never publish
+  Value: 1
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: 
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 102
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "16863469-616f-4d9e-a66f-02c79610ddaa"
+      Hint: ProductShortDescription
+      Value: "AFL SimpleView Fiber Inspection Software is an application that permits the DFS1 Digital FiberScope to be used with Windows® XP or Windows® 7 computers. AFL SimpleView software provides a live, high-resolution video image of the end-face of an optical fiber. This capability enables fiber installers and network technicians to inspect and troubleshoot optical fibers and verify that they are clean and undamaged."
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220303T154337Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: AFL SimpleView Fiber Inspection Software
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\archana
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: "AFL SimpleView Fiber Inspection Software is an application which permits the DFS1 Digital FiberScope to be used with Windows® XP or Windows® 7 computers. AFL SimpleView software provides a live, high-resolution video image of the end-face of an optical fiber. This capability enables fiber installers and network technicians to inspect and troubleshoot optical fibers and verify that they are clean and undamaged."
+    - ID: "59ec008e-95ec-4c06-9189-09d4acaf1d7e"
+      Hint: ProductCategory
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\archana
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: optical fiber, fiber optic, inspection, software, AFL, PC, USB, video, image capture, DFS1, FiberScope, JDSU, EXFO
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: AFL SimpleView Fiber Inspection Software
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: AFL SimpleView Fiber Inspection Software
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9b22ea25-5812-45dd-8ed7-6edaa6d48d52"
+    - ID: "93dc88f3-05e5-482d-9b9a-c859c8258a73"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="73473" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/73473/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/homehero4?v=247592cf" stylelabs-content-type="Image" alt="AFL-Desktop-Homepage-photos_4.jpg" height="571" width="1338" />
+    - ID: "ab4c1906-c756-4771-818b-3683089665ee"
+      Hint: ProductMediaItems
+      Value: |
+        {F2540FEC-C6A4-4437-A403-369AE0B28FD0}
+        {DB195074-C2F6-4744-8042-E910EB802EF7}
+    - ID: "af4f5f0d-745a-4af7-aee7-2002f0430999"
+      Hint: ProductTitle
+      Value: AFL SimpleView™ Fiber Inspection Software
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d1f74386-05c3-4c80-aa18-38d21db05fdf"
+      Hint: ProductId
+      Value: 539
+    - ID: "d93ad815-376a-43bf-b34b-cbad0b1b7128"
+      Hint: ProductLongDescription
+      Value: "<h2>   AFL SimpleView&trade; Fiber Inspection Software</h2>  <p>   AFL SimpleView&trade; Fiber Inspection Software is an application&nbsp;that permits the DFS1 Digital FiberScope to be used with Windows&reg; XP or Windows&reg; 7 computers. AFL SimpleView software provides a live, high-resolution video image of the end-face of an optical fiber. This capability enables fiber installers and network technicians to inspect and troubleshoot optical fibers, verifying connector end-faces are clean and undamaged. &nbsp;Cleaning products are available from AFL to clean connector end-faces, including connectors mounted in bulkhead adapters.</p>  <p>   The DFS1 Digital FiberScope is an ergonomically-designed hand-held inspection probe that illuminates the end-face of single-mode or multimode optical fiber and delivers live video images to laptop computers and OTDRs.</p>  <h3>   <strong>Minimum System Requirements</strong></h3>  <ul>   <li>    OS: Windows XP or Windows 7</li>   <li>    USB: USB 1.1 Host</li>  </ul>  <h3>   ORDERING INFORMATION</h3>  <p>   <span>AFL SimpleView software is available as a free download from AFL.</span></p>"
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231122T212534Z
+    - ID: "ef2f63f2-c942-49a5-9c43-ebcfec40337e"
+      Hint: ProductName
+      Value: AFL SimpleView™ Fiber Inspection Software
+    - ID: "fb72ff1d-6b1d-4970-916a-8162ff077e62"
+      Hint: ProcutItems
+      Value: |
+        {7502B3D5-A205-4A7F-8104-08E3D53E00D5}
+        {C31C2D61-0387-436F-AC41-01E679511392}
+        {D53C05A1-FD4C-427E-8812-A05F9F65708A}
+        {84C27700-2377-4795-ABB6-7A7154D95403}
+        {3EA3970D-58C9-446C-8200-F6C5EE901F6B}
+        {8CE5A75E-8948-400B-938F-3AF9C34823D3}
+        {3B21C403-C5AB-47C7-81BC-C757F68819D8}
+        {C942D14E-12FB-468B-A8A2-96CB150C250F}
+        {4CB4B513-E071-4C55-956F-F149AB5F4112}
+        {B848144D-FBFB-46AE-A7FD-2EA4053631F4}
+        {787DD9BC-EDA7-4251-B706-A4DCA79ED638}
+        {F7D3DC6B-0A5B-436A-9966-86F40F1AA7FE}
+        {E563C707-D3A1-46ED-AA5E-1E944039E008}
+        {C5B2268A-ECC9-463E-B8AA-72A5ABB04547}
+        {0E0E54E5-2A23-4D43-A12D-1C51FFC3E664}

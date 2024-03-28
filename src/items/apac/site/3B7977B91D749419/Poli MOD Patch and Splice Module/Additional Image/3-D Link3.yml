@@ -1,0 +1,54 @@
+﻿---
+ID: "9074b380-09e1-43c1-91b4-5b21386593c4"
+Parent: "9ee0f8b0-0fbe-49eb-83fa-03d4f63ac29a"
+Template: "178e3cec-ca03-4c76-9ad3-122297e19e13"
+Path: "/sitecore/content/AFLGlobal/APAC/Home/Products/Fiber Optic Connectivity/Modules and Panel Accessories/Poli MOD Patch and Splice Module/Additional Image/3-D Link3"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0db719c9-092d-4471-a58b-487e81bcd03c"
+      Hint: 3DUrl
+      Value: |
+        <link linktype="external" url="https://sketchfab.com/models/8feaf78c1f4d4bc1a4df00119107dc9e/embed" />
+    - ID: "1205e946-de39-4c4d-a244-ddfdd288a062"
+      Hint: VideoUrl
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220406T084947Z
+    - ID: "4ec0fe05-becb-4c00-ba4d-0d0bde09427f"
+      Hint: VideothumbnailImage
+      Value: 
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\jyoti
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\jyoti
+    - ID: "61511ed9-1475-43e6-9ab2-9f2c07f15eb4"
+      Hint: 3DthumbnailImage
+      Value: |
+        <image stylelabs-content-id="244388" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/244388/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/f9957238e1664bf9a024b5cd1e341f53?v=a9ea14ae" mediaid="" stylelabs-content-type="Image" alt="default.jpg" height="1080" width="1920" />
+    - ID: "80203708-a0db-4f4b-bd18-b5f74b33756d"
+      Hint: ImageTitle
+      Value: "3-D Link3"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e061fcaa-a098-43fa-90c2-bfb62fcc1a71"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\jyoti
+    - ID: "d2e7ed64-f0e6-490c-a317-f1522a626af8"
+      Hint: 3DTitle
+      Value: "Poli-MOD Patch and Splice Module 3D Model"
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220407T110413Z
+    - ID: "fc1cebe6-bd78-40ca-a488-b04107e69394"
+      Hint: VideoTitle
+      Value: 

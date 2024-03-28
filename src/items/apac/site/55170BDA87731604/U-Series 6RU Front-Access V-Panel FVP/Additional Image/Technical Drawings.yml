@@ -1,0 +1,38 @@
+﻿---
+ID: "64e8cb21-3f7e-4802-8098-5bc9e54e0532"
+Parent: "8b5d863f-9ca9-4301-ad4f-6b902b36fade"
+Template: "178e3cec-ca03-4c76-9ad3-122297e19e13"
+Path: "/sitecore/content/AFLGlobal/APAC/Home/Products/Fiber Optic Connectivity/Rack Mount Patch Panels/U Series/U-Series 6RU Front-Access V-Panel FVP/Additional Image/Technical Drawings"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220914T184234Z
+    - ID: "4f4e6526-41d1-4a67-ba95-3cf65c6a6462"
+      Hint: ImgaeUrl
+      Value: |
+        <image stylelabs-content-id="308452" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/308452/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/6U-drawings?v=25792f4f" mediaid="" stylelabs-content-type="Image" alt="6U-drawings.jpg" height="800" width="800" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rafael
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rafael
+    - ID: "80203708-a0db-4f4b-bd18-b5f74b33756d"
+      Hint: ImageTitle
+      Value: Technical Drawings
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0fb71339-e046-4acd-b761-289a5c2590ba"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rafael
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220914T184401Z

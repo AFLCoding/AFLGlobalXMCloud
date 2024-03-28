@@ -1,0 +1,38 @@
+﻿---
+ID: "95ea0188-bb47-4c49-a523-d0a3c4bda26b"
+Parent: "23996f79-3f7b-4784-a95b-4e87779e0d13"
+Template: "178e3cec-ca03-4c76-9ad3-122297e19e13"
+Path: "/sitecore/content/AFLGlobal/APAC/Home/Products/Test and Inspection/UP OTDRs and Troubleshooters OLD/FTTx PON Simulator/Additional Image/FlowScout-In-Use"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220404T170310Z
+    - ID: "4f4e6526-41d1-4a67-ba95-3cf65c6a6462"
+      Hint: ImgaeUrl
+      Value: |
+        <image stylelabs-content-id="227787" src="https://afl-delivery.stylelabs.cloud/api/public/content/1d9cf5ba519e4422a922010add346ffd?v=700eb971" stylelabs-content-type="Image" alt="FlowScout-In-Use.png" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/227787/thumbnail" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mahesh
+    - ID: "80203708-a0db-4f4b-bd18-b5f74b33756d"
+      Hint: ImageTitle
+      Value: "FlowScout-In-Use"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "74b500e1-24cf-48ea-93c4-9eeb2278cb7a"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahesh
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220404T170310Z

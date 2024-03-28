@@ -1,0 +1,141 @@
+﻿---
+ID: "fa83f22a-7fb0-4228-8b48-db3ab3b9f3e4"
+Parent: "0a75850d-ba16-4c20-b9f7-2e791100e5d4"
+Template: "231b4589-f8fc-498f-b0f6-64fabecbc7b9"
+Path: /sitecore/content/AFLGlobal/APAC/Home/Products/Fiber Optic Connectivity/Preterminated Cable Assemblies/One and Two Fiber Premise Cable Assemblies
+SharedFields:
+- ID: "1fbc6a49-6281-48ee-87e9-a3970b145adb"
+  Hint: NavigationFilter
+  Value: |
+    {E0A2A027-0932-4878-A7D6-0416D5263EFB}
+    {61BD64D6-809E-40AE-9297-2724A19329B3}
+    {D063E9D1-C7B5-4B1E-B31E-69886C9C59F5}
+    {500AE4C0-FA7B-463F-8149-EFFF7F044101}
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{DA631FB5-51B3-49F6-9915-732D093CF221}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: 
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 103
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "16863469-616f-4d9e-a66f-02c79610ddaa"
+      Hint: ProductShortDescription
+      Value: "Simplex and duplex cable assemblies are available in all common connector styles.  Cordage options include 1.6, 2.0, and 3.0 mm diameters, and are manufactured with riser, plenum, or low-smoke zero halogen compounds.  All major single-mode and multimode fiber types are supported."
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220303T152604Z
+    - ID: "36d9d67b-3610-4327-963e-e209239944d7"
+      Hint: ProductApplication
+      Value: |
+        <h3 style="color: #282828; background-color: #ffffff; margin: 0px; padding-bottom: 5px;">Applications:</h3>
+        <ul class="productDetailApplications" style="color: #333333; background-color: #ffffff; margin: 0px 0px 15px; padding: 0px 0px 0px 15px; list-style-image: url('https://www.aflglobal.com/productionFiles/images/bulletRound.aspx');">
+            <li style="margin: 0px 0px 6px;">Building interconnections (campus LAN)</li>
+            <li style="margin: 0px 0px 6px;">Fiber patch panels within communications closets</li>
+            <li style="margin: 0px 0px 6px;">Links between electronic equipment and fiber patch panels</li>
+        </ul>
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4dda6e0a-1c9d-4a8d-890f-11a8eddc2f11"
+      Hint: ProductFeatures
+      Value: |
+        <h3 style="color: #282828; background-color: #ffffff; margin: 0px; padding-bottom: 5px;">Features:</h3>
+        <ul class="productDetailFeatures" style="color: #333333; background-color: #ffffff; margin: 0px 0px 15px; padding: 0px 0px 0px 15px; list-style-image: url('https://www.aflglobal.com/productionFiles/images/bulletRound.aspx');">
+            <li style="margin: 0px 0px 6px;">3.0 mm, 2.0 mm, 1.6 mm, and 900 &micro;m cable diameters available</li>
+            <li style="margin: 0px 0px 6px;">Riser, Plenum, and LSZH rated cables</li>
+            <li style="margin: 0px 0px 6px;">Bend insensitive options</li>
+        </ul>
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: One and Two Fiber Premise Cable Assemblies
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\archana
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: One and Two Fiber (Simplex and Duplex) Cable Assemblies. Standard One and Two Fiber Cable Assembly products covering most common connector and interconnect cable types
+    - ID: "59ec008e-95ec-4c06-9189-09d4acaf1d7e"
+      Hint: ProductCategory
+      Value: "{750109FC-B036-4C41-B833-5D9B0AB12CA9}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\archana
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: Simplex Cable Assemblies, Duplex Cable Assemblies, Jumper, Patch Cord, Patchcord, Optical Jumper, Jumper Cord, Assembly, SC, FC, ST, LC, MU
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: One and Two Fiber Premise Cable Assemblies
+    - ID: "72653cc9-973c-4682-b5c7-26d926959f8f"
+      Hint: ProductImage
+      Value: |
+        <image stylelabs-content-id="181959" src="https://afl-delivery.stylelabs.cloud/api/public/content/02395a534e9a42d28d6b0050de99614b?v=248ae237" stylelabs-content-type="Image" alt="One and Two Fiber Premise Cable Assemblies" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/181959/thumbnail" />
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: One and Two Fiber Premise Cable Assemblies
+    - ID: "8b978017-d437-40aa-b31d-bbf1d560a0cb"
+      Hint: DownloadFileLink
+      Value: |
+        <link text="SPECIFICATION SHEET" target="_blank" linktype="media" id="{CBC3015D-98F5-4BF5-808B-C4E888EB15A0}" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "306432c7-31db-437a-a4bb-b444f3b73b7c"
+    - ID: "93dc88f3-05e5-482d-9b9a-c859c8258a73"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="169753" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/169753/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/1061db391f8947c097cb144a40fbeaf7?v=0ce6bf44" stylelabs-content-type="Image" alt="CableAssemblies.jpg" height="465" width="1336" />
+    - ID: "ab4c1906-c756-4771-818b-3683089665ee"
+      Hint: ProductMediaItems
+      Value: |
+        {DDB6CF54-2DF8-48C4-9105-F3776CE5E8E3}
+        {143F1460-E735-4926-AAFF-4FDDB7135C85}
+        {47D4C5EC-7864-45C8-B9DF-6A02688B254B}
+        {6BD17E60-9C65-4D38-B365-AE10E9D82F46}
+        {1F949B52-DECC-4C21-9ADE-2952FD3579CF}
+        {670A0374-B3E5-486D-A9C8-D5862A7552C5}
+    - ID: "af4f5f0d-745a-4af7-aee7-2002f0430999"
+      Hint: ProductTitle
+      Value: One and Two Fiber Premise Cable Assemblies
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d1f74386-05c3-4c80-aa18-38d21db05fdf"
+      Hint: ProductId
+      Value: 429
+    - ID: "d93ad815-376a-43bf-b34b-cbad0b1b7128"
+      Hint: ProductLongDescription
+      Value: "<p>   Simplex and Zipcord cable assemblies comprise AFL&#39;s Interconnect (One and Two-Fiber) Cable Assembly product offering and are used to meet the requirements for one- and two-fiber optical interconnections. &nbsp;These assemblies are available in most common optical connector styles including SC, LC, ST, and FC.&nbsp;&nbsp;Cordage options commonly include 1.6, 2.0 and 3.0mm outer diameters, manufactured with riser, plenum and low-smoke zero halogen compounds. &nbsp;All major single-mode and multimode fiber types are supported.</p>"
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231122T212526Z
+    - ID: "ef2f63f2-c942-49a5-9c43-ebcfec40337e"
+      Hint: ProductName
+      Value: One and Two Fiber Premise Cable Assemblies
+    - ID: "fb72ff1d-6b1d-4970-916a-8162ff077e62"
+      Hint: ProcutItems
+      Value: |
+        {4C0699D0-15A6-4217-AB1C-0DCEC426F1FF}
+        {E0E6F90A-FC55-45B1-9EA7-1BFCC3FD63C8}
+        {F2A51A75-6379-4D00-900F-AD05991D7EEB}
+        {848F898D-030C-4C05-9CCA-09B9E9027460}
+        {E3E4755D-93D4-4605-A6ED-73A1D488B299}
+        {B080B4B9-965E-49F5-BADA-BAC6FFC74C2A}
+        {2258DB32-3ADF-4D95-8756-AEEBE28FB3F8}
+        {DA3A379E-895A-4615-B5CC-92DB36DA85A5}
+        {7192BF27-5E4B-4237-8E49-23D3452D2F76}
+        {A9B27E10-666E-4F6D-B977-1C422C9D5159}
+        {1638DFE5-093B-4B87-8898-A7CD08B97987}
+        {E622FFB3-59F8-4D19-B687-C5BB60FFBE6B}
+        {EB946BB0-CFFB-47A4-9CC7-9D0603129296}
+        {0998B660-D14C-4292-806C-AB4A621C7EA0}
+        {62293A79-CF7D-4DEE-A93B-644EAE2BBDF2}

@@ -1,0 +1,40 @@
+﻿---
+ID: "df05d216-d2aa-4f04-94f0-b438ae299792"
+Parent: "0d0b589b-1f83-43ad-9605-265e38a68aba"
+Template: "e7037b42-b31a-46f2-821f-66db5e18b889"
+Path: /sitecore/content/AFLGlobal/APAC/Data/AFL Additional Product Folder/AFL Additional Product Item
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211105T141138Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9b227ffc-6f9b-40a8-b172-f2f4d0280b28"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\nawaz.mehdi@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240327T075742Z
+    - ID: "fb72ff1d-6b1d-4970-916a-8162ff077e62"
+      Hint: ProcutItems
+      Value: |
+        {4A955276-B5C8-41D1-9C3E-C4BB5CD36243}
+        {B0903E27-6714-483A-8912-62696B88F630}
+        {495A1329-7979-43BD-8B6E-3BE17ACDA759}
+        {FA83F22A-7FB0-4228-8B48-DB3AB3B9F3E4}
+        {DED46A70-BB4A-4539-8C8C-E3F3808C4D36}
+        {A8ABE655-EA07-4FF7-B577-42D8CD62EFC9}

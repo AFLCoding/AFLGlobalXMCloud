@@ -1,0 +1,132 @@
+﻿---
+ID: "d55c1a1d-d49e-464b-a74b-54b170da3934"
+Parent: "3c825b6c-3a31-4726-a757-d17d381607db"
+Template: "231b4589-f8fc-498f-b0f6-64fabecbc7b9"
+Path: /sitecore/content/AFLGlobal/APAC/Home/Products/Fiber Optic Connectivity/Wall Mounted Enclosures and Panels/High Density/288 Single Fiber864 Standard Ribbon 1152 SWR Fusion Splice Wall Cabinet
+SharedFields:
+- ID: "1fbc6a49-6281-48ee-87e9-a3970b145adb"
+  Hint: NavigationFilter
+  Value: |
+    {E0A2A027-0932-4878-A7D6-0416D5263EFB}
+    {61BD64D6-809E-40AE-9297-2724A19329B3}
+    {D063E9D1-C7B5-4B1E-B31E-69886C9C59F5}
+    {500AE4C0-FA7B-463F-8149-EFFF7F044101}
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{DA631FB5-51B3-49F6-9915-732D093CF221}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: 
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 101
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "16863469-616f-4d9e-a66f-02c79610ddaa"
+      Hint: ProductShortDescription
+      Value: "This innovative mass-fusion splice wall cabinet is designed for applications in a building entrance facility providing an enclosure to splice outside plant (OSP) cables to inside plant (ISP) cables with a maximum fiber count of 1152 fibers."
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220303T152622Z
+    - ID: "36d9d67b-3610-4327-963e-e209239944d7"
+      Hint: ProductApplication
+      Value: |
+        <h3 style="color: #282828; background-color: #ffffff; margin: 0px; padding-bottom: 5px;">Applications:</h3>
+        <ul class="productDetailApplications" style="color: #333333; background-color: #ffffff; margin: 0px 0px 15px; padding: 0px 0px 0px 15px; list-style-image: url('https://www.aflglobal.com/productionFiles/images/bulletRound.aspx');">
+            <li style="margin: 0px 0px 6px;">Building Entrance Facility</li>
+            <li style="margin: 0px 0px 6px;">Colocation</li>
+            <li style="margin: 0px 0px 6px;">Data Center</li>
+            <li style="margin: 0px 0px 6px;">Hyperscale</li>
+            <li style="margin: 0px 0px 6px;">Telecommunications</li>
+        </ul>
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4dda6e0a-1c9d-4a8d-890f-11a8eddc2f11"
+      Hint: ProductFeatures
+      Value: |
+        <h3 style="color: #282828; background-color: #ffffff; margin: 0px; padding-bottom: 5px;">Features:</h3>
+        <ul class="productDetailFeatures" style="color: #333333; background-color: #ffffff; margin: 0px 0px 15px; padding: 0px 0px 0px 15px; list-style-image: url('https://www.aflglobal.com/productionFiles/images/bulletRound.aspx');">
+            <li style="margin: 0px 0px 6px;">Up to maximum of 288 fibers for single-fiber, 864 fibers for standard ribbon and 1152 fibers for SWR fiber cables</li>
+            <li style="margin: 0px 0px 6px;">Default 12x Splice Tray for 2x12 single-fiber splice holder per tray are easily interchangeable with 12x Splice Tray for 8x12 ribbon fiber splice holder per tray.</li>
+            <li style="margin: 0px 0px 6px;">Mounted on wall or installed in a 19" frame</li>
+            <li style="margin: 0px 0px 6px;">14RU cabinet designed to fit a max of 3 units in a 45RU frame</li>
+            <li style="margin: 0px 0px 6px;">Fixed cable tie-off features accommodating flexibility for various sizes up to O.D. 24 mm for entry/exit cables</li>
+            <li style="margin: 0px 0px 6px;">Easy-lift-off cover to access the Splice Tray Modular Backboard</li>
+            <li style="margin: 0px 0px 6px;">Holes available for security padlock to secure cover to Splice Tray Modular Backboard</li>
+            <li style="margin: 0px 0px 6px;">Working Tray easily mounts on the Modular Backboard and removable for convenient storage inside the Cabinet Cover when not in use</li>
+            <li style="margin: 0px 0px 6px;">Inside cabinet and outside cabinet pass-through space options allow cable management when using multiple splice cabinets</li>
+        </ul>
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: 288 Single Fiber864 Standard Ribbon 1152 SWR Fusion Splice Wall Cabinet
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\archana
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: "This innovative mass-fusion splice wall cabinet is designed for applications in a building entrance facility providing an enclosure to splice outside plant (OSP) cables to inside plant (ISP) cables with a maximum fiber count of 1152 fibers."
+    - ID: "59ec008e-95ec-4c06-9189-09d4acaf1d7e"
+      Hint: ProductCategory
+      Value: "{80C6573D-D9F6-4CB0-813B-3DC391B863CF}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\archana
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: "AFL hyperscale data center mass-fusion splice wall cabinet enclosure splice outside plant OSP cables inside plant ISP"
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: 288 Single Fiber864 Standard Ribbon 1152 SWR Fusion Splice Wall Cabinet
+    - ID: "72653cc9-973c-4682-b5c7-26d926959f8f"
+      Hint: ProductImage
+      Value: |
+        <image stylelabs-content-id="184255" src="https://afl-delivery.stylelabs.cloud/api/public/content/0236c99004dc4a858c3319fbedd18f18?v=df0e4f68" stylelabs-content-type="Image" alt="288 Single Fiber864 Standard Ribbon 1152 SWR Fusion Splice Wall Cabinet " thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/184255/thumbnail" />
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: 288 Single Fiber864 Standard Ribbon 1152 SWR Fusion Splice Wall Cabinet
+    - ID: "8b978017-d437-40aa-b31d-bbf1d560a0cb"
+      Hint: DownloadFileLink
+      Value: |
+        <link text="SPECIFICATION SHEET" target="_blank" linktype="media" id="{9F0165E3-CF94-4358-817D-C7EF0D5E7AE5}" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1011f76c-2d1b-4611-af92-6d6aa1e52894"
+    - ID: "93dc88f3-05e5-482d-9b9a-c859c8258a73"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="170553" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/170553/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/High-Density-Products?v=e84b797c" stylelabs-content-type="Image" alt="3456-Fiber-Mass-Fusion-Splice-Wall-Cabinet-.jpg" height="465" width="1336" />
+    - ID: "ab4c1906-c756-4771-818b-3683089665ee"
+      Hint: ProductMediaItems
+      Value: |
+        {D1912976-5555-42C3-8C61-F5D68568B841}
+        {D66C0156-D0DF-45E3-BD6D-92292F9FE6CA}
+    - ID: "af4f5f0d-745a-4af7-aee7-2002f0430999"
+      Hint: ProductTitle
+      Value: "288 Single-Fiber/864 Standard Ribbon/ 1152 SWR® Fusion Splice Wall Cabinet"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d1f74386-05c3-4c80-aa18-38d21db05fdf"
+      Hint: ProductId
+      Value: 2717
+    - ID: "d93ad815-376a-43bf-b34b-cbad0b1b7128"
+      Hint: ProductLongDescription
+      Value: "<p>   This innovative mass-fusion splice wall cabinet is designed for applications in a building entrance facility providing an enclosure to splice outside plant (OSP) cables to inside plant (ISP) cables with a maximum fiber count of 1152 fibers. This cabinet can be fitted into areas with limited physical space and it can be installed as a single unit or multiple units can be stacked. It can be both wall-mounted or in mounted in standard 19&quot; racks.</p>  <p>   Cable pass-through spaces inside and outside the cabinet provide cable routing for the installation of multiple cabinets on a wall or rack.</p>  <p>   The splice cabinet features 12 leaf-style trays which allow 24 single-fiber splices per tray and a raceway manifold system which ensures the fiber is protected at all times. The cabinet accommodates a variety of cables from ISP (12 x 24F) to OSP (1 x 288F or 2 x 144F). It can also be used for standard ribbon splicing with 12 x 72F splice trays providing a total fiber count of 864 fibers. When used with SpiderWeb Ribbon&reg; (SWR) cable, splicing is possible with 12 x 96F splice trays providing a total fiber count of 1152 fibers. NOTE: these splice trays (SPT17-12) are not included and will need to be ordered separately.</p>  "
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231122T212530Z
+    - ID: "ef2f63f2-c942-49a5-9c43-ebcfec40337e"
+      Hint: ProductName
+      Value: "288 Single-Fiber/864 Standard Ribbon/ 1152 SWR® Fusion Splice Wall Cabinet"
+    - ID: "fb72ff1d-6b1d-4970-916a-8162ff077e62"
+      Hint: ProcutItems
+      Value: |
+        {CD7E27A3-A878-4EDF-944B-5FC168C93771}
+        {726B5E58-A2AF-472E-AD43-1411F8A204A7}

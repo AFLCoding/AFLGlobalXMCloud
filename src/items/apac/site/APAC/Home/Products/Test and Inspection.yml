@@ -1,0 +1,100 @@
+﻿---
+ID: "a5c52d0b-c55a-470f-b2f6-7b76f1ae5db1"
+Parent: "19ac17da-4e90-4ef5-b13c-b7af5ebb2702"
+Template: "bf61de11-b78f-48ea-aaa4-1d17f0d83824"
+Path: /sitecore/content/AFLGlobal/APAC/Home/Products/Test and Inspection
+SharedFields:
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{D6E065C6-3215-4772-BB85-42B5C79A922D}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: 
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 300
+- ID: "dec8d2d5-e3cf-48b6-a653-8e69e2716641"
+  Hint: __Security
+  Value: |
+    au|sitecore\ChrisZ|pe|+item:create|+item:read|+item:rename|+item:delete|+item:write|^*|+item:admin|pd|+item:create|+item:read|+item:rename|+item:delete|+item:write|^*|+item:admin|
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220303T154321Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Test and Inspection
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\archana
+    - ID: "52b07316-e493-41de-8a4f-d5010dc3eebd"
+      Hint: Description
+      Value: |
+        <h2>Rugged, intuitive tools that help you install, test and troubleshoot fiber optic networks</h2>
+        <p>AFL designs test and inspection tools that are easy to use and provide quick results, without complicated training requirements.</p>
+        <h3><a href="~/link.aspx?_id=322F51C078F64C53AC8CAB128549CDBB&_z=z">Fiber Optic Inspection </a>& <a href="~/link.aspx?_id=7C86F166DB1F43ADAF051EF011BBC1A9&_z=z">Cleaning</a></h3>
+        <p>AFL has a complete range of fast, easy-to-use tools that inspect and clean fiber endfaces. Using them consistently eliminates the #1 cause of network outages – dirty connectors.</p>
+        <h3><a href="~/link.aspx?_id=96DA4605A37D40968E9B44FEF266F6C5&_z=z">Fiber Identification</a></h3>
+        <p>Visual fault locators and ergonomic live fiber identifiers for installing, activating and maintaining fiber optic networks.</p>
+        <h3><a href="~/link.aspx?_id=5E313B9560F44B68A2100C0BDC9138D8&_z=z">Optical Loss Testing</a></h3>
+        <p>AFL optical power meters, light sources, and test kits are necessary tools for technicians working on fiber networks to ensure the health of fiber networks.</p>
+        <h3><a href="~/link.aspx?_id=80AE80BEE8234C52AFCB6FB0CBD1A984&_z=z">OTDR & Troubleshooters</a></h3>
+        <p>Pocket-sized and performance packed, AFL optical time domain reflectometers (OTDRs) and fault locators certify new fiber installations and locate faults in deployed fiber optic networks. Easy operation makes even a novice a testing expert.</p>
+        <h3><a href="~/link.aspx?_id=2584577706AC4EA69C019128DC971294&_z=z">Test Manager & Reporting Software</a></h3>
+        <p>Robust Cloud- and PC-based reporting tools that provide actionable intelligence and workflow management for the individual to the enterprise.</p>
+        <h3><a href="~/link.aspx?_id=527518B8EA3A480488441F0437F5CAA9&_z=z">Test & Inspection Accessories</a></h3>
+        <p>Great test and inspection equipment performs even better when outfitted with the correct accessories for the job. AFL offers a full range of accessories to help you get the most from your test and inspection investment.</p>
+        <p> </p>
+        <a href="/Contact/Contacts-and-Feedback-Forms/FlexScan-FS200-Refresh-Authorized-Service-Centers" class="btn btn-primary">Authorized Service Centers</a>  <a href="/Contact/Contacts-and-Feedback-Forms/Product-Service-Request-Form" class="btn btn-primary">Service Request Form</a>
+        <p> </p>
+        <div style="background-color: #efefef; padding: 2% 2% 5% 2%;" class="additional-link">
+        <h3><a href="~/link.aspx?_id=3D6B84C5206940B593994EEB315C7697&_z=z">FTTx PON Deployment Made EASY</a></h3>
+        <p>Streaming 4K video, online gaming, work-from-home initiatives, richer internet content and more are fueling a global demand for higher bandwidth FTTx PON deployments. When it comes to test and inspection of these networks, there are many challenges unique to each PON application. </p>
+        <a href="~/link.aspx?_id=409D3567884E4162B9851F8A946708D5&_z=z"></a>
+        <div style="float: right;" class="btn field-herolink"><a href="~/link.aspx?_id=3D6B84C5206940B593994EEB315C7697&_z=z">LEARN MORE</a></div>
+        </div>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\archana
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: Test and Inspection
+    - ID: "628db04b-29a2-483b-a88c-b8fd9a5f2086"
+      Hint: HeroLink
+      Value: |
+        <link text="LEARN MORE" anchor="" linktype="internal" class="" title="" target="|Custom" querystring="" id="{66AE7841-5668-4932-BC9B-C86CF58260A9}" />
+    - ID: "78f50588-1d63-4b01-824d-f750b167b97f"
+      Hint: FeaturedProducts
+      Value: |
+        {3910AE4C-97F5-4AD4-AEA4-7BB42EB8E35B}
+        {D53C05A1-FD4C-427E-8812-A05F9F65708A}
+        {7502B3D5-A205-4A7F-8104-08E3D53E00D5}
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: Test and Inspection
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a59e2cfe-a936-405c-a876-c514903ef595"
+    - ID: "93dc88f3-05e5-482d-9b9a-c859c8258a73"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="187631" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/187631/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/f94bad7b31a74d7bbe3cc8622fe878bc?v=f33b40f3" stylelabs-content-type="Image" alt="header-TandI-fs300.png" height="369" width="954" />
+    - ID: "a40ebd3d-2b41-41fb-90f7-753544ce77c5"
+      Hint: Hero Title1
+      Value: Test and Inspection
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231129T145207Z

@@ -1,0 +1,148 @@
+﻿---
+ID: "ca92d9b6-aad0-4b1c-bb5a-153cfdcf2472"
+Parent: "bec8c310-21dd-41b6-ad79-afa5fc21a882"
+Template: "231b4589-f8fc-498f-b0f6-64fabecbc7b9"
+Path: /sitecore/content/AFLGlobal/APAC/Home/Products/Test and Inspection/Optical Loss Testing/Optical Power Meters/OPM5 and OPM4 Optical Power Meters
+SharedFields:
+- ID: "1fbc6a49-6281-48ee-87e9-a3970b145adb"
+  Hint: NavigationFilter
+  Value: |
+    {E0A2A027-0932-4878-A7D6-0416D5263EFB}
+    {61BD64D6-809E-40AE-9297-2724A19329B3}
+    {D063E9D1-C7B5-4B1E-B31E-69886C9C59F5}
+    {500AE4C0-FA7B-463F-8149-EFFF7F044101}
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{DA631FB5-51B3-49F6-9915-732D093CF221}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: 
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 104
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "16863469-616f-4d9e-a66f-02c79610ddaa"
+      Hint: ProductShortDescription
+      Value: AFL's OPM4 and OPM5 Optical Power Meters are versatile tools for testing all network types – FTTx/FTTh, LAN/WAN, Telco, CATV, etc. Rugged and easy to carry, the OPM4 and OPM5 provide accurate signal measurements. When paired with a AFL's optical source, the WaveID feature increases efficiency by allowing simultaneous measurement of two or more wavelengths while reducing technician errors with auto wavelength matching (source to meter). 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220303T154400Z
+    - ID: "36d9d67b-3610-4327-963e-e209239944d7"
+      Hint: ProductApplication
+      Value: |
+        <h3 style="font-size: 16px; padding-bottom: 5px;">Applications:</h3><ul class="productDetailApplications">
+         <li>Passive Optical Networks (PON) testing</li>
+         <li>OPM(5/4)-4D (Filtered-InGaAs) for high power (+26 dBm) CATV broadband networks or DWDM system applications</li>
+         <li>OPM(5/4)-3D (InGaAs) for telecommunications networks</li>
+         <li>OPM(5/4)-2D (Ge) for premises LAN/WAN multimode or single-mode networks</li>
+         
+         
+         
+         
+         
+         
+        </ul>
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4dda6e0a-1c9d-4a8d-890f-11a8eddc2f11"
+      Hint: ProductFeatures
+      Value: |
+        <h3 style="font-size: 16px; padding-bottom: 5px;">Features:</h3><ul class="productDetailFeatures">
+         <li>Rugged, dependable, and backed by industry-best 5-year warranty</li>
+         <li>Wave ID tests up to three wavelengths simultaneously - slashing test time</li>
+         <li>Field-swappable connector adapters for maximum flexibility</li>
+         <li>Long battery life from globally available AA batteries</li>
+         
+         
+         
+         
+         
+         
+        </ul>
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: OPM5 and OPM4 Optical Power Meters
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\archana
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: "OPM4 and OPM5 Optical Power Meters are essential tools for optical network qualification. These rugged hand-held power meters with our exclusive Wave ID increases test speed while reducing error potential."
+    - ID: "59ec008e-95ec-4c06-9189-09d4acaf1d7e"
+      Hint: ProductCategory
+      Value: "{DAE923A0-99A2-4DCB-B300-29C705F823C2}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\archana
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: "AFL OPM 4, AFL OPM4, AFL-OFM-4, Noyes OPM 4, Noyes OPM4, OPM-4, fiber optic test, optical power meter, portable optical power meter, wave ID, wavelength identification, handheld optical power meter, hand held optical power meter, hand-held optical power meter, measure optical power, fiber power meter, fibre power meter, set reference wavelength measurement, calibrated wavelengths, wavelength ID, set reference, smart pocket, OPM 5, OPM5, OPM-5, AFL, optical power meter, optical power meter, portable optical power meter, wave ID, wavelength identification, set reference, handheld optical power meter, hand held optical power meter, hand-held optical power meter, measure optical power, fiber power meter, fibre power meter, set reference, wavelength storage, insertion loss storage, fiber optic, test"
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: OPM5 and OPM4 Optical Power Meters
+    - ID: "646d0f97-6838-4bff-800d-895747365401"
+      Hint: AFLDocumentList
+      Value: "{02AE8B0C-CA0A-48BC-B042-5F4BB3EC5DBB}"
+    - ID: "72653cc9-973c-4682-b5c7-26d926959f8f"
+      Hint: ProductImage
+      Value: |
+        <image stylelabs-content-id="48734" src="https://afl-delivery.stylelabs.cloud/api/public/content/0f09cfcac48045719e934b5c202f7828?v=3ddbae90" stylelabs-content-type="Image" alt="OPM5 and OPM4 Optical Power Meters" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/48734/thumbnail" />
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: OPM5 and OPM4 Optical Power Meters
+    - ID: "8b978017-d437-40aa-b31d-bbf1d560a0cb"
+      Hint: DownloadFileLink
+      Value: |
+        <link text="SPECIFICATION SHEET" target="_blank" linktype="media" id="{49154A15-9229-45CC-ABD3-7CBF3F73D345}" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "502bfc80-a601-4395-ae4d-214f6a41a976"
+    - ID: "93dc88f3-05e5-482d-9b9a-c859c8258a73"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="169953" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/169953/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/38ce45efee0f43d3861659e585b027e0?v=ccafd3e2" stylelabs-content-type="Image" alt="Optical_Loss_Test.jpg" height="465" width="1336" />
+    - ID: "ab4c1906-c756-4771-818b-3683089665ee"
+      Hint: ProductMediaItems
+      Value: |
+        {BD9A4F52-01A0-4359-A3B7-408170993251}
+        {E2CD0290-4FC8-4404-A3F7-062D9429EB22}
+    - ID: "af4f5f0d-745a-4af7-aee7-2002f0430999"
+      Hint: ProductTitle
+      Value: OPM5 and OPM4 Optical Power Meters
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d1f74386-05c3-4c80-aa18-38d21db05fdf"
+      Hint: ProductId
+      Value: 2098
+    - ID: "d93ad815-376a-43bf-b34b-cbad0b1b7128"
+      Hint: ProductLongDescription
+      Value: "<p>   AFL is a trusted supplier of optical testing equipment with more than 30 years of experience and tens of thousands of units in use in the field.&nbsp; AFL&rsquo;s full range of power meters are used for testing single-mode and/or multimode fiber networks. Power meters with wave ID can detect two or more wavelengths simultaneously &ndash; decreasing test time and reducing user errors when paired with AFL wave ID light sources.</p>  <p>   <strong>Designed for the real world:</strong> AFL&rsquo;s power meters are designed to meet the demands of the outside plant environment. They withstand the one-meter drop test and have splash resistant controls that are easy to use, even with gloves on.</p>  <p>   <strong>Flexible and efficient:</strong> A range of field-swappable output adapters enables access for cleaning optical ports and supports multiple connector styles. The efficient design provides long test time from globally available AA batteries. Equipped with five-minute auto-off feature to save power.</p>  <p>   <strong>Reduce test time and errors:</strong> Wave ID (Triple, Dual, or Single) decreases test time while reducing technician errors.</p>  <p>   <strong>Stores test results:</strong> AFL&rsquo;s OPM5 stores optical reference at each calibrated wavelength. This enables technicians to organize test results into multiple files and transfer stored results via USB to the included PC-based TRM&reg; 2.0 software for analyzing, generating reports, and printing.&nbsp; Users can generate network Pass/Fail results demonstrating compliance to industry standards and illustrate headroom. Fully N.I.S.T. traceable.</p>  <p>   See specification sheet for full list of models and optional accessories.<br />   &nbsp;</p>"
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231122T212534Z
+    - ID: "ef2f63f2-c942-49a5-9c43-ebcfec40337e"
+      Hint: ProductName
+      Value: OPM5 and OPM4 Optical Power Meters
+    - ID: "fb72ff1d-6b1d-4970-916a-8162ff077e62"
+      Hint: ProcutItems
+      Value: |
+        {C5B2268A-ECC9-463E-B8AA-72A5ABB04547}
+        {0E0E54E5-2A23-4D43-A12D-1C51FFC3E664}
+        {A79C3C16-525A-49AC-A71A-661C2F3CCF9F}
+        {5848B9BD-045A-41CE-AD16-34D2E7DDF4D0}
+        {381A579A-A738-4C7B-9F0D-2F09809EFCBA}
+        {55441696-1E23-4BAC-953B-4850165ABD99}
+        {5239F570-7431-4EDF-AA15-FFAE48BF4968}
+        {3499C898-F651-4B9F-9DA1-C0438FF53E50}
+        {D22EEE84-9D9B-4BF2-BEAB-45434B741DF0}
+        {3910AE4C-97F5-4AD4-AEA4-7BB42EB8E35B}
+        {910997D1-1835-4133-B012-3EC91D7F82B5}

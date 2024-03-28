@@ -1,0 +1,38 @@
+﻿---
+ID: "0272e111-310c-4a71-803a-6bdc34e37fa6"
+Parent: "bf688b24-d169-49ec-ac86-dcdf9d4f11c8"
+Template: "178e3cec-ca03-4c76-9ad3-122297e19e13"
+Path: "/sitecore/content/AFLGlobal/APAC/Home/Products/Test and Inspection/Fiber Identification/Optical Fiber Identifiers/OFI BIPM and OFI BIPMe Optical Fiber Identifiers/Additional Image/OFI_BIPM_In-hand_LHand"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220404T170250Z
+    - ID: "4f4e6526-41d1-4a67-ba95-3cf65c6a6462"
+      Hint: ImgaeUrl
+      Value: |
+        <image stylelabs-content-id="227691" src="https://afl-delivery.stylelabs.cloud/api/public/content/366f423c438a4a46a59f7a76943209da?v=f0e2adaf" stylelabs-content-type="Image" alt="OFI_BIPM_In-hand_LHand.png" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/227691/thumbnail" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mahesh
+    - ID: "80203708-a0db-4f4b-bd18-b5f74b33756d"
+      Hint: ImageTitle
+      Value: "OFI_BIPM_In-hand_LHand"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d0ed3490-8276-46cf-9986-73f85db99506"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahesh
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220404T170250Z

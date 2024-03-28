@@ -1,0 +1,141 @@
+﻿---
+ID: "12d5f8b5-d76c-47ea-8638-73680405b715"
+Parent: "5b2831de-f501-4bb3-b12d-d9ccf32ae391"
+Template: "231b4589-f8fc-498f-b0f6-64fabecbc7b9"
+Path: /sitecore/content/AFLGlobal/APAC/Home/Products/Fiber Optic Connectivity/Rack Mount Patch Panels/ASCEND High Density Platform/ASCEND Tap Cassettes
+SharedFields:
+- ID: "1fbc6a49-6281-48ee-87e9-a3970b145adb"
+  Hint: NavigationFilter
+  Value: |
+    {E0A2A027-0932-4878-A7D6-0416D5263EFB}
+    {61BD64D6-809E-40AE-9297-2724A19329B3}
+    {D063E9D1-C7B5-4B1E-B31E-69886C9C59F5}
+    {500AE4C0-FA7B-463F-8149-EFFF7F044101}
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{DA631FB5-51B3-49F6-9915-732D093CF221}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: 
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 108
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "16863469-616f-4d9e-a66f-02c79610ddaa"
+      Hint: ProductShortDescription
+      Value: High demands placed on modern fiber optic networks requires effective monitoring to maintain optimal performance and troubleshoot system security or other signal issues.
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220303T152619Z
+    - ID: "36d9d67b-3610-4327-963e-e209239944d7"
+      Hint: ProductApplication
+      Value: |
+        <h3 style="color: #282828; background-color: #ffffff; margin: 0px; padding-bottom: 5px;">Applications:</h3>
+        <ul class="productDetailApplications" style="color: #333333; background-color: #ffffff; margin: 0px 0px 15px; padding: 0px 0px 0px 15px; list-style-image: url('https://www.aflglobal.com/productionFiles/images/bulletRound.aspx');">
+            <li style="margin: 0px 0px 6px;">Data Centers</li>
+            <li style="margin: 0px 0px 6px;">Central Offices</li>
+            <li style="margin: 0px 0px 6px;">Headends</li>
+            <li style="margin: 0px 0px 6px;">Structured Cabling Networks</li>
+        </ul>
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4dda6e0a-1c9d-4a8d-890f-11a8eddc2f11"
+      Hint: ProductFeatures
+      Value: |
+        <h3 style="color: #282828; background-color: #ffffff; margin: 0px; padding-bottom: 5px;">Features:</h3>
+        <ul class="productDetailFeatures" style="color: #333333; background-color: #ffffff; margin: 0px 0px 15px; padding: 0px 0px 0px 15px; list-style-image: url('https://www.aflglobal.com/productionFiles/images/bulletRound.aspx');">
+            <li style="margin: 0px 0px 6px;">Elite MPO connectors and adapters</li>
+            <li style="margin: 0px 0px 6px;">LC Shuttered Adapters</li>
+            <li style="margin: 0px 0px 6px;">Available with 50/50 and 30/70 Split Ratios to accommodate various Tap/ Pass Thru requirements</li>
+            <li style="margin: 0px 0px 6px;">Installs into all ASCEND Housings from the front or rear</li>
+            <li style="margin: 0px 0px 6px;">ITU-T G.657.D and G.652.A1 Compatible (SM)</li>
+        </ul>
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: ASCEND Tap Cassettes
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\archana
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: High demands placed on modern fiber optic networks requires effective monitoring to maintain optimal performance and troubleshoot system security or other signal issues.
+    - ID: "59ec008e-95ec-4c06-9189-09d4acaf1d7e"
+      Hint: ProductCategory
+      Value: "{B526AD3F-72FC-46E2-9D16-116E0026CC42}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\archana
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: AFL ASCEND Tap Cassettes fiber optic network
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: ASCEND Tap Cassettes
+    - ID: "72653cc9-973c-4682-b5c7-26d926959f8f"
+      Hint: ProductImage
+      Value: |
+        <image stylelabs-content-id="183829" stylelabs-content-type="Image" alt="Ascend_Tap-Cass-1.jpg" src="https://afl-delivery.stylelabs.cloud/api/public/content/Ascend_Tap-Cass-1?v=a4c5652f" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/183829/thumbnail" mediaid="" height="800" width="800" />
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: ASCEND Tap Cassettes
+    - ID: "8b978017-d437-40aa-b31d-bbf1d560a0cb"
+      Hint: DownloadFileLink
+      Value: |
+        <link id="{3587DF35-0918-4AC7-A7BE-D4912333D217}" querystring="" target="_blank" text="Download Specification Sheet" anchor="" title="" class="" linktype="internal" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7c5ac877-7378-477b-bf9b-ee4a882f98ad"
+    - ID: "93dc88f3-05e5-482d-9b9a-c859c8258a73"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="169704" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/169704/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/Ascend-High-Density-Platform-hero?v=4a26097a" stylelabs-content-type="Image" alt="Ascend.jpg" height="465" width="1336" />
+    - ID: "ab4c1906-c756-4771-818b-3683089665ee"
+      Hint: ProductMediaItems
+      Value: |
+        {DBD793C7-05F4-4832-89B2-C5DC8F091C40}
+        {E0B5DA36-D21F-46E3-9347-0F9EEC1FE7F9}
+        {EF0EAA34-99ED-4245-A90B-95226928D549}
+    - ID: "af4f5f0d-745a-4af7-aee7-2002f0430999"
+      Hint: ProductTitle
+      Value: ASCEND® Tap Cassettes
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d1f74386-05c3-4c80-aa18-38d21db05fdf"
+      Hint: ProductId
+      Value: 2708
+    - ID: "d93ad815-376a-43bf-b34b-cbad0b1b7128"
+      Hint: ProductLongDescription
+      Value: <p>   High demands placed on modern fiber optic networks requires effective monitoring to maintain optimal performance and troubleshoot system security or other signal issues.</p>  <p>   AFL&rsquo;s Tap Cassettes enable access points for monitoring live traffic signals in any fiber optic network.</p>  <p>   Available with a variety of options to accommodate different split ratios for tap/ pass thru and input/ output configurations, it is quick and easy to tap and route network signals for any application.</p>  
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231122T212528Z
+    - ID: "ef2f63f2-c942-49a5-9c43-ebcfec40337e"
+      Hint: ProductName
+      Value: ASCEND® Tap Cassettes
+    - ID: "fb72ff1d-6b1d-4970-916a-8162ff077e62"
+      Hint: ProcutItems
+      Value: |
+        {A216C36A-B949-49E6-86FD-261873070C0F}
+        {13B853A3-EC10-4682-B82C-4FE7E91FE667}
+        {F27A481B-8E2A-4CCD-906D-598736A0CCFA}
+        {FE4B8574-D294-4DFD-831C-4F405A9193E8}
+        {01ECC02D-9511-4FA1-A96E-659AFC7CB1B4}
+        {2E9B0B83-73D5-41C7-A050-BFDD5999F9EA}
+        {6A3F80D0-F21F-466E-8D1B-73DE5B5F0F1B}
+        {316EA0D5-EA9D-4732-9A57-B7B09FA74F79}
+        {16785C64-E911-41D6-952D-46F87B9BA2B6}
+        {4DE05D50-6C60-4351-A465-96BDF71A3483}
+        {169BE6A2-31CE-4BFA-BCDC-12B2BDCE1265}
+        {AF3E6466-2A12-4A6C-B9EC-5F7337899A4D}
+        {49E61244-0A99-4C38-9332-C64C7BD3FE74}
+        {677244B0-76D5-44F5-8CBA-B764A1966D75}
+        {7DEC9E18-34BD-4277-AA62-9567A528CFB3}

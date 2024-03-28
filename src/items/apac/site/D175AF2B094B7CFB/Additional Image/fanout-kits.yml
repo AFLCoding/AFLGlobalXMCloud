@@ -1,0 +1,38 @@
+﻿---
+ID: "9d9aa8f8-7eb0-4599-bd62-433353e24f95"
+Parent: "be3a5828-54dc-4e3b-be96-290943b625be"
+Template: "178e3cec-ca03-4c76-9ad3-122297e19e13"
+Path: "/sitecore/content/AFLGlobal/APAC/Home/Products/Fiber Optic Connectivity/Connectivity Accessories/Loose Tube Fanout Kits/Additional Image/fanout-kits"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220404T170532Z
+    - ID: "4f4e6526-41d1-4a67-ba95-3cf65c6a6462"
+      Hint: ImgaeUrl
+      Value: |
+        <image stylelabs-content-id="218315" src="https://afl-delivery.stylelabs.cloud/api/public/content/5b027ef7a5ea4e61a457a77f9be22049?v=156b86e6" stylelabs-content-type="Image" alt="Loose Tube Fanout Kits" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/218315/thumbnail" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mahesh
+    - ID: "80203708-a0db-4f4b-bd18-b5f74b33756d"
+      Hint: ImageTitle
+      Value: "fanout-kits"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5cf1a59c-ad31-4336-98ac-7890dd85f11e"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahesh
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220404T170532Z

@@ -1,0 +1,35 @@
+﻿---
+ID: "1154f578-6605-4e31-8787-791c20b6f875"
+Parent: "24227a0d-7d2c-4118-b6c8-dcda7d5041c6"
+Template: "c14b6289-8ac2-439c-9e5b-40de9f820c3f"
+Path: /sitecore/content/AFLGlobal/APAC/Home/Products/Fiber Optic Connectivity/Rack Mount Patch Panels/U Series/U Series 3RU Splice and Patch Panel
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "22753447-be25-4035-a3c9-7f875afe8e57"
+      Hint: RedirectUrl
+      Value: |
+        <link text="" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{BD4E4D6A-8146-4D22-8306-7D724FD6C742}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20221109T141443Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rafael
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rafael
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a92bddb6-ab03-48d6-98dc-371373c1766f"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rafael
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20221109T141552Z

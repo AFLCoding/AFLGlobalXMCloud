@@ -1,0 +1,38 @@
+﻿---
+ID: "462feebb-8f21-457c-93ca-b6ec8f02b634"
+Parent: "ab7ae8e9-d910-43ed-9954-b8abf047f475"
+Template: "178e3cec-ca03-4c76-9ad3-122297e19e13"
+Path: /sitecore/content/AFLGlobal/APAC/Home/Products/Test and Inspection/Test Management and Reporting Software/TRM 20  30   Test Results Manager PC Analysis and Reporting/Additional Image/TRM_Macrobend_Trace
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220603T211517Z
+    - ID: "4f4e6526-41d1-4a67-ba95-3cf65c6a6462"
+      Hint: ImgaeUrl
+      Value: |
+        <image stylelabs-content-id="238183" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/238183/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/f8c0913d869a40f49fcad7396e9d61a1?v=8f926fbd" mediaid="" stylelabs-content-type="Image" alt="2463" height="800" width="800" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rob
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rob
+    - ID: "80203708-a0db-4f4b-bd18-b5f74b33756d"
+      Hint: ImageTitle
+      Value: TRM_Macrobend_Trace
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ad2af687-d03c-4e45-9728-9113070fcee6"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rob
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220603T211534Z

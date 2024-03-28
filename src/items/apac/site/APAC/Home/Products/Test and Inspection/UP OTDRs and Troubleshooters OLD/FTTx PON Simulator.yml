@@ -1,0 +1,211 @@
+﻿---
+ID: "f969c594-40f9-4a30-b9fb-1204c9df3e32"
+Parent: "b88fe355-9b5c-4015-a2a5-be3c0e34e1ae"
+Template: "231b4589-f8fc-498f-b0f6-64fabecbc7b9"
+Path: /sitecore/content/AFLGlobal/APAC/Home/Products/Test and Inspection/UP OTDRs and Troubleshooters OLD/FTTx PON Simulator
+SharedFields:
+- ID: "1fbc6a49-6281-48ee-87e9-a3970b145adb"
+  Hint: NavigationFilter
+  Value: |
+    {E0A2A027-0932-4878-A7D6-0416D5263EFB}
+    {61BD64D6-809E-40AE-9297-2724A19329B3}
+    {D063E9D1-C7B5-4B1E-B31E-69886C9C59F5}
+    {500AE4C0-FA7B-463F-8149-EFFF7F044101}
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{8C5922A0-10CD-486E-841D-D3EBB0E4379F}"
+- ID: "9135200a-5626-4dd8-ab9d-d665b8c11748"
+  Hint: __Never publish
+  Value: 1
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{DAE7C21D-4D3B-4257-A95C-9104CD8AF409}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 101
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "16863469-616f-4d9e-a66f-02c79610ddaa"
+      Hint: ProductShortDescription
+      Value: "The FTTx PON Simulator from AFL is designed to simulate a wide variety of FTTx PON architectures. It is field-configurable to implement both single splitter and distributed splitter PONs and may be used for lab or table-top FTTx PON demonstration, evaluation, and testing applications."
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211229T041205Z
+    - ID: "36d9d67b-3610-4327-963e-e209239944d7"
+      Hint: ProductApplication
+      Value: |
+        <h3 style="font-size: 16px; padding-bottom: 5px;">Applications:</h3><ul class="productDetailApplications">
+         <li>Detects and measures PON upstream and downstream signals</li>
+         <li>PON network activation</li>
+         <li>BPON, EPON, GPON, 10G-EPON, XG-PON, XGS-PON, Video network verification and troubleshooting</li>
+         <li>Evaluate PON power level Pass/Fail based on limits</li>
+         
+         
+         
+         
+         
+         
+        </ul>
+    - ID: "41226286-5d9e-4f56-b67e-a86305f63ef2"
+      Hint: HeroLink4
+      Value: |
+        <link linktype="anchor" text="Get a Quote" url="alf-Form-section" anchor="alf-Form-section" />
+    - ID: "4dda6e0a-1c9d-4a8d-890f-11a8eddc2f11"
+      Hint: ProductFeatures
+      Value: |
+        <h3 style="font-size: 16px; padding-bottom: 5px;">Features:</h3><ul class="productDetailFeatures">
+         <li style="display: list-item;">Detect multiple wavelengths automatically - NO setup required!</li>
+         <li style="display: list-item;">Detects GPON, XGS-PON, and Video signals all at once</li>
+         <li style="display: list-item;">Rugged and water resistant, IP54 rating</li>
+         <li style="display: list-item;">Field-swappable connector adapters</li>
+         <li style="display: none;">Large color touchscreen display daylight viewable</li>
+         <li style="display: none;">Rechargeable Li-Polymer battery</li>
+         
+         
+         
+         
+        </ul>
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: FTTx PON Simulator
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\archana
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: "The FTTx PON Simulator from AFL is designed to simulate a wide variety of FTTx PON architectures. It is field-configurable to implement both single splitter and distributed splitter PONs and may be used for lab or table-top FTTx PON demonstration, evaluation, and testing applications."
+    - ID: "58d47758-922c-4daa-95ae-3cb9c3fee186"
+      Hint: HeroLink3
+      Value: |
+        <link linktype="anchor" text="Resources" url="alf-Resources-section" anchor="alf-Resources-section" />
+    - ID: "59ec008e-95ec-4c06-9189-09d4acaf1d7e"
+      Hint: ProductCategory
+      Value: "{6C4448CC-BB98-4BF6-A7C9-50F996D2B39D}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\archana
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: FTTx PON Simulator, FTTx PON demo, FTTx, PON, splitter
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: FTTx PON Simulator
+    - ID: "646d0f97-6838-4bff-800d-895747365401"
+      Hint: AFLDocumentList
+      Value: "{BDACF4D8-518C-4C02-9089-1D3E26725E29}"
+    - ID: "72653cc9-973c-4682-b5c7-26d926959f8f"
+      Hint: ProductImage
+      Value: |
+        <image stylelabs-content-id="46631" src="https://afl-delivery.stylelabs.cloud/api/public/content/778f6f31fdfe4d5b96c53e7d45ad9ccb?v=acc11514" stylelabs-content-type="Image" alt="FTTx PON Simulator" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/46631/thumbnail" />
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: FTTx PON Simulator
+    - ID: "8b978017-d437-40aa-b31d-bbf1d560a0cb"
+      Hint: DownloadFileLink
+      Value: |
+        <link id="{B75B6A83-F060-4152-8BD3-1B66475BF578}" querystring="" target="_blank" text="SPECIFICATION SHEET" anchor="" title="" class="" url="/sitecore/media library/Project/AFL-Global/Product Specification Sheet/Test and Inspection/OTDR and Troubleshooters/FTTx-00-2000" linktype="media" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9490f578-0c91-4173-985a-70414a9748ca"
+    - ID: "93dc88f3-05e5-482d-9b9a-c859c8258a73"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="169953" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/169953/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/38ce45efee0f43d3861659e585b027e0?v=11e1f93e" stylelabs-content-type="Image" alt="Optical_Loss_Test.jpg" height="465" width="1336" />
+    - ID: "a40ebd3d-2b41-41fb-90f7-753544ce77c5"
+      Hint: Hero Title1
+      Value: FTTx PON Simulator
+    - ID: "ab4c1906-c756-4771-818b-3683089665ee"
+      Hint: ProductMediaItems
+      Value: |
+        {C61DD751-7880-488E-BB06-C3B8CED23DA9}
+        {026D748C-82C1-4449-A68B-C9FD1C0CFC3D}
+        {2C62B364-5B17-42BF-BA9C-F6A952262D19}
+        {ED6B97AA-72CA-4B75-B899-0649DEBE24C5}
+        {F174D6BC-2FBC-42C2-872D-1172DA4F3F51}
+        {FEF87891-E495-4B5B-A72B-7188025BF400}
+        {16D51127-65D7-489E-926D-7C1450DCCCD6}
+        {3206FC70-D009-41E3-A8C0-0436C1D7CE20}
+        {BC345D10-1312-4B26-BAC4-6A70F5EE8595}
+        {C5D3E76E-CAD1-48B4-B15F-F5F2B2A1507C}
+        {D96EA600-33D0-4C6B-8089-2D800CBC3B1D}
+        {754CA5E5-E8A2-4EC8-8D80-CA582D29953E}
+        {C8F82F0D-6841-4CB1-B2A6-ACC61F99178B}
+        {2D6DE030-3D21-4DBF-A32E-7F6CE244C188}
+        {58772112-2C5E-4A3A-84C3-C1216BEDE83F}
+        {A6290E8F-A936-410F-9BB0-F6FA6DB61051}
+        {455B8F0B-2320-4C4E-99B2-FA237A17B979}
+        {1B8AD81D-B1D6-44DD-89CD-ECE7188C3DD7}
+        {E4680750-A028-40C0-A6FC-0F749BCF2718}
+        {0CF6CF2E-9BBE-4151-9DF4-AA4F266E3C8E}
+        {FCACFAE8-8C5E-4239-83ED-FB151098E4AE}
+        {B37C9261-2A61-44E6-BAB3-B71ADC540D80}
+        {EEA27315-F234-4A1B-958B-AE92930BA80A}
+        {C0953E08-D00D-4843-8D69-966F50F0B6C1}
+        {B3E218A6-ADA3-4FA9-A8D4-E47B61464C7B}
+        {7B35AEEC-750D-45F3-A57A-4EE89695537B}
+        {2DB0EBED-5400-404F-9831-B1D73F7D884E}
+        {9CAE7C09-5312-4BDB-B03F-8834A98C5FB9}
+        {09C76C9E-26D0-4B83-BA14-7AC92B7EE6B1}
+        {8C07FB1B-22E0-429D-A61A-994401EA5085}
+        {5BED3B6A-B82A-4A87-BE6B-D621451288DE}
+        {891C8C68-0B05-4222-B1CA-A23E032F7682}
+        {68F02B35-3095-41C0-BF89-A192CA07B544}
+        {5422A30F-E53C-41FD-B453-7405F641F1E2}
+    - ID: "af4f5f0d-745a-4af7-aee7-2002f0430999"
+      Hint: ProductTitle
+      Value: FTTx PON Simulator
+    - ID: "b0b3b4da-e924-4a2d-be19-ec90a4e96f16"
+      Hint: HeroLink2
+      Value: |
+        <link linktype="anchor" text="Description" url="alf-description-section" anchor="alf-description-section" />
+    - ID: "b4c4c695-39e8-4d38-b0ed-4f3f8a9a9c83"
+      Hint: ProductDescriptionHeading
+      Value: Product Description
+    - ID: "b9f9f593-7299-41ca-94d0-cb5fcdbd6fba"
+      Hint: HeroLink1
+      Value: |
+        <link linktype="anchor" text="Features" url="alf-feature-section" anchor="alf-feature-section" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d1f74386-05c3-4c80-aa18-38d21db05fdf"
+      Hint: ProductId
+      Value: 1010
+    - ID: "d93ad815-376a-43bf-b34b-cbad0b1b7128"
+      Hint: ProductLongDescription
+      Value: |
+        <style type="text/css">  table {border-collapse:collapse;}  table, td, tr {border:1px solid #000000:}  tr:first-child {font-weight:bold;}  tr:nth-child(odd) { background: #ffffff;}  tr:nth-child(even) { background: #95d2f8;}  td {padding: 1px 1px 1px 2px;}</style>  <p>   The FTTx PON Simulator from&nbsp;AFL is designed to simulate a wide variety of FTTx PON architectures. It is field-configurable to&nbsp;implement both single splitter and distributed splitter PONs, including:</p>  <ul>   <li>    Single splitter PON: 1x16, 1x32, 1x64, 1x128</li>   <li>    Distributed splitter PON: 1x4 + 1x8, 1x4 + 1x16, 2 x 1x8.</li>  </ul>  <p>   The field-portable FTTx PON Demo Kit may be used for lab or table-top FTTx PON demonstration, evaluation, and testing applications. &nbsp;The demo kit includes:</p>  <ul>   <li>    Multiple splitters with split ratios of 1x2, 1x4, and 1x8;</li>   <li>    4 km fiber network with connector, splice and macro-bend events;</li>   <li>    Fiber rings in various lengths up to 1 km to simulate distribution and drop fibers;</li>   <li>    Jumper cables and bulkhead adapters to configure various PON architectures;</li>   <li>    Splitters, fiber rings, and fiber network are terminated with SC/APC connectors;</li>   <li>    Rolling, hard-shell carry case.</li>  </ul>  <p>   The FTTx PON Demo Kit is designed for a variety of users and applications, including:</p>  <ul>   <li>    <strong>Network designers</strong>: Configure and test various PON architectures in a lab environment</li>   <li>    <strong>Fiber Optic installation teams and trainers</strong>: Develop, verify and practice PON test methods</li>   <li>    <strong>Equipment manufacturers</strong>: Test and verify FTTx PON equipment designs on various PON configurations</li>   <li>    <strong>Sales engineers</strong>: Enable field-portable demonstrations of FTTx PON network and test equipment.</li>  </ul>  <h3>   Ordering Information:</h3>  <table border="1" cellpadding="0" cellspacing="0">   <tbody>    <tr>     <td style="width: 187px;">      <strong>Model</strong></td>     <td style="width: 499px;">      <strong>Description</strong></td>    </tr>    <tr>     <td style="width: 187px;">      PONS-00-0901PZ</td>     <td style="width: 499px;">      FTTx PON Simulator kit includes:<br />      (1) FTTx PON splitter box, (4) fiber rings, (3) SC/APC jumpers, (2) hybrid jumpers, (1) PON demo procedure, (1) carry case.&nbsp;&nbsp;</td>    </tr>   </tbody>  </table>  <br />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231122T212535Z
+    - ID: "ef2f63f2-c942-49a5-9c43-ebcfec40337e"
+      Hint: ProductName
+      Value: FTTx PON Simulator
+    - ID: "f68efc18-7857-4353-b933-34beb7947b98"
+      Hint: CTALink
+      Value: |
+        <link text="LOAD MORE" linktype="anchor" url="#" anchor="#" title="" class="" />
+    - ID: "fb72ff1d-6b1d-4970-916a-8162ff077e62"
+      Hint: ProcutItems
+      Value: |
+        {7502B3D5-A205-4A7F-8104-08E3D53E00D5}
+        {C31C2D61-0387-436F-AC41-01E679511392}
+        {D53C05A1-FD4C-427E-8812-A05F9F65708A}
+        {84C27700-2377-4795-ABB6-7A7154D95403}
+        {3EA3970D-58C9-446C-8200-F6C5EE901F6B}
+        {8CE5A75E-8948-400B-938F-3AF9C34823D3}
+        {3B21C403-C5AB-47C7-81BC-C757F68819D8}
+        {C942D14E-12FB-468B-A8A2-96CB150C250F}
+        {4CB4B513-E071-4C55-956F-F149AB5F4112}
+        {B848144D-FBFB-46AE-A7FD-2EA4053631F4}
+        {787DD9BC-EDA7-4251-B706-A4DCA79ED638}
+        {F7D3DC6B-0A5B-436A-9966-86F40F1AA7FE}
+        {E563C707-D3A1-46ED-AA5E-1E944039E008}
+        {C5B2268A-ECC9-463E-B8AA-72A5ABB04547}
+        {0E0E54E5-2A23-4D43-A12D-1C51FFC3E664}

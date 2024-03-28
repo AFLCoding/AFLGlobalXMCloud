@@ -1,0 +1,144 @@
+﻿---
+ID: "ec06cabe-9a08-48d1-94a3-e73ba19f0aaa"
+Parent: "4d3db5c6-b30c-4f1a-bff6-961f273fca0b"
+Template: "231b4589-f8fc-498f-b0f6-64fabecbc7b9"
+Path: /sitecore/content/AFLGlobal/APAC/Home/Products/Test and Inspection/Test Management and Reporting Software/ROGUE OLTSCertification App
+SharedFields:
+- ID: "1fbc6a49-6281-48ee-87e9-a3970b145adb"
+  Hint: NavigationFilter
+  Value: |
+    {E0A2A027-0932-4878-A7D6-0416D5263EFB}
+    {61BD64D6-809E-40AE-9297-2724A19329B3}
+    {D063E9D1-C7B5-4B1E-B31E-69886C9C59F5}
+    {500AE4C0-FA7B-463F-8149-EFFF7F044101}
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{DA631FB5-51B3-49F6-9915-732D093CF221}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: 
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 101
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "16863469-616f-4d9e-a66f-02c79610ddaa"
+      Hint: ProductShortDescription
+      Value: By pairing ROGUE® modules with smart device apps, AFL’s patent pending architecture enables users to control their test hardware directly from most Android devices.
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220303T154400Z
+    - ID: "36d9d67b-3610-4327-963e-e209239944d7"
+      Hint: ProductApplication
+      Value: |
+        <h3 style="font-size: 16px; padding-bottom: 5px;">Applications:</h3><ul class="productDetailApplications">
+        	<li>Tier 1 testing of premise networks</li>
+        	<li>Bi-directional testing on 2 links at once</li>
+        	<li>Multi-function testing: loss, length, ORL, certification</li>
+        	<li>Integrate with Multi-fibre switch for MPO OLTS testing</li>
+        	
+        	
+        	
+        	
+        	
+        	
+        </ul>
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: 
+    - ID: "4dda6e0a-1c9d-4a8d-890f-11a8eddc2f11"
+      Hint: ProductFeatures
+      Value: |
+        <h3 style="font-size: 16px; padding-bottom: 5px;">Features:</h3><ul class="productDetailFeatures">
+        	<li>Available for most Android smart devices</li>
+        	<li>Automatic sync of test configurations and results</li>
+        	<li>Simple to use, familiar user interface</li>
+        	<li>Real-time, on-site test data validation</li>
+        	
+        	
+        	
+        	
+        	
+        	
+        </ul>
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: ROGUE OLTSCertification App
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\archana
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: "ROGUE® Optical Loss Test Set (OLTS) Tier 1 Certification App supports single fiber loss testing.  With two bi-directional engines you test both fibers in both directions on 2 wavelength with a push of a button on your smart device.  The Cert app turns ROGUE into a full Tier 1 certification test set."
+    - ID: "59ec008e-95ec-4c06-9189-09d4acaf1d7e"
+      Hint: ProductCategory
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\archana
+    - ID: "5e650555-c7f0-456a-8185-f69388169cbc"
+      Hint: MetaKeywords
+      Value: "rogue, AFL, fiber optic test, aeros, android, certification, cloud-based, inspection, integrated maxtester, mpo, mtp, multifiber, multimode, multi-mode, single mode, single-mode, smart device, tier 1, turbo, workflow, data, project, platform, upload, process, communication, fiber, job, technician, project, push, efficient, secure, storage, opex, capex, instrument, manager, criteria, software, hardware, application, app, smart, device, enterprise, telecommunications, fast, accurate, smart, device, Fluke, Versiv, Viavi, Exfo"
+    - ID: "60d29626-f584-4bc5-b7c1-8d5c39a77b07"
+      Hint: Title
+      Value: ROGUE OLTSCertification App
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: ROGUE OLTSCertification App
+    - ID: "8b978017-d437-40aa-b31d-bbf1d560a0cb"
+      Hint: DownloadFileLink
+      Value: |
+        <link id="{A62F9444-0FB6-4687-89C8-A9C8B4D0C19A}" querystring="" target="_blank" text="SPECIFICATION SHEET" anchor="" title="" class="" url="/sitecore/media library/Project/AFL-Global/Product Specification Sheet/Test and Inspection/Software/rgm-turbo-2000" linktype="media" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3bd762f9-0770-45b3-ad3a-fe3d82fbc924"
+    - ID: "93dc88f3-05e5-482d-9b9a-c859c8258a73"
+      Hint: HeroBackgroundImage
+      Value: |
+        <image mediaid="" stylelabs-content-id="169953" thumbnailsrc="https://afl.stylelabs.cloud/api/gateway/169953/thumbnail" src="https://afl-delivery.stylelabs.cloud/api/public/content/38ce45efee0f43d3861659e585b027e0?v=5e8a9911" stylelabs-content-type="Image" alt="Optical_Loss_Test.jpg" height="465" width="1336" />
+    - ID: "ab4c1906-c756-4771-818b-3683089665ee"
+      Hint: ProductMediaItems
+      Value: "{6802F0BF-C63C-43EC-AC6B-6CC6CFE91D20}"
+    - ID: "af4f5f0d-745a-4af7-aee7-2002f0430999"
+      Hint: ProductTitle
+      Value: ROGUE® OLTS/Certification App
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Abhishek
+    - ID: "d1f74386-05c3-4c80-aa18-38d21db05fdf"
+      Hint: ProductId
+      Value: 1758
+    - ID: "d93ad815-376a-43bf-b34b-cbad0b1b7128"
+      Hint: ProductLongDescription
+      Value: |
+        <h2>   <strong>ROGUE</strong><strong style="color: rgb(61, 61, 61); font-size: 12px;">&reg;</strong><strong>&nbsp;OLTS/Certification App</strong></h2>  <br />  <strong>Built around you and the way you test your network</strong><br />  <br />  AFL&#39;s apps work seamlessly with the aeRos&reg; cloud and ROGUE hardware platform to create just the test capabilities needed for a particular job.&nbsp;Test configurations and instructions are pushed from AFL&rsquo;s aeRos cloud solution to&nbsp;a smart device app to simplify the process for technicians. Technicians receive a notification on their smart device and can perform required tests. When the testing is complete, the results automatically and seamlessly synchronize with the cloud. No more waiting for the technician to return with the USB stick and manually transfer the data. Instead you get instant access to the testing results.&nbsp;<br />  <br />  You could start with a simple OLTS test kit that supports single fiber loss testing. Add a second OLTS module and now you can test two fibers simultaneously. And, with two bi-directional engines, you can even test both fibers in both directions on 2 wavelengths.&nbsp; All with the push of a button on your smart phone. ROGUE users can easily turn the OLTS solution into a full Tier 1 certifier simply by adding a certification app.&nbsp; Adding additional functionality is as simple as downloading another app.<br />  <br />  <br />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231122T212534Z
+    - ID: "ef2f63f2-c942-49a5-9c43-ebcfec40337e"
+      Hint: ProductName
+      Value: ROGUE® OLTS/Certification App
+    - ID: "fb72ff1d-6b1d-4970-916a-8162ff077e62"
+      Hint: ProcutItems
+      Value: |
+        {7502B3D5-A205-4A7F-8104-08E3D53E00D5}
+        {C31C2D61-0387-436F-AC41-01E679511392}
+        {D53C05A1-FD4C-427E-8812-A05F9F65708A}
+        {84C27700-2377-4795-ABB6-7A7154D95403}
+        {3EA3970D-58C9-446C-8200-F6C5EE901F6B}
+        {8CE5A75E-8948-400B-938F-3AF9C34823D3}
+        {3B21C403-C5AB-47C7-81BC-C757F68819D8}
+        {C942D14E-12FB-468B-A8A2-96CB150C250F}
+        {4CB4B513-E071-4C55-956F-F149AB5F4112}
+        {B848144D-FBFB-46AE-A7FD-2EA4053631F4}
+        {787DD9BC-EDA7-4251-B706-A4DCA79ED638}
+        {F7D3DC6B-0A5B-436A-9966-86F40F1AA7FE}
+        {E563C707-D3A1-46ED-AA5E-1E944039E008}
+        {C5B2268A-ECC9-463E-B8AA-72A5ABB04547}
+        {0E0E54E5-2A23-4D43-A12D-1C51FFC3E664}
