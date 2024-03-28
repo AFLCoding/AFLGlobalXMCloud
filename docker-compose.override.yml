@@ -36,12 +36,38 @@ services:
       - "traefik.http.routers.rendering-secure.rule=Host(`${RENDERING_HOST}`)"
       - "traefik.http.routers.rendering-secure.tls=true"
 
+  renderingsiteb:
+    image: ${REGISTRY}${COMPOSE_PROJECT_NAME}-renderingsiteb:${VERSION:-latest}
+    build:
+      context: ./docker/build/renderingsiteb
+      target: ${BUILD_CONFIGURATION}
+      args:
+        PARENT_IMAGE: ${REGISTRY}${COMPOSE_PROJECT_NAME}-nodejs:${VERSION:-latest}
+    volumes:
+      - .\src\aflglobal:C:\appsiteb
+    environment:
+      SITECORE_API_HOST: "http://cm"
+      NEXTJS_DIST_DIR: ".next-container-siteb"
+      PUBLIC_URL: "https://${RENDERING_HOST_SITEB}"
+      JSS_EDITING_SECRET: ${JSS_EDITING_SECRET}
+      SITECORE_API_KEY: "${SITECORE_API_KEY_xmcloudpreview}"
+      DISABLE_SSG_FETCH: ${DISABLE_SSG_FETCH}
+    depends_on:
+      - cm
+      - nodejs
+    labels:
+      - "traefik.enable=true"
+      - "traefik.http.routers.renderingsiteb-secure.entrypoints=websecure"
+      - "traefik.http.routers.renderingsiteb-secure.rule=Host(`${RENDERING_HOST_SITEB}`)"
+      - "traefik.http.routers.renderingsiteb-secure.tls=true"
+
   # Mount the Traefik configuration and certs.
   traefik:
     volumes:
       - ./docker/traefik:C:/etc/traefik
     depends_on:
       - rendering
+      - renderingsiteb
 
   # Mount our SQL data folder and use our custom image with the Headless Services (JSS)
   # module data added. See Dockerfile for details.

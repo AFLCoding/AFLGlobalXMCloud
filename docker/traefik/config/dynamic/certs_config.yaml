@@ -2,5 +2,7 @@ tls:
   certificates:
     - certFile: C:\etc\traefik\certs\_wildcard.aflglobal.localhost.pem
       keyFile: C:\etc\traefik\certs\_wildcard.aflglobal.localhost-key.pem
+    - certFile: C:\etc\traefik\certs\_wildcard.aflglobalsiteb.localhost.pem
+      keyFile: C:\etc\traefik\certs\_wildcard.aflglobalsiteb.localhost-key.pem
     - certFile: C:\etc\traefik\certs\aflglobal.xmcloudcm.localhost.pem
       keyFile: C:\etc\traefik\certs\aflglobal.xmcloudcm.localhost-key.pem
