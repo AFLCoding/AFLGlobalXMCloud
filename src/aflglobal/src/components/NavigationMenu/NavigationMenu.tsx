@@ -6,7 +6,11 @@ import DesktopNavigationMenu from 'src/core/molecules/DesktopNavigationMenu/Desk
 const NavigationMenu = () => {
   const props: NavigationMenuProps = navigationMenuProps;
   const isMediumScreen = useIsMediumScreen();
-  return isMediumScreen ? <MobileNavigationMenu {...props} /> : <DesktopNavigationMenu {...props} />;
+  return isMediumScreen ? (
+    <MobileNavigationMenu {...props} />
+  ) : (
+    <DesktopNavigationMenu {...props} />
+  );
 };
 
 export default NavigationMenu;
